@@ -8,27 +8,27 @@ SDG_INDICATOR: >-
   international poverty line by sex, age, employment status and geographic
   location (urban/rural)
 SDG_SERIES_DESCR: >-
-
+  test
 META_LAST_UPDATE: >-
-
+  test
 SDG_RELATED_INDICATORS: >-
-
+  test
 SDG_CUSTODIAN_AGENCIES: >-
-
+  test
 CONTACT_ORGANISATION: >-
-
+  test
 CONTACT_NAME: >-
-
+  test
 ORGANISATION_UNIT: >-
-
+  test
 CONTACT_FUNCT: >-
-
+  test
 CONTACT_PHONE: >-
-
+  test
 CONTACT_MAIL: >-
-
+  test
 CONTACT_EMAIL: >-
-
+  test
 STAT_CONC_DEF: >- 
   ## Definition:
   
@@ -63,47 +63,48 @@ STAT_CONC_DEF: >-
   households that are classified as poor, that is, that have income or
   consumption levels below the poverty line used for measurement.
 UNIT_MEASURE: >-
-
+  test
 CLASS_SYSTEM: >-
-
+  test
 SOURCE_TYPE: >-
-
+  test
 COLL_METHOD: >-
-
+  test
 FREQ_COLL: >-
-
+  test
 REL_CAL_POLICY: >-
-
+  test
 DATA_SOURCE: >-
-
+  test
 COMPILING_ORG: >-
-
+  test
 INST_MANDATE: >-
-
+  test
 RATIONALE: >-
-
+  test
 REC_USE_LIM: >-
-
+  test
 DATA_COMP: >-
-
+  test
 DATA_VALIDATION: >-
-
+  test
 ADJUSTMENT: >-
-
+  test
 IMPUTATION: >-
-
+  test
 REG_AGG: >-
-
+  test
 DOC_METHOD: >-
-
+  test
 QUALITY_MGMNT: >-
-
+  test
 QUALITY_ASSURE: >-
-
+  test
 QUALITY_ASSMNT: >-
-
+  test
 COVERAGE: >-
-
+  test
 COMPARABILITY: >-
-
+  test
 OTHER_DOC: >-
+  test
