@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "C",
+                "Total by area",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
