@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  - ro
 
 # Destination directory
 # ---------------------
@@ -72,8 +72,8 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.1.0
+    source: https://github.com/statisticamd/sdg-translations.git
+    tag: 2.2.0-dev
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
