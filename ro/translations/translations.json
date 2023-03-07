@@ -1,24 +1,24 @@
 {
 	"calendar": {
-		"April": "April",
+		"April": "Aprilie",
 		"August": "August",
-		"December": "December",
-		"February": "February",
-		"January": "January",
-		"July": "July",
-		"June": "June",
-		"March": "March",
-		"May": "May",
-		"November": "November",
-		"October": "October",
-		"September": "September"
+		"December": "Decembrie",
+		"February": "Februarie",
+		"January": "Ianuarie",
+		"July": "Iulie",
+		"June": "Iunie",
+		"March": "Martie",
+		"May": "Mai",
+		"November": "Noiembrie",
+		"October": "Octombrie",
+		"September": "Septembrie"
 	},
 	"cookies": {
-		"acceptAll": "Accept all",
-		"acceptSelected": "Accept selected",
+		"acceptAll": "Accepta toate",
+		"acceptSelected": "Accepta cele selectate",
 		"all_required_notice": "We use some essential cookies to make this service work. They always need to be on.",
 		"all_required_ok": "OK",
-		"close": "Close",
+		"close": "Închide",
 		"consentModal_description": "Here you can change which cookies you're happy for us to use.",
 		"consentModal_title": "Cookie settings",
 		"consentNotice_changeDescription": "The cookies used on this site have changed since you last visited, please renew your consent.",
@@ -58,7 +58,7 @@
 		"service_required_title": "(always required)"
 	},
 	"data": {
-		"Year": "Year"
+		"Year": "An"
 	},
 	"frontpage": {
 		"download_all": "Download all data (.zip)",
@@ -95,8 +95,8 @@
 		"twitter": "Twitter"
 	},
 	"global_goals": {
-		"1-short": "No poverty",
-		"1-title": "End poverty in all its forms everywhere",
+		"1-short": "Fără sărăcie",
+		"1-title": "Încheiați sărăcia în toate formele ei, pretutindeni",
 		"10-short": "Reduced inequalities",
 		"10-title": "Reduce inequality within and among countries",
 		"11-short": "Sustainable cities and communities",
@@ -131,7 +131,7 @@
 		"9-title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
 	},
 	"global_indicators": {
-		"1-1-1-title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
+		"1-1-1-title": "Proporția populației care trăiește sub pragul internațional de sărăcie în funcție de sex, vârstă, statut de angajare și locație geografică (urban/rural)",
 		"1-2-1-title": "Proportion of population living below the national poverty line, by sex and age",
 		"1-2-2-title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
 		"1-3-1-title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
@@ -385,7 +385,7 @@
 		"9-c-1-title": "Proportion of population covered by a mobile network, by technology"
 	},
 	"global_targets": {
-		"1-1-title": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+		"1-1-title": "Până în 2030, eradicați sărăcia extremă pentru toți oamenii de pretutindeni, măsurată în prezent ca oameni care trăiesc cu mai puțin de 1,25 USD pe zi",
 		"1-2-title": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
 		"1-3-title": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
 		"1-4-title": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
@@ -558,12 +558,12 @@
 	"goal": {
 		"description": "Click on each goal to see statistics for %country.name Sustainable Development Goal global indicators.",
 		"indicators_for_goal": "View targets and indicators for Goal",
-		"next": "Next goal",
-		"previous": "Previous goal"
+		"next": "Următorul obiectiv",
+		"previous": "Obiectivul precedent"
 	},
 	"header": {
-		"alpha": "Alpha",
-		"default_contrast": "Default contrast",
+		"alpha": "Alfa",
+		"default_contrast": "Contrast implicit",
 		"disable_high_contrast": "Disable high contrast",
 		"disclaimer": "This is a development website. We welcome your <a href=\"mailto:%email_contacts.suggestions\">feedback</a>.",
 		"enable_high_contrast": "Enable high contrast",
@@ -584,8 +584,8 @@
 		"announce_data_added": "Chart and table updated to include data.",
 		"announce_data_not_available": "Chart and table shows no data.",
 		"announce_data_removed": "Chart and table updated to exclude data.",
-		"apply": "Apply",
-		"cancel": "Cancel",
+		"apply": "Aplica",
+		"cancel": "Anulare",
 		"change_breakdowns": "Change breakdowns",
 		"chart": "Chart",
 		"chart_annotation": "Chart annotation",
@@ -689,15 +689,15 @@
 		"zh-Hans": "中文"
 	},
 	"menu": {
-		"about": "About",
-		"contact_us": "Contact us",
+		"about": "Despre",
+		"contact_us": "Contactaţi-ne",
 		"cookies": "Cookies",
 		"faq": "FAQ",
-		"guidance": "Guidance",
-		"menu": "Menu",
-		"publications": "Publications",
+		"guidance": "Îndrumare",
+		"menu": "Meniu",
+		"publications": "Publicaţii",
 		"reporting_status": "Reporting Status",
-		"updates": "Updates"
+		"updates": "Actualizări"
 	},
 	"metadata_fields": {
 		"ADJUSTMENT": "Adjustments",
@@ -829,7 +829,7 @@
 		"un_designated_tier": "UN designated tier"
 	},
 	"post": {
-		"posts_by_category": "Posts by Category",
+		"posts_by_category": "Postări după categorie",
 		"view_all_in_category": "View all posts in the %category_name category"
 	},
 	"search": {
@@ -838,11 +838,11 @@
 		"found_in": "found in",
 		"indicator_search": "Indicator search",
 		"keywords": "Keywords",
-		"no_results": "No results",
-		"results_found": "Results found",
-		"search": "Search",
-		"search_results_for": "Search results for",
-		"site_search": "Site search"
+		"no_results": "Fara rezultate",
+		"results_found": "Rezultate găsite",
+		"search": "Cauta",
+		"search_results_for": "Cauta rezultate pentru",
+		"site_search": "Cautare site"
 	},
 	"status": {
 		"description": "Reporting status provides an overview of how much Sustainable Development Goal (SDG) data %country.name reports.",
