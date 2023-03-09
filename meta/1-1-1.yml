@@ -71,6 +71,7 @@ STAT_CONC_DEF: >-
   poor, that is, that have income or consumption levels below the poverty line
   used for measurement.
 UNIT_MEASURE: ''
+PERIODICITY: <p>Annual</p>
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: ''
