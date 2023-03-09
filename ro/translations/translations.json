@@ -1,6 +1,6 @@
 {
 	"calendar": {
-		"April": "Aprilie",
+		"April": "April",
 		"August": "August",
 		"December": "December",
 		"February": "February",
@@ -61,28 +61,28 @@
 		"Year": "Year"
 	},
 	"frontpage": {
-		"download_all": "Descarca toate datele (.zip)",
-		"file_size": "Marime",
+		"download_all": "Download all data (.zip)",
+		"file_size": "Size",
 		"heading": "%country.name data for Sustainable Development Goal indicators",
 		"heading_short": "%country.name data for the Sustainable Development Goals",
 		"instructions": "Click on each goal, or %before_link search, %after_link for %country.name statistics for Sustainable Development Goal global indicators.",
-		"instructions_short": "Faceți clic pe fiecare obiectiv pentru datele indicatorului global al Obiectivului de dezvoltare durabilă %country.name.",
-		"instructions_shorter": "Selectați fiecare obiectiv pentru datele indicatorului.",
-		"intro_body": "<a href=\"https://www.un.org/sustainabledevelopment/sustainable-development-goals/\">Obiectivele de dezvoltare durabilă (ODD)</a> sunt un apel universal la acțiune pentru a pune capăt sărăciei, a proteja planetă și să îmbunătățească viețile și perspectivele tuturor, de pretutindeni. Cele 17 obiective au fost adoptate de toate statele membre ONU în 2015, ca parte a <a href=\"http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang =E\">Agenda 2030 pentru dezvoltare durabilă</a>.",
-		"intro_title": "17 obiective pentru a ne transforma lumea",
-		"zip_file": "Fisiere ZIP"
+		"instructions_short": "Click on each goal for %country.name Sustainable Development Goal global indicator data.",
+		"instructions_shorter": "Select each goal for indicator data.",
+		"intro_body": "The <a href=\"https://www.un.org/sustainabledevelopment/sustainable-development-goals/\">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=\"http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E\">2030 Agenda for Sustainable Development</a>.",
+		"intro_title": "17 goals to transform our world",
+		"zip_file": "ZIP file"
 	},
 	"general": {
-		"back_to_top": "Inapoi sus",
-		"built_using_open_sdg": "Construit folosind Open SDG",
+		"back_to_top": "Back to top",
+		"built_using_open_sdg": "Built using Open SDG",
 		"facebook": "Facebook",
 		"goal": "Goal",
 		"goals": "Goals",
 		"hide": "hide",
-		"home": "Acasa",
+		"home": "Home",
 		"indicator": "Indicator",
-		"indicators": "Indicatori",
-		"label_warning": "Avertizare:",
+		"indicators": "Indicators",
+		"label_warning": "Warning:",
 		"loading": "Loading search results",
 		"opens_new_window": "opens in a new window",
 		"page": "Page",
@@ -95,8 +95,8 @@
 		"twitter": "Twitter"
 	},
 	"global_goals": {
-		"1-short": "Fără sărăcie",
-		"1-title": "Încheiați sărăcia în toate formele ei, pretutindeni",
+		"1-short": "No poverty",
+		"1-title": "End poverty in all its forms everywhere",
 		"10-short": "Reduced inequalities",
 		"10-title": "Reduce inequality within and among countries",
 		"11-short": "Sustainable cities and communities",
@@ -131,7 +131,7 @@
 		"9-title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
 	},
 	"global_indicators": {
-		"1-1-1-title": "Proporția populației care trăiește sub pragul internațional de sărăcie în funcție de sex, vârstă, statut de angajare și locație geografică (urban/rural)",
+		"1-1-1-title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
 		"1-2-1-title": "Proportion of population living below the national poverty line, by sex and age",
 		"1-2-2-title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
 		"1-3-1-title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
@@ -385,7 +385,7 @@
 		"9-c-1-title": "Proportion of population covered by a mobile network, by technology"
 	},
 	"global_targets": {
-		"1-1-title": "Până în 2030, eradicarea sărăciei extreme pentru toți oamenii de pretutindeni, măsurată în prezent ca oameni care trăiesc cu mai puțin de 1,25 USD pe zi",
+		"1-1-title": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
 		"1-2-title": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
 		"1-3-title": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
 		"1-4-title": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
@@ -556,13 +556,13 @@
 		"9-c-title": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020"
 	},
 	"goal": {
-		"description": "Faceți clic pe fiecare obiectiv pentru a vedea statistici pentru indicatorii globali ai obiectivului de dezvoltare durabilă %country.name.",
+		"description": "Click on each goal to see statistics for %country.name Sustainable Development Goal global indicators.",
 		"indicators_for_goal": "View targets and indicators for Goal",
-		"next": "Următorul obiectiv",
-		"previous": "Obiectivul precedent"
+		"next": "Next goal",
+		"previous": "Previous goal"
 	},
 	"header": {
-		"alpha": "Alfa",
+		"alpha": "Alpha",
 		"default_contrast": "Default contrast",
 		"disable_high_contrast": "Disable high contrast",
 		"disclaimer": "This is a development website. We welcome your <a href=\"mailto:%email_contacts.suggestions\">feedback</a>.",
@@ -689,15 +689,15 @@
 		"zh-Hans": "中文"
 	},
 	"menu": {
-		"about": "Despre",
-		"contact_us": "Contactaţi-ne",
+		"about": "About",
+		"contact_us": "Contact us",
 		"cookies": "Cookies",
 		"faq": "FAQ",
-		"guidance": "Ghiduri",
-		"menu": "Meniu",
-		"publications": "Publicații",
-		"reporting_status": "Starea raportării",
-		"updates": "Actualizări"
+		"guidance": "Guidance",
+		"menu": "Menu",
+		"publications": "Publications",
+		"reporting_status": "Reporting Status",
+		"updates": "Updates"
 	},
 	"metadata_fields": {
 		"ADJUSTMENT": "Adjustments",
