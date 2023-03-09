@@ -372,6 +372,12 @@ prose:
             label: Unit of measure
             translation_key: metadata_fields.UNIT_MEASURE
             scope: national
+      - name: PERIODICITY
+        field:
+            element: text
+            label: Periodicity
+            translation_key: metadata_fields.PERIODICITY
+            scope: national
       - name: CLASS_SYSTEM
         field:
             element: text
