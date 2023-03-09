@@ -14,8 +14,8 @@
 		"September": "September"
 	},
 	"cookies": {
-		"acceptAll": "Accept all",
-		"acceptSelected": "Accept selected",
+		"acceptAll": "Accepta toate",
+		"acceptSelected": "Accepta selectate",
 		"all_required_notice": "We use some essential cookies to make this service work. They always need to be on.",
 		"all_required_ok": "OK",
 		"close": "Close",
@@ -58,35 +58,35 @@
 		"service_required_title": "(always required)"
 	},
 	"data": {
-		"Year": "Year"
+		"Year": "An"
 	},
 	"frontpage": {
-		"download_all": "Download all data (.zip)",
-		"file_size": "Size",
+		"download_all": "Descarca toate datele (.zip)",
+		"file_size": "Marimea",
 		"heading": "%country.name data for Sustainable Development Goal indicators",
 		"heading_short": "%country.name data for the Sustainable Development Goals",
 		"instructions": "Click on each goal, or %before_link search, %after_link for %country.name statistics for Sustainable Development Goal global indicators.",
 		"instructions_short": "Click on each goal for %country.name Sustainable Development Goal global indicator data.",
-		"instructions_shorter": "Select each goal for indicator data.",
+		"instructions_shorter": "Selectați fiecare obiectiv pentru datele indicatorului.",
 		"intro_body": "The <a href=\"https://www.un.org/sustainabledevelopment/sustainable-development-goals/\">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=\"http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E\">2030 Agenda for Sustainable Development</a>.",
-		"intro_title": "17 goals to transform our world",
-		"zip_file": "ZIP file"
+		"intro_title": "17 obiective pentru a ne transforma lumea",
+		"zip_file": "Fisiere ZIP"
 	},
 	"general": {
-		"back_to_top": "Back to top",
-		"built_using_open_sdg": "Built using Open SDG",
+		"back_to_top": "Inapoi sus",
+		"built_using_open_sdg": "Construit folosind Open SDG",
 		"facebook": "Facebook",
-		"goal": "Goal",
-		"goals": "Goals",
-		"hide": "hide",
-		"home": "Home",
+		"goal": "Obiectiv",
+		"goals": "Obiective",
+		"hide": "ascunde",
+		"home": "Acasa",
 		"indicator": "Indicator",
-		"indicators": "Indicators",
-		"label_warning": "Warning:",
-		"loading": "Loading search results",
-		"opens_new_window": "opens in a new window",
-		"page": "Page",
-		"pages": "Pages",
+		"indicators": "Indicatori",
+		"label_warning": "Avertizare:",
+		"loading": "Se încarcă rezultatele căutării",
+		"opens_new_window": "se deschide într-o fereastră nouă",
+		"page": "Pagina",
+		"pages": "Pagini",
 		"sdg": "Sustainable Development Goals",
 		"site_title": "Indicators For The Sustainable Development Goals",
 		"target": "Target",
@@ -95,7 +95,7 @@
 		"twitter": "Twitter"
 	},
 	"global_goals": {
-		"1-short": "No poverty",
+		"1-short": "Fără sărăcie",
 		"1-title": "End poverty in all its forms everywhere",
 		"10-short": "Reduced inequalities",
 		"10-title": "Reduce inequality within and among countries",
@@ -131,8 +131,8 @@
 		"9-title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
 	},
 	"global_indicators": {
-		"1-1-1-title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
-		"1-2-1-title": "Proportion of population living below the national poverty line, by sex and age",
+		"1-1-1-title": "Proporția populației care trăiește sub pragul internațional de sărăcie în funcție de sex, vârstă, statut de angajare și locație geografică (urban/rural)",
+		"1-2-1-title": "Proporția populației care trăiește sub pragul național de sărăcie, pe sex și vârstă",
 		"1-2-2-title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
 		"1-3-1-title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
 		"1-4-1-title": "Proportion of population living in households with access to basic services",
@@ -385,8 +385,8 @@
 		"9-c-1-title": "Proportion of population covered by a mobile network, by technology"
 	},
 	"global_targets": {
-		"1-1-title": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
-		"1-2-title": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+		"1-1-title": "Până în 2030, eradicarea sărăciei extreme pentru toți oamenii de pretutindeni, măsurată în prezent ca oameni care trăiesc cu mai puțin de 1,25 USD pe zi",
+		"1-2-title": "Până în 2030, reduceți cel puțin la jumătate proporția de bărbați, femei și copii de toate vârstele care trăiesc în sărăcie în toate dimensiunile sale, conform definițiilor naționale",
 		"1-3-title": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
 		"1-4-title": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
 		"1-5-title": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters",
@@ -556,18 +556,18 @@
 		"9-c-title": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020"
 	},
 	"goal": {
-		"description": "Click on each goal to see statistics for %country.name Sustainable Development Goal global indicators.",
-		"indicators_for_goal": "View targets and indicators for Goal",
-		"next": "Next goal",
-		"previous": "Previous goal"
+		"description": "Faceți clic pe fiecare obiectiv pentru a vedea statistici pentru indicatorii globali ai obiectivului de dezvoltare durabilă %country.name.",
+		"indicators_for_goal": "Vedeți obiectivele și indicatorii pentru Goal",
+		"next": "Următorul obiectiv",
+		"previous": "Obiectivul precedent"
 	},
 	"header": {
-		"alpha": "Alpha",
-		"default_contrast": "Default contrast",
-		"disable_high_contrast": "Disable high contrast",
-		"disclaimer": "This is a development website. We welcome your <a href=\"mailto:%email_contacts.suggestions\">feedback</a>.",
-		"enable_high_contrast": "Enable high contrast",
-		"hide_menu": "Hide navigation menu",
+		"alpha": "Alfa",
+		"default_contrast": "Contrast implicit",
+		"disable_high_contrast": "Dezactivați contrastul ridicat",
+		"disclaimer": "Acesta este un site de dezvoltare. Vă salutăm <a href=\"mailto:%email_contacts.suggestions\">feedback-ul</a>.",
+		"enable_high_contrast": "Activați contrast ridicat",
+		"hide_menu": "Ascunde meniul de navigare",
 		"high_contrast": "High contrast",
 		"internet_explorer_message": "We have detected that you are using Internet Explorer to visit this website. Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports any version of Internet Explorer. Some features on this site will not work. You should use a modern browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a different browser, please contact your IT support team.",
 		"internet_explorer_message_title": "This internet browser is no longer supported",
@@ -579,13 +579,13 @@
 		"toggle_search": "Search toggle. Click to expand or collapse the search bar."
 	},
 	"indicator": {
-		"annotation_2030_target": "2030 indicator target",
-		"annotation_series_break": "Series break",
+		"annotation_2030_target": "Indicator țintă pentru 2030",
+		"annotation_series_break": "Pauza de serie",
 		"announce_data_added": "Chart and table updated to include data.",
 		"announce_data_not_available": "Chart and table shows no data.",
 		"announce_data_removed": "Chart and table updated to exclude data.",
 		"apply": "Apply",
-		"cancel": "Cancel",
+		"cancel": "Inchide",
 		"change_breakdowns": "Change breakdowns",
 		"chart": "Chart",
 		"chart_annotation": "Chart annotation",
@@ -864,11 +864,11 @@
 		"progress_not_available": "Not available",
 		"progress_status": "Progress status",
 		"progress_target_achieved": "Target achieved",
-		"reported": "Reported",
-		"reported_online": "Reported online",
-		"reporting_status": "Reporting status",
-		"statistics_in_progress": "Statistics in progress",
+		"reported": "Raportat",
+		"reported_online": "Raportat online",
+		"reporting_status": "Starea raportării",
+		"statistics_in_progress": "Statistici in progres",
 		"status_by_field": "Status by %field",
-		"status_by_goal": "Status by goal"
+		"status_by_goal": "Statut dupa obiectiv"
 	}
 }
