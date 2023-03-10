@@ -81,6 +81,8 @@ STAT_CONC_DEF: >-
   Internacional (PCI) del Banco Mundial'.
 UNIT_MEASURE: >-
 
+PERIODICITY: <p>Annual</p>
+
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
