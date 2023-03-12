@@ -97,7 +97,7 @@ national_data_updated_date: '2023-01-28'
 national_metadata_updated_date: '2023-01-28'
 un_designated_tier: un_designated_tier
 source_active_1: true
-source_organisation_1: source_organisation_1
+SOURCE_ORGANISATION_1: source_organisation_1
 source_periodicity_1: source_periodicity_1
 source_url_1: www.statistica.md
 source_url_text_1: source_url_text_1
