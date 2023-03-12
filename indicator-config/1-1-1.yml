@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
+computation_units: Unitatea de masura configurare
+copyright: Copyright configurare
+data_footnote: Data footnote configurare
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -32,7 +32,7 @@ indicator_tabs:
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: ''
+national_geographical_coverage: Geographical coverage configurare
 page_content: ''
 permalink: ''
 placeholder: ''
