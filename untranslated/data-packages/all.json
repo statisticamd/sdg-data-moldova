@@ -51,7 +51,7 @@
             "type": "number"
           },
           {
-            "name": "Mediul de reședință",
+            "name": "Residence area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,14 +66,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Grupa de vârstă",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
