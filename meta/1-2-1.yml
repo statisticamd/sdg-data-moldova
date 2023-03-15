@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-<p>Indicator 1.2.1: Proportion of population living below the national poverty line, by sex and age</p>
+  <p>Indicator 1.2.1: Proportion of population living below the national poverty line, by sex and age</p>
 SDG_TARGET__GLOBAL: >-
-<p>Target 1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>
+  <p>Target 1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Bank (WB)
@@ -16,9 +16,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-United Nations Sustainable Development Goals Metadata
+  United Nations Sustainable Development Goals Metadata
 SDG_INDICATOR: >-
-<p>Target 1.2.1: Absolute poverty rate</p>
+  <p>Target 1.2.1: Absolute poverty rate</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -85,4 +85,3 @@ source_url_text_1: >-
   Link to source
 source_contact_1: >-
 source_other_info_1: >-
-: 
