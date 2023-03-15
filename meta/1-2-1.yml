@@ -50,12 +50,12 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labor and Social Protection
-  Ministry of Economic Development and Digitalization
-  Ministry of Agriculture and Food Industry
-  Ministry of Infrastructure and Regional Development 
-  Ministry of Education and Research
-  Ministry of Health
+  <p>Ministry of Labor and Social Protection</p>
+  <p>Ministry of Economic Development and Digitalization</p>
+  <p>Ministry of Agriculture and Food Industry</p>
+  <p>Ministry of Infrastructure and Regional Development </p>
+  <p>Ministry of Education and Research</p>
+  <pMinistry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
