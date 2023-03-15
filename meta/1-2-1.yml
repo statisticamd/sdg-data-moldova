@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata
+  United Nations SDG Metadata
 SDG_INDICATOR: >-
   <p>Target 1.2.1: Absolute poverty rate</p>
 SDG_SERIES_DESCR: ''
