@@ -40,6 +40,70 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Mediul de reședință",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Grupa de vârstă",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population living below the national poverty line, by sex and age"
+    },
+    {
       "path": "10-7-2/data.csv",
       "name": "10-7-2",
       "profile": "tabular-data-resource",
@@ -3302,30 +3366,6 @@
         ]
       },
       "title": "Proportion of individuals using the Internet"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "17-15-1/data.csv",
