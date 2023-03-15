@@ -23,8 +23,8 @@ graph_target_lines: []
 graph_title: 1.2.1. Rata sărăciei absolute
 graph_titles: []
 graph_type: line
-indicator_available: <p>Indicator 1.2.1: Rata sărăciei absolute</p>
-indicator_name: <p>Indicator 1.2.1: Ponderea populației aflate sub pragul național al sărăciei, pe sexe și vârstă </p>
+indicator_available: <p>Indicator 1.2.1 Rata sărăciei absolute</p>
+indicator_name: <p>Indicator 1.2.1 Ponderea populației aflate sub pragul național al sărăciei, pe sexe și vârstă </p>
 indicator_number: 1.2.1
 indicator_tabs:: 
   override: false
