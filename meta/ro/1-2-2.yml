@@ -1,0 +1,92 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.2.2: Ponderea bărbaților, femeilor și copiilor de toate vârstele care trăiesc în sărăcie, în toate dimensiunile acesteia, conform definițiilor naționale</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.2: Până în 2030, reducerea cu cel puțin jumătate a numărului de bărbați, femei și copii de toate vârstele care trăiesc în sărăcie în toate dimensiunile acesteia potrivit definițiilor naționale</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  <p> Fondul Națiunilor Unite pentru Copii (UNICEF)</p> 
+  <p>Banca Mondială (BM)</p> 
+  <p>Programul Națiunilor Unite pentru Dezvoltare (PNUD) </p>
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Monitorizarea sărăciei naționale este importantă pentru agendele de dezvoltare specifice țării. Pragurile naționale de sărăcie sunt utilizate pentru a face estimări mai precise ale sărăciei în concordanță cu circumstanțele economice și sociale specifice țării și nu sunt destinate comparațiilor internaționale ale ratelor sărăciei.
+SDG_GOAL: ''
+target_id: >-
+  1.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 1.2.2: Indicele sărăciei multidimensionale</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Pragul sărăciei (k) este utilizat pentru a decide dacă o persoană este săracă din punctul de vedere multidimensional. Orice persoană cu un scor de deprivare egal sau mai mare ca pragul stabilit este considerată săracă. </p> 
+  <p>  Incidența sărăciei (H) reprezintă proporția persoanelor identificate ca fiind sărace în aspect multidimensional, denumită și “rata sărăciei multidimensionale”. Acest indicator determină ponderea persoanelor cu scorul de deprivare ponderat mai mare sau egal în raport cu pragul sărăciei, în totalul populație.</p> 
+  <p>  Intensitatea sărăciei (A) reprezintă numărul mediu a indicatorilor ponderați în care persoanele sărace sunt deprivate – scorul mediu de deprivare pentru toate persoanele sărace.</p> 
+  <p>  Indicele sărăciei multidimensionale (ISM) este calculat ca produsul acestor două componente. ISM variază întotdeauna de la zero la unu, iar o valoare mai mare a indicatorului înseamnă un nivel de sărăcie mai înalt. </p> 
+  <p>  Prin această metodă nu numai că se identifică cine este sărac, dar și se oferă un mijloc inovator prin care se poate prezenta cât de acută sau intensă este situația de sărăcie multidimensională pentru cei săraci. Acest lucru oferă stimulente suplimentare pentru monitorizarea sărăciei, deoarece ISM va reflecta schimbările în intensitatea sărăciei în rândul săracilor, ce nu sunt cuprinse de rata sărăciei absolute. </p>
+UNIT_MEASURE: >-
+  Indice
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Cercetarea Bugetelor Gospodăriilor Casnice
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministerul Muncii și Protecției Sociale </p> 
+  <p>Ministerul Dezvoltării Economice și Digitalizării</p> 
+  <p>Ministerul Agriculturii și Industriei Alimentare</p> 
+  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p> 
+  <p>Ministerul Educației și Cercetării</p> 
+  <p>Ministerul Sănătății </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> ISM = H x A</p> 
+  <p>    unde:</p> 
+  <p> ISM - Indicele sărăciei multidimensionale,          </p> 
+  <p> H - Incidența sărăciei multidimensionale = Numărul populației cu scorul de deprivare ponderat mai mare sau egal în raport cu pragul sărăciei multidimensionale / Numărul total al populației,</p> 
+  <p> A - Intensitatea sărăciei multidimensionale = Suma deprivărilor totale de care suferă fiecare persoană săracă multidimensional / Numărul populației săracă multidimensional. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  ISM național nu este comparabil cu ISM global. ISM global completează analiza monetară a sărăciei prin reflectarea deprivărilor acute cu care se confruntă oamenii simultan în alte dimensiuni, ce sunt esențiale pentru a garanta o viață decentă. Urmând exemplul indicelui dezvoltării umane (IDU), ISM global cuprinde aceleași trei dimensiuni: educația, sănătatea și nivelul de trai.  Cu toate acestea, pentru a monitoriza ODD și pentru a măsura deprivările relevante pentru contextul național, multe țări s-au orientat spre construirea unui ISM specific fiecărei țări, adică un ISM național, ce constituie o statistică oficială permanentă a sărăciei, adaptată la prioritățile naționale.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
