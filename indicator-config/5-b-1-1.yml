@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: Pieces
 copyright: ''
 data_footnote: Starting with 2019, the data are not comparable to the previous period, as the HBS methodology was modified
 data_non_statistical: false
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.2.1. Relative poverty rate
+graph_title: 5.b.1.1. Average number of mobile telephones by 100 households
 graph_titles: []
 graph_type: line
-indicator_available: Relative poverty rate
-indicator_name: global_indicators.10-2-1-title
-indicator_number: 10.2.1
+indicator_available: Average number of mobile telephones by 100 households
+indicator_name: global_indicators.5-b-1-1-title
+indicator_number: 5.b.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''

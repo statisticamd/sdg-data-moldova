@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.2.1. Relative poverty rate
+graph_title: 10.1.1.b. Growth rate of household expenditures per capita among the bottom 40% of the population
 graph_titles: []
 graph_type: line
-indicator_available: Relative poverty rate
-indicator_name: global_indicators.10-2-1-title
-indicator_number: 10.2.1
+indicator_available: Growth rate of household expenditures per capita among the bottom 40% of the population
+indicator_name: global_indicators.10-1-1-b-title
+indicator_number: 10.1.1.b
 indicator_tabs:: 
   override: false
   tab_1: ''

@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.2.1. Relative poverty rate
+graph_title: 3.8.2.b. Proportion of population with household expenditures on health larger than 25% of total household expenditure
 graph_titles: []
 graph_type: line
-indicator_available: Relative poverty rate
-indicator_name: global_indicators.10-2-1-title
-indicator_number: 10.2.1
+indicator_available: Proportion of population with household expenditures on health larger than 25% of total household expenditure
+indicator_name: global_indicators.3-8-2-b-title
+indicator_number: 3.8.2.b
 indicator_tabs:: 
   override: false
   tab_1: ''

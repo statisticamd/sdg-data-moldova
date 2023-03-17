@@ -16,9 +16,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations SDG Metadata
+  United Nations Sustainable Development Goals Metadata
 SDG_INDICATOR: >-
-  <p>Target 1.2.1: Absolute poverty rate</p>
+  <p>Indicator 1.2.1: Absolute poverty rate</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,17 +32,16 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The absolute poverty rate represents the share of population that lives below the nationally established poverty line. 
-  The absolute poverty rate represents the amount of monthly expenditures for a set of food products, non-food goods and services considered as minimum necessary amount of a household so as to ensure a decent living. 
-  The absolute poverty rate was established in 2006 by the National Bureau of Statistics according to the methodology (developed jointly by NBS and Ministry of Economy), which implies the annual recalculation of the poverty rate based on the Consumption Price Index. In 2016 the methodology for estimating the absolute poverty indicators was reviewed and the absolute poverty rate was recalculated.
-  In the RM the poverty rate is established only at the national level (but not at the urban or rural levels). Since 2014, the poverty rate is calculated according to the new methodology, approved via the National Bureau of Statistics Order No.56 dated 24 August 2018.
-
+  <p> The absolute poverty rate represents the share of population that lives below the nationally established poverty line. </p> 
+  <p> The absolute poverty rate represents the amount of monthly expenditures for a set of food products, non-food goods and services considered as minimum necessary amount of a household so as to ensure a decent living. </p> 
+  <p> The absolute poverty rate was established in 2006 by the National Bureau of Statistics according to the methodology (developed jointly by NBS and Ministry of Economy), which implies the annual recalculation of the poverty rate based on the Consumption Price Index. In 2016 the methodology for estimating the absolute poverty indicators was reviewed and the absolute poverty rate was recalculated.</p> 
+  <p> In the RM the poverty rate is established only at the national level (but not at the urban or rural levels). Since 2014, the poverty rate is calculated according to the new methodology, approved via the National Bureau of Statistics Order No.56 dated 24 August 2018. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Household Budget Survey 
+  Household Budget Survey
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,12 +49,12 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p>Ministry of Labor and Social Protection</p>
-  <p>Ministry of Economic Development and Digitalization</p>
-  <p>Ministry of Agriculture and Food Industry</p>
-  <p>Ministry of Infrastructure and Regional Development </p>
-  <p>Ministry of Education and Research</p>
-  <pMinistry of Health</p>
+  <p> Ministry of Labor and Social Protection</p> 
+  <p>Ministry of Economic Development and Digitalization</p> 
+  <p>Ministry of Agriculture and Food Industry</p> 
+  <p>Ministry of Infrastructure and Regional Development </p> 
+  <p>Ministry of Education and Research</p> 
+  <p>Ministry of Health </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

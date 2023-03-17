@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.8.2.b: Proportion of population with large household expenditures on health as a share of total household expenditure or income</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  <p> World Health Organisation (WHO)</p> 
+  <p>World Bank (WB) </p>
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Proportion of the population with large household expenditure on health as a share of total household expenditure or income. Two thresholds are used to define “large household expenditure on health”: greater than 10% and greater than 25% of total household expenditure or income.
+SDG_GOAL: ''
+target_id: >-
+  3.8
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 3.8.2.b: Proportion of population with household expenditures on health larger than 25% of total household expenditure</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Household expenditures for health are defined as any expenditures made during  the use of the service for obtaining any type of care (promotional, preventive, curative, rehabilitation, palliative or long-term care), including  all the medicines, vaccines and other pharmaceutical items, as well as all the health products, of any type of supplier and for all members of the household. These expenditures for health are characterised by direct payments financed from the incomes (including remittances) of a household, from savings or loans, but do not include the reimbursement of the third parties' payer (meaning are not partially or fully compensated). The components of consumption expenditures for consumption for health services should comply with division 06 on health from COICOP, which includes the expenditures for medicines and medical products (06.1), outpatient services (06.2) and inpatient services (06.3).
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Household Budget Survey
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> To calculate the indicator: </p> 
+  <p>1. Proportion of health expenditures out of total expenditures of the household = Expenditures for health / Total expenditures of households * 100; </p> 
+  <p>2. Proportion of population with household expenditures on health larger than 25% = Number of population with household expenditures largest than 25% / Total number of population * 100. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Identical to the global indicator
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

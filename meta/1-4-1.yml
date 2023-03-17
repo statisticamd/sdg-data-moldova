@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.4.1: Proportion of population living in households with access to basic services</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.4: By 2030, ensure that all men and women, in particular the poor and the  vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Human Settlements Programme (UN-Habitat)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  <p> The basic services refer to the systems providing public services which meet the basic needs of the population, including access to safe drinking water, improved sewerage and hygiene, modern energy, mobility and transport, collecting solid waste, healthcare, education, green spaces (recreation) and information technologies.</p> 
+  <p>  The nationalised indicator 1.4.1 refers to a part of basic infrastructure  services - the ones available in the households, and namely electricity lighting, safe water sources, improved sewerage system, connection to Internet.  </p> 
+  <p>  The rest of the basic services to which the population has access, mainly outside the households, will be measured through other SDG indicators (on access to health services/SDG3, education/SDG4, transport/SDG9&11, waste and green spaces/SDG11). </p>
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Basic services refer to public service provision systems that meet human basic needs including drinking water, sanitation, hygiene, energy, mobility, waste collection, health care, education and information technologies. The basis cervices indicator will be therefore based on 9 components. These components are captured in various standalone indicators of the SDGs, which means that the concepts and definitions of SDG indicator 1.4.1 will be derived from or are the same as those of these specific SDG indicators.
+SDG_GOAL: ''
+target_id: >-
+  1.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 1.4.1: Proportion of population living in households with access to basic services (electricity, safe water sources, sewage and Internet connection)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Safe sources of water supply include: aqueduct inside the dwelling and aqueduct outside the dwelling, including public network aqueduct, artesian well, spring well.</p> 
+  <p>  Improved sewerage systems will include public and private sewerage systems.</p> 
+  <p>  Access to Internet will include the availability in the dwelling of cable or wireless Internet  (Wi-Fi). </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Household Budget Survey
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Infrastructure and Regional Development
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of persons with access to ALL the basic services / Total number of population * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Only 4 components are used for the NATIONAL indicator (which are available in the HBS) out of the 9 components included in the GLOBAL indicator
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

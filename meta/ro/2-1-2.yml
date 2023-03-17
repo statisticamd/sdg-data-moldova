@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.1.2: Prevalența insecurității alimentare moderate sau severe în rândul populației, în baza Scării de Experiență în Insecuritatea Alimentară (FIES)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.1: Până în 2030, eradicarea foametei și asigurarea accesului tuturor, în special al celor săraci și al celor în situații vulnerabile, inclusiv sugarii, la produse alimentare sigure, nutritive și suficiente pe tot parcursul anului</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Organizația pentru Alimentație și Agricultură a Națiunilor Unite (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Indicatorul măsoară procentul de indivizi din populație care au experimentat insecuritate alimentară la niveluri moderate sau severe în perioada de referință. Severitatea insecurității alimentare, definită ca o trăsătură latentă, este măsurată pe scara globală de referință Scării de Experiență în Insecuritatea Alimentară, un standard de măsurare stabilit de FAO prin aplicarea Scării de Experiență în Insecuritatea Alimentară în peste 140 de țări din întreaga lume, începând cu 2014.
+SDG_GOAL: ''
+target_id: >-
+  2.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-02.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 2.1.2: Prevalența insecurității alimentare moderate sau severe</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul (împreuna cu rata de malnutriție) se folosește pentru măsurarea deprivarii alimentare si este compilat de către FAO. Pentru a efectua calculele indicatorului pentru Republica Moldova, BNS va furniza către FAO datele la nivel național colectate in cadrul modulului FIES (8 întrebări de tip 'Da/Nu') (prin integrare în chestionarele CBGC sau complementarea chestionarelor CBGC cu întrebările-lipsa) [a se vedea](http://www.fao.org/3/a-be898r.pdf - rusa).</p> 
+  <p>  Indicatorii FIES pot genera informații dezagregate pentru a identifica grupurile de populație cele mai afectate de insecuritatea alimentară, cat si poate fi folosit pentru a evalua factorii care determină insecuritatea alimentară.</p> 
+  <p>  Prevalenta insecurității alimentare este moderata sau severa, si severa. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Modul aparte sau parte integranta in cadrul CBGC
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății, Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Identic cu indicatorul global
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Organizația pentru Alimentație și Agricultură a Națiunilor Unite (FAO)
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

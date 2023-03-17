@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.2.1. Relative poverty rate
+graph_title: 6.2.1.1. Proportion of population having a (a) toilet and (b) bath or shower within the dwelling
 graph_titles: []
 graph_type: line
-indicator_available: Relative poverty rate
-indicator_name: global_indicators.10-2-1-title
-indicator_number: 10.2.1
+indicator_available: Proportion of population having a (a) toilet and (b) bath or shower within the dwelling
+indicator_name: global_indicators.6-2-1-1-title
+indicator_number: 6.2.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''

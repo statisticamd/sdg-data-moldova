@@ -24,7 +24,7 @@ graph_title: 1.2.2. Multidimensional poverty index
 graph_titles: []
 graph_type: line
 indicator_available: Multidimensional poverty index
-indicator_name: global_indicators.1.2.2-title
+indicator_name: global_indicators.1-2-2-title
 indicator_number: 1.2.2
 indicator_tabs:: 
   override: false
