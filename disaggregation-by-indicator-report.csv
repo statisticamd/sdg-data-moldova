@@ -1,4 +1,20 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,Group,1
-#1-2-1,"Residence area, Sex, Age group",3
-#1-3-1-h,"Medii de reședință, Quintila I, pe medii ",2
+#1-1-1-1,"Urban, Men, 15-24, 0-14 / Total, 15-24 / Total, Self-employers in agriculture",6
+#1-2-1,"Urban, Men, 0-17",3
+#1-3-1-h,"Urban, Total, quintile I",2
+#1-3-1-i,"Urban, Total, quintile I",2
+#1-4-1,"Urban, Men, 0-17, Access to electricity",4
+#10-2-1,"Men, 0-17, People with disabilities",3
+#11-1-1-a,"Urban, I, Men, 0-17, People with disability",5
+#11-1-1-b,"Urban, I, Men, 0-17, People with disability",5
+#2-1-2,15+ / Men,1
+#3-8-2-1,"Urban, I, Men, <30",4
+#3-8-2-2,"Urban, I, Men, 0-17",4
+#3-8-2-a,"Urban, I, Men, <30, With children up to 18 years",5
+#3-8-2-b,"Urban, I, Men, <30, With children up to 18 years",5
+#5-b-1-1,"Urban, Men",2
+#6-1-1,"Urban, Municipality Chisinau, I, Men",4
+#6-2-1-1,"Urban, Municipality Chisinau, I, Men",4
+#6-2-1-a,"Urban, Municipality Chisinau, I, Men, Public network",5
+#7-1-1,Urban,1

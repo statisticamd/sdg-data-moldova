@@ -1,0 +1,184 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            },
+            "title": "Urban"
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Rural"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex of the head of the household",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "<30",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age groups of head of household, years",
+                ""
+              ]
+            },
+            "title": "<30"
+          },
+          {
+            "name": "30-39",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "30-39"
+          },
+          {
+            "name": "40-49",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "40-49"
+          },
+          {
+            "name": "50-59",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "50-59"
+          },
+          {
+            "name": "60-64",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "60-64"
+          },
+          {
+            "name": "65+",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "65+"
+          },
+          {
+            "name": "I",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintiles on consumption expenditures",
+                ""
+              ]
+            },
+            "title": "I"
+          },
+          {
+            "name": "II",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "II"
+          },
+          {
+            "name": "III",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "III"
+          },
+          {
+            "name": "IV",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "IV"
+          },
+          {
+            "name": "V",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "V"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-2-1",
+  "title": "global_indicators.3-8-2-1-title"
+}

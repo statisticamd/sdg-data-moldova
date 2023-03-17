@@ -12,41 +12,97 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
-            "name": "Mediul de reședință",
+            "name": "Urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Area of residence",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
-            "type": "string",
+            "name": "Rural",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
                 ""
               ]
             }
           },
           {
-            "name": "Grupa de vârstă",
+            "name": "Men",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17",
-                "18-29",
-                "30-39",
-                "40-49",
-                "50-59",
-                "60+",
+                "Sex",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "0-17",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "18-29",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "30-39",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "40-49",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "50-59",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "60+",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

@@ -12,7 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

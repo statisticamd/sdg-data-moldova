@@ -1,0 +1,185 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            },
+            "title": "Urban"
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Rural"
+          },
+          {
+            "name": "Municipality Chisinau",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistical regions",
+                ""
+              ]
+            },
+            "title": "Municipality Chisinau"
+          },
+          {
+            "name": "North",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "North"
+          },
+          {
+            "name": "Center",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Center"
+          },
+          {
+            "name": "South",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "South"
+          },
+          {
+            "name": "I",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintiles on consumption expenditures",
+                ""
+              ]
+            },
+            "title": "I"
+          },
+          {
+            "name": "II",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "II"
+          },
+          {
+            "name": "III",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "III"
+          },
+          {
+            "name": "IV",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "IV"
+          },
+          {
+            "name": "V",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "V"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex of the head of the household",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "Public network",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of sewerage ",
+                ""
+              ]
+            },
+            "title": "Public network"
+          },
+          {
+            "name": "Own system",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Own system"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1-a",
+  "title": "global_indicators.6-2-1-a-title"
+}

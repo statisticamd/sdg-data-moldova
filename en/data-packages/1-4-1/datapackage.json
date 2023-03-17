@@ -12,8 +12,122 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            },
+            "title": "Urban"
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Rural"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "0-17",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group",
+                ""
+              ]
+            },
+            "title": "0-17"
+          },
+          {
+            "name": "15+",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15+"
+          },
+          {
+            "name": "57+ (women) / 62+ (men)",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "57+ (women) / 62+ (men)"
+          },
+          {
+            "name": "Access to electricity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sub-indicators",
+                ""
+              ]
+            },
+            "title": "Access to electricity"
+          },
+          {
+            "name": "Access to safely managed water sources",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Access to safely managed water sources"
+          },
+          {
+            "name": "Access to sewerage",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Access to sewerage"
+          },
+          {
+            "name": "Access to internet",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Access to internet"
           },
           {
             "name": "Value",

@@ -12,8 +12,142 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            },
+            "title": "Urban"
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Rural"
+          },
+          {
+            "name": "Municipality Chisinau",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistical regions",
+                ""
+              ]
+            },
+            "title": "Municipality Chisinau"
+          },
+          {
+            "name": "North",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "North"
+          },
+          {
+            "name": "Center",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Center"
+          },
+          {
+            "name": "South",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "South"
+          },
+          {
+            "name": "I",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintiles on consumption expenditures",
+                ""
+              ]
+            },
+            "title": "I"
+          },
+          {
+            "name": "II",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "II"
+          },
+          {
+            "name": "III",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "III"
+          },
+          {
+            "name": "IV",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "IV"
+          },
+          {
+            "name": "V",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "V"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex of the head of the household",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
           },
           {
             "name": "Value",

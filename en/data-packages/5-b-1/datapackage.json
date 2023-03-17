@@ -12,8 +12,203 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            },
+            "title": "Urban"
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Rural"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "0-17",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group",
+                ""
+              ]
+            },
+            "title": "0-17"
+          },
+          {
+            "name": "18-29",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "18-29"
+          },
+          {
+            "name": "30-39",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "30-39"
+          },
+          {
+            "name": "40-49",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "40-49"
+          },
+          {
+            "name": "50-59",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "50-59"
+          },
+          {
+            "name": "60+",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "60+"
+          },
+          {
+            "name": "Higher",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education level",
+                ""
+              ]
+            },
+            "title": "Higher"
+          },
+          {
+            "name": "Vocational",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Vocational"
+          },
+          {
+            "name": "General secondary",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "General secondary"
+          },
+          {
+            "name": "Primary or less",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Primary or less"
+          },
+          {
+            "name": "Employees",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employment status",
+                ""
+              ]
+            },
+            "title": "Employees"
+          },
+          {
+            "name": "Self-employers in agriculture",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Self-employers in agriculture"
+          },
+          {
+            "name": "Self-employers in non-agricultural activities",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Self-employers in non-agricultural activities"
+          },
+          {
+            "name": "Pensioners",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Pensioners"
+          },
+          {
+            "name": "Others",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Others"
           },
           {
             "name": "Value",

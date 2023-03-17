@@ -12,8 +12,111 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "0-17",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group",
+                ""
+              ]
+            },
+            "title": "0-17"
+          },
+          {
+            "name": "18-29",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "18-29"
+          },
+          {
+            "name": "30-39",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "30-39"
+          },
+          {
+            "name": "40-49",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "40-49"
+          },
+          {
+            "name": "50-59",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "50-59"
+          },
+          {
+            "name": "60+",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "60+"
+          },
+          {
+            "name": "People with disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The existence of disability",
+                ""
+              ]
+            },
+            "title": "People with disabilities"
+          },
+          {
+            "name": "People without disabilities",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "People without disabilities"
           },
           {
             "name": "Value",

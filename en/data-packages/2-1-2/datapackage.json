@@ -12,8 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "15+ / Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group / Sex",
+                ""
+              ]
+            },
+            "title": "15+ / Men"
+          },
+          {
+            "name": "15+ / Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15+ / Women"
           },
           {
             "name": "Value",

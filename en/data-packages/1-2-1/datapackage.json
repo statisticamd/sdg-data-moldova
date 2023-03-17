@@ -12,48 +12,111 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Residence area",
+            "name": "Urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Area of residence",
                 ""
               ]
             },
-            "title": "Residence area"
+            "title": "Urban"
           },
           {
-            "name": "Sex",
-            "type": "string",
+            "name": "Rural",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Rural"
           },
           {
-            "name": "Age group",
+            "name": "Men",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17",
-                "18-29",
-                "30-39",
-                "40-49",
-                "50-59",
-                "60+",
+                "Sex",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "0-17",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group",
+                ""
+              ]
+            },
+            "title": "0-17"
+          },
+          {
+            "name": "18-29",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "18-29"
+          },
+          {
+            "name": "30-39",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "30-39"
+          },
+          {
+            "name": "40-49",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "40-49"
+          },
+          {
+            "name": "50-59",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "50-59"
+          },
+          {
+            "name": "60+",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "60+"
           },
           {
             "name": "Value",

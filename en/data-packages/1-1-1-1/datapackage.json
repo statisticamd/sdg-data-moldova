@@ -1,0 +1,286 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of residence",
+                ""
+              ]
+            },
+            "title": "Urban"
+          },
+          {
+            "name": "Rural",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Rural"
+          },
+          {
+            "name": "Men",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sex",
+                ""
+              ]
+            },
+            "title": "Men"
+          },
+          {
+            "name": "Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Women"
+          },
+          {
+            "name": "15-24",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group",
+                ""
+              ]
+            },
+            "title": "15-24"
+          },
+          {
+            "name": "25-34",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "25-34"
+          },
+          {
+            "name": "35-44",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "35-44"
+          },
+          {
+            "name": "45-54",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "45-54"
+          },
+          {
+            "name": "55+",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "55+"
+          },
+          {
+            "name": "0-14 / Total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group 1 and Sex",
+                ""
+              ]
+            },
+            "title": "0-14 / Total"
+          },
+          {
+            "name": "15+ / Total",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15+ / Total"
+          },
+          {
+            "name": "15+ / Men",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15+ / Men"
+          },
+          {
+            "name": "15+ / Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15+ / Women"
+          },
+          {
+            "name": "15-24 / Total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age group 2 and Sex",
+                ""
+              ]
+            },
+            "title": "15-24 / Total"
+          },
+          {
+            "name": "15-24 / Men",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15-24 / Men"
+          },
+          {
+            "name": "15-24 / Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "15-24 / Women"
+          },
+          {
+            "name": "25+ / Total",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "25+ / Total"
+          },
+          {
+            "name": "25+ / Men",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "25+ / Men"
+          },
+          {
+            "name": "25+ / Women",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "25+ / Women"
+          },
+          {
+            "name": "Self-employers in agriculture",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employment status",
+                ""
+              ]
+            },
+            "title": "Self-employers in agriculture"
+          },
+          {
+            "name": "Employees in the agricultural sector",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Employees in the agricultural sector"
+          },
+          {
+            "name": "Employees in the non-agricultural sector",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Employees in the non-agricultural sector"
+          },
+          {
+            "name": "Self-employers in non-agricultural activities",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Self-employers in non-agricultural activities"
+          },
+          {
+            "name": "Pensioners",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Pensioners"
+          },
+          {
+            "name": "Others",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Others"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-1-1-1",
+  "title": "global_indicators.1-1-1-1-title"
+}
