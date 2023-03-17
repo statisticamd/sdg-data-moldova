@@ -15,20 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Urban",
+                "Rural",
                 ""
               ]
             }

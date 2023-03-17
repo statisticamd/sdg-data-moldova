@@ -15,20 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "15+ / Men",
+            "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group / Sex",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15+ / Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "15+ / Men",
+                "15+ / Women",
                 ""
               ]
             }

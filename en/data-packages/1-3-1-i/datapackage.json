@@ -16,56 +16,29 @@
             "title": "Year"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Urban"
+            "title": "Area of residence"
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Rural"
-          },
-          {
-            "name": "Total, quintile I",
+            "name": "Quintile I, by area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintile I, by area of residence",
+                "Total, quintile I",
+                "Urban, quintile I",
+                "Rural, quintile I",
                 ""
               ]
             },
-            "title": "Total, quintile I"
-          },
-          {
-            "name": "Urban, quintile I",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Urban, quintile I"
-          },
-          {
-            "name": "Rural, quintile I",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Rural, quintile I"
+            "title": "Quintile I, by area of residence"
           },
           {
             "name": "Value",

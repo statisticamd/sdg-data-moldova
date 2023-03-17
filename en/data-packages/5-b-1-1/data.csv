@@ -1,66 +1,66 @@
-Year,Urban,Rural,Men,Women,Value
-2010,,,,,
-2010,Area of residence,,,,
-2010,,,,,
-2010,,,Sex of the head of the household,,
-2010,,,,,
-2011,,,,,
-2011,Area of residence,,,,
-2011,,,,,
-2011,,,Sex of the head of the household,,
-2011,,,,,
-2012,,,,,
-2012,Area of residence,,,,
-2012,,,,,
-2012,,,Sex of the head of the household,,
-2012,,,,,
-2013,,,,,
-2013,Area of residence,,,,
-2013,,,,,
-2013,,,Sex of the head of the household,,
-2013,,,,,
-2014,,,,,148.0
-2014,Area of residence,,,,170.5
-2014,,,,,129.7
-2014,,,Sex of the head of the household,,167.1
-2014,,,,,117.8
-2015,,,,,151.0
-2015,Area of residence,,,,173.3
-2015,,,,,133.4
-2015,,,Sex of the head of the household,,171.8
-2015,,,,,117.2
-2016,,,,,152.0
-2016,Area of residence,,,,171.5
-2016,,,,,136.8
-2016,,,Sex of the head of the household,,172.3
-2016,,,,,122.9
-2017,,,,,156.0
-2017,Area of residence,,,,174.9
-2017,,,,,141.7
-2017,,,Sex of the head of the household,,176.5
-2017,,,,,126.1
-2018,,,,,154.0
-2018,Area of residence,,,,172.9
-2018,,,,,140.8
-2018,,,Sex of the head of the household,,174.5
-2018,,,,,125.3
-2019,,,,,166.7
-2019,Area of residence,,,,183.3
-2019,,,,,155.5
-2019,,,Sex of the head of the household,,189.4
-2019,,,,,131.5
-2020,,,,,170.4
-2020,Area of residence,,,,179.6
-2020,,,,,164.1
-2020,,,Sex of the head of the household,,191.5
-2020,,,,,138.0
-2021,,,,,171.5
-2021,Area of residence,,,,187.1
-2021,,,,,161.3
-2021,,,Sex of the head of the household,,197.7
-2021,,,,,132.7
-2022,,,,,
-2022,Area of residence,,,,
-2022,,,,,
-2022,,,Sex of the head of the household,,
-2022,,,,,
+Year,Area of residence,Sex of the head of the household,Value
+2010,,,
+2010,Urban,,
+2010,Rural,,
+2010,,Men,
+2010,,Women,
+2011,,,
+2011,Urban,,
+2011,Rural,,
+2011,,Men,
+2011,,Women,
+2012,,,
+2012,Urban,,
+2012,Rural,,
+2012,,Men,
+2012,,Women,
+2013,,,
+2013,Urban,,
+2013,Rural,,
+2013,,Men,
+2013,,Women,
+2014,,,148.0
+2014,Urban,,170.5
+2014,Rural,,129.7
+2014,,Men,167.1
+2014,,Women,117.8
+2015,,,151.0
+2015,Urban,,173.3
+2015,Rural,,133.4
+2015,,Men,171.8
+2015,,Women,117.2
+2016,,,152.0
+2016,Urban,,171.5
+2016,Rural,,136.8
+2016,,Men,172.3
+2016,,Women,122.9
+2017,,,156.0
+2017,Urban,,174.9
+2017,Rural,,141.7
+2017,,Men,176.5
+2017,,Women,126.1
+2018,,,154.0
+2018,Urban,,172.9
+2018,Rural,,140.8
+2018,,Men,174.5
+2018,,Women,125.3
+2019,,,166.7
+2019,Urban,,183.3
+2019,Rural,,155.5
+2019,,Men,189.4
+2019,,Women,131.5
+2020,,,170.4
+2020,Urban,,179.6
+2020,Rural,,164.1
+2020,,Men,191.5
+2020,,Women,138.0
+2021,,,171.5
+2021,Urban,,187.1
+2021,Rural,,161.3
+2021,,Men,197.7
+2021,,Women,132.7
+2022,,,
+2022,Urban,,
+2022,Rural,,
+2022,,Men,
+2022,,Women,

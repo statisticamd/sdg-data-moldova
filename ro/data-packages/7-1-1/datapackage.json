@@ -16,25 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Urban"
-          },
-          {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Rural"
+            "title": "Area of residence"
           },
           {
             "name": "Value",

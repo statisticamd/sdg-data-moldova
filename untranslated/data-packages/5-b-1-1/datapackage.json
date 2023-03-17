@@ -15,39 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Men",
+                "Women",
                 ""
               ]
             }

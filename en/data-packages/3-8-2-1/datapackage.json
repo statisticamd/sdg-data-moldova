@@ -16,158 +16,59 @@
             "title": "Year"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Urban"
+            "title": "Area of residence"
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Rural"
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Men"
+            "title": "Sex of the head of the household"
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Women"
-          },
-          {
-            "name": "<30",
+            "name": "Age groups of head of household, years",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age groups of head of household, years",
+                "<30",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             },
-            "title": "<30"
+            "title": "Age groups of head of household, years"
           },
           {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "30-39"
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "40-49"
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "50-59"
-          },
-          {
-            "name": "60-64",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "60-64"
-          },
-          {
-            "name": "65+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "65+"
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             },
-            "title": "I"
-          },
-          {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "II"
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "III"
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "IV"
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "V"
+            "title": "Quintiles on consumption expenditures"
           },
           {
             "name": "Value",

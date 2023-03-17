@@ -16,46 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Urban"
+            "title": "Area of residence"
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Rural"
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Men"
-          },
-          {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Women"
+            "title": "Sex of the head of the household"
           },
           {
             "name": "Value",

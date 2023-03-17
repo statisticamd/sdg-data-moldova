@@ -16,25 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "15+ / Men",
+            "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group / Sex",
+                "15+ / Men",
+                "15+ / Women",
                 ""
               ]
             },
-            "title": "15+ / Men"
-          },
-          {
-            "name": "15+ / Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "15+ / Women"
+            "title": "Age group / Sex"
           },
           {
             "name": "Value",

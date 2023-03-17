@@ -17,122 +17,50 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Municipality Chisinau",
+            "name": "Statistical regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Statistical regions",
+                "Municipality Chisinau",
+                "North",
+                "Center",
+                "South",
                 ""
               ]
             }
           },
           {
-            "name": "North",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Center",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "South",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Men",
+                "Women",
                 ""
               ]
             }
@@ -160,141 +88,61 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Municipality Chisinau",
+            "name": "Statistical regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Statistical regions",
+                "Municipality Chisinau",
+                "North",
+                "Center",
+                "South",
                 ""
               ]
             }
           },
           {
-            "name": "North",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Center",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "South",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Public network",
+            "name": "Type of sewerage ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Type of sewerage ",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Own system",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Public network",
+                "Own system",
                 ""
               ]
             }
@@ -322,94 +170,38 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
@@ -437,94 +229,38 @@
             "type": "integer"
           },
           {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
           },
           {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "People with disabilities",
+            "name": "The existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "The existence of disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "People without disabilities",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "People with disabilities",
+                "People without disabilities",
                 ""
               ]
             }
@@ -552,94 +288,38 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
@@ -689,20 +369,12 @@
             "type": "integer"
           },
           {
-            "name": "15+ / Men",
+            "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group / Sex",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15+ / Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "15+ / Men",
+                "15+ / Women",
                 ""
               ]
             }
@@ -764,39 +436,23 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Men",
+                "Women",
                 ""
               ]
             }
@@ -824,159 +480,63 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "<30",
+            "name": "Age groups of head of household, years",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age groups of head of household, years",
+                "<30",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             }
           },
           {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60-64",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "65+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "With children up to 18 years",
+            "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Household type",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Without children up to 18 years",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "With children up to 18 years",
+                "Without children up to 18 years",
                 ""
               ]
             }
@@ -1004,159 +564,63 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
           },
           {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "People with disability",
+            "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "Existence of disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "People without disability",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "People with disability",
+                "People without disability",
                 ""
               ]
             }
@@ -1206,232 +670,80 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15-24",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
                 ""
               ]
             }
           },
           {
-            "name": "25-34",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "35-44",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "45-54",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "55+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-14 / Total",
+            "name": "Age group 1 and Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group 1 and Sex",
+                "0-14 / Total",
+                "15+ / Total",
+                "15+ / Men",
+                "15+ / Women",
                 ""
               ]
             }
           },
           {
-            "name": "15+ / Total",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15+ / Men",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15+ / Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15-24 / Total",
+            "name": "Age group 2 and Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group 2 and Sex",
+                "15-24 / Total",
+                "15-24 / Men",
+                "15-24 / Women",
+                "25+ / Total",
+                "25+ / Men",
+                "25+ / Women",
                 ""
               ]
             }
           },
           {
-            "name": "15-24 / Men",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "15-24 / Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "25+ / Total",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "25+ / Men",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "25+ / Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Self-employers in agriculture",
+            "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Employment status",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Employees in the agricultural sector",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Employees in the non-agricultural sector",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Self-employers in non-agricultural activities",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Pensioners",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Others",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Self-employers in agriculture",
+                "Employees in the agricultural sector",
+                "Employees in the non-agricultural sector",
+                "Self-employers in non-agricultural activities",
+                "Pensioners",
+                "Others",
                 ""
               ]
             }
@@ -1459,140 +771,52 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
           },
           {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
@@ -1620,122 +844,50 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Municipality Chisinau",
+            "name": "Statistical regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Statistical regions",
+                "Municipality Chisinau",
+                "North",
+                "Center",
+                "South",
                 ""
               ]
             }
           },
           {
-            "name": "North",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Center",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "South",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Men",
+                "Women",
                 ""
               ]
             }
@@ -1763,20 +915,12 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Urban",
+                "Rural",
                 ""
               ]
             }
@@ -1804,177 +948,65 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
           },
           {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Higher",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Education level",
+                "Higher",
+                "Vocational",
+                "General secondary",
+                "Primary or less",
                 ""
               ]
             }
           },
           {
-            "name": "Vocational",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "General secondary",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Primary or less",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Employees",
+            "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Employment status",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Self-employers in agriculture",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Self-employers in non-agricultural activities",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Pensioners",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Others",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Employees",
+                "Self-employers in agriculture",
+                "Self-employers in non-agricultural activities",
+                "Pensioners",
+                "Others",
                 ""
               ]
             }
@@ -2002,140 +1034,52 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "<30",
+            "name": "Age groups of head of household, years",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age groups of head of household, years",
+                "<30",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             }
           },
           {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60-64",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "65+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
@@ -2163,48 +1107,24 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Total, quintile I",
+            "name": "Quintile I, by area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintile I, by area of residence",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Urban, quintile I",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Rural, quintile I",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Total, quintile I",
+                "Urban, quintile I",
+                "Rural, quintile I",
                 ""
               ]
             }
@@ -2232,159 +1152,63 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex of the head of the household",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "<30",
+            "name": "Age groups of head of household, years",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age groups of head of household, years",
+                "<30",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60-64",
+                "65+",
                 ""
               ]
             }
           },
           {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60-64",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "65+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "With children up to 18 years",
+            "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Household type",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Without children up to 18 years",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "With children up to 18 years",
+                "Without children up to 18 years",
                 ""
               ]
             }
@@ -2412,48 +1236,24 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Total, quintile I",
+            "name": "Quintile I, by area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintile I, by area of residence",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Urban, quintile I",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Rural, quintile I",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Total, quintile I",
+                "Urban, quintile I",
+                "Rural, quintile I",
                 ""
               ]
             }
@@ -2481,104 +1281,48 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "15+",
+                "57+ (women) / 62+ (men)",
                 ""
               ]
             }
           },
           {
-            "name": "15+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "57+ (women) / 62+ (men)",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Access to electricity",
+            "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sub-indicators",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Access to safely managed water sources",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Access to sewerage",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Access to internet",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Access to electricity",
+                "Access to safely managed water sources",
+                "Access to sewerage",
+                "Access to internet",
                 ""
               ]
             }
@@ -2606,159 +1350,63 @@
             "type": "integer"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             }
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
                 ""
               ]
             }
           },
           {
-            "name": "18-29",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "30-39",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "40-49",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "50-59",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "60+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "I",
+            "name": "Quintiles on consumption expenditures",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintiles on consumption expenditures",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
                 ""
               ]
             }
           },
           {
-            "name": "II",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "III",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "IV",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "V",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "People with disability",
+            "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "Existence of disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "People without disability",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "People with disability",
+                "People without disability",
                 ""
               ]
             }

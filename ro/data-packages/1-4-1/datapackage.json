@@ -16,118 +16,55 @@
             "title": "Year"
           },
           {
-            "name": "Urban",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area of residence",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Urban"
+            "title": "Area of residence"
           },
           {
-            "name": "Rural",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Rural"
-          },
-          {
-            "name": "Men",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sex",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Men"
+            "title": "Sex"
           },
           {
-            "name": "Women",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Women"
-          },
-          {
-            "name": "0-17",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Age group",
+                "0-17",
+                "15+",
+                "57+ (women) / 62+ (men)",
                 ""
               ]
             },
-            "title": "0-17"
+            "title": "Age group"
           },
           {
-            "name": "15+",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "15+"
-          },
-          {
-            "name": "57+ (women) / 62+ (men)",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "57+ (women) / 62+ (men)"
-          },
-          {
-            "name": "Access to electricity",
+            "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sub-indicators",
+                "Access to electricity",
+                "Access to safely managed water sources",
+                "Access to sewerage",
+                "Access to internet",
                 ""
               ]
             },
-            "title": "Access to electricity"
-          },
-          {
-            "name": "Access to safely managed water sources",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Access to safely managed water sources"
-          },
-          {
-            "name": "Access to sewerage",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Access to sewerage"
-          },
-          {
-            "name": "Access to internet",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Access to internet"
+            "title": "Sub-indicators"
           },
           {
             "name": "Value",
