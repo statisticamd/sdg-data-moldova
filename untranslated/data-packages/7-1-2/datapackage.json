@@ -12,7 +12,90 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Home heating systems - total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Centralized",
+                "Natural gas, electricity",
+                "Wood, waste and coal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Home heating systems - urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Centralized",
+                "Natural gas, electricity",
+                "Wood, waste and coal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Home heating systems - rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Centralized",
+                "Natural gas, electricity",
+                "Wood, waste and coal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Food preparation - total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural gas / liquefied gas",
+                "Wood, waste and coal",
+                "Electricity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Food preparation - urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural gas / liquefied gas",
+                "Wood, waste and coal",
+                "Electricity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Food preparation - rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural gas / liquefied gas",
+                "Wood, waste and coal",
+                "Electricity",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

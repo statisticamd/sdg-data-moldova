@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Bio-fuel and waste",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Petrol products",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Coal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Natural gas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Thermal energy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Electricity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                "Lighting and use of electrical appliances",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-1-2-1",
+  "title": "global_indicators.7-1-2-1-title"
+}

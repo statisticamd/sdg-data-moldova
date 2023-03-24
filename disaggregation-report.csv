@@ -4,16 +4,32 @@ Age group 2 and Sex,1,6
 Age group / Sex,1,2
 Age group,7,13
 "Age groups of head of household, years",3,6
-Area of residence,16,2
+Area of residence,23,2
+Bio-fuel and waste,1,4
+Coal,1,4
+Electricity,1,5
 Employment status,1,6
 Existence of disability,2,2
+Food preparation - rural,1,3
+Food preparation - total,1,3
+Food preparation - urban,1,3
+Forms of ownership,2,2
 Group,1,3
+Home heating systems - rural,1,3
+Home heating systems - total,1,3
+Home heating systems - urban,1,3
 Household type,2,2
+Modes of transport,2,6
+Natural gas,1,4
+Petrol products,1,4
 "Quintile I, by area of residence",2,3
 Quintiles on consumption expenditures,9,5
+Regions,1,5
 Sex of the head of the household,7,2
-Sex,7,2
+Sex,12,4
+Sexes,1,1
 Statistical regions,3,4
 Sub-indicators,1,4
 The existence of disability,1,2
+Thermal energy,1,4
 Type of sewerage ,1,2

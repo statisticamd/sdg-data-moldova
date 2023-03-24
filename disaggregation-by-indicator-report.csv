@@ -13,8 +13,22 @@ Indicator,Disaggregations,Number of disaggregations
 #3-8-2-2,"Area of residence, Quintiles on consumption expenditures, Sex, Age group",4
 #3-8-2-a,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years, Household type",5
 #3-8-2-b,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years, Household type",5
+#4-2-2,"Area of residence, Sex",2
+#4-5-1-a,"Area of residence, Sex",2
+#4-5-1-b,"Area of residence, Sexes",2
+#4-5-1-c,Sex,1
+#4-a-1-b,Area of residence,1
+#4-a-1-c,Area of residence,1
+#4-c-1-a,"Sex, Forms of ownership",2
+#4-c-1-b,"Sex, Forms of ownership",2
+#5-4-1-2,Area of residence,1
 #5-b-1-1,"Area of residence, Sex of the head of the household",2
 #6-1-1,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the head of the household",4
 #6-2-1-1,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the head of the household",4
 #6-2-1-a,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the head of the household, Type of sewerage ",5
 #7-1-1,Area of residence,1
+#7-1-2,"Area of residence, Home heating systems - total, Home heating systems - urban, Home heating systems - rural, Food preparation - total, Food preparation - urban, Food preparation - rural",7
+#7-1-2-1,"Bio-fuel and waste, Petrol products, Coal, Natural gas, Thermal energy, Electricity",6
+#8-5-1-1,Regions,1
+#9-1-2-a,Modes of transport,1
+#9-1-2-b,Modes of transport,1

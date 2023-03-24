@@ -3,6 +3,42 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "5-4-1-2/data.csv",
+      "name": "5-4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.5-4-1-2-title"
+    },
+    {
       "path": "6-2-1-1/data.csv",
       "name": "6-2-1-1",
       "profile": "tabular-data-resource",
@@ -421,6 +457,102 @@
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
+      "path": "4-c-1-b/data.csv",
+      "name": "4-c-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Forms of ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Forms of ownership"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-c-1-b-title"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boys",
+                "Girls",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -504,6 +636,115 @@
         ]
       },
       "title": "global_indicators.5-b-1-1-title"
+    },
+    {
+      "path": "7-1-2-1/data.csv",
+      "name": "7-1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Bio-fuel and waste",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            },
+            "title": "Bio-fuel and waste"
+          },
+          {
+            "name": "Petrol products",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            },
+            "title": "Petrol products"
+          },
+          {
+            "name": "Coal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            },
+            "title": "Coal"
+          },
+          {
+            "name": "Natural gas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            },
+            "title": "Natural gas"
+          },
+          {
+            "name": "Thermal energy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                ""
+              ]
+            },
+            "title": "Thermal energy"
+          },
+          {
+            "name": "Electricity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                "Lighting and use of electrical appliances",
+                ""
+              ]
+            },
+            "title": "Electricity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.7-1-2-1-title"
     },
     {
       "path": "3-8-2-a/data.csv",
@@ -821,6 +1062,134 @@
       "title": "global_indicators.1-1-1-1-title"
     },
     {
+      "path": "4-a-1-c/data.csv",
+      "name": "4-a-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-a-1-c-title"
+    },
+    {
+      "path": "4-5-1-e/data.csv",
+      "name": "4-5-1-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-5-1-e-title"
+    },
+    {
+      "path": "4-5-1-a/data.csv",
+      "name": "4-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-5-1-a-title"
+    },
+    {
       "path": "3-8-2-2/data.csv",
       "name": "3-8-2-2",
       "profile": "tabular-data-resource",
@@ -1011,6 +1380,120 @@
         ]
       },
       "title": "Proportion of population with access to electricity"
+    },
+    {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Home heating systems - total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Centralized",
+                "Natural gas, electricity",
+                "Wood, waste and coal",
+                ""
+              ]
+            },
+            "title": "Home heating systems - total"
+          },
+          {
+            "name": "Home heating systems - urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Centralized",
+                "Natural gas, electricity",
+                "Wood, waste and coal",
+                ""
+              ]
+            },
+            "title": "Home heating systems - urban"
+          },
+          {
+            "name": "Home heating systems - rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Centralized",
+                "Natural gas, electricity",
+                "Wood, waste and coal",
+                ""
+              ]
+            },
+            "title": "Home heating systems - rural"
+          },
+          {
+            "name": "Food preparation - total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural gas / liquefied gas",
+                "Wood, waste and coal",
+                "Electricity",
+                ""
+              ]
+            },
+            "title": "Food preparation - total"
+          },
+          {
+            "name": "Food preparation - urban",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural gas / liquefied gas",
+                "Wood, waste and coal",
+                "Electricity",
+                ""
+              ]
+            },
+            "title": "Food preparation - urban"
+          },
+          {
+            "name": "Food preparation - rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Natural gas / liquefied gas",
+                "Wood, waste and coal",
+                "Electricity",
+                ""
+              ]
+            },
+            "title": "Food preparation - rural"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "5-b-1/data.csv",
@@ -1234,6 +1717,129 @@
       "title": "global_indicators.1-3-1-h-title"
     },
     {
+      "path": "4-c-1-a/data.csv",
+      "name": "4-c-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Forms of ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Forms of ownership"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-c-1-a-title"
+    },
+    {
+      "path": "9-1-2-b/data.csv",
+      "name": "9-1-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Modes of transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Railway",
+                "Road",
+                "Taxi",
+                "Trolleybuses",
+                "River",
+                "Air",
+                ""
+              ]
+            },
+            "title": "Modes of transport"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.9-1-2-b-title"
+    },
+    {
+      "path": "4-5-1-c/data.csv",
+      "name": "4-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-5-1-c-title"
+    },
+    {
       "path": "3-8-2-b/data.csv",
       "name": "3-8-2-b",
       "profile": "tabular-data-resource",
@@ -1374,6 +1980,42 @@
       "title": "global_indicators.1-3-1-i-title"
     },
     {
+      "path": "4-a-1-b/data.csv",
+      "name": "4-a-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-a-1-b-title"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -1447,6 +2089,131 @@
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "4-c-1-c/data.csv",
+      "name": "4-c-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Forms of ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Forms of ownership"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-c-1-c-title"
+    },
+    {
+      "path": "8-5-1-1/data.csv",
+      "name": "8-5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North",
+                "South",
+                "Center",
+                "ATU Gagauzia",
+                "Mun. Chisinău",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.8-5-1-1-title"
+    },
+    {
+      "path": "9-1-2-a/data.csv",
+      "name": "9-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Modes of transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Railway",
+                "Road",
+                "River",
+                "Air",
+                ""
+              ]
+            },
+            "title": "Modes of transport"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.9-1-2-a-title"
     },
     {
       "path": "11-1-1-b/data.csv",
@@ -1538,6 +2305,52 @@
         ]
       },
       "title": "global_indicators.11-1-1-b-title"
+    },
+    {
+      "path": "4-5-1-b/data.csv",
+      "name": "4-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Sexes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sexes"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-5-1-b-title"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2113,7 +2926,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-b-1-title"
+      "title": "Pro-poor public social spending"
     },
     {
       "path": "12-c-1/data.csv",
@@ -2329,7 +3142,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-1-title"
+      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "3-9-3/data.csv",
@@ -6028,30 +6841,6 @@
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
-    },
-    {
       "path": "12-4-2/data.csv",
       "name": "12-4-2",
       "profile": "tabular-data-resource",
@@ -6962,30 +7751,6 @@
         ]
       },
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
-    },
-    {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "13-1-1/data.csv",
