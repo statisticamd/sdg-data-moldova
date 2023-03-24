@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 4.2.2 Participation rate in formal education of children aged 6 years old
+graph_title: 8.5.1.1  Gender pay gap
 graph_titles: []
 graph_type: line
-indicator_available: ipation rate in formal education of children aged 6 years old
-indicator_name: global_indicators.4-2-2-title
-indicator_number: 4.2.2
+indicator_available: Gender pay gap
+indicator_name: global_indicators.8-5-1-1-title
+indicator_number: 8.5.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
 placeholder: ''

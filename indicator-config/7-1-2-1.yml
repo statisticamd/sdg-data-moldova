@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 4.2.2 Participation rate in formal education of children aged 6 years old
+graph_title: 7.1.2.1. Distribution of energy sources used for domestic needs
 graph_titles: []
 graph_type: line
-indicator_available: ipation rate in formal education of children aged 6 years old
-indicator_name: global_indicators.4-2-2-title
-indicator_number: 4.2.2
+indicator_available: Distribution of energy sources used for domestic needs (space  heating, space cooling, water heating, cooking)
+indicator_name: global_indicators.7-1-2-1-title
+indicator_number: 7.1.2.1
 indicator_tabs:: 
   override: false
   tab_1: ''

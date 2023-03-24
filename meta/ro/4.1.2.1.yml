@@ -1,0 +1,73 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 4.1.2.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.1: Până în 2030, asigurarea finalizează învățământul primar și secundar gratuit, echitabil și de calitate, care să conducă la rezultate relevante și eficiente ale învățării pentru fete și băieți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  4.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+SDG_INDICATOR: >-
+  <p>Indicator 4.1.2.1: Rata brută de admisie în ultimul an de studiu al învățământului primar și al învățământului gimnazial</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Rata brută de admisie în ultimul an de studiu al învăţământului primar reprezintă numărul total al elevilor înscrişi pentru prima dată în ultimul an de studiu al învăţământului primar, indiferent de vârstă, exprimat ca raport procentual din totalul populaţiei în vârstă teoretică de intrare în ultimul an al învăţământului primar.
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1)Cercetarea statistică nr 1-edu "Activitatea instituțiilor de învățământ  primar  și secundar general"</p> 
+  <p>  </p> 
+  <p> 2)Statistica populației </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Educației și Cercetării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total al elevilor înscrişi pentru prima dată în ultimul an de studiu al învăţământului primar, indiferent de vârstă,  raportat la numărul populaţiei în vârstă teoretică de intrare în ultimul an al învăţământului primar,*100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

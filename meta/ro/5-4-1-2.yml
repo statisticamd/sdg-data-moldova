@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.4.1.2: Gradul de cuprindere a copiilor până la 3 ani cu educație timpurie</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.4: Recunoașterea și aprecierea îngrijirii neremunerate și a muncii casnice prin  furnizarea de servicii    publice, infrastructură și politici de protecție  socială și promovarea responsabilității partajate în   gospodărie și familie,  după caz la nivel național</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UN Statistics Division (UNSD)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  5.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 337 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 5.4.1.2: Gradul de cuprindere a copiilor până la 3 ani cu educație timpurie</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Copiii din grupa de vârstă 0-2 ani includ toți copiii până la atingerea  vârstei de 3 ani, (de exemplu copiii de 2 ani și 11 luni).
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Cercetarea statistică nr. 85-edu (Activitatea instituțiilor de educație  timpurie)</p> 
+  <p>  2) Statistica populației </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministerul Muncii și Protecției Sociale</p> 
+  <p>  Ministerul Educației și Cercetării </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Raportul dintre numărul copiilor de 0-2 ani cuprinși în instituții de educație  timpurie raportat la numărul populației în vârstă 1-2 ani
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

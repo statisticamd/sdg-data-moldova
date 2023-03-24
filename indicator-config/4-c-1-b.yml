@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 4.2.2 Participation rate in formal education of children aged 6 years old
+graph_title: 4.c.1.b. Proportion of teachers with pedagogical education in primary  education
 graph_titles: []
 graph_type: line
-indicator_available: ipation rate in formal education of children aged 6 years old
-indicator_name: global_indicators.4-2-2-title
-indicator_number: 4.2.2
+indicator_available: Proportion of teachers with pedagogical education in primary  education
+indicator_name: global_indicators.4-c-1-b-title
+indicator_number: 4.c.1.b
 indicator_tabs:: 
   override: false
   tab_1: ''

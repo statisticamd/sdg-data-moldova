@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: Index
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 4.2.2 Participation rate in formal education of children aged 6 years old
+graph_title: 4.5.1.c. Parity index in general secondary (lyceums) and technical vocational  education (level 3)
 graph_titles: []
 graph_type: line
-indicator_available: ipation rate in formal education of children aged 6 years old
-indicator_name: global_indicators.4-2-2-title
-indicator_number: 4.2.2
+indicator_available: Parity index in general secondary (lyceums) and technical vocational  education (level 3)
+indicator_name: global_indicators.4-5-1-c-title
+indicator_number: 4.5.1.c
 indicator_tabs:: 
   override: false
   tab_1: ''
