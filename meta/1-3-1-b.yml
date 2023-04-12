@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.3.1.b: Proportion of children covered by benefits for families with children (monthly  childcare allowance until the age of 2 for uninsured persons, childcare  allowance for insured persons)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.3: Implement nationally appropriate social protection systems and measures for  all, including floors, and by 2030 achieve substantial coverage of the poor  and the vulnerable</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  ILO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  1.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 894kB)
+SDG_INDICATOR: >-
+  <p>Indicator 1.3.1.b: Proportion of children covered by benefits for families with children  (monthly childcare allowance until the age of 2 for uninsured persons,  childcare allowance for insured persons)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Monthly allowance for raising / caring for a child - monthly amount provided  for raising and caring for children until the child turns 3 years old in case  of insured persons, and until the child turns 2 years old in case of uninsured  persons (Government Decision No. 1478 dated 15.11.2002 on allowances provided  to families with children)
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) No. of children receiving childcare allowances until the age of 2/3 years  old, NSIC - Form 648 as & 648 ns</p> 
+  <p>2) Total number of children/families  with children - NBS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. National Social Insurance House</p> 
+  <p>2. National Bureau of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Labour and Social Protection
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Total number of children who benefit from childcare allowance for children up  to 3 years old/2 years old (insured/uninsured persons), out of the total  number of children aged up to 3 years old.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Only the allowances for raising/caring children up to 3/2 years old, for  insured and uninsured persons are considered
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1. National Social Insurance House</p> 
+  <p>2. National Bureau of Statistics </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

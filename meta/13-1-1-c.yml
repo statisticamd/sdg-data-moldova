@@ -1,0 +1,86 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 13.1.1.c: Number of people directly affected as a result of exceptional situations per  100,000 population (indicator 1.5.1.c/11.5.1.c)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 13.1: Strengthen resilience and adaptive capacity to climate-related hazards and  natural disasters in all countries</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Office for Disaster Reduction (UNISDR)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  13.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 224 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 13.1.1.c: Number of people directly affected as a result of exceptional  situations per 100,000 population (indicator 1.5.1.c/11.5.1.c)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  NA
+UNIT_MEASURE: >-
+  Per 100 000 population
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) administrative data of the General Inspectorate for Emergency Situations  </p> 
+  <p>  2) population statistics produced by NBS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.General Inspectorate for Emergency Situations</p> 
+  <p>  2.National Bureau of  Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Internal Affairs
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> B1=(B2+B3+B4+B5+B6)/total population*100.000. </p> 
+  <p>  where:  the persons  affected by disasters (B1) will include: </p> 
+  <p>  (B2) Number of INJURED persons  or sick persons because of some disasters  - AVAILABLE; </p> 
+  <p>  (B3)  Number of  persons who were evicted / saved / transferred after/because of disaster -  AVAILABLE;  </p> 
+  <p>  (B4) Number of persons whose houses / dwellings were damaged  because of disaster - IT IS PLANNED TO COLLECT DATA </p> 
+  <p>  (B5)  Number of  persons whose houses / dwellings were destroyed because of disasters - IT IS  PLANNED; ADDITIONALLY TO COLLECT the Number of persons who vital activity  conditions were impacted. </p> 
+  <p>  B4=(B4.1) number of damaged houses *(total  population/total no. of households) - AVAILABLE, B5=(B5.1) number of destroyed  houses *(total population/total no. of households) - AVAILABLE. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> The National Indicator represents a part of the Global Indicator </p> 
+  <p>  (B6)  Number of persons who have received / requested food assistance [including  foodstuff and non-foodstuff], medical assistance due to some exceptional  situations - IS NOT COLLECTED, but on the other hand, the NUMBER OF PERSONS  WHOSE VITAL ACTIVITY CONDITIONS WERE AFFECTED is COLLECTED </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1.General Inspectorate for Emergency Situations</p> 
+  <p>  2.National Bureau of  Statistics </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

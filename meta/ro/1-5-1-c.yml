@@ -1,0 +1,86 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.5.1.c: Numărul de persoane direct afectate în urma situațiilor excepționale, la  100000 de locuitori</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.5: Până în 2030, crearea rezilienței celor săraci și a celor aflați în situații  vulnerabile și reducerea expunerii și vulnerabilității acestora la evenimente  extreme legate de climă și alte șocuri și dezastre economice, sociale și de  mediu</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Office for Disaster Reduction (UNISDR)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  1.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 224 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 1.5.1.c: Numărul de persoane direct afectate în urma situațiilor excepționale,  la 100.000 de locuitori</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Situații excepționale se vor considera: cu caracter tehnogen, natural și  biologico-social. Situațiile excepționale se împart în următoarele tipuri: de  obiect, locale, teritoriale, naționale și transfrontaliere (HG  1076/16.11.2010).
+UNIT_MEASURE: >-
+  Persoane la 100.000 locuitori
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) date administrative ale Inspectoratului General pentru Situații de  Urgenta</p> 
+  <p>  2) statistica populației produsa de BNS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1)  Inspectoratul General pentru Situații de Urgență</p> 
+  <p>  2) Biroul Național  de Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerului Afacerilor Interne
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Formula de calcul: B1=(B2+B3+B4+B5+B6)/total populație*100.000. </p> 
+  <p>  Unde:   Persoane afectate de situații excepționale (B1) vor include: </p> 
+  <p>  (B2)  Numărul de persoane TRAUMATE sau bolnave din cauza unor situații excepționale  - DISPONIBIL; </p> 
+  <p>  (B3)  Numărul de persoane evacuate / salvate /  transferate  după/din cauza  situației excepționale - DISPONIBIL;  </p> 
+  <p>  (B4)  Numărul de persoane ale căror case / locuințe au fost deteriorate din cauza  unor situații excepționale - SE PLANIFICA COLECTAREA DE DATE</p> 
+  <p>  (B5)   Numărul de persoane ale căror case / locuințe au fost distruse din cauza unor  situații excepționale - SE PLANIFICA;  ADITIONAL SE COLECTEAZĂ Numărul de  persoane la care au fost afectate condițiile de activitate vitală. </p> 
+  <p>   B4=(B4.1) numărul de case deteriorate*(total populație/total nr.gospodarii) -  DISPONIBIL, B5=(B5.1) numărul de case distruse*(total populație/total  nr.gospodarii) - DISPONIBIL. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Indicatorul național reprezintă o parte din indicatorul global.</p> 
+  <p>  (B6)  Numărul de persoane care au primit / au solicitat ajutor alimentar (inclusiv  alimente și non-alimentare), ajutor medical din cauza unor  situații  excepționale - NU se colecteaza, dar în schimb se colectează numarul de  persoane la care au fost afectate condițtiile de activitate vitală </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Inspectoratul General pentru Situații de Urgență</p> 
+  <p>  2) Biroul Național de  Statistică </p>
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
