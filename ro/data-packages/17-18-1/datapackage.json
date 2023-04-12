@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-18-1",
-  "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
+  "title": "global_indicators.17-18-1-title"
 }

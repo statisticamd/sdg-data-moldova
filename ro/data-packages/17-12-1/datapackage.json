@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-12-1",
-  "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+  "title": "global_indicators.17-12-1-title"
 }

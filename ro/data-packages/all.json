@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -27,19 +27,19 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Value",
@@ -49,6 +49,151 @@
         ]
       },
       "title": "global_indicators.5-b-1-1-title"
+    },
+    {
+      "path": "11-5-1-b/data.csv",
+      "name": "11-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-1-b-title"
+    },
+    {
+      "path": "11-5-2/data.csv",
+      "name": "11-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of critical infrastructure losses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Types of critical infrastructure losses"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "Sud",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "TAU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "4-c-1-b/data.csv",
@@ -63,15 +208,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
-                "Men",
+                "Femei",
+                "Bărbați",
                 ""
               ]
             },
@@ -82,12 +227,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -111,7 +256,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -123,7 +268,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Statistical regions",
@@ -131,13 +276,13 @@
             "constraints": {
               "enum": [
                 "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -152,19 +297,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Type of sewerage ",
@@ -200,7 +345,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -224,7 +369,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -236,15 +381,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -264,7 +409,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -273,7 +418,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "7-1-2-1/data.csv",
@@ -288,92 +433,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Bio-fuel and waste",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Bio-fuel and waste"
+            "title": "Biocombustibili și deșeuri"
           },
           {
             "name": "Petrol products",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Petrol products"
+            "title": "Produse petroliere"
           },
           {
             "name": "Coal",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Coal"
+            "title": "Cărbune"
           },
           {
             "name": "Natural gas",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Natural gas"
+            "title": "Gaze naturale"
           },
           {
             "name": "Thermal energy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Thermal energy"
+            "title": "Energie termică"
           },
           {
             "name": "Electricity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
-                "Lighting and use of electrical appliances",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
+                "Iluminat și utilizarea aparatelor electrice",
                 ""
               ]
             },
-            "title": "Electricity"
+            "title": "Energie electrică"
           },
           {
             "name": "Value",
@@ -383,6 +528,56 @@
         ]
       },
       "title": "global_indicators.7-1-2-1-title"
+    },
+    {
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-a-title"
     },
     {
       "path": "5-4-1-2/data.csv",
@@ -397,7 +592,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -409,7 +604,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
@@ -419,6 +614,116 @@
         ]
       },
       "title": "global_indicators.5-4-1-2-title"
+    },
+    {
+      "path": "1-5-1-b/data.csv",
+      "name": "1-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "Sud",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "UTA Găgăuzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-b-title"
     },
     {
       "path": "4-5-1-a/data.csv",
@@ -433,7 +738,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -444,14 +749,14 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
+                "Femei",
                 ""
               ]
             },
@@ -479,7 +784,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -491,15 +796,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -519,7 +824,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -534,7 +839,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Value",
@@ -558,15 +863,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
-                "Men",
+                "Femei",
+                "Bărbați",
                 ""
               ]
             },
@@ -577,12 +882,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -592,6 +897,89 @@
         ]
       },
       "title": "global_indicators.4-c-1-c-title"
+    },
+    {
+      "path": "11-5-3-b/data.csv",
+      "name": "11-5-3-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of critical infrastructure losses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Types of critical infrastructure losses"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "Sud",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "TAU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-3-b--title"
     },
     {
       "path": "4-a-1-b/data.csv",
@@ -606,7 +994,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -618,7 +1006,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
@@ -628,6 +1016,56 @@
         ]
       },
       "title": "global_indicators.4-a-1-b-title"
+    },
+    {
+      "path": "13-1-1-a/data.csv",
+      "name": "13-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.13-1-1-a-title"
     },
     {
       "path": "3-8-2-b/data.csv",
@@ -642,7 +1080,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -654,19 +1092,19 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Age groups of head of household, years",
@@ -697,19 +1135,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "With children up to 18 years",
-                "Without children up to 18 years",
+                "Cu copii până la 18 ani",
+                "Fără copii până la 18 ani",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Tipul gospodăriei"
           },
           {
             "name": "Value",
@@ -733,7 +1171,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -745,7 +1183,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
@@ -769,21 +1207,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Modes of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Railway",
-                "Road",
-                "River",
-                "Air",
+                "Feroviar",
+                "Rutier",
+                "Fluvial",
+                "Aerian",
                 ""
               ]
             },
-            "title": "Modes of transport"
+            "title": "Moduri de transport"
           },
           {
             "name": "Value",
@@ -807,7 +1245,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -819,19 +1257,19 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Age groups of head of household, years",
@@ -862,7 +1300,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Value",
@@ -886,7 +1324,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -897,14 +1335,14 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sexes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
+                "Femei",
                 ""
               ]
             },
@@ -920,6 +1358,56 @@
       "title": "global_indicators.4-5-1-b-title"
     },
     {
+      "path": "11-5-1-c/data.csv",
+      "name": "11-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-1-c-title"
+    },
+    {
       "path": "5-b-1/data.csv",
       "name": "5-b-1",
       "profile": "tabular-data-resource",
@@ -932,7 +1420,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -944,15 +1432,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -972,14 +1460,14 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
+                "Superioare",
                 "Vocational",
                 "General secondary",
                 "Primary or less",
@@ -1001,7 +1489,7 @@
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
@@ -1011,6 +1499,56 @@
         ]
       },
       "title": "Proportion of individuals who own a mobile telephone, by sex"
+    },
+    {
+      "path": "1-5-1-c/data.csv",
+      "name": "1-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inclusiv copii (0-17 ani)",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-c-title"
     },
     {
       "path": "6-1-1/data.csv",
@@ -1025,7 +1563,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1037,7 +1575,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Statistical regions",
@@ -1045,13 +1583,13 @@
             "constraints": {
               "enum": [
                 "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -1066,19 +1604,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Value",
@@ -1088,6 +1626,44 @@
         ]
       },
       "title": "Proportion of population using safely managed drinking water services"
+    },
+    {
+      "path": "1-5-2/data.csv",
+      "name": "1-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Tipuri SE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Tipuri SE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "4-5-1-c/data.csv",
@@ -1102,14 +1678,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
+                "Femei",
                 ""
               ]
             },
@@ -1137,15 +1713,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
-                "Men",
+                "Femei",
+                "Bărbați",
                 ""
               ]
             },
@@ -1156,12 +1732,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -1185,15 +1761,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -1213,19 +1789,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "The existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disabilities",
-                "People without disabilities",
+                "Persoane cu dizabilități",
+                "Persoane fără dizabilități",
                 ""
               ]
             },
-            "title": "The existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -1234,7 +1810,7 @@
           }
         ]
       },
-      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
       "path": "4-2-2/data.csv",
@@ -1249,15 +1825,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Băieți",
+                "Fete",
                 ""
               ]
             },
@@ -1273,7 +1849,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
@@ -1297,19 +1873,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+ / Men",
-                "15+ / Women",
+                "15+ / Bărbați",
+                "15+ / Femei",
                 ""
               ]
             },
-            "title": "Age group / Sex"
+            "title": "Grupa de vârstă / Sexul"
           },
           {
             "name": "Value",
@@ -1319,6 +1895,56 @@
         ]
       },
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+    },
+    {
+      "path": "13-1-1-c/data.csv",
+      "name": "13-1-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.13-1-1-c-title"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -1333,7 +1959,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1345,15 +1971,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -1373,7 +1999,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -1388,19 +2014,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disability",
-                "People without disability",
+                "Persoane cu dizabilitate",
+                "Persoane fără dizabilitate",
                 ""
               ]
             },
-            "title": "Existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -1424,7 +2050,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1436,15 +2062,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -1464,7 +2090,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -1479,19 +2105,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disability",
-                "People without disability",
+                "Persoane cu dizabilitate",
+                "Persoane fără dizabilitate",
                 ""
               ]
             },
-            "title": "Existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -1515,7 +2141,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1527,15 +2153,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -1548,25 +2174,25 @@
               "enum": [
                 "0-17",
                 "15+",
-                "57+ (women) / 62+ (men)",
+                "57+ (femei) / 62+ (bărbați)",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Access to electricity",
-                "Access to safely managed water sources",
-                "Access to sewerage",
-                "Access to internet",
+                "Acces la electricitate",
+                "Acces la surse gestionate sigur de apă",
+                "Acces la canalizare",
+                "Acces la internet",
                 ""
               ]
             },
-            "title": "Sub-indicators"
+            "title": "Sub-indicatori"
           },
           {
             "name": "Value",
@@ -1575,7 +2201,55 @@
           }
         ]
       },
-      "title": "Proportion of population living in households with access to basic services"
+      "title": "global_indicators.1-4-1-title"
+    },
+    {
+      "path": "1-3-1-b/data.csv",
+      "name": "1-3-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asigurați",
+                "Neasigurați",
+                ""
+              ]
+            },
+            "title": "Status"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-b-title"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1590,7 +2264,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1602,15 +2276,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -1630,7 +2304,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -1654,7 +2328,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1665,14 +2339,14 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
+                "Femei",
                 ""
               ]
             },
@@ -1688,6 +2362,69 @@
       "title": "global_indicators.4-5-1-e-title"
     },
     {
+      "path": "1-3-1-a/data.csv",
+      "name": "1-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<=50",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-a-title"
+    },
+    {
       "path": "10-1-1-a/data.csv",
       "name": "10-1-1-a",
       "profile": "tabular-data-resource",
@@ -1700,7 +2437,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1710,6 +2447,30 @@
         ]
       },
       "title": "global_indicators.10-1-1-a-title"
+    },
+    {
+      "path": "1-3-1-c/data.csv",
+      "name": "1-3-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-c-title"
     },
     {
       "path": "4-a-1-c/data.csv",
@@ -1724,7 +2485,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1736,7 +2497,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
@@ -1760,7 +2521,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1772,20 +2533,20 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Quintile I, by area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, quintile I",
-                "Urban, quintile I",
-                "Rural, quintile I",
+                "Total, chintila I",
+                "Urban, chintila I",
+                "Rural, chintila I",
                 ""
               ]
             },
-            "title": "Quintile I, by area of residence"
+            "title": "Chintila I, pe medii"
           },
           {
             "name": "Value",
@@ -1795,6 +2556,56 @@
         ]
       },
       "title": "global_indicators.1-3-1-i-title"
+    },
+    {
+      "path": "11-5-1-a/data.csv",
+      "name": "11-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-1-a-title"
     },
     {
       "path": "9-1-2-b/data.csv",
@@ -1809,23 +2620,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Modes of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Railway",
-                "Road",
-                "Taxi",
-                "Trolleybuses",
-                "River",
-                "Air",
+                "Feroviar",
+                "Rutier",
+                "Taximetre",
+                "Troleibuze",
+                "Fluvial",
+                "Aerian",
                 ""
               ]
             },
-            "title": "Modes of transport"
+            "title": "Moduri de transport"
           },
           {
             "name": "Value",
@@ -1849,22 +2660,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
-                "South",
-                "Center",
-                "ATU Gagauzia",
+                "Nord",
+                "Sud",
+                "Centru",
+                "UTA Găgăuzia",
                 "Mun. Chisinău",
                 ""
               ]
             },
-            "title": "Regions"
+            "title": "Regiuni"
           },
           {
             "name": "Value",
@@ -1888,7 +2699,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1900,85 +2711,85 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Home heating systems - total",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - total"
+            "title": "Sisteme de încălzire a locuințelor -"
           },
           {
             "name": "Home heating systems - urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - urban"
+            "title": "Sisteme de încălzire a locuințelor - urban"
           },
           {
             "name": "Home heating systems - rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - rural"
+            "title": "Sisteme de încălzire a locuințelor - rural"
           },
           {
             "name": "Food preparation - total",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - total"
+            "title": "Pregătirea alimentelor -"
           },
           {
             "name": "Food preparation - urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - urban"
+            "title": "Pregătirea alimentelor - urban"
           },
           {
             "name": "Food preparation - rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - rural"
+            "title": "Pregătirea alimentelor - rural"
           },
           {
             "name": "Value",
@@ -2002,7 +2813,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2014,20 +2825,20 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Quintile I, by area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, quintile I",
-                "Urban, quintile I",
-                "Rural, quintile I",
+                "Total, chintila I",
+                "Urban, chintila I",
+                "Rural, chintila I",
                 ""
               ]
             },
-            "title": "Quintile I, by area of residence"
+            "title": "Chintila I, pe medii"
           },
           {
             "name": "Value",
@@ -2037,6 +2848,68 @@
         ]
       },
       "title": "global_indicators.1-3-1-h-title"
+    },
+    {
+      "path": "13-1-1-b/data.csv",
+      "name": "13-1-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Clase SE"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.13-1-1-b-title"
     },
     {
       "path": "1-1-1/data.csv",
@@ -2051,7 +2924,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Group",
@@ -2064,7 +2937,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Grupa"
           },
           {
             "name": "Value",
@@ -2073,7 +2946,7 @@
           }
         ]
       },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+      "title": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
     },
     {
       "path": "3-8-2-a/data.csv",
@@ -2088,7 +2961,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2100,19 +2973,19 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Age groups of head of household, years",
@@ -2143,19 +3016,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "With children up to 18 years",
-                "Without children up to 18 years",
+                "Cu copii până la 18 ani",
+                "Fără copii până la 18 ani",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Tipul gospodăriei"
           },
           {
             "name": "Value",
@@ -2179,7 +3052,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2191,15 +3064,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -2218,7 +3091,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Age group 1 and Sex",
@@ -2227,12 +3100,12 @@
               "enum": [
                 "0-14 / Total",
                 "15+ / Total",
-                "15+ / Men",
-                "15+ / Women",
+                "15+ / Bărbați",
+                "15+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 1 and Sex"
+            "title": "Grupa de vârstă 1 și Sex"
           },
           {
             "name": "Age group 2 and Sex",
@@ -2240,15 +3113,15 @@
             "constraints": {
               "enum": [
                 "15-24 / Total",
-                "15-24 / Men",
-                "15-24 / Women",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
                 "25+ / Total",
-                "25+ / Men",
-                "25+ / Women",
+                "25+ / Bărbați",
+                "25+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 2 and Sex"
+            "title": "Grupa de vârstă 2 și Sex"
           },
           {
             "name": "Employment status",
@@ -2264,7 +3137,7 @@
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
@@ -2273,7 +3146,7 @@
           }
         ]
       },
-      "title": "Proportion of the population living dasdasdasds"
+      "title": "global_indicators.1-1-1-1-title"
     },
     {
       "path": "6-2-1-1/data.csv",
@@ -2288,7 +3161,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2300,7 +3173,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Statistical regions",
@@ -2308,13 +3181,13 @@
             "constraints": {
               "enum": [
                 "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -2329,19 +3202,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Value",
@@ -2365,7 +3238,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2374,7 +3247,7 @@
           }
         ]
       },
-      "title": "Developing countries’ and least developed countries’ share of global exports"
+      "title": "Developing countriesâ€™ and least developed countriesâ€™ share of global exports"
     },
     {
       "path": "3-1-2/data.csv",
@@ -2389,7 +3262,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2413,7 +3286,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2437,7 +3310,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2446,7 +3319,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy"
+      "title": "global_indicators.10-4-2-title"
     },
     {
       "path": "11-7-2/data.csv",
@@ -2461,7 +3334,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2485,7 +3358,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2509,7 +3382,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2518,7 +3391,7 @@
           }
         ]
       },
-      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+      "title": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
     },
     {
       "path": "5-a-1/data.csv",
@@ -2533,7 +3406,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2557,7 +3430,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2566,7 +3439,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "global_indicators.16-b-1-title"
     },
     {
       "path": "8-b-1/data.csv",
@@ -2581,7 +3454,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2605,7 +3478,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2629,7 +3502,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2653,7 +3526,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2677,7 +3550,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2701,7 +3574,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2710,7 +3583,7 @@
           }
         ]
       },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
+      "title": "Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction"
     },
     {
       "path": "15-9-1/data.csv",
@@ -2725,7 +3598,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2734,7 +3607,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
+      "title": "global_indicators.15-9-1-title"
     },
     {
       "path": "9-2-2/data.csv",
@@ -2749,7 +3622,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2773,7 +3646,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2797,7 +3670,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2821,7 +3694,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2830,7 +3703,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+      "title": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2845,7 +3718,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2869,7 +3742,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2893,7 +3766,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2917,7 +3790,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2941,7 +3814,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2950,7 +3823,7 @@
           }
         ]
       },
-      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
+      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donorsâ€™ gross national income (GNI)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -2965,7 +3838,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2974,7 +3847,7 @@
           }
         ]
       },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
       "path": "13-a-1/data.csv",
@@ -2989,7 +3862,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2998,7 +3871,7 @@
           }
         ]
       },
-      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
+      "title": "Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment"
     },
     {
       "path": "1-a-2/data.csv",
@@ -3013,7 +3886,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3037,7 +3910,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3061,7 +3934,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3085,7 +3958,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3094,7 +3967,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "global_indicators.7-b-1-title"
     },
     {
       "path": "3-c-1/data.csv",
@@ -3109,7 +3982,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3133,7 +4006,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3157,7 +4030,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3181,7 +4054,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3205,7 +4078,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3229,7 +4102,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3253,7 +4126,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3277,7 +4150,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3301,7 +4174,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3310,7 +4183,7 @@
           }
         ]
       },
-      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
+      "title": "global_indicators.11-a-1-title"
     },
     {
       "path": "17-15-1/data.csv",
@@ -3325,7 +4198,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3349,7 +4222,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3373,7 +4246,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3397,7 +4270,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3421,7 +4294,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3445,7 +4318,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3455,30 +4328,6 @@
         ]
       },
       "title": "Proportion of domestic budget funded by domestic taxes"
-    },
-    {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "15-4-1/data.csv",
@@ -3493,7 +4342,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3517,7 +4366,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3526,7 +4375,7 @@
           }
         ]
       },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3541,7 +4390,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3550,7 +4399,7 @@
           }
         ]
       },
-      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
+      "title": "global_indicators.3-d-2-title"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3565,7 +4414,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3589,7 +4438,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3598,7 +4447,7 @@
           }
         ]
       },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+      "title": "Proportion and number of children aged 5-17 years engaged in child labour, by sex and age"
     },
     {
       "path": "9-5-1/data.csv",
@@ -3613,7 +4462,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3637,7 +4486,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3661,7 +4510,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3670,7 +4519,7 @@
           }
         ]
       },
-      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
+      "title": "Proportion of national exclusive economic zones managed using ecosystem-based approaches"
     },
     {
       "path": "9-4-1/data.csv",
@@ -3685,7 +4534,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3709,7 +4558,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3733,7 +4582,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3757,7 +4606,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3766,7 +4615,7 @@
           }
         ]
       },
-      "title": "(a) Food loss index and (b) food waste index"
+      "title": "Global food loss index"
     },
     {
       "path": "3-a-1/data.csv",
@@ -3781,7 +4630,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3790,7 +4639,7 @@
           }
         ]
       },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "10-3-1/data.csv",
@@ -3805,7 +4654,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3814,7 +4663,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "global_indicators.10-3-1-title"
     },
     {
       "path": "12-8-1/data.csv",
@@ -3829,7 +4678,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3838,7 +4687,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "global_indicators.12-8-1-title"
     },
     {
       "path": "15-3-1/data.csv",
@@ -3853,7 +4702,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3877,7 +4726,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3901,7 +4750,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3925,7 +4774,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3949,7 +4798,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3958,7 +4807,7 @@
           }
         ]
       },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -3973,7 +4822,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3997,7 +4846,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4021,7 +4870,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4045,7 +4894,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4054,7 +4903,7 @@
           }
         ]
       },
-      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+      "title": "global_indicators.15-8-1-title"
     },
     {
       "path": "4-4-1/data.csv",
@@ -4069,7 +4918,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4093,7 +4942,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4102,7 +4951,7 @@
           }
         ]
       },
-      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+      "title": "global_indicators.14-3-1-title"
     },
     {
       "path": "14-c-1/data.csv",
@@ -4117,7 +4966,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4126,7 +4975,7 @@
           }
         ]
       },
-      "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
+      "title": "global_indicators.14-c-1-title"
     },
     {
       "path": "10-7-4/data.csv",
@@ -4141,7 +4990,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4150,31 +4999,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who are refugees, by country of origin"
-    },
-    {
-      "path": "11-5-2/data.csv",
-      "name": "11-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+      "title": "global_indicators.10-7-4-title"
     },
     {
       "path": "16-3-3/data.csv",
@@ -4189,7 +5014,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4198,7 +5023,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+      "title": "global_indicators.16-3-3-title"
     },
     {
       "path": "2-2-3/data.csv",
@@ -4213,7 +5038,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4222,7 +5047,7 @@
           }
         ]
       },
-      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+      "title": "global_indicators.2-2-3-title"
     },
     {
       "path": "14-1-1/data.csv",
@@ -4237,7 +5062,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4246,7 +5071,7 @@
           }
         ]
       },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+      "title": "global_indicators.14-1-1-title"
     },
     {
       "path": "11-5-1/data.csv",
@@ -4261,7 +5086,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4285,7 +5110,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4309,7 +5134,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4333,7 +5158,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4342,7 +5167,7 @@
           }
         ]
       },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+      "title": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18"
     },
     {
       "path": "13-1-1/data.csv",
@@ -4357,7 +5182,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4381,7 +5206,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4390,7 +5215,7 @@
           }
         ]
       },
-      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
+      "title": "global_indicators.17-17-1-title"
     },
     {
       "path": "3-b-1/data.csv",
@@ -4405,7 +5230,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4429,7 +5254,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4453,7 +5278,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4477,7 +5302,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4486,7 +5311,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Dollar value of financial and technical assistance (including through North-South, Southâ€‘South and triangular cooperation) committed to developing countries"
     },
     {
       "path": "8-1-1/data.csv",
@@ -4501,7 +5326,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4525,7 +5350,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4549,7 +5374,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4558,7 +5383,7 @@
           }
         ]
       },
-      "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
+      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels"
     },
     {
       "path": "16-4-1/data.csv",
@@ -4573,7 +5398,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4597,7 +5422,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4606,7 +5431,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+      "title": "Number of countries that have implemented well-managed migration policies"
     },
     {
       "path": "16-7-1/data.csv",
@@ -4621,7 +5446,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4630,7 +5455,7 @@
           }
         ]
       },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+      "title": "global_indicators.16-7-1-title"
     },
     {
       "path": "13-1-3/data.csv",
@@ -4645,7 +5470,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4669,7 +5494,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4693,7 +5518,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4702,7 +5527,7 @@
           }
         ]
       },
-      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "12-4-1/data.csv",
@@ -4717,7 +5542,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4741,7 +5566,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4750,7 +5575,7 @@
           }
         ]
       },
-      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+      "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
     },
     {
       "path": "9-3-2/data.csv",
@@ -4765,7 +5590,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4789,7 +5614,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4798,7 +5623,7 @@
           }
         ]
       },
-      "title": "National recycling rate, tons of material recycled"
+      "title": "global_indicators.12-5-1-title"
     },
     {
       "path": "6-3-1/data.csv",
@@ -4813,7 +5638,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4822,7 +5647,7 @@
           }
         ]
       },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+      "title": "Proportion of wastewater safely treated"
     },
     {
       "path": "15-c-1/data.csv",
@@ -4837,7 +5662,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4846,7 +5671,7 @@
           }
         ]
       },
-      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+      "title": "global_indicators.15-c-1-title"
     },
     {
       "path": "1-b-1/data.csv",
@@ -4861,7 +5686,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4870,7 +5695,7 @@
           }
         ]
       },
-      "title": "Pro-poor public social spending"
+      "title": "global_indicators.1-b-1-title"
     },
     {
       "path": "2-2-1/data.csv",
@@ -4885,7 +5710,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4894,7 +5719,7 @@
           }
         ]
       },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "14-a-1/data.csv",
@@ -4909,7 +5734,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4933,7 +5758,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4957,7 +5782,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4966,7 +5791,7 @@
           }
         ]
       },
-      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
       "path": "16-2-1/data.csv",
@@ -4981,7 +5806,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4990,7 +5815,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+      "title": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
       "path": "10-7-3/data.csv",
@@ -5005,7 +5830,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5014,7 +5839,7 @@
           }
         ]
       },
-      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
+      "title": "global_indicators.10-7-3-title"
     },
     {
       "path": "2-b-1/data.csv",
@@ -5029,7 +5854,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5053,7 +5878,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5077,7 +5902,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5086,7 +5911,7 @@
           }
         ]
       },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+      "title": "Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status"
     },
     {
       "path": "9-1-1/data.csv",
@@ -5101,7 +5926,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5110,7 +5935,7 @@
           }
         ]
       },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "17-7-1/data.csv",
@@ -5125,7 +5950,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5134,7 +5959,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "17-8-1/data.csv",
@@ -5149,7 +5974,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5173,7 +5998,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5182,7 +6007,7 @@
           }
         ]
       },
-      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+      "title": "global_indicators.4-1-2-title"
     },
     {
       "path": "6-b-1/data.csv",
@@ -5197,7 +6022,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5221,7 +6046,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5245,7 +6070,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5269,7 +6094,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5293,7 +6118,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5317,7 +6142,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5326,7 +6151,7 @@
           }
         ]
       },
-      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+      "title": "Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
       "path": "15-6-1/data.csv",
@@ -5341,7 +6166,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5365,7 +6190,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5389,7 +6214,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5413,7 +6238,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5422,7 +6247,7 @@
           }
         ]
       },
-      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
+      "title": "global_indicators.8-8-2-title"
     },
     {
       "path": "12-b-1/data.csv",
@@ -5437,7 +6262,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5446,7 +6271,7 @@
           }
         ]
       },
-      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
+      "title": "global_indicators.12-b-1-title"
     },
     {
       "path": "4-a-1/data.csv",
@@ -5461,7 +6286,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5470,7 +6295,7 @@
           }
         ]
       },
-      "title": "Proportion of schools offering basic services, by type of service"
+      "title": "Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-se"
     },
     {
       "path": "14-5-1/data.csv",
@@ -5485,7 +6310,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5509,7 +6334,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5518,7 +6343,7 @@
           }
         ]
       },
-      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and nonâ€‘discrimination on the basis of sex"
     },
     {
       "path": "8-5-1/data.csv",
@@ -5533,7 +6358,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5542,7 +6367,7 @@
           }
         ]
       },
-      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+      "title": "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities"
     },
     {
       "path": "4-7-1/data.csv",
@@ -5557,7 +6382,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5566,7 +6391,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "global_indicators.4-7-1-title"
     },
     {
       "path": "17-4-1/data.csv",
@@ -5581,7 +6406,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5605,7 +6430,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5629,7 +6454,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5653,7 +6478,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5677,7 +6502,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5686,7 +6511,7 @@
           }
         ]
       },
-      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "global_indicators.13-2-1-title"
     },
     {
       "path": "12-2-2/data.csv",
@@ -5701,7 +6526,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5710,7 +6535,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "global_indicators.12-2-2-title"
     },
     {
       "path": "8-10-2/data.csv",
@@ -5725,7 +6550,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5734,7 +6559,7 @@
           }
         ]
       },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "15-a-1/data.csv",
@@ -5749,7 +6574,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5758,7 +6583,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
     },
     {
       "path": "10-4-1/data.csv",
@@ -5773,7 +6598,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5782,7 +6607,7 @@
           }
         ]
       },
-      "title": "Labour share of GDP"
+      "title": "Labour share of GDP, comprising wages and social protection transfers"
     },
     {
       "path": "16-4-2/data.csv",
@@ -5797,7 +6622,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5821,7 +6646,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5845,7 +6670,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5869,7 +6694,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5878,7 +6703,7 @@
           }
         ]
       },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "3-b-3/data.csv",
@@ -5893,7 +6718,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5902,7 +6727,7 @@
           }
         ]
       },
-      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+      "title": "global_indicators.3-b-3-title"
     },
     {
       "path": "16-5-1/data.csv",
@@ -5917,7 +6742,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5926,7 +6751,7 @@
           }
         ]
       },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "8-6-1/data.csv",
@@ -5941,7 +6766,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5950,7 +6775,7 @@
           }
         ]
       },
-      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+      "title": "Proportion of youth (aged 15-24 years) not in education, employment or training"
     },
     {
       "path": "3-5-1/data.csv",
@@ -5965,7 +6790,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5974,7 +6799,7 @@
           }
         ]
       },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+      "title": "global_indicators.3-5-1-title"
     },
     {
       "path": "11-b-1/data.csv",
@@ -5989,7 +6814,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5998,7 +6823,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030"
     },
     {
       "path": "17-12-1/data.csv",
@@ -6013,7 +6838,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6022,7 +6847,7 @@
           }
         ]
       },
-      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+      "title": "global_indicators.17-12-1-title"
     },
     {
       "path": "17-6-1/data.csv",
@@ -6037,7 +6862,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6046,7 +6871,7 @@
           }
         ]
       },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+      "title": "global_indicators.17-6-1-title"
     },
     {
       "path": "13-2-2/data.csv",
@@ -6061,7 +6886,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6070,7 +6895,7 @@
           }
         ]
       },
-      "title": "Total greenhouse gas emissions per year"
+      "title": "global_indicators.13-2-2-title"
     },
     {
       "path": "11-7-1/data.csv",
@@ -6085,7 +6910,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6109,7 +6934,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6118,7 +6943,7 @@
           }
         ]
       },
-      "title": "Macroeconomic Dashboard"
+      "title": "global_indicators.17-13-1-title"
     },
     {
       "path": "3-9-1/data.csv",
@@ -6133,7 +6958,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6157,7 +6982,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6166,7 +6991,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
+      "title": "Proportion of countries with systems to track and make public allocations for gender equality and womenâ€™s empowerment"
     },
     {
       "path": "17-18-1/data.csv",
@@ -6181,7 +7006,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6190,7 +7015,7 @@
           }
         ]
       },
-      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
+      "title": "global_indicators.17-18-1-title"
     },
     {
       "path": "15-7-1/data.csv",
@@ -6205,7 +7030,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6229,7 +7054,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6253,7 +7078,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6262,7 +7087,7 @@
           }
         ]
       },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
       "path": "6-4-1/data.csv",
@@ -6277,7 +7102,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6301,7 +7126,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6310,7 +7135,7 @@
           }
         ]
       },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+      "title": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "3-7-2/data.csv",
@@ -6325,7 +7150,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6334,7 +7159,7 @@
           }
         ]
       },
-      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+      "title": "Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group"
     },
     {
       "path": "5-3-1/data.csv",
@@ -6349,7 +7174,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6358,7 +7183,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+      "title": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "10-5-1/data.csv",
@@ -6373,7 +7198,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6397,7 +7222,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6421,7 +7246,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6430,7 +7255,7 @@
           }
         ]
       },
-      "title": "Coverage of essential health services"
+      "title": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capa"
     },
     {
       "path": "10-6-1/data.csv",
@@ -6445,7 +7270,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6469,7 +7294,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6478,7 +7303,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "10-7-1/data.csv",
@@ -6493,7 +7318,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6502,7 +7327,7 @@
           }
         ]
       },
-      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+      "title": "Recruitment cost borne by employee as a proportion of yearly income earned in country of destination"
     },
     {
       "path": "14-7-1/data.csv",
@@ -6517,7 +7342,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6541,7 +7366,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6550,7 +7375,7 @@
           }
         ]
       },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "16-2-2/data.csv",
@@ -6565,7 +7390,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6589,7 +7414,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6598,7 +7423,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "global_indicators.15-b-1-title"
     },
     {
       "path": "4-1-1/data.csv",
@@ -6613,7 +7438,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6637,7 +7462,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6646,7 +7471,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030"
     },
     {
       "path": "3-d-1/data.csv",
@@ -6661,7 +7486,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6685,7 +7510,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6694,7 +7519,7 @@
           }
         ]
       },
-      "title": "Additional financial resources mobilized for developing countries from multiple sources"
+      "title": "global_indicators.17-3-1-title"
     },
     {
       "path": "16-3-1/data.csv",
@@ -6709,7 +7534,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6718,7 +7543,7 @@
           }
         ]
       },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "13-b-1/data.csv",
@@ -6733,7 +7558,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6742,7 +7567,7 @@
           }
         ]
       },
-      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "global_indicators.13-b-1-title"
     },
     {
       "path": "4-c-1/data.csv",
@@ -6757,7 +7582,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6766,7 +7591,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+      "title": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teac"
     },
     {
       "path": "2-a-1/data.csv",
@@ -6781,7 +7606,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6805,7 +7630,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6829,7 +7654,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6853,7 +7678,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6862,7 +7687,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+      "title": "Number of countries that adopt and implement investment promotion regimes for least developed countries"
     },
     {
       "path": "12-a-1/data.csv",
@@ -6877,7 +7702,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6886,7 +7711,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "global_indicators.12-a-1-title"
     },
     {
       "path": "1-a-1/data.csv",
@@ -6901,7 +7726,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6910,7 +7735,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "global_indicators.1-a-1-title"
     },
     {
       "path": "5-2-1/data.csv",
@@ -6925,7 +7750,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6934,7 +7759,7 @@
           }
         ]
       },
-      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "15-4-2/data.csv",
@@ -6949,7 +7774,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6958,7 +7783,7 @@
           }
         ]
       },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+      "title": "Mountain Green Cover Index"
     },
     {
       "path": "13-3-1/data.csv",
@@ -6973,7 +7798,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6982,7 +7807,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "global_indicators.13-3-1-title"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6997,7 +7822,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7006,7 +7831,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+      "title": "Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "3-9-2/data.csv",
@@ -7021,7 +7846,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7045,7 +7870,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7069,7 +7894,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7078,7 +7903,7 @@
           }
         ]
       },
-      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
     },
     {
       "path": "7-2-1/data.csv",
@@ -7093,7 +7918,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7117,7 +7942,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7141,7 +7966,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7165,7 +7990,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7189,7 +8014,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7213,7 +8038,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7222,7 +8047,7 @@
           }
         ]
       },
-      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+      "title": "global_indicators.11-4-1-title"
     },
     {
       "path": "17-10-1/data.csv",
@@ -7237,7 +8062,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7261,7 +8086,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7285,7 +8110,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7309,7 +8134,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7333,7 +8158,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7342,7 +8167,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
+      "title": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
       "path": "15-5-1/data.csv",
@@ -7357,7 +8182,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7381,7 +8206,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7390,7 +8215,7 @@
           }
         ]
       },
-      "title": "Degree of integrated water resources management"
+      "title": "Degree of integrated water resources management implementation (0-100)"
     },
     {
       "path": "7-3-1/data.csv",
@@ -7405,7 +8230,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7429,7 +8254,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7438,7 +8263,7 @@
           }
         ]
       },
-      "title": "Under‑5 mortality rate"
+      "title": "Underâ€‘5 mortality rate"
     },
     {
       "path": "4-3-1/data.csv",
@@ -7453,7 +8278,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7462,7 +8287,7 @@
           }
         ]
       },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "12-1-1/data.csv",
@@ -7477,7 +8302,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7486,7 +8311,7 @@
           }
         ]
       },
-      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+      "title": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies"
     },
     {
       "path": "17-18-2/data.csv",
@@ -7501,7 +8326,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7525,7 +8350,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7549,7 +8374,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7573,7 +8398,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7597,7 +8422,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7606,7 +8431,7 @@
           }
         ]
       },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "6-5-2/data.csv",
@@ -7621,7 +8446,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7645,7 +8470,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7669,7 +8494,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7678,7 +8503,7 @@
           }
         ]
       },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
+      "title": "global_indicators.8-3-1-title"
     },
     {
       "path": "17-14-1/data.csv",
@@ -7693,7 +8518,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7717,7 +8542,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7741,7 +8566,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7765,7 +8590,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7789,7 +8614,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7798,7 +8623,7 @@
           }
         ]
       },
-      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
+      "title": "Proportion of countries where the legal framework (including customary law) guarantees womenâ€™s equal rights to land ownership and/or control"
     },
     {
       "path": "3-1-1/data.csv",
@@ -7813,7 +8638,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7837,7 +8662,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7861,7 +8686,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7885,7 +8710,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7909,7 +8734,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7918,7 +8743,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030"
     },
     {
       "path": "2-c-1/data.csv",
@@ -7933,7 +8758,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7957,7 +8782,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7981,7 +8806,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8005,7 +8830,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8017,8 +8842,8 @@
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
+      "path": "17-6-2/data.csv",
+      "name": "17-6-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -8029,7 +8854,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8038,7 +8863,7 @@
           }
         ]
       },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     }
   ]
 }

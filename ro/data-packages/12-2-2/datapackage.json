@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-2-2",
-  "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+  "title": "global_indicators.12-2-2-title"
 }

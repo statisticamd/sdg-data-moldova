@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Types of critical infrastructure losses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chisinau",
+                "North",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "South",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "TAU Gagauzia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-3-b",
+  "title": "global_indicators.11-5-3-b--title"
+}

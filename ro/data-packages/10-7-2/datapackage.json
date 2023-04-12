@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-2",
-  "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+  "title": "Number of countries that have implemented well-managed migration policies"
 }

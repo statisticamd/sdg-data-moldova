@@ -1,9 +1,9 @@
-Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
+Year,Mediul de reședință,Sex,Grupa de vârstă,Chintile pe cheltuielile de consum,Value
 2010,,,,,
 2010,Urban,,,,
 2010,Rural,,,,
-2010,,Men,,,
-2010,,Women,,,
+2010,,Bărbați,,,
+2010,,Femei,,,
 2010,,,0-17,,
 2010,,,18-29,,
 2010,,,30-39,,
@@ -18,8 +18,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2011,,,,,
 2011,Urban,,,,
 2011,Rural,,,,
-2011,,Men,,,
-2011,,Women,,,
+2011,,Bărbați,,,
+2011,,Femei,,,
 2011,,,0-17,,
 2011,,,18-29,,
 2011,,,30-39,,
@@ -34,8 +34,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2012,,,,,
 2012,Urban,,,,
 2012,Rural,,,,
-2012,,Men,,,
-2012,,Women,,,
+2012,,Bărbați,,,
+2012,,Femei,,,
 2012,,,0-17,,
 2012,,,18-29,,
 2012,,,30-39,,
@@ -50,8 +50,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2013,,,,,
 2013,Urban,,,,
 2013,Rural,,,,
-2013,,Men,,,
-2013,,Women,,,
+2013,,Bărbați,,,
+2013,,Femei,,,
 2013,,,0-17,,
 2013,,,18-29,,
 2013,,,30-39,,
@@ -66,8 +66,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2014,,,,,76.4
 2014,Urban,,,,84.4
 2014,Rural,,,,70.6
-2014,,Men,,,72.1
-2014,,Women,,,80.2
+2014,,Bărbați,,,72.1
+2014,,Femei,,,80.2
 2014,,,0-17,,99.9
 2014,,,18-29,,60.2
 2014,,,30-39,,55.7
@@ -82,8 +82,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2015,,,,,76.3
 2015,Urban,,,,84.4
 2015,Rural,,,,70.4
-2015,,Men,,,70.8
-2015,,Women,,,81.1
+2015,,Bărbați,,,70.8
+2015,,Femei,,,81.1
 2015,,,0-17,,99.7
 2015,,,18-29,,61.8
 2015,,,30-39,,54.8
@@ -98,8 +98,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2016,,,,,76.8
 2016,Urban,,,,85.1
 2016,Rural,,,,70.8
-2016,,Men,,,71.4
-2016,,Women,,,81.4
+2016,,Bărbați,,,71.4
+2016,,Femei,,,81.4
 2016,,,0-17,,100.0
 2016,,,18-29,,61.2
 2016,,,30-39,,56.0
@@ -114,8 +114,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2017,,,,,79.0
 2017,Urban,,,,85.9
 2017,Rural,,,,74.1
-2017,,Men,,,74.7
-2017,,Women,,,82.6
+2017,,Bărbați,,,74.7
+2017,,Femei,,,82.6
 2017,,,0-17,,99.9
 2017,,,18-29,,62.2
 2017,,,30-39,,61.6
@@ -130,8 +130,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2018,,,,,79.9
 2018,Urban,,,,86.6
 2018,Rural,,,,75.1
-2018,,Men,,,75.8
-2018,,Women,,,83.4
+2018,,Bărbați,,,75.8
+2018,,Femei,,,83.4
 2018,,,0-17,,100.0
 2018,,,18-29,,66.4
 2018,,,30-39,,62.9
@@ -146,8 +146,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2019,,,,,81.0
 2019,Urban,,,,86.7
 2019,Rural,,,,77.2
-2019,,Men,,,76.9
-2019,,Women,,,84.5
+2019,,Bărbați,,,76.9
+2019,,Femei,,,84.5
 2019,,,0-17,,100.0
 2019,,,18-29,,65.9
 2019,,,30-39,,66.8
@@ -162,8 +162,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2020,,,,,81.9
 2020,Urban,,,,86.8
 2020,Rural,,,,78.6
-2020,,Men,,,78.3
-2020,,Women,,,85.1
+2020,,Bărbați,,,78.3
+2020,,Femei,,,85.1
 2020,,,0-17,,100.0
 2020,,,18-29,,69.1
 2020,,,30-39,,64.7
@@ -178,8 +178,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2021,,,,,82.0
 2021,Urban,,,,87.2
 2021,Rural,,,,78.5
-2021,,Men,,,78.5
-2021,,Women,,,84.9
+2021,,Bărbați,,,78.5
+2021,,Femei,,,84.9
 2021,,,0-17,,100.0
 2021,,,18-29,,68.1
 2021,,,30-39,,64.4
@@ -194,8 +194,8 @@ Year,Area of residence,Sex,Age group,Quintiles on consumption expenditures,Value
 2022,,,,,
 2022,Urban,,,,
 2022,Rural,,,,
-2022,,Men,,,
-2022,,Women,,,
+2022,,Bărbați,,,
+2022,,Femei,,,
 2022,,,0-17,,
 2022,,,18-29,,
 2022,,,30-39,,

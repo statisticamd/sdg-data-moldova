@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-d-2",
-  "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
+  "title": "global_indicators.3-d-2-title"
 }

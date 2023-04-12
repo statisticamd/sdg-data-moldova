@@ -51,6 +51,151 @@
       "title": "global_indicators.5-b-1-1-title"
     },
     {
+      "path": "11-5-1-b/data.csv",
+      "name": "11-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-1-b-title"
+    },
+    {
+      "path": "11-5-2/data.csv",
+      "name": "11-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of critical infrastructure losses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Types of critical infrastructure losses"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chisinau",
+                "North",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "South",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "TAU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    },
+    {
       "path": "4-c-1-b/data.csv",
       "name": "4-c-1-b",
       "profile": "tabular-data-resource",
@@ -273,7 +418,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "7-1-2-1/data.csv",
@@ -385,6 +530,56 @@
       "title": "global_indicators.7-1-2-1-title"
     },
     {
+      "path": "1-5-1-a/data.csv",
+      "name": "1-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-a-title"
+    },
+    {
       "path": "5-4-1-2/data.csv",
       "name": "5-4-1-2",
       "profile": "tabular-data-resource",
@@ -419,6 +614,116 @@
         ]
       },
       "title": "global_indicators.5-4-1-2-title"
+    },
+    {
+      "path": "1-5-1-b/data.csv",
+      "name": "1-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chisinau",
+                "North",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "South",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "ATU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-b-title"
     },
     {
       "path": "4-5-1-a/data.csv",
@@ -594,6 +899,89 @@
       "title": "global_indicators.4-c-1-c-title"
     },
     {
+      "path": "11-5-3-b/data.csv",
+      "name": "11-5-3-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of critical infrastructure losses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Types of critical infrastructure losses"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chisinau",
+                "North",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "South",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "TAU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-3-b--title"
+    },
+    {
       "path": "4-a-1-b/data.csv",
       "name": "4-a-1-b",
       "profile": "tabular-data-resource",
@@ -628,6 +1016,56 @@
         ]
       },
       "title": "global_indicators.4-a-1-b-title"
+    },
+    {
+      "path": "13-1-1-a/data.csv",
+      "name": "13-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.13-1-1-a-title"
     },
     {
       "path": "3-8-2-b/data.csv",
@@ -920,6 +1358,56 @@
       "title": "global_indicators.4-5-1-b-title"
     },
     {
+      "path": "11-5-1-c/data.csv",
+      "name": "11-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-1-c-title"
+    },
+    {
       "path": "5-b-1/data.csv",
       "name": "5-b-1",
       "profile": "tabular-data-resource",
@@ -1013,6 +1501,56 @@
       "title": "Proportion of individuals who own a mobile telephone, by sex"
     },
     {
+      "path": "1-5-1-c/data.csv",
+      "name": "1-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Including children (0-17 years)",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-1-c-title"
+    },
+    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -1088,6 +1626,44 @@
         ]
       },
       "title": "Proportion of population using safely managed drinking water services"
+    },
+    {
+      "path": "1-5-2/data.csv",
+      "name": "1-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Tipuri SE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            },
+            "title": "Tipuri SE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "4-5-1-c/data.csv",
@@ -1234,7 +1810,7 @@
           }
         ]
       },
-      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
       "path": "4-2-2/data.csv",
@@ -1319,6 +1895,56 @@
         ]
       },
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+    },
+    {
+      "path": "13-1-1-c/data.csv",
+      "name": "13-1-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.13-1-1-c-title"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -1578,6 +2204,54 @@
       "title": "Proportion of population living in households with access to basic services"
     },
     {
+      "path": "1-3-1-b/data.csv",
+      "name": "1-3-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insured",
+                "Uninsured",
+                ""
+              ]
+            },
+            "title": "Status"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-b-title"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -1688,6 +2362,69 @@
       "title": "global_indicators.4-5-1-e-title"
     },
     {
+      "path": "1-3-1-a/data.csv",
+      "name": "1-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<=50",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-a-title"
+    },
+    {
       "path": "10-1-1-a/data.csv",
       "name": "10-1-1-a",
       "profile": "tabular-data-resource",
@@ -1710,6 +2447,30 @@
         ]
       },
       "title": "global_indicators.10-1-1-a-title"
+    },
+    {
+      "path": "1-3-1-c/data.csv",
+      "name": "1-3-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-c-title"
     },
     {
       "path": "4-a-1-c/data.csv",
@@ -1795,6 +2556,56 @@
         ]
       },
       "title": "global_indicators.1-3-1-i-title"
+    },
+    {
+      "path": "11-5-1-a/data.csv",
+      "name": "11-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-5-1-a-title"
     },
     {
       "path": "9-1-2-b/data.csv",
@@ -2039,6 +2850,68 @@
       "title": "global_indicators.1-3-1-h-title"
     },
     {
+      "path": "13-1-1-b/data.csv",
+      "name": "13-1-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            },
+            "title": "Classes of disasters"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.13-1-1-b-title"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -2073,7 +2946,7 @@
           }
         ]
       },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+      "title": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
     },
     {
       "path": "3-8-2-a/data.csv",
@@ -2273,7 +3146,7 @@
           }
         ]
       },
-      "title": "Proportion of the populatiogdfgnbdjfgjdkfgdfg"
+      "title": "global_indicators.1-1-1-1-title"
     },
     {
       "path": "6-2-1-1/data.csv",
@@ -2374,7 +3247,7 @@
           }
         ]
       },
-      "title": "Developing countries’ and least developed countries’ share of global exports"
+      "title": "Developing countriesâ€™ and least developed countriesâ€™ share of global exports"
     },
     {
       "path": "3-1-2/data.csv",
@@ -2518,7 +3391,7 @@
           }
         ]
       },
-      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+      "title": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
     },
     {
       "path": "5-a-1/data.csv",
@@ -2566,7 +3439,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "8-b-1/data.csv",
@@ -2710,7 +3583,7 @@
           }
         ]
       },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
+      "title": "Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction"
     },
     {
       "path": "15-9-1/data.csv",
@@ -2734,7 +3607,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "9-2-2/data.csv",
@@ -2830,7 +3703,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+      "title": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2950,7 +3823,7 @@
           }
         ]
       },
-      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
+      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donorsâ€™ gross national income (GNI)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -2974,7 +3847,7 @@
           }
         ]
       },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
       "path": "13-a-1/data.csv",
@@ -2998,7 +3871,7 @@
           }
         ]
       },
-      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
+      "title": "Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment"
     },
     {
       "path": "1-a-2/data.csv",
@@ -3457,30 +4330,6 @@
       "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
-    },
-    {
       "path": "15-4-1/data.csv",
       "name": "15-4-1",
       "profile": "tabular-data-resource",
@@ -3526,7 +4375,7 @@
           }
         ]
       },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3550,7 +4399,7 @@
           }
         ]
       },
-      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3598,7 +4447,7 @@
           }
         ]
       },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+      "title": "Proportion and number of children aged 5-17 years engaged in child labour, by sex and age"
     },
     {
       "path": "9-5-1/data.csv",
@@ -3670,7 +4519,7 @@
           }
         ]
       },
-      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
+      "title": "Proportion of national exclusive economic zones managed using ecosystem-based approaches"
     },
     {
       "path": "9-4-1/data.csv",
@@ -3766,7 +4615,7 @@
           }
         ]
       },
-      "title": "(a) Food loss index and (b) food waste index"
+      "title": "Global food loss index"
     },
     {
       "path": "3-a-1/data.csv",
@@ -3790,7 +4639,7 @@
           }
         ]
       },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "10-3-1/data.csv",
@@ -3814,7 +4663,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "12-8-1/data.csv",
@@ -3958,7 +4807,7 @@
           }
         ]
       },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -4153,30 +5002,6 @@
       "title": "Proportion of the population who are refugees, by country of origin"
     },
     {
-      "path": "11-5-2/data.csv",
-      "name": "11-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
-    },
-    {
       "path": "16-3-3/data.csv",
       "name": "16-3-3",
       "profile": "tabular-data-resource",
@@ -4342,7 +5167,7 @@
           }
         ]
       },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+      "title": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18"
     },
     {
       "path": "13-1-1/data.csv",
@@ -4486,7 +5311,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Dollar value of financial and technical assistance (including through North-South, Southâ€‘South and triangular cooperation) committed to developing countries"
     },
     {
       "path": "8-1-1/data.csv",
@@ -4558,7 +5383,7 @@
           }
         ]
       },
-      "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
+      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels"
     },
     {
       "path": "16-4-1/data.csv",
@@ -4606,7 +5431,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+      "title": "Number of countries that have implemented well-managed migration policies"
     },
     {
       "path": "16-7-1/data.csv",
@@ -4702,7 +5527,7 @@
           }
         ]
       },
-      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "12-4-1/data.csv",
@@ -4750,7 +5575,7 @@
           }
         ]
       },
-      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+      "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
     },
     {
       "path": "9-3-2/data.csv",
@@ -4822,7 +5647,7 @@
           }
         ]
       },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+      "title": "Proportion of wastewater safely treated"
     },
     {
       "path": "15-c-1/data.csv",
@@ -4894,7 +5719,7 @@
           }
         ]
       },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "14-a-1/data.csv",
@@ -4966,7 +5791,7 @@
           }
         ]
       },
-      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
       "path": "16-2-1/data.csv",
@@ -4990,7 +5815,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+      "title": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
       "path": "10-7-3/data.csv",
@@ -5014,7 +5839,7 @@
           }
         ]
       },
-      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
+      "title": "Number of people who died or disappeared in the process of migration towards an international destination"
     },
     {
       "path": "2-b-1/data.csv",
@@ -5086,7 +5911,7 @@
           }
         ]
       },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+      "title": "Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status"
     },
     {
       "path": "9-1-1/data.csv",
@@ -5110,7 +5935,7 @@
           }
         ]
       },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "17-7-1/data.csv",
@@ -5134,7 +5959,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "17-8-1/data.csv",
@@ -5326,7 +6151,7 @@
           }
         ]
       },
-      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+      "title": "Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
       "path": "15-6-1/data.csv",
@@ -5470,7 +6295,7 @@
           }
         ]
       },
-      "title": "Proportion of schools offering basic services, by type of service"
+      "title": "Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-se"
     },
     {
       "path": "14-5-1/data.csv",
@@ -5518,7 +6343,7 @@
           }
         ]
       },
-      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and nonâ€‘discrimination on the basis of sex"
     },
     {
       "path": "8-5-1/data.csv",
@@ -5542,7 +6367,7 @@
           }
         ]
       },
-      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+      "title": "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities"
     },
     {
       "path": "4-7-1/data.csv",
@@ -5734,7 +6559,7 @@
           }
         ]
       },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "15-a-1/data.csv",
@@ -5758,7 +6583,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
     },
     {
       "path": "10-4-1/data.csv",
@@ -5782,7 +6607,7 @@
           }
         ]
       },
-      "title": "Labour share of GDP"
+      "title": "Labour share of GDP, comprising wages and social protection transfers"
     },
     {
       "path": "16-4-2/data.csv",
@@ -5878,7 +6703,7 @@
           }
         ]
       },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "3-b-3/data.csv",
@@ -5926,7 +6751,7 @@
           }
         ]
       },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "8-6-1/data.csv",
@@ -5950,7 +6775,7 @@
           }
         ]
       },
-      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+      "title": "Proportion of youth (aged 15-24 years) not in education, employment or training"
     },
     {
       "path": "3-5-1/data.csv",
@@ -5998,7 +6823,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030"
     },
     {
       "path": "17-12-1/data.csv",
@@ -6166,7 +6991,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
+      "title": "Proportion of countries with systems to track and make public allocations for gender equality and womenâ€™s empowerment"
     },
     {
       "path": "17-18-1/data.csv",
@@ -6262,7 +7087,7 @@
           }
         ]
       },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
       "path": "6-4-1/data.csv",
@@ -6310,7 +7135,7 @@
           }
         ]
       },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+      "title": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "3-7-2/data.csv",
@@ -6334,7 +7159,7 @@
           }
         ]
       },
-      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+      "title": "Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group"
     },
     {
       "path": "5-3-1/data.csv",
@@ -6358,7 +7183,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+      "title": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "10-5-1/data.csv",
@@ -6430,7 +7255,7 @@
           }
         ]
       },
-      "title": "Coverage of essential health services"
+      "title": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capa"
     },
     {
       "path": "10-6-1/data.csv",
@@ -6478,7 +7303,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "10-7-1/data.csv",
@@ -6502,7 +7327,7 @@
           }
         ]
       },
-      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+      "title": "Recruitment cost borne by employee as a proportion of yearly income earned in country of destination"
     },
     {
       "path": "14-7-1/data.csv",
@@ -6550,7 +7375,7 @@
           }
         ]
       },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "16-2-2/data.csv",
@@ -6646,7 +7471,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030"
     },
     {
       "path": "3-d-1/data.csv",
@@ -6694,7 +7519,7 @@
           }
         ]
       },
-      "title": "Additional financial resources mobilized for developing countries from multiple sources"
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "16-3-1/data.csv",
@@ -6718,7 +7543,7 @@
           }
         ]
       },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "13-b-1/data.csv",
@@ -6766,7 +7591,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+      "title": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teac"
     },
     {
       "path": "2-a-1/data.csv",
@@ -6862,7 +7687,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+      "title": "Number of countries that adopt and implement investment promotion regimes for least developed countries"
     },
     {
       "path": "12-a-1/data.csv",
@@ -6934,7 +7759,7 @@
           }
         ]
       },
-      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "15-4-2/data.csv",
@@ -6958,7 +7783,7 @@
           }
         ]
       },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+      "title": "Mountain Green Cover Index"
     },
     {
       "path": "13-3-1/data.csv",
@@ -7006,7 +7831,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+      "title": "Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "3-9-2/data.csv",
@@ -7078,7 +7903,7 @@
           }
         ]
       },
-      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
     },
     {
       "path": "7-2-1/data.csv",
@@ -7342,7 +8167,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
+      "title": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
       "path": "15-5-1/data.csv",
@@ -7390,7 +8215,7 @@
           }
         ]
       },
-      "title": "Degree of integrated water resources management"
+      "title": "Degree of integrated water resources management implementation (0-100)"
     },
     {
       "path": "7-3-1/data.csv",
@@ -7438,7 +8263,7 @@
           }
         ]
       },
-      "title": "Under‑5 mortality rate"
+      "title": "Underâ€‘5 mortality rate"
     },
     {
       "path": "4-3-1/data.csv",
@@ -7462,7 +8287,7 @@
           }
         ]
       },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "12-1-1/data.csv",
@@ -7486,7 +8311,7 @@
           }
         ]
       },
-      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+      "title": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies"
     },
     {
       "path": "17-18-2/data.csv",
@@ -7606,7 +8431,7 @@
           }
         ]
       },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "6-5-2/data.csv",
@@ -7798,7 +8623,7 @@
           }
         ]
       },
-      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
+      "title": "Proportion of countries where the legal framework (including customary law) guarantees womenâ€™s equal rights to land ownership and/or control"
     },
     {
       "path": "3-1-1/data.csv",
@@ -7918,7 +8743,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030"
     },
     {
       "path": "2-c-1/data.csv",
@@ -8017,8 +8842,8 @@
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
+      "path": "17-6-2/data.csv",
+      "name": "17-6-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -8038,7 +8863,7 @@
           }
         ]
       },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     }
   ]
 }

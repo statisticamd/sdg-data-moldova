@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-6-1",
-  "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+  "title": "global_indicators.17-6-1-title"
 }

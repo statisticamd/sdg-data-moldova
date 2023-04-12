@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Age group 1 and Sex",
@@ -61,12 +61,12 @@
               "enum": [
                 "0-14 / Total",
                 "15+ / Total",
-                "15+ / Men",
-                "15+ / Women",
+                "15+ / Bărbați",
+                "15+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 1 and Sex"
+            "title": "Grupa de vârstă 1 și Sex"
           },
           {
             "name": "Age group 2 and Sex",
@@ -74,15 +74,15 @@
             "constraints": {
               "enum": [
                 "15-24 / Total",
-                "15-24 / Men",
-                "15-24 / Women",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
                 "25+ / Total",
-                "25+ / Men",
-                "25+ / Women",
+                "25+ / Bărbați",
+                "25+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 2 and Sex"
+            "title": "Grupa de vârstă 2 și Sex"
           },
           {
             "name": "Employment status",
@@ -98,7 +98,7 @@
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
@@ -111,5 +111,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-1",
-  "title": "Proportion of the population living dasdasdasds"
+  "title": "global_indicators.1-1-1-1-title"
 }

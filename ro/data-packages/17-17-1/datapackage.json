@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-17-1",
-  "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
+  "title": "global_indicators.17-17-1-title"
 }

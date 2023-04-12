@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Tipuri SE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

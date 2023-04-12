@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-a-1",
-  "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+  "title": "global_indicators.12-a-1-title"
 }

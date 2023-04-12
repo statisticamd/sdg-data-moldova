@@ -2,11 +2,13 @@ Disaggregation,Number of indicators,Number of values
 Age group 1 and Sex,1,4
 Age group 2 and Sex,1,6
 Age group / Sex,1,2
-Age group,7,13
+Age group,14,21
 "Age groups of head of household, years",3,6
-Area of residence,23,2
+Area of residence,25,2
 Bio-fuel and waste,1,4
+Classes of disasters,6,4
 Coal,1,4
+Districts,1,38
 Electricity,1,5
 Employment status,1,6
 Existence of disability,2,2
@@ -26,10 +28,13 @@ Petrol products,1,4
 Quintiles on consumption expenditures,9,5
 Regions,1,5
 Sex of the head of the household,7,2
-Sex,12,4
+Sex,13,4
 Sexes,1,1
 Statistical regions,3,4
+Status,1,2
 Sub-indicators,1,4
 The existence of disability,1,2
 Thermal energy,1,4
+Tipuri SE,1,4
 Type of sewerage ,1,2
+Types of critical infrastructure losses,1,1

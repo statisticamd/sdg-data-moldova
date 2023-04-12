@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1",
-  "title": "(a) Food loss index and (b) food waste index"
+  "title": "Global food loss index"
 }

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-c-1",
-  "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+  "title": "global_indicators.15-c-1-title"
 }

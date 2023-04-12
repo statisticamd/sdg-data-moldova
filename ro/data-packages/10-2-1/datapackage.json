@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -41,19 +41,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "The existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disabilities",
-                "People without disabilities",
+                "Persoane cu dizabilități",
+                "Persoane fără dizabilități",
                 ""
               ]
             },
-            "title": "The existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -66,5 +66,5 @@
   ],
   "profile": "data-package",
   "name": "10-2-1",
-  "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+  "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
 }

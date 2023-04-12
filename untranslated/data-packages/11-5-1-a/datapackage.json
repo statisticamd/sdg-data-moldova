@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Classes of disasters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-1-a",
+  "title": "global_indicators.11-5-1-a-title"
+}
