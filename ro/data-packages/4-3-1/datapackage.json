@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group / Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 / Ambele sexe",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
+                "25-64 / Ambele sexe",
+                "25-64 / Bărbați",
+                "25-64 / Femei",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă / Sexul"
           },
           {
             "name": "Value",

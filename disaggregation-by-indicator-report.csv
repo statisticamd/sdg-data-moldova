@@ -39,6 +39,8 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-1,Area of residence,1
 #7-1-2,"Area of residence, Home heating systems - total, Home heating systems - urban, Home heating systems - rural, Food preparation - total, Food preparation - urban, Food preparation - rural",7
 #7-1-2-1,"Bio-fuel and waste, Petrol products, Coal, Natural gas, Thermal energy, Electricity",6
+#7-3-1-a,Types of energy,1
+#7-3-1-b,Sectors,1
 #8-5-1-1,Regions,1
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1

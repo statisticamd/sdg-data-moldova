@@ -12,8 +12,62 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Persons with disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Persoane cu dizabilități"
+          },
+          {
+            "name": "Education levels ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superioare",
+                "Post-secondary non-tertiary (secondary professional)",
+                "Upper secondary vocational ",
+                "High school, upper secondary (general)",
+                "Lower secondary (gymnasium)",
+                "Primary or no education",
+                ""
+              ]
+            },
+            "title": "Education levels "
           },
           {
             "name": "Value",

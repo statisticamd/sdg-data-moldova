@@ -1,0 +1,74 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SNA production boundary basis - Age group / Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5-17 / Both sexes",
+                "5-17 / Men",
+                "5-17 / Women",
+                "5-11 / Both sexes",
+                "5-11 / Men",
+                "5-11 / Women",
+                "12-14 / Both sexes",
+                "12-14 / Men",
+                "12-14 / Women",
+                "15-17 / Both sexes",
+                "15-17 / Men",
+                "15-17 / Women",
+                ""
+              ]
+            },
+            "title": "SNA production boundary basis - Age group / Sex"
+          },
+          {
+            "name": "SNA general production boundary basis - Age group / Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5-17 / Both sexes",
+                "5-17 / Men",
+                "5-17 / Women",
+                "5-11 / Both sexes",
+                "5-11 / Men",
+                "5-11 / Women",
+                "12-14 / Both sexes",
+                "12-14 / Men",
+                "12-14 / Women",
+                "15-17 / Both sexes",
+                "15-17 / Men",
+                "15-17 / Women",
+                ""
+              ]
+            },
+            "title": "SNA general production boundary basis - Age group / Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-7-1-b",
+  "title": "global_indicators.8-7-1-b-title"
+}

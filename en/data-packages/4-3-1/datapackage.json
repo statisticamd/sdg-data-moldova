@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group / Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 / Both sexes",
+                "15-24 / Men",
+                "15-24 / Women",
+                "25-64 / Both sexes",
+                "25-64 / Men",
+                "25-64 / Women",
+                ""
+              ]
+            },
+            "title": "Age group / Sex"
           },
           {
             "name": "Value",

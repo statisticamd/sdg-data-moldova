@@ -27,6 +27,7 @@ Petrol products,1,4
 "Quintile I, by area of residence",2,3
 Quintiles on consumption expenditures,9,5
 Regions,1,5
+Sectors,1,5
 Sex of the head of the household,7,2
 Sex,13,4
 Sexes,1,1
@@ -38,3 +39,4 @@ Thermal energy,1,4
 Tipuri SE,1,4
 Type of sewerage ,1,2
 Types of critical infrastructure losses,1,1
+Types of energy,1,6

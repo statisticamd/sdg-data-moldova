@@ -12,7 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Agricultural sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Non-agricultural sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Men",
+                "Women",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

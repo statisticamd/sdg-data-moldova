@@ -12,8 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25 and over",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Statistical regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chisnau",
+                "Nord",
+                "Centru",
+                "Sud",
+                ""
+              ]
+            },
+            "title": "Regiuni statistice"
+          },
+          {
+            "name": "Occupations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legislators, senior officials and managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and shop and Sales Workers",
+                "Craft and related trades workers",
+                "Plant and machine operators and assemblers",
+                "Elementary occupations",
+                ""
+              ]
+            },
+            "title": "Ocupaţii"
           },
           {
             "name": "Value",

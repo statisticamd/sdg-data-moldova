@@ -12,8 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25 and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Statistical regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chisnau",
+                "North",
+                "Center",
+                "South",
+                ""
+              ]
+            },
+            "title": "Statistical regions"
+          },
+          {
+            "name": "Occupations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legislators, senior officials and managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and shop and Sales Workers",
+                "Craft and related trades workers",
+                "Plant and machine operators and assemblers",
+                "Elementary occupations",
+                ""
+              ]
+            },
+            "title": "Occupations"
           },
           {
             "name": "Value",

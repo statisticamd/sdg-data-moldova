@@ -12,8 +12,113 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Proportion of persons aged of 13-15 year who have completed primary education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Proportion of persons aged of 13-15 year who have completed primary education"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium)"
+          },
+          {
+            "name": "Area of residence.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence.1"
+          },
+          {
+            "name": "Sex.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex.1"
+          },
+          {
+            "name": "Proportion of persons aged of 21-23 year who have completed upper secondary education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Proportion of persons aged of 21-23 year who have completed upper secondary education"
+          },
+          {
+            "name": "Area of residence.2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence.2"
+          },
+          {
+            "name": "Sex.2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex.2"
           },
           {
             "name": "Value",

@@ -12,7 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Persons with disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education levels ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher",
+                "Post-secondary non-tertiary (secondary professional)",
+                "Upper secondary vocational ",
+                "High school, upper secondary (general)",
+                "Lower secondary (gymnasium)",
+                "Primary or no education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

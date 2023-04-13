@@ -12,8 +12,112 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Proportion of managerial positions held by women ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Proportion of managerial positions held by women "
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultură",
+                "Industrie",
+                "Construcții",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
+                "Transport și depozitare; informații și comunicații",
+                "Administrație publică; învățământ; sănătate și asistență socială",
+                "Alte activități",
+                ""
+              ]
+            },
+            "title": "Activități economice"
+          },
+          {
+            "name": "Forms of ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Publică",
+                "Alte forme",
+                ""
+              ]
+            },
+            "title": "Forme de proprietate"
+          },
+          {
+            "name": "Proportion of women in senior and middle management positions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Proportion of women in senior and middle management positions"
+          },
+          {
+            "name": "Area of residence.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence.1"
+          },
+          {
+            "name": "Economic activities.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultură",
+                "Industrie",
+                "Construcții",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
+                "Transport și depozitare; informații și comunicații",
+                "Administrație publică; învățământ; sănătate și asistență socială",
+                "Alte activități",
+                ""
+              ]
+            },
+            "title": "Economic activities.1"
+          },
+          {
+            "name": "Forms of ownership.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Publică",
+                "Alte forme",
+                ""
+              ]
+            },
+            "title": "Forms of ownership.1"
           },
           {
             "name": "Value",
