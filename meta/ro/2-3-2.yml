@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.3.2: Venitul mediu al producătorilor agricoli mici, pe sex și statutul indigen</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.2999999999999998: Până în 2030, dublarea productivității agricole și veniturilor a micilor  producători agricoli, în special femei, populațiile indigene, fermieri de  familie, păstori și pescari, inclusiv prin accesul sigur și egal la terenuri,  alte resurse și factori de producție, cunoștințe, servicii financiare, piețe  și oportunități pentru crearea valorii adăugate și angajarea în activități  non-agricole</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agricultural Organization (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  Volumul producției agricole produse de către micii producători agricoli raportat la total producția agricolă produsă de către producătorii agricoli de toate categoriile
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Indicatorul măsoară veniturile din activitățile de producție în exploatația agricolă, care sunt legate de producția de alimente și produse agricole. Acestea includ veniturile din producția vegetală, producția animalieră, producția de pescuit și acvacultură și din producția forestieră
+SDG_GOAL: ''
+target_id: >-
+  2.2999999999999998
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-2.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 2.3.2: ea volumului producției agricole a micilor producători agricoli în total  producția agricolă</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Categoria micilor producători agricoli include gospodăriile populației și gospodăriile ţărăneşti (de fermier) cu suprafața terenurilor agricole până la 10 ha.                         Producția agricolă este determinată ca suma producţiei vegetale şi animaliere.</p> 
+  <p>Volumul producţiei vegetale constituie valoarea producţiei (recoltei globale a culturilor) agricole.</p> 
+  <p>Volumul producţiei animaliere se determină prin mărimile masei vii a prăsilei obţinute şi sporirii animalelor tinere crescute în curs de un an, a sporului în greutate al animalelor mature, precum şi a cantităţii de lapte, lână, ouă şi alte produse animaliere </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Calculele producției globale agricole în baza datelor primite din cercetările statistice exhaustive a întreprinderilor agricole mari și medii și selective a micilor producători agricoli
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Agriculturii și Industriei Alimentare
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Volumul producției globale agricole a micilor producători agricoli în prețuri comparabile/total  volumul producției globale agricole în prețuri comparabile*100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Spre deosebire de indicatorul global, unde micii producători sunt definiți  conform definiției propuse de FAO, pentru calcularea indicatorului național  este utilizată definiția națională fără dezagregare pe sexe și statutul indigen
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Trimestrial, anual
+source_url_1: >-
+  https://statbank.statistica.md/pxweb/pxweb/ro/40%20Statistica%20economica/40%20Statistica%20economica__16%20AGR__AGR010/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Lungu Ludmila, Biroul Național de Statistică, tel.067770682, e-mail: ludmila.lungu@statistica.gov.md
+source_other_info_1: >-

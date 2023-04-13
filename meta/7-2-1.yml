@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 7.2.1: Renewable energy share in the total final energy consumption</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 7.2: By 2030, increase substantially the share of renewable energy in the global  energy mix</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  International Energy Agency (IEA) United Nations Statistics Division (UNSD)  United Nations' inter-agency mechanism on energy (UN Energy) and the SE4ALL  Global Tracking Framework Consortium
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  7.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 216 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 7.2.1: Renewable energy share in the total final energy consumption</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Energy from renewable sources represents the energy obtained by harnessing  renewable unused sources, respectively wind energy, solar energy, aerothermal  energy, geothermal energy, hydrothermal energy and ocean energy, hydro-power  energy, biomass, biogas, waste fermentation gas (storage gas) and gas obtained  from wastewater treatment installations. Final gross consumption of energy -  energy products supplied for the energy purposes of industry, transportation,  residential sector, services, including public services, agriculture,  forestry, fishery, including consumption of electricity and thermal energy  from electricity and thermal energy producing, as well as technologic  consumption and losses of electricity and thermal energy in electricity and  thermal networks.</p> 
+  <p>  Final gross consumption of energy from renewable  sources is calculated as the sum of the following: a) final gross consumption  of electricity from renewable sources; b) final gross consumption of energy  from renewables sources for heating and cooling; c) final gross consumption of  energy from renewable sources in transportation. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Energy balance + estimations
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics + administrative sources of use by other  authorities
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Energy
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Final gross consumption of  energy from renewable sources (ktep) out of the  final gross consumption of energy (ktep) from all energy sources *100,  expresses in %
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agency for Energy Efficiency
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://aee.gov.md/ro/page/surse-de-energie-regenerabila
+source_url_text_1: >-
+  Renewable energy share in the total final energy consumption
+source_contact_1: >-
+  <p> Agency for Energy Efficiency</p> 
+  <p>office@aee.md</p> 
+  <p>022-499-444 </p>
+source_other_info_1: >-

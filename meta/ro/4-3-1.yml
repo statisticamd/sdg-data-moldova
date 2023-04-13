@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 4.3.1: Rata de participare a tinerilor și adulților în educația formală și  non-formală în ultimele 12 luni, pe sexe</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.3: Până în 2030, asigurarea accesului egal pentru toate femeile și toți bărbații  la educație tehnică, vocațională și terțiară, inclusiv universitară,  accesibilă și calitativă</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNESCO Institute for Statistics (UIS)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Procentul de tineri și adulți dintr-un anumit interval de vârstă (de exemplu, 15-24 de ani, 25-64 de ani etc.) care participă la educație sau formare formală sau non-formală într-o anumită perioadă de timp (de exemplu, ultimele 12 luni).
+SDG_GOAL: ''
+target_id: >-
+  4.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 4.3.1: Rata de participare a tinerilor și adulților în educația formală și  non-formală pe parcursul vieții</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Procentul tinerilor de 15-24 ani și a adulților de 25-64 ani care participă la educație sau instruire/formare formală sau non-formală în ultimele 4 săptămâni.
+UNIT_MEASURE: >-
+  procent (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Ancheta forței de muncă
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Educației și Cercetării
+OTHER_METHOD: >-
+  Indicatorul arată nivelul de participare a tinerilor și adulților la educație și formare de toate tipurile. O valoare ridicată indică o pondere mare a populației din grupa de vârstă relevantă participă la educație și formare formală și non-formală.
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Procentul de tineri cu vârsta cuprinsă între 15-24 de ani și adulți de 25-64 de ani care participă în ultimele 4 săptămâni la educație sau formare/instruire formală sau non-formală în total populație din aceeași grupă de vârstă.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Pentru indicatorul global perioada de referință este „ultimele 12 luni”.</p> 
+  <p>Pentru indicatorul național - ultimele 4 săptămâni. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  II
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  ALERGUȘ-SOLOVIOV Mariana, șef Direcția statistica ocupării, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-

@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.5.2: Rata șomajului, pe sexe, vârstă și persoane cu dizabilități</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.5: Până în 2030, angajarea completă și productivă și muncă decentă pentru toate  femeile și toți bărbații, inclusiv pentru tineri și persoanele cu  dizabilități, precum și remunerarea egală pentru munca de valoare egală</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Organizația Internațională a Muncii (ILO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Rata șomajului este o măsură utilă a subutilizarii ofertei de muncă. Ea reflectă incapacitatea unei economii de a genera locuri de muncă pentru acele persoane care doresc să muncească, dar nu o fac, chiar dacă sunt disponibile pentru angajare și caută activ de muncă. Acesta este astfel văzut ca un indicator al eficienței și eficacității unei economii de a-și absorbi forța de muncă și al performanței pieței muncii. Seriile de timp pe termen scurt ale ratei șomajului pot fi utilizate pentru a semnala schimbări în ciclul economic; mișcările în sus ale indicatorului coincid adesea cu perioade de recesiune sau, în unele cazuri, cu începutul unei perioade de expansiune, deoarece persoanele care nu erau anterior pe piața muncii încep să testeze condițiile printr-o căutare activă a unui loc de muncă.
+SDG_GOAL: ''
+target_id: >-
+  8.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 8.5.2: Rata șomajului</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Șomeri BIM (Biroul Internațional al Muncii) sunt persoanele de 15 ani și peste, care îndeplinesc simultan  următoarele condiții:</p> 
+  <p> - nu au un loc de muncă şi nu desfăşoară o  activitate în scopul obţinerii unor venituri;</p> 
+  <p> - sunt în căutarea unui loc  de muncă, utilizând în ultimele 4 săptămâni diverse metode pentru a-l găsi  înscrierea la Agenția Națională pentru Ocuparea Forței de Muncă sau la agenţii  private de ocupare, acţiuni pentru a începe o activitate pe cont propriu,  publicarea de anunţuri şi răspunsuri la anunţuri, apel la prieteni, rude,  colegi, sindicate etc.;</p> 
+  <p> - sunt disponibile să înceapă lucrul în  următoarele 15 zile, dacă s-ar găsi imediat un loc de muncă. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Ancheta Forței de Muncă
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Ponderea șomerilor BIM în total forța de muncă  (persoane ocupate plus șomerii) * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Corespunde total
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Trimestrial
+source_url_1: >-
+  https://statistica.gov.md/ro/statistic_indicator_details/1
+source_url_text_1: >-
+  statistica.gov.md / Statistici pe domenii / Ocupare și șomaj
+source_contact_1: >-
+  ALERGUȘ-SOLOVIOV Mariana, șef Direcția statistica ocupării, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-

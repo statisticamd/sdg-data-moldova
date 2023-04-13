@@ -1,0 +1,88 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.7.1.a: Ponderea șI numărul copiilor cu vârsta între 5-17 ani, care se află în situația de  „munca copiilor” pe sexe și vârstă</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.7: Măsuri imediate și eficiente pentru eradicarea muncii forțate, eliminarea  sclaviei moderne și a traficului de ființe umane, și asigurarea interzicerii  și eliminării celor mai grave forme ale muncii copiilor, inclusiv recrutarea  și utilizarea copiilor soldați, iar până în 2025, eliminarea muncii copiilor  în toate formele sale.</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  ILO, UNICEF
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  <p> Indicator 1. În baza granițelor de producție conform SCN</p> 
+  <p>Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei:</p> 
+  <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice;</p> 
+  <p>- pentru copiii de 12-14 ani:dacă lucrează cel puțin 14 ore pe săptămână în activități economice;</p> 
+  <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice.</p> 
+  <p>Indicator 2. În baza granițelor generale de producție conform SCN</p> 
+  <p>Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice și în muncă casnică pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei:</p> 
+  <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p> 
+  <p>- pentru copiii de 12-14 ani: dacă lucrează cel puțin 14 ore pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p> 
+  <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice (pentru copiii de 15-17 ani nu este stabilit un prag limită de  ore pentru munca casnică). </p>
+SDG_GOAL: ''
+target_id: >-
+  8.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 8.7.1.a: Ponderea copiilor cu vârsta între 5-17 ani, care se află în situația  de „munca copiilor”</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  „Munca copiilor” cuprinde munca pe care copiii o desfășoară fiind prea mici și/sau munca care, prin natura sau circumstanțele în care se desfășoară, este de natură să dăuneze sănătății, siguranței sau moralității copiilor.
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+  <p> Conform Convențiilor internaționale, munca copiilor este o muncă pe care copiii nu ar trebui să o facă deoarece (a) sunt prea mici sau (b) este în stare să dăuneze sănătății, siguranței sau moralității lor, datorită naturii sau a condițiilor în care se  efectuează.</p> 
+  <p>Situația de „munca copiilor” cuprinde acele activități/munci care se desfășoară în activități și/sau ocupații proscrise copiilor; și/sau condiții periculoase; sau care durează ore excesive de lucru. </p>
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Procentul copiilor care se află în situația de „munca copiilor” este calculat ca număr de copii de 5-17 ani care se află în situația de „munca copiilor” împărțit la numărul total de copii de 5-17 ani * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  II
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  De o singură periodicitate
+source_url_1: >-
+  https://statistica.gov.md/ro/munca-copiilor-in-republica-moldova-9670_59508.html
+source_url_text_1: >-
+  Munca Copiilor,  ediția 2010
+source_contact_1: >-
+  ALERGUȘ-SOLOVIOV Mariana, șef Direcția statistica ocupării, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-

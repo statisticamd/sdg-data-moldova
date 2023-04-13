@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.6.1: Ponderea  tinerilor (în vârstă de 15-24 ani) care nu fac parte din populația ocupată, nu  studiază/învață în cadrul sistemului formal de educaţie şi nu participă la  nici-un fel de cursuri sau alte instruiri în afara sistemului formal de  educație</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.6: Până în 2020, reducerea substanțială a proporției tinerilor care nu fac parte din populația ocupată, nu  studiază/învață în cadrul sistemului formal de educaţie şi nu participă la  nici-un fel de cursuri sau alte instruiri în afara sistemului formal de  educație</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Organizația Internațională a Muncii (ILO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Acest indicator indică proporția tinerilor (cu vârste între 15-24 de ani) care nu fac parte din populația ocupată, nu  studiază/învață în cadrul sistemului formal de educaţie şi nu participă la  nici-un fel de cursuri sau alte instruiri în afara sistemului formal de  educație (cunoscut și sub denumirea de „rata tinerilor NEET”).
+SDG_GOAL: ''
+target_id: >-
+  8.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 8.6.1: Ponderea tinerilor care nu fac parte din populația ocupată, nu studiază/învață în cadrul sistemului formal de educație și nu participă la niciun fel de cursuri sau alte instruiri în afara sistemului formal de educație (Rata tinerilor NEET)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Ancheta Forței de Muncă
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+  <p> Conform Clasificării Standarde Internaționale a Educației (ISCED), educația este definită ca comunicare organizată și susținută menită să aducă învățarea.</p> 
+  <p>Educația formală este definită în ISCED ca educație care este instituționalizată, intenționată și planificată prin organizații publice și organisme private recunoscute și, în totalitatea lor, alcătuiește sistemul de educație formal al unei țări.</p> 
+  <p>Educația non-formală, ca și educația formală, este definită în ISCED ca educație care este instituționalizată, intenționată și planificată de un furnizor de educație, dar este considerată o adăugare, o alternativă și/sau o completare a educației formale.</p> 
+  <p>În sensul acestui indicator, persoanele sunt considerate în curs de formare/instruire dacă se află într-o activitate de învățare neacademică prin care dobândesc competențe specifice destinate unor locuri de muncă profesionale sau tehnice. </p>
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Rata tinerilor NEET - ponderea tinerilor NEET (de grupa de vârste respective), în numărul total de tineri de aceeași grupă de vârstă.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul global se calculează pentru grupa de vârstă 15-24 ani. BNS  calculează și pentru grupele de vârstă 15-29 ani și 15-34 ani.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Trimestrial
+source_url_1: >-
+  https://statistica.gov.md/ro/statistic_indicator_details/1
+source_url_text_1: >-
+  statistica.gov.md / Statistici pe domenii / Ocupare și șomaj
+source_contact_1: >-
+  ALERGUȘ-SOLOVIOV Mariana, șef Direcția statistica ocupării, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-

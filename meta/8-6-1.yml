@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.6.1: Proportion of youth (aged 15–24 years) not in education, employment or training</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.6: By 2020, substantially reduce the proportion of youth not in employment,  education or training</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  International Labour Organization (ILO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  This indicator conveys the proportion of youth (aged 15-24 years) not in education, employment or training (also known as "the youth NEET rate").
+SDG_GOAL: ''
+target_id: >-
+  8.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 8.6.1: Proportion of youth not in education, employment or training (Youthe NEET rate)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Labour Force Survey
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Labour and Social Protection
+OTHER_METHOD: >-
+  <p> According to the International Standard Classification of Education (ISCED), education is defined as organized and sustained communication designed to bring about learning.</p> 
+  <p>Formal education is defined in ISCED as education that is institutionalized, intentional, and planned through public organizations and recognized private bodies and, in their totality, make up the formal education system of a country.</p> 
+  <p>Non-formal education, like formal education is defined in ISCED as education that is institutionalized, intentional and planned by an education provider but is considered an addition, alternative and/or a complement to formal education.</p> 
+  <p>For the purpose of this indicator, persons are considered to be in training if they are in a non-academic learning activity through which they acquire specific skills intended for vocational or technical jobs. </p>
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Youth NEET rate - the proportion of the Youth NEET (of respective age groups), in the total number of youth of the same age group.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The global indicator is calculated for the age group 15-24 years old. NBS also  calculates for the 15-29 and 15-34 age groups.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Quarterly
+source_url_1: >-
+  https://statistica.gov.md/en/statistic_indicator_details/1
+source_url_text_1: >-
+  statistica.gov.md / Statistics by themes / Employment and unemployment
+source_contact_1: >-
+  ALERGUS-SOLOVIOV Mariana, head, Employment Statistics Division, National Bureau of Statistics, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-

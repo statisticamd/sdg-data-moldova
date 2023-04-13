@@ -1,0 +1,84 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 4.1.2: 4.1.2 Completion rate (primary education, lower secondary education, upper secondary education)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNESCO Institute for Statistics (UIS)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  The national indicator corresponds to the global indicator
+SDG_INDICATOR_INFO__GLOBAL: >-
+  <p> The intended age for the last grade of each level of education is the age at which pupils would enter the grade if they had started school at the official primary entrance age, had studied full-time and had progressed without repeating or skipping a grade.</p> 
+  <p>For example, if the official age of entry into primary education is 6 years, and if primary education has 6 grades, the intended age for the last grade of primary education is 11 years. In this case, 14-16 years (11 + 3 = 14 and 11 + 5 = 16) would be the reference age group for calculation of the primary completion rate. </p>
+SDG_GOAL: ''
+target_id: >-
+  4.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 4.1.2: Completion rate (primary education, lower secondary education, upper secondary education)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Percentage of a cohort of children or young people aged 3-5 years above the intended age for the last grade of each level of education who have completed that grade.
+UNIT_MEASURE: >-
+  Percent (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Labour force survey
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Education and and Research
+OTHER_METHOD: >-
+  A completion rate at or near 100% indicates that all or most children and adolescents have completed a level of education by the time they are 3 to 5 years older than the official age of entry into the last grade of that level of education. A low completion rate indicates low or delayed entry into a given level of education, high drop-out, high repetition, late completion, or a combination of these factors.
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The number of persons in the relevant age group who have completed the last grade of a given level of education is divided by the total population of the same age group.</p> 
+  <p> Completion rate for level n of education = Population aged 3 to 5 years above the official entrance age a into the last grade of level n of education who completed level n divided by Population aged 3 to 5 years above the official entrance age a into the last grade of level n of education.</p> 
+  <p></p> 
+  <p>n= ISCED level 1 (primary education), 2 (lower secondary education), or 3 (upper secondary education) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Total corresponding
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  ALERGUS-SOLOVIOV Mariana, head, Employment Statistics Division, National Bureau of Statistics, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-

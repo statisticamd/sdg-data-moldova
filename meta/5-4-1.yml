@@ -1,0 +1,86 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.4.1: Proportion of time spent on unpaid domestic and care work, by sex, age and  location</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.4: Recognize and value unpaid care and domestic work through the provision of  public services, infrastructure and social protection policies and the  promotion of shared responsibility within the household and the family as  nationally appropriate</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UN Statistics Division (UNSD), UN Women
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  <p> This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women.</p> 
+  <p>Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households. </p>
+SDG_GOAL: ''
+target_id: >-
+  5.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 5.4.1: Proportion of time spent on unpaid domestic and care work</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women aged 15 years and over.</p> 
+  <p>Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households. </p>
+UNIT_MEASURE: >-
+  Percent (%) (a proportion of time in a day)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Time Use Survey (TUS) 2011-2012.</p> 
+  <p>In future: Labour force survey ad-hoc module </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Labour and Social Protection
+OTHER_METHOD: >-
+  The purpose of the indicator is to measure the amount of time women and men spend doing unpaid work, to ensure that all work, whether paid or unpaid, is valued.  In addition, it also provides an assessment of gender equality, by highlighting discrepancies between how much time women and men spend on unpaid work, like cooking, cleaning or taking care of children.
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Proportion of time spent on unpaid domestic and care work is calculated by dividing the daily average number of hours spent on unpaid domestic and care work by 24 hours [(Daily number of hours spent on domestic work + Daily number of hours spent on care work) / 24].</p> 
+  <p>Daily number of hours spent on relevant activities = Total number of hours spent by the population on relevant activities / Total population, regardless of whether they participated in the activity. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> For the global  indicator 5.4.1, it is recommended to use (Classification) ICATUS 2016.</p> 
+  <p>In 2012 in Moldova was used the European Classification HETUS, 2008. </p> 
+  <p>There is difference in the structure of unpaid work activities between HETUS and  ICATUS.</p> 
+  <p>Data for 2012 refer to the group "Household and family care", according to HETUS-2008. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  II
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  One periodicity
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  ALERGUS-SOLOVIOV Mariana, head, Employment Statistics Division, National Bureau of Statistics, mariana.alergus@statistica.gov.md , +373 67770786
+source_other_info_1: >-
