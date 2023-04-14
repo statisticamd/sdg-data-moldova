@@ -27,7 +27,7 @@
             "title": "Units"
           },
           {
-            "name": "Indicators",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Series"
           },
           {
             "name": "Area of residence",
