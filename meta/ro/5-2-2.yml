@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.2.2: Proporția femeilor și fetelor de 15 ani și peste care au fost supuse violenței  sexuale din partea unei altei persoane decât partenerul intim, în ultimele 12  luni, pe vârste și locul survenirii violenței</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.2: Eliminarea tuturor formelor de violență împotriva femeilor și fetelor, în  sferele publice și private, inclusiv a traficului, exploatării sexuale și a  altor tipuri de exploatare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Fondul Națiunilor Unite pentru Copii (UNICEF), Entitatea Națiunilor Unite pentru egalitatea de gen și abilitarea femeilor (UN Women), Fondul Națiunilor Unite pentru Populație (UNFPA), Organizația Mondială a Sănătății (OMS), Oficiul Națiunilor Unite pentru Droguri și Criminalitate (UNODC)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Proporția femeilor și fetelor în vârstă de 15 ani și peste care au fost supuse violenței sexuale de către alte persoane decât un partener intim în ultimele 12 luni, după vârstă și locul apariției
+SDG_GOAL: ''
+target_id: >-
+  5.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 294 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 5.2.2: Prevalența violenței sexuale față de femei și fete de 15-65 ani din  partea altor persoane decât partenerul/ soțul, în ultimele 12 luni</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Cercetarea "Violența față de femei în familie"
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății, Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul de femei și fete în vârstă de 15-65 ani  care  au fost expuse  violenței sexuale din partea altor persoane decât partenerul intim/soț,  în  ultimele 12 luni, împărțit la numărul total  de femei și fete cu vârsta de 15  -65 ani, înmulțit cu 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul global se referă la femei în vârsta 15+, indicatorul național -  femei 15-65 ani
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  odată la 10 ani
+source_url_1: >-
+  https://statistica.gov.md/ro/violenta-fata-de-femei-in-familie-in-republica-moldova-editia-2011-9679_59496.html
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

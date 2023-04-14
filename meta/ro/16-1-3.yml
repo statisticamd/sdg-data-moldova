@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.1.3: Proporția populației supuse violenței fizice și sexuale, în ultimele 12 luni</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Reducerea semnificativă a tuturor formelor de violență și ratelor de deces  conexe, pretutindeni</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-03.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 217 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.1.3: Proporția populației supuse violenței fizice și sexuale, în ultimele 12  luni</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Violență în familie – acte de violență fizică, sexuală, psihologică,   spirituală sau economică, cu excepția acțiunilor de autoapărare sau de  apărare  ale altei persoane, inclusiv amenințarea cu asemenea acte, comise de  către un  membru de familie în privința altui membru al aceleiași familii,  prin care s-a  cauzat victimei prejudiciu material sau moral.</p> 
+  <p> Violență  fizică - vătămare  intenționată a integrității corporale ori a sănătății prin  lovire, îmbrâncire,  trântire, tragere de păr, înțepare, tăiere, ardere,  strangulare, mușcare, în  orice formă și de orice intensitate, prin otrăvire,  intoxicare, alte acțiuni  cu efect similar;</p> 
+  <p> Violență sexuală - orice  violență cu caracter sexual  sau orice conduită sexuală ilegală în cadrul  familiei sau în alte relații  interpersonale, cum ar fi violul conjugal,  interzicerea folosirii metodelor de  contracepție, hărțuirea sexuală; orice  conduită sexuală nedorită, impusă;  obligarea practicării prostituției; orice  comportament sexual ilegal în raport  cu un membru de familie minor, inclusiv  prin mângâieri, sărutări, pozare a  copilului și prin alte atingeri nedorite  cu tentă sexuală; alte acțiuni cu  efect similar. (art. 2 din Legea nr. 45 din  01.03.2007, cu privire la  prevenirea și combaterea violenței în familie)  spirituală sau economică, cu excepția acțiunilor de autoapărare sau de apărare  ale altei persoane, inclusiv amenințarea cu asemenea acte, comise de către un  membru de familie în privința altui membru al aceleiași familii, prin care s-a  cauzat victimei prejudiciu material sau moral.</p> 
+  <p>  Violență fizică - vătămare  intenționată a integrității corporale ori a sănătății prin lovire, îmbrâncire,  trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în  orice formă și de orice intensitate, prin otrăvire, intoxicare, alte acțiuni  cu efect similar;</p> 
+  <p>  Violență sexuală - orice violență cu caracter sexual  sau orice conduită sexuală ilegală în cadrul familiei sau în alte relații  interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de  contracepție, hărțuirea sexuală; orice conduită sexuală nedorită, impusă;  obligarea practicării prostituției; orice comportament sexual ilegal în raport  cu un membru de familie minor, inclusiv prin mângâieri, sărutări, pozare a  copilului și prin alte atingeri nedorite cu tentă sexuală; alte acțiuni cu  efect similar. (art. 2 din Legea nr. 45 din 01.03.2007, cu privire la  prevenirea și combaterea violenței în familie) </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Cercetarea "Violența fată de femei în familie"
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății, Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul femeilor (cu vârste între 15 și 65 de ani) care au raportat cazuri de  survenire a cel puțin unui caz de violența fizică sau sexuală (din partea  soțului/partenerului și a altor persoane) în ultimele 12 luni anterioare  perioadei de cercetare raportat la numărul total de femei (cu vârste între 15  și 65 de ani), înmulțit cu 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul global se referă la toată populația, indicatorul național se  referă numai la femei.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  odată la 10 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

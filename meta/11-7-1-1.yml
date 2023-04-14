@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.7.1.1: Proportion of green spaces and streets (conventionally public areas) out of  the built-in areas of urban localities</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.7: By 2030, provide universal access to safe, inclusive and accessible, green and  public spaces, in particular for women and children, older persons and persons  with disabilities</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Human Settlements Programme (UN-Habitat)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.7.1.1: Proportion of green spaces and streets (conventionally public areas)  out of the built-in areas of urban localities</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Total area of green spaces and plantations within the perimeters of urban  localities includes the area of green spaces existing within the perimeter of  the city (town) at the end of the year. Categories of green spaces: 1)  green  spaces of general use (squares, gardens, parks; forest-parks; green spaces  from drive routes); 2) green spaces with limited access (sport parks; green  spaces nearby pre-school institutions, education and scientific research  institutions; green spaces nearby the sanitary and curative institutions;  green spaces for children and youth recreation; green spaces from enterprises  and their protection areas; green spaces nearby dwellings); 3) green spaces  with specialised profile (botanic gardens; dendrology gardens; zoo parks and  gardens, parks for exhibitions; rose, lilac, alpine plants'  gardens, etc.;  plantations in cemeteries); 4) green spaces with utility functions  (plantations for land consolidation; water sources' protection plantations;  anti-fire protection plantations); 5) green spaces from tourist and recreation  zones.</p> 
+  <p>  Total area of streets, ways, quays and squares including the area  of sidewalks, as well the cumulated area of all streets and ways (boulevards,  roads, side streets, blind alleys, squares, including the ones near stadiums  and stations) with or without paving, located between the facades of  buildings, including the area of bridges, viaducts, access roads, existing by  the end of the reporting year within the perimeter of the city. Land surface  from the built-in areas of urban localities  is composed of the following land  fields: 1) area of fields on which residential districts are built, 2) area of  fields on which production and transport enterprises are built, 3) territories  between the residential districts and the neighbouring ones, fields occupied  by streets, squares, quays, 4) fields used to organizing population  recreation, space used for public utilities (parks, gardens, alleys, etc.), 5)  water surfaces except for swimming pools, cemeteries, land fields with special  destination, 6) fields in the expropriation zone (of railroad, roads, port  constructions, airport, etc.), 7) fields covered by constructions for state  defence (polygons, shooting fields, citadels, barracks), reservations and  assimilated fields taken out of mayoralties' jurisdiction. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Statistical report on housing infrastructure and greening
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  The specialized enterprises of the municipal and town halls, which carry out  the management of the municipal infrastructure and the greening activity
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  National Bureau of Statistics
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Total area of green spaces and plantations within the perimeters of urban  localities  + Total area of streets, ways, quays, squares / built-up area  *100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The notions used in the national indicator result from the statistical report  no 1- on housing infrastructure and greening  and include only the elements of  the definitions included in the global indicator, but are not equivalent. The  data sources for the national indicator (administrative data) and the global  one differ (geo-referenced data).
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

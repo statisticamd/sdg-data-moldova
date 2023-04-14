@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 5.2.1 Prevalence of violence against women and girls (aged 15-65 years old) by  partner/husband in the last 12 months
+graph_title: 11.7.1.1 Proportion of green spaces and streets (conventionally public areas)  out of the built-in areas of urban localities
 graph_titles: []
 graph_type: line
-indicator_available: Prevalence of violence against women and girls (aged 15-65 years old) by  partner/husband in the last 12 months
-indicator_name: global_indicators.5-2-1-title
-indicator_number: 5.2.1
+indicator_available: Proportion of green spaces and streets (conventionally public areas)  out of the built-in areas of urban localities
+indicator_name: global_indicators.11-7-1-1-title
+indicator_number: 11.7.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
