@@ -16,15 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Proportion of managerial positions held by women ",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "Proportion of managerial positions held by women ",
+                "Proportion of women in senior and middle management positions",
                 ""
               ]
             },
-            "title": "Proportion of managerial positions held by women "
+            "title": "Indicators"
           },
           {
             "name": "Area of residence",
@@ -66,58 +67,6 @@
               ]
             },
             "title": "Forms of ownership"
-          },
-          {
-            "name": "Proportion of women in senior and middle management positions",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                ""
-              ]
-            },
-            "title": "Proportion of women in senior and middle management positions"
-          },
-          {
-            "name": "Area of residence.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Area of residence.1"
-          },
-          {
-            "name": "Economic activities.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Agriculture",
-                "Industry",
-                "Construction",
-                "Wholesale and retail trade; accomodation and food service activities",
-                "Transportation and storage; information and communication",
-                "Public administration; education; health and social work",
-                "Other activities",
-                ""
-              ]
-            },
-            "title": "Economic activities.1"
-          },
-          {
-            "name": "Forms of ownership.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Public",
-                "Other forms",
-                ""
-              ]
-            },
-            "title": "Forms of ownership.1"
           },
           {
             "name": "Value",

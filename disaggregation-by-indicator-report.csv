@@ -23,7 +23,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-8-2-2,"Area of residence, Sex, Age group, Quintiles on consumption expenditures",4
 #3-8-2-a,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Age groups of head of household, years, Household type",5
 #3-8-2-b,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Age groups of head of household, years, Household type",5
-#4-1-2,"Area of residence, Area of residence.1, Sex, Proportion of persons aged of 13-15 year who have completed primary education, Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium), Sex.1, Proportion of persons aged of 21-23 year who have completed upper secondary education, Area of residence.2, Sex.2",9
+#4-1-2,"Area of residence, Indicators, Sex",3
 #4-2-2,"Area of residence, Sex",2
 #4-3-1,"Area of residence, Sex, Age group / Sex",3
 #4-5-1-a,"Area of residence, Sex",2
@@ -35,7 +35,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-c-1-b,"Forms of ownership, Sex",2
 #5-4-1,"Area of residence, Sex, Age group",3
 #5-4-1-2,Area of residence,1
-#5-5-2,"Area of residence, Proportion of managerial positions held by women , Economic activities, Forms of ownership, Proportion of women in senior and middle management positions, Area of residence.1, Economic activities.1, Forms of ownership.1",8
+#5-5-2,"Area of residence, Indicators, Economic activities, Forms of ownership",4
 #5-b-1-1,"Area of residence, Sex of the head of the household",2
 #6-1-1,"Area of residence, Sex of the head of the household, Statistical regions, Quintiles on consumption expenditures",4
 #6-2-1-1,"Area of residence, Sex of the head of the household, Statistical regions, Quintiles on consumption expenditures",4

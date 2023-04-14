@@ -1,209 +1,196 @@
-Year,Proportion of persons aged of 13-15 year who have completed primary education,Area of residence,Sex,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Area of residence.1,Sex.1,Proportion of persons aged of 21-23 year who have completed upper secondary education,Area of residence.2,Sex.2,Value
-2010,,,,,,,,,,0.0
-2010,Total,,,,,,,,,
-2010,,Urban,,,,,,,,
-2010,,Rural,,,,,,,,
-2010,,,Men,,,,,,,
-2010,,,Women,,,,,,,
-2010,,,,Total,,,,,,
-2010,,,,,Urban,,,,,
-2010,,,,,Rural,,,,,
-2010,,,,,,Men,,,,
-2010,,,,,,Women,,,,
-2010,,,,,,,Total,,,
-2010,,,,,,,,Urban,,
-2010,,,,,,,,Rural,,
-2010,,,,,,,,,Men,
-2010,,,,,,,,,Women,
-2011,,,,,,,,,,0.0
-2011,Total,,,,,,,,,
-2011,,Urban,,,,,,,,
-2011,,Rural,,,,,,,,
-2011,,,Men,,,,,,,
-2011,,,Women,,,,,,,
-2011,,,,Total,,,,,,
-2011,,,,,Urban,,,,,
-2011,,,,,Rural,,,,,
-2011,,,,,,Men,,,,
-2011,,,,,,Women,,,,
-2011,,,,,,,Total,,,
-2011,,,,,,,,Urban,,
-2011,,,,,,,,Rural,,
-2011,,,,,,,,,Men,
-2011,,,,,,,,,Women,
-2012,,,,,,,,,,0.0
-2012,Total,,,,,,,,,
-2012,,Urban,,,,,,,,
-2012,,Rural,,,,,,,,
-2012,,,Men,,,,,,,
-2012,,,Women,,,,,,,
-2012,,,,Total,,,,,,
-2012,,,,,Urban,,,,,
-2012,,,,,Rural,,,,,
-2012,,,,,,Men,,,,
-2012,,,,,,Women,,,,
-2012,,,,,,,Total,,,
-2012,,,,,,,,Urban,,
-2012,,,,,,,,Rural,,
-2012,,,,,,,,,Men,
-2012,,,,,,,,,Women,
-2013,,,,,,,,,,0.0
-2013,Total,,,,,,,,,
-2013,,Urban,,,,,,,,
-2013,,Rural,,,,,,,,
-2013,,,Men,,,,,,,
-2013,,,Women,,,,,,,
-2013,,,,Total,,,,,,
-2013,,,,,Urban,,,,,
-2013,,,,,Rural,,,,,
-2013,,,,,,Men,,,,
-2013,,,,,,Women,,,,
-2013,,,,,,,Total,,,
-2013,,,,,,,,Urban,,
-2013,,,,,,,,Rural,,
-2013,,,,,,,,,Men,
-2013,,,,,,,,,Women,
-2014,,,,,,,,,,0.0
-2014,Total,,,,,,,,,99.7
-2014,,Urban,,,,,,,,99.6
-2014,,Rural,,,,,,,,99.8
-2014,,,Men,,,,,,,99.7
-2014,,,Women,,,,,,,99.8
-2014,,,,Total,,,,,,98.8
-2014,,,,,Urban,,,,,99.3
-2014,,,,,Rural,,,,,98.6
-2014,,,,,,Men,,,,98.3
-2014,,,,,,Women,,,,99.3
-2014,,,,,,,Total,,,78.3
-2014,,,,,,,,Urban,,92.0
-2014,,,,,,,,Rural,,69.1
-2014,,,,,,,,,Men,74.7
-2014,,,,,,,,,Women,82.3
-2015,,,,,,,,,,0.0
-2015,Total,,,,,,,,,99.7
-2015,,Urban,,,,,,,,99.6
-2015,,Rural,,,,,,,,99.7
-2015,,,Men,,,,,,,99.6
-2015,,,Women,,,,,,,99.8
-2015,,,,Total,,,,,,99.0
-2015,,,,,Urban,,,,,99.6
-2015,,,,,Rural,,,,,98.7
-2015,,,,,,Men,,,,98.8
-2015,,,,,,Women,,,,99.1
-2015,,,,,,,Total,,,77.2
-2015,,,,,,,,Urban,,90.2
-2015,,,,,,,,Rural,,69.8
-2015,,,,,,,,,Men,73.0
-2015,,,,,,,,,Women,81.5
-2016,,,,,,,,,,0.0
-2016,Total,,,,,,,,,99.8
-2016,,Urban,,,,,,,,100.0
-2016,,Rural,,,,,,,,99.8
-2016,,,Men,,,,,,,99.8
-2016,,,Women,,,,,,,99.9
-2016,,,,Total,,,,,,99.3
-2016,,,,,Urban,,,,,100.0
-2016,,,,,Rural,,,,,99.0
-2016,,,,,,Men,,,,99.6
-2016,,,,,,Women,,,,99.0
-2016,,,,,,,Total,,,79.3
-2016,,,,,,,,Urban,,91.1
-2016,,,,,,,,Rural,,71.6
-2016,,,,,,,,,Men,76.0
-2016,,,,,,,,,Women,82.7
-2017,,,,,,,,,,0.0
-2017,Total,,,,,,,,,99.9
-2017,,Urban,,,,,,,,99.6
-2017,,Rural,,,,,,,,100.0
-2017,,,Men,,,,,,,99.7
-2017,,,Women,,,,,,,100.0
-2017,,,,Total,,,,,,99.4
-2017,,,,,Urban,,,,,99.6
-2017,,,,,Rural,,,,,99.3
-2017,,,,,,Men,,,,99.5
-2017,,,,,,Women,,,,99.3
-2017,,,,,,,Total,,,79.9
-2017,,,,,,,,Urban,,91.6
-2017,,,,,,,,Rural,,73.9
-2017,,,,,,,,,Men,78.4
-2017,,,,,,,,,Women,81.5
-2018,,,,,,,,,,0.0
-2018,Total,,,,,,,,,99.7
-2018,,Urban,,,,,,,,99.5
-2018,,Rural,,,,,,,,99.7
-2018,,,Men,,,,,,,99.9
-2018,,,Women,,,,,,,99.4
-2018,,,,Total,,,,,,99.0
-2018,,,,,Urban,,,,,99.1
-2018,,,,,Rural,,,,,98.9
-2018,,,,,,Men,,,,98.9
-2018,,,,,,Women,,,,99.1
-2018,,,,,,,Total,,,78.0
-2018,,,,,,,,Urban,,89.1
-2018,,,,,,,,Rural,,70.4
-2018,,,,,,,,,Men,78.4
-2018,,,,,,,,,Women,77.4
-2019,,,,,,,,,,0.0
-2019,Total,,,,,,,,,99.6
-2019,,Urban,,,,,,,,99.7
-2019,,Rural,,,,,,,,99.5
-2019,,,Men,,,,,,,99.7
-2019,,,Women,,,,,,,99.4
-2019,,,,Total,,,,,,99.1
-2019,,,,,Urban,,,,,98.3
-2019,,,,,Rural,,,,,99.6
-2019,,,,,,Men,,,,99.2
-2019,,,,,,Women,,,,99.0
-2019,,,,,,,Total,,,80.5
-2019,,,,,,,,Urban,,91.1
-2019,,,,,,,,Rural,,72.9
-2019,,,,,,,,,Men,77.3
-2019,,,,,,,,,Women,83.7
-2020,,,,,,,,,,0.0
-2020,Total,,,,,,,,,99.8
-2020,,Urban,,,,,,,,99.7
-2020,,Rural,,,,,,,,99.8
-2020,,,Men,,,,,,,99.8
-2020,,,Women,,,,,,,99.8
-2020,,,,Total,,,,,,100.0
-2020,,,,,Urban,,,,,100.0
-2020,,,,,Rural,,,,,100.0
-2020,,,,,,Men,,,,100.0
-2020,,,,,,Women,,,,100.0
-2020,,,,,,,Total,,,80.6
-2020,,,,,,,,Urban,,88.7
-2020,,,,,,,,Rural,,74.7
-2020,,,,,,,,,Men,78.2
-2020,,,,,,,,,Women,83.1
-2021,,,,,,,,,,0.0
-2021,Total,,,,,,,,,100.0
-2021,,Urban,,,,,,,,100.0
-2021,,Rural,,,,,,,,100.0
-2021,,,Men,,,,,,,100.0
-2021,,,Women,,,,,,,100.0
-2021,,,,Total,,,,,,99.1
-2021,,,,,Urban,,,,,98.6
-2021,,,,,Rural,,,,,99.4
-2021,,,,,,Men,,,,99.1
-2021,,,,,,Women,,,,99.1
-2021,,,,,,,Total,,,78.1
-2021,,,,,,,,Urban,,85.3
-2021,,,,,,,,Rural,,72.1
-2021,,,,,,,,,Men,74.8
-2021,,,,,,,,,Women,81.3
-2022,,,,,,,,,,0.0
-2022,Total,,,,,,,,,99.8
-2022,,Urban,,,,,,,,99.7
-2022,,Rural,,,,,,,,99.9
-2022,,,Men,,,,,,,99.8
-2022,,,Women,,,,,,,99.8
-2022,,,,Total,,,,,,99.0
-2022,,,,,Urban,,,,,98.6
-2022,,,,,Rural,,,,,99.3
-2022,,,,,,Men,,,,98.9
-2022,,,,,,Women,,,,99.2
-2022,,,,,,,Total,,,75.0
-2022,,,,,,,,Urban,,83.0
-2022,,,,,,,,Rural,,68.4
-2022,,,,,,,,,Men,73.1
-2022,,,,,,,,,Women,76.8
+Year,Indicators,Area of residence,Sex,Value
+2010,Proportion of persons aged of 13-15 year who have completed primary education,Total,,
+2010,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,
+2010,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,
+2010,Proportion of persons aged of 13-15 year who have completed primary education,,Men,
+2010,Proportion of persons aged of 13-15 year who have completed primary education,,Women,
+2010,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,
+2010,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,
+2010,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,
+2010,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,
+2010,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,
+2010,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,
+2010,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,
+2010,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,
+2010,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,
+2010,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,
+2011,Proportion of persons aged of 13-15 year who have completed primary education,Total,,
+2011,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,
+2011,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,
+2011,Proportion of persons aged of 13-15 year who have completed primary education,,Men,
+2011,Proportion of persons aged of 13-15 year who have completed primary education,,Women,
+2011,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,
+2011,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,
+2011,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,
+2011,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,
+2011,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,
+2011,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,
+2011,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,
+2011,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,
+2011,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,
+2011,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,
+2012,Proportion of persons aged of 13-15 year who have completed primary education,Total,,
+2012,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,
+2012,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,
+2012,Proportion of persons aged of 13-15 year who have completed primary education,,Men,
+2012,Proportion of persons aged of 13-15 year who have completed primary education,,Women,
+2012,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,
+2012,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,
+2012,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,
+2012,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,
+2012,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,
+2012,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,
+2012,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,
+2012,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,
+2012,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,
+2012,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,
+2013,Proportion of persons aged of 13-15 year who have completed primary education,Total,,
+2013,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,
+2013,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,
+2013,Proportion of persons aged of 13-15 year who have completed primary education,,Men,
+2013,Proportion of persons aged of 13-15 year who have completed primary education,,Women,
+2013,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,
+2013,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,
+2013,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,
+2013,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,
+2013,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,
+2013,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,
+2013,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,
+2013,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,
+2013,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,
+2013,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,
+2014,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.7
+2014,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.6
+2014,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.8
+2014,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.7
+2014,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.8
+2014,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,98.8
+2014,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,99.3
+2014,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,98.6
+2014,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,98.3
+2014,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.3
+2014,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,78.3
+2014,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,92.0
+2014,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,69.1
+2014,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,74.7
+2014,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,82.3
+2015,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.7
+2015,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.6
+2015,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.7
+2015,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.6
+2015,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.8
+2015,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.0
+2015,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,99.6
+2015,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,98.7
+2015,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,98.8
+2015,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.1
+2015,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,77.2
+2015,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,90.2
+2015,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,69.8
+2015,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,73.0
+2015,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,81.5
+2016,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.8
+2016,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,100.0
+2016,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.8
+2016,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.8
+2016,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.9
+2016,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.3
+2016,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,100.0
+2016,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,99.0
+2016,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,99.6
+2016,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.0
+2016,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,79.3
+2016,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,91.1
+2016,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,71.6
+2016,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,76.0
+2016,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,82.7
+2017,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.9
+2017,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.6
+2017,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,100.0
+2017,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.7
+2017,Proportion of persons aged of 13-15 year who have completed primary education,,Women,100.0
+2017,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.4
+2017,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,99.6
+2017,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,99.3
+2017,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,99.5
+2017,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.3
+2017,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,79.9
+2017,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,91.6
+2017,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,73.9
+2017,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,78.4
+2017,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,81.5
+2018,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.7
+2018,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.5
+2018,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.7
+2018,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.9
+2018,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.4
+2018,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.0
+2018,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,99.1
+2018,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,98.9
+2018,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,98.9
+2018,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.1
+2018,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,78.0
+2018,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,89.1
+2018,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,70.4
+2018,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,78.4
+2018,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,77.4
+2019,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.6
+2019,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.7
+2019,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.5
+2019,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.7
+2019,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.4
+2019,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.1
+2019,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,98.3
+2019,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,99.6
+2019,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,99.2
+2019,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.0
+2019,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,80.5
+2019,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,91.1
+2019,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,72.9
+2019,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,77.3
+2019,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,83.7
+2020,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.8
+2020,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.7
+2020,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.8
+2020,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.8
+2020,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.8
+2020,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,100.0
+2020,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,100.0
+2020,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,100.0
+2020,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,100.0
+2020,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,100.0
+2020,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,80.6
+2020,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,88.7
+2020,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,74.7
+2020,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,78.2
+2020,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,83.1
+2021,Proportion of persons aged of 13-15 year who have completed primary education,Total,,100.0
+2021,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,100.0
+2021,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,100.0
+2021,Proportion of persons aged of 13-15 year who have completed primary education,,Men,100.0
+2021,Proportion of persons aged of 13-15 year who have completed primary education,,Women,100.0
+2021,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.1
+2021,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,98.6
+2021,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,99.4
+2021,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,99.1
+2021,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.1
+2021,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,78.1
+2021,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,85.3
+2021,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,72.1
+2021,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,74.8
+2021,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,81.3
+2022,Proportion of persons aged of 13-15 year who have completed primary education,Total,,99.8
+2022,Proportion of persons aged of 13-15 year who have completed primary education,Urban,,99.7
+2022,Proportion of persons aged of 13-15 year who have completed primary education,Rural,,99.9
+2022,Proportion of persons aged of 13-15 year who have completed primary education,,Men,99.8
+2022,Proportion of persons aged of 13-15 year who have completed primary education,,Women,99.8
+2022,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Total,,99.0
+2022,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Urban,,98.6
+2022,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),Rural,,99.3
+2022,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Men,98.9
+2022,Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium),,Women,99.2
+2022,Proportion of persons aged of 21-23 year who have completed upper secondary education,Total,,75.0
+2022,Proportion of persons aged of 21-23 year who have completed upper secondary education,Urban,,83.0
+2022,Proportion of persons aged of 21-23 year who have completed upper secondary education,Rural,,68.4
+2022,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Men,73.1
+2022,Proportion of persons aged of 21-23 year who have completed upper secondary education,,Women,76.8
