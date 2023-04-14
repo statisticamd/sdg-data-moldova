@@ -1,0 +1,92 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Reported on a person, by sources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auto",
+                "Railway",
+                "Air",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Reported on a person, by ingredients",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon monoxide",
+                "Nitrogen dioxide",
+                "Sulphur dioxide",
+                "Hydrocarbs",
+                "Aldehydes",
+                "Solids",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantity of emissions, total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantity of emissions, by sources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auto",
+                "Railway",
+                "Air",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantity of emissions, by ingredients",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon monoxide",
+                "Nitrogen dioxide",
+                "Sulphur dioxide",
+                "Hydrocarbs",
+                "Aldehydes",
+                "Solids",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-2-1",
+  "title": "global_indicators.11-6-2-1-title"
+}

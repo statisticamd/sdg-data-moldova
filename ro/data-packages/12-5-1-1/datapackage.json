@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Municipiul Chişinău",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
+                "kg/person",
+                ""
+              ]
+            },
+            "title": "Regiuni"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-5-1-1",
+  "title": "global_indicators.12-5-1-1-title"
+}

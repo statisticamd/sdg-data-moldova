@@ -12,8 +12,63 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-65",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superioare",
+                "Mediu de specialitate",
+                "Secundar profesional",
+                "Mediu general",
+                "Gimnazial",
+                ""
+              ]
+            },
+            "title": "Nivelul de studii"
+          },
+          {
+            "name": "Form of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psihologică",
+                "Fizică",
+                "Sexuală",
+                ""
+              ]
+            },
+            "title": "Formă de violență"
           },
           {
             "name": "Value",

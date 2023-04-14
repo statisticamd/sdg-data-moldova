@@ -446,6 +446,28 @@
       "title": "global_indicators.6-2-1-a-title"
     },
     {
+      "path": "11-7-1-1/data.csv",
+      "name": "11-7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.11-7-1-1-title"
+    },
+    {
       "path": "10-1-1-b/data.csv",
       "name": "10-1-1-b",
       "profile": "tabular-data-resource",
@@ -565,6 +587,140 @@
         ]
       },
       "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+    },
+    {
+      "path": "5-2-2/data.csv",
+      "name": "5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher",
+                "Secondary specialized",
+                "Secondary vocational",
+                "Secondary school",
+                "Gymnasium",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+    },
+    {
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher",
+                "Secondary specialized",
+                "Secondary vocational",
+                "Secondary school",
+                "Gymnasium",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Form of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological",
+                "Physical",
+                "Sexual",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "2-3-2/data.csv",
@@ -756,6 +912,50 @@
         ]
       },
       "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+    },
+    {
+      "path": "4-1-2-1/data.csv",
+      "name": "4-1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boys",
+                "Girls",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-2-1-title"
     },
     {
       "path": "5-4-1-2/data.csv",
@@ -1984,6 +2184,43 @@
       "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
+      "path": "12-5-1-1/data.csv",
+      "name": "12-5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Municipiul Chişinău",
+                "North",
+                "Center",
+                "South",
+                "ATU Găgăuzia",
+                "kg/person",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.12-5-1-1-title"
+    },
+    {
       "path": "8-5-2/data.csv",
       "name": "8-5-2",
       "profile": "tabular-data-resource",
@@ -2655,6 +2892,83 @@
       "title": "global_indicators.1-3-1-a-title"
     },
     {
+      "path": "16-1-3/data.csv",
+      "name": "16-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Socioeconomic status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
+    },
+    {
       "path": "10-1-1-a/data.csv",
       "name": "10-1-1-a",
       "profile": "tabular-data-resource",
@@ -3032,6 +3346,92 @@
         ]
       },
       "title": "global_indicators.1-3-1-i-title"
+    },
+    {
+      "path": "11-6-2-1/data.csv",
+      "name": "11-6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Reported on a person, by sources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auto",
+                "Railway",
+                "Air",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Reported on a person, by ingredients",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon monoxide",
+                "Nitrogen dioxide",
+                "Sulphur dioxide",
+                "Hydrocarbs",
+                "Aldehydes",
+                "Solids",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantity of emissions, total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantity of emissions, by sources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auto",
+                "Railway",
+                "Air",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantity of emissions, by ingredients",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon monoxide",
+                "Nitrogen dioxide",
+                "Sulphur dioxide",
+                "Hydrocarbs",
+                "Aldehydes",
+                "Solids",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.11-6-2-1-title"
     },
     {
       "path": "11-5-1-a/data.csv",
@@ -7161,28 +7561,6 @@
       "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
-    },
-    {
       "path": "6-4-1/data.csv",
       "name": "6-4-1",
       "profile": "tabular-data-resource",
@@ -7753,28 +8131,6 @@
         ]
       },
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
-    },
-    {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "15-4-2/data.csv",
@@ -8655,28 +9011,6 @@
         ]
       },
       "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
-    },
-    {
-      "path": "16-1-3/data.csv",
-      "name": "16-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
       "path": "11-5-3/data.csv",

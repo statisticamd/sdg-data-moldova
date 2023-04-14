@@ -1,0 +1,99 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Reported on a person, by sources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auto",
+                "Feroviar",
+                "Aerian",
+                ""
+              ]
+            },
+            "title": "Reported on a person, by sources"
+          },
+          {
+            "name": "Reported on a person, by ingredients",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oxid de carbon",
+                "Dioxid de azot",
+                "Dioxid de sulf",
+                "Hidrocarburi",
+                "Aldehydes",
+                "Substanțe solide",
+                ""
+              ]
+            },
+            "title": "Reported on a person, by ingredients"
+          },
+          {
+            "name": "Quantity of emissions, total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Quantity of emissions, total"
+          },
+          {
+            "name": "Quantity of emissions, by sources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auto",
+                "Feroviar",
+                "Aerian",
+                ""
+              ]
+            },
+            "title": "Quantity of emissions, by sources"
+          },
+          {
+            "name": "Quantity of emissions, by ingredients",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oxid de carbon",
+                "Dioxid de azot",
+                "Dioxid de sulf",
+                "Hidrocarburi",
+                "Aldehydes",
+                "Substanțe solide",
+                ""
+              ]
+            },
+            "title": "Quantity of emissions, by ingredients"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-2-1",
+  "title": "global_indicators.11-6-2-1-title"
+}

@@ -12,7 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher",
+                "Secondary specialized",
+                "Secondary vocational",
+                "Secondary school",
+                "Gymnasium",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Form of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological",
+                "Physical",
+                "Sexual",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
