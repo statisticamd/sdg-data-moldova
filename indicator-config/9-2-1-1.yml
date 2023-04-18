@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.4.1 Proportion of the labour force costs in the Gross Domestic Product
+graph_title: 9.2.1.1. Manufacturing gross value added as a proportion of GDP (US dollars,  curent prices)
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of the labour force costs in the Gross Domestic Product
-indicator_name: global_indicators.10-4-1-title
-indicator_number: 10.4.1
+indicator_available: Manufacturing gross value added as a proportion of GDP (US dollars,  curent prices)
+indicator_name: global_indicators.9-2-1-1-title
+indicator_number: 9.2.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: NA
 page_content: ''
 permalink: ''
 placeholder: ''

@@ -1,7 +1,8 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+composite_breakdown_label: ''
+computation_units: Percent, %
 copyright: ''
-data_footnote: ''
+data_footnote: <p> Since 2015, the calculations are developed according to the annual average number of the usual resident population.</p> 
+  <p>SInce 2020, the data are available according to the annual average number of the usual resident population by development regions. </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -14,19 +15,35 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-1-1-title
+graph_target_lines: []
+graph_title: 8.1.1 Annual growth rate of real GDP per capita
 graph_titles: []
 graph_type: line
+indicator_available: Annual growth rate of real GDP per capita
 indicator_name: global_indicators.8-1-1-title
-indicator_number: '8.1.1'
-national_geographical_coverage: ''
+indicator_number: 8.1.1
+indicator_tabs:: 
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
-reporting_status: notstarted
+progress_status: not_available
+publications: []
+related_indicators: []
+reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''

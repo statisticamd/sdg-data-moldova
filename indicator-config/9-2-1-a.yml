@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.4.1 Proportion of the labour force costs in the Gross Domestic Product
+graph_title: 9.2.1.a. Manufacturing gross value added as a proportion of GDP (MDL, current  prices)
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of the labour force costs in the Gross Domestic Product
-indicator_name: global_indicators.10-4-1-title
-indicator_number: 10.4.1
+indicator_available: Manufacturing gross value added as a proportion of GDP (Moldovan lei, current  prices)
+indicator_name: global_indicators.9-2-1-a-title
+indicator_number: 9.2.1.a
 indicator_tabs:: 
   override: false
   tab_1: ''
