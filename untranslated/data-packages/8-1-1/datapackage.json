@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "North",
+                "Center",
+                "South",
+                "ATU Gagauzia",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
