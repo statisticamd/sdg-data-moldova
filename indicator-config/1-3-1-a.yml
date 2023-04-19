@@ -20,7 +20,7 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: '1.3.1.a  national_indicators.1-3-1-a-graph'
+graph_title: national_indicators.1-3-1-a-graph
 graph_titles: []
 graph_type: line
 indicator_available: national_indicators.1-3-1-a-title
