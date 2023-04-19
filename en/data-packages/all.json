@@ -3036,7 +3036,7 @@
           }
         ]
       },
-      "title": "Proportion of children covered by benefits for families with children (monthly childcare allowance until the age of 2 for uninsured persons, childcare allowance for insured persons)"
+      "title": "1.3.1.b Proportion of children covered by benefits for families with children (monthly childcare allowance until the age of 2 for uninsured persons, childcare allowance for insured persons)"
     },
     {
       "path": "8-1-1/data.csv",
@@ -3287,7 +3287,7 @@
           }
         ]
       },
-      "title": "Proportion of retirement-age persons who benefit from old age pension"
+      "title": "1.3.1.a Proportion of retirement-age persons who benefit from old age pension"
     },
     {
       "path": "16-1-3/data.csv",
