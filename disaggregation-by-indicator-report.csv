@@ -17,10 +17,17 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-1-c,"Age group, Classes of disasters",2
 #11-5-3-b,"Types of critical infrastructure losses, Districts",2
 #11-6-2-1,"Reported on a person, by sources, Reported on a person, by ingredients, Quantity of emissions, total, Quantity of emissions, by sources, Quantity of emissions, by ingredients",5
+#12-4-2-a,Toxic waste,1
+#12-4-2-b,"Toxic waste by development regions, Toxic waste by toxicity class",2
 #12-5-1-1,Regions,1
 #13-1-1-a,"Age group, Classes of disasters",2
 #13-1-1-c,"Age group, Classes of disasters",2
+#16-1-1,"Sex, Age group of the victim, Means of committing, Context/reason",4
+#16-1-2,"Sex, Age group",2
 #16-1-3,"Area of residence, Age group, Level of education, Disability, Socioeconomic status",5
+#16-1-3-1,"Sex, Age group, Types of crimes",3
+#16-2-2,"Sex, Groups of persons, Countries of destination, Forms of exploitation",4
+#16-7-1-c,"Proportion of female judges / Proportion of women in the working-age population        , Proportion of female registrars / Proportion of women in the working-age population        , Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        , Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        , Proportion of judges with a disability / Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",6
 #2-1-2,Age group / Sex,1
 #3-8-2-1,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Age groups of head of household, years",4
 #3-8-2-2,"Area of residence, Sex, Age group, Quintiles on consumption expenditures",4

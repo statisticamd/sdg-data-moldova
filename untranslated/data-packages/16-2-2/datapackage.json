@@ -12,7 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Groups of persons",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adults",
+                "Children",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Countries of destination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republic of Moldova",
+                "Russian Federation",
+                "Germany",
+                "Poland",
+                "Turkey",
+                "Italy",
+                "Portugal",
+                "Spain",
+                "Cyprus",
+                "Romania",
+                "Greece",
+                "Czech",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Forms of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sexual",
+                "Work",
+                "Begging",
+                "Mixt",
+                "Surrogate",
+                "Engaging in criminal activities",
+                "Sampling of human organs, tissues or cells",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

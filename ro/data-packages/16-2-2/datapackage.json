@@ -12,8 +12,72 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Groups of persons",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adulți",
+                "Copii",
+                ""
+              ]
+            },
+            "title": "Grupe de persoane"
+          },
+          {
+            "name": "Countries of destination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republica Moldova",
+                "Federația Rusă",
+                "Germania",
+                "Polonia",
+                "Turcia",
+                "Italia",
+                "Portugalia",
+                "Spania",
+                "Cipru",
+                "România",
+                "Grecia",
+                "Cehia",
+                "Alte",
+                ""
+              ]
+            },
+            "title": "Ţări de destinaţie"
+          },
+          {
+            "name": "Forms of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sexuală",
+                "Muncă",
+                "Cerșit",
+                "Mixt",
+                "Mamă-surogat",
+                "Antrenarea în activități criminale",
+                "Prelevare de organe, țesuturi sau celule umane",
+                ""
+              ]
+            },
+            "title": "Forme de exploatare"
           },
           {
             "name": "Value",

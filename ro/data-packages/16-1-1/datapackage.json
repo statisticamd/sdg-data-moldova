@@ -12,8 +12,62 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group of the victim",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 ani",
+                "18 ani și peste",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă  a victimei"
+          },
+          {
+            "name": "Means of committing",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arme de foc şi substanţe explozive",
+                "Arme albe (cuţit, obiect înţepător)",
+                "Instrumente (rangă, topor, ciocan etc.)",
+                "Alte mijloace",
+                ""
+              ]
+            },
+            "title": "Mijloace de săvîrșire"
+          },
+          {
+            "name": "Context/reason",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Răzbunare",
+                "Gelozie",
+                "Ceartă",
+                "Motiv legat de relaţii familiare",
+                "La comandă",
+                "Alte motive",
+                ""
+              ]
+            },
+            "title": "Contextul/motivul"
           },
           {
             "name": "Value",

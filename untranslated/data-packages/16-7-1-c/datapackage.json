@@ -1,0 +1,106 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Proportion of female judges / Proportion of women in the working-age population        ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional/ supreme courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                "Total (across all levels of courts)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Proportion of female registrars / Proportion of women in the working-age population        ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional/ supreme courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                "Total (across all levels of courts)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional/ supreme courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                "Total (across all levels of courts)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional/ supreme courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                "Total (across all levels of courts)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional/ supreme courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                "Total (across all levels of courts)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Constitutional/ supreme courts",
+                "Higher-level courts",
+                "Lower-level courts",
+                "Total (across all levels of courts)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1-c",
+  "title": "global_indicators.16-7-1-c-title"
+}

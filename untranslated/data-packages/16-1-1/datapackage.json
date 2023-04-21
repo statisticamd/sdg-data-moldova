@@ -12,7 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group of the victim",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17 years",
+                "18 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Means of committing",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Firearms and explosive substances",
+                "White weapons (knife, sharp objects)",
+                "Tools (row, axe, hammer etc.)",
+                "Other means",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Context/reason",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Revenge",
+                "Jealousy",
+                "Quarrel",
+                "Reason related to family relationships",
+                "Ordered",
+                "Other reasons",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

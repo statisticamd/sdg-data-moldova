@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Toxic waste by development regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total ",
+                "Municipality Chişinău",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
+                ""
+              ]
+            },
+            "title": "Toxic waste by development regions"
+          },
+          {
+            "name": "Toxic waste by toxicity class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                ""
+              ]
+            },
+            "title": "Toxic waste by toxicity class"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2-b",
+  "title": "global_indicators.12-4-2-b-title"
+}
