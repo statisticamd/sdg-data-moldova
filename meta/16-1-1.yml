@@ -1,0 +1,84 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.1.1: Number of victims of intentional homicide per 100,000 population, by sex and  age</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.1: Significantly reduce all forms of violence and related death rates everywhere</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Office on Drugs and Crime (UNODC) World Health Organization  (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 222 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.1.1: Number of victims of intentional homicide per 100,000 population</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Intentional homicide (art. 145, para. 2 if the Criminal Code) is the  murder:</p> 
+  <p>  a) committed with premeditation; </p> 
+  <p>  b) committed for purposes  of profit;</p> 
+  <p>  d) committed  in  connection  with  the  performance  by  the   victim  of  official  or  public duties;</p> 
+  <p>  e) of  a  person  known  to  be   a  juvenile  or  a  pregnant  woman  or  committed  by taking advantage of  the  victim’s known or obvious  helpless condition caused  by advanced age,  disease, physical, or mental handicap or another factor;</p> 
+  <p>  e1) of a family  member;                                                                                                                    f) accompanied by kidnapping or taking the person  hostage;                                                             g) of two  or more  persons;                                                                                                               h) of  a  representative  of  a  public  authority  or  a  serviceperson  or   their  close  relatives during or in connection with the performance of  professional duties by the representative or the serviceperson; i) committed  by two or more  persons;                                                                                               j) committed with extreme cruelty or with sadistic  motives;                                                                 k)  committed in order to conceal another crime or to facilitate its  commission;                                     l) committed from motives of  social, racial, or religious  hatred;                                                         m) committed  through means dangerous to life and health of many  persons;                                     n) committed in order to remove  and/or use or sell the victim’s organs or  tissues;                              o) committed by a person who previously   had committed an  intentional  murder set forth in par. (1); p) committed by  contract; </p>
+UNIT_MEASURE: >-
+  Per 100 000 population
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Database of the MIA </p> 
+  <p>  2) Demographic data regarding the number of  population NBS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.Ministry of Internal Affairs</p> 
+  <p>  2.National Bureau of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Internal Affairs
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of victims of intentional homicide per total population *100000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  RM did not implement the ICCS classifier, it is not clear the definition of  the intentional homicide coincides with the global one.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  <p> 1.Ministry of Internal Affairs</p> 
+  <p>  2.National Bureau of Statistics </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

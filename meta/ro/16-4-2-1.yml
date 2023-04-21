@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.4.2.1: Ponderea armelor confiscate, depistate sau predate, originea sau contextul ilegal al căror a fost urmărită sau stabilită de către o autoritate competentă în conformitate cu instrumentele internaționale</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.4: Până în 2030, reducerea semnificativă a fluxurilor ilicite financiare și de  armament, consolidarea  recuperării și returnării bunurilor furate și  combaterea tuturor formelor de crimă organizată</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC,UNODA
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/dataContacts/?selectIndicator=16.4.2+Proportion+of+seized%2C+found+or+surrendered+arms+whose+illicit+origin+or+context+has+been+traced+or+established+by+a+competent+authority+in+line+with+international+instruments&selectAgency=
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 16.4.2.1: Numărul armelor deținute conform legislației în vigoare, la 100.000  populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Armă -obiect sau dispozitiv, conceput sau adaptat, prin care un plumb, un  glonț ori un alt proiectil sau o substanță nocivă gazoasă, lichidă ori în altă  stare, pot fi descărcate cu ajutorul unei presiuni explozive, gazoase sau  atmosferice ori prin intermediul unor alți agenți propulsori, în măsura în  care se regăsește în una din categoriile prevăzute la anexa nr. 1 din Legea   nr. 130 nr.130 din  08.06.2012 privind regimul armelor și al munițiilor cu  destinație civilă. Permis de armă – document, emis în condițiile legii de  autoritatea competentă, prin care o persoană fizică sau juridică dovedește  dreptul de a deține și/sau, după caz, de a purta și folosi arme letale sau  arme neletale ale căror tip, marcă, model, calibru și număr de serie sunt  înscrise în acest document. Ministerul Afacerilor Interne este autoritatea  competentă care exercită autorizarea, evidența, controlul și supravegherea  privind deținerea, portul și folosirea armelor și a munițiilor, precum și  privind operațiunile cu acestea, fiind unica autoritate competentă care  reprezintă Republica Moldova în cadrul transferurilor și notificărilor privind  armele și munițiile.
+UNIT_MEASURE: >-
+  la 100 mii populație
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) date statistice administrative privind evidența armelor și munițiilor cu  destinație civilă - MAI</p> 
+  <p>  2) date demografice privind numărul populației -  BNS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Inspectoratul General al Poliției al MAI</p> 
+  <p>  2) Biroul Național de  Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Afacerilor Interne
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total al persoanelor care dețin permis de armă raportat la numărul  total al populației *100000.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  II
+source_active_1: true
+source_organisation_1: >-
+  Inspectoratul General al Poliției al MAI
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

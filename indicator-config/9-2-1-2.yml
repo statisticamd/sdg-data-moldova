@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 9.2.1.2. Manufacturing gross value added per employed person (Moldovan lei,  constant prices)
+graph_title: 9.2.1.2. Manufacturing gross value added per employed person (US dollars,  constant prices)
 graph_titles: []
 graph_type: line
-indicator_available: Manufacturing gross value added per employed person (Moldovan lei,  constant prices)
+indicator_available: Manufacturing gross value added per employed person (US dollars,  constant prices)
 indicator_name: global_indicators.9-2-1-2-title
 indicator_number: 9.2.1.2
 indicator_tabs:: 

@@ -1,24 +1,23 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 9.2.1.2: Manufacturing gross value added per employed person (US dollars, constant  prices)</p>
+  <p>Indicator 16.5.2.2: „Regulatory quality” indicator (between -2,5 and 2,5)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 9.2: Promote inclusive and sustainable industrialization and, by 2030,  significantly raise industry’s share of employment and gross domestic product,  in line with national circumstances, and double its share in least developed  countries</p>
+  <p>Target 16.5: Substantially reduce corruption and bribery in all their forms</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Industrial Development Organization (UNIDO)
+  World Bank,UNODC
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  Manufacturing value added (MVA) is the total value of goods and services net  of intermediate consumption. It is generally compiled as the sum of the value  added of all manufacturing activity units in operation in the reference  period. It can be presented in percentage to gross domestic product (GDP) as  well as per capita for any reference year. MVA growth rates are given at  constant prices (in Chained Volume Measures [CVM]).
 SDG_GOAL: ''
 target_id: >-
-  9.2
+  16.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-01.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 217 KB)
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
 SDG_INDICATOR: >-
-  <p>Indicator 9.2.1.2: Manufacturing gross value added per employed person (US dollars,  constant prices)</p>
+  <p>Indicator 16.5.2.2: „Regulatory quality” indicator (between -2,5 and 2,5)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,18 +31,21 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  Regulatory quality measures the perceptions regarding the government skills to  formulate and implement policies and regulatory framework that allow and  promote private sector development. The estimation attributes a score to the  country based on the aggregated indicator, in normal standard distribution  units, between -2.5 and 2.5.
 UNIT_MEASURE: >-
-  Moldovan lei
+  Index / score
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  [Worldwide Governance  Indicators](https://datacatalog.worldbank.org/dataset/worldwide-governance-indicators)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Bureau of Statistics
+  World Bank
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  National Anticorruption Center
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -55,16 +57,19 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  -
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
+  2
 source_active_1: true
 source_organisation_1: >-
+  World Bank
 source_periodicity_1: >-
   Annual
 source_url_1: >-
+  https://databank.worldbank.org/reports.aspx?dsid=3&series=RQ.EST#
 source_url_text_1: >-
   Link to source
 source_contact_1: >-

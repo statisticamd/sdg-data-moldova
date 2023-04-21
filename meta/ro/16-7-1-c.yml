@@ -1,0 +1,91 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.7.1.c: Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de către  persoanele din anumite grupuri ale populației (pe sexe, vârstă, persoanele cu  dizabilități și alte grupuri corespunzătoare) și proporția grupului respectiv  în total populație</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.7: Asigurarea procesului decizional receptiv, incluziv, participativ și  reprezentativ la toate nivelurile</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Development Programme (UNDP)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  In order that decision-making be responsive, inclusive, participatory and  representative, it is important to ensure diversity in representation at all  levels of State institutions (central, regional and local).
+SDG_GOAL: ''
+target_id: >-
+  16.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.7.1.c: Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de  către persoanele din anumite grupuri ale populației (pe sexe, vârstă,  persoanele cu dizabilități și alte grupuri corespunzătoare) și proporția  grupului respectiv în total populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Scopul indicatorului este de a măsura proporționalitatea reprezentării  diferitelor grupuri socio-demografice ale populației (cu accent special pe  sexe, vârstă, statut de dizabilitate, și grupuri de populație) în rândul  persoanelor care ocupă două poziții cheie în luarea deciziilor în sistemul  judiciar: (a) judecători și (b) grefieri, în raport cu ponderea acestor  grupuri în populația în vârstă aptă de muncă.
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Date administrative - AAIJ
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Agenția de Administrare a Instanțelor Judecătorești, Ministerul  Justiției.</p> 
+  <p>  2) Consiliul Superior al Magistraturii </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Justiției
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Indicatorul este calculat în 2 pași:</p> 
+  <p>  Pasul 1: Raportarea proporțiilor  simple a: (a) femeilor judecătoare, (b) judecătorilor tineri în vârstă de 44  ani și mai jos, (c) judecătorilor cu dizabilități și (d) judecătorilor din  grupurile relevante naționale ale populației (ex. grupuri etnice) în: (i)  curtea constituțională/curtea supremă de justiție; (ii) curțile de apel și  (iii) judecătorii.</p> 
+  <p>  Pasul 2: Generarea raporturilor care să compare  proporția de (a) femei judecătoare, (b) judecători tineri cu vârsta de până la  44 de ani, (c) judecători cu dizabilități și (d) judecători din grupurile de  populație relevante la nivel național din sistemul judiciar toate nivelurile  instanțelor în raport cu proporția acelorași grupuri țintă din populația în  vârstă de muncă. Raporturile trebuie să fie calculate pentru toate nivelurile  instanțelor, și anume:</p> 
+  <p>  1. Pentru femei judecători;</p> 
+  <p>  2. Pentru  judecătorii tineri în vârstă de 44 de ani și mai jos;</p> 
+  <p>  3. Pentru  judecătorii cu dizabilități; și</p> 
+  <p>  4. Pentru judecătorii aparținând  grupurilor relevante de populație (1 sau mai multe raporturi, în funcție de  relevanță națională).</p> 
+  <p>  La fel se procedează și în cazul generării  raporturilor pentru grefieri:</p> 
+  <p>  Pasul 1: Raportarea proporțiilor simple a:  (a) femeilor grefieri, (b) tineri grefieri în vârstă de 44 ani și mai jos, (c)  grefieri cu dizabilități și (d) grefieri din grupurile relevante naționale ale  populației (ex. grupuri etnice) în: (i) curtea constituțională/curtea supremă  de justiție; (ii) curțile de apel și (iii) judecătorii.</p> 
+  <p>  Pasul 2:  Generarea raporturilor care să compare proporția de (a) femei grefieri, (b)  tineri grefieri cu vârsta de până la 44 de ani, (c) grefieri cu dizabilități  și (d) grefieri din grupurile de populație relevante la nivel național din  sistemul judiciar toate nivelurile instanțelor în raport cu proporția  acelorași grupuri țintă din populația în vârstă de muncă. Raporturile trebuie  să fie calculate pentru toate nivelurile instanțelor, și anume:</p> 
+  <p>  1. Pentru  femei grefieri;</p> 
+  <p>  2. Pentru tineri grefieri în vârstă de 44 de ani și mai  jos;</p> 
+  <p>  3. Pentru grefieri cu dizabilități; și</p> 
+  <p>  4. Pentru grefieri  aparținând grupurilor relevante de populație (1 sau mai multe raporturi, în  funcție de relevanță națională). </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul reprezintă o parte a indicatorului global, versiunea națională a   indicatorilor acoperă doar parțial grupurile menționate
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

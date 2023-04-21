@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.7.2: Ponderea victimelor abuzului fizic sau hărțuirii sexuale, în ultimele 12 luni,  pe sexe, vârstă, statut de dizabilitate și locul de survenire</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Până în 2030, asigurarea accesului universal la spații verzi și publice  sigure, incluzive și accesibile, în special pentru femei și copii, persoane în  etate și cele cu dizabilități</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Proportion of persons victim of physical or sexual harassment.
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.7.2: Ponderea victimelor abuzului fizic sau sexual, în ultimele 12 luni</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Este un indicator bazat pe cercetare, care măsoară experiența diferitor forme  comportamentale ce țin de hărțuirea fizică și cea sexuală. Întrebările legate  de hărțuirea fizică și sexuală trebuie evaluate separat. Rezultatele însă pot  fi combinate. Calcularea acestui indicator necesită includerea unui modul  scurt din opt întrebări în cadrul unei cercetări reprezentative a populației,  care sunt:</p> 
+  <p>  1) Experiența hărțuirii sexuale în ultimii 3 ani, pe tipuri de  hărțuire - În cazul lipsei unor astfel de experiențe, treceți la 5, în caz  contrar treceți la 2; </p> 
+  <p>  2) Cel mai recent tip de hărțuire experimentat -  Continuare cu 3;</p> 
+  <p>  3) Perioada de timp al ultimei hărțuiri - Continuare cu  4;</p> 
+  <p>  4) Locul ultimei hărțuiri, după tipul locației - Continuare cu 5;</p> 
+  <p>   5) Experiența hărțuirii fizice în ultimii 3 ani, pe tipuri de hărțuire - În  cazul lipsei unor astfel de experiențe treceți la sfârșit, în caz contrar  treceți la 6; </p> 
+  <p>  6) Cel mai recent tip de hărțuire experimentat -  Continuare cu 7;</p> 
+  <p>  7) Perioada de timp al ultimei hărțuiri - Continuare cu  8;</p> 
+  <p>  8) Locul ultimei hărțuiri, după tipul locației - De trecut la  sfârșit.</p> 
+  <p>  În baza răspunsurilor la întrebării următorii indicatori vor fi  calculați:</p> 
+  <p>  Rata prevalenței a hărțuirii sexuale: Numărul persoanelor care  s-au confruntat cu cel puțin o formă de hărțuire sexuală raportat la numărul  total populație inclusă în cercetare *100</p> 
+  <p>  Rata prevalenței hărțuirii  fizice: Numărul persoanelor care s-au confruntat cu cel puțin o formă de  hărțuire fizică raportat la numărul total populație inclusă în cercetare  *100</p> 
+  <p>  Rata prevalenței hărțuirii sexuale sau fizice: Numărul persoanelor  care s-au confruntat fie cu o formă de hărțuire sexuală sau cu fie cu o formă  de hărțuire fizică raportat la numărul total populație inclusă în cercetare  *100.</p> 
+  <p>  Hărțuirea sexuală - adică manifestarea unui comportament fizic,  verbal sau nonverbal, care lezează demnitatea persoanei ori creează o  atmosferă neplăcută, ostilă, degradantă, umilitoare, discriminatorie sau  insultătoare cu scopul de a determina o persoană la raporturi sexuale ori la  alte acțiuni cu caracter sexual nedorite (art. 173 din Codul Penal). </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Modul separat sau integrat în cadrul CBGC</p> 
+  <p>  2) Alte cercetări cu privire  la victimizare </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Afacerilor Interne
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Număr persoanelor care au raportat că în ultimele 12 luni au fost supuse  hărțuirii  fizice sau sexuale raportat la numărul total de respondenți incluși  în cercetare *100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

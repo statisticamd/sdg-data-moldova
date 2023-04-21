@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.2.2: Number of victims of human trafficking per 100,000 population, by sex, age and  form of exploitation</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.2: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+SDG_GOAL: ''
+target_id: >-
+  16.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.2.2: Number of victims of human trafficking per 100,000 population</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Trafficking in human beings - recruitment,  transportation,  transfer,   harbouring  or  receipt  of  a  person,  by  means  of  threat  of  force  or   use  of  force  or  other  forms  of  coercion,  of  abduction, fraud,  deception, of abuse of authority or a situation of vulnerability, or by means  of offering or receiving payments or benefits of any kind in order to obtain  the consent of a person who has control over another person for the purpose of  exploitation of the latter. Victim  of  trafficking  in  human  beings  –  a   natural  person  presumed  or  found  to  be  subjected to mentioned acts of  trafficking. (art. 2, para. 1 and 11 of the Law No. 241 of 20.10.2005 on  Preventing and Combating Trafficking in Human Beings)
+UNIT_MEASURE: >-
+  per 100.000 population
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. Administrative statistical data of the MIA</p> 
+  <p>  2. Demographic data  regarding the number of population NBS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. General Police Inspectorate of the Ministry of Internal Affairs</p> 
+  <p>  2.  National Bureau of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health, Labour and Social Protection
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Total number of identified victims of human trafficking out of total  population*100000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> The numerator of the indicator is composed of two parts: identified and  unidentified victims of THB. There are no data regarding the unidentified  victims, and they work at the global level on a methodology for estimation.  </p> 
+  <p>  Some methods were already identified, but additional tests are necessary  to develop an enhanced and coordinated approach. The method for estimating the  unidentified victims of THB should allow assessing the characteristics of  victims (sex and age) and of the exploitation forms they were exposed to. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  General Police Inspectorate of the Ministry of Internal Affairs
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

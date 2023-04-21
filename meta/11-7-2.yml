@@ -1,0 +1,86 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.7.2: Proportion of persons victim of physical or sexual harassment, by sex, age,  disability status and place of occurrence, in the previous 12 months</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.7: By 2030, provide universal access to safe, inclusive and accessible, green and  public spaces, in particular for women and children, older persons and persons  with disabilities</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Proportion of persons victim of physical or sexual harassment, by sex, age,  disability status and place of occurrence, in the previous 12 months
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.7.2: Proportion of persons victim of physical or sexual harassment, in the  previous 12 month</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> It is a survey-based indicator which measures the experience of different  behavioural forms related to physical and sexual harassment. The questions  related to physical and sexual harassment must be assessed separately, but the  results may be combined. The calculation of this indicator needs to include a  brief module of eight questions within a population representative survey,  which are:</p> 
+  <p>  1) Experience of sexual harassment over the last 3 years, by  types of harassment - if no such experiences, go to 5, otherwise go to 2;  </p> 
+  <p>  2) The most recent type of experienced harassment  - Continue with  3;</p> 
+  <p>  3) The time period of the last harassment - Continue with 4;</p> 
+  <p>  4)  Place of last harassment, by type of location - Continue with 5;</p> 
+  <p>  5)  Experience of physical harassment over the last 3 years, by type of harassment  - In case of no such experience, go to the end, otherwise go to 6; </p> 
+  <p>  6)  The most recent type of experienced harassment - Continue with 7;</p> 
+  <p>  7) Time  period of last harassment - Continue with 8;</p> 
+  <p>  8) Place of the last  harassment, by type of location - go to the end.</p> 
+  <p>  Based on the answers to  above questions, the following indicators will be calculated:</p> 
+  <p>  Sexual  harassment prevalence rate: number of persons who experienced at least one  form of sexual harassment out of the total number of population included in  the survey*100</p> 
+  <p>  Physical harassment prevalence rate: number of persons who  experienced at least one form of physical harassment out of the total number  of population included in the survey *100</p> 
+  <p>  Sexual or physical harassment  prevalence rate: number of persons who experienced either a form of sexual  harassment or a form of physical harassment out of the total population  included in the survey *100. Sexual harassment - physical, verbal or  non-verbal behaviour adversely affecting the dignity of person or create an  unpleasant, hostile, degrading, humiliating, discriminatory or insulting  environment so as to determine the person to undertake sexual intercourses or  other unpleasant sexual actions. (art. 173 of the Criminal Code) </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Separate module or module integrated within HBS </p> 
+  <p>  2) Other surveys on  victimization </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Internal Affairs
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of persons who have reported that over the last 12 months they were  subject to physical or sexual harassment out of the total number of  respondents included in the survey *100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

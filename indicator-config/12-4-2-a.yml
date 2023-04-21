@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: tone
 copyright: ''
-data_footnote: ''
+data_footnote: Until 2019, data on toxic waste are available. Data were developed by the Environmental Protection Inspectorate jointly with the National Bureau of Statistics. Starting with 2020, data on hazardous waste are available. Data are deeloped by the Environment Agency through AIS "Waste Management", in accordance with Law 209/2016 on waste, using the List of waste approved by GD 99/2018
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.3.1 Proportion of victims of violence in the previous 12 months who  reported their victimization to competent authorities
+graph_title: 12.4.2.a. Volume of hazardous waste generated
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of victims of violence in the previous 12 months who  reported their victimization to competent authorities
-indicator_name: global_indicators.16-3-1-title
-indicator_number: 16.3.1
+indicator_available: Volume of hazardous waste generated
+indicator_name: global_indicators.12-4-2-a-title
+indicator_number: 12.4.2.a
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
 placeholder: ''
@@ -40,7 +40,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false

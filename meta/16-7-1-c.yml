@@ -1,0 +1,91 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.7.1.c: Ratio between the proportion of positions held in the judiciary system by  persons of certain groups of population (by sex, age, persons with  disabilities and other corresponding groups) and the proportion of the  respective group out of total population</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.7: Ensure responsive, inclusive, participatory and representative decision-making  at all levels</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Development Programme (UNDP)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  In order that decision-making be responsive, inclusive, participatory and  representative, it is important to ensure diversity in representation at all  levels of State institutions (central, regional and local).
+SDG_GOAL: ''
+target_id: >-
+  16.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.7.1.c: Ratio between the proportion of positions held in the judiciary  system by persons of certain groups of population (by sex, age, persons with  disabilities and other corresponding groups) and the proportion of the  respective group out of total population</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The aim of the indicator is to measure the proportionality of representation  of different social-demographic groups of population (with special focus on  sex, age, disability status, and groups of population) among the persons  holding two key positions in decision-making in judiciary system: (a) judges  and (b) court clerks, as compered to the proportion of these groups in working  age population.
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Administrative data - AAIJ
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.Agency for Court Administration, Ministry of Justice</p> 
+  <p>  2.Superior Council  of Magistracy </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Justice
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The indicator is calculated in 2 steps:</p> 
+  <p>  Step 1: Reporting simple  proportions of: (a) female judges, (b) young judges aged 44 years old and  younger, (c) judges with disabilities and (d) judges from the relevant  national groups of population (e.g. ethnic groups) in the: (i) Constitutional  Court / Supreme Court of Justice; (ii) Courts of Appeal and (iii) court  houses.</p> 
+  <p>  Step 2: Generation of ratios to compare the proportion of (a)  female judges, (b) young judges aged 44 years old and younger, (c) judges with  disabilities and (d) judges from the relevant groups of population at the  national level in the judicial system at the level of all courts as compared  to the proportion of the same target groups in the working-age population. The  ratios should be calculated for all the levels of the courts, and namely:</p> 
+  <p>   1. for female judges;</p> 
+  <p>  2. for young judges aged 44 years old and  younger;</p> 
+  <p>  3. for judges with disabilities; and </p> 
+  <p>  4. for judges  belonging to the relevant groups of population (1 or more ratios, depending on  the national relevance).</p> 
+  <p>  The same approach is used for generating the  ratios for court clerks:</p> 
+  <p>  Step 1: Reporting simple proportions of: (a)  female court clerks, (b) young court clerks aged 44 years old and younger, (c)  court clerks with disabilities  (d) court clerks from relevant national groups  of population (e.g. ethnic groups) in: (i) the Constitutional Court / Supreme  Court of Justice; (ii) Courts of Appeal  (iii) court houses.</p> 
+  <p>  Step 2:  Generating ratios that compare the proportion of (a) female court clerks, (b)  young court clerks aged 44 years old and younger, (c) court clerks with  disabilities  (d) court clerks from relevant national groups of population  from the judicial system of all court levels as compared to proportion of the  same target groups in the working-age population. The ratios should be  calculated for all the court levels, and namely:</p> 
+  <p>  1. for female court  clerks;</p> 
+  <p>  2. for young court clerks aged 44 years old and younger;</p> 
+  <p>  3.  for court clerks with disabilities; and</p> 
+  <p>  4. for court clerks belonging to  relevant groups of population  (1 or more ratios, depending on the national  relevance). </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The indicator represents a part of the global indicator, the national version  of the indicator covers only partially the mentioned groups
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

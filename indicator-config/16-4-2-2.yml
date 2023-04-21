@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: Number
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.3.1 Proportion of victims of violence in the previous 12 months who  reported their victimization to competent authorities
+graph_title: 16.4.2.2 Number of confiscated illegally owned arms
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of victims of violence in the previous 12 months who  reported their victimization to competent authorities
-indicator_name: global_indicators.16-3-1-title
-indicator_number: 16.3.1
+indicator_available: Number of confiscated illegally owned arms
+indicator_name: global_indicators.16-4-2-2-title
+indicator_number: 16.4.2.2
 indicator_tabs:: 
   override: false
   tab_1: ''
@@ -40,7 +40,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false

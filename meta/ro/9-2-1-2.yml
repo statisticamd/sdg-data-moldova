@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 9.2.1.2: NA</p>
+  <p>Indicator 9.2.1.2: Valoarea adăugată brută în industria prelucrătoare per persoana ocupată în  industria prelucrătoare (dolari SUA, prețuri constante)</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 9.2: Promovarea industrializării incluzive și durabile și, până în 2030, sporirea  semnificativă a ratei de ocupare și a Produsului Intern Brut în industrie, în  conformitate cu circumstanțele naționale, și dublarea acestei cote în țările  cel mai puțin dezvoltate</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -8,8 +8,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Valoarea adăugată brută (VAB) este  soldul  contului de producție și se  măsoară ca diferența dintre valoarea bunurilor și serviciilor produse  (evaluate la prețuri de bază) și consumul intermediar (evaluat la prețurile  cumpărătorului), reprezentând deci valoarea nou creată în procesul de  producție.  VAB este repartizată pe activități economice conform NACE  rev.2.</p> 
-  <p>  Industria prelucrătoare = secțiunea C din CAEM Rev.2 </p>
+  Manufacturing value added (MVA) is the total value of goods and services net  of intermediate consumption. It is generally compiled as the sum of the value  added of all manufacturing activity units in operation in the reference  period. It can be presented in percentage to gross domestic product (GDP) as  well as per capita for any reference year. MVA growth rates are given at  constant prices (in Chained Volume Measures [CVM]).
 SDG_GOAL: ''
 target_id: >-
   9.2
@@ -19,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 217 KB)
 SDG_INDICATOR: >-
-  <p>Indicator 9.2.1.2: Valoarea adăugată brută în industria prelucrătoare per persoana ocupată în industria prelucrătoare (MDL, prețuri constante)</p>
+  <p>Indicator 9.2.1.2: Valoarea adăugată brută în industria prelucrătoare per persoana ocupată în industria prelucrătoare (dolari SUA, prețuri constante)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -34,7 +33,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  lei
+  Lei moldovenești
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

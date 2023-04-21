@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.2.2: Numărul victimelor traficului de ființe umane la 100 mii populație, pe   sexe, vârstă și forme de exploatare</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.2: Stoparea abuzului, exploatării, traficului și a tuturor formelor de violență  și torturii copiilor</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Promovarea societăților pașnice și incluzive pentru o dezvoltare durabilă, oferirea accesului la justiție pentru toți și construirea unor instituții eficiente, responsabile și incluzive la toate nivelurile
+SDG_GOAL: ''
+target_id: >-
+  16.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.2.2: Numărul victimelor traficului de ființe umane la 100.000 populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Trafic de ființe umane (trafic de persoane adulte sau trafic de copii) -  recrutarea, transportarea, transferul, adăpostirea sau primirea de persoane,  prin amenințare cu forța sau prin folosirea forței ori a unor alte mijloace de  constrângere, prin răpire, fraudă, înșelăciune, abuz de putere sau de situație  de vulnerabilitate ori prin darea sau primirea de bani ori de beneficii de  orice gen pentru a obține consimțământul unei persoane care deține controlul  asupra unei alte persoane, în scopul exploatării acesteia. Victimă a  traficului de ființe umane – persoană fizică constatată ca fiind supusă  acțiunilor de trafic menționate. (art. 2, alin. 1 și 11 din Legea nr. 241 din   20.10.2005 privind prevenirea și combaterea traficului de ființe umane)
+UNIT_MEASURE: >-
+  la 100.000 populație
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Date statistice administrative MAI</p> 
+  <p>  2) Date demografice privind numărul  populației BNS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Inspectoratul General al Poliției al MAI</p> 
+  <p>  2) Biroul Național de  Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății, Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total al victimelor traficului de ființe umane identificate raportat  la total populație*100000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Numărătorul indicatorului este format din două părți: victime identificate și  neidentificate ale TFU. Nu exista date privind victimele neidentificate, la  nivel global se lucrează asupra metodologiei de estimare. </p> 
+  <p>  Unele metode  au fost deja identificate, dar sunt necesare testări suplimentare pentru a  dezvolta o abordare consolidată și coordonată. Metoda de estimare a victimelor  neidentificate TFU ar trebui să permită evaluarea caracteristicilor victimelor  (sex și vârstă) și a formelor de exploatare la care aceasta a fost supusă. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Inspectoratul General al Poliției al MAI
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

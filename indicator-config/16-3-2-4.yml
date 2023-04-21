@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.3.1 Proportion of victims of violence in the previous 12 months who  reported their victimization to competent authorities
+graph_title: 16.3.2.4. Level of public satisfaction  regarding on the quality of services  in the judicial system
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of victims of violence in the previous 12 months who  reported their victimization to competent authorities
-indicator_name: global_indicators.16-3-1-title
-indicator_number: 16.3.1
+indicator_available: Level of public satisfaction  regarding on the quality of services  in the judicial system
+indicator_name: global_indicators.16-3-2-4-title
+indicator_number: 16.3.2.4
 indicator_tabs:: 
   override: false
   tab_1: ''

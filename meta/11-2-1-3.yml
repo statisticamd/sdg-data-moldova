@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.2.1.3: Ensure healthy lives and promote well-being for all at all ages</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.6: By 2020, halve the number of global deaths and injuries from road traffic accidents</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  WHO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  3.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/?Text=&Goal=&Target=3.6
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable  Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 11.2.1.3: Road accident rate per 100,000 population</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  event, produced as a result of the violation of the traffic rules, in which one or more vehicles in circulation on the public road were involved, resulting in injury to health, bodily integrity, the death of one or more persons or material damage was caused
+UNIT_MEASURE: >-
+  number
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  1)Administrative statistical data of the MAI 2) Demographic data regarding thenumber of popultion NBS
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  General Police Inspectorate of the Ministry of Internal Affairs, National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health, Labour an Social Protesction
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Total number of road traffic injuries an fatalitie aut of total population *100 000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The indicator is composet of two parts: number of road traffic accidents related to total number population *100 000
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  General Police Inspectorate of the Ministry of Internal Affairs
+source_periodicity_1: >-
+  annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Senior officer of the Road Accident Record and Analysis Section of the Police Patrol Directorate of the National Public Security Inspectorate, senior inspector Baraghin Silvia, silvia.baraghin@igp.gov.md, tel:069002558
+source_other_info_1: >-

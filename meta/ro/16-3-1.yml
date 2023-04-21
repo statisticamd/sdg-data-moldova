@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.3.1: Ponderea victimelor violenței în ultimele 12 luni care au raportat violența  autorităților competente</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.3: Promovarea statului de drept la nivel național și internațional și asigurarea  accesului egal la justiție pentru toți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.3.1: Ponderea victimelor violenței în ultimele 12 luni care au raportat  violența autorităților competente</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Autoritățile competente includ poliția, procuratura sau alte autorități cu  competențe de a investiga infracțiunile relevante, în timp ce „alte mecanisme  de soluționare a conflictelor recunoscute oficial” pot include o varietate de  instituții cu rol în justiția informală sau în procesul de soluționare a  litigiilor (de exemplu: organizații ale societății civile, biserica, primarii,  lideri comunitari, spe ex. ai comunităților Rome), cu condiția ca rolul lor să  fie recunoscut oficial de autoritățile statului
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Studiul privind victimizarea UNODC cu colectare a datelor prin sistemul UN-CTS
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Inspectoratul General al Poliției al MAI
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Afacerilor Interne
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Numărul victimelor infracțiunilor de violență care, în ultimele 12 luni, au  depus o plângere la autoritățile competente sau la alte mecanisme de  soluționare a conflictelor recunoscute oficial, raportat la numărul total de  victime a infracțiunilor de violență declarate *100.</p> 
+  <p>  Numărul victimelor  infracțiunii de violență, cât și numărul total al victimelor infracțiunilor de  violență sunt estimării baza sondajelor asupra populației generale, cel mai  adesea sondaje specializate ce vizează victimizarea infracțiunilor. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Inspectoratul General al Poliției al MAI
+source_periodicity_1: >-
+  Odată la câțiva ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
