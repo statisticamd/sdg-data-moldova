@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.5.2: Researchers (in full-time equivalent) per million inhabitants</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.5: Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Educational Scientific and Cultural Organization (UNESCO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  <p> The researchers (in full-time equivalent - FTE) per 100 000 inhabitants is a direct measure of the number of research and development (R&D) employees </p> 
+  <p>per 100 000 inhabitants. </p>
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-05-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 382 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.5.2: Researchers (in full-time equivalent) per 100 000 inhabitants</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Researchers are professional engaged in the conception or creation of new knowledge, products, procedures, methods and systems, as well as managing these types of activity. </p> 
+  <p>"Full-time equivalent (FTE)"  (person-year) is defined as the ratio of working hours actually spent on research and development in a certain reference period (a calendar year) divided by the total number of statutory hours devoted to this activity.</p> 
+  <p>The indicator can be calculated per 1 000 000 inhabitants. </p>
+UNIT_MEASURE: >-
+  Per 100 000 inhabitants
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistical survey N.1-science "Research and development activity"  </p> 
+  <p>2) Population statistics </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Education and Research
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  The number researchers (in full-time equivalent - FTE) per 100 000 inhabitants  is calculated as Total researchers (FTE) divided by Total population of the country and multiplied by 100 000.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  At the national level the indicator is calculated per 100 000 inhabitants. It is also possible to report per 1 000 000 inhabitants.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+source_contact_1: >-
+source_other_info_1: >-

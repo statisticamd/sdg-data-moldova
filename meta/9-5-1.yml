@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.5.1: Share of research and development expenditure in GDP</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.5: Enhance scientific research, upgrade the technological capabilities of  industrial sectors in all countries, in particular developing countries,  including, by 2030, encouraging innovation and substantially increasing the  number of research and development workers per 1 million people and public and  private research and development spending</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Educational Scientific and Cultural Organization (UNESCO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  The indicator is a direct measure of research and development (R&D) spending referred to in the target.
+SDG_GOAL: ''
+target_id: >-
+  9.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-05-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 382 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.5.1: Research and development expenditure as a proportion of GDP</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Research and development (R&D) expenditure as a proportion of Gross Domestic Product (GDP) is the amount of Research and development (R&D) expenditure divided by the total output of the economy.</p> 
+  <p>Expenditures on intramural research and development (R&D) represent the amount of money spent on research and development (R&D) that is performed within a reporting unit. </p>
+UNIT_MEASURE: >-
+  Percent (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistical survey N.1-science "Research and development activity"  </p> 
+  <p>2) GDP </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Education and Research
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The total intramural expenditure on R&D as a proportion of Gross Domestic Product (GDP).  </p> 
+  <p>R&Dintensity =The total intramural expenditure on R&D/ GDP*100 </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> The scope of the Statistical research in the research and development field:</p> 
+  <p>     Organizations under public law in the field of research: research institutes, as well as public institutions that have structures/centers carrying out research and development activity (medical and sanitary institutions, museums), higher education institutions;</p> 
+  <p>     Private law organizations in the field of research: enterprises and organizations in the business environment with the main or secondary research and development activity according to NACE rev.2 (CAEM rev.2), division M-72, higher education institutions.</p> 
+  <p>Regulation (UE): The statistics are to be compiled for R&D activity performed in the whole economy. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+source_contact_1: >-
+source_other_info_1: >-

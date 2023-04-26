@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: Per 100 000 inhabitants
+computation_units: Index
 copyright: ''
-data_footnote: Data referring to numbers of population have been recalculated by applying the international definition of usual residence
+data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 9.5.2 Researchers (in full-time equivalent) per 100 000 inhabitants
+graph_title: 4.5.1.d. Parity index in tertiary education
 graph_titles: []
 graph_type: line
-indicator_available: Researchers (in full-time equivalent) per 100 000 inhabitants
-indicator_name: global_indicators.9-5-2-title
-indicator_number: 9.5.2
+indicator_available: d. Parity index in tertiary education
+indicator_name: global_indicators.4-5-1-title
+indicator_number: 4.5.1
 indicator_tabs:: 
   override: false
   tab_1: ''

@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.5.1: Ponderea cheltuielilor pentru cercetare-dezvoltare în PIB</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.5: Întărirea cercetării științifice, modernizarea capacităților tehnologice ale  sectoarelor   industriale în toate țările, în special țările în curs de  dezvoltare, până în 2030;  încurajarea inovațiilor și creșterea semnificativă  a numărului de angajați în cercetare și dezvoltare la 1 milion de locuitori și  a cheltuielilor publice și private de cercetare și dezvoltare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Educational Scientific and Cultural Organization (UNESCO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Indicatorul este o măsurare directă a cheltuielilor pentru cercetare și dezvoltare (C&D) la care se face referire în țintă.
+SDG_GOAL: ''
+target_id: >-
+  9.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-05-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 382 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.5.1: Ponderea cheltuielilor pentru cercetare-dezvoltare în PIB</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Cheltuielile pentru cercetare-dezvoltare ca proporție din Produsul Intern Brut (PIB) reprezintă suma cheltuielilor pentru cercetare-dezvoltare împărțită la producția totală a economiei.</p> 
+  <p>Cheltuielile interne de cercetare-dezvoltare reprezintă suma de bani cheltuită pentru cercetarea-dezvoltarea care se realizează în cadrul unei unități de raportare. </p>
+UNIT_MEASURE: >-
+  Procent (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Cercetarea statistică nr.1 știința "Activitatea de cercetare dezvoltare"</p> 
+  <p>2) PIB </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Educației și Cercetării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Cheltuielile interne totale pentru cercetare-dezvoltare ca proporție din Produsul Intern Brut (PIB).</p> 
+  <p>Intensitatea Cercetării-dezvoltării = Cheltuielile interne totale pentru cercetare-dezvoltare/ PIB*100 </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Sfera de cuprindere a Cercetării statistice în domeniul cercetare-dezvoltare: </p> 
+  <p>    Organizațiile de drept public din domenul cercetării: institutele de cercetare, precum și instituțiile publice care au structuri/centre care desfășoară activitatea de cercetare-dezvoltare (instituții medico-sanitare, muzee), instituțiile de învățământ superior; </p> 
+  <p>    Organizațiile de drept privat din domenul cercetării: întreprinderile și organizațiile din mediul de afaceri cu activitatea principală sau secundară cercetare-dezvoltare conform  CAEM  rev.2, diviziunea M-72, instituțiile de învățământ superior. </p> 
+  <p>Regulamentul (UE): Statisticile urmează să fie întocmite pentru activitatea de cercetare-dezvoltare efectuată în întreaga economie. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+source_contact_1: >-
+source_other_info_1: >-

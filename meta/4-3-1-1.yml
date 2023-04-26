@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 4.3.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.3: By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  The general level of participation in tertiary education
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  4.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+SDG_INDICATOR: >-
+  <p>Indicator 4.3.1: 1 Gross enrolment ratio for tertiary education</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The total number of students enrolled in tertiary education, regardless of age, expressed as a percentage of the population in the 5-year age group immediately following upper secondary education
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistical survey "Activity of post-secondary vocational education institutions" (N.3-edu); </p> 
+  <p>Statistical survey "Activity of higher education institutions" (N.4-edu); </p> 
+  <p>Statistical survey "Doctoral and postdoctoral activity" (N.1-cs)</p> 
+  <p>2) Population statistics </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Education and Research
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  The total number of students enrolled in tertiary education, regardless of age, expressed as a percentage of the population in the theoretical age group corresponding to the given level of education (aged 19 to 23)
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> UIS UNESCO Indicator from the Official List of SDG 4 Indicators</p> 
+  <p>National indicator </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  <p> Annual</p> 
+  <p>Under the heading „year” have been reported the data at the beginning of the study year </p>
+source_url_1: >-
+  https://statbank.statistica.md/PxWeb/pxweb/en/50%20Statistica%20gender/50%20Statistica%20gender__GEN02/GEN020290inv_rcl.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774
+source_url_text_1: >-
+  Statbank>> Gender statistics>>Education and training of women during lifetime>>
+source_contact_1: >-
+source_other_info_1: >-

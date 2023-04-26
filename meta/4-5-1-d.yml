@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.5: By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Educational, Scientific and Cultural Organization (UNESCO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  The general level of gender disparity based on gross enrollment ratio in tertiary education
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  4.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 210kB)
+SDG_INDICATOR: >-
+  <p>Indicator 4.5.1: d. Parity index in tertiary education</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Gender Parity Index for gross enrollment ratio in tertiary education is the ratio of women to men enrolled at tertiary level
+UNIT_MEASURE: >-
+  Index
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistical survey "Activity of post-secondary vocational education institutions" (N.3-edu); </p> 
+  <p>Statistical survey "Activity of higher education institutions" (N.4-edu); </p> 
+  <p>Statistical survey "Doctoral and postdoctoral activity" (N.1-cs)</p> 
+  <p>2) Population statistics </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Education and Research
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Female gross enrollment ratio in tertiary education divided by male gross  enrollment ratio in tertiary education
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> UIS UNESCO Indicator from the Official List of SDG 4 Indicators</p> 
+  <p>National indicator </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  <p> Annual</p> 
+  <p>Under the heading „year” have been reported the data at the beginning of the study year </p>
+source_url_1: >-
+  https://statbank.statistica.md/PxWeb/pxweb/en/50%20Statistica%20gender/50%20Statistica%20gender__GEN02/GEN020590inv_rcl.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774
+source_url_text_1: >-
+  Statbank>> Gender statistics>>Education and training of women during lifetime>>
+source_contact_1: >-
+source_other_info_1: >-
