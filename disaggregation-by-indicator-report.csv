@@ -37,6 +37,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-2-1,"Area of residence, Sex",2
 #4-2-2,"Area of residence, Sex",2
 #4-3-1,"Area of residence, Sex, Age group / Sex",3
+#4-3-1-1,Sex,1
 #4-5-1-a,"Area of residence, Sex",2
 #4-5-1-b,"Area of residence, Sexes",2
 #4-5-1-c,Sex,1
@@ -65,3 +66,4 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1
 #9-2-2,"Sex, Age group, Statistical regions, Occupations",4
+#9-5-2,Sex,1
