@@ -2914,7 +2914,7 @@
           }
         ]
       },
-      "title": "1.3.1.a Ponderea persoanelor de vârstă pensionară care beneficiază de pensie pentru limită de vârstă"
+      "title": "national_indicators.1-3-1-a-title"
     },
     {
       "path": "11-5-1-b/data.csv",
@@ -3633,7 +3633,7 @@
           }
         ]
       },
-      "title": "1.3.1.b Proporția copiilor acoperiți cu indemnizații adresate familiilor cu copii (indemnizație lunară pentru îngrijirea copilului până la împlinirea vârstei de 2 ani persoanelor neasigurate, indemnizații pentru îngrijirea copilului persoanelor asigurate)"
+      "title": "national_indicators.1-3-1-b-title"
     },
     {
       "path": "1-2-2/data.csv",
