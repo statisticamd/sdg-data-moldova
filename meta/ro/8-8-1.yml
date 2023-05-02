@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.8.1: Rata accidentelor de muncă mortale și nemortale la 100.000 lucrători, pe sexe și statut migrațional</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.8: Protecția dreptului la muncă și promovarea mediilor de lucru sigure și  securizate pentru toți lucrătorii, inclusiv lucrătorii migranți, în special  femeile migrante, și cei în locuri de muncă precare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Organizația Internațională a Muncii
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.8
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 381 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.8.1: Rata accidentelor de muncă, la 100.000 salariați</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Accident de muncă - eveniment care a produs vătămarea violentă a organismului  salariatului ca urmare a acțiunii unor factori de risc propriu unui element al  sistemului de muncă (executant, sarcini de muncă, mijloace de producție, mediu  de muncă), provocând pierderea temporară (3 zile și mai mult) sau permanentă a  capacității de muncă ori decesul salariatului.</p> 
+  <p>Accident mortal -  eveniment care a cauzat, imediat sau după un anumit interval de timp de la  producerea lui, decesul salariatului. </p>
+UNIT_MEASURE: >-
+  La 100 000 salariați
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1)Cercetarea statistică ”Accidentele de muncă”, </p> 
+  <p>2) Cercetarea statistică  ”Câștigurile salariale și costul forței de muncă” </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Rata accidentelor de muncă = Numărul de salariați accidentați mortal (sau  nemortal) raportat la numărul total de salariați * 100 000.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Accidentele mortale (conform definiției internaționale), sunt acele  accidente care au condus la decesul persoanei pe parcursul unui an din ziua  producerii accidentului, în legislația RM nu este specificată perioada  ”accident mortal - eveniment care a cauzat, imediat sau după un anumit  interval de timp de la producerea lui, decesul salariatului...”</p> 
+  <p>Nu se  includ angajații pe cont propriu și cei din sectorul informal. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

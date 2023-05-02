@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.3.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.3: Creșterea accesului întreprinderilor mici industriale și de altă natură, în  special din țările în curs de dezvoltare, la servicii financiare, inclusiv la  credite accesibile, și integrarea acestora în lanțuri valorice și piețe  externe</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Industrial Development Organization (UNIDO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.3.1.1: Contribuția valorii adăugate brute a ÎMM în total valoarea adăugată  brută</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Întreprinderi mici și mijlocii (ÎMM) - întreprinderile care îndeplinesc  cumulativ următoarele condiții: a) au un număr mediu anual de salariați  (numărul mediu scriptic al personalului în perioada de gestiune) de până la  250; b) realizează o cifră anuală de afaceri (venituri din vânzări) de până la  50 de milioane de lei sau dețin active totale (active imobilizate și active  circulante) de până la 50 de milioane de lei, conform ultimei situații  financiare aprobate. De menționat că plafonul cifrei de afaceri și al  activelor totale poate fi modificat de către Guvern, în funcție de evoluția  indicatorilor macroeconomici (art. 4 din Legea nr. 179 din  21.07.2016 cu  privire la întreprinderile mici și mijlocii)
+UNIT_MEASURE: >-
+  Procente, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Economiei și Digitizării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Valoarea adăugată brută (VAB) obținută pe ÎMM raportată la Valoarea adăugată  brută (VAB) total pe economie; prețuri curente.</p> 
+  <p>  Contribuția VAB a ÎMM la  formarea VAB total pe economie = VAB ÎMM / VAB total pe economie *100. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Spre deosebire de indicatorul global  care măsoară contribuția IMM la VAB,  indicatorul național vine cu date complementare despre contribuția VAB  obținută de IMM la VAB total pe economia națională
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+  https://statistica.gov.md/ro/conturi-nationale-editiile-2002-2021-9667_59502.html
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

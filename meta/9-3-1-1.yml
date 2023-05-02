@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.3.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.3: Increase the access of small-scale industrial and other enterprises, in  particular in developing countries, to financial services, including  affordable credit, and their integration into value chains and markets</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Industrial Development Organization (UNIDO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.3.1.1: Contribution of gross value added  of SMEs in total gross value added</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Small and Medium Enterprises (SME) - enterprises who meet cumulatively the  following conditions: a) have an annual medium number of employees (the  average number of personnel on paper during the period of reference) up to  250; b) has an annual turnover (revenues from sale) up to 50 million MDL or  have total assets (current assets and movable operating fixed asset) up to 50  million MDL, according to the last approved financial report. It should be  mentioned that the ceiling of the turnover and total assets may be modified by  the Government, depending on the evolution of the macroeconomic indicators  (art. 4 of the Law No. 179 dated 21.07.2016 on Small and Medium Enterprises)
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Economy and Digitisation
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Gross Value Added (GVA) obtained by SME as proportion of the total Gross Value  Added (GVA) in economy; current prices.</p> 
+  <p>  GVA contribution of SMEs to  setting the total GVA in economy = GVA SME / GVA total in economy*100. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Unlike the global indicator that measures the SME contribution to GAV, the  national indicator comes with additional data about the contribution of GAV  obtained from SMEs to the total GAV in the national economy
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://statistica.gov.md/en/national-accounts-9667_59502.html
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

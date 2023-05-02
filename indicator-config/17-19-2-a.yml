@@ -1,11 +1,15 @@
 composite_breakdown_label: ''
-computation_units: Per 100 000 employees
+computation_units: Yes/no
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
-data_notice_text: ''
+data_notice_text: The last Population and Housing Census was carried out in 2014. 
+  The next Population and Housing Census is planned for 2024 and will be carried out 
+  on the basis of Law 231/2022 on the population and housing census and Government 
+  Decision 951/2022 on the organization and conducting of the population and housing 
+  census of the Republic of Moldova in 2024
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -20,12 +24,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 8.8.1 Accidents at work rate, per 100,000 employees
+graph_title: 17.19.2.a. The population and housing Census conducted in the framework of the  2020 and 2030 round
 graph_titles: []
 graph_type: line
-indicator_available: Accidents at work rate, per 100,000 employees
-indicator_name: global_indicators.8-8-1-title
-indicator_number: 8.8.1
+indicator_available: The population and housing Census conducted in the framework of the  2020 and 2030 round
+indicator_name: global_indicators.17-19-2-a-title
+indicator_number: 17.19.2.a
 indicator_tabs:: 
   override: false
   tab_1: ''
