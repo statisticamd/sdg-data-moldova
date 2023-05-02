@@ -12,8 +12,94 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Fatal accidents, by sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Fatal accidents, by sex"
+          },
+          {
+            "name": "Fatal accidents, by economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total by economic activities",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Fatal accidents, by economic activities"
+          },
+          {
+            "name": "Non-fatal accidents, by sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Non-fatal accidents, by sex"
+          },
+          {
+            "name": "Non-fatal accidents, by economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total by economic activities",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Non-fatal accidents, by economic activities"
           },
           {
             "name": "Value",

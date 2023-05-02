@@ -1250,6 +1250,42 @@
       "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
+      "path": "8-9-1-2/data.csv",
+      "name": "8-9-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "NA"
+    },
+    {
       "path": "4-2-2/data.csv",
       "name": "4-2-2",
       "profile": "tabular-data-resource",
@@ -2513,6 +2549,30 @@
         ]
       },
       "title": "Proportion of women in managerial positions"
+    },
+    {
+      "path": "17-11-1-1/data.csv",
+      "name": "17-11-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.17-11-1-1-title"
     },
     {
       "path": "8-9-1-1/data.csv",
@@ -4016,6 +4076,140 @@
       "title": "global_indicators.11-5-1-a-title"
     },
     {
+      "path": "17-19-2-a/data.csv",
+      "name": "17-19-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.17-19-2-a-title"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Fatal accidents, by sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Fatal accidents, by sex"
+          },
+          {
+            "name": "Fatal accidents, by economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total by economic activities",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Fatal accidents, by economic activities"
+          },
+          {
+            "name": "Non-fatal accidents, by sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Non-fatal accidents, by sex"
+          },
+          {
+            "name": "Non-fatal accidents, by economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total by economic activities",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Non-fatal accidents, by economic activities"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    },
+    {
       "path": "5-4-1-2/data.csv",
       "name": "5-4-1-2",
       "profile": "tabular-data-resource",
@@ -4118,6 +4312,30 @@
         ]
       },
       "title": "global_indicators.8-7-1-a-title"
+    },
+    {
+      "path": "9-3-1-1/data.csv",
+      "name": "9-3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.9-3-1-1-title"
     },
     {
       "path": "4-c-1-c/data.csv",
@@ -5742,6 +5960,30 @@
         ]
       },
       "title": "Researchers (in full-time equivalent) per million inhabitants"
+    },
+    {
+      "path": "9-3-1-a/data.csv",
+      "name": "9-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.9-3-1-a-title"
     },
     {
       "path": "9-c-1/data.csv",
@@ -8670,30 +8912,6 @@
         ]
       },
       "title": "Proportion of agricultural area under productive and sustainable agriculture"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
       "path": "3-3-2/data.csv",

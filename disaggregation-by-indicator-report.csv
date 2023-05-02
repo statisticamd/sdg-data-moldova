@@ -63,6 +63,8 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-1-1,Regions,1
 #8-5-2,"Age group, Sex, Persons with disabilities, Education levels ",4
 #8-6-1,Age group / Sex,1
+#8-8-1,"Fatal accidents, by sex, Fatal accidents, by economic activities, Non-fatal accidents, by sex, Non-fatal accidents, by economic activities",4
+#8-9-1-2,Sex,1
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1
 #9-2-2,"Age group, Sex, Statistical regions, Occupations",4
