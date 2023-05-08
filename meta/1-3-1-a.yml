@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of retirement-age persons, who benefit from social insurance old age  pensions  out of the total number of persons of the respective age *100.  Number of retirement-age persons, who benefit from social insurance pensions  for old age out of the total number of persons of the respective age *100.
+  Number of retirement-age persons, who benefit from social insurance old age  pensions  out of the total number of persons of the respective age *100.  Number of retirement-age persons, who benefit from social insurance pensions  for old age out of the total number of persons of the respective age *100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
