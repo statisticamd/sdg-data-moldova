@@ -2974,7 +2974,7 @@
           }
         ]
       },
-      "title": "1.3.1.a. Ponderea persoanelor de vârstă pensionară care beneficiază de pensie pentru limită de vârstă"
+      "title": "national_indicators.1-3-1-a-title"
     },
     {
       "path": "11-5-1-b/data.csv",
@@ -3693,7 +3693,7 @@
           }
         ]
       },
-      "title": "1.3.1.b. Proporția copiilor acoperiți cu indemnizații adresate familiilor cu copii (indemnizație lunară pentru îngrijirea copilului până la împlinirea vârstei de 2 ani persoanelor neasigurate, indemnizații pentru îngrijirea copilului persoanelor asigurate)"
+      "title": "national_indicators.1-3-1-b-title"
     },
     {
       "path": "1-2-2/data.csv",
@@ -4881,7 +4881,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-5-1-title"
+      "title": "Indicele parității (femeie/bărbat, rural/urban, chintila inferioară/superioară și altele, cum ar fi statutul de dizabilitate, persoane indigene și cele afectate de conflicte, de îndată ce devin disponibile date) pentru toți indicatorii de învățământ din această listă, care pot fi dezagregați"
     },
     {
       "path": "9-2-1-a/data.csv",
@@ -5358,7 +5358,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-3-1-title"
+      "title": "Rata de participare a tinerilor și adulților în educația formală și non-formală în ultimele 12 luni, pe sexe"
     },
     {
       "path": "1-2-1/data.csv",
@@ -5673,7 +5673,7 @@
           }
         ]
       },
-      "title": "1.1.1.1. Ponderea populației aflate sub pragul internațional al sărăciei de 4,3 dolari SUA pe zi"
+      "title": "national_indicators.1-1-1-1-title"
     },
     {
       "path": "1-5-2/data.csv",
@@ -9151,7 +9151,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-1-title"
+      "title": "Indicator de capacitate statistică pentru monitorizarea Obiectivelor de Dezvoltare Durabilă"
     },
     {
       "path": "3-1-1/data.csv",
@@ -9295,7 +9295,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-b-1-title"
+      "title": "Cheltuieli publice sociale pentru susținerea persoanelor aflate în sărăcie"
     },
     {
       "path": "17-19-1/data.csv",
