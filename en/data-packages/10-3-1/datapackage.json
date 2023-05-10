@@ -12,8 +12,87 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Discrimination criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social status",
+                "Age",
+                "Disability",
+                "Sexual orientation",
+                "Existence of a criminal record",
+                "HIV status",
+                "Roma ethnicity",
+                "Sex/gender",
+                "Other ethnicity",
+                "Religion",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Discrimination criteria"
+          },
+          {
+            "name": "Entities in which they were discriminated against",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polyclinic",
+                "Place of work",
+                "Police",
+                "Town hall",
+                "Street",
+                "Social assistance",
+                "School",
+                "Shop",
+                "Church",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Entities in which they were discriminated against"
           },
           {
             "name": "Value",

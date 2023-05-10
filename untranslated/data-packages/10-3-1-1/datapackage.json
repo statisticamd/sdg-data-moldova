@@ -1,0 +1,113 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex of the petitioner",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Criteria of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Opinion",
+                "Disability",
+                "Social origin",
+                "Language",
+                "Sex/gender",
+                "HIV status",
+                "Sexual orientation",
+                "Religion/belief",
+                "Professional status",
+                "Civil status",
+                "Political affiliation",
+                "Place of residence",
+                "Ethnical affiliation",
+                "Maternity",
+                "Nationality",
+                "Age",
+                "Race",
+                "Trade-union activity",
+                "Pensioner status",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Discrimination on the labour market",
+                "Access to education",
+                "Access to goods and services available to the public",
+                "Access to justice",
+                "Hate speech",
+                "Injured human dignity",
+                "Exercing parental rights",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Form of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Direct",
+                "Indirect",
+                "By association",
+                "Instigation to discrimination",
+                "Harassment",
+                "Victimization",
+                "Refuse of reasonable accommodation",
+                "Racial segregation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-3-1-1",
+  "title": "global_indicators.10-3-1-1-title"
+}

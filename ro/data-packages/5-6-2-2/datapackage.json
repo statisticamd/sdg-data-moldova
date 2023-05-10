@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sub-indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortalitatea maternă (la 1000 femei de vârstă reproductivă)",
+                "Mortalitatea neonatală precoce (la 1000 născuți-vii)",
+                "Modern contraception (women of reproductive age use modern methods of contraception), %",
+                "Avort (la 1000 femei de vârstă reproductivă)",
+                ""
+              ]
+            },
+            "title": "Sub-indicatori"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-2-2",
+  "title": "global_indicators.5-6-2-2-title"
+}

@@ -12,8 +12,134 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Area of residence  of the respondents",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence  of the respondents"
+          },
+          {
+            "name": "Discrimination criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social status",
+                "Age",
+                "Disability",
+                "Sexual orientation",
+                "Existence of a criminal record",
+                "HIV",
+                "Roma ethnicity",
+                "Sex/gender",
+                "Other ethnicity",
+                "Religion",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Discrimination criteria"
+          },
+          {
+            "name": "Entities in which they were discriminated against",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polyclinic",
+                "Place of work",
+                "Police",
+                "Town hall",
+                "Street",
+                "Social assistance",
+                "School",
+                "Shop",
+                "Church",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Entities in which they were discriminated against"
+          },
+          {
+            "name": "Characteristics of persons who discriminated",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Characteristics of persons who discriminated"
+          },
+          {
+            "name": "The quality of the person who discriminated",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individual person",
+                "Legal person",
+                ""
+              ]
+            },
+            "title": "The quality of the person who discriminated"
+          },
+          {
+            "name": "The quality/function held by the natural person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Person with a function of public dignity",
+                "Public official",
+                "Person with responsibility functions",
+                ""
+              ]
+            },
+            "title": "The quality/function held by the natural person"
+          },
+          {
+            "name": "The field of activity related to the person who discriminated",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Private",
+                ""
+              ]
+            },
+            "title": "The field of activity related to the person who discriminated"
           },
           {
             "name": "Value",

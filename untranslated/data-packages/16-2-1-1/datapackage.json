@@ -1,0 +1,128 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-2 years",
+                "3-6 years",
+                "7-15 years",
+                "16-17 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "With disabilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Number of neglected children, at the end of the year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-2 years old",
+                "3-6 years old",
+                "7-15 years old",
+                "16-17 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "With disabilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-1-1",
+  "title": "global_indicators.16-2-1-1-title"
+}

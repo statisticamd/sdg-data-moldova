@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of vaccine",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis vaccine (BCG)",
+                "Diphtheria-tetanus-pertussis (DTP) vaccine",
+                "Combination measles-mumps-rubella vaccine (MMR)",
+                "Oral polio vaccine (OPV)",
+                "Hepatitis B vaccine (HEPB)",
+                "Type B haemophilus influenzae (HIB) vaccine",
+                "Rotavirus (RV) vaccine",
+                "Pneumococcal vaccine (PC)",
+                "Diphtheria and tetanus toxin (DT) vaccine at 7 years",
+                "Diphtheria and tetanus toxin (Td) vaccine at 15 years",
+                ""
+              ]
+            },
+            "title": "Type of vaccine"
           },
           {
             "name": "Value",

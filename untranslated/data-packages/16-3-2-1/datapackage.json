@@ -1,0 +1,152 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgarians",
+                "Roma",
+                "Russians",
+                "Jews",
+                "Ukrainians",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17",
+                "18+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " ",
+                "Mental",
+                "Intellectual",
+                "Sensory",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Citizenship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republic of Moldova",
+                "Foreign citizenship",
+                "Stateless",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Beneficiary status - foreign citizen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Temporary protection",
+                "Humanitarian protection",
+                "Refugees",
+                "Asylum seekers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Requested authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prosecution",
+                "Police inspectorate",
+                "Court",
+                "Court of Appeal",
+                "Supreme Court of Justice",
+                "Other authorities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Legal basis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Regardless of income level (art. 20 law 198)",
+                "Depending on the income level (art. 21 law 198)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of qualified assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Qualified criminal cases",
+                "Qualified contravention cases",
+                "Qualified civil cases",
+                "Emergency criminal cases",
+                "Emergency contravention cases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Primary care",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-2-1",
+  "title": "global_indicators.16-3-2-1-title"
+}

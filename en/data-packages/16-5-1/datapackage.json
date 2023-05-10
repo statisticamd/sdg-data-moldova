@@ -12,8 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Level of studies",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secondary incomplete",
+                "Secondary",
+                "Secondary specialized",
+                "Higher",
+                ""
+              ]
+            },
+            "title": "Level of studies"
+          },
+          {
+            "name": "Institutions where have been made payments",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central public authorities",
+                "Local public authorities",
+                "Tax inspectorates",
+                "Customs",
+                "Police",
+                "Prosecution",
+                "Courts",
+                "Educational institutions",
+                "Medical institutions",
+                "Civil status offices",
+                "Passport offices",
+                "Communal services",
+                "Fire inspections",
+                "Notary offices",
+                "Transport registration and driver qualification",
+                "Technical overhaul of cars",
+                ""
+              ]
+            },
+            "title": "Institutions where have been made payments"
           },
           {
             "name": "Value",

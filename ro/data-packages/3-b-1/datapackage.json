@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Type of vaccine",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vaccinul contra tuberculozei (BCG)",
+                "Vaccinul diftero-tetano-pertusis (DTP)",
+                "Vaccinul combinat împotriva rujeolă-oreion-rubeolă (ROR)",
+                "Vaccinul oral contra poliomielitei (VPO)",
+                "Vaccinul contra hepatitei B (HEPB)",
+                "Vaccinul contra infecţiei cu haemophilus influenzae tip B (HIB)",
+                "Vaccinul contra infecţiei cu rotavirusuri  (RV)",
+                "Vaccinul pneumococic (PC)",
+                "Vaccinul cu anatoxine difterică şi tetanică (DT) la 7 ani",
+                "Vaccinul cu anatoxine difterică şi tetanică (Td) la 15 ani",
+                ""
+              ]
+            },
+            "title": "Tipuri de vaccin"
           },
           {
             "name": "Value",

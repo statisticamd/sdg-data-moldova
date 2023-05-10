@@ -1,0 +1,164 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgari",
+                "Romi",
+                "Ruși",
+                "Evrei",
+                "Ucraineni",
+                ""
+              ]
+            },
+            "title": "Etnie"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17",
+                "18+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " ",
+                "Mintală",
+                "Intelectuală",
+                "Senzorială",
+                ""
+              ]
+            },
+            "title": "Dizabilitate"
+          },
+          {
+            "name": "Citizenship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republica Moldova",
+                "Cetățeni străini",
+                "Apatrizi",
+                ""
+              ]
+            },
+            "title": "Cetățenie"
+          },
+          {
+            "name": "Beneficiary status - foreign citizen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Protecție temporă",
+                "Protecție umanitară",
+                "Refugiați",
+                "Solicitanți azil",
+                ""
+              ]
+            },
+            "title": "Statut de beneficiar - cetățean străin"
+          },
+          {
+            "name": "Requested authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Procuratura",
+                "Inspectoratul de politie",
+                "Judecătoria",
+                "Curtea de Apel",
+                "Curtea Supremă de Justuție",
+                "Alte autorități",
+                ""
+              ]
+            },
+            "title": "Autoritatea solicitată"
+          },
+          {
+            "name": "Legal basis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indiferent de nivelul de venit (art. 20 legea 198)",
+                "În dependența de nivelul de venit (art. 21 Legea 198)",
+                ""
+              ]
+            },
+            "title": "Baza legală"
+          },
+          {
+            "name": "Type of qualified assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Calificată cauze penale",
+                "Calificată cauze contravenționale",
+                "Calificată cauze civile",
+                "Urgență cauze penale",
+                "Urgență cauze contravenționale",
+                ""
+              ]
+            },
+            "title": "Tipul asistenței calificate"
+          },
+          {
+            "name": "Primary care",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Asistența primară"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-2-1",
+  "title": "global_indicators.16-3-2-1-title"
+}

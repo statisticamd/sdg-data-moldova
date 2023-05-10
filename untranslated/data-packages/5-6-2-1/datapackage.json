@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Thematic areas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternity care services",
+                "Contraception and family planning",
+                "Information and comprehensive sex education",
+                "HIV and HPV ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-2-1",
+  "title": "global_indicators.5-6-2-1-title"
+}

@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sub-indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternal mortality (per 1000 women of reproductive age)",
+                "Early neonatal mortality (per 1000 live births)",
+                "Modern contraception (women of reproductive age use modern methods of contraception), %",
+                "Abortion (per 1000 women of reproductive age)",
+                ""
+              ]
+            },
+            "title": "Sub-indicators"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-2-2",
+  "title": "global_indicators.5-6-2-2-title"
+}

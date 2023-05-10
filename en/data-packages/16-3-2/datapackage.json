@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Duration of arrest",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Up to 3 months",
+                "From 3 to 6 months",
+                "From 6 to 12 months",
+                "More than 12 months",
+                ""
+              ]
+            },
+            "title": "Duration of arrest"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

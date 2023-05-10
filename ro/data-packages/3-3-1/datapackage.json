@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "High-risk population categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Utilizatori de droguri injectabile",
+                "Lucrători ale sexului comercial",
+                "Bărbaţi care practică sex cu bărbaţii",
+                ""
+              ]
+            },
+            "title": "Categorii de populație cu risc sporit"
           },
           {
             "name": "Value",

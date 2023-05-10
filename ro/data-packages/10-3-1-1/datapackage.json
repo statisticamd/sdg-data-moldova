@@ -1,0 +1,120 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sex of the petitioner",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sexul petiționarului"
+          },
+          {
+            "name": "Criteria of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Opinie",
+                "Dizabilitate",
+                "Origine socială",
+                "Limbă",
+                "Sex/gen",
+                "HIV status",
+                "Orientarea sexuală",
+                "Religie/convingeri",
+                "Statut profesional",
+                "Statut matrimonial",
+                "Apartenență politică",
+                "Loc de trai",
+                "Apartenență etnică",
+                "Maternitate",
+                "Naționalitate",
+                "Vârsta",
+                "Race",
+                "Activitate sindicală",
+                "Statut de pensionar",
+                "Alte",
+                ""
+              ]
+            },
+            "title": "Criterii de discriminare"
+          },
+          {
+            "name": "Area of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Discrimination on the labour market",
+                "Acces la învățământ",
+                "Acces la bunuri și servicii disponibile publicului",
+                "Acces la justiție",
+                "Discurs de ură",
+                "Lezarea demnității umane",
+                "Exercing parental rights",
+                "Alte",
+                ""
+              ]
+            },
+            "title": "Domeniul de discriminare"
+          },
+          {
+            "name": "Form of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Discriminare directă",
+                "Discriminare indirectă",
+                "Discriminare prin asociere",
+                "Instigare la discriminare",
+                "Hărțuire",
+                "Victimizare",
+                "Refuz în acomodare rezonabilă",
+                "Segregare rasială",
+                ""
+              ]
+            },
+            "title": "Forma de discriminare"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-3-1-1",
+  "title": "global_indicators.10-3-1-1-title"
+}

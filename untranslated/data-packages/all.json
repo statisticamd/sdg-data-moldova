@@ -3,6 +3,72 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "3-a-1/data.csv",
+      "name": "3-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
+      "path": "16-a-1/data.csv",
+      "name": "16-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
+    },
+    {
       "path": "1-5-1-b/data.csv",
       "name": "1-5-1-b",
       "profile": "tabular-data-resource",
@@ -422,6 +488,128 @@
       "title": "global_indicators.7-1-2-1-title"
     },
     {
+      "path": "16-2-1-1/data.csv",
+      "name": "16-2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-2 years",
+                "3-6 years",
+                "7-15 years",
+                "16-17 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability (subjected to violence)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "With disabilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Number of neglected children, at the end of the year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-2 years old",
+                "3-6 years old",
+                "7-15 years old",
+                "16-17 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability (neglected)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "With disabilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-2-1-1-title"
+    },
+    {
       "path": "16-1-3/data.csv",
       "name": "16-1-3",
       "profile": "tabular-data-resource",
@@ -742,6 +930,53 @@
         ]
       },
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+    },
+    {
+      "path": "1-3-1-f/data.csv",
+      "name": "1-3-1-f",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-34",
+                "35-44",
+                "45-54",
+                "55-60",
+                "60+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-1-f-title"
     },
     {
       "path": "8-7-1-b/data.csv",
@@ -1369,6 +1604,102 @@
       "title": "Proportion of population living in households with access to basic services"
     },
     {
+      "path": "10-3-1/data.csv",
+      "name": "10-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Discrimination criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social status",
+                "Age",
+                "Disability",
+                "Sexual orientation",
+                "Existence of a criminal record",
+                "HIV status",
+                "Roma ethnicity",
+                "Sex/gender",
+                "Other ethnicity",
+                "Religion",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Entities in which they were discriminated against",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polyclinic",
+                "Place of work",
+                "Police",
+                "Town hall",
+                "Street",
+                "Social assistance",
+                "School",
+                "Shop",
+                "Church",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+    },
+    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -1425,6 +1756,49 @@
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
     },
     {
+      "path": "16-7-1-a/data.csv",
+      "name": "16-7-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-44 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-7-1-a-title"
+    },
+    {
       "path": "1-5-1-c/data.csv",
       "name": "1-5-1-c",
       "profile": "tabular-data-resource",
@@ -1469,6 +1843,113 @@
         ]
       },
       "title": "global_indicators.1-5-1-c-title"
+    },
+    {
+      "path": "10-3-1-1/data.csv",
+      "name": "10-3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex of the petitioner",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Criteria of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Opinion",
+                "Disability",
+                "Social origin",
+                "Language",
+                "Sex/gender",
+                "HIV status",
+                "Sexual orientation",
+                "Religion/belief",
+                "Professional status",
+                "Civil status",
+                "Political affiliation",
+                "Place of residence",
+                "Ethnical affiliation",
+                "Maternity",
+                "Nationality",
+                "Age",
+                "Race",
+                "Trade-union activity",
+                "Pensioner status",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Discrimination on the labour market",
+                "Access to education",
+                "Access to goods and services available to the public",
+                "Access to justice",
+                "Hate speech",
+                "Injured human dignity",
+                "Exercing parental rights",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Form of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Direct",
+                "Indirect",
+                "By association",
+                "Instigation to discrimination",
+                "Harassment",
+                "Victimization",
+                "Refuse of reasonable accommodation",
+                "Racial segregation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.10-3-1-1-title"
     },
     {
       "path": "16-1-3-1/data.csv",
@@ -1893,6 +2374,28 @@
       "title": "global_indicators.6-2-1-1-title"
     },
     {
+      "path": "5-5-2-1/data.csv",
+      "name": "5-5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-2-1-title"
+    },
+    {
       "path": "13-1-1-c/data.csv",
       "name": "13-1-1-c",
       "profile": "tabular-data-resource",
@@ -1937,6 +2440,28 @@
         ]
       },
       "title": "global_indicators.13-1-1-c-title"
+    },
+    {
+      "path": "3-b-3/data.csv",
+      "name": "3-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
     },
     {
       "path": "4-c-1-a/data.csv",
@@ -2107,6 +2632,65 @@
         ]
       },
       "title": "global_indicators.4-5-1-e-title"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "High-risk population categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Injecting drug users",
+                "Commercial sex worker",
+                "Men who have sex with men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "8-5-1-1/data.csv",
@@ -2354,6 +2938,28 @@
       "title": "Proportion of women in managerial positions"
     },
     {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+    },
+    {
       "path": "17-11-1-1/data.csv",
       "name": "17-11-1-1",
       "profile": "tabular-data-resource",
@@ -2551,6 +3157,152 @@
         ]
       },
       "title": "Proportion of population using safely managed drinking water services"
+    },
+    {
+      "path": "16-3-2-1/data.csv",
+      "name": "16-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgarians",
+                "Roma",
+                "Russians",
+                "Jews",
+                "Ukrainians",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17",
+                "18+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " ",
+                "Mental",
+                "Intellectual",
+                "Sensory",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Citizenship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republic of Moldova",
+                "Foreign citizenship",
+                "Stateless",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Beneficiary status - foreign citizen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Temporary protection",
+                "Humanitarian protection",
+                "Refugees",
+                "Asylum seekers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Requested authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prosecution",
+                "Police inspectorate",
+                "Court",
+                "Court of Appeal",
+                "Supreme Court of Justice",
+                "Other authorities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Legal basis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Regardless of income level (art. 20 law 198)",
+                "Depending on the income level (art. 21 law 198)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of qualified assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Qualified criminal cases",
+                "Qualified contravention cases",
+                "Qualified civil cases",
+                "Emergency criminal cases",
+                "Emergency contravention cases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Primary care",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-3-2-1-title"
     },
     {
       "path": "11-6-2-1/data.csv",
@@ -2804,6 +3556,40 @@
       "title": "global_indicators.11-5-1-b-title"
     },
     {
+      "path": "6-3-2-1/data.csv",
+      "name": "6-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Types of sources ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Underground centralized sources",
+                "Centralized surface sources",
+                "Decentralized water supply sources (wells)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.6-3-2-1-title"
+    },
+    {
       "path": "13-1-1-b/data.csv",
       "name": "13-1-1-b",
       "profile": "tabular-data-resource",
@@ -2917,6 +3703,72 @@
         ]
       },
       "title": "global_indicators.9-2-1-1-title"
+    },
+    {
+      "path": "16-5-2/data.csv",
+      "name": "16-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nivel de instruire",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secondary",
+                "Secondary specialized",
+                "Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institutions where have been made payments",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tax inspectorates",
+                "Customs",
+                "Police",
+                "Prosecution",
+                "Sanitary-epidemiological inspections",
+                "Cadastral offices / services",
+                "Courts",
+                "Public procurement",
+                "Registration of the transport and issuance of the driving license",
+                "Technical overhaul of cars",
+                "Issuing construction permits",
+                "Work inspection",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "16-3-2-4/data.csv",
@@ -3234,6 +4086,77 @@
       "title": "global_indicators.10-1-1-a-title"
     },
     {
+      "path": "16-5-1/data.csv",
+      "name": "16-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of studies",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secondary incomplete",
+                "Secondary",
+                "Secondary specialized",
+                "Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institutions where have been made payments",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central public authorities",
+                "Local public authorities",
+                "Tax inspectorates",
+                "Customs",
+                "Police",
+                "Prosecution",
+                "Courts",
+                "Educational institutions",
+                "Medical institutions",
+                "Civil status offices",
+                "Passport offices",
+                "Communal services",
+                "Fire inspections",
+                "Notary offices",
+                "Transport registration and driver qualification",
+                "Technical overhaul of cars",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+    },
+    {
       "path": "8-5-2/data.csv",
       "name": "8-5-2",
       "profile": "tabular-data-resource",
@@ -3304,6 +4227,52 @@
         ]
       },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Duration of arrest",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Up to 3 months",
+                "From 3 to 6 months",
+                "From 6 to 12 months",
+                "More than 12 months",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "4-3-1/data.csv",
@@ -3761,6 +4730,39 @@
       "title": "global_indicators.11-5-1-a-title"
     },
     {
+      "path": "5-5-1-b/data.csv",
+      "name": "5-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Levels",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Local public authorities, level I",
+                "Local public authorities, level II",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-1-b-title"
+    },
+    {
       "path": "17-19-2-a/data.csv",
       "name": "17-19-2-a",
       "profile": "tabular-data-resource",
@@ -3982,6 +4984,63 @@
         ]
       },
       "title": "global_indicators.8-7-1-a-title"
+    },
+    {
+      "path": "16-3-2-3/data.csv",
+      "name": "16-3-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-3-2-3-title"
+    },
+    {
+      "path": "5-6-2-1/data.csv",
+      "name": "5-6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Thematic areas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternity care services",
+                "Contraception and family planning",
+                "Information and comprehensive sex education",
+                "HIV and HPV ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-6-2-1-title"
     },
     {
       "path": "9-3-1-1/data.csv",
@@ -4511,6 +5570,41 @@
       "title": "global_indicators.4-5-1-title"
     },
     {
+      "path": "5-6-2-2/data.csv",
+      "name": "5-6-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sub-indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maternal mortality (per 1000 women of reproductive age)",
+                "Early neonatal mortality (per 1000 live births)",
+                "Modern contraception (women of reproductive age use modern methods of contraception), %",
+                "Abortion (per 1000 women of reproductive age)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-6-2-2-title"
+    },
+    {
       "path": "9-2-1-a/data.csv",
       "name": "9-2-1-a",
       "profile": "tabular-data-resource",
@@ -4708,6 +5802,145 @@
         ]
       },
       "title": "global_indicators.4-1-2-1-title"
+    },
+    {
+      "path": "16-b-1/data.csv",
+      "name": "16-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence  of the respondents",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Discrimination criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social status",
+                "Age",
+                "Disability",
+                "Sexual orientation",
+                "Existence of a criminal record",
+                "HIV",
+                "Roma ethnicity",
+                "Sex/gender",
+                "Other ethnicity",
+                "Religion",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Entities in which they were discriminated against",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polyclinic",
+                "Place of work",
+                "Police",
+                "Town hall",
+                "Street",
+                "Social assistance",
+                "School",
+                "Shop",
+                "Church",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Characteristics of persons who discriminated",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "The quality of the person who discriminated",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individual person",
+                "Legal person",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "The quality/function held by the natural person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Person with a function of public dignity",
+                "Public official",
+                "Person with responsibility functions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "The field of activity related to the person who discriminated",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public",
+                "Private",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "4-5-1-c/data.csv",
@@ -5083,6 +6316,28 @@
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
+      "path": "5-5-1-a/data.csv",
+      "name": "5-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-5-1-a-title"
+    },
+    {
       "path": "16-5-2-2/data.csv",
       "name": "16-5-2-2",
       "profile": "tabular-data-resource",
@@ -5103,6 +6358,102 @@
         ]
       },
       "title": "global_indicators.16-5-2-2-title"
+    },
+    {
+      "path": "5-4-1-1/data.csv",
+      "name": "5-4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-4-1-1-title"
+    },
+    {
+      "path": "3-5-2-1/data.csv",
+      "name": "3-5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence/Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban/Men",
+                "Rural/men",
+                "Urban/Women",
+                "Rural/Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group/sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24/Men",
+                "15-24/ Women",
+                "25-34/Men",
+                "25-34/Women",
+                "35-44/Men",
+                "35-44/Women",
+                "45-49/Men",
+                "45-49/Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-5-2-1-title"
     },
     {
       "path": "7-1-1/data.csv",
@@ -5502,6 +6853,47 @@
       "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
+      "path": "3-b-1/data.csv",
+      "name": "3-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of vaccine",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis vaccine (BCG)",
+                "Diphtheria-tetanus-pertussis (DTP) vaccine",
+                "Combination measles-mumps-rubella vaccine (MMR)",
+                "Oral polio vaccine (OPV)",
+                "Hepatitis B vaccine (HEPB)",
+                "Type B haemophilus influenzae (HIB) vaccine",
+                "Rotavirus (RV) vaccine",
+                "Pneumococcal vaccine (PC)",
+                "Diphtheria and tetanus toxin (DT) vaccine at 7 years",
+                "Diphtheria and tetanus toxin (Td) vaccine at 15 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
+    },
+    {
       "path": "9-3-1-a/data.csv",
       "name": "9-3-1-a",
       "profile": "tabular-data-resource",
@@ -5588,28 +6980,6 @@
         ]
       },
       "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
-    },
-    {
-      "path": "3-b-1/data.csv",
-      "name": "3-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
       "path": "12-5-1/data.csv",
@@ -5964,28 +7334,6 @@
       "title": "Health worker density and distribution"
     },
     {
-      "path": "3-a-1/data.csv",
-      "name": "3-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
-    },
-    {
       "path": "9-1-1/data.csv",
       "name": "9-1-1",
       "profile": "tabular-data-resource",
@@ -6316,28 +7664,6 @@
       "title": "Change in water-use efficiency over time"
     },
     {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
-    },
-    {
       "path": "17-6-1/data.csv",
       "name": "17-6-1",
       "profile": "tabular-data-resource",
@@ -6358,28 +7684,6 @@
         ]
       },
       "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
-    },
-    {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "3-7-2/data.csv",
@@ -7460,28 +8764,6 @@
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
-      "path": "10-3-1/data.csv",
-      "name": "10-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
-    },
-    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
@@ -7656,28 +8938,6 @@
         ]
       },
       "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
-    },
-    {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "16-3-3/data.csv",
@@ -8010,28 +9270,6 @@
       "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
-      "path": "16-5-2/data.csv",
-      "name": "16-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
-    },
-    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -8096,28 +9334,6 @@
         ]
       },
       "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
-    },
-    {
-      "path": "16-a-1/data.csv",
-      "name": "16-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
     },
     {
       "path": "15-5-1/data.csv",
@@ -8868,28 +10084,6 @@
       "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
-      "path": "3-b-3/data.csv",
-      "name": "3-b-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
-    },
-    {
       "path": "2-2-3/data.csv",
       "name": "2-2-3",
       "profile": "tabular-data-resource",
@@ -9506,28 +10700,6 @@
       "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
-    },
-    {
       "path": "4-2-1/data.csv",
       "name": "4-2-1",
       "profile": "tabular-data-resource",
@@ -9944,28 +11116,6 @@
         ]
       },
       "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
-    },
-    {
-      "path": "16-b-1/data.csv",
-      "name": "16-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "3-b-2/data.csv",

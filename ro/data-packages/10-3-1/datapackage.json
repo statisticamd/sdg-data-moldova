@@ -12,8 +12,87 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Discrimination criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statut social",
+                "Vârsta",
+                "Dizabilitate",
+                "Orientarea sexuală",
+                "Existența antecedentelor penale",
+                "HIV status",
+                "Etnia romă",
+                "Sex/gen",
+                "Altă etnie",
+                "Religia",
+                "Alte",
+                ""
+              ]
+            },
+            "title": "Criterii de discriminare"
+          },
+          {
+            "name": "Entities in which they were discriminated against",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Policlinica",
+                "Locul de muncă",
+                "Poliția",
+                "Primăria",
+                "Strada",
+                "Asistența socială",
+                "Școala",
+                "Magazin",
+                "Biserica",
+                "Alte",
+                ""
+              ]
+            },
+            "title": "Entități în care au fost discriminați"
           },
           {
             "name": "Value",

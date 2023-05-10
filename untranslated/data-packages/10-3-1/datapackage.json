@@ -12,7 +12,81 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Discrimination criteria",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social status",
+                "Age",
+                "Disability",
+                "Sexual orientation",
+                "Existence of a criminal record",
+                "HIV status",
+                "Roma ethnicity",
+                "Sex/gender",
+                "Other ethnicity",
+                "Religion",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Entities in which they were discriminated against",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polyclinic",
+                "Place of work",
+                "Police",
+                "Town hall",
+                "Street",
+                "Social assistance",
+                "School",
+                "Shop",
+                "Church",
+                "Other",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

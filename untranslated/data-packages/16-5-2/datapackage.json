@@ -12,7 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nivel de instruire",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secondary",
+                "Secondary specialized",
+                "Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institutions where have been made payments",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tax inspectorates",
+                "Customs",
+                "Police",
+                "Prosecution",
+                "Sanitary-epidemiological inspections",
+                "Cadastral offices / services",
+                "Courts",
+                "Public procurement",
+                "Registration of the transport and issuance of the driving license",
+                "Technical overhaul of cars",
+                "Issuing construction permits",
+                "Work inspection",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

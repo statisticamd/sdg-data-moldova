@@ -12,8 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Nivel de instruire",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundare",
+                "Mediu de specialitate",
+                "Superioare",
+                ""
+              ]
+            },
+            "title": "Nivel de instruire"
+          },
+          {
+            "name": "Institutions where have been made payments",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inspectoratele fiscale",
+                "Vama",
+                "Poliția",
+                "Procuratura",
+                "Inspecțiile sanitar-epidemiologice",
+                "Birourile/serviciile cadastrale",
+                "Instanțele de judecată",
+                "Achizițiile publice",
+                "Înregistrarea transportului și eliberarea permisului de conducere",
+                "Revizia tehnică a automobilelor",
+                "Eliberarea autorizațiilor de construcție",
+                "Inspecția muncii",
+                ""
+              ]
+            },
+            "title": "Instituțiile unde s-au efectuat plăți"
           },
           {
             "name": "Value",
