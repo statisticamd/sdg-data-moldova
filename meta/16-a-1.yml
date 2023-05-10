@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.a.1: Existence of independent national human rights institutions in compliance with  the Paris Principles</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.a: Strengthen relevant national institutions, including through international  cooperation, for building capacity at all levels, in particular in developing  countries, to prevent violence and combat terrorism and crime</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  OHCHR
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-0A-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.a.1: ce of independent national human rights institutions in compliance with  the Paris Principles</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Six models of national human rights institutions exist today in the world  regions and namely: Commissions for Human Rights, Ombudsman Institutions,  Hybrid Institutions, Advisory Bodies, Multiple centres and institutions. A  national human rights institution considered independent is the one that has  the accreditation status of level A, in line with the Paris Principles. The UN  Paris Principles (adopted in 1993 by the UN General Assembly), establishes the  international standards based on which the national human rights institutions  (NHRI) may be accredited by the Global Alliance of national human rights  institutions (GANHR). The accreditation process is carried out through  peer-to-peer assessment by the Sub-Committee for Accreditation (SCA) of the  GANHR. There are three possible types of accreditations: </p> 
+  <p>  A: in line with  Paris Principles   </p> 
+  <p>  B: Observer Status – not fully in line with Paris  Principles or no sufficient information was provided so as to allow an  assessment  </p> 
+  <p>  C: Not in line with Paris Principles. </p> 
+  <p>  Data are  collected annually by the Sub-Committee for Accreditation (SCA) of GANHR from  the National Ombudsman Offices.</p> 
+  <p>  Since May 2018, the Republic of Moldova  Ombudsman Office acquired the accreditation status of level A. </p>
+UNIT_MEASURE: >-
+  Accreditation status
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Administrative data of the Republic of Moldova People's Advocate Office  </p> 
+  <p>  2) Administrative data of the [Sub-Committee for Accreditation (SCA) of  GANHR](https://nhri.ohchr.org/EN/AboutUs/GANHRIAccreditation/Pages/default.aspx) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. People's Advocate Office</p> 
+  <p>  2. GANHRI Sub-Committee on Accreditation  (SCA) </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  People's Advocate Office
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  The indicator refers to the status of accreditation and namely:  A, B or C of  the national human rights institutions.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  <p> 1. People's Advocate Office</p> 
+  <p>  2. GANHRI Sub-Committee on Accreditation  (SCA) </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

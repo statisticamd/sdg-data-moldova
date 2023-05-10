@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 10.3.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 10.3: Asigurarea oportunităților egale și reducerea inegalității rezultatelor,  inclusiv prin  eliminarea legilor, politicilor și practicilor discriminatorii,  și promovarea legislației, politicilor și acțiunilor corespunzătoare în acest  sens</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Office of the United Nations High Commissioner for Human Rights (OHCHR)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  10.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 10.3.1.1: Numărul de cazuri de discriminare constatate la 100.000 populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Discriminare constituie orice deosebire, excludere, restricție ori preferință  în drepturi și libertăți a persoanei sau a unui grup de persoane, precum și  susținerea com-portamentului  discriminatoriu  bazat  pe  criteriile  reale,   stipulate  de  lege  sau  pe  criterii presupuse.
+UNIT_MEASURE: >-
+  la  100 mii locuitori
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Evidența Consiliului pentru egalitate (raportul anual al Consiliului)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Consiliul pentru egalitate
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Parlamentul Republicii Moldova
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total de plângeri (plângeri cu privire la fapta de discriminare)  înregistrate la CPEDAE care au fost constatate,  raportate la numărul  populației de 18+ ani * 100000.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Este un indicator național, propus adițional la lista de indicatori globali
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Consiliul pentru egalitate
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

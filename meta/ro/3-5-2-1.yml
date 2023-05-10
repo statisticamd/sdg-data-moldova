@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.5.2.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.5: Consolidarea prevenirii și tratamentului abuzului de substanțe, inclusiv  abuzul de droguri și substanțe narcotice și a consumului nociv de alcool</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  3.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 214 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.5.2.1: Prevalența consumului nociv de alcool</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Proporția persoanelor care consumă frecvent băuturi alcoolice (de 6 ori și mai  mult pe parcursul ultimelor 30 de zile)
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  1.Pentru anul 2012 datele sunt luate din studiul MICS 2012 (https://www.unicef.org/moldova/media/876/file/Multiple-Indicator-Cluster-Survey-2012-English.pdf )                                                                                                                                          2. Pentru anul 2013 datele sunt luate din [studiul OMS, STEPS  Moldova](https://extranet.who.int/ncdsmicrodata/index.php/catalog/230/study-description), care au fost colectate în rândul populației cu vârsta de 18-69 de ani.                                                                                                                                             3.Pentru anul 2017 datele sunt luate din studiul KAP 2017 (https://msmps.gov.md/sites/default/files/kap_study_2017_alcohol_consumption_en.pdf), care au fost colectate în rândul populației cu vârsta de 18-69 de ani .                                                                                                                                                                                  4. Pentru anul 2021 datele sunt luate din [studiul OMS, STEPS  Moldova](https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555), care au fost colectate în rândul populației cu vârsta de 18-69 de ani.
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Națională pentru Sănătate Publică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1.Organizația Mondială a Sănătății</p> 
+  <p> 2.Ministerul Sănătății </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Sănătate Publică
+source_periodicity_1: >-
+  O dată la 5 ani
+source_url_1: >-
+  (https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 6.3.2.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 6.3: By 2030, improve water quality by reducing pollution, eliminating dumping and  minimizing release of hazardous chemicals and materials, halving the  proportion of untreated wastewater and substantially increasing recycling and  safe reuse globally</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Environment Programme (UNEP) (GEMS/Water)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Proportion of water bodies (area) in a country with good ambient water quality  compared to all water bodies in the country. “Good” indicates an ambient water  quality that does not damage ecosystem function and human health according to  core ambient water quality indicators.
+SDG_GOAL: ''
+target_id: >-
+  6.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 6.3.2.1: Proportion of drinking water supply sources not compliant with the  sanitary norms for water quality (according to microbiological parameters)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Drinking water - water intended for human consumption. The sanitary norms  regarding the quality of drinking water are described in the annexes of Law  no. 182 regarding the quality of drinking water from 19.12.2019 and annex no.  2 of GD no. 934 of 15.08.2007. The quality of drinking water is compliant if  the values established for the quality parameters correspond to those provided  in the Annexes for sampling.
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Form No. 18-Săn
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Agency for Public Health
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of objectives (underground centralized sources, centralized surface  sources, decentralized water supply sources (wells)) non-compliant with  sanitary norms according to water quality compared to the number of operating  objectives * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The global indicator refers to water bodies and their water quality: untreated  water from rivers, lakes, while this indicator refers only to drinking water  sources.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

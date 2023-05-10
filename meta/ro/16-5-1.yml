@@ -1,0 +1,81 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.5.1: Ponderea persoanelor care au avut cel puțin un contact cu un funcționar public  și care au plătit mită unui funcționar public sau au fost rugate să plătească  mită de către acești funcționari publici în ultimele 12 luni</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Reducerea semnificativă a corupției și dării de mită în toate formele sale</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.5.1: a persoanelor care au efectuat plăți neoficiale (mită) în ultimele 12  luni</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul este definit ca proporția persoanelor care au plătit cel puțin o  dată mită (au dat bani oficiali publici, cadou sau contra-favor) unui  funcționar public sau de la care a fost cerută mită de către acești  funcționari publici, în ultimele 12 luni, ca procent de persoane care au avut  cel puțin un contact cu un funcționar public în aceeași perioadă.</p> 
+  <p>  Datele  pentru acest indicator la nivel național pot fi extrase din două surse: </p> 
+  <p>  1) Cercetarea din 2015 în baza întrebării: ”Pe parcursul ultimului an Dvs.  (sau altcineva din familia Dvs.) ați plătit neoficial sau ați oferit cadouri  angajaților din următoarele instituții/servicii/domenii?” </p> 
+  <p>  2) Cercetarea  din 2018, în baza întrebărilor: ”Ați interacționat cu următoarele instituții  în ultimele 12 luni? Ați plătit bani neoficial în ultimele 12 luni? Ați oferit  cadouri în ultimele 12 luni?” </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) [Cercetarea sociologică "Corupția în RM: percepțiile și experiențele  proprii ale oamenilor de afaceri și gospodăriilor casnice,  2015](http://www.transparency.md/wp-content/uploads/2017/06/TI_Moldova_Cercetare_Sociologica_2015.pdf)  </p> 
+  <p>  2) [Studiu de evaluare a impactului strategiei naționale de integritate  și anticorupție – Moldova  2017](http://www.md.undp.org/content/moldova/ro/home/library/effective_governance/studiu-de-evaluare-a-impactului-strategiei-naionale-de-integrita.html) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Centrul Național Anticorupție
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Centrul Național Anticorupție
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total de persoane care au plătit cel puțin o dată mită unui funcționar  public în ultimele 12 luni sau de la care a fost solicitată mită în perioada  de referință, raportat la numărul total de persoane care au avut cel puțin un  contact cu un funcționar public în perioada respectivă * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Indicatorul global se referă la experiența individuală a respondentului, care  este selectat aleatoriu dintre membrii gospodăriilor, în timp ce experiența  altor membri de dare de mită nu este inclusă. </p> 
+  <p>  Pe când indicatorul  național este similar celui global, diferențele fiind următoarele: 1) datele  studiului din anul 2015 iau în  considerație experiența individuală de mită a  respondentului și a membrilor gospodăriilor din care aceștia fac parte; 2)  datele studiului din anul 2018 iau în considerație experiența individuală de  mită a respondenților selectați aleatoriu, agenților economici activi și  agenților publici din cadrul administrației publice a mun. Chișinău. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Transparency International Moldova
+source_periodicity_1: >-
+  <p> periodic </p> 
+  <p>  2015, 2017 </p>
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

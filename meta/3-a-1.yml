@@ -1,0 +1,81 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.a.1: Age-standardized prevalence of current tobacco use among persons aged 15 years  and older</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.a: 3.a Strengthen the implementation of the World Health Organization Framework  Convention on Tobacco Control in all countries, as appropriate</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organization (WHO), Framework Convention on Tobacco Control  (FCTC)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 866 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.a.1: Prevalence of tobacco use among persons aged 15 years and older</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Prevalence of tobacco consumption is estimated by WHO based on population  surveys carried out at the national level, by taking over the data from the  web pages or receiving the databases from the specialised institutions in the  country.</p> 
+  <p>  The estimates made by WHO for prevalence are (i) standardized  based on the age so as to improve the international comparability and (ii) are  calculated through different methods.</p> 
+  <p>  The global metadata recommend more  sources for calculating this indicator. The most recent data sources available  for the RM:</p> 
+  <p>  1. prevalence of smoking in adults  - through [the STEPS/2013  study](https://extranet.who.int/ncdsmicrodata/index.php/catalog/230/study-description) - include the tobacco smokers aged 18-69  years old. </p> 
+  <p>   2. Prevalence of smoking in adults  - through [the STEPS/2021  study]      https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555 -  include the tobacco smokers aged 18-69  years old. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. STEPS 2013 https://extranet.who.int/ncdsmicrodata/index.php/catalog/230/study-description </p> 
+  <p>2. STEPS 2021                                         https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555 </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Agency for Public Health
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Population aged 15 years old and over smoking on daily basis or occasionally  out of the total population aged 15 years old and over * by 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The Global indicator is standardized by WHO depending on age (relevant for  international comparability) and it is calculated through different methods,  at the national level - it is recommended to use the indicator without  standardization.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Agency for Public Health
+source_periodicity_1: >-
+  Once every few years
+source_url_1: >-
+  https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555
+source_url_text_1: >-
+  Link to data source
+source_contact_1: >-
+source_other_info_1: >-

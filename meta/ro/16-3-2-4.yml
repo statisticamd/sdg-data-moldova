@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.3.2.4: Gradul de satisfacție a populației privind calitatea serviciilor în cadrul  sistemului judiciar</p>
+  <p>Indicator 16.3.2.4: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.3: Promovarea statului de drept la nivel național și internațional și asigurarea  accesului egal la justiție pentru toți</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -65,6 +65,7 @@ source_active_1: true
 source_organisation_1: >-
   Ministerul Justiției
 source_periodicity_1: >-
+  nedeterminat
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

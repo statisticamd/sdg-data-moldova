@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.5.2: Ponderea antreprenorilor care au avut cel puțin un contact cu un funcționar  public și care au plătit mită unui funcționar public sau au fost rugați să  plătească mită de către acești funcționari publici în ultimele 12 luni</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Reducerea semnificativă a corupției și dării de mită în toate formele sale</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank,UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.5.2: a antreprenorilor care au efectuat plăți neoficiale (mită) în ultimele  12 luni</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Proporția întreprinderilor de la care se solicită un cadou sau o plată  informală (mită) atunci când se întâlnesc cu funcționarii fiscali. Datele  pentru acest indicator sunt colectate în cadrul [sondajelor pe  întreprinderi](http://www.enterprisesurveys.org), în care există o întrebare  standard prin care respondenții sunt întrebați dacă a fost inspectați sau  invitați să se întâlnească cu reprezentații autorităților fiscale. Dacă  respondenții indică „da”, atunci există o întrebare următoare prin care  aceștia sunt întrebați dacă este de așteptat  să ofere un cadou sau o plată  informală în timpul acestor inspecții / întâlniri. Opțiunile de răspuns sunt:  „da”, „nu”, „nu știu” și „refuz”.</p> 
+  <p>  Sondajele pe întreprinderi sunt sondaje  la nivel de întreprinderi, care sunt realizate în țările cliente ale Băncii  Mondiale. Sondajul se concentrează pe diverse aspecte ale mediului de afaceri,  precum și pe măsurile de rezultat ale firmei, cum ar fi vânzările anuale,  productivitatea, etc. Pentru fiecare țară, sondajul se realizează aproximativ  la fiecare 4-5 ani.</p> 
+  <p>  Datele pentru acest indicator la nivel național pot  fi extrase din două surse: </p> 
+  <p> 1) Cercetarea din 2015 în baza întrebării: "Pe  parcursul ultimului an Dvs, (sau altcineva din întreprinderea Dvs,) ați plătit  neoficial sau ați oferit cadouri angajaților din următoarele  instituții/servicii/domenii?"</p> 
+  <p> 2) Cercetarea din 2018, în baza  întrebărilor: "Ați interacționat cu următoarele instituții în ultimele 12  luni? Ați plătit bani neoficial în ultimele 12 luni? Ați oferit cadouri în  ultimele 12 luni?" </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) [Cercetare sociologică "Corupția în RM: percepțiile și experiențele proprii  ale oamenilor de afaceri și gospodăriilor casnice,  2015](http://www.transparency.md/wp-content/uploads/2017/06/TI_Moldova_Cercetare_Sociologica_2015.pdf)  </p> 
+  <p>  2) [Studiu de evaluare a impactului strategiei naționale de integritate  și anticorupție – Moldova  2017](http://www.md.undp.org/content/moldova/ro/home/library/effective_governance/studiu-de-evaluare-a-impactului-strategiei-naionale-de-integrita.html) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Centrul Național Anticorupție
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Centrul Național Anticorupție
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total de întreprinderi care au răspuns „da” la întrebarea dacă în  ultimele 12 luni au efectuat cel puțin o dată o plată informată (mită) sau  oferit un cadou unui funcționar fiscal, sau de la care a fost solicitată mită  sau un cadou în perioada de referință, raportat la numărul total de  întreprinderi incluse în cercetare care au avut cel puțin un contact cu un  funcționar fiscal în perioada respectivă * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul național este similar celui global, diferențele fiind următoarele:  Sursa de colectare a datelor, care este diferita, pentru indicatorul global  fiind utilizate Sondajele în întreprinderi realizate în baza metodologiei  Băncii Mondiale o data la 4-5 ani. O altă diferență sunt întrebările diferite  din chestionarele studiilor naționale realizate în anii 2015 și 2018 , precum  și anumite diferențe ale formulelor de calculare a datelor
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Transparency International Moldova
+source_periodicity_1: >-
+  periodic, o dată la câțiva ani (2015, 2017)
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

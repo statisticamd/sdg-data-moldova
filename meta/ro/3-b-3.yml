@@ -1,0 +1,75 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.b.3: Proporția instituțiilor medico-sanitare care dispun de setul de bază al medicamentelor esențiale disponibile și accesibile în mod permanent</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Susținerea cercetării și elaborării de vaccinuri și medicamente pentru bolile transmisibile și cele netransmisibile care afectează în mod primar țările în curs de dezvoltare, oferirea accesului la medicamente esențiale și vaccinuri accesibile din punct de vedere financiar, în conformitate cu Declarația de la Doha privind Acordul TRIPS  și Sănătatea Publică, care afirmă dreptul țărilor în curs de dezvoltare de a utiliza pe deplin prevederile din Acordul privind aspectele comerciale ale drepturilor de proprietate intelectuală vizând flexibilitatea în protecția sănătății publice și, în special, oferirea accesului la medicamente pentru toți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  WHO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+  UN Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 3.b.3: ția instituțiilor medico-sanitare care dispun de setul de medicamente de bază disponibile și accesibile în mod permanent</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Indicatorul reprezintă un indice multidimensional exprimat ca proporție a instituțiilor medico-sanitare care dispun de setul de medicamente de bază, care este disponibil și accesibil, în total instituții medico-sanitare incluse în cercetare la nivel național.
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  cercetare
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Acordurile de reciprocitate a autorizațiilor de stat (SARA)</p> 
+  <p> 2. Institutul de Conștientizare Umană (HAI)/Organizația Mondială a Sănătății (OMS)</p> 
+  <p> 3.EMP Ministerul Sănătăţii</p> 
+  <p> 4. Organizația Mondială a Sănătății </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Organizația Mondială a Sănătății
+source_periodicity_1: >-
+  o dată la 2-3 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

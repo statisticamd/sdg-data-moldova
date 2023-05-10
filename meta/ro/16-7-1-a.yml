@@ -1,0 +1,90 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.7.1.a: Raportul dintre proporția pozițiilor ocupate în Parlament de către persoanele  din anumite grupuri ale populației și proporția grupului respectiv în total  populație</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.7: Asigurarea procesului decizional receptiv, incluziv, participativ și  reprezentativ la toate nivelurile</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Development Programme (UNDP)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  In order that decision-making be responsive, inclusive, participatory and  representative, it is important to ensure diversity in representation at all  levels of State institutions (central, regional and local).
+SDG_GOAL: ''
+target_id: >-
+  16.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.7.1.a: Raportul dintre proporția pozițiilor ocupate în Parlament de către  persoanele din anumite grupuri ale populației și proporția grupului respectiv  în total populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Indicatorul își propune să compare proporția diferitelor grupuri demografice  (în funcție de vârstă și sex) reprezentate în Parlament, în raport cu  proporția acestor grupuri din populația națională în vârsta eligibilă pentru  vot. Dreptul de a alege și a fi ales îl au cetățenii Republicii  Moldova care  au împlinit, inclusiv în ziua alegerilor, vârsta de 18 ani, cu excepția celor  privați de acest drept în modul stabilit de lege (art. 11; 12 din Codul  electoral Cod nr. 1381/1997).
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) [Platforma de date deschise a Uniunii  Inter-Parlamentare](https://data.ipu.org/content/republic-moldova?chamber_id=13501)</p> 
+  <p>   2) Date administrative Parlament </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Parlament</p> 
+  <p>  2) Comisia Electorală Centrală </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Pentru parlamentele unicamerale așa cum este cel al Republicii Moldova,  indicatorul este măsurat prin intermediul a 4 sub-indicatori (1 pentru  populația tânără și 3 pentru femei), din care 2 sunt calculați ca rate, iar 2  sunt prezentați ca numere absolute: </p> 
+  <p>  1) Rata 1 = Proporția deputaților în  Parlament în vârstă de 45 ani și mai jos raportat la proporția populației în  vârstă de 45 ani și mai jos cu drept de vot (18 ani +) *100.</p> 
+  <p>  Unde:</p> 
+  <p>   Numărătorul: Numărul de deputați în Parlament în vârstă de 45 ani și mai jos  raportat la numărul total de deputați în Parlament. </p> 
+  <p>  Numitorul: Scăderea  din numărul total al populației țării cu drept de vot (18 ani +) a numărului  total al populației până la vârsta eligibilității.</p> 
+  <p>  2) Rata 2 = Proporția  femeilor/ bărbaților în Parlament raportat la proporția femeilor/ bărbaților  în total populație cu drept de vot (18 ani+)</p> 
+  <p>  Unde:</p> 
+  <p>  Numărătorul:  Numărul femeilor deputate/ bărbaților deputați  în Parlament raportat la  numărul total de deputați în Parlament *100</p> 
+  <p>  Numitorul: Ponderea femeilor/  bărbaților cu drept de vot (în vârstă de 18 ani +) în numărul total al  populației până la vârsta eligibilității.</p> 
+  <p>  3) Președintele Parlamentului:  nu se calculează, deoarece există un singur Președinte în Parlament, fiind  înregistrate doar caracteristicile individuale acestuia, adică: grupul de  vârstă și sexul.</p> 
+  <p>  4) Președinții comisiilor parlamentare permanente  (Comisia administrație publică; Comisia agricultură și industrie alimentară;  Comisia cultură, educație, cercetare, tineret, sport și mass-media; Comisia de  control al finanțelor publice; Comisia drepturile omului și relații  interetnice;  Comisia economie, buget și finanțe; Comisia juridică, numiri și  imunități; Comisia mediu și dezvoltare regională; Comisia politică externă și  integrare europeană; Comisia protecție socială, sănătate și familie și Comisia  securitate națională, apărare și ordine publică): nu se calculează, deoarece  sunt colectate pentru 11 președinți ai comisiilor. Sunt înregistrate doar  caracteristicile individuale acestora, adică: grupul de vârstă și sexul. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Spre deosebire de indicatorul global, sub-indicatorul 3 al căruia se  calculează ca număr absolut al președinților a 5 comisii parlamentare  permanente (Afaceri Externe, Apărare, Finanțe, Drepturile Omului și Egalitate  de Gen), indicatorul național este calculat ca număr absolut al președinților  celor 11 comisii parlamentare permanente stabilite în legislatura a X-a.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Parlamentul</p> 
+  <p>  2) Uniunea Inter-Parlamentară </p>
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

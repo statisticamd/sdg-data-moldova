@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.6.2.2: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.6: Ensure universal access to sexual and reproductive health and reproductive  rights as agreed in accordance with the Programme of Action of the  International Conference on Population and Development and the Beijing  Platform for Action and the outcome documents of their review conferences</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNFPA
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  5.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 634kB)
+SDG_INDICATOR: >-
+  <p>Indicator 5.6.2.2: Implementation in the country of the legislative-normative  framework, which guarantees women and men aged 15-49 years old access to  sexual and reproductive health, information and education</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The aim of the indicator is to provide international comparability in line  with the Action Plan of the Conference on Population and Development in 1994,  the Action Plan of the Beijing Platform and international standards of human  rights under implementation. The indicator provides information about the  implementation of the set of legislative and normative acts, which guarantee  full and equal access to women and men aged 15 years old and over to  reproductive health services, information and education.
+UNIT_MEASURE: >-
+  According to the indicator
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Modern contraception - MICS 2012, for the rest of the indicators -  adiministrative data (National Agency of Public Health, Ministry of Culture  and Research)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.National Agency for Public Health</p> 
+  <p>  2.Ministry of Education and  Research </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> It assesses the implementation of the legislative-normative framework  guaranteeing women and men aged 15-49 years old access to services under 4  thematic areas: (i) Services for maternity protection; (ii) Contraception and  family planning; (iii) Information and comprehensive education; (iv) Sexual  health and wellbeing  </p> 
+  <p>  The assessment is based on the following  sub-indicators: </p> 
+  <p>  1) Maternal mortality (per 1000 women of reproductive  age);</p> 
+  <p>  2) Early neonatal mortality (per 1000 live births);</p> 
+  <p>  3) Modern  contraception (women of reproductive age use modern contraception methods,  %)</p> 
+  <p>  4) Abortion (per 1000 women of reproductive age)</p> 
+  <p>  5) Optional  curricula for education on health, including sexual health (yes/no) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The indicator is complementary to the global one and provides information not  only about the existence of the legal and normative framework guaranteeing  access to sexual and reproductive health, information and education, but also  its enforcement at the national level
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Health
+source_periodicity_1: >-
+  Modern contraception - once every few years, for the rest of the indicators -  annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

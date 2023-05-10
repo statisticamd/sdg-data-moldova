@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.3.2.3: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.3: Promoting the rule of law at the national and international levels and ensuring the equal access to justice to each individual</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Office on Drugs and Crime (UNODC)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 209
+SDG_INDICATOR: >-
+  <p>Indicator 16.3.2.3: The proportion of cases lost at ECHR out of the number of applications notified each year</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Any persons considering that one of his/her rights guaranteed by the European Convention has been violated may file an application before the ECHR. In order to file an application before the ECHR, some admissibility conditions should be met, as established by art. 34 and 35 of the Convention (e.g. the exhaustion of domestic  remedies; the compliance with the period of four months; the referrence to a particular right provided by the Convention etc.). The registered applications are examined by the Court as soon as possible. Due to the complexity of the procedure and the large number of pending applications, the examination procedure for an application lasts between 3 and 7 years. The judgments issued by a Committee or by the Grand Chamber of the Court, as well as the Court's decisions are final and cannot be appealed. The judgments issued by a Chamber may be referred to the Grand Chamber of the Court, according to art. 43 of the Convention. The Court shall inform the applicant and the Respondent Government about any judgment or decision issued. The Committee of Ministers of the Council of Europe supervises the enforcement of the Court's judgements by the Respondent Governments. The Government Agent represents the Republic of Moldova at the European Court and contributes, in the manner provided by law, to ensuring the enforcement of  judgements and decisions of the European Court in cases versus the Republic of Moldova. He/she also represents the country as expert during the plenary sessions of the inter-governmental committees of the Committee of Ministers of the Council of Europe related to human rights, coordinating his/her actions with the Ministry of Foreign Affairs and European Integration  (art. 5 of Law No. 151 of 30.07.2015 on the Government Agent).
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Annual Reports of the ECHR (https://echr.coe.int/Pages/home.aspx?p=court/annualreports&c=)</p> 
+  <p>2) Statistical data of the Government Agent Office, Ministry of Justice </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. European Court of Human Rights</p> 
+  <p>2. Ministry of Justice </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Justice
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  The proportion of cases lost at the ECHR out of the number of applications notified each year = The number of judgments whereby the ECHR found at least one violation of the Convention by the Republic of Moldova plus the number of decisions on striking out the cases from the Court's list as a result of friendly settlement agreements or unilateral declarations submitted by the Government, out of the number of cases communicated each year * 100%.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Justice
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

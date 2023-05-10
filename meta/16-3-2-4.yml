@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.3.2.4: Level of public satisfaction  regarding on the quality of services in the  judicial system</p>
+  <p>Indicator 16.3.2.4: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.3: Promote the rule of law at the national and international levels and ensure  equal access to justice for all</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -65,6 +65,7 @@ source_active_1: true
 source_organisation_1: >-
   Ministry of Justice
 source_periodicity_1: >-
+  NA
 source_url_1: >-
 source_url_text_1: >-
   Link to source

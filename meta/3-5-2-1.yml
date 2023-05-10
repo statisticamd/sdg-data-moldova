@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.5.2.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.5: Strengthen the prevention and treatment of substance abuse, including narcotic  drug abuse and harmful use of alcohol</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  3.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 214 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.5.2.1: Prevalence of harmful use of alcohol</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Proportion of persons who frequently use alcoholic beverages (6 times and more  over the last 30 days)
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  1. For 2012 the data taken from Multiple Indicator Cluster Survey MICS 2012 (https://www.unicef.org/moldova/media/876/file/Multiple-Indicator-Cluster-Survey-2012-English.pdf )                                                                                                                                                                                   2.For 2013 the data are taken from the WHO survey, [STEPS  Moldova](https://extranet.who.int/ncdsmicrodata/index.php/catalog/230/study-description)                                                                                                                                                               3. For 2017 the data are taken from KAP survey 2017 (https://msmps.gov.md/sites/default/files/kap_study_2017_alcohol_consumption_en.pdf)                                                                                                                                                                                   4.For 2021 the data are taken from the WHO survey, [STEPS  Moldova] (https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Agency for Public Health
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1.World Health Organization</p> 
+  <p>  2.Ministry of Health </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Agency for Public Health
+source_periodicity_1: >-
+  once every 5 years
+source_url_1: >-
+  (https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

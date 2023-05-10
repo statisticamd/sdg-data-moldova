@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.5.2: Proportion of businesses that had at least one contact with a public official  and that paid a bribe to a public official, or were asked for a bribe by those  public officials during the previous 12 months</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.5: Substantially reduce corruption and bribery in all their forms</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank,UNODC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.5.2: ion of businesses who made unofficial payments (paid a bribe) during  the previous 12 months</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Proportion of enterprises from whom a present or an informal payment (bribe)  was requested, when they met fiscal officials. The data for this indicator are  collected within [enterprises' surveys](http://www.enterprisesurveys.org),  which include a standard question in which respondents are asked if they have  been subject to an inspection or have been invited to meet with the  representatives of tax authorities. If the respondents answer „yes”, there is  a follow-up question, in which they are asked if it is expected for them to  provide a present or to make an unofficial payment during such inspections /  meetings. The response options are: „yes”, „no”, „do not know” and  „refuse”.</p> 
+  <p>  Enterprises' surveys are surveys carried out in enterprises in  the World Bank's client countries. The survey focuses on different business  environment aspects, as well as on outcome measures of the company, such as  annual sale, productivity, etc. The survey is carried out for every country  for about 4-5 years.</p> 
+  <p>  The data for this indicator at the national level  may be extracted from two sources: </p> 
+  <p> 1) Survey from 2015, based on the  question: "Over the last year, have you (or anyone from your enterprise) made  unofficial payment or offered presents to employees of the following  institutions/services/areas?"</p> 
+  <p> 2) Survey from 2018, based on the questions:  "Have you interacted with the following institutions over the last 12 months?   Have you made unofficial payments over the last 12 months? Have you offered  presents over the last 12 months?" </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) [Sociological Survey "Corruption in RM: perceptions and own experiences of  business people and households,  2015](http://www.transparency.md/wp-content/uploads/2017/06/TI_Moldova_Cercetare_Sociologica_2015.pdf)  </p> 
+  <p>  2) [Study to assess the impact of the National Integrity and  Anticorruption Strategy – Moldova  2017](http://www.md.undp.org/content/moldova/ro/home/library/effective_governance/studiu-de-evaluare-a-impactului-strategiei-naionale-de-integrita.html) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Anticorruption Center
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  National Anticorruption Center
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Total number of enterprises that answered „yes” the question if over the last  12 month they have made at least one informal payment (bribe) or offered a  present to a tax official, or from who a bribe or a present was requested  during the period of reference, out of the total number of enterprises  included in the survey, who had at least one contact with a tax official  during the respective period * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The national indicator is similar to the global one, but the differences are  as follows: the source for data collection differs, as for the global  indicator they use surveys in enterprises carried out based on the World Bank  methodology once per 4-5 years. Another difference would be the different  questions in the national survey questionnaires carried out in 2015 and 2018,  as well as certain difference in the data calculation formulas
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Transparency International Moldova
+source_periodicity_1: >-
+  Once every few years (2015, 2017)
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-
