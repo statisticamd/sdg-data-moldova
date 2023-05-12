@@ -4,7 +4,7 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: true
 data_notice_class: ''
-data_notice_heading: ''
+data_notice_heading: Non-statistical indicator
 data_notice_text: The last Population and Housing Census was carried out in 2014. 
   The next Population and Housing Census is planned for 2024 and will be carried out 
   on the basis of Law 231/2022 on the population and housing census and Government 
@@ -37,7 +37,11 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: ''
+page_content: The last Population and Housing Census was carried out in 2014. 
+  The next Population and Housing Census is planned for 2024 and will be carried out 
+  on the basis of Law 231/2022 on the population and housing census and Government 
+  Decision 951/2022 on the organization and conducting of the population and housing 
+  census of the Republic of Moldova in 2024
 permalink: ''
 placeholder: ''
 precision: []

@@ -23,9 +23,9 @@ graph_target_lines: []
 graph_title: 8.9.1.2. Share of employees in tourism activities in total employees
 graph_titles: []
 graph_type: line
-indicator_available: NA
-indicator_name: NA
-indicator_number: 1.1.1
+indicator_available: Share of employees in tourism activities in total employees
+indicator_name: global_indicators.8-9-1-2-title
+indicator_number: 8.9.1.2
 indicator_tabs:: 
   override: false
   tab_1: ''
