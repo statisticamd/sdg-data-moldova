@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.1.2: Numărul deceselor cauzate de conflicte la 100 mii populație, pe sexe, vârste  și cauză</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16.1: Reducerea semnificativă a tuturor formelor de violență și ratelor de deces  conexe, pretutindeni</p>
+  <p>Target 16.1: Reducerea în mod semnificativ toate formele de violență și ratele de deces asociate peste tot</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Office of the United Nations High Commissioner for Human Rights (OHCHR)
@@ -31,6 +31,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> „Conflict” este definit ca „conflict armat” cu referire la o terminologie consacrată în dreptul internațional umanitar (DIH) și aplicat situațiilor bazate pe evaluarea Organizației Națiunilor Unite (ONU) și a altor entități mandatate la nivel internațional. „Decesele cauzate de conflicte” se referă la decesele directe și indirecte asociate conflictelor armate. </p> 
+  <p>Există 2 tipuri de conflicte armate:</p> 
+  <p>1.Conflicte armate internaționale - există ori de câte ori se recurge la forța armată între două sau mai multe state. </p> 
+  <p>2.Conflictele armate non-internaționale - sunt confruntări armate prelungite care au loc între forțele armate guvernamentale și forțele a unuia sau mai multor grupuri armate sau între astfel de grupuri care apar pe teritoriul unui stat</p> 
+  <p>Decesele directe sunt decese în care există motive rezonabile să se creadă că au rezultat direct operațiuni de război și că actele, deciziile și/sau scopurile care au provocat aceste decese erau în continuare din sau sub pretextul unui conflict armat.</p> 
+  <p>Decesele indirecte sunt decese rezultate din pierderea accesului la bunuri și servicii esențiale (de exemplu, încetinirea vitezei, penuria de medicamente sau capacitatea agricolă redusă care duc la lipsa accesului la o cantitate adecvată</p> 
+  <p>alimente, apă, salubritate, îngrijire a sănătății și condiții de siguranță de muncă) care sunt cauzate sau agravate de situație de conflict armat.</p> 
+  <p>Prin definiție, aceste decese ar trebui separate de alte morți violente care, în principiu, nu sunt legate de situația de conflict armat (de exemplu, omucideri intenționate și neintenționate, autoapărare, autoprovocate), dar sunt încă relevante pentru implementarea și măsurarea țintei </p>
 UNIT_MEASURE: >-
   la 100 000 populație
 CLASS_SYSTEM: ''
@@ -40,12 +48,15 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Ministerul Afacerilor Interne
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministerul Afacerilor Interne
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Numărul total de decese legate de conflict împărțit la populația totală, exprimată la 100.000 de locuitori.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

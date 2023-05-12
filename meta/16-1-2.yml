@@ -31,6 +31,13 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> Conflict’ is defined as ‘armed conflict’ in reference to a terminology enshrined in International Humanitarian Law (IHL), and applied to situations based on the assessment of the United Nations (UN) and other internationally mandated entities. ‘Conflict-related deaths’ refers to direct and indirect deaths associated to armed conflict. </p> 
+  <p>There are 2 types of armed conflicts:</p> 
+  <p>1. International armed conflicts - exist whenever there is resort to armed force between two or more States.</p> 
+  <p>2.Non-international armed conflictsare protracted armed confrontations occurring between governmental armed forces and the forces of one or more armed groups, or between such groups arising on the territory of a State.</p> 
+  <p>Direct deaths are deaths where there are reasonable grounds to believe that they resulted directly from war operations and that the acts, decisions and/or purposes that caused these deaths were in furtherance of or under the guise of armed conflict.</p> 
+  <p>Indirect deaths are deaths resulting from a loss of access to essential goods and services (e.g. economic slowdown, shortages of medicines or reduced farming capacity that result in lack of access to adequate food, water, sanitation, health care and safe conditions of work) that are caused or aggravated by the situation of armed conflict.</p> 
+  <p>By definition, these deaths should be separated from other violent deaths which are, in principle, not connected to the situation of armed conflict (e.g. intentional and non-intentional homicides, self-defence, self-inflicted), but are still relevant to the implementation and measurement of SDG target 16.1 </p>
 UNIT_MEASURE: >-
   per 100 000 population
 CLASS_SYSTEM: ''
@@ -40,12 +47,15 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Ministry of Internal Affairs
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministry of Internal Affairs
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  The total count of conflict-related deaths divided by the total population, expressed per 100.000 population
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

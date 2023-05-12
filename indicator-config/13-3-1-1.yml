@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: Number
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.2.1 Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
+graph_title: 13.3.1.1 Actions on integrating effects of  climate (mitigation, adaptation,  reduction of impact and early warning) in primary, secondary and tertiary  education curricula
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
-indicator_name: global_indicators.16-2-1-title
-indicator_number: 16.2.1
+indicator_available: Actions on integrating effects of  climate (mitigation, adaptation,  reduction of impact and early warning) in primary, secondary and tertiary  education curricula
+indicator_name: global_indicators.13-3-1-1-title
+indicator_number: 13.3.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''

@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.2.1: Ponderea copiilor (1-17 ani) care au fost supuși pedepsei fizice și/sau  agresiunii psihologice din partea îngrijitorilor, în ultima lună</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Stoparea abuzului, exploatării, traficului și a tuturor formelor de violență  și  torturii copiilor</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNICEF
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.2.1: Ponderea copiilor (1-14 ani) care au fost supuși violenței fizice de  orice fel sau psihologice din partea întreținătorului, în ultima lună</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Violență împotriva copilului – forme de rele tratamente aplicate de către  părinți/reprezentanții legali/persoana în grija căreia se află copilul sau de  către orice altă persoană, care produc vătămare actuală sau potențială asupra  sănătății acestuia și îi pun în pericol viața, dezvoltarea, demnitatea sau  moralitatea, care includ următoarele tipuri de violență: fizică, sexuală,  psihologică, spirituală, economică, neglijare și exploatare (prin muncă și  trafic) (p.5 din Anexa 1 a Hotărârii Guvernului nr. 270 din 08.04.2014, cu  privire la aprobarea Instrucțiunilor privind mecanismul intersectorial de  cooperare pentru identificarea, evaluarea, referirea, asistența și  monitorizarea copiilor victime și potențiale victime ale violenței,  neglijării, exploatării și traficului)
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  MICS 2012
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
+  <p> 2) Ministerul Sănătății </p> 
+  <p> 3) Ministerul  Muncii și Protecției Sociale </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul copiilor în vârstă de 1-14 ani care au fost supuși diferitor forme de   pedeapsă fizică și/sau agresiune psihologică  din partea îngrijitorilor în  luna trecută raportat la numărul total al populației în vârstă de 1-14 ani  *100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Indicatorul global propune două modalități de calculare indicatorului pentru  copii în vârstă de 1-17 ani, iar pentru o mai bună captare a fenomenului  propune indicatorul proxy pentru copii în vârstă de 1-14 ani.</p> 
+  <p>  Datele  colectate în MICS-2012 se referă la copii de 2-14 ani </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
+  <p> 2) Ministerul Sănătății </p> 
+  <p> 3) Ministerul  Muncii și Protecției Sociale </p>
+source_periodicity_1: >-
+  O dată la câțiva ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

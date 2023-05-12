@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.b.1: Existence of a developed and operationalized national strategy for youth  employment, as a distinct strategy or as part of a national employment  strategy</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.b: By 2020, develop and operationalize a global strategy for youth employment and  implement the Global Jobs Pact of the International Labour Organization.</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  ILO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  <p> A “developed national strategy” – an officially adopted (by the responsible government entity or authority) document that articulates a set of measures and provisions aimed at promoting youth employment within a defined timeframe.</p> 
+  <p>It explicitly mentions youth as a target. It may exist on its own or as part of a wider employment or development strategy.</p> 
+  <p> “Set of measures” – a mix of policy measures that includes economic and/or fiscal policies which promote youth employment, labour market policies targeting young people, policies and programmes to enhance youth employability, to promote youth entrepreneurship, and/or to protect youth rights at work.</p> 
+  <p>An “operationalized strategy” – this means there is evidence (government statement, official technical/financial progress report, or other official documents) of implementation of some or all the measures and provisions in the strategy. </p>
+SDG_GOAL: ''
+target_id: >-
+  8.b
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-8.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 8.b.1: nce of developed and operationalised national strategic framework on  youth employment</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Legend / score:</p> 
+  <p>0 - The country has not developed any national strategy for youth employment or taken steps to develop or adopt one;</p> 
+  <p>1 - The country is in the process of developing a national strategy for youth employment;</p> 
+  <p>2 - The country has developed and adopted a national strategy for youth employment;</p> 
+  <p>3 - The country has operationalized a national strategy for youth employment. </p>
+UNIT_MEASURE: >-
+  score
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Annual progress report on the implementation of the National Employment Program
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministry of Labour and Social Protection
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministry of Labour and Social Protection</p> 
+  <p>Ministry of Education and Research </p>
+OTHER_METHOD: >-
+  The purpose of SDG indicator 8.b.1 is to provide an indication of the progress of countries in addressing youth employment issues. In this respect, it is assumed that having officially adopted what can be recognised as a structured strategy for youth employment would mean larger attention given by a country to youth labour market challenges, compared to countries with no strategy. In fact, the development of such a strategy usually entails broad participation of and consultation/coordination among different stakeholders.
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Total
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Labour and Social Protection
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://social.gov.md/wp-content/uploads/2023/01/Raport-final_2021_SNOFM-3.pdf
+source_url_text_1: >-
+  Country reports on the implementation of international policies and standards
+source_contact_1: >-
+  GHERGANOVA Anna, head, Department for Employment and Labour Migration Regulation Policies, Ministry of Labour and Social Protection, anna.gherganova@social.gov.md , 022 804 424
+source_other_info_1: >-

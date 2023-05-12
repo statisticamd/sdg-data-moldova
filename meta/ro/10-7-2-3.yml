@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 10.7.2.3: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 10.7: NA</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  DESA Population Division, IOM
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  10.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-02.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 10.7.2.3: cordurilor bilaterale în domeniul securității sociale  semnate și intrate în vigoare</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Acordurile bilaterale de securitate socială reprezintă instrumente menite să  asigure un set de garanții sociale și protecție lucrătorilor migranți și  familiilor lor, care desfășoară sau au desfășurat o activitate de muncă și/sau  domiciliază pe teritoriul unuia sau ambelor state contractante.</p> 
+  <p>Acordurile bilaterale de securitate socială asigură protecție împotriva  următoarelor riscuri sociale (definite conform Convenției ILO nr. 102/1952  privind normele minime de securitate socială): bătrânețe, incapacitate  temporară de muncă, dizabilitate, maternitate, șomaj, pierderea  întreținătorului, deces. </p>
+UNIT_MEASURE: >-
+  număr
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Casa Națională de Asigurări Sociale (CNAS)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministerul Sănătății, Muncii și Protecției Sociale
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministerul Muncii și Protecției Sociale</p> 
+  <p>Biroul Relații cu Diaspora </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul acordurilor bilaterale în domeniul securității sociale încheiate cu  țările de destinație a lucrătorilor migranți.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul național acoperă o parte din domeniile indicatorului global
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  I
+source_active_1: true
+source_organisation_1: >-
+  Ministerul Sănătății, Muncii și Protecției Sociale
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+  https://cnas.gov.md/slidepageview.php?l=ro&idc=519&t=/Relatii-internationale/Acorduri-bilaterale
+source_url_text_1: >-
+  Acorduri bilaterale
+source_contact_1: >-
+  CORMAN Irina, Șef interimar al Direcției politici de asigurări sociale, Ministerul muncii și protecției Sociale, irina.corman@social.gov.md, 022804462
+source_other_info_1: >-

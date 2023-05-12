@@ -1,8 +1,9 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+composite_breakdown_label: ''
+computation_units: score
 copyright: ''
-data_footnote: ''
-data_non_statistical: false
+data_footnote: <p> Latest policy document:</p> 
+  <p>The national employment program for the years 2022-2026 and the action plan for its implementation was approved by Government Decision no. 785 of 16.11.2022 </p>
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -14,19 +15,35 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-b-1-title
+graph_target_lines: []
+graph_title: 8.b.1 Existence of developed and operationalised national strategic framework  on youth employment
 graph_titles: []
 graph_type: line
+indicator_available: nce of developed and operationalised national strategic framework on  youth employment
 indicator_name: global_indicators.8-b-1-title
-indicator_number: '8.b.1'
-national_geographical_coverage: ''
+indicator_number: 8.b.1
+indicator_tabs:: 
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and he municipality of Bender
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
-reporting_status: notstarted
+progress_status: not_available
+publications: []
+related_indicators: []
+reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''

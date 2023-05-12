@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.2.1 Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
+graph_title: 4.a.1.e. Proportion of schools supplied with drinking water
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
-indicator_name: global_indicators.16-2-1-title
-indicator_number: 16.2.1
+indicator_available: Proportion of schools supplied with drinking water
+indicator_name: global_indicators.4-a-1-e-title
+indicator_number: 4.a.1.e
 indicator_tabs:: 
   override: false
   tab_1: ''

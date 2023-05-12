@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 13.3.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 13.3: Improve education, awareness-raising and human and institutional capacity on  climate change mitigation, adaptation, impact reduction and early warning</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNFCCC,UNESCO-UIS
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  13.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-13.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 759kB)
+SDG_INDICATOR: >-
+  <p>Indicator 13.3.1.1: Actions on integrating effects of  climate (mitigation, adaptation,  reduction of impact and early warning) in primary, secondary and tertiary  education curricula</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Actions are envisaged in the United Nations Framework Convention on Climate  Change (UNFCCC, Decision 15/CP.18, eight-year Doha work programme on Article 6  of the UNFCCC (2012 – 2020), par.22 g, 22f) for including the issues on  climate change in the educational process and information of population. Paris  Agreement (art.12) provides for the obligation of the parties to communicate  about such actions within NDCs (nationally determined contributions). </p> 
+  <p>   These are included/described in the National Communication on greenhouse gas  emissions (once per 4 years), the updated [Biennial Report on greenhouse gas  emissions](http://clima.md/).</p> 
+  <p>  At the same time, the global methodology is  missing, hence it is difficult to provide the description of the national  indicator. </p>
+UNIT_MEASURE: >-
+  Number
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Data from national reports and materials drafted in line with UNFCCC and Paris  Agreement
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.Ministry of Education and Research</p> 
+  <p>  2.Climate Change Office </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicator is a proxy proposed for the national level
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  <p> 1.Ministry of Education and Research</p> 
+  <p>  2.Climate Change Office </p>
+source_periodicity_1: >-
+  Once every 2 and 4 years
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

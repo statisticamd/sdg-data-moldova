@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.2.1 Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
+graph_title: 6.3.2.b. Proportion of underground water bodies which achieved the "good  quality" class  (according to analytical chemical parameters, dissolved  metals, pesticides)
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
-indicator_name: global_indicators.16-2-1-title
-indicator_number: 16.2.1
+indicator_available: Proportion of underground water bodies which achieved the "good  quality" class  (according to analytical chemical parameters, dissolved  metals, pesticides)
+indicator_name: global_indicators.6-3-2-b-title
+indicator_number: 6.3.2.b
 indicator_tabs:: 
   override: false
   tab_1: ''
