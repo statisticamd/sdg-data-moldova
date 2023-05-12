@@ -12,7 +12,83 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2-4",
+                "5-9",
+                "10-14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education of the head of the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary and below",
+                "Secondary",
+                "Professional",
+                "Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity of the head of the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moldovan/Romanian",
+                "Russian",
+                "Ucrainian",
+                "Rum",
+                "Gagauz",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wellbeing quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

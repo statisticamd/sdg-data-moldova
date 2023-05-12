@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Emission sectors",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sectorul Energie",
+                "Sectorul Procesele industriale şi utilizarea produselor",
+                "Sectorul Agricultura",
+                "Sectorul Deșeuri",
+                ""
+              ]
+            },
+            "title": "Sectoare de emisie"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-4-1-1",
+  "title": "global_indicators.9-4-1-1-title"
+}

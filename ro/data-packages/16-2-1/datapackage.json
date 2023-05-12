@@ -12,8 +12,90 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2-4",
+                "5-9",
+                "10-14",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Level of education of the head of the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primare și mai jos",
+                "Secundare",
+                "Profesional",
+                "Superioare",
+                ""
+              ]
+            },
+            "title": "Nivelul de instruire a capului gospodăriei"
+          },
+          {
+            "name": "Ethnicity of the head of the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moldovean/Român",
+                "Rus",
+                "Ucrainean",
+                "Rom",
+                "Găgăuz",
+                "Alte",
+                ""
+              ]
+            },
+            "title": "Etnia capului gospodăriei"
+          },
+          {
+            "name": "Wellbeing quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Quintile de bunăstare"
           },
           {
             "name": "Value",

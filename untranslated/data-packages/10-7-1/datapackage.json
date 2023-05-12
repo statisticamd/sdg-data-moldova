@@ -12,7 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Destination countries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

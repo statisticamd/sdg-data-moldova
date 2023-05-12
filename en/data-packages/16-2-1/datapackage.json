@@ -12,8 +12,90 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2-4",
+                "5-9",
+                "10-14",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Level of education of the head of the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary and below",
+                "Secondary",
+                "Professional",
+                "Higher",
+                ""
+              ]
+            },
+            "title": "Level of education of the head of the household"
+          },
+          {
+            "name": "Ethnicity of the head of the household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moldovan/Romanian",
+                "Russian",
+                "Ucrainian",
+                "Rum",
+                "Gagauz",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Ethnicity of the head of the household"
+          },
+          {
+            "name": "Wellbeing quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Wellbeing quintile"
           },
           {
             "name": "Value",
