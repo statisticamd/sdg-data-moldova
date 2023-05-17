@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.4.2: Rata mortalității prin suicid</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.4: Până în 2030, reducerea cu o treime a mortalității premature cauzate de boli  netransmisibile prin prevenire, tratare și promovarea sănătății mintale și a  bunăstării</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Rata mortalității prin suicid
+SDG_GOAL: ''
+target_id: >-
+  3.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 65.1 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.4.2: Rata mortalității prin suicid, la 100.000 populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  la 100.000 populație / la 10.000 copii
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului</p> 
+  <p>2) Biroul Național  de Statistică  -  numărul populației cu reședință obișnuită </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Instituțiile medicale
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Numărul cazurilor de deces suicidale într-un an de referință raportat la  numărul populației *100.000</p> 
+  <p>Numărul cazurilor de deces suicidale la copii 0-17 ani 11 luni 29 zile într-un an de referință raportat la  numărul copii de aceiași vîrstă *10.000 </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Sănătate Publică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

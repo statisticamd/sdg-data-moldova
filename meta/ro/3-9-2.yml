@@ -1,0 +1,78 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.9.2: Rata mortalității determinate de surse nesigure de apă, lipsă de sanitație și  igienă (expunerea la servicii nesigure de apă, sanitație și igienă pentru toți  - WASH)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.9: Până în 2030, reducerea substanțială a numărului deceselor și bolilor  provocate de produsele chimice periculoase, de poluare și de contaminarea  aerului, apei și a solului</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Rata mortalității atribuită apei nesigure  igienizării nesigure și lipsei de igienă (expunerea la servicii de apă nesigură  sanitație și igienă pentru toți (WASH)) astfel cum este definită ca numărul de decese din cauza apei nesigure igienizării nesigure și lipsei de igienă (expunerea la servicii WASH nesigure) într-un an  împărțit la populație și înmulțit cu 1.000.000.
+SDG_GOAL: ''
+target_id: >-
+  3.9
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 214 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.9.2: Rata mortalității determinate de surse nesigure de apă, sanitație și  igienă la 100.000 populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Apa potabilă nesigură, igienizarea nesigură și lipsa igienei sunt cauze  importante ale decesului. Conform metodologiilor OMS, în estimarea acestui  indicator, se ia în considerare doar impactul bolilor diareice, infecțiilor cu  nematode intestinale și malnutriției cu proteine energetice. De asemenea  conform OMS, prin oferirea adecvată a serviciilor WASH  în plus față de  diaree, ar putea fi prevenite următoarele boli: malnutriția, infecțiile cu  nematode intestinale, filariaaă limfatică, trahomul, schistosomiaza și  malaria.
+UNIT_MEASURE: >-
+  100 mii populație
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Date statistice privind mortalitatea populației pe cauze de deces -  ANSP</p> 
+  <p>  2) Date statistice cu privire la populației - BNS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
+  <p>  2) Biroul Național de  Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul cazurilor de deces cauzate de sursele nesigure de apă, sanitație și  igienă într-un an,  raportat la numărul populației *100000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Sănătate Publică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

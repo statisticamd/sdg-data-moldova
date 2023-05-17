@@ -1,0 +1,78 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.9.1: Mortality rate attributed to household and ambient air pollution</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.9: By 2030, substantially reduce the number of deaths and illnesses from  hazardous chemicals and air, water and soil pollution and contamination</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  3.9
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 216 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.9.1: Mortality rate attributed to household and ambient air pollution per  100,000 population</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Air pollution is one of the highest risks for health. According to WHO data,  the combined effects of ambient air pollution (of air in indoor and outdoor  households area) determines over 7 million premature deaths on annual basis.  The majority of deaths occur as a cause of strokes, heart diseases, chronic  obstructive lung diseases, lung cancer and acute respiratory diseases. The  biggest burden is supported by populations of countries with small and medium  revenues.
+UNIT_MEASURE: >-
+  Per 100 000 population
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistical data on population mortality by causes of death - National  Agency for Public Health</p> 
+  <p>  2) Statistical data on population - National  Bureau of Statistics </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.National Agency for Public Health</p> 
+  <p>  2.National Bureau of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Labour and Social Protection
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Number of deaths attributed to the common effects of household and ambient air  pollution during one year out of the total population *100.000.</p> 
+  <p>  To  calculate the indicator, the following diseases are considered: acute  respiratory infections (estimated for all ages); cerebrovascular diseases in  adults (estimated in persons over 25 years old); ischaemic heart diseases in  adults (estimated in persons over 25 years old); chronic obstructive lung  diseases in adults (estimated in persons over 25 years old); and lung cancer  in adults (estimated in persons over 25 years old). </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Agency for Public Health
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-
