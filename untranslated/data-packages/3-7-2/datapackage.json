@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Births at the age of 10-14 years old",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total births at the age of 10-14 years old",
+                "Urban, births at the age of 10-14 years old",
+                "Rural, births at the age of 10-14 years old",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

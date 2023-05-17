@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Policy areas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Migrant rights",
+                "Integrated government/data-driven policies",
+                "Cooperation and partnerships",
+                "Socio-economic well-being",
+                "Mobility dimensions in crises",
+                "Safe, orderly and regular migration ",
+                ""
+              ]
+            },
+            "title": "Policy areas"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-7-2-1",
+  "title": "global_indicators.10-7-2-1-title"
+}
