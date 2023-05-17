@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
-computation_units: Score
+computation_units: Per 100 000 population
 copyright: ''
 data_footnote: ''
-data_non_statistical: true
+data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 5.1.1 Existence of legal framework to promote, enforce and monitor equality  and non‑discrimination on the basis of sex
+graph_title: 3.3.1.1 HIV associated deaths per 100 000 population
 graph_titles: []
 graph_type: line
-indicator_available: nce of legal framework to promote, enforce and monitor equality and  non‑discrimination on the basis of sex
-indicator_name: global_indicators.5-1-1-title
-indicator_number: 5.1.1
+indicator_available: HIV associated deaths per 100 000 population
+indicator_name: global_indicators.3-3-1-1-title
+indicator_number: 3.3.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''

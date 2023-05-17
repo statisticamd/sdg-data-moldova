@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.d.1: International Health Regulations (IHR) capacity and health emergency  preparedness</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.d: Strengthen the capacity of all countries, in particular developing countries,  for early warning, risk reduction and management of national and global health  risks</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  WHO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Ensuring healthy living and promoting well-being for all at all ages
+SDG_GOAL: ''
+target_id: >-
+  3.d
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-0D-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 865kB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.d.1: Health Sector Capacity Index ((1) national legislation, policies and  funding; (2) coordination and liaison with national focal points; (3)  surveillance; (4) response; (5) preparedness; (6) risk communication; (7)  human resources; (8) laboratory; (9) entry points; (10) zoonotic events; (11)  food safety; (12) chemical events; (13) radionuclear emergencies)Indicators after 2021 - legislation, national policies; coordination and liaison with national focal points; Financing; the laboratory; supervision; human resources; preparedness and response; providing medical assistance; infection prevention and control; risk communication; entry points; zoonotic events; food safety; chemical events; radionuclear emergencies</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Data are collected based on a questionnaire. Percentage of attributes of 13  core capacities that have been attained at a specific point in time. The 13  core capacities are: (1) Legislation and financing; (2) IHR Coordination and  National Focal Point Functions; (3) Zoonotic events and the Human-Animal  Health Interface; (4) Food safety; (5) Laboratory; (6) Surveillance; (7) Human  resources; (8) National Health Emergency Framework; (9) Health Service  Provision; (10) Risk communication; (11) Points of entry; (12) Chemical  events; (13) Radiation emergencies.</p> 
+  <p>Since 2021 a new SPAR toolkit was  applied ( [IHR State Party Self-Assessment Annual Reporting tool  (SPAR)](https://extranet.who.int/sph/spar)  ) </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Questionnaire on key information  - WHO (Electronic State Parties Self-Assessment Annual Reporting Tool (e-SPAR))</p> 
+  <p>2) administrative data -  National Agency for Public Health </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Agency for Public Health
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1.World Health Organization</p> 
+  <p>2.Ministry of Health </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of “yes” answers for questions at levels 1 and 2 out of the total  number of answers to questions for levels 1 and 2, per basic capacity.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  World Health Organization
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://extranet.who.int/e-spar
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

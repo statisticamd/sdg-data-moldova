@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.2.1.3: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 15.2: By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substanțially increase afforestation and reforestation globally</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agriculture Organisation of the United Nations (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  15.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 756 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 15.2.1.3: Area of extended forest</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Forest -  an element of geographic landscape, functional unit of biosphere,  composed of forest vegetation community (in which trees and brushes prevail),  living layers, animals and microorganisms, which are interdependent in their  biological development and have an influence on their habitat. Areas of at  least 0.25 ha covered with trees, with the index of tree crown coverage as  compared to the general surface of the land (consistence) lower than 30%, and  with mature trees that in normal vegetation conditions can get up to minimum  heights of 5 m are considered forests</p> 
+  <p>  Forest regeneration - process of  recovery/redressing the forestry vegetation on an empty field. Reforestation -  recovery of forestry vegetation on deforested fields through cuts or other  factors (fires, wind broking and crashes, dewatering outbreaks, etc.). </p>
+UNIT_MEASURE: >-
+  Hectares
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Agency „Moldsilva” surveys
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agency „Moldsilva”
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of the Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The national indicator is complementary to the global one
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agency „Moldsilva”
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Serghei Tonofrei, Deputy head of Forest fund, protected areas and forest regeneration Division, tel. 022-274-224, 060395349, e-mail: serghei.tonofrei@moldsilva.gov.md
+source_other_info_1: >-

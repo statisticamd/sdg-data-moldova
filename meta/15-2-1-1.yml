@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.2.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 15.2: By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substanțially increase afforestation and reforestation globally</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agriculture Organisation of the United Nations (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  15.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 756 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 15.2.1.1: Area of degraded land recovered through reforestation</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Degraded land –  land fields, regardless of their ownership right, which  through erosion, pollution or destructive actions of some anthropogenic  factors, have lost for good their agricultural production capacity, but which  may be improved by reforestation and works for ecosystems' recovery, for the  purpose of protecting the soil, recovering the hydrological balance and  improving the environmental conditions. The degraded areas may be part within  the land cadastre of the following categories: agricultural fields, other  fields (clough, landslides, etc.), water, etc. The degraded land  includes:</p> 
+  <p>  a) fields with very severe and excessive surface erosion;</p> 
+  <p>   b) fields with depth erosion – clough, trenches;</p> 
+  <p>  c) fields affected by  active landslides, crashes and cave-ins;</p> 
+  <p>  d) sandy fields subject to wind  or water erosion;</p> 
+  <p>  e) salty fields;</p> 
+  <p>  f) fields polluted with chemical  or oil substances;</p> 
+  <p>  g) fields covered by open quarry, with mining  tailings, with production waste or domestic waste, etc.;</p> 
+  <p>  h) affected or  destroyed biota fields;</p> 
+  <p>  i) fields with gravel, scree, rocks, torrential  alluvial deposits;</p> 
+  <p>  j) non-productive fields </p>
+UNIT_MEASURE: >-
+  Hectares
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Agency „Moldsilva” surveys
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agency „Moldsilva”
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of the Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Area of degraded land recovered through reforestation at the end of the  reporting year
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The national indicator is complementary to the global indicator
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agency „Moldsilva”
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Serghei Tonofrei, Deputy head of Forest fund, protected areas and forest regeneration Division, tel. 022-274-224, 060395349, e-mail: serghei.tonofrei@moldsilva.gov.md
+source_other_info_1: >-

@@ -1,0 +1,75 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diabetes or  chronic respiratory disease</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.4: By 2030, reduce by one third premature mortality from non-communicable  diseases through prevention and treatment and promote mental health and  well-being</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Probability of dying between the ages of 30 and 70 years from cardiovascular  diseases, cancer, diabetes or chronic respiratory diseases, defined as the per  cent of 30-year-old-people who would die before their 70th birthday from  cardiovascular disease, cancer, diabetes, or chronic respiratory disease,  assuming that s/he would experience current mortality rates at every age and  s/he would not die from any other cause of death.
+SDG_GOAL: ''
+target_id: >-
+  3.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 72.6 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diseases of  the digestive system, diabetes, diseases of the respiratory system among  persons between 30 to 70 years aged  per 100,000 population</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Per 100.000 population
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  1)National Agency for Public Health-Statistical data on mortality by causes of death according to the medical certificate of death                                                                                                                                                                                                                                                                                                                2) National Bureau of Statistics - number of usual resident population
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Medical institutions
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of deaths caused by cardiovascular disease, cancer, digestive system  diseases, diabetes or chronic respiratory disease in the year of reference  among the persons aged between 30-70 years old, out of the number of  population of the respective age *100.000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Agency for Public Health
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

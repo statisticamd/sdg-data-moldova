@@ -1,0 +1,75 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.4.1: Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.4: Până în 2030, reducerea cu o treime a mortalității premature cauzate de boli  netransmisibile prin prevenire, tratare și promovarea sănătății mintale și a  bunăstării</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Probabilitatea de a muri între 30 și 70 de ani din cauza bolilor cardiovasculare, cancer,  diabet sau boli respiratorii cronice,  definită ca procentul persoanelor de 30 de ani care ar muri înainte de împlinirea a 70 de ani din cauza bolilor cardiovasculare, cancerului,  diabetului  sau boală respiratorie cronică  presupunând că el/ea ar avea rate actuale de mortalitate la fiecare vârstă și nu ar muri din nicio altă cauză de deces.
+SDG_GOAL: ''
+target_id: >-
+  3.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 72.6 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.4.1: Rata mortalității prin boli cardiovasculare, cancer, boli ale  aparatului digestiv, diabet, boli ale aparatului respirator în rândul  persoanelor cu vârste cuprinse între 30 și 70 de ani, la 100.000 populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  la 100.000 populație
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului                                                                                   2) Biroul Național  de Statistică  - numărul populației cu reședință obișnuită
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Instituțiile medicale
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul cazurilor de deces prin boli cardiovasculare, cancer, boli ale  aparatului digestiv, diabet, boli ale aparatului respirator în anul de  referință rândul persoanelor în vârstă de 30-70 ani, raportat la numărul  populației de vârsta respectivă*100.000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Sănătate Publică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa date
+source_contact_1: >-
+source_other_info_1: >-
