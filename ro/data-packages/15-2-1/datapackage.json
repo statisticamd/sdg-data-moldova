@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Indicators on the progress of sustainable forest management",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual net rate of change of forest area,%",
+                "Proportion of forest area located in legally protected areas,%",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
+                "Above-ground biomass reserves in forests, thousands c.m.",
+                "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
+                ""
+              ]
+            },
+            "title": "Indicators on the progress of sustainable forest management"
           },
           {
             "name": "Value",

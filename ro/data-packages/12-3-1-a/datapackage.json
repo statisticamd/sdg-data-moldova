@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Food products",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vegetables and fruits, kg",
+                "Confectionery products, kg",
+                "Soft drinks, bottles",
+                "Dried fruits, kg",
+                "Vegetable oil, liters",
+                "Other products of non-animal origin, kg",
+                "Meat, kg",
+                "Meat by-products, kg",
+                ""
+              ]
+            },
+            "title": "Food products"
+          },
+          {
+            "name": "Animals",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pigs, heads",
+                "Birds, heads",
+                ""
+              ]
+            },
+            "title": "Animale"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-3-1-a",
+  "title": "global_indicators.12-3-1-a-title"
+}

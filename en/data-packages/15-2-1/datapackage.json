@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicators on the progress of sustainable forest management",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual net rate of change of forest area,%",
+                "Proportion of forest area located in legally protected areas,%",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
+                "Above-ground biomass reserves in forests, thousands c.m.",
+                "Forest area included in the forest management certification system, independently verified, thousands ha",
+                ""
+              ]
+            },
+            "title": "Indicators on the progress of sustainable forest management"
           },
           {
             "name": "Value",

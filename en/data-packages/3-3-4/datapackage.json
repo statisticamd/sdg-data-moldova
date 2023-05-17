@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 years and over, adults",
+                "0-17 years, children",
+                ""
+              ]
+            },
+            "title": "Age group"
           },
           {
             "name": "Value",

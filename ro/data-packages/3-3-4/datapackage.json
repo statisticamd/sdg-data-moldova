@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 ani și peste, adulți",
+                "0-17 ani, copii",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
