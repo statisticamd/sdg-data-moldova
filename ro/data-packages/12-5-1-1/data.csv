@@ -1,92 +1,92 @@
-Year,Regiuni,Value
-2010,,1860.3
-2010,Municipiul Chişinău,296.1
-2010,Nord,822.2
-2010,Centru,511.3
-2010,Sud,178.7
-2010,UTA Găgăuzia,52.0
-2010,kg/person,
-2011,,1845.3
-2011,Municipiul Chişinău,333.0
-2011,Nord,742.8
-2011,Centru,515.2
-2011,Sud,191.1
-2011,UTA Găgăuzia,63.2
-2011,kg/person,
-2012,,2430.0
-2012,Municipiul Chişinău,243.5
-2012,Nord,773.2
-2012,Centru,509.7
-2012,Sud,837.6
-2012,UTA Găgăuzia,66.0
-2012,kg/person,
-2013,,2511.7
-2013,Municipiul Chişinău,317.5
-2013,Nord,731.2
-2013,Centru,580.4
-2013,Sud,853.4
-2013,UTA Găgăuzia,29.2
-2013,kg/person,
-2014,,1831.0
-2014,Municipiul Chişinău,267.3
-2014,Nord,803.9
-2014,Centru,538.3
-2014,Sud,189.9
-2014,UTA Găgăuzia,31.6
-2014,kg/person,640.9
-2015,,3981.2
-2015,Municipiul Chişinău,282.9
-2015,Nord,2487.3
-2015,Centru,921.4
-2015,Sud,180.4
-2015,UTA Găgăuzia,109.2
-2015,kg/person,1404.5
-2016,,1609.5
-2016,Municipiul Chişinău,241.3
-2016,Nord,735.6
-2016,Centru,437.4
-2016,Sud,162.5
-2016,UTA Găgăuzia,32.7
-2016,kg/person,574.4
-2017,,1605.2
-2017,Municipiul Chişinău,131.9
-2017,Nord,560.8
-2017,Centru,708.8
-2017,Sud,169.4
-2017,UTA Găgăuzia,34.3
-2017,kg/person,582.6
-2018,,1597.3
-2018,Municipiul Chişinău,166.9
-2018,Nord,625.9
-2018,Centru,565.3
-2018,Sud,156.7
-2018,UTA Găgăuzia,82.5
-2018,kg/person,590.0
-2019,,1222.0
-2019,Municipiul Chişinău,104.0
-2019,Nord,525.5
-2019,Centru,397.0
-2019,Sud,118.5
-2019,UTA Găgăuzia,77.0
-2019,kg/person,458.7
-2020,,1072.8
-2020,Municipiul Chişinău,111.4
-2020,Nord,
-2020,Centru,
-2020,Sud,
-2020,UTA Găgăuzia,
-2020,kg/person,407.1
-2021,,1130.0
-2021,Municipiul Chişinău,149.4
-2021,Nord,
-2021,Centru,
-2021,Sud,
-2021,UTA Găgăuzia,
-2021,kg/person,432.1
-2022,,
-2022,Municipiul Chişinău,
-2022,Nord,
-2022,Centru,
-2022,Sud,
-2022,UTA Găgăuzia,
-2022,kg/person,
+Year,Regiuni,kg/person,Value
+2010,,,1860.3
+2010,Municipiul Chişinău,,296.1
+2010,Nord,,822.2
+2010,Centru,,511.3
+2010,Sud,,178.7
+2010,UTA Găgăuzia,,52.0
+2010,,kg/person,
+2011,,,1845.3
+2011,Municipiul Chişinău,,333.0
+2011,Nord,,742.8
+2011,Centru,,515.2
+2011,Sud,,191.1
+2011,UTA Găgăuzia,,63.2
+2011,,kg/person,
+2012,,,2430.0
+2012,Municipiul Chişinău,,243.5
+2012,Nord,,773.2
+2012,Centru,,509.7
+2012,Sud,,837.6
+2012,UTA Găgăuzia,,66.0
+2012,,kg/person,
+2013,,,2511.7
+2013,Municipiul Chişinău,,317.5
+2013,Nord,,731.2
+2013,Centru,,580.4
+2013,Sud,,853.4
+2013,UTA Găgăuzia,,29.2
+2013,,kg/person,
+2014,,,1831.0
+2014,Municipiul Chişinău,,267.3
+2014,Nord,,803.9
+2014,Centru,,538.3
+2014,Sud,,189.9
+2014,UTA Găgăuzia,,31.6
+2014,,kg/person,640.9
+2015,,,3981.2
+2015,Municipiul Chişinău,,282.9
+2015,Nord,,2487.3
+2015,Centru,,921.4
+2015,Sud,,180.4
+2015,UTA Găgăuzia,,109.2
+2015,,kg/person,1404.5
+2016,,,1609.5
+2016,Municipiul Chişinău,,241.3
+2016,Nord,,735.6
+2016,Centru,,437.4
+2016,Sud,,162.5
+2016,UTA Găgăuzia,,32.7
+2016,,kg/person,574.4
+2017,,,1605.2
+2017,Municipiul Chişinău,,131.9
+2017,Nord,,560.8
+2017,Centru,,708.8
+2017,Sud,,169.4
+2017,UTA Găgăuzia,,34.3
+2017,,kg/person,582.6
+2018,,,1597.3
+2018,Municipiul Chişinău,,166.9
+2018,Nord,,625.9
+2018,Centru,,565.3
+2018,Sud,,156.7
+2018,UTA Găgăuzia,,82.5
+2018,,kg/person,590.0
+2019,,,1222.0
+2019,Municipiul Chişinău,,104.0
+2019,Nord,,525.5
+2019,Centru,,397.0
+2019,Sud,,118.5
+2019,UTA Găgăuzia,,77.0
+2019,,kg/person,458.7
+2020,,,1072.8
+2020,Municipiul Chişinău,,111.4
+2020,Nord,,
+2020,Centru,,
+2020,Sud,,
+2020,UTA Găgăuzia,,
+2020,,kg/person,407.1
+2021,,,1130.0
+2021,Municipiul Chişinău,,149.4
+2021,Nord,,
+2021,Centru,,
+2021,Sud,,
+2021,UTA Găgăuzia,,
+2021,,kg/person,432.1
+2022,,,
+2022,Municipiul Chişinău,,
+2022,Nord,,
+2022,Centru,,
+2022,Sud,,
+2022,UTA Găgăuzia,,
+2022,,kg/person,

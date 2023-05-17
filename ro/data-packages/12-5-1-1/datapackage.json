@@ -25,11 +25,21 @@
                 "Centru",
                 "Sud",
                 "UTA Găgăuzia",
-                "kg/person",
                 ""
               ]
             },
             "title": "Regiuni"
+          },
+          {
+            "name": "kg/person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg/person",
+                ""
+              ]
+            },
+            "title": "kg/person"
           },
           {
             "name": "Value",

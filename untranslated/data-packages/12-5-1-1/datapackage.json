@@ -24,6 +24,15 @@
                 "Center",
                 "South",
                 "ATU Găgăuzia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "kg/person",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "kg/person",
                 ""
               ]

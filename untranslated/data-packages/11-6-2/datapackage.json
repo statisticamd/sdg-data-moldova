@@ -12,7 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "City",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chisinau",
+                "Leova",
+                "Balti",
+                "Tiraspol",
+                "Bender",
+                "Rabnita",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

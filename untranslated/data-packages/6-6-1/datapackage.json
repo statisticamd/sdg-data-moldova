@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cl. I",
+                "Cl. II",
+                "Cl. III",
+                "Cl. IV",
+                "Cl. V",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "The quantity of groundwater in aquifers, thousand m3/24 h ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The quantity of groundwater in aquifers, thousand m3/24 h ",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "first-level local government authorities ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "first-level local government authorities ",
+                ""
+              ]
+            },
+            "title": "first-level local government authorities "
+          },
+          {
+            "name": "second tier local government authorities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "second tier local government authorities",
+                ""
+              ]
+            },
+            "title": "second tier local government authorities"
           },
           {
             "name": "Value",

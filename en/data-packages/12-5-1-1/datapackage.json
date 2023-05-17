@@ -25,11 +25,21 @@
                 "Center",
                 "South",
                 "ATU Găgăuzia",
-                "kg/person",
                 ""
               ]
             },
             "title": "Regions"
+          },
+          {
+            "name": "kg/person",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg/person",
+                ""
+              ]
+            },
+            "title": "kg/person"
           },
           {
             "name": "Value",

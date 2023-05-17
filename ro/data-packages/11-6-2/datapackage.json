@@ -7,13 +7,29 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "City",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chisinau",
+                "Leova",
+                "Balti",
+                "Tiraspol",
+                "Bender",
+                "Rabnita",
+                ""
+              ]
+            },
+            "title": "Orașe"
           },
           {
             "name": "Value",

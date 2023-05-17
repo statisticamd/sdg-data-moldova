@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Subnational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "first-level local government authorities ",
+                "second-level local government authorities",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Municipiul Chişinău",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
+                ""
+              ]
+            },
+            "title": "Regiuni"
           },
           {
             "name": "Value",

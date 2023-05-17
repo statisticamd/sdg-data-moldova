@@ -23,9 +23,11 @@ Capabilities of the health sector,1,17
 Children up to 18 years old,1,3
 Children's rights,1,1
 Citizenship,1,3
+City,1,6
 Classes of disasters,6,4
 Coal,1,4
 Context/reason,1,6
+Conventions,1,5
 Countries of destination,1,13
 Criteria of discrimination,1,20
 Disability (neglected),1,1
@@ -62,6 +64,7 @@ Home heating systems - urban,1,3
 Household type,2,2
 Indicators on the progress of sustainable forest management,1,5
 Institutions where have been made payments,2,22
+kg/person,1,1
 Legal basis,1,2
 Level of education of the head of the household,1,4
 Level of education,2,6
@@ -90,7 +93,7 @@ Proportion of ‘young’  registrars aged 44 and below / Proportion of the work
 "Quantity of emissions, total",1,1
 "Quintile I, by area of residence",2,3
 Quintiles on consumption expenditures,9,5
-Regions,3,9
+Regions,4,8
 "Reported on a person, by ingredients",1,6
 "Reported on a person, by sources",1,3
 Requested authority,1,6
@@ -104,11 +107,13 @@ Sexes,1,1
 Socioeconomic status,1,1
 Statistical regions,4,5
 Status,1,2
+Strategies,1,2
 Sub-indicators,2,8
 The existence of disability,1,2
 The field of activity related to the person who discriminated,1,2
 The quality of the person who discriminated,1,2
 The quality/function held by the natural person,1,3
+"The quantity of groundwater in aquifers, thousand m3/24 h ",1,1
 Thermal energy,1,4
 Tipuri SE,1,4
 Toxic waste by development regions,1,6
@@ -121,4 +126,5 @@ Types of crimes,1,8
 Types of critical infrastructure losses,1,1
 Types of energy,1,6
 Types of sources ,1,3
+"Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",1,5
 Wellbeing quintile,1,5
