@@ -16,21 +16,93 @@
             "title": "Anul"
           },
           {
-            "name": "Group",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by area",
                 "Urban",
                 "Rural",
                 ""
               ]
             },
-            "title": "Grupa"
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Age group 1 and Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14 / Total",
+                "15+ / Total",
+                "15+ / Bărbați",
+                "15+ / Femei",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă 1 și Sex"
+          },
+          {
+            "name": "Age group 2 and Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 / Total",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
+                "25+ / Total",
+                "25+ / Bărbați",
+                "25+ / Femei",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă 2 și Sex"
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Self-employers in agriculture",
+                "Employees in the agricultural sector",
+                "Employees in the non-agricultural sector",
+                "Self-employers in non-agricultural activities",
+                "Pensioners",
+                "Others",
+                ""
+              ]
+            },
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

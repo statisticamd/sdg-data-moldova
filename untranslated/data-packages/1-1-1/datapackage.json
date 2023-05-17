@@ -15,11 +15,10 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by area",
                 "Urban",
                 "Rural",
                 ""
@@ -27,8 +26,76 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group 1 and Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14 / Total",
+                "15+ / Total",
+                "15+ / Men",
+                "15+ / Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group 2 and Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 / Total",
+                "15-24 / Men",
+                "15-24 / Women",
+                "25+ / Total",
+                "25+ / Men",
+                "25+ / Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Employment status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Self-employers in agriculture",
+                "Employees in the agricultural sector",
+                "Employees in the non-agricultural sector",
+                "Self-employers in non-agricultural activities",
+                "Pensioners",
+                "Others",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
