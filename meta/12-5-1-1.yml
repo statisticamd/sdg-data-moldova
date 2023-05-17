@@ -37,9 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Until 2019 reports:</p> 
-  <p>- no. 1-toxic waste "Formation, use and neutralization of toxic waste";</p> 
-  <p>- no. 2-waste ""Formation, use of waste"".</p> 
+  <p> Until 2019 report no. 2-waste ""Formation, use of waste"".</p> 
   <p>From 2020 - reports of economic agents in SIA "Waste Management" </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -77,5 +75,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  Silvia Nelipovschi, Head of the Environmental Quality Monitoring Division, tel. 022 820 783, email: s_nelipovschi@am.gov.md
+  Silvia Nelipovschi, Head of the Environmental Quality Monitoring Division, Environment Agency, tel. 022 820 783, email: s_nelipovschi@am.gov.md
 source_other_info_1: >-
+  https://statistica.gov.md/ro/statistic_indicator_details/24

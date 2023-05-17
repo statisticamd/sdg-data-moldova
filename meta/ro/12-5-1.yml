@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 12.5.1.1: NA</p>
+  <p>Indicator 12.5.1: Rata națională de reciclare, tone de material reciclat</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 12.5: Până în 2030, reducerea substanțială a generării de deșeuri, prin prevenire,  reducere, reciclare și reutilizare</p>
+  <p>Target 12.5: Până în 2030, reducerea semnificativă a generării de deșeuri, prin prevenire,  reducere, reciclare și reutilizare</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Statistics Division (UNSD), UN Environment (UNEP)
@@ -15,9 +15,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 782kB)
+  Metadatele indicatorului global
 SDG_INDICATOR: >-
-  <p>Indicator 12.5.1.1: Volumul deșeurilor (de producție și consum) formate</p>
+  <p>Indicator 12.5.1: Ponderea deșeurilor (de producție și consum) reciclate din totalul  celor formate</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,13 +31,13 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Formarea deșeurilor: generarea în procesul de activitate a oricărei substanţe  sau obiectului pe care deţinătorul îl aruncă sau are intenţia ori obligaţia să  îl arunce
+  Reciclarea (utilizarea): reintroducerea în circuitul economic a deșeurilor în   calitate de materie primă, secundară sau utilizarea lor după prelucrare în   calitate de semifabricate, produse finite sau energie.
 UNIT_MEASURE: >-
-  mii tone
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Până în a. 2019 rapoartele nr. 2-deșeuri "Formarea, utilizarea deșeurilor".</p> 
+  <p> Până în a. 2019 rapoartul nr. 2-deșeuri "Formarea, utilizarea deșeurilor".</p> 
   <p>Din anul 2020 - rapoartele agenților economici în SIA "Managementul deșeurilor" </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -52,6 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Cantitatea deșeurilor reciclate (utilizate) raportat la cantitatea deșeurilor formate x 100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,6 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Acesta nu include importul si exportul deșeurilor.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -73,7 +75,7 @@ source_periodicity_1: >-
 source_url_1: >-
   https://www.am.gov.md/ro/content/de%C8%99euri
 source_url_text_1: >-
-  Link la sursa de date
+  Linkla sursa de date
 source_contact_1: >-
   Silvia Nelipovschi, Șef Direcția Monitoringul Calității Mediului, Agenția de Mediu, tel. 022 820 783, email: s_nelipovschi@am.gov.md
 source_other_info_1: >-

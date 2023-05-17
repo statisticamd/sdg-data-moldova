@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 6.6.1 Surface change dynamics of water-related ecosystems (indicators on the spatial extent of water-related ecosystems, water quality of lakes and artificial water bodies, the amount (discharge) of water in rivers and estuaries, the quality of water-related ecosystems, the amount of groundwater in aquifers)
+graph_title: 13.3.2.1 Level of implementation of the national strategic framework on  climate change
 graph_titles: []
 graph_type: line
-indicator_available: Surface change dynamics of water-related ecosystems (indicators on the spatial extent of water-related ecosystems, water quality of lakes and artificial water bodies, the amount (discharge) of water in rivers and estuaries, the quality of water-related ecosystems, the amount of groundwater in aquifers)
-indicator_name: global_indicators.6-6-1-title
-indicator_number: 6.6.1
+indicator_available: Level of implementation of the national strategic framework on climate change
+indicator_name: global_indicators.13-3-1-2-title
+indicator_number: 13.3.1.2
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
 placeholder: ''

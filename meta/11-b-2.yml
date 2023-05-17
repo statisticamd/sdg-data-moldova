@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.b.2: Proportion of local governments that adopt and implement local disaster risk  reduction strategies in line with national disaster risk reduction strategies</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.b: By 2020, substantially increase the number of cities and human settlements  adopting and implementing integrated policies and plans towards inclusion,  resource efficiency, mitigation and adaptation to climate change, resilience  to disasters, and develop and implement, in line with the Sendai Framework for  Disaster Risk Reduction 2015-2030, holistic disaster risk management at all  levels</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNDRR
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.b.2: Share of local public authorities adopting and implementing local  strategies to reduce the risks of exceptional situations in line with national  strategies to reduce the risks of exceptional situations (same as  1.5.4/13.1.3)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Local public authorities are considered to be the public sub-national  administrations, which have the responsibility to develop the local strategy  for disaster risk reduction.</p> 
+  <p>  As the Sendai Framework promotes the  adoption and implementation of local DRR strategies in every local authority,  the national indicator will consider the LPA of the II level (rayon) and I  level (commune) </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Administrative data of the LPA of level II and I
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.Local Public Authorities of level II and level I</p> 
+  <p>2.Ministry of Environment/State Hydrometeorological Service </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of local public authorities which approve and implement local DRR  strategies in line with the national DRR strategy / total number of local  administrations in the country *100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Environment/State Hydrometeorological Service
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Mihail Grigoraș, Deputy Director, State Hidrometeorological Service, tel. 022-77-35-00, e-mail. mihail.grigoras@meteo.gov.md
+source_other_info_1: >-

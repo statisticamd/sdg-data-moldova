@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 12.5.1.1: NA</p>
+  <p>Indicator 12.5.1: National recycling rate, tons of material recycled</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 12.5: Până în 2030, reducerea substanțială a generării de deșeuri, prin prevenire,  reducere, reciclare și reutilizare</p>
+  <p>Target 12.5: By 2030, substantially reduce waste generation through prevention, reduction,  recycling and reuse</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Statistics Division (UNSD), UN Environment (UNEP)
@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 782kB)
 SDG_INDICATOR: >-
-  <p>Indicator 12.5.1.1: Volumul deșeurilor (de producție și consum) formate</p>
+  <p>Indicator 12.5.1: Proportion of recycled (production and consumption) waste out of total  generated waste</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,27 +31,28 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Formarea deșeurilor: generarea în procesul de activitate a oricărei substanţe  sau obiectului pe care deţinătorul îl aruncă sau are intenţia ori obligaţia să  îl arunce
+  Recycling (use): reintroduction in the economic circuit of waste as raw   material, secondary material and their use after being processed as semi-manufactured, end products or energy.
 UNIT_MEASURE: >-
-  mii tone
+  Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Până în a. 2019 rapoartele nr. 2-deșeuri "Formarea, utilizarea deșeurilor".</p> 
-  <p>Din anul 2020 - rapoartele agenților economici în SIA "Managementul deșeurilor" </p>
+  <p> Until 2019 report no. 2-waste ""Formation, use of waste"".</p> 
+  <p>From 2020 - reports of economic agents in SIA "Waste Management" </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Până în a. 2019 - Inspectoratul pentru Protecția Mediului;</p> 
-  <p>Din a. 2020 - Agenția de Mediu </p>
+  <p> Until 2019 - Environmental Protection Inspectorate;</p> 
+  <p>From 2020 - Environment Agency </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Mediului
+  Ministry of Environment
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Amount of recycled (used) waste devided by the Amount of generated waste x 100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,6 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  It does not include import and export of waste.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -66,15 +68,15 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> Până în a. 2019 - Inspectoratul pentru Protecția Mediului în comun cu Biroul Național de Statistică;</p> 
-  <p>Din a. 2020 - Agenția de Mediu </p>
+  <p> Until 2019 - the Environmental Protection Inspectorate jointly with the National Bureau of Statistics;</p> 
+  <p>From 2020 - Environment Agency </p>
 source_periodicity_1: >-
-  Anual
+  Annual
 source_url_1: >-
   https://www.am.gov.md/ro/content/de%C8%99euri
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
-  Silvia Nelipovschi, Șef Direcția Monitoringul Calității Mediului, Agenția de Mediu, tel. 022 820 783, email: s_nelipovschi@am.gov.md
+  Silvia Nelipovschi, Head of the Environmental Quality Monitoring Division, Environment Agency, tel. 022 820 783, email: s_nelipovschi@am.gov.md
 source_other_info_1: >-
   https://statistica.gov.md/ro/statistic_indicator_details/24

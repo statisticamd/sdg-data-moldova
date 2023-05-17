@@ -1,0 +1,97 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 12.4.1: Number of parties to international multilateral environmental agreements on  hazardous waste, and other chemicals that meet their commitments and  obligations in transmitting information as required by each relevant agreement</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 12.4: By 2020, achieve the environmentally sound management of chemicals and all  wastes throughout their life cycle, in accordance with agreed international  frameworks, and significantly reduce their release to air, water and soil in  order to minimize their adverse impacts on human health and the environment</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNEP
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  12.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-12-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 782kB)
+SDG_INDICATOR: >-
+  <p>Indicator 12.4.1: Level of adherence to reporting duties related to international  agreements/commitments signed by the Republic of Moldova regarding hazardous chemical  substances and waste  (number of reports submitted to the convention address  versus number of reports required)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicator refers to the level of commitment/implementation by the countries of  the following Multilateral Environmental Agreements such as:</p> 
+  <p>  1. Basel  Convention on the Control of Transboundary Movements of Hazardous Wastes and  their Disposal (Moldova became part on the 2.07.1998, PD 1599-XIII/1998);</p> 
+  <p>   2. Rotterdam Convention on the Prior Informed Consent Procedure for Certain  Hazardous Chemicals and Pesticides in International Trade (Moldova became part  on  25.11. 2004 via Law No. 389-XV);</p> 
+  <p>  3. Stockholm Convention on  Persistent Organic Pollutants (ratified via Law No. 40-XV of 19.02.2004);</p> 
+  <p>   4. Montreal Protocol on Substances that Deplete the Ozone Layer (ratified via  Law no. 119/2006); </p> 
+  <p>  5.Minamata Convention on Mercury (ratified via Law  no. 51/2017)</p> 
+  <p>  This indicator will be additionally reviewed after  finalizing the global metadata </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. Administrative data</p> 
+  <p>2. National reports of focal points</p> 
+  <p>3. Ministry of Environment </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministry of Environment
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The indicator is calculated based on the information sent by all national  Focal Points to the secretariats for Multilateral Environmental Agreements,  per each agreement. The information requested for producing the indicator is  the following:</p> 
+  <p>  1. Basel Convention: 1. appointing the focal point and one  or more competent authorities (1 point); 2. submission of national annual  reports (1 point per each report).</p> 
+  <p>  2. Rotterdam Convention: 1. appointing  the national competent authority and the focal point (1 point); 2. submission  of answers regarding the imports during the reported period  (0.2 points per  each import answer)</p> 
+  <p>  3. Stockholm Convention: 1. appointing the official  contact point for Stockholm Convention and the national focal point (1 point);  2. submission of the national implementation plan (1 point); 3. submission of  the national review plan (plans) regarding the changes adopted by the  Conference parties during the reported period (1 point per reviewed and  updated plan);</p> 
+  <p>  4. Montreal Protocol: 1. observing the reporting  requirements for production and consumption of substances which deplete the  ozone layer in line with (article 7) Montreal Protocol (15 points); 2. Sending  information regarding the licencing systems based on article 4B of the  Montreal Protocol (5 points).</p> 
+  <p>  5. Minamoto Convention: 1. appointing the  national focal point (article 17) (5 points); 2. submission of the national  report (article 21) (15  points).                                                       </p> 
+  <p> </p> 
+  <p>  Transmission rate = (acs+bcs+ccs+ecs+dcs +ecs) out of the number of  conventions X100 </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  UN Environment Programme (UNEP)
+source_periodicity_1: >-
+  Once every 5 years
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  <p> Svetlana Bolocan, Head of Waste and Chemicals Management Policy Division, Ministry of Environment, tel. 022-204-575, e-mail: svetlana.bolocan@mediu.gov.md</p> 
+  <p>Stela Drucioc, Head of Air Policy and Climate Change Division, Ministry of Environment, tel.  022-204-580, e-mail: stela.drucioc@mediu.gov.md </p>
+source_other_info_1: >-
+  <p> http://www.basel.int/</p> 
+  <p>http://www.pic.int/</p> 
+  <p>http://chm.pops.int/ </p> 
+  <p>https://mercuryconvention.org/sites/default/files/documents/national_report/Report_MDA_2019.pdf https://mercuryconvention.org/en/parties/focal-points </p> 
+  <p>http://www.pops.int/Countries/CountryContacts/tabid/304/Default.aspx </p>
