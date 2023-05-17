@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.3.2: Proportion of cities with a direct participation structure of civil society in  urban planning and management that operate regularly and democratically</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.3: By 2030, enhance inclusive and sustainable urbanization and capacity for  participatory, integrated and sustainable human settlement planning and  management in all countries</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UN-Habitat
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.3.2: Proportion of cities with a direct participation structure of civil  society in urban planning and management that operate regularly and  democratically</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  United Nations Human Settlement Programme (UN HABITAT)
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Agriculture, Regional Development and Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> To measure the existence of direct participation of civil society structures  in urban planning and management at the city level, a score-based approach  will be used to assess the available structures for participation of civil  society in urban management and planning, which will be assessed by five (5)  local experts from the government, academia, civil society and international  organizations. Identification and selection of these 5 experts/evaluators will  be guided by local teams of urban observers available in a number of cities.  During the pilot exercises, these urban observers, as local holders of urban  data at the city level, are able to coordinate the evaluations and to verify  the consequences and relevant local references, guiding the decisions and the  scores of the evaluators.</p> 
+  <p>  To measure and test the existence of some  structures of participation of civil society in urban governance and  management, the Likert questionnaire will be used with a scale of 4 points (do  not agree at all, do not agree, agree, and fully agree). These structures will  be reviewed via four basic elements which were assessed within pilot  exercises, as follows:</p> 
+  <p>  1. Are there structures for civil society to  participate in urban planning, including designs and agreements, in a direct,  regular and democratic way?</p> 
+  <p>  2. Are there structures for civil society to  participate in decision-making about local urban budget in a direct, regular  and democratic way?</p> 
+  <p>  3. Are there structures for civil society assessment  and reaction regarding urban management performance, which would be in a  direct, regular and democratic way?</p> 
+  <p>  4. Are these structures promoting  participation of women, men and young people and/or other marginalized  groups?</p> 
+  <p>  Once all the above elements are assessed by one single evaluator,  the unique total average score of the evaluator is calculated. Afterwards the  different scores of the evaluators are compiled for calculating the final  score for every city.</p> 
+  <p>  To determine the proportion of cities with a  structure of direct participation of civil society in urban planning and  management which functions regularly and democratically, an average point will  be used on the Likert scale of 2.5. The value of the indicator is the  proportion of the cities with a general score which is higher than the average  point.</p> 
+  <p>  As a result, if we have N cities selected for assessment in a  certain country and n is the number of cities with scores which are higher  than the average point, the value of the indicator will be calculated as  follows:</p> 
+  <p>  Value of indicator = (N/n)*100 </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  <p> 1.Ministry of Agriculture, Regional Development and Environment </p> 
+  <p>  2.United  Nations Human Settlement Programme (UN HABITAT) </p>
+source_periodicity_1: >-
+  Once every 3/4 years
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

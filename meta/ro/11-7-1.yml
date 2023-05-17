@@ -1,0 +1,86 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.7.1: Ponderea medie a suprafeței construite a orașelor care este deschisă  utilizării publice pentru toți, pe sexe, vârstă și persoane cu dizabilități</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.7: Până în 2030, asigurarea accesului universal la spații verzi și publice  sigure, incluzive și accesibile, în special pentru femei și copii, persoane în  etate și cele cu dizabilități</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Human Settlements Programme (UN-Habitat)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.7.1: Ponderea medie a suprafeței construite a orașelor care reprezintă  spațiu deschis cu acces public pentru toți</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Zona construită este definită ca zona ocupată de clădiri și de alte  construcții.</p> 
+  <p>  Spațiul urbanizat deschis se referă în principal la zone  neamenajate, inclusiv zone deschise, păduri, terenuri de cultură, parcuri,  zone urbane neamenajate, terenuri ecologice.</p> 
+  <p>  Spații publice se vor  considera toate locurile care sunt deținute în mod public sau de uz public,  accesibile și plăcute de către toți, gratuit și fără profit, clasificate în  străzi, spații deschise și facilități publice. Spații publice deschise includ:  parcuri, zone de agrement (inclusiv locurile de joacă, râurile, fâșiile de  apă, plajele publice etc.), grădini publice, piețe/bulevarde și scuaruri.</p> 
+  <p>   Baza legală: Legea nr. 29 (5.04.18) privind delimitarea proprietății publice,  Regulamentul privind modul de delimitare a bunurilor imobile proprietate  publice (HG nr.63 (11.02.19)). </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Pentru suprafețe construite - cercetări spațiale în baza imaginilor de satelit  (pe anumite straturi) și tehnologiilor GIS;</p> 
+  <p>  Pentru spații publice  deschise - inventarieri în baza documentele legale care includ/reglementează  terenurile proprietate publică și planurile de utilizare a terenurilor </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Servicii Publice
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Dezvoltării Economice și Digitalizării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Suprafața construită a orașelor care este deschisă utilizării publice =   Suprafața totală a spațiului public deschis + Suprafața totală a terenurilor  alocate străzilor / Suprafața totală a zonelor construite ale localităților  urbane * 100. </p> 
+  <p>  Metoda de estimare a suprafeței spațiului public se  bazează pe trei etape: </p> 
+  <p>  a) analiza spațială pentru a delimita zona  construită a orașelor - se vor delimita zonele construite ale  aglomerării/localității urbane și se va calcula suprafața lor totală  (kilometri pătrați). Se vor genera hărți de utilizare a terenurilor, face  inventarieri prin lucrări pe teren pentru a fi identificate spațiile publice,  </p> 
+  <p>  b) estimarea suprafeței toale a spațiului public deschis - se vor mapa  și calcula suprafețele totale ale spațiului public deschis în limitele urbane  definite pe baza zonelor construite le orașelor. Inventarul spațiilor publice  deschise va fi digitalizat și vectorizat folosind software-ul GIS pentru a  permite calcularea suprafețelor. Suprafața totală a spațiilor publice deschise  se va raporta la suprafața totală  construită a orașelor pentru a obține  proporția spațiilor deschise alocate publicului,</p> 
+  <p>  c) estimarea suprafeței  totale alocate străzilor,</p> 
+  <p>  Terenurile aferente rețelelor de străzi din  intravilanul localității, hotarul se determină ca un bun imobil integru,  pentru fiecare stradă în parte (identificată prin denumirea străzii), în  limitele unui sector cadastral. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Indicatorul național este descris per general conform metadatelor  indicatorului global.</p> 
+  <p>  Se va reveni la definirea indicatorului național  după definitivarea procesului de delimitare a terenurilor proprietate publică  în terenuri proprietate publică a statului și terenuri proprietate publică a  unităților administrativ-teritoriale, inclusiv în terenuri din domeniul public  sau din cel privat. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Agenția Servicii Publice
+source_periodicity_1: >-
+  O dată la câțiva (3/10) ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

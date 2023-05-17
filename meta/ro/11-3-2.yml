@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.3.2: Proporția orașelor în care structurile funcționează în mod regulat și pe o  bază democratică, asigurând participarea directă a societății civile la  planificarea urbană și managementul urban</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.3: Până în 2030, consolidarea urbanizării incluzive și durabile și a capacității  pentru planificarea și gestionarea participativă, integrată și durabilă a  așezărilor umane în toate țările</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UN-Habitat
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.3.2: Proporția orașelor în care structurile funcționează în mod regulat și  pe o bază democratică, asigurând participarea directă a societății civile la  planificarea urbană și managementul urban</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Programul ONU pentru Așezări Umane (UN HABITAT)
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Agriculturii, Dezvoltării Regionale și Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Pentru a măsura existența participării directe a structurilor societății  civile în planificarea urbană și managementul la nivel de oraș, se va utiliza  o abordare bazată pe scor pentru evaluarea structurilor disponibile pentru  participarea societății civile la planificarea și managementul urban, care va  fi evaluată de cinci (5) experți locali din cadrul guvernului, mediul  academic, societate civilă și organizații internaționale. Identificarea și  selectarea acestor 5 experți locali/evaluatori va fi ghidată de echipe locale  de observatori urbane disponibile în multe orașe. În exercițiile-pilot, aceste  observatorii urbane, ca deținători locali ai datelor urbane la nivel de oraș,  sunt capabili să coordoneze evaluările și să verifice consecvențele și  referințele locale relevante care ghidează deciziile și scorurile  evaluatorilor.</p> 
+  <p>  Pentru a măsura și testa existența unor structuri de  participare a societății civile la guvernarea și managementul urban, va fi  utilizat un chestionar Likert cu scală de 4 puncte (nu sunt total de acord, nu  sunt de acord, sunt de acord și sunt pe deplin de acord). Aceste structuri vor  fi examinate prin intermediul a patru elemente de bază care au fost evaluate  în cadrul exercițiilor pilot finalizate după cum urmează:</p> 
+  <p>  1. Există  structuri pentru participarea societății civile la planificarea urbană,  inclusiv proiectarea și acordurile, directe, regulate și democratice?</p> 
+  <p>  2.  Există structuri de participare a societății civile la luarea deciziilor  bugetului urban local, directe, regulate și democratice?</p> 
+  <p>  3. Există  structuri pentru evaluarea și reacția societății civile cu privire la  performanțele managementului urban, care sunt directe, regulate și  democratice?</p> 
+  <p>  4. Aceste structuri promovează participarea femeilor,  bărbaților și tinerilor și / sau a altor grupuri marginalizate?</p> 
+  <p>  Odată ce  fiecare dintre elementele menționate sunt evaluate de către un singur  evaluator, se calculează scorul mediu total unic al evaluatorului. Diversele  scoruri ale evaluatorilor sunt apoi compilate calculate pentru calcularea  scorul final pentru fiecare oraș.</p> 
+  <p>  Pentru a determina proporția de  orașelor  cu o structură de participare directă a societății civile la  planificarea și managementul urban care funcționează regulat și democratic, se  va utiliza un punct mediu pe scara Likert de 2,5. Valoarea indicatorului este  proporția orașelor cu scor general care este mai mare decât punctul  mediu.</p> 
+  <p>  În rezultat, dacă avem N orașe selectate pentru evaluare într-o  anumită țară și n este numărul de orașe cu scoruri mai mari decât punctul  mediu, valoarea indicatorului va fi calculată astfel:</p> 
+  <p>  Valoarea  indicatorului = (N/n)*100 </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Ministerul Agriculturii, Dezvoltării Regionale și Mediului </p> 
+  <p>  2)  Programul ONU pentru Așezări Umane (UN HABITAT) </p>
+source_periodicity_1: >-
+  O dată la 3/4 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

@@ -1,0 +1,86 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.3.1: Rata consumului de teren raportată la rata de creștere a populației</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.3: Până în 2030, consolidarea urbanizării incluzive și durabile și a capacității pentru planificarea și gestionarea participativă, integrată și durabilă a așezărilor umane în toate țările</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UN-Habitat
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.3.1: nsumului de teren raportată la rata de creștere a populației</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Indicatorul apreciază gradul de extindere teritorială a orașelor raportat la gradul de urbanizare. Acest indicator necesită definirea celor două componente: celor două componente ale  a 1) ratei consumului de teren și 2) a creșterii populației. Calcularea ratei de creștere a populației este mai simplă și mai ușor disponibilă, în timp ce rata de consum a terenurilor constituie o provocatoare și necesită utilizarea de noi tehnici. În estimarea ratei de consum a terenului, trebuie să fie clar definit ce constituie „consumul” de teren, deoarece acest lucru poate acoperi aspecte „consumate” sau „conservate” sau disponibile pentru „dezvoltare” pentru cazuri cum ar fi terenurile ocupate de zonele umede. În al doilea rând, nu există nici o măsură fără echivoc a terenului dacă terenul pe care este în curs de dezvoltare este cu adevărat „nou-dezvoltate“ (sau liber), sau în cazul în care este cel puțin parțial „nedezvoltat“. Drept urmare, procentul din totalul terenului urban actual care a fost nou dezvoltat (consumat) va fi utilizat ca măsură a ratei consumului de teren. Zona complet dezvoltată este, de asemenea, uneori denumită zonă construită.
+UNIT_MEASURE: >-
+  indice
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1)  Agenția Servicii Publice  (cadastru suprafața terenului)</p> 
+  <p>   2) Biroul Național de Statistică ( Date cu privire la populație) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Agenția Servicii Publice </p> 
+  <p>   2) Biroul Național de Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Agenția Relații Funciare și Cadastru </p> 
+  <p>UN-Habitat </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> LCRPGR=((LN(Urb_(t+n)/Urb_t ))/y))/((LN(Pop_(t+n)/Pop_t )/y) </p> 
+  <p>   Unde: </p> 
+  <p>   Urb_t=extinderea teritorială a orașelor în anul t (anul inițial) în km2</p> 
+  <p>   Urb_(t+n)=extinderea teritorială a orașelor în anul t+n (anul final) în km2</p> 
+  <p>   Pop_t = populația urbană în anul t (anul inițial)</p> 
+  <p>   Pot_(t+n) = populația urbană în anul t+n (anul final)</p> 
+  <p>   y=n=Numărul de ani între anii de referință</p> 
+  <p>   LN- Logaritmul natural </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Biroul Național de Statistică </p> 
+  <p>   2) Programul ONU pentru Așezări Umane (UN HABITAT) </p>
+source_periodicity_1: >-
+  O dată la 5 ani începând cu 2017
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
