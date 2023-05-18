@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.3.1: Volumul producției per unitate de muncă pe clase de fermieri/păstori/dimensiunea întreprinderii forestiere</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.2999999999999998: Până în 2030, dublarea productivității agricole și a veniturilor micilor producători agricoli, în special femei, populațiile indigene, gospodării de familie, păstori și pescari, inclusiv prin accesul sigur și egal la terenuri, alte resurse și factori de producție, cunoștințe, servicii financiare, piețe și oportunități pentru crearea valorii adăugate și angajarea în activități non-agricole</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agricultural Organization (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  2.2999999999999998
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-2.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 2.3.1: tivitatea muncii în agricultură</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Volumul producției agricole pe unitate de muncă în întreprinderile agricole/zootehnice/forestiere</p> 
+  <p>   FAO propune definirea micilor producători agricoli ca producători care:</p> 
+  <p>   1) operează cu o mărime a terenurilor care se încadrează în primele două quintile  (sub 40%) din distribuția cumulată a mărimii terenurilor la nivel național (măsurată în hectare); și</p> 
+  <p>   2) care operează cu un număr de animale care se încadrează în primele două quintile (sub 40%) din distribuția cumulată a numărului de animale per unitate de producție la nivel național (măsurată în unități de zootehnie); și</p> 
+  <p>   3) care obțin un venit economic anual din activități agricole care se încadrează în primele două quintile (sub 40%) din distribuția cumulată a veniturilor economice din activități agricole pe unitate de producție la nivel național (măsurată la paritatea puterii de cumpărare în Dolari SUA) care nu depășește suma de 34.387 Dolari SUA la paritatea puterii de cumpărare.</p> 
+  <p>   Deoarece indicatorul se referă la un set de unități de producție - cele la scară mică - numitorul trebuie să rezume informații despre întreaga producție întreprinsă în fiecare unitate. Aceasta necesită ca volumele de producție să fie raportate într-un număr comun, având în vedere că este imposibil să se rezume la unități fizice. Cel mai convenabil număr pentru agregarea produselor din numărător este un vector al prețurilor constante. Când sunt măsurate la diferite momente în timp, după cum solicită monitorizarea indicatorilor SDG, modificările valorilor constante reprezintă modificări de volum agregate. </p>
+UNIT_MEASURE: >-
+  PPC constantă USD 2011
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Cercetări statistcie exhaustive și selective pe: </p> 
+  <p>1. agricultură;</p> 
+  <p>2. forță de muncă </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Agriculturii și Industriei Alimentare
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Volumul producției agricole a producătorilor agricoli după clase de mărime raportat la numărul de zile de muncă într-un an.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursă
+source_contact_1: >-
+  Lungu Ludmila, Biroul Național de Statistică, tel.067770682, e-mail: ludmila.lungu@statistica.gov.md
+source_other_info_1: >-

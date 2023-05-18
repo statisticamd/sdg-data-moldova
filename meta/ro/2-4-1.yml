@@ -1,0 +1,88 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.4.1: Ponderea suprafețelor agricole pe care se utilizează practici agricole productive și durabile</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.4: Până în 2030, asigurarea unor sisteme de producție alimentară durabile și  implementarea unor practici agricole reziliențe, care sporesc productivitatea  și producția, contribuie la menținerea ecosistemelor, consolidează  capacitățile de adaptare la schimbări climatice, condiții meteorologice  extreme, secetă, inundații și alte dezastre și care îmbunătățesc în mod  progresiv calitatea terenurilor și solului</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agriculture Organization (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  2.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 2.4.1: ea suprafețelor agricole pe care se utilizează practici agricole productive și durabile</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Agricultura durabilă trebuie să sprijine ecosistemele sănătoase și gestionarea  durabilă a terenurilor, apei și resurselor naturale, asigurând în același timp  securitatea alimentară mondială. Pentru a fi durabilă, agricultura trebuie să  răspundă nevoilor generațiilor prezente și viitoare pentru produsele și  serviciile sale, asigurând în același timp rentabilitate, sănătate de mediu și  justiție socială și economică (Definiția FAO).</p> 
+  <p>  Cadrul strategic național  operează cu noțiunea de „Asigurarea gestionării durabile a resurselor naturale  în agricultură” care include: 1) utilizarea practicilor inovatoare de  gestionare a terenurilor agricole și a apei prin: (i) consolidarea terenurilor  și utilizarea de practici moderne de cultivare prin rotația culturilor  agricole și diversificarea produselor agricole, (ii) consolidarea serviciilor  de irigare împreună cu accesul la infrastructura și echipamentele moderne de  irigare; 2) aplicarea tehnologiilor de producție prietenoase mediului, a  produselor ecologice, inclusiv a biodiversității:  utilizarea de tehnologii de  producție inovatoare pentru obținerea de produse ecologice, și 3)  existența  mecanismelor de sprijin a adaptării și atenuării efectelor schimbărilor  climatice asupra producției agricole și a competitivității agriculturii </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Cercetări și calcule statistice
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Agriculturii și Industriei Alimentare
+OTHER_METHOD: >-
+  Se planifică pe viitor elaborarea indicatorului conform metodologiei proxi propuse de către FAO
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Suprafața acoperită cu agricultura productivă și durabilă raportată la  suprafața totală agricolă *100</p> 
+  <p>  Numărătorul cuprinde trei dimensiuni ale producției durabile: de mediu, economic și social. Aceasta corespunde ariilor agricole ale exploatațiilor care corespund sub-indicatorilor selectați pe toate cele  trei dimensiuni.</p> 
+  <p>  Numitorul este suprafața de teren agricol gestionat de exploatații agricole, definită ca suma suprafeței agricole utilizate de  gospodăriile țărănești (de fermier) care sunt deținute (exclusiv  cele date în arendă),  luate în arendă, închiriate, împrumutate sau cumpărate. Conform metodologiilor FAO, în suprafața totală agricolă nu sunt incluse terenurile aflate în  proprietatea statului sau cele comune utilizate de gospodăria țărănească (de fermier).</p> 
+  <p>  Calcularea indicatorului include mai multe etape:</p> 
+  <p>  1.  Determinarea scopului indicatorului: alegerea pentru  indicatorul 2.4.1 este focusarea pe producția vegetalăi și creșterea animalelor, excluzând silvicultura, pescuitul și acvacultura.</p> 
+  <p>  2.  Definiția aspectelor care trebuie acoperite: alegerea pentru indicatorul 2.4.1 se efectuează pentru a include aspecte de mediu, economice și sociale în evaluarea  durabilității.</p> 
+  <p>  3. Alegerea unei scări pentru evaluarea sustenabilității:  alegerea indicatorului 2.4.1 se efectuează la nivelul gospodăriilor țărănești (de fermier), cu agregarea la niveluri superioare.</p> 
+  <p>  4. Selectarea instrumentelor de  colectare a datelor.</p> 
+  <p>  5. Selectarea subiectelor din fiecare dimensiune și  selectarea unui sub-indicator pentru fiecare subiect.</p> 
+  <p>  6. Evaluarea  eficacității durabilității la nivelul gospodăriei țărănești (de fermier) pentru fiecare sub indicator. Pentru a evalua nivelul de durabilitate al gospodăriei țărănești (de fermier), pentru fiecare subiect,  se aplică criteriile de durabilitate adecvate în conformitate cu sub-indicatorii corespunzători.</p> 
+  <p>  7. Determinarea frecvenței monitorizării  indicatorului.</p> 
+  <p>  8. Modalitateade de raportare a indicatorului. Un set de  sub-indicatori este prezentat sub forma unui tablou de instrumente. Bara de  instrumente descrisă mai sus oferă un răspuns în ceea ce privește măsurarea  durabilității la nivelul gospodăriei țărănești (de fermier) și agregarea acesteia la nivel național. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Lungu Ludmila, Biroul Național de Statistică, tel.067770682, e-mail: ludmila.lungu@statistica.gov.md
+source_other_info_1: >-

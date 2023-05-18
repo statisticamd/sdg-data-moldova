@@ -1,0 +1,88 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.4.1: Share of agricultural area under productive and sustainable agriculture</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.4: By 2030, ensure sustainable food production systems and implement resilient  agricultural practices that increase productivity and production, that help  maintain ecosystems, that strengthen capacity for adaptation to climate  change, extreme weather, drought, flooding and other disasters and that  progressively improve land and soil quality</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agriculture Organization (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  2.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 2.4.1: of agricultural land using sustainable agricultural practices</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Sustainable agriculture should support healthy ecosystems and sustainable  management of fields, water, and natural resources, ensuring at the same time  world food security. To be sustainable, agriculture should meet the needs of  the present and future generations for its products and services, ensuring at  the same time profitability, environmental health, social and economic justice  (FAO definition).</p> 
+  <p>  The national strategic framework operates with the  notion "Ensuring sustainable management of natural resources in agriculture”  which includes: 1) use of innovation practices for managing agricultural  fields and water by: (i) enhancing the fields and using modern crop practices  by rotation of agricultural crops and diversification of agricultural  products, (ii) enhancing irrigation services together with access to modern  irrigation infrastructure and equipment; 2) applying environment friendly  production technologies, ecological products, including biodiversity: use of  innovation production technologies for obtaining ecological products, and 3)   existence of support mechanisms for adapting and mitigating the effects of  climate changes on agricultural production and agriculture competitiveness </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Statistical surveys and calculations
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Agriculture and Food Industry
+OTHER_METHOD: >-
+  It is planned in the future to develop the indicator according to the proxy methodology proposed by FAO
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Area covered with productive and sustainable agriculture out of total  agricultural area *100.</p> 
+  <p>  Numerator covers three dimensions of sustainable  production: environmental, economic and social. It covers the agricultural  areas of the farms which fulfil the selected sub-indicators for all the three  dimensions.</p> 
+  <p>  Denominator is the area of agricultural area managed by  agricultural holdings, defined as amount of agricultural areas used by  agricultural holdings which are held (exclusively the ones leased), rented,  borrowed, purchased. According to the FAO methodologies, the total  agricultural area does not include the fields under the state property and the  communal ones used by farms.</p> 
+  <p>  The calculation of the indicator includes a  number of stages:</p> 
+  <p>  1. Determining the scope of the indicator: the choice  for indicator 2.4.1 is to focus on production of crops and growing livestock,  excluding forestry, fishing and aquaculture.</p> 
+  <p>  2. Definition of aspects  which should be covered: the choice for indicator 2.4.1 is done to include  environment, economic and social aspects in assessing sustainability.</p> 
+  <p>  3.  Choosing a scale for assessing sustainability: the choice of indicator 2.4.1  is performed at the level of the farm, with aggregation at higher levels.</p> 
+  <p>   4. Selecting the tools for collecting data.</p> 
+  <p>  5. Selecting subjects from  every dimension and selecting a sub-indicator for every subject.</p> 
+  <p>  6.  Assessing the efficiency of sustainability at the farm level for every  sub-indicator. To assess the sustainability level of the farm, for every  subject, they apply adequate sustainability criteria in line with the  corresponding sub-indicators.</p> 
+  <p>  7. To decide the frequency of indicator  monitoring.</p> 
+  <p>  8 .Modality for reporting the indicator. A set of  sub-indicators is presented in the form of a tool dashboard. The tools' bar  described above provides an answer regarding the measuring of sustainability  at the farm level and aggregated at the national level. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Lungu Ludmila, Biroul Național de Statistică, tel.067770682, e-mail:  ludmila.lungu@statistica.gov.md
+source_other_info_1: >-

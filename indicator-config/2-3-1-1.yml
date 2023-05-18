@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: Share of sown areas  in total arable lands
+graph_title: 2.3.1.1 Share of sown areas in total arable land
 graph_titles: []
 graph_type: line
-indicator_available: Share of sown areas in total arable land
-indicator_name: global_indicators.2-3-1-1-title
-indicator_number: 2.3.1.1
+indicator_available: 
+indicator_name: global_indicators.2-3-1-1- Share of sown areas in total arable land-title
+indicator_number: 2.3.1.1. Share of sown areas in total arable land
 indicator_tabs:: 
   override: false
   tab_1: ''
