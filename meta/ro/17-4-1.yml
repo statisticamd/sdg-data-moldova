@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.4.1: Serviciul datoriei externe ca proporție din total export de bunuri și servicii</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.4: Susținerea țărilor în curs de dezvoltare în atingerea sustenabilității  datoriilor pe  termen lung prin intermediul unor politici coordonate, care  vizează stimularea finanțării  datoriilor, reducerea datoriilor și  restructurarea datoriilor, după caz, și abordarea datoriei externe a țărilor  sărace puternic îndatorate, pentru a reduce povara datoriei</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-04-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.4.1: Serviciul datoriei externe publice și public garantate ca proporție din  total export de bunuri și servicii</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Datoria externă brută a Republicii Moldova la o anumită dată este egală cu  suma tuturor angajamentelor curente efective, necondiționate ale rezidenților  față de nerezidenți ce implică pentru debitor una sau mai multe plăți de  principal și / sau de dobândă la unul sau mai multe momente în viitor. </p> 
+  <p>   Principalele componente ale datoriei externe: (1) Investiții de portofoliu -  instrumente de natura datoriei (instrumentele de natura datoriei includ  titlurile de angajamente emise de rezidenții Moldovei, deținute de  nerezidenți, cu excepția celor deținute de firme-mamă / filiale nerezidente și  a valorilor mobiliare de stat emise pentru a fi plasate pe piața internă a  Republicii Moldova, procurate de către nerezidenți),  (2) Împrumuturi  (împrumuturi FMI, guvernamentale, garantate de guvern, private), (3) Drepturi  speciale de tragere (alocări de DST), (4) Numerar și depozite (conturile  curente și depozitele nerezidenților în sistemul bancar național și în alte  societăți financiare), (5) Credite comerciale și avansuri (sunt angajamentele  sub formă de credite și avansuri acordate de furnizor sau cumpărător în  tranzacțiile de comerț cu mărfuri și servicii), (6) Alte angajamente aferente  datoriei (datoria istorică pentru importurile de mărfuri și servicii,  angajamentele față de nerezidenți aferente tranzacțiilor cu investiții,  angajamentele la dividende distribuite dar încă neplătite nerezidenților), (7)  Investiții directe-creditare intra-grup (angajamente aferente datorilor  întreprinderilor cu investiții străine directe față de investitorii lor  direcți din străinătate). Tipuri ale datoriei: Datoria publică și public  garantată (termen scurt, termen lung), Datoria privată negarantată (termen  scurt, termen lung).</p> 
+  <p>  Datoria Externă a Republicii Moldova este compilată  conform manualului “Ghidul Statistic pentru Compilatori privind Datoria  Externă” recomandat de FMI, ediție 2013, care este în concordanță cu ediția a  IV a manualul Balanței de Plăți și Poziției Investiționale Internaționale  (MBP6). Conform SDE 2013 arieratele la serviciul împrumuturilor și titlurilor  de angajamente, ce reprezintă sume de principal și de dobândă datorate și  neonorate, sunt considerate ca o parte din valoarea stocului instrumentului  financiar original ce generează datoria ( [A se  vedea](http://www.bnm.md/ro/content/datoria-externa-la-sfarsitul-anului-2018-date-finale)  ). </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistica conturilor internaționale, BNM</p> 
+  <p> 2) Datoria externă, BNM </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Banca Națională a Moldovei
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Banca Națională a Moldovei
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Serviciul datoriei externe publice și public garantate (plăți efective în  conformitate cu orarul) raportată la suma exporturilor de bunuri și servicii.  Pentru acest indicator se va considera în exclusivitate doar datoria publică  și public garantată.  </p> 
+  <p>  Indicatorul este [calculat de  BNM] (https://bnm.md/ro/search?partitions%5B0%5D=677&post_types%5B677%5D%5B0%5D=922) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Banca Națională a Moldovei
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+  https://bnm.md/ro/search?partitions%5B0%5D=677&post_types%5B677%5D%5B0%5D=922
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

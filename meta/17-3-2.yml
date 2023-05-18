@@ -1,0 +1,81 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.3.2: Volume of remittances (in United States dollars) as a proportion of total GDP</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.3: Mobilize additional financial resources for developing countries from multiple  sources</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.3.2: Volume of personal remittances as a proportion of GDP (recalculated in  US dollars)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Personal remittances represent the sum of three elements = personal transfers  + net remuneration of non-resident employees (without taxes and fees, social  contributions, transport expenses and expenses for staying in the host country) + Transfers of capital between households, recommended by  international methodological standards of the IMF “Balance of Payments and  International Investment Position Manual”, VI edition (2009)” and  „International Transactions in Remittances  – guide for compilers and users”  (2009). </p> 
+  <p>  Personal remittances in the balance of payments. There is no  separate item or group of items in the balance of payments, the amount of  which would represent personal remittances of individuals. As this indicator is of high interest for the Republic of Moldova, NBM developed an algorithm to  estimate it. The indicator of personal remittances is calculated additionally  to BP and is presented separately for information purposes. [see here]((http://www.bnm.md/bdi/pages/reports/dbp/DBP17.xhtml), [the IA](https://bnm.md/en/search?partitions[0]=677&post_types[677][0]=873)). To estimate the financial resources sent into the  country through other ways, than those of licenced banks or post offices, they  analyse the evolution of resident individuals' deposits, the evolution of the  cash in foreign currency held by licenced banks, turnovers of the foreign  exchange offices, as well as the evolution of real estate market and cars' market. They also take into account the predisposition to saving the money by  the persons receiving remittances from abroad, as well as the evolution of  these households' consumption. [see  here](https://bnm.md/en/content/international-accounts-methodological-standards-and-data-sources)</p> 
+  <p>  Based on the  data of the International Transactions Reporting System (ITRS), they determine the  estimated value thresholds for distribution of money transfers made by  individuals from abroad in favour of those from the Republic of Moldova by  type of transactions in: remuneration of resident employees; current transfers  of individuals; transfers of capital among households. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> (1) Data on money transfers from abroad to individuals made through licenced  banks or post offices - NBM</p> 
+  <p>  (2) Labour Force Survey - NBS. </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.National Bank of Moldova </p> 
+  <p>  2.National Bureau of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1.National Bank of Moldova </p> 
+  <p>  1.International Monetary Fund </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Inflow of personal remittances (in USD) as a proportion of the Gross Domestic  Product (GDP) recalculated in USD * 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  To calculate the global indicator, NBM implements IMF recommendations (BPM 6), who uses the sum of 3 components with recalculations, while WB has a partial indicator with 2 components.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bank of Moldova
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://bnm.md/en/search?partitions%5B0%5D=677&post_types%5B677%5D%5B0%5D=2237
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

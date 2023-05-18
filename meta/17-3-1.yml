@@ -1,0 +1,95 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.3.1: Additional financial resources mobilized for developing countries from  multiple sources</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.3: Mobilize additional financial resources for developing countries from multiple  sources</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Organisation for Economic Co-operation and Development (OECD), United Nations  Conference on Trade and Development (UNCTAD)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.3.1: Share of foreign direct investment, external financial and technical  assistance for development in GDP</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> The indicator measures the proportion of foreign direct investments and  official development assistance provided to the country, in the consolidated  national public budget.</p> 
+  <p>  Foreign direct investments represent a group of  transborder investment transactions associated with a resident of an economy  (direct investor) , who holds the control or a significant level of influence  over the management of an enterprise which is resident of another economy  (enterprise with direct investments). In line with the international  standards, the direct or indirect holding of 10% or more from the voting  rights in a resident enterprise of an economy by a resident investor of  another economy is the proof of a direct investment relation. The notion of  direct investments is similar to the OECD methodology from [Benchmark  Definition of Foreign Direct  Investments](https://www.oecd.org/daf/inv/investmentstatisticsandanalysis/40193734.pdf).</p> 
+  <p>   Statistical data regarding direct investments based on the direction principle  are [compiled by the NBM](http://bnm.md/files/Norme_met_2018_web-final.pdf)  according to the new international methodological standards, provided in the  IMF Manual „Balance of Payments and International Investment Position Manual,  VI edition (BPM6)”, which replaces the IMF Manual „Balance of Payments, V  edition (BPM5)”.</p> 
+  <p>  ODA – in line with the international definition DAC (  [OECD Development Assistance  Committee](http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm)  ) it represents the "flows to countries and territories from the DAC list of  ODA beneficiaries and other multilateral institutions which are: (i) supplied  by official agents, including by national or local governments or by their  executive agencies; and (ii) every transaction is managed with the main  objective to promote economic development and wellbeing of developing  countries; and it is of concession nature and includes a grant element of at  least 25% (calculated at a reduction rate of 10%).</p> 
+  <p>  [Other official  financial flows  (OOF)](http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf),  Para. 24 - (except for officially supported credits for exports) are defined  as transactions made by the official sector which do not meet the eligibility  conditions for ODA, either because does not refer first of all to development  or because are not sufficiently concessional.  </p> 
+  <p>  Foreign assistance –  financial and technical assistance provided to the Republic of Moldova,  Government and/or other public authorities by creditors'/donors' community  (art.9 of the GD No. 377 of 25.04.2018 regulating the institutional framework  and the mechanism for coordination and management of foreign assistance).</p> 
+  <p>   Financial assistance (cooperation) – financial support under the form of  loans, grants, including delivery of goods and/or provision of works for  implementation of projects/programs;</p> 
+  <p>  Technical assistance (cooperation) –  support under the form of transfer of knowledge, including technologies,  methodologies and techniques within projects/programs;</p> 
+  <p>  [Platform for  managing foreign assistance  (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) –  information automated system accessible online, which is covering and storing  the information regarding the projects/programs of foreign assistance in the  Republic of Moldova. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) [Foreign Assistance Management Platform  (AMP)](http://amp.gov.md/portal/sites/default/files/inline/amp-planul_de_gestiune_a_datelor_0.pdf)-  MF  </p> 
+  <p>  2) [Statistics of international  accounts](https://bnm.md/bdi/pages/reports/dbp/DBP20.xhtml)- NBM</p> 
+  <p>  3)  [Statistical Report no. 1-Inv. „Foreign investments allocated by enterprises  with foreign capital to the economy of  Moldova”](http://statistica.gov.md/public/files/Formulare_statistice_2009/Finante/1_invest_2009.pdf),  NBS  </p> 
+  <p>  4) [ Annual reports on execution of the  NPB](https://mf.gov.md/ro/trezorerie/rapoarte-privind-executarea-bugetului/rapoarte-anuale)</p> 
+  <p>   5) International technical assistance - MF </p> 
+  <p>  6) foreign direct  investments  - official statistical data of the NBM </p> 
+  <p>  7) Report on  execution of the consolidated budget - MF </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.Ministry of Finance</p> 
+  <p>  2.National Bank of Moldova</p> 
+  <p>  3.National Bureau  of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Finance
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Total amount of foreign direct investments (FDI) and official development  assistance (ODA) as a proportion of the consolidated national public budget  *100</p> 
+  <p>  where: the numerator (total amount of foreign direct investments  (FDI) and official development assistance (ODA)), and the denominator  (consolidated national public budget) are expressed in million USD </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Unlike the global indicator, the national indicator does not include  South-South cooperation
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Finance
+source_periodicity_1: >-
+  <p> 1) Annual</p> 
+  <p>  2) Quarterly, annual</p> 
+  <p>  3) Quarterly, annual</p> 
+  <p>  4) Monthly,  half-yearly, annual </p>
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

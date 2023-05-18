@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.4.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.4: Consolidarea eforturilor de protecție și salvgardare a patrimoniului cultural  și natural mondial</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Educational Scientific and Cultural Organization (UNESCO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 11.4.1.1: Ponderea cheltuielilor pentru conservarea și protejarea  patrimoniului cultural în totalul cheltuielilor Bugetului public național</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Clasificația funcțională - gruparea cheltuielilor bugetare după funcții și  obiective socio-economice, care se exercită în cadrul sectorului bugetar. Un  rol major al clasificației funcționale este asigurarea comparabilității  sectorului bugetar din diferite țări, respectiv standardele internaționale  urmează a fi respectate cu strictețe. Clasificația funcțională a cheltuielilor  bugetare în Republica Moldova este în conformitate cu Clasificația Funcțiilor  Guvernului COFOG (Classification of Functions of Government) elaborată de  Organizația pentru Cooperare și Dezvoltare Economică și utilizată în practica  mondială în calitate de standarde (Anexa 6 la Ordinul MF nr. 208 din  24.12.2015, privind [Clasificația  bugetară](https://mf.gov.md/ro/buget/informa%C8%9Bii-cu-caracter-metodologic/clasifica%C8%9Bia-bugetar%C4%83)  ).</p> 
+  <p>  Bugetul Public Național – sinteză a bugetelor constituite în cadrul  sistemului bugetar, cu excluderea transferurilor inter bugetare. BPN cuprinde:  bugetul de stat, bugetul asigurărilor sociale de stat, fondurile obligatorii  de asigurări de asistență medicală, bugetele locale (art. 26 din [Legea nr.  181 din 25.07.2014, finanțelor publice și responsabilității  bugetar-fiscale](http://lex.justice.md/md/354213/) ). </p> 
+  <p>  Cheltuieli -  totalitate a plăților aprobate în buget/efectuate de la buget, cu excepția  celor aferente operațiunilor cu activele financiare și cu datoriile bugetului  (Legea nr. 181 din 25.07.2014, finanțelor publice și responsabilității  bugetar-fiscale) </p>
+UNIT_MEASURE: >-
+  Procente, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Statistica finanțelor publice (conform metodologiei FMI)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministerul Finanțelor
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Educației, Culturii și Cercetării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Suma cheltuielilor publice pentru protejarea patrimoniului cultural în  conformitate cu clasificarea funcțională a cheltuielilor bugetare pe tipuri,  raportată la cheltuielile totale ale Bugetului Public Național, în  corespundere cu „Clasificația statisticilor financiare guvernamentale (GFS)”  elaborată de către FMI  (cod subprogram 8503).
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul național reprezintă o alternativă națională indicatorului global  care este calculat la paritatea puterii de cumpărare (PPC)
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Ministerul Finanțelor
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

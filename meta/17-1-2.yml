@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.1.2: Proportion of domestic budget funded by domestic taxes</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.1: Strengthen domestic resource mobilization, including through international  support to developing countries, to improve domestic capacity for tax and  other revenue collection</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  International Monetary Fund (IMF)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 469 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.1.2: Ratio of tax revenue to total national government expenditure</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> According to the global metadata, the exact definition of this indicator is  "Proportion of domestic expenses of the Government out of the central budget  financed from taxes”. Central budget of the Government is described in para.  2.81 of [the Government Finance Statistics  Manual](https://www.imf.org/external/Pubs/FT/GFS/Manual/2014/gfsfinal.pdf)  developed by IMF (GFS) in 2014, and includes the entities of the executive,  legislative and judicial powers. This component of public administration is  usually covered from the main (or general) budget, the revenues and expenses  of which are regulated and supervised by the MF based on the adopted Budget  Law. The revenues are defined in chapter 4, para 4.21 of the GFS, and the  associated classification is in line with Chapter 5. At their turn, the  expenses are defined in Chapter 4 (para. 4.23) of the GFS, and the detailed  associated classifications and concepts used for calculating this indicator  are mentioned in Chapters 6-8.</p> 
+  <p>  The data for this indicator are collected  annually by the IMF Statistics Department, in Table 1 of the standardised  questionnaire. The GFS expenses series are reported through economic expenses  from tables 2 and 3 (elements from code 31). Alternatively, for the countries  which report total expenses in line with the functional classification  (COFOG), from Table GFS 7 a similar calculation of the indicator may be  performed. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministry of Finance
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1.Ministry of Finance </p> 
+  <p>  2.International Monetary Fund </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Revenues from taxes and fees (GFS Code 11) out of total national public budget  expenses *100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Finance
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

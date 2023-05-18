@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 17.3.2 Volume of personal remittances as a proportion of GDP (recalculated in  US dollars)
+graph_title: 11.4.1.1 Proportion of expenditures for maintenance and protection of cultural  heritage in total expenditures of the national public budget
 graph_titles: []
 graph_type: line
-indicator_available: Volume of personal remittances as a proportion of GDP (recalculated in  US dollars)
-indicator_name: global_indicators.17-3-2-title
-indicator_number: 17.3.2
+indicator_available: Proportion of expenditures for maintenance and protection of cultural  heritage in total expenditures of the national public budget
+indicator_name: global_indicators.11-4-1-1-title
+indicator_number: 11.4.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
