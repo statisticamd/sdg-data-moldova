@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.10.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.10: Ensure public access to information and protect fundamental freedoms, in  accordance with national legislation and international agreements</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Office of the United Nations High Commissioner for Human Rights (OHCHR)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.10
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.10.1.1: World Press Freedom Index</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Press Freedom Index is available for journalists from 180 countries and is  determined by compiling the answers of experts in a questionnaire suggested by  RSF (Reporters without frontiers). The questionnaire is composed on 87  questions and is translated into 20 languages. Qualitative analysis is  combined with quantitative data regarding abuses and violence against  journalists during the evaluated period. The evaluation criteria and  indicators from the questionnaire are: 1) pluralism; 2) independence of  mass-media; 3) "self-censorship" existence and environment; 4) legislative  framework; 5) transparency, and 6) quality of infrastructure supporting  information production. Starting with the Index for 2013, countries are  attributed scores between 0 and 100, where 0 is the weakest score and 100 is  the best score. This makes the Index to be more informative and makes  easier the comparability of one year with another.
+UNIT_MEASURE: >-
+  Score
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  [Reporters Without Borders (RSF)](https://rsf.org/en/ranking#)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Reporters Without Borders (RSF) is an independent NGO with consultative status  with the United Nations, United Nations Educational, Scientific and Cultural  Organization (UNESCO), the Council of Europe and the International  Organization of the Francophonie (OIF)
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1. National Council for Human Rights</p> 
+  <p>  2. Parliamentary committee for human  rights and inter-ethnic relations </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Reporters Without Borders (RSF)
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://rsf.org/en/index
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-
