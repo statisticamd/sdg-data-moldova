@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volume of personal remittances (in USD)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

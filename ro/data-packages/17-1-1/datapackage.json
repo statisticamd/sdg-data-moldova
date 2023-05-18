@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Types of income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Impozite",
+                "Contribuții sociale",
+                "Granturi",
+                "Alte venituri",
+                ""
+              ]
+            },
+            "title": "Tipuri de venituri"
           },
           {
             "name": "Value",

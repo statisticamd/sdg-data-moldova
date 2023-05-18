@@ -12,7 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio of own funds of level I in relation to total assets",
+                "Ratio of own funds of level I in relation to risk-weighted assets",
+                "Non-performing loans rate (without reserves) in relation to the total regulated capital",
+                "Share of non-performing loans in total loans granted",
+                "Return on assets",
+                "Rate of liquid assets in relation to short-term liabilities",
+                "Rate of net open foreign exchange position at total regulated capital",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

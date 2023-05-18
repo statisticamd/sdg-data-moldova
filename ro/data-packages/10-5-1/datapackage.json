@@ -12,8 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rata fondurilor proprii de nivel I în raport cu total active",
+                "Rata fondurilor proprii de nivel I în raport cu activele ponderate la risc",
+                "Rata creditelor neperformante (fără rezerve) in raport cu capitalul total reglementat",
+                "Ponderea creditelor neperformante în totalul creditelor acordate",
+                "Rentabilitatea activelor",
+                "Rate of liquid assets in relation to short-term liabilities",
+                "Rata poziției valutare deschise nete la capitalul total reglementat",
+                ""
+              ]
+            },
+            "title": "Indicatori"
           },
           {
             "name": "Value",

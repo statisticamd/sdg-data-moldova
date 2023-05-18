@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Types of income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Taxes",
+                "Social contributions",
+                "Grants",
+                "Other incomes",
+                ""
+              ]
+            },
+            "title": "Types of income"
           },
           {
             "name": "Value",

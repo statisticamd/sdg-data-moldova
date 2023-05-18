@@ -151,6 +151,44 @@
       "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Impozite",
+                "Contribuții sociale",
+                "Granturi",
+                "Alte venituri",
+                ""
+              ]
+            },
+            "title": "Tipuri de venituri"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total government revenue as a proportion of GDP, by source"
+    },
+    {
       "path": "8-8-1/data.csv",
       "name": "8-8-1",
       "profile": "tabular-data-resource",
@@ -1511,6 +1549,41 @@
       "title": "Forest area as a proportion of total land area"
     },
     {
+      "path": "17-3-2/data.csv",
+      "name": "17-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volume of personal remittances (in USD)",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+    },
+    {
       "path": "8-9-1-2/data.csv",
       "name": "8-9-1-2",
       "profile": "tabular-data-resource",
@@ -2277,6 +2350,30 @@
         ]
       },
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+    },
+    {
+      "path": "17-4-1/data.csv",
+      "name": "17-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Debt service as a proportion of exports of goods and services"
     },
     {
       "path": "3-8-2-b/data.csv",
@@ -3523,6 +3620,47 @@
         ]
       },
       "title": "global_indicators.9-2-1-a-title"
+    },
+    {
+      "path": "10-5-1/data.csv",
+      "name": "10-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rata fondurilor proprii de nivel I în raport cu total active",
+                "Rata fondurilor proprii de nivel I în raport cu activele ponderate la risc",
+                "Rata creditelor neperformante (fără rezerve) in raport cu capitalul total reglementat",
+                "Ponderea creditelor neperformante în totalul creditelor acordate",
+                "Rentabilitatea activelor",
+                "Rate of liquid assets in relation to short-term liabilities",
+                "Rata poziției valutare deschise nete la capitalul total reglementat",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Financial Soundness Indicators"
     },
     {
       "path": "3-9-2/data.csv",
@@ -5566,6 +5704,30 @@
       "title": "Suicide mortality rate"
     },
     {
+      "path": "11-4-1-1/data.csv",
+      "name": "11-4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.11-4-1-1-title"
+    },
+    {
       "path": "11-1-1-b/data.csv",
       "name": "11-1-1-b",
       "profile": "tabular-data-resource",
@@ -6415,6 +6577,30 @@
         ]
       },
       "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+    },
+    {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
       "path": "9-4-1-b/data.csv",
@@ -7564,6 +7750,30 @@
       "title": "global_indicators.11-3-1-1-title"
     },
     {
+      "path": "1-a-2-a/data.csv",
+      "name": "1-a-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.1-a-2-a-title"
+    },
+    {
       "path": "10-7-2-2/data.csv",
       "name": "10-7-2-2",
       "profile": "tabular-data-resource",
@@ -8428,6 +8638,30 @@
         ]
       },
       "title": "Tuberculosis incidence per 100,000 population"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "11-6-1/data.csv",
@@ -11294,30 +11528,6 @@
       "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
-      "path": "17-1-1/data.csv",
-      "name": "17-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total government revenue as a proportion of GDP, by source"
-    },
-    {
       "path": "3-c-1/data.csv",
       "name": "3-c-1",
       "profile": "tabular-data-resource",
@@ -11532,30 +11742,6 @@
         ]
       },
       "title": "Macroeconomic Dashboard"
-    },
-    {
-      "path": "10-5-1/data.csv",
-      "name": "10-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Financial Soundness Indicators"
     },
     {
       "path": "13-a-1/data.csv",
@@ -12132,30 +12318,6 @@
         ]
       },
       "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
-    },
-    {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Debt service as a proportion of exports of goods and services"
     },
     {
       "path": "15-5-1/data.csv",
@@ -12998,54 +13160,6 @@
       "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
     },
     {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of domestic budget funded by domestic taxes"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
-    },
-    {
       "path": "2-5-1/data.csv",
       "name": "2-5-1",
       "profile": "tabular-data-resource",
@@ -13548,30 +13662,6 @@
         ]
       },
       "title": "Manufacturing value added as a proportion of GDP and per capita"
-    },
-    {
-      "path": "17-3-2/data.csv",
-      "name": "17-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
       "path": "2-1-1/data.csv",
