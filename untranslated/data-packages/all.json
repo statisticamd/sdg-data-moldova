@@ -2042,6 +2042,28 @@
       "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
+      "path": "16-10-2-1/data.csv",
+      "name": "16-10-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-10-2-1-title"
+    },
+    {
       "path": "12-a-1/data.csv",
       "name": "12-a-1",
       "profile": "tabular-data-resource",
@@ -5562,6 +5584,38 @@
         ]
       },
       "title": "global_indicators.16-2-1-1-title"
+    },
+    {
+      "path": "16-10-1-1/data.csv",
+      "name": "16-10-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index (rank)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-10-1-1-title"
     },
     {
       "path": "11-7-1/data.csv",
