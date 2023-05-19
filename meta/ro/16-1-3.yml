@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.1.3: Proporția populației supuse violenței fizice și sexuale, în ultimele 12 luni</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Reducerea semnificativă a tuturor formelor de violență și ratelor de deces  conexe, pretutindeni</p>
+  <p>Target 16.1: Reducerea semnificativă a tuturor formelor de violență și ratelor de deces  conexe, pretutindeni</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNODC
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  16.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-03.pdf
@@ -48,7 +49,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Sănătății, Muncii și Protecției Sociale
+  Ministerul Muncii și Protecției Sociale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -71,7 +72,7 @@ source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
 source_periodicity_1: >-
-  odată la 10 ani
+  O dată la 10 ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

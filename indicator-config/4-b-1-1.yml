@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: number of places
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 6.3.1 Proportion of wastewater sufficiently treated out of all discharged  water, nonresidential sector
+graph_title: 4.b.1.1. Number of budgetary places in the state order for enrolment in higher education, including vocational training and information and communication technology, technical, engineering and scientific programmes
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of wastewater sufficiently treated out of all discharged  water, non-residential sector
-indicator_name: global_indicators.6-3-1-title
-indicator_number: 6.3.1
+indicator_available: Number of budgetary places in the state order for enrolment in higher education, including vocational training and information and communication technology, technical, engineering and scientific programmes
+indicator_name: global_indicators.4-b-1-1--title
+indicator_number: 4.b.1.1.
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova, including the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
 placeholder: ''

@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 6.3.1 Proportion of wastewater sufficiently treated out of all discharged  water, nonresidential sector
+graph_title: 1.a.2.b Proportion of health care expenditure in total national public budget  expenditure
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of wastewater sufficiently treated out of all discharged  water, non-residential sector
-indicator_name: global_indicators.6-3-1-title
-indicator_number: 6.3.1
+indicator_available: Proportion of health care expenditure in total national public budget  expenditure
+indicator_name: global_indicators.1-a-2-b-title
+indicator_number: 1.a.2.b
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova, including the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
 placeholder: ''

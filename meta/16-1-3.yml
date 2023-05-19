@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  16.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-03.pdf
@@ -49,7 +50,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Health, Labour and Social Protection
+  Ministry of Labour and Social Protection
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

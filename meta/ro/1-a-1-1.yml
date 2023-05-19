@@ -1,0 +1,74 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.a.1.1.: Ponderea mijloacelor alocate din bugetul public național pentru programul de ajutor social (ajutor social și ajutor pentru perioada rece a anului) în totalul cheltuielilor bugetului public național</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.a: Asigurarea mobilizării semnificative a resurselor dintr-o varietate de surse,  inclusiv prin cooperare    sporită pentru dezvoltare, pentru a oferi mijloace  adecvate și previzibile pentru țările în curs de dezvoltare, în special țările  cel mai puțin dezvoltate pentru a pune în aplicare programe și politici pentru  eradicarea sărăciei în toate dimensiunile sale</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  1.a
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-1.pdf
+GOAL_META_LINK_TEXT: >-
+  TIER III - NO WORK PLAN
+SDG_INDICATOR: >-
+  <p>Indicator 1.a.1.1.: Ponderea mijloacelor alocate din bugetul public național pentru programul de ajutor social (ajutor social și ajutor pentru perioada rece a anului) în totalul cheltuielilor bugetului public național</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Clasificația funcțională a cheltuielilor bugetare - gruparea cheltuielilor  bugetare după funcții și obiective socio-economice, care se exercită în cadrul  sectorului bugetar. Un rol major al clasificației funcționale este asigurarea  comparabilității sectorului bugetar din diferite țări, respectiv standardele  internaționale urmează a fi respectate cu strictețe. Clasificația funcțională  a cheltuielilor bugetare în Republica Moldova este în conformitate cu  Clasificația Funcțiilor Guvernului COFOG (Classification of Functions of  Government) elaborată de Organizația pentru Cooperare și Dezvoltare Economică  și utilizată în practica mondială în calitate de standarde (Anexa 6 la Ordinul  MF nr. 208 din 24.12.2015, privind [Clasificația  bugetară](https://mf.gov.md/ro/buget/informa%C8%9Bii-cu-caracter-metodologic/clasifica%C8%9Bia-bugetar%C4%83)  ).</p> 
+  <p>  Bugetul Public Național – sinteză a bugetelor constituite în cadrul  sistemului bugetar, cu excluderea transferurilor inter bugetare. BPN cuprinde:  bugetul de stat, bugetul asigurărilor sociale de stat, fondurile obligatorii  de asigurări de asistență medicală, bugetele locale (art. 26 din [Legea nr.  181 din 25.07.2014, finanțelor publice și responsabilității  bugetar-fiscale](http://lex.justice.md/md/354213/) ). </p> 
+  <p>  Cheltuieli -  totalitate a plăților aprobate în buget/efectuate de la buget, cu excepția  celor aferente operațiunilor cu activele financiare și cu datoriile bugetului  (Legea nr. 181 din 25.07.2014, finanțelor publice și responsabilității  bugetar-fiscale) </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministerul Finanțelor
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Ponderea mijloacelor alocate din bugetul public național pentru programul de ajutor social (ajutor social și ajutor pentru perioada rece a anului) în totalul cheltuielilor bugetului public național
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  Ministerul Finanțelor
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

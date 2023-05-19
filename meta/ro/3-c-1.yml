@@ -1,0 +1,81 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.c.1: Densitatea și distribuția lucrătorilor medicali</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Creșterea și eficientizarea finanțării sistemului de sănătate și recrutare,  dezvoltare, instruire și menținere a personalului medical în țările în curs de  dezvoltare, în special în țările cel mai puțin dezvoltate și în statele mici  insulare în curs de dezvoltare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Density of physicians, nursing and midwifery personnel, dentistry personnel,  and pharmaceutical personnel per 1,000 persons
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-0C-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 207 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.c.1: Numărul personalului medical ce revine în medie la 10.000 populație</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Personalul medical se împarte în medici și personal medical mediu. Indicatorul  se colectează conform clasificatorului ISCO-08.</p> 
+  <p>  Medici: 221, 2211 (Medici  de medicină de familie/medicină generală: Cercetător științific în medicină,  Cercetător științific stagiar în medicină, Medic-inspector, Medic medicină de  familie, Medic medicină generală, Medic rezident, Medic stagiar) si 2212  (Medici specialiști). </p> 
+  <p>  Personal medical mediu:  2221 (Asistenți medicali  generaliști: Asistent medical (studii superioare), Asistent medical de  familie, Asistent medical de urgență, Asistent medical dietetician, Asistent  medical imagist radiolog, Asistent medical în anestezie și reanimare, Asistent  medical în diagnostic funcțional, Asistent medical în diagnostic radiologic ,  Asistent medical în educație sanitară pentru sănătate, Asistent medical în  reanimare și terapie intensivă la copii, Asistent medical în săli de operații,  Asistent medical nutriționist), 2222 (Moașe), 3221 (Surori medicale: Asistent  medical (nivel mediu), Soră inferioară de caritate, Soră medicală de caritate,  Soră medicală inferioară pentru îngrijirea bolnavilor, Asistent medical  epidemiolog, Asistent medical igienist, Asistent medical în diagnostic de  laborator, Asistent medical în reabilitare (fizioterapie, kinetoterapie,  masaj, balneoterapie)) și 3222 (Surori puericultoare: Asistent medical în  neonatologie, Moașă (calificare medie)). </p> 
+  <p>  Medici dentiști: 2261 (Medic  dentist, Medic stomatolog, Medic stomatolog de specialitate, Medic stomatolog  rezident), 3214 (Tehnicieni de protetică medicală și dentară: Felcer  protezist, excluzând tehnicieni de protetică dentară) and 3251( Tehnicieni  dentar).</p> 
+  <p>  Farmaciști:  2262 ( Farmacist, Farmacist de specialitate,  Farmacist rezident, Inspector-farmacist) și 3213 (Tehnicieni și asistenți de  farmacie: Asistent farmacist, Farmacist inferior, Laborant farmacist). </p>
+UNIT_MEASURE: >-
+  la 10.000 populație
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) ASNSP - Nr.17 “Raport statistic privind statele de funcții și cadrele  instituției medico – sanitare”;</p> 
+  <p>  2) BNS - numărul populației </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Națională pentru Sănătate Publică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul personalului medical raportat la numărul populației*10000
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  La nivel global este raportat la 1000 locuitori
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
