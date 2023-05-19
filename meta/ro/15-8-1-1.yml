@@ -1,0 +1,100 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.8.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 15.8: Până în 2020, introducerea măsurilor pentru a preveni introducerea și a reduce  semnificativ impactul speciilor invazive asupra ecosistemelor terestre și  acvatice și pentru a controla și eradica speciile prioritare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  IUCN
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  15.8
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 15.8.1.1: Existența actelor normative și măsurilor privind prevenirea și  reducerea apariției speciilor invazive pentru a controla și eradica speciile  prioritare</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Scopul acestui indicator este măsurarea tendințelor din: </p> 
+  <p>  Partea A:  Angajamentul țării față de acordurile internaționale relevante, în  special:</p> 
+  <p>1) Adoptarea națională a politicii internaționale relevante  pentru speciile străine invazive.</p> 
+  <p>2) Existența: </p> 
+  <p>   a) strategiilor  naționale pentru prevenirea și controlul speciilor străine invazive; </p> 
+  <p>   b) legislației și politicii naționale relevante cu privire la speciile  străine invazive.</p> 
+  <p>  Partea B: Transpunerea acordurilor politice în acțiunile țării pentru implementarea politicilor și prevenirea și controlul  proactiv al speciilor străine invazive IAS, și alocarea de resurse pentru  aceste activități </p> 
+  <p>3) Alocarea națională a resurselor pentru  prevenirea sau controlul speciilor străine invazive. </p> 
+  <p>  Conservarea  habitatelor naturale este unul din elementele esențiale ale protecției florei  și faunei sălbatice. În acest context, Republica Moldova a inclus în politica  națională un șir de prevederi cu privire la prevenirea apariției și  contracararea speciilor invazive, după cum urmează: (i) Strategia privind  diversitatea biologică a Republicii Moldova și Planul de acțiuni pentru  implementarea acesteia (HG nr. 274/2015);  (ii) Legea regnului vegetal nr.  239/2007;  (iii) Legea regnului animal nr. 439/1995.</p> 
+  <p>  Raportarea se axează  pe un șir de criterii:</p> 
+  <p>  • Cercetarea și munca necesară ca bază pentru  protecția, gestionarea și utilizarea durabilă a populațiilor de păsări;</p> 
+  <p>  •  Informații privind starea de conservare a speciilor derogate;</p> 
+  <p>  •  Autoritatea împuternicită să declare că au fost îndeplinite condițiile;</p> 
+  <p>  •  Condiții de risc, circumstanțe, timp și loc în care se acordă excepție;</p> 
+  <p>  •  Justificare pentru derogarea unei specii în stare de conservare  defavorabilă;</p> 
+  <p>  • Soluții alternative luate în considerare și date  științifice pentru a le compara, etc." </p>
+UNIT_MEASURE: >-
+  da/nu
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. Bazele de date internaționale care conțin date privind cadrul normativ și  strategic al țării, </p> 
+  <p>2. Rapoartele naționale la Convenția privind Diversitatea Biologică, ținta 9  specii invazive </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Punctele focale naționale pentru Convenția privind Diversitatea Biologică,</p> 
+  <p>2. Ministerul Mediului,</p> 
+  <p>3. Ministerul Agriculturii și Industriei Alimentare </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Existența cadrului normativ și măsurilor privind prevenirea și diminuarea  apariției speciilor invazive pentru a controla și eradica speciile prioritare.  </p> 
+  <p>  Acest indicator este calculat  de către instituțiile internaționale cu  atribuții în domeniu în baza datelor a patru seturi de date care sunt  actualizate anul de către țări. Rapoarte prezentate către Secretariatul  Convenției privind  conservarea  vieții  sălbatice și  a  habitatelor naturale  din Europa (Berna,19 septembrie 1979) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  <p> 1. Ministerul Mediului;</p> 
+  <p>2. Ministerul Agriculturii și Industriei Alimentare </p>
+source_periodicity_1: >-
+  O dată la 2 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Veronica Josu, consultant principal, Direcția Politici în Domeniul Biodiversității, Ministerul Mediului, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+source_other_info_1: >-
+  <p> https://www.informea.org/en/countries/MD/legislation</p> 
+  <p>https://www.ecolex.org/result/?q=&type=legislation&xcountry=Moldova%2C+Republic+of&xdate_min=&xdate_max=</p> 
+  <p>http://www.fao.org/faolex/country-profiles/general-profile/en/?iso3=MDA</p> 
+  <p>https://chm.cbd.int/pdf/documents/nationalReport6/241350/2 </p>

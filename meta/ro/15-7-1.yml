@@ -1,0 +1,89 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.7.1: Proporția comerțului ilicit cu animale sălbatice, care au fost braconate sau  traficate ilicit</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: Luarea unor măsuri urgente pentru a stopa braconajul și traficul de specii de  floră și faună protejate și abordarea cererii și ofertei de produse ilegale de  specii sălbatice</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Office on Drugs and Crime (UNODC), CITIES
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 15.7.1: Proporția comerțului ilicit cu animale sălbatice (inclusiv, produse  derivate, părți ale acestora) care au fost braconate sau traficate prin  contrabandă</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul vizează animalele sălbatice care au fost vânate ilegal/braconate  și traficate prin contrabandă. Indicatorul se înscrie în aria de competență a  Convenției  privind comerțul internațional cu specii sălbatice de fauna și  flora pe cale de dispariție (în vigoare pentru Republica Moldova din  27.06.2001), în cadrul căreia sunt  utilizate următoarele expresii:</p> 
+  <p>  a)  specie: orice specie, subspecie sau una dintre populațiile lor izolate  geografic;</p> 
+  <p>  b) unitate: (i) orice animal sau plantă, vii sau moarte;  (ii)  în cazul unui animal: pentru speciile înscrise în Anexele I și II la  Convenție, orice parte sau orice produs provenit de la un animal, ușor de  identificat, iar pentru speciile înscrise la Anexa III la Convenție, orice  parte sau orice produs provenit de la un animal, ușor de identificat, atunci  când sunt menționate în respectiva Anexă; (iii) în cazul unei plante: pentru  speciile înscrise în Anexa I, orice parte sau orice produs provenit de la o  plantă, ușor de identificat, iar pentru speciile înscrise în Anexele II și  III, orice parte sau orice produs provenit de la o plantă, ușor de  identificat, atunci când sunt menționate în Anexele respective;</p> 
+  <p>  c)  comerț: exportul, reexportul, importul și introducerea de proveniență  marină;</p> 
+  <p>  d) reexportul: exportul oricărui individ importat în prealabil;  </p> 
+  <p>  e) introducerea de proveniență marină: transportul într-un stat de  indivizi ai speciilor, care au fost capturați în mediul marin, care nu este  sub jurisdicția unui stat;</p> 
+  <p>  f) autoritate științifică: o autoritate  științifică națională, desemnată conform articolului IX; </p> 
+  <p>  g) organ de  gestiune: o autoritate administrativă națională, desemnată conform articolului  IX;</p> 
+  <p>  Prevederile Convenției CITES (Washington, 1973) sunt transpuse în  politica națională a Republicii Moldova, după cum urmează: - Legea regnului  vegetal nr. 239/2007; </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Rapoartele de țară  prezentate în cadrul Convenției  privind comerțul  internațional cu specii sălbatice de fauna și flora pe cale de  dispariție,   </p> 
+  <p>2) Raport privind Permisele/Certificatele CITES emise </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Serviciul Vamal</p> 
+  <p>2. Agenția de Mediu; </p> 
+  <p>3. Inspectoratul pentru Protecția Mediului </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Valoarea comerțului ilegal  cu animale sălbatice/ (valoarea comerțului legal +  comerțul ilegal)
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul global este calculat ca valoare a comerțului ilegal  cu animale  sălbatice/ (valoarea comerțului legal + comerțul ilegal), pe când indicatorul  național este calculat ca proporție a cazurilor ilegale  depistate/contracarate/depistate în raport cu numărul de permise CITIES  acordate
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Oficiul ONU pentru Droguri și Criminalitate (UNODC)
+source_periodicity_1: >-
+  o dată la 2 ani
+source_url_1: >-
+  <p> https://www.cites.org/eng/cms/index.php/component/cp/country/MD/national-reports</p> 
+  <p>http://datazone.birdlife.org/site/results?cty=139&fam=0&gen=0 </p>
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Veronica Josu, consultant principal, Direcția Politici în Domeniul Biodiversității, Ministerul Mediului, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+source_other_info_1: >-

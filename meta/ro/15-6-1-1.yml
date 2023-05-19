@@ -1,0 +1,90 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.6.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 15.6: Promovarea distribuirii corecte și echitabile a beneficiilor care rezultă din  utilizarea resurselor genetice și promovarea accesului corespunzător la aceste  resurse, după cum este convenit la nivel internațional</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  CBD-Secretariat
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  15.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-06-01.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 15.6.1.1: Existența actelor normative întru asigurarea distribuirii corecte și  echitabile a resurselor genetice</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul vizează resursele genetice protejate (obiecte ale regnului animal  și protejat autohton), colecțiile din resurse genetice și investigațiile  științifice din domeniu.</p> 
+  <p>  Indicatorul se înscrie în aria de competență al  Protocolului de la Nagoya privind accesul la resursele genetice și  distribuirea corectă și echitabilă a beneficiilor care rezultă din utilizarea  acestora (ABS), la Convenția privind diversitatea biologică (CDB) (Rio de  Janeiro, 5 iunie 1992 ), care este în vigoare pentru Republica Moldova din  21.11.2016 , în cadrul căreia sunt utilizate următoarele expresii:</p> 
+  <p>   Resursele biologice includ resurse genetice, organisme sau părți din ele,  populații sau orice alte componente biotice ale ecosistemelor având folosință  sau valoare efectivă sau potențială pentru umanitate.</p> 
+  <p>  Resurse genetice  înseamnă materialul genetic de valoare actuală sau potențială.</p> 
+  <p>  Material  genetic înseamnă orice material de origine vegetală, animală, microbiană sau  altele care conține unități funcționale de ereditate.</p> 
+  <p>  Țara de origine a  resurselor genetice înseamnă țara care posedă acele resurse genetice în  condiții "in situ".</p> 
+  <p>  Țara care asigură resurse genetice înseamnă țara care  furnizează resurse genetice luate din surse "in situ", inclusiv populații de  specii sălbatice și domestice, sau din surse "ex situ", care pot sau nu să-și  aibă originea în acea țară.</p> 
+  <p>  Utilizarea resurselor genetice înseamnă  efectuarea lucrărilor de cercetare și dezvoltare cu privire la compoziția  genetică și/sau biochimică a resurselor genetice, inclusiv prin aplicarea  biotehnologiei, conform definiției de la Art. 2 din CDB;</p> 
+  <p>  Biotehnologie  înseamnă orice aplicație tehnologică ce folosește sisteme biologice, organisme  vii sau derivate din ele, pentru a realiza sau a modifica produse sau procese  pentru utilizare specifică </p>
+UNIT_MEASURE: >-
+  da/nu
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) The Access and Benefit-Sharing Clearing-House - Republic of Moldova  country profile</p> 
+  <p>2) The  International Treaty on Plant Genetic Resources for Food and Agriculture  (ITPGRFA) Online Reporting  System </p> 
+  <p>3) Easy-SMTA </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministerul  Mediului
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul  Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Cadrul legal și administrativ privind reglementarea și protecția resurselor  genetice, baza de date al resurselor genetice și de stabilire a relațiilor  contractuale cu partea care furnizează resursele genetice, a rezultatelor  cercetării și dezvoltării și a beneficiilor cercetării, obținute din  utilizarea comercială sau de alt tip a acestor resurse numărul. Numărul de  contracte cu beneficiarii resurselor genetice și a acordurilor pentru  exportul/ importul obiectelor regnului vegetal și animal – resursă genetică.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul național constituie o parte a indicatorului Global
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Ministerul  Mediului
+source_periodicity_1: >-
+  în funcție de perioada de raportare indicată pentru fiecare convenție
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Veronica Josu, consultant principal, Direcția Politici în Domeniul Biodiversității, Ministerul Mediului, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+source_other_info_1: >-
+  <p> https://absch.cbd.int/countries/MD</p> 
+  <p>http://faoitpgrfa.ort-production.linode.unep-wcmc.org/</p> 
+  <p>https://mls.planttreaty.org </p>

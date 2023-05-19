@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.5.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 15.5: Luarea unor măsuri urgente și semnificative pentru a reduce degradarea  habitatelor naturale, a stopa pierderea biodiversității și, până în 2020, a  proteja și preveni extincția speciilor amenințate</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  International Union for Conservation of Nature (IUCN)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  15.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 15.5.1.1: Numărul total de specii în Cartea Roșie</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Cartea Roșie - document oficial care include lista speciilor de plante și  animale dispărute, critic periclitate, periclitate, vulnerabile, rare și  nedeterminate de pe teritoriul Republicii Moldova, informația generală privind  statutul, starea, arealul, precum și metodele de protecție, conservare și  răspândire a acestora (art. 4 din Legea nr. 325 din  15.12.2005 cu privire la  Cartea Roșie a Republicii Moldova).</p> 
+  <p>  Specie dispărută - specie care nu a  mai fost găsită în ultimii 30 de ani, după cercetări repetate, în locurile  stabilite, precum și în alte locuri cunoscute și asemănătoare;</p> 
+  <p>  Specie  critic periclitată - specie amenințată cu dispariția în viitorul apropiat din  habitatele naturale;</p> 
+  <p>  Specie periclitată - specie în pericol de  exterminare, a cărei supraviețuire este  improbabilă dacă factorii cauzali  continuă să influențeze starea ei;</p> 
+  <p>  Specie vulnerabilă - specie despre  care se consideră că în timpul apropiat va trece în categoria Speciei  periclitate, dacă factorii cauzali vor continua să afecteze starea ei;</p> 
+  <p>   Specie rară - specie care în prezent nu este amenințată cu dispariția, dar  care se află sub risc din cauza arealului redus;</p> 
+  <p>  Specie nedeterminată -  specie care aparține uneia dintre categoriile de raritate, dar pentru care nu  există suficientă informație pentru a preciza exact categoria căreia îi  aparține;</p> 
+  <p>  Specie endemică - specie răspândită în stare sălbatică numai  într-o anumită regiune;</p> 
+  <p>  Specie relictă - specie izolată, datorită  modificărilor geografice, pe o suprafață restrânsă din vechiul său areal </p>
+UNIT_MEASURE: >-
+  Număr
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Date privind monitoringul  obiectelor din Cartea Roșie:</p> 
+  <p>1. Academia de Științe a Moldovei,</p> 
+  <p>2. Ministerul Mediului </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministerul  Mediului
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul total al speciilor de plante și animale  dispărute, critic  periclitate, periclitate, vulnerabile, rare și nedeterminate de pe teritoriul  țării incluse în Cartea Roșie la un moment determinat de timp.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul global reprezintă un indice al listei speciilor incluse în Cartea  Roșie, pe când indicatorul național reprezintă un număr al speciilor care sunt  incluse în Cartea Roșie a RM. Indicatorul național este unul complementar  celui global.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Ministerul Mediului
+source_periodicity_1: >-
+  O dată la 10 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Veronica Josu, consultant principal, Direcția Politici în Domeniul Biodiversității, Ministerul Mediului, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+source_other_info_1: >-

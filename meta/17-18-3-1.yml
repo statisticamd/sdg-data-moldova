@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.18.3.1: Existence of annual Action Plan to implement the National Strategy for  Development of the National Statistical System that is fully funded and under  implementation</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.18: By 2020, enhance capacity-building support to developing countries, including  for least developed countries and small island developing States, to increase  significantly the availability of high-quality, timely and reliable data  disaggregated by income, gender, age, race, ethnicity, migratory status,  disability, geographic location and other characteristics relevant in national  contexts</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  PARIS21
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.18
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.18.3.1: Existence of annual Action Plan to implement the National Strategy  for Development of the National Statistical System that is fully funded and  under implementation</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> The indicator refers to collecting the information in relation to the  existence of the Action Plan for implementing the National Strategy for  Development of the NSS. </p> 
+  <p>  At the global level, the achievement of this  indicator is assessed in the Annual Report regarding the status of national  strategies for statistics development (NSSD). In collaboration with its  partners, PARIS21 reports the country's progress in developing and  implementing national statistical plans. The indicator represents a number of  countries that (i) implement a strategy, (ii) develop a strategy or (iii) are  adopting a strategy during the current year. </p>
+UNIT_MEASURE: >-
+  Yes/no
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Sector normative and strategical framework in the area of statistics - NBS  </p> 
+  <p>  2) PARIS21 SDG Survey through online form + PARIS21 annual [NSDS status  report](https://paris21.org/sites/default/files/2019-05/NSDS%20Status%20Report%20May%202019.pdf) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  National Bureau of Statistics
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Existence of the annual Action Plan for implementing the National Strategy for  Development of the National Statistical System for 2016-2020, which is fully  funded and under implementation.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The indicator offers data regarding the national situation and represents a  part of the global indicator, that is collected from countries.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://statistica.gov.md/files/files/despre/Strategii/Realizare_plan_actiuni_SDSSN_2016-2019.pdf
+source_url_text_1: >-
+  Implementation of the Action Plan for the implementation of the National Statistical System Development Strategy 2016-2020
+source_contact_1: >-
+source_other_info_1: >-

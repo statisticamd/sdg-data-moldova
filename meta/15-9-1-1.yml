@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.9.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 15.9: By 2020, integrate ecosystem and biodiversity values into national and local  planning, development processes, poverty reduction strategies and accounts</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  CBD-Secretariat,UNEP
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  15.9
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 456kB)
+SDG_INDICATOR: >-
+  <p>Indicator 15.9.1.1: Level of implementation of actions under the Environment Strategic Plan for 2014-2023</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> The Strategy on Biodiversity of the Republic of Moldova for 2015-2020  (hereinafter called as Strategy) reflects the current situation of  biodiversity in the Republic of Moldova, the trends for change of biodiversity  components, purpose and objectives of activities meant for biodiversity  protection.  By implementing the Strategy, the provisions of international  treaties to which the Republic of Moldova is a part, will be carried out at  the national level, especially the recommendations stipulated in the Strategic  Plan for Biodiversity 2011-2020, including the Aichi Objectives for  Biodiversity, approved in  Nagoya (Japan) at the CBD Parties Conference  (2010), in the Strategic Plan of the EU for CBD until 2020, etc.</p> 
+  <p>  The  general objective of the Strategy is to reduce the current rate of  biodiversity loss, as a contribution to reducing poverty and as a benefit for  all the life forms on the Earth. </p> 
+  <p>  • Specific objective A. Ensuring by   2020 sustainable management and efficient institutional framework  in the area  of biological diversity;</p> 
+  <p>  • Specific objective B. Reducing by 2020 the  pressure on biological diversity to ensure sustainable development;</p> 
+  <p>  •  Specific objective C. Implementation by 2020 of measures to stop threats for  biodiversity;        </p> 
+  <p>  • Specific objective D. Ensuring by 2020 measure to  increase the benefits as a result of use of natural resources and ecosystem  services;</p> 
+  <p>  • Specific objective E. Ensuring by 2020 scientific support in  the area of biodiversity conservation, access to information and promotion of  education for sustainable development. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  administrative data
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministry of  Environment
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of  Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Proportion of actions carried out within the Strategic Plan on Biodiversity of  the Republic of Moldova for 2015-2020.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Ministry of  Environment
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=352741
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Veronica Josu, principal adviser, Biodiversity Policy Division, Ministry of Environment, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+source_other_info_1: >-

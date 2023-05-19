@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type
+graph_title: 15.9.1.1. Level of implementation of actions under the Environment Strategic Plan for 2014-2023
 graph_titles: []
 graph_type: line
-indicator_available: ion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type
-indicator_name: global_indicators.15-1-2-title
-indicator_number: 15.1.2
+indicator_available: Level of implementation of actions under the Environment Strategic Plan for 2014-2023
+indicator_name: global_indicators.15-9-1-1-title
+indicator_number: 15.9.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
