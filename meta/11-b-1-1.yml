@@ -61,14 +61,13 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
+  2
 source_active_1: true
 source_organisation_1: >-
   Ministry of Environment/State Hydrometeorological Service
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  hidrometeo@meteo.gov.md
 source_url_text_1: >-
   Link to source
 source_contact_1: >-

@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 13.2.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 13.2: Integrate climate change measures into national policies, strategies and  planning</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNFCCC
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  13.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-13.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 759kB)
+SDG_INDICATOR: >-
+  <p>Indicator 13.2.1.1: Actions for establishment and operationalization of policies,  strategies and action plans on climate change adaptation and resilience,   reduction of greenhouse gas emissions</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Number
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Administrative data
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Economic agents, </p> 
+  <p>2. State institutions, </p> 
+  <p>3. LPA </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  The number of undertaken actions and communications to UNFCCC, which have  mainstreamed aspects of climate change adaptation, reduction of greenhouse gas  emissions in national, sector, and inter-sector policy documents which were  approved and operationalised/implemented. These are included/described in the  National Communication on greenhouse gas emissions (once per 4 years), updated  Biennial Report on greenhouse gas emissions - biennial
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  With missing global metadata, the suggested national indicator is  complementary
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1. Ministry of Environment, </p> 
+  <p>2. National Office for the Implementation of Environmental Projects </p>
+source_periodicity_1: >-
+  Once every 2 and 4 years
+source_url_1: >-
+  http://clima.md/lib.php?l=ro&idc=250&
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Stela Drucioc, Head of Climate and Air Policy Division, Ministry of Environment, tel. 022 204 580, e-mail: stela.drucioc@mediu.gov.md.
+source_other_info_1: >-
