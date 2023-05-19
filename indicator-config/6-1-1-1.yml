@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
 computation_units: Percent, %
 copyright: ''
-data_footnote: ''
+data_footnote: Starting with 2014, the data are reported on the number of the population with usual residence.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 2.2.1 Prevalence of stunting among children under 5 years old
+graph_title: 6.1.1.1. Proportion of population with access to safely managed drinking water  supplied services
 graph_titles: []
 graph_type: line
-indicator_available: Prevalence of stunting among children under 5 years old
-indicator_name: global_indicators.2-2-1-title
-indicator_number: 2.2.1
+indicator_available: Proportion of population with access to safely managed drinking water  supplied services
+indicator_name: global_indicators.6-1-1-1-title
+indicator_number: 6.1.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''

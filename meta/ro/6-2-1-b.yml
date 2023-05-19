@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 6.2.1.b: Proporția populației care utilizează (a) servicii de salubritate gestionate în mod sigur și (b) o instalație de spălare a mâinilor cu săpun și apă</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 6.2: Până în 2030, realizarea accesului la condiții sanitare și de igienă adecvate și echitabile pentru toți și eliminarea defecării în aer liber, acordând o atenție specială nevoilor femeilor și fetelor și celor în situații vulnerabile</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  <p> Organizația Mondială a Sănătății (OMS)</p> 
+  <p>Fondul Națiunilor Unite pentru Copii (UNICEF) </p>
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  6.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  <p> https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf </p> 
+  <p>https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf </p>
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 6.2.1.b: Ponderea populației care utilizează o instalație de spălare a  mâinilor cu săpun și apă</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  [MICS  2012](https://www.unicef.org/moldova/rapoarte/studiul-de-indicatori-multipli-%C3%AEn-cuiburi-mics)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Națională pentru Sănătate Publică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministerul Infrastructurii și Dezvoltării Regionale</p> 
+  <p>Ministerul Sănătății </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul populației care utilizează o instalație de spălare a mâinilor cu săpun  si apă raportat la numărul total al populației*100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1(a)/2(b)
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Sănătate Publică
+source_periodicity_1: >-
+  O dată la câțiva ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

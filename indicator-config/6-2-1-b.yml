@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 2.2.1 Prevalence of stunting among children under 5 years old
+graph_title: 6.2.1.b. Proportion of population using a hand-washing facility with soap and  water
 graph_titles: []
 graph_type: line
-indicator_available: Prevalence of stunting among children under 5 years old
-indicator_name: global_indicators.2-2-1-title
-indicator_number: 2.2.1
+indicator_available: Proportion of population using a hand-washing facility with soap and  water
+indicator_name: global_indicators.6-2-1-b-title
+indicator_number: 6.2.1.b
 indicator_tabs:: 
   override: false
   tab_1: ''
