@@ -24,7 +24,7 @@ graph_title: 5.6.2.2.  Implementation in the country of the legislative-normativ
 graph_titles: []
 graph_type: line
 indicator_available: Implementation in the country of the legislative-normative  framework, which guarantees women and men aged 15-49 years old access to  sexual and reproductive health, information and education
-indicator_name: global_indicators.5-6-2-2-title
+indicator_name: national_indicators.5-6-2-2-title
 indicator_number: 5.6.2.2
 indicator_tabs:: 
   override: false

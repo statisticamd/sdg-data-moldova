@@ -24,7 +24,7 @@ graph_title: 7.1.2.1. Distribution of energy sources used for domestic needs
 graph_titles: []
 graph_type: line
 indicator_available: Distribution of energy sources used for domestic needs (space  heating, space cooling, water heating, cooking)
-indicator_name: global_indicators.7-1-2-1-title
+indicator_name: national_indicators.7-1-2-1-title
 indicator_number: 7.1.2.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 5.5.1.a. Proportion of seats held by women in the national parliame
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of seats held by women in the national parliament
-indicator_name: global_indicators.5-5-1-a-title
+indicator_name: national_indicators.5-5-1-a-title
 indicator_number: 5.5.1.a
 indicator_tabs:: 
   override: false

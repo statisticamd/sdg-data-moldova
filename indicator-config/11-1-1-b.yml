@@ -24,7 +24,7 @@ graph_title: 11.1.1.b. Proportion of persons living in dwellings with a area bel
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of persons living in dwellings with a area below 9 m2 per person and persons of different sexes over 9 years of age living in the same room, except for spouses (overcrowding)
-indicator_name: global_indicators.11-1-1-b-title
+indicator_name: national_indicators.11-1-1-b-title
 indicator_number: 11.1.1.b
 indicator_tabs:: 
   override: false

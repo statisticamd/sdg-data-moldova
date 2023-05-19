@@ -24,7 +24,7 @@ graph_title: 2.2.2.a. Prevalence of overweight among children aged under 5 years
 graph_titles: []
 graph_type: line
 indicator_available: Prevalence of overweight among children aged under 5 years old
-indicator_name: global_indicators.2-2-2-a-title
+indicator_name: national_indicators.2-2-2-a-title
 indicator_number: 2.2.2.a
 indicator_tabs:: 
   override: false

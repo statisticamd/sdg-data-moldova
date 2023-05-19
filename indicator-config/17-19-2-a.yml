@@ -28,7 +28,7 @@ graph_title: 17.19.2.a. The population and housing Census conducted in the frame
 graph_titles: []
 graph_type: line
 indicator_available: The population and housing Census conducted in the framework of the  2020 and 2030 round
-indicator_name: global_indicators.17-19-2-a-title
+indicator_name: national_indicators.17-19-2-a-title
 indicator_number: 17.19.2.a
 indicator_tabs:: 
   override: false

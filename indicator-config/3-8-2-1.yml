@@ -24,7 +24,7 @@ graph_title: 3.8.2.1. Proportion of private expenditures (of households) for hea
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of private expenditures (of households) for health
-indicator_name: global_indicators.3-8-2-1-title
+indicator_name: national_indicators.3-8-2-1-title
 indicator_number: 3.8.2.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 14.4.1.1 Number of registered contraventions on illegal fishing
 graph_titles: []
 graph_type: line
 indicator_available: umber of registered contraventions on illegal fishing
-indicator_name: global_indicators.14-4-1-1--title
+indicator_name: national_indicators.14-4-1-1--title
 indicator_number: 14.4.1.1.
 indicator_tabs:: 
   override: false

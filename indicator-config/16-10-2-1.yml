@@ -24,7 +24,7 @@ graph_title: 16.10.2.1. Existence and level of implementation of the  regulatory
 graph_titles: []
 graph_type: line
 indicator_available: Existence and level of implementation regulatory framework on access to information
-indicator_name: global_indicators.16-10-2-1-title
+indicator_name: national_indicators.16-10-2-1-title
 indicator_number: 16.10.2.1
 indicator_tabs:: 
   override: false

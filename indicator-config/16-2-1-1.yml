@@ -24,7 +24,7 @@ graph_title: 16.2.1.1 Number of child victims of violence and neglect at the end
 graph_titles: []
 graph_type: line
 indicator_available: Number of child victims of violence and neglect at the end of the  year
-indicator_name: global_indicators.16-2-1-1-title
+indicator_name: national_indicators.16-2-1-1-title
 indicator_number: 16.2.1.1
 indicator_tabs:: 
   override: false

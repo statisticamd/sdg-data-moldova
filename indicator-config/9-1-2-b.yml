@@ -24,7 +24,7 @@ graph_title: 9.1.2.b. Passenger record by mode of transport (air, road, railroad
 graph_titles: []
 graph_type: line
 indicator_available: Passenger record by mode of transport (air, road, railroad, river)
-indicator_name: global_indicators.9-1-2-b-title
+indicator_name: national_indicators.9-1-2-b-title
 indicator_number: 9.1.2.b
 indicator_tabs:: 
   override: false

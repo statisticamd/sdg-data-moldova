@@ -24,7 +24,7 @@ graph_title: 2.3.1.1 Share of sown areas in total arable land
 graph_titles: []
 graph_type: line
 indicator_available: 
-indicator_name: global_indicators.2-3-1-1- Share of sown areas in total arable land-title
+indicator_name: national_indicators.2-3-1-1- Share of sown areas in total arable land-title
 indicator_number: 2.3.1.1. Share of sown areas in total arable land
 indicator_tabs:: 
   override: false

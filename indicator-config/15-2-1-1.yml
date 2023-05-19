@@ -24,7 +24,7 @@ graph_title: 15.2.1.1 Area of degraded land recovered through reforestation
 graph_titles: []
 graph_type: line
 indicator_available: Area of degraded land recovered through reforestation
-indicator_name: global_indicators.15-2-1-1-title
+indicator_name: national_indicators.15-2-1-1-title
 indicator_number: 15.2.1.1
 indicator_tabs:: 
   override: false

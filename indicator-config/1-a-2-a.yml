@@ -24,7 +24,7 @@ graph_title: 1.a.2.a Proportion of education expenditure in total national publi
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of education expenditure in total national public budget  expenditure
-indicator_name: global_indicators.1-a-2-a-title
+indicator_name: national_indicators.1-a-2-a-title
 indicator_number: 1.a.2.a
 indicator_tabs:: 
   override: false

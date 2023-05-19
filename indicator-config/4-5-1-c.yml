@@ -24,7 +24,7 @@ graph_title: 4.5.1.c. Parity index in general secondary (lyceums) and technical 
 graph_titles: []
 graph_type: line
 indicator_available: Parity index in general secondary (lyceums) and technical vocational  education (level 3)
-indicator_name: global_indicators.4-5-1-c-title
+indicator_name: national_indicators.4-5-1-c-title
 indicator_number: 4.5.1.c
 indicator_tabs:: 
   override: false

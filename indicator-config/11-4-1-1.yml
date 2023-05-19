@@ -24,7 +24,7 @@ graph_title: 11.4.1.1 Proportion of expenditures for maintenance and protection 
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of expenditures for maintenance and protection of cultural  heritage in total expenditures of the national public budget
-indicator_name: global_indicators.11-4-1-1-title
+indicator_name: national_indicators.11-4-1-1-title
 indicator_number: 11.4.1.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 10.1.1.a. Growth rate of household expenditures per capita among th
 graph_titles: []
 graph_type: line
 indicator_available: Growth rate of household expenditures per capita among the total  population
-indicator_name: global_indicators.10-1-1-a-title
+indicator_name: national_indicators.10-1-1-a-title
 indicator_number: 10.1.1.a
 indicator_tabs:: 
   override: false

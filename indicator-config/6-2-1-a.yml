@@ -24,7 +24,7 @@ graph_title: 6.2.1.a. Share of population with access to sewerage system
 graph_titles: []
 graph_type: line
 indicator_available: Share of population with access to sewerage system
-indicator_name: global_indicators.6-2-1-a-title
+indicator_name: national_indicators.6-2-1-a-title
 indicator_number: 6.2.1.a
 indicator_tabs:: 
   override: false

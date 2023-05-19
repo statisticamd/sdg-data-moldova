@@ -24,7 +24,7 @@ graph_title: 16.3.2.3 The proportion of cases lost at ECHR out of the number of 
 graph_titles: []
 graph_type: line
 indicator_available: The proportion of cases lost at ECHR out of the number of applications notified each year
-indicator_name: global_indicators.16-3-2-3-title
+indicator_name: national_indicators.16-3-2-3-title
 indicator_number: 16.3.2.3
 indicator_tabs:: 
   override: false

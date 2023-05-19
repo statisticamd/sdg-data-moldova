@@ -24,7 +24,7 @@ graph_title: 16.5.2.2 „Regulatory quality” indicator (between -2,5 and 2,5)
 graph_titles: []
 graph_type: line
 indicator_available: „Regulatory quality” indicator (between -2,5 and 2,5)
-indicator_name: global_indicators.16-5-2-2-title
+indicator_name: national_indicators.16-5-2-2-title
 indicator_number: 16.5.2.2
 indicator_tabs:: 
   override: false

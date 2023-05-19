@@ -24,7 +24,7 @@ graph_title: 17.18.3.1 Existence of annual Action Plan to implement the National
 graph_titles: []
 graph_type: line
 indicator_available: Existence of annual Action Plan to implement the National Strategy  for Development of the National Statistical System that is fully funded and  under implementation
-indicator_name: global_indicators.17-18-3-1-title
+indicator_name: national_indicators.17-18-3-1-title
 indicator_number: 17.18.3.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 6.2.1.b. Proportion of population using a hand-washing facility wit
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of population using a hand-washing facility with soap and  water
-indicator_name: global_indicators.6-2-1-b-title
+indicator_name: national_indicators.6-2-1-b-title
 indicator_number: 6.2.1.b
 indicator_tabs:: 
   override: false

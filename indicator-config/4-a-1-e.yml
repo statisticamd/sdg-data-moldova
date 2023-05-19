@@ -24,7 +24,7 @@ graph_title: 4.a.1.e. Proportion of schools supplied with drinking water
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of schools supplied with drinking water
-indicator_name: global_indicators.4-a-1-e-title
+indicator_name: national_indicators.4-a-1-e-title
 indicator_number: 4.a.1.e
 indicator_tabs:: 
   override: false

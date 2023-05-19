@@ -24,7 +24,7 @@ graph_title: 9.3.1.1 Contribution of gross value added  of SMEs in total gross v
 graph_titles: []
 graph_type: line
 indicator_available: Contribution of gross value added  of SMEs in total gross value added
-indicator_name: global_indicators.9-3-1-1-title
+indicator_name: national_indicators.9-3-1-1-title
 indicator_number: 9.3.1.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 5.4.1.2 Coverage of children up to 3 years old with early education
 graph_titles: []
 graph_type: line
 indicator_available: Coverage of children up to 3 years old with early education
-indicator_name: global_indicators.5-4-1-2-title
+indicator_name: national_indicators.5-4-1-2-title
 indicator_number: 5.4.1.2
 indicator_tabs:: 
   override: false

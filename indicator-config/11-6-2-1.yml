@@ -24,7 +24,7 @@ graph_title: 11.6.2.1. Quantity of emissions of polluting substances in the air 
 graph_titles: []
 graph_type: line
 indicator_available: Quantity of emissions of polluting substances in the air from mobile  sources (by sources), thousand tonnes, per person
-indicator_name: global_indicators.11-6-2-1-title
+indicator_name: national_indicators.11-6-2-1-title
 indicator_number: 11.6.2.1
 indicator_tabs:: 
   override: false

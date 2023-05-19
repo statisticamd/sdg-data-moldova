@@ -24,7 +24,7 @@ graph_title: 17.17.1.1 Implementation of the Civil Society Development Strategy
 graph_titles: []
 graph_type: line
 indicator_available: Implementation of the Civil Society Development Strategy
-indicator_name: global_indicators.17-17-1-1-title
+indicator_name: national_indicators.17-17-1-1-title
 indicator_number: 17.17.1.1
 indicator_tabs:: 
   override: false

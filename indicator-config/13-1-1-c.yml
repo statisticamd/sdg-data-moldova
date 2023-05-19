@@ -24,7 +24,7 @@ graph_title: 13.1.1.c. Number of people directly affected as a result of excepti
 graph_titles: []
 graph_type: line
 indicator_available: Number of people directly affected as a result of exceptional  situations per 100,000 population (indicator 1.5.1.c/11.5.1.c)
-indicator_name: global_indicators.13-1-1-c-title
+indicator_name: national_indicators.13-1-1-c-title
 indicator_number: 13.1.1.c
 indicator_tabs:: 
   override: false

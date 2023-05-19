@@ -24,7 +24,7 @@ graph_title: 9.4.1.b. Total CO2 emissions per 1 GDP unit
 graph_titles: []
 graph_type: line
 indicator_available: Total CO2 emissions per 1 GDP unit
-indicator_name: global_indicators.9-4-1-b-title
+indicator_name: national_indicators.9-4-1-b-title
 indicator_number: 9.4.1.b
 indicator_tabs:: 
   override: false

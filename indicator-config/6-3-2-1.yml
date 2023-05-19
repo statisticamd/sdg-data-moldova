@@ -24,7 +24,7 @@ graph_title: 6.3.2.1 Proportion of drinking water supply sources not compliant w
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of drinking water supply sources not compliant with the  sanitary norms for water quality (according to microbiological parameters)
-indicator_name: global_indicators.6-3-2-1-title
+indicator_name: national_indicators.6-3-2-1-title
 indicator_number: 6.3.2.1
 indicator_tabs:: 
   override: false

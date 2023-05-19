@@ -24,7 +24,7 @@ graph_title: 4.5.1.b. Parity index in lower secondary education (level 2)
 graph_titles: []
 graph_type: line
 indicator_available: Parity index in lower secondary education (level 2)
-indicator_name: global_indicators.4-5-1-b-title
+indicator_name: national_indicators.4-5-1-b-title
 indicator_number: 4.5.1.b
 indicator_tabs:: 
   override: false

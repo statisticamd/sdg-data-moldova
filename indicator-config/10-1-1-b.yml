@@ -24,7 +24,7 @@ graph_title: 10.1.1.b. Growth rate of household expenditures per capita among th
 graph_titles: []
 graph_type: line
 indicator_available: Growth rate of household expenditures per capita among the bottom 40% of the population
-indicator_name: global_indicators.10-1-1-b-title
+indicator_name: national_indicators.10-1-1-b-title
 indicator_number: 10.1.1.b
 indicator_tabs:: 
   override: false

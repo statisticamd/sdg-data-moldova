@@ -24,7 +24,7 @@ graph_title: 1.5.1.c. Number of persons directly affected as a result of disaste
 graph_titles: []
 graph_type: line
 indicator_available: Number of persons directly affected as a result of disasters, per  100.000 population
-indicator_name: global_indicators.1-5-1-c-title
+indicator_name: national_indicators.1-5-1-c-title
 indicator_number: 1.5.1.c
 indicator_tabs:: 
   override: false

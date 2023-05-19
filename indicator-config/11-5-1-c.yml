@@ -24,7 +24,7 @@ graph_title: 11.5.1.c. Number of directly affected persons attributed to disaste
 graph_titles: []
 graph_type: line
 indicator_available: Number of directly affected persons attributed to disasters, per  100,000 population  (the same as 1.5.1.c/13.1.1.c)
-indicator_name: global_indicators.11-5-1-c-title
+indicator_name: national_indicators.11-5-1-c-title
 indicator_number: 11.5.1.c
 indicator_tabs:: 
   override: false

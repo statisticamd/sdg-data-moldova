@@ -24,7 +24,7 @@ graph_title: 3.3.1.1 HIV associated deaths per 100 000 population
 graph_titles: []
 graph_type: line
 indicator_available: HIV associated deaths per 100 000 population
-indicator_name: global_indicators.3-3-1-1-title
+indicator_name: national_indicators.3-3-1-1-title
 indicator_number: 3.3.1.1
 indicator_tabs:: 
   override: false

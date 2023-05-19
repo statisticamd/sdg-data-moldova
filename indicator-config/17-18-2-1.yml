@@ -24,7 +24,7 @@ graph_title: 17.18.2.1 Availability of national statistical legislation that com
 graph_titles: []
 graph_type: line
 indicator_available: Availability of national statistical legislation that complies with  the Fundamental Principles of Official Statistics
-indicator_name: global_indicators.17-18-2-1-title
+indicator_name: national_indicators.17-18-2-1-title
 indicator_number: 17.18.2.1
 indicator_tabs:: 
   override: false

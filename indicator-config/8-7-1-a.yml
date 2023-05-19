@@ -24,7 +24,7 @@ graph_title: 8.7.1.a  Share of children aged 5–17 years engaged in child labou
 graph_titles: []
 graph_type: line
 indicator_available: Share of children aged 5–17 years engaged in child labour
-indicator_name: global_indicators.8-7-1-a-title
+indicator_name: national_indicators.8-7-1-a-title
 indicator_number: 8.7.1.a
 indicator_tabs:: 
   override: false

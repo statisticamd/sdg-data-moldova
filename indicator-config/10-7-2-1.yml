@@ -24,7 +24,7 @@ graph_title: 10.7.2.1 Existence of efficient national policies on migration
 graph_titles: []
 graph_type: line
 indicator_available: Existence of efficient national policies on migration
-indicator_name: global_indicators.10-7-2-1-title
+indicator_name: national_indicators.10-7-2-1-title
 indicator_number: 10.7.2.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 17.16.1.1 Reporting progress achieved in enforcing the framework fo
 graph_titles: []
 graph_type: line
 indicator_available: Reporting progress achieved in enforcing the framework for  monitoring development efficiency with participation with more partners,  providing support to the country to achieve the Sustainable Development Goals
-indicator_name: global_indicators.17-16-1-1-title
+indicator_name: national_indicators.17-16-1-1-title
 indicator_number: 17.16.1.1
 indicator_tabs:: 
   override: false

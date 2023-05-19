@@ -24,7 +24,7 @@ graph_title: 11.3.1.1. Level of urbanization
 graph_titles: []
 graph_type: line
 indicator_available: Level of urbanization
-indicator_name: global_indicators.11-3-1-1-title
+indicator_name: national_indicators.11-3-1-1-title
 indicator_number: 11.3.1.1
 indicator_tabs:: 
   override: false

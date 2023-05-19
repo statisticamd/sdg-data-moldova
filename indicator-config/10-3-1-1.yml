@@ -24,7 +24,7 @@ graph_title: 10.3.1.1 Number of cases of discrimination established per 100,000 
 graph_titles: []
 graph_type: line
 indicator_available: Number of cases of discrimination established per 100,000 inhabitants
-indicator_name: global_indicators.10-3-1-1-title
+indicator_name: national_indicators.10-3-1-1-title
 indicator_number: 10.3.1.1
 indicator_tabs:: 
   override: false

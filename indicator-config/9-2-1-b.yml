@@ -24,7 +24,7 @@ graph_title: 9.2.1.b. Manufacturing gross value added per person (lei, constant 
 graph_titles: []
 graph_type: line
 indicator_available: Manufacturing gross value added per person (lei, constant prices)
-indicator_name: global_indicators.9-2-1-b-title
+indicator_name: national_indicators.9-2-1-b-title
 indicator_number: 9.2.1.b
 indicator_tabs:: 
   override: false

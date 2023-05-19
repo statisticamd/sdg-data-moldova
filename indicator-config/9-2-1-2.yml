@@ -24,7 +24,7 @@ graph_title: 9.2.1.2. Manufacturing gross value added per employed person (US do
 graph_titles: []
 graph_type: line
 indicator_available: Manufacturing gross value added per employed person (US dollars,  constant prices)
-indicator_name: global_indicators.9-2-1-2-title
+indicator_name: national_indicators.9-2-1-2-title
 indicator_number: 9.2.1.2
 indicator_tabs:: 
   override: false

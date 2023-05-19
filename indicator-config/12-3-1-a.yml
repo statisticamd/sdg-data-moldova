@@ -24,7 +24,7 @@ graph_title: 12.3.1.a. Food loss index
 graph_titles: []
 graph_type: line
 indicator_available: Food loss index
-indicator_name: global_indicators.12-3-1-a-title
+indicator_name: national_indicators.12-3-1-a-title
 indicator_number: 12.3.1.a
 indicator_tabs:: 
   override: false

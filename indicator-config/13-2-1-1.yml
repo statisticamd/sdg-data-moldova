@@ -24,7 +24,7 @@ graph_title: 13.2.1.1 Actions for establishment and operationalization of polici
 graph_titles: []
 graph_type: line
 indicator_available: Actions for establishment and operationalization of policies,  strategies and action plans on climate change adaptation and resilience,   reduction of greenhouse gas emissions
-indicator_name: global_indicators.13-2-1-1-title
+indicator_name: national_indicators.13-2-1-1-title
 indicator_number: 13.2.1.1
 indicator_tabs:: 
   override: false

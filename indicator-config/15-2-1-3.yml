@@ -24,7 +24,7 @@ graph_title: 15.2.1.3. Area of extended forest
 graph_titles: []
 graph_type: line
 indicator_available: Area of extended forest
-indicator_name: global_indicators.15-2-1-3-title
+indicator_name: national_indicators.15-2-1-3-title
 indicator_number: 15.2.1.3
 indicator_tabs:: 
   override: false

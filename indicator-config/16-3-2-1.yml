@@ -24,7 +24,7 @@ graph_title: 16.3.2.1 Number of persons that accessed state guaranteed legal aid
 graph_titles: []
 graph_type: line
 indicator_available: Number of persons that accessed state guaranteed legal aid
-indicator_name: global_indicators.16-3-2-1-title
+indicator_name: national_indicators.16-3-2-1-title
 indicator_number: 16.3.2.1
 indicator_tabs:: 
   override: false

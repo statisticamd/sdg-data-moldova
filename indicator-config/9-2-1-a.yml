@@ -24,7 +24,7 @@ graph_title: 9.2.1.a. Manufacturing gross value added as a proportion of GDP (MD
 graph_titles: []
 graph_type: line
 indicator_available: Manufacturing gross value added as a proportion of GDP (Moldovan lei, current  prices)
-indicator_name: global_indicators.9-2-1-a-title
+indicator_name: national_indicators.9-2-1-a-title
 indicator_number: 9.2.1.a
 indicator_tabs:: 
   override: false

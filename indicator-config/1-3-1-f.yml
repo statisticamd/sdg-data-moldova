@@ -24,7 +24,7 @@ graph_title: 1.3.1.f. Proportion of persons covered with benefits for temporary 
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of persons covered with benefits for temporary work  incapacity, caused by work accidents and occupational diseases
-indicator_name: global_indicators.1-3-1-f-title
+indicator_name: national_indicators.1-3-1-f-title
 indicator_number: 1.3.1.f
 indicator_tabs:: 
   override: false

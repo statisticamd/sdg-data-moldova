@@ -24,7 +24,7 @@ graph_title: 12.4.2.a. Volume of hazardous waste generated
 graph_titles: []
 graph_type: line
 indicator_available: Volume of hazardous waste generated
-indicator_name: global_indicators.12-4-2-a-title
+indicator_name: national_indicators.12-4-2-a-title
 indicator_number: 12.4.2.a
 indicator_tabs:: 
   override: false

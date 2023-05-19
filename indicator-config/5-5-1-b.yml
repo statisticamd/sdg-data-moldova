@@ -24,7 +24,7 @@ graph_title: 5.5.1.b. Proportion of seats held by women in local public administ
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of seats held by women in local public administration
-indicator_name: global_indicators.5-5-1-b-title
+indicator_name: national_indicators.5-5-1-b-title
 indicator_number: 5.5.1.b
 indicator_tabs:: 
   override: false

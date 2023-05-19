@@ -24,7 +24,7 @@ graph_title: 9.3.1.a. Contribution of gross value added of small and medium-size
 graph_titles: []
 graph_type: line
 indicator_available: Contribution of gross value added of small and medium-sized enterprises in manufacturing to total gross value added in manufacturing
-indicator_name: global_indicators.9-3-1-a-title
+indicator_name: national_indicators.9-3-1-a-title
 indicator_number: 9.3.1.a
 indicator_tabs:: 
   override: false

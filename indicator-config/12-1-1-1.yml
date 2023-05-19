@@ -24,7 +24,7 @@ graph_title: 12.1.1.1 Number of national policies integrating "green" economy as
 graph_titles: []
 graph_type: line
 indicator_available: Number of national policies integrating "green" economy aspects,  sustainable production and consumption (SPC)
-indicator_name: global_indicators.12-1-1-1-title
+indicator_name: national_indicators.12-1-1-1-title
 indicator_number: 12.1.1.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 9.4.1.1 Total CO2 emissions by sectors, equivalent thousand tons CO
 graph_titles: []
 graph_type: line
 indicator_available: Total CO2 emissions by sectors, equivalent thousand tons CO2
-indicator_name: global_indicators.9-4-1-1-title
+indicator_name: national_indicators.9-4-1-1-title
 indicator_number: 9.4.1.1
 indicator_tabs:: 
   override: false

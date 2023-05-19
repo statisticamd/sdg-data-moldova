@@ -24,7 +24,7 @@ graph_title: 13.1.1.b. Number of deaths as a result of exceptional circumstances
 graph_titles: []
 graph_type: line
 indicator_available: Number of deaths as a result of exceptional circumstances per  100,000 population (indicator 1.5.1.a/11.5.1.b)
-indicator_name: global_indicators.13-1-1-b-title
+indicator_name: national_indicators.13-1-1-b-title
 indicator_number: 13.1.1.b
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 2.2.2.b. Prevalence of wasting among children under 5 years old
 graph_titles: []
 graph_type: line
 indicator_available: Prevalence of wasting among children under 5 years old
-indicator_name: global_indicators.2-2-2-b-title
+indicator_name: national_indicators.2-2-2-b-title
 indicator_number: 2.2.2.b
 indicator_tabs:: 
   override: false

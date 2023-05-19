@@ -24,7 +24,7 @@ graph_title: 11.5.3.b. Number of interruptions of basic services due to exceptio
 graph_titles: []
 graph_type: line
 indicator_available: Number of interruptions of basic services due to exceptional situations
-indicator_name: global_indicators.11-5-3-b--title
+indicator_name: national_indicators.11-5-3-b--title
 indicator_number: 11.5.3.b.
 indicator_tabs:: 
   override: false

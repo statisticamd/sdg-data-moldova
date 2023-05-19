@@ -24,7 +24,7 @@ graph_title: 6.1.1.1. Proportion of population with access to safely managed dri
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of population with access to safely managed drinking water  supplied services
-indicator_name: global_indicators.6-1-1-1-title
+indicator_name: national_indicators.6-1-1-1-title
 indicator_number: 6.1.1.1
 indicator_tabs:: 
   override: false

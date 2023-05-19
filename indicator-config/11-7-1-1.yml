@@ -24,7 +24,7 @@ graph_title: 11.7.1.1 Proportion of green spaces and streets (conventionally pub
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of green spaces and streets (conventionally public areas)  out of the built-in areas of urban localities
-indicator_name: global_indicators.11-7-1-1-title
+indicator_name: national_indicators.11-7-1-1-title
 indicator_number: 11.7.1.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 4.5.1.e. Parity index of children with disabilities in primary and 
 graph_titles: []
 graph_type: line
 indicator_available: Parity index of children with disabilities in primary and general  secondary education
-indicator_name: global_indicators.4-5-1-e-title
+indicator_name: national_indicators.4-5-1-e-title
 indicator_number: 4.5.1.e
 indicator_tabs:: 
   override: false

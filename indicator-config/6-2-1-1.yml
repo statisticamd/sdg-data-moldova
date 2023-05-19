@@ -24,7 +24,7 @@ graph_title: 6.2.1.1. Proportion of population having a (a) toilet and (b) bath 
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of population having a (a) toilet and (b) bath or shower within the dwelling
-indicator_name: global_indicators.6-2-1-1-title
+indicator_name: national_indicators.6-2-1-1-title
 indicator_number: 6.2.1.1
 indicator_tabs:: 
   override: false

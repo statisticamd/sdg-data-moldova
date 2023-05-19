@@ -24,7 +24,7 @@ graph_title: 5.b.1.1. Average number of mobile telephones by 100 households
 graph_titles: []
 graph_type: line
 indicator_available: Average number of mobile telephones by 100 households
-indicator_name: global_indicators.5-b-1-1-title
+indicator_name: national_indicators.5-b-1-1-title
 indicator_number: 5.b.1.1
 indicator_tabs:: 
   override: false

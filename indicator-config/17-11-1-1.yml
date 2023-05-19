@@ -24,7 +24,7 @@ graph_title: 17.11.1.1 Exports of goods  as a proportion of country's foreign tr
 graph_titles: []
 graph_type: line
 indicator_available: Exports of goods  as a proportion of country's foreign trade
-indicator_name: global_indicators.17-11-1-1-title
+indicator_name: national_indicators.17-11-1-1-title
 indicator_number: 17.11.1.1
 indicator_tabs:: 
   override: false

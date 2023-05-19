@@ -24,7 +24,7 @@ graph_title: 1.a.2.b Proportion of health care expenditure in total national pub
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of health care expenditure in total national public budget  expenditure
-indicator_name: global_indicators.1-a-2-b-title
+indicator_name: national_indicators.1-a-2-b-title
 indicator_number: 1.a.2.b
 indicator_tabs:: 
   override: false

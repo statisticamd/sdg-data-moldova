@@ -24,9 +24,9 @@ graph_title: 1.1.1.1. Proportion of population below the international poverty l
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of population below the international poverty line of $4.3 per day
-indicator_name: global_indicators.1-1-1-1-title
+indicator_name: national_indicators.1-1-1-1-title
 indicator_number: 1.1.1.1
-indicator_tabs:: 
+indicator_tabs::
   override: false
   tab_1: ''
   tab_2: ''

@@ -24,7 +24,7 @@ graph_title: 10.7.2.3. Number of bilateral agreements in the area of social secu
 graph_titles: []
 graph_type: line
 indicator_available: bilateral agreements in the area of social security signed and entered into force
-indicator_name: global_indicators.10-7-2-3-title
+indicator_name: national_indicators.10-7-2-3-title
 indicator_number: 10.7.2.3
 indicator_tabs:: 
   override: false

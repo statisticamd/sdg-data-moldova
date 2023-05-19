@@ -24,7 +24,7 @@ graph_title: 13.1.1.a. Number of deaths attributed to disasters per 100,000 popu
 graph_titles: []
 graph_type: line
 indicator_available: Number of deaths attributed to disasters per 100,000 population
-indicator_name: global_indicators.13-1-1-a-title
+indicator_name: national_indicators.13-1-1-a-title
 indicator_number: 13.1.1.a
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 11.b.1.1 National strategic framework on risk reduction in exceptio
 graph_titles: []
 graph_type: line
 indicator_available: National strategic framework on risk reduction in exceptional  situations, in line with the Sendai Framework for Disaster Risk Reduction  2015–2030, adopted and implemented ( the same as 1.5.3.1/13.1.2.1)
-indicator_name: global_indicators.11-b-1-1-title
+indicator_name: national_indicators.11-b-1-1-title
 indicator_number: 11.b.1.1
 indicator_tabs:: 
   override: false

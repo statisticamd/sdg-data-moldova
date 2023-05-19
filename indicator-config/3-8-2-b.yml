@@ -24,7 +24,7 @@ graph_title: 3.8.2.b. Proportion of population with household expenditures on he
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of population with household expenditures on health larger than 25% of total household expenditure
-indicator_name: global_indicators.3-8-2-b-title
+indicator_name: national_indicators.3-8-2-b-title
 indicator_number: 3.8.2.b
 indicator_tabs:: 
   override: false

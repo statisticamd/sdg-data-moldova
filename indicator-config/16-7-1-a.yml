@@ -24,7 +24,7 @@ graph_title: 16.7.1.a. Ratio between the proportion of seat taken in the Parliam
 graph_titles: []
 graph_type: line
 indicator_available: Ratio between the proportion of seat taken in the Parliament by  persons from certain groups of population and proportion of the respective  group in total population
-indicator_name: global_indicators.16-7-1-a-title
+indicator_name: national_indicators.16-7-1-a-title
 indicator_number: 16.7.1.a
 indicator_tabs:: 
   override: false

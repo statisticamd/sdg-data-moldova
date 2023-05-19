@@ -24,7 +24,7 @@ graph_title: 4.a.1.f. Proportion of schools with access to separate sanitation f
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of schools with access to separate sanitation facilities for girls and boys
-indicator_name: global_indicators.4-a-1-f-title
+indicator_name: national_indicators.4-a-1-f-title
 indicator_number: 4.a.1.f
 indicator_tabs:: 
   override: false

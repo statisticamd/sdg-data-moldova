@@ -24,7 +24,7 @@ graph_title: 10.7.2.2 Number of bilateral agreements signed in the area of labou
 graph_titles: []
 graph_type: line
 indicator_available: Number of bilateral agreements signed in the area of labour migration
-indicator_name: global_indicators.10-7-2-2-title
+indicator_name: national_indicators.10-7-2-2-title
 indicator_number: 10.7.2.2
 indicator_tabs:: 
   override: false

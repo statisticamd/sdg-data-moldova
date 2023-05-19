@@ -24,7 +24,7 @@ graph_title: 12.4.2.b. Proportion of hazardous waste recycled, disposed of or la
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of hazardous waste recycled, disposed of or landfilled in total hazardous waste generated
-indicator_name: global_indicators.12-4-2-b-title
+indicator_name: national_indicators.12-4-2-b-title
 indicator_number: 12.4.2.b
 indicator_tabs:: 
   override: false

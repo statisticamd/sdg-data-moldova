@@ -24,7 +24,7 @@ graph_title: 5.5.2.3. Share of female judges
 graph_titles: []
 graph_type: line
 indicator_available: Share of female judges
-indicator_name: global_indicators.5-5-2-3-title
+indicator_name: national_indicators.5-5-2-3-title
 indicator_number: 5.5.2.3
 indicator_tabs:: 
   override: false

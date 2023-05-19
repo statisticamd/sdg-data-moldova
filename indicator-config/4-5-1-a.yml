@@ -24,7 +24,7 @@ graph_title: 4.5.1.a. Parity index in primary education (level 1)
 graph_titles: []
 graph_type: line
 indicator_available: Parity index in primary education (level 1)
-indicator_name: global_indicators.4-5-1-a-title
+indicator_name: national_indicators.4-5-1-a-title
 indicator_number: 4.5.1.a
 indicator_tabs:: 
   override: false

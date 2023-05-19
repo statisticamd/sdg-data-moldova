@@ -24,7 +24,7 @@ graph_title: 1.3.1.g. Proportion of vulnerable persons benefiting from social as
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of vulnerable persons benefiting from social assistance  benefits
-indicator_name: global_indicators.1-3-1-g-title
+indicator_name: national_indicators.1-3-1-g-title
 indicator_number: 1.3.1.g
 indicator_tabs:: 
   override: false

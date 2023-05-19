@@ -24,7 +24,7 @@ graph_title: 15.9.1.1. Level of implementation of actions under the Environment 
 graph_titles: []
 graph_type: line
 indicator_available: Level of implementation of actions under the Environment Strategic Plan for 2014-2023
-indicator_name: global_indicators.15-9-1-1-title
+indicator_name: national_indicators.15-9-1-1-title
 indicator_number: 15.9.1.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 4.c.1.c. Proportion of teachers with pedagogical education in gener
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of teachers with pedagogical education in general  secondary education (5-12 grades)
-indicator_name: global_indicators.4-c-1-c-title
+indicator_name: national_indicators.4-c-1-c-title
 indicator_number: 4.c.1.c
 indicator_tabs:: 
   override: false

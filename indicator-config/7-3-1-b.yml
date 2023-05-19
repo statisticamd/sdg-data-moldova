@@ -24,7 +24,7 @@ graph_title: 7.3.1.b. Final consumption of energy resources
 graph_titles: []
 graph_type: line
 indicator_available: Final consumption of energy resources
-indicator_name: global_indicators.7-3-1-b-title
+indicator_name: national_indicators.7-3-1-b-title
 indicator_number: 7.3.1.b
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 15.8.1.1 Existence of regulatory documents and measures on preventi
 graph_titles: []
 graph_type: line
 indicator_available: Existence of regulatory documents and measures on prevention and  decrease of invasive species' appearance to control and eradicate priority  species
-indicator_name: global_indicators.15-8-1-1-title
+indicator_name: national_indicators.15-8-1-1-title
 indicator_number: 15.8.1.1
 indicator_tabs:: 
   override: false

@@ -24,7 +24,7 @@ graph_title: 1.5.1.b. Number of persons who have disappeared as a result of disa
 graph_titles: []
 graph_type: line
 indicator_available: Number of persons who have disappeared as a result of disasters, per  100.000 population
-indicator_name: global_indicators.1-5-1-b-title
+indicator_name: national_indicators.1-5-1-b-title
 indicator_number: 1.5.1.b
 indicator_tabs:: 
   override: false

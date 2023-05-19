@@ -24,7 +24,7 @@ graph_title: 16.5.2.1 „Corruption control” indicator  (between -2,5 and 2,5)
 graph_titles: []
 graph_type: line
 indicator_available: „Corruption control” indicator  (between -2,5 and 2,5)
-indicator_name: global_indicators.16-5-2-1-title
+indicator_name: national_indicators.16-5-2-1-title
 indicator_number: 16.5.2.1
 indicator_tabs:: 
   override: false

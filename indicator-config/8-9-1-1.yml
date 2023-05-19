@@ -24,7 +24,7 @@ graph_title: 8.9.1.1. Share of tourism in GDP
 graph_titles: []
 graph_type: line
 indicator_available: Share of tourism in GDP
-indicator_name: global_indicators.8-9-1-1-title
+indicator_name: national_indicators.8-9-1-1-title
 indicator_number: 8.9.1.1
 indicator_tabs:: 
   override: false

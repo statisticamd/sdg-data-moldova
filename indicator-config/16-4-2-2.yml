@@ -24,7 +24,7 @@ graph_title: 16.4.2.2 Number of confiscated illegally owned arms
 graph_titles: []
 graph_type: line
 indicator_available: Number of confiscated illegally owned arms
-indicator_name: global_indicators.16-4-2-2-title
+indicator_name: national_indicators.16-4-2-2-title
 indicator_number: 16.4.2.2
 indicator_tabs:: 
   override: false

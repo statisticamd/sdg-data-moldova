@@ -24,7 +24,7 @@ graph_title: 15.5.1.1 Total number of species included in the Red Book
 graph_titles: []
 graph_type: line
 indicator_available: Total number of species included in the Red Book
-indicator_name: global_indicators.15-5-1-1-title
+indicator_name: national_indicators.15-5-1-1-title
 indicator_number: 15.5.1.1
 indicator_tabs:: 
   override: false

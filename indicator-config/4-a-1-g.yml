@@ -24,7 +24,7 @@ graph_title: 4.a.1.g. Proportion of educational institutions with basic handwash
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of educational institutions with basic handwashing  facilities
-indicator_name: global_indicators.4-a-1-g-title
+indicator_name: national_indicators.4-a-1-g-title
 indicator_number: 4.a.1.g
 indicator_tabs:: 
   override: false

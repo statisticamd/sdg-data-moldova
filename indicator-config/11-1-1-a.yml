@@ -24,7 +24,7 @@ graph_title: 11.1.1.a. Proportion of population with monthly expenditures for dw
 graph_titles: []
 graph_type: line
 indicator_available: Proportion of population with monthly expenditures for dwelling maintenance that exceed 30% of the household monthly disposable income (accessibility - adequate dwelling)
-indicator_name: global_indicators.11-1-1-a-title
+indicator_name: national_indicators.11-1-1-a-title
 indicator_number: 11.1.1.a
 indicator_tabs:: 
   override: false
