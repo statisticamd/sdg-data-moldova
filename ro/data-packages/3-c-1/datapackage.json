@@ -12,8 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Numărul personalului medical la 10 000 populație",
+                "Numărul de stomatologi și dentiști la 10 000 populație",
+                "Numărul de farmaciști la 10 000 populație",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "Sud",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "TAU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
           },
           {
             "name": "Value",

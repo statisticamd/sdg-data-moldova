@@ -44,27 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Socioeconomic status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
+                "Higher",
+                "Secondary specialized",
+                "Secondary vocational",
+                "Secondary school",
+                "Gymnasium",
                 ""
               ]
             }

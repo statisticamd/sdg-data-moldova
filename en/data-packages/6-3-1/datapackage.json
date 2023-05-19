@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Manufacturing",
+                "Electricity, gas and water",
+                "Other activities",
+                ""
+              ]
+            },
+            "title": "Economic activities"
+          },
+          {
+            "name": "Rayons/Municipalities that have treatment plants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Mun. Bălți",
+                "Cahul",
+                "Călărași",
+                "Drochia",
+                "Edineț",
+                "Florești",
+                "Glodeni",
+                "Hâncești",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Sângerei",
+                "Telenești",
+                "UTA Găgăguzia",
+                ""
+              ]
+            },
+            "title": "Rayons/Municipalities that have treatment plants"
           },
           {
             "name": "Value",

@@ -47,33 +47,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Superioare",
+                "Mediu de specialitate",
+                "Secundar profesional",
+                "Mediu general",
+                "Gimnazial",
                 ""
               ]
             },
             "title": "Nivelul de studii"
-          },
-          {
-            "name": "Disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Dizabilitate"
-          },
-          {
-            "name": "Socioeconomic status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Socioeconomic status"
           },
           {
             "name": "Value",

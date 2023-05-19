@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Bachelor's Degree",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
+                "Bachelor's Degree: Information and Communication Technology",
+                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Master",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Master: Number of budgetary places in the state order for enrollment in higher education",
+                "Master: Information and Communication Technology",
+                "Master's: Technical, Engineering and Science Programs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " ",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-b-1-1",
+  "title": "global_indicators.4-b-1-1--title"
+}
