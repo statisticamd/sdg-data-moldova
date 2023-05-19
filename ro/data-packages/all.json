@@ -24,7 +24,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-4-1-1-title"
+      "title": "Ponderea asistenților personali femei (care îngrijesc de persoane cu dizabilități severe)"
     },
     {
       "path": "10-1-1-a/data.csv",
@@ -48,7 +48,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-1-1-a-title"
+      "title": "Ritmul de creștere a cheltuielilor pe o persoană a populației per total țară"
     },
     {
       "path": "5-5-1-b/data.csv",
@@ -84,7 +84,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-1-b-title"
+      "title": "Ponderea femeilor alese în administrația publică locală"
     },
     {
       "path": "4-3-1/data.csv",
@@ -237,7 +237,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-e-title"
+      "title": "Proporția șomerilor care beneficiază de ajutor de șomaj din totalul de șomeri înregistrați"
     },
     {
       "path": "8-8-1/data.csv",
@@ -407,7 +407,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-b-1-1--title"
+      "title": "national_indicators.4-b-1-1--title"
     },
     {
       "path": "3-2-2/data.csv",
@@ -492,7 +492,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-17-1-1-title"
+      "title": "Gradul de implementare a Strategiei de dezvoltare a societății civile"
     },
     {
       "path": "1-3-1-i/data.csv",
@@ -541,7 +541,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-i-title"
+      "title": "Acoperirea populației celei mai sărace (quintila 1) cu prestații de ajutor pentru perioada rece a anului"
     },
     {
       "path": "7-1-2-1/data.csv",
@@ -650,7 +650,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-2-1-title"
+      "title": "1 Distribuția resurselor energetice utilizate pentru necesitățile casnice (încălzirea spațiilor, răcirea spațiilor,  încălzirea apei, pregătirea alimentelor)"
     },
     {
       "path": "1-a-1-1/data.csv",
@@ -686,7 +686,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-1-1--title"
+      "title": "national_indicators.1-a-1-1--title"
     },
     {
       "path": "13-1-2-2/data.csv",
@@ -710,7 +710,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-2-2-title"
+      "title": "Gradul de implementare a Cadrului strategic național privind reducerea riscurilor de  situații excepționale, aliniate la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030  (identic cu 1.5.3.2/11.b.1.2)"
     },
     {
       "path": "3-7-2/data.csv",
@@ -799,7 +799,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-3-1-a-title"
+      "title": "Consum de energie primară  (consum intern brut)"
     },
     {
       "path": "10-7-2-3/data.csv",
@@ -823,7 +823,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-7-2-3-title"
+      "title": "Numărul acordurilor bilaterale în domeniul securității sociale semnate și intrate în vigoare"
     },
     {
       "path": "12-5-1/data.csv",
@@ -886,7 +886,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-3-1-1-title"
+      "title": "Contribuția valorii adăugate brute a întreprinderilor mici și mijlocii, în total valoarea adăugată brută"
     },
     {
       "path": "5-6-2-1/data.csv",
@@ -924,7 +924,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-2-1-title"
+      "title": "Existența în țară a cadrului normativ care garantează femeilor și bărbaților în vârstă de 15-49 ani accesul la sănătatea sexuală și reproductivă, informare și educare"
     },
     {
       "path": "16-3-2/data.csv",
@@ -1088,7 +1088,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-2-2-title"
+      "title": "Implementarea cadrului normativ care garantează femeilor și bărbaților în vârstă de 15-49 ani accesul la sănătatea sexuală și reproductivă, informare și educare"
     },
     {
       "path": "8-3-1/data.csv",
@@ -1268,7 +1268,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-3-2-title"
+      "title": "Gradul de implementare a Cadrului strategic național privind reducerea riscurilor de  situații excepționale, aliniat la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030 (identic cu 11.b.1.2/13.1.2.2)"
     },
     {
       "path": "10-2-1/data.csv",
@@ -1368,7 +1368,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-3-1-2-title"
+      "title": "Gradul de implementare a cadrului strategic național privind schimbările climatice"
     },
     {
       "path": "1-3-1-g/data.csv",
@@ -1418,7 +1418,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-g-title"
+      "title": "Proporția persoanelor vulnerabile beneficiare de prestații de asistență socială (ajutor social, ajutor pentru perioada rece)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -1551,7 +1551,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-2-3-title"
+      "title": "Ponderea cazurilor pierdute la CEDO, din numărul de cereri comunicate în fiecare an"
     },
     {
       "path": "7-3-1-b/data.csv",
@@ -1590,7 +1590,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-3-1-b-title"
+      "title": "Consum de energie finală (consum final energetic)"
     },
     {
       "path": "13-1-2-1/data.csv",
@@ -1614,7 +1614,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-2-1-title"
+      "title": "Cadrul strategic național privind reducerea riscurilor de  situații excepționale, aliniate la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030, adoptat și implementat (identic cu 1.5.3.1/11.b.1.1)"
     },
     {
       "path": "12-1-1-1/data.csv",
@@ -1638,7 +1638,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-1-1-1-title"
+      "title": "12.1.1.1. Numărul de politici naționale care integrează aspectele economiei „verzi”, producției și consumului durabil (PCD)"
     },
     {
       "path": "1-a-2-b/data.csv",
@@ -1662,7 +1662,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-2-b-title"
+      "title": "Ponderea cheltuielilor pentru ocrotirea sănătății în totalul cheltuielilor bugetului public național"
     },
     {
       "path": "8-b-1/data.csv",
@@ -1710,7 +1710,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-8-1-1-title"
+      "title": "Existența actelor normative și a măsurilor privind prevenirea și reducerea apariției speciilor invazive pentru a controla și eradica speciile prioritare"
     },
     {
       "path": "8-7-1-a/data.csv",
@@ -1778,7 +1778,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-7-1-a-title"
+      "title": "Ponderea copiilor cu vârsta între 5-17 ani, care se află în situația de „munca copiilor”"
     },
     {
       "path": "15-1-1/data.csv",
@@ -1873,7 +1873,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-9-1-2-title"
+      "title": "Ponderea salariaților în activități de turism în total salariați"
     },
     {
       "path": "11-3-2/data.csv",
@@ -2092,7 +2092,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-3-2-b-title"
+      "title": "Proporția corpurilor de apă subterane care au atins clasa de „calitate bună” (conform parametrilor chimici analitici, metale dizolvate, pesticide)"
     },
     {
       "path": "9-5-1/data.csv",
@@ -2164,7 +2164,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-2-1-title"
+      "title": "Rata brută de admisie în ultimul an de studiu al învățământului primar și al învățământului gimnazial"
     },
     {
       "path": "8-6-1/data.csv",
@@ -2428,7 +2428,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-2-1-3-title"
+      "title": "Suprafața pădurilor extinse"
     },
     {
       "path": "16-1-1/data.csv",
@@ -2560,7 +2560,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-4-2-b-title"
+      "title": "Proporția deșeurilor periculoase reciclate, eliminate sau depozitate la gunoiște din totalul deșeurilor periculoase formate"
     },
     {
       "path": "16-2-1/data.csv",
@@ -2690,7 +2690,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-10-2-1-title"
+      "title": "Existența și gradul de implementare a cadrului normativ cu privire la accesul la informație"
     },
     {
       "path": "12-a-1/data.csv",
@@ -2829,7 +2829,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-2-b-title"
+      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 25% în total cheltuielile gospodăriilor"
     },
     {
       "path": "10-4-1/data.csv",
@@ -3120,7 +3120,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-7-1-a-title"
+      "title": "Raportul dintre proporția pozițiilor ocupate în Parlament de către persoanele din anumite grupuri ale populației și proporția grupului respectiv în total populație"
     },
     {
       "path": "2-1-2/data.csv",
@@ -3191,7 +3191,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-5-1-c-title"
+      "title": "Indicele parității  în învățământul secundar general (liceal) și profesional tehnic (nivelul 3)"
     },
     {
       "path": "9-2-1-2/data.csv",
@@ -3215,7 +3215,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-1-2-title"
+      "title": "Valoarea adăugată brută în industria prelucrătoare per populație ocupată în industria prelucrătoare (dolari SUA, prețuri constante)"
     },
     {
       "path": "4-c-1-a/data.csv",
@@ -3263,7 +3263,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-c-1-a-title"
+      "title": "Ponderea personalului pedagogic cu studii în domeniul pedagogiei la nivelul preșcolar"
     },
     {
       "path": "16-1-3/data.csv",
@@ -3425,7 +3425,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-4-1-1--title"
+      "title": "national_indicators.14-4-1-1--title"
     },
     {
       "path": "4-5-1-b/data.csv",
@@ -3471,7 +3471,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-5-1-b-title"
+      "title": "b .Indicele parității în învățământul gimnazial (nivelul 2)"
     },
     {
       "path": "8-1-1/data.csv",
@@ -3582,7 +3582,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-b-1-1-title"
+      "title": "Numărul mediu de telefoane mobile la 100 de gospodării"
     },
     {
       "path": "11-6-2-1/data.csv",
@@ -3675,7 +3675,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-6-2-1-title"
+      "title": "Cantitatea de emisii de substanțe poluante în aer de la sursele mobile (pe surse), mii tone, raportate pe o persoană"
     },
     {
       "path": "3-9-1/data.csv",
@@ -3783,7 +3783,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-6-1-1-title"
+      "title": "Existența actelor normative referitoare la asigurarea distribuirii corecte și echitabile a resurselor genetice"
     },
     {
       "path": "1-5-4/data.csv",
@@ -3843,7 +3843,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-19-2-a-title"
+      "title": "Realizarea recensământului populației și locuințelor în cadrul rundelor 2020 și 2030"
     },
     {
       "path": "10-7-1/data.csv",
@@ -3990,7 +3990,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-1-a-title"
+      "title": "Valoarea adăugată brută în industria prelucrătoare ca proporție în PIB (lei, prețuri curente)"
     },
     {
       "path": "10-5-1/data.csv",
@@ -4139,7 +4139,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-4-1-2-title"
+      "title": "Gradul de cuprindere a copiilor până la vârsta de 3 ani cu educație timpurie"
     },
     {
       "path": "3-3-1-1/data.csv",
@@ -4175,7 +4175,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-1-1-title"
+      "title": "Decese HIV asociate la 100 000 populație"
     },
     {
       "path": "1-5-1-a/data.csv",
@@ -4225,7 +4225,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-1-a-title"
+      "title": "Numărul de persoane decedate în urma situațiilor excepționale, la 100 000 de locuitori (identic cu 11.5.1.a/13.1.1.a)"
     },
     {
       "path": "3-9-3/data.csv",
@@ -4333,7 +4333,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-c-1-b-title"
+      "title": "Ponderea personalului pedagogic cu studii în domeniul pedagogiei la nivelul primar"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -4424,7 +4424,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-1-1-a-title"
+      "title": "Ponderea populației cu cheltuielile lunare pentru întreținerea locuinței care depășesc 30% din veniturile disponibile lunare ale gospodăriei (accesibilitate - locuință adecvată)"
     },
     {
       "path": "10-7-2-1/data.csv",
@@ -4464,7 +4464,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-7-2-1-title"
+      "title": "Existența de politici naționale eficiente privind migrație"
     },
     {
       "path": "17-18-3-1/data.csv",
@@ -4488,7 +4488,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-3-1-title"
+      "title": "Existența Planului anual de acțiuni pentru implementarea Strategiei Naționale de Dezvoltare a Sistemului Statistic Național, care este deplin finanțat și aflat în proces de implementare"
     },
     {
       "path": "4-a-1-f/data.csv",
@@ -4537,7 +4537,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-f-title"
+      "title": "Ponderea instituțiilor de învățământ cu acces la grup sanitar separat pentru fete și băieți"
     },
     {
       "path": "6-3-2-1/data.csv",
@@ -4574,7 +4574,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-3-2-1-title"
+      "title": "Ponderea surselor de alimentare cu apă potabilă neconforme la normele sanitare conform calității apei (conform parametrilor microbiologici)"
     },
     {
       "path": "4-a-1-e/data.csv",
@@ -4623,7 +4623,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-e-title"
+      "title": "Ponderea instituțiilor de învățământ asigurate cu apă potabilă"
     },
     {
       "path": "16-a-1/data.csv",
@@ -4707,7 +4707,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-2-1-3-title"
+      "title": "3 Rata accidentelor rutiere la 100.000 populație"
     },
     {
       "path": "9-4-1-1/data.csv",
@@ -4745,7 +4745,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-4-1-1-title"
+      "title": "1 Emisiile totale de CO2, pe sectoare, mii tone CO2 echivalent"
     },
     {
       "path": "5-5-2-3/data.csv",
@@ -4769,7 +4769,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-2-3-title"
+      "title": "Ponderea femeilor judecători"
     },
     {
       "path": "9-2-2/data.csv",
@@ -4873,7 +4873,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-9-1-1-title"
+      "title": "Gradul de implementare a acțiunilor din cadrul Planului al Strategiei de mediu pentru anii 2014-2023"
     },
     {
       "path": "4-b-1/data.csv",
@@ -4933,7 +4933,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-b-title"
+      "title": "Ponderea instituțiilor de învățământ primar și secundar general cu conexiune la Internet în scopuri pedagogice"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -5289,7 +5289,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-2-1-title"
+      "title": "Numărul de persoane care au beneficiat de asistență juridică garantată de stat"
     },
     {
       "path": "7-1-2/data.csv",
@@ -5579,7 +5579,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-2-4-title"
+      "title": "Gradul de satisfacție a populației privind calitatea serviciilor în cadrul sistemului judiciar"
     },
     {
       "path": "16-1-3-1/data.csv",
@@ -5645,7 +5645,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-1-3-1-title"
+      "title": "Numărul de victime ale infracțiunilor de violență la 100 000 populație"
     },
     {
       "path": "16-4-2-1/data.csv",
@@ -5669,7 +5669,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-4-2-1-title"
+      "title": "Numărul de arme deținute conform legislației la 100 000 populație"
     },
     {
       "path": "4-7-1/data.csv",
@@ -5739,7 +5739,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-5-1-e-title"
+      "title": "Indicele parității al copiilor cu dizabilități încadrați în învățământul primar și secundar general"
     },
     {
       "path": "9-2-1-b/data.csv",
@@ -5763,7 +5763,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-1-b-title"
+      "title": "Valoarea adăugată brută în industria prelucrătoare pe persoană (lei, prețuri constante)"
     },
     {
       "path": "3-8-2-2/data.csv",
@@ -5842,7 +5842,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-2-2-title"
+      "title": "Ponderea populației cu asigurare obligatorie de asistență medicală"
     },
     {
       "path": "10-1-1-b/data.csv",
@@ -5866,7 +5866,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-1-1-b-title"
+      "title": "Ritmul de creștere a cheltuielilor pe o persoană ale 40% din populația cel mai puțin asigurate"
     },
     {
       "path": "11-5-3-b/data.csv",
@@ -5949,7 +5949,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-3-b--title"
+      "title": "national_indicators.11-5-3-b--title"
     },
     {
       "path": "3-d-1/data.csv",
@@ -6039,7 +6039,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-5-1-1-title"
+      "title": "Disparitatea salarială de gen"
     },
     {
       "path": "3-5-2-1/data.csv",
@@ -6119,7 +6119,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-2-1-title"
+      "title": "Prevalența consumului nociv de alcool"
     },
     {
       "path": "3-4-2/data.csv",
@@ -6192,7 +6192,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-4-1-1-title"
+      "title": "Ponderea cheltuielilor pentru conservarea și protejarea patrimoniului cultural în totalul cheltuielilor bugetului public național"
     },
     {
       "path": "1-a-3-1/data.csv",
@@ -6216,7 +6216,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-3-1-title"
+      "title": "Ponderea cheltuielilor publice pentru protecție socială în PIB"
     },
     {
       "path": "11-1-1-b/data.csv",
@@ -6307,7 +6307,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-1-1-b-title"
+      "title": "Ponderea persoanelor care trăiesc în locuințe a căror suprafață este sub norma de 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră, cu excepția soților (supraaglomerarea)"
     },
     {
       "path": "13-1-1-c/data.csv",
@@ -6357,7 +6357,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-1-c-title"
+      "title": "Numărul de persoane direct afectate în urma situațiilor excepționale, la 100 000 populație (indicatorul 1.5.1.c/11.5.1.c)"
     },
     {
       "path": "5-b-1/data.csv",
@@ -6474,7 +6474,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-1-1-title"
+      "title": "Valoarea adăugată brută în industria prelucrătoare, ca proporție în PIB (dolari SUA, prețuri curente)"
     },
     {
       "path": "15-1-2/data.csv",
@@ -6678,7 +6678,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-1-a-title"
+      "title": "Numărul de persoane decedate în urma situațiilor excepționale, la 100 000 populație      (identic cu 1.5.1.a/13.1.1.a)"
     },
     {
       "path": "16-2-1-1/data.csv",
@@ -6811,7 +6811,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-1-1-title"
+      "title": "Numărul de copii victime ale violenței și neglijării, la sfârșitul anului"
     },
     {
       "path": "16-7-2/data.csv",
@@ -6870,7 +6870,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-10-1-1-title"
+      "title": "Indicele Libertății Presei"
     },
     {
       "path": "11-7-1/data.csv",
@@ -6982,7 +6982,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-2-1-title"
+      "title": "Disponibilitatea legislației naționale în domeniul statisticii, conform Principiilor Fundamentale ale Statisticii Oficiale"
     },
     {
       "path": "5-2-1/data.csv",
@@ -7085,7 +7085,7 @@
           }
         ]
       },
-      "title": "Indicele parității (femeie/bărbat, rural/urban, chintila inferioară/superioară și altele, cum ar fi statutul de dizabilitate, persoane indigene și cele afectate de conflicte, de îndată ce devin disponibile date) pentru toți indicatorii de învățământ din această listă, care pot fi dezagregați"
+      "title": "national_indicators.4-5-1-title"
     },
     {
       "path": "5-2-2/data.csv",
@@ -7223,7 +7223,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-4-1-b-title"
+      "title": "Emisiile totale de CO2 raportate la o unitate de PIB"
     },
     {
       "path": "6-3-1/data.csv",
@@ -7459,7 +7459,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-h-title"
+      "title": "Acoperirea populației celei mai sărace (quintila 1) cu prestații de ajutor social"
     },
     {
       "path": "8-9-1-1/data.csv",
@@ -7483,7 +7483,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-9-1-1-title"
+      "title": "Ponderea turismului în PIB"
     },
     {
       "path": "1-a-2-c/data.csv",
@@ -7507,7 +7507,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-2-c-title"
+      "title": "Ponderea cheltuielilor pentru protecție socială în totalul cheltuielilor bugetului public național"
     },
     {
       "path": "10-7-4/data.csv",
@@ -7668,7 +7668,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-2-1-title"
+      "title": "Ponderea cheltuielilor private  (ale gospodăriilor casnice) pentru sănătate"
     },
     {
       "path": "3-8-2-a/data.csv",
@@ -7759,7 +7759,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-2-a-title"
+      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10% în total cheltuielile gospodăriilor"
     },
     {
       "path": "11-b-1-1/data.csv",
@@ -7783,7 +7783,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-b-1-1-title"
+      "title": "Cadrul strategic național privind reducerea riscurilor de situații excepționale, aliniate la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030, adoptat și implementat (identic cu 1.5.3.1/13.1.2.1)"
     },
     {
       "path": "15-5-1-1/data.csv",
@@ -7819,7 +7819,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-5-1-1-title"
+      "title": "Numărul total de specii incluse în Cartea Roșie a Republicii Moldova"
     },
     {
       "path": "9-3-1-a/data.csv",
@@ -7843,7 +7843,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-3-1-a-title"
+      "title": "Contribuția valorii adăugate brute a întreprinderilor mici și mijlocii din sectorul industrie prelucrătoare, în total valoarea adăugată brută în industria prelucrătoare"
     },
     {
       "path": "9-1-2-a/data.csv",
@@ -7881,7 +7881,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-1-2-a-title"
+      "title": "Parcursul mărfurilor transportate, după modul de transport (aerian, rutier, feroviar, fluvial)"
     },
     {
       "path": "11-7-1-1/data.csv",
@@ -7905,7 +7905,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-7-1-1-title"
+      "title": "Ponderea suprafeței spațiilor verzi și străzilor (convențional spații publice) în suprafața construită a localităților urbane"
     },
     {
       "path": "5-5-1-a/data.csv",
@@ -7929,7 +7929,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-1-a-title"
+      "title": "Ponderea femeilor alese în Parlament"
     },
     {
       "path": "3-a-1/data.csv",
@@ -8025,7 +8025,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-c-1-c-title"
+      "title": "Ponderea personalului pedagogic cu studii în domeniul pedagogiei la nivelul secundar general (clasele 5-12)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -8184,7 +8184,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-5-1-1-title"
+      "title": "Volumul deșeurilor (de producție și consum) formate"
     },
     {
       "path": "15-2-1/data.csv",
@@ -8337,7 +8337,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-3-1-1-title"
+      "title": "Numărul de cazuri de discriminare constatate la 100 000 populație"
     },
     {
       "path": "1-1-1-1/data.csv",
@@ -8446,7 +8446,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-1-title"
+      "title": "Ponderea populației aflate sub pragul internațional al sărăciei de 4,3 dolari SUA pe zi"
     },
     {
       "path": "11-3-1-1/data.csv",
@@ -8470,7 +8470,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-3-1-1-title"
+      "title": "Gradul de urbanizare"
     },
     {
       "path": "1-a-2-a/data.csv",
@@ -8494,7 +8494,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-2-a-title"
+      "title": "Ponderea cheltuielilor pentru învățământ în totalul cheltuielilor bugetului public național"
     },
     {
       "path": "10-7-2-2/data.csv",
@@ -8518,7 +8518,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-7-2-2-title"
+      "title": "Numărul acordurilor bilaterale în domeniul migrației de muncă semnate"
     },
     {
       "path": "3-b-3/data.csv",
@@ -8578,7 +8578,7 @@
           }
         ]
       },
-      "title": "Rata de participare a tinerilor și adulților în educația formală și non-formală în ultimele 12 luni, pe sexe"
+      "title": "Rata de participare a tinerilor și adulților în educația formală și nonformală pe parcursul vieții"
     },
     {
       "path": "16-5-2-1/data.csv",
@@ -8602,7 +8602,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-5-2-1-title"
+      "title": "16.5.2.1. Indicatorul privind „Controlul asupra corupției”  (de la „-2,5” la „2,5”)"
     },
     {
       "path": "1-3-1-a/data.csv",
@@ -8770,7 +8770,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-3-1-title"
+      "title": "Cadrul strategic național privind reducerea riscurilor de situații excepționale, aliniat la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030, adoptat și implementat (identic cu 11.b.1.1/13.1.2.1)"
     },
     {
       "path": "11-3-1/data.csv",
@@ -8829,7 +8829,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-2-2-title"
+      "title": "Ponderea recomandărilor Avocatului Poporului (inclusiv Avocatul Poporului pentru drepturile copilului) și Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității, implementate de către autoritățile și instituțiile sesizate (care rezultă din acțiunile procesuale)"
     },
     {
       "path": "15-2-1-2/data.csv",
@@ -8853,7 +8853,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-2-1-2-title"
+      "title": "Suprafața pădurilor restabilite"
     },
     {
       "path": "3-4-1/data.csv",
@@ -8925,7 +8925,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-c-title"
+      "title": "Ponderea instituțiilor de învățământ primar și secundar general cu acces la calculatoare în scopuri pedagogice"
     },
     {
       "path": "16-5-2/data.csv",
@@ -9046,7 +9046,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-1-a-title"
+      "title": "Numărul de persoane decedate în urma situațiilor excepționale, la 100 000 populație (indicatorul 1.5.1.a/11.5.1.a)"
     },
     {
       "path": "17-14-1-1/data.csv",
@@ -9070,7 +9070,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-14-1-1-title"
+      "title": "Existența mecanismelor pentru consolidarea coerenței politicilor de dezvoltare durabilă"
     },
     {
       "path": "9-5-2/data.csv",
@@ -9168,7 +9168,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-1-b-title"
+      "title": "Numărul de persoane dispărute în urma situațiilor excepționale, la 100 000 populație (indicatorul 1.5.1.b/11.5.1.b)"
     },
     {
       "path": "6-1-1/data.csv",
@@ -9355,7 +9355,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-1-b-title"
+      "title": "Numărul de persoane dispărute în urma situațiilor excepționale, la 100 000 de locuitori (identic cu 11.5.1.b/13.1.1.b)"
     },
     {
       "path": "3-3-2/data.csv",
@@ -9480,7 +9480,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-5-2-2-title"
+      "title": "16.5.2.2. Indicatorul privind „Calitatea regulatorie” (de la „-2,5” la „2,5”)"
     },
     {
       "path": "17-11-1-1/data.csv",
@@ -9504,7 +9504,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-11-1-1-title"
+      "title": "Ponderea exporturilor de mărfuri în comerțul exterior al țării"
     },
     {
       "path": "1-3-1-c/data.csv",
@@ -9528,7 +9528,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-c-title"
+      "title": "Proporția femeilor beneficiare de indemnizații de maternitate"
     },
     {
       "path": "12-4-2-a/data.csv",
@@ -9563,7 +9563,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-4-2-a-title"
+      "title": "Volumul deșeurilor periculoase formate"
     },
     {
       "path": "16-7-1-c/data.csv",
@@ -9671,7 +9671,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-7-1-c-title"
+      "title": "Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de către persoanele din anumite grupuri ale populației și proporția grupului respectiv în total populație"
     },
     {
       "path": "1-4-1/data.csv",
@@ -9770,7 +9770,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-1-1- Share of sown areas in total arable land-title"
+      "title": "national_indicators.2-3-1-1- Share of sown areas in total arable land-title"
     },
     {
       "path": "2-3-1/data.csv",
@@ -9834,7 +9834,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-1-2-b-title"
+      "title": "Parcursul pasagerilor transportați, după modul de transport (aerian, rutier, feroviar, fluvial)"
     },
     {
       "path": "12-4-1/data.csv",
@@ -9922,7 +9922,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-g-title"
+      "title": "Ponderea instituțiilor de învățământ cu facilități de bază pentru spălarea mâinilor"
     },
     {
       "path": "11-b-1-2/data.csv",
@@ -9946,7 +9946,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-b-1-2-title"
+      "title": "Gradul de implementare a Cadrului strategic național privind reducerea riscurilor de situații excepționale, aliniate la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030  (identic cu 1.5.3.2/13.1.2.2)"
     },
     {
       "path": "4-5-1-a/data.csv",
@@ -9992,7 +9992,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-5-1-a-title"
+      "title": "Indicele parității în învățământul primar  (nivelul 1)"
     },
     {
       "path": "11-5-1-b/data.csv",
@@ -10054,7 +10054,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-1-b-title"
+      "title": "Numărul de persoane dispărute în urma situațiilor excepționale, la 100 000 populație (identic cu 1.5.1.b/13.1.1.b)"
     },
     {
       "path": "8-7-1-b/data.csv",
@@ -10122,7 +10122,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-7-1-b-title"
+      "title": "Numărul copiilor cu vârsta între 5-17 ani, care se află în situația de „munca copiilor”"
     },
     {
       "path": "17-8-1/data.csv",
@@ -10200,7 +10200,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-3-1-a-title"
+      "title": "Indicele risipei alimentare"
     },
     {
       "path": "6-2-1-a/data.csv",
@@ -10289,7 +10289,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-1-a-title"
+      "title": "Ponderea populației cu acces la sistem de canalizare"
     },
     {
       "path": "7-1-1/data.csv",
@@ -10375,7 +10375,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-1-c-title"
+      "title": "Numărul de persoane direct afectate în urma situațiilor excepționale, la 100 000 de locuitori (identic cu 11.5.1.c/13.1.1.c)"
     },
     {
       "path": "15-2-1-1/data.csv",
@@ -10399,7 +10399,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-2-1-1-title"
+      "title": "Suprafața terenurilor degradate restabilite prin împădurire"
     },
     {
       "path": "13-3-1-1/data.csv",
@@ -10423,7 +10423,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-3-1-1-title"
+      "title": "Acțiuni privind integrarea subiectelor vizând efectele schimbării de climă (atenuarea, adaptarea, reducerea impactului și avertizarea timpurie) în curricula învățământului primar, secundar și terțiar"
     },
     {
       "path": "13-2-1-1/data.csv",
@@ -10447,7 +10447,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-2-1-1-title"
+      "title": "Acțiuni privind elaborarea și operaționalizarea de politici, strategii, planuri de acțiuni privind adaptarea și rezistența la schimbările climatice, reducerea emisiilor cu efect de seră"
     },
     {
       "path": "11-6-2/data.csv",
@@ -10511,7 +10511,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-4-2-2-title"
+      "title": "Numărul de arme deținute ilegal confiscate"
     },
     {
       "path": "11-a-1/data.csv",
@@ -11013,7 +11013,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-3-1-f-title"
+      "title": "Proporția persoanelor acoperite cu indemnizații pentru incapacitate temporară de muncă  cauzată de accidentele de muncă și bolile profesionale"
     },
     {
       "path": "4-a-1-a/data.csv",
@@ -11073,7 +11073,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-a-title"
+      "title": "Ponderea instituțiilor de învățământ cu acces la electricitate"
     },
     {
       "path": "6-2-1-1/data.csv",
@@ -11150,7 +11150,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-1-1-title"
+      "title": "Proporția populației care dispune în interiorul locuinței de (a) grup sanitar și (b) baie sau duș"
     },
     {
       "path": "11-5-1-c/data.csv",
@@ -11200,7 +11200,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-1-c-title"
+      "title": "Numărul de persoane direct afectate în urma situațiilor excepționale, la 100 000 populație (identic cu 1.5.1.c/13.1.1.c)"
     },
     {
       "path": "2-3-2/data.csv",
@@ -11248,7 +11248,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-2-1-title"
+      "title": "Ponderea femeilor în Guvern"
     },
     {
       "path": "3-3-1/data.csv",
@@ -11336,7 +11336,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-16-1-1-title"
+      "title": "Raportarea progreselor asupra aplicării cadrului de monitorizare a eficienței dezvoltării cu participarea mai multor parteneri, care acordă suport în atingerea de către țară a Obiectivelor de Dezvoltare Durabilă"
     },
     {
       "path": "10-7-3/data.csv",
@@ -11792,7 +11792,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-1-1-title"
+      "title": "Ponderea populației cu acces la servicii de alimentare cu apă potabilă gestionate în siguranță"
     },
     {
       "path": "14-3-1/data.csv",
@@ -12800,7 +12800,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-2-a-title"
+      "title": "Prevalența supraponderalilor printre copii în vârstă de până la 5 ani"
     },
     {
       "path": "2-2-2-b/data.csv",
@@ -12824,7 +12824,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-2-b-title"
+      "title": "Prevalența retardului ponderal printre copii în vârstă de până la 5 ani"
     },
     {
       "path": "15-6-1/data.csv",
@@ -13160,7 +13160,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-1-b-title"
+      "title": "Ponderea populației care utilizează o instalație de spălare a mâinilor cu săpun și apă"
     },
     {
       "path": "14-b-1/data.csv",
