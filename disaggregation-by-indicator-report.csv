@@ -4,10 +4,11 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Area of residence, Sex, Age group",3
 #1-3-1-a,"Area of residence, Sex, Age group",3
 #1-3-1-b,"Area of residence, Status",2
+#1-3-1-e,"Sex, Age group",2
 #1-3-1-f,"Sex, Age group",2
 #1-3-1-h,"Area of residence, Quintile I, by area of residence",2
 #1-3-1-i,"Area of residence, Quintile I, by area of residence",2
-#1-4-1,"Area of residence, Sex, Sub-indicators, Age group",4
+#1-4-1,"Area of residence, Sex, Age group, Sub-indicators",4
 #1-5-1-a,"Age group, Classes of disasters",2
 #1-5-1-c,"Age group, Classes of disasters",2
 #1-5-2,Tipuri SE,1
@@ -48,6 +49,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-7-1-c,"Proportion of female judges / Proportion of women in the working-age population        , Proportion of female registrars / Proportion of women in the working-age population        , Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        , Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        , Proportion of judges with a disability / Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",6
 #16-b-1,"Sex, Age group, Area of residence  of the respondents, Discrimination criteria, Entities in which they were discriminated against, The quality of the person who discriminated, The quality/function held by the natural person, The field of activity related to the person who discriminated",8
 #17-1-1,Types of income,1
+#17-17-1-1,General objectives,1
 #17-3-2,Indicator,1
 #2-1-2,Age group / Sex,1
 #3-2-1,"Area of residence, Sex",2
