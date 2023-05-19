@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -68,19 +68,19 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintiles on consumption expenditures"
           },
           {
             "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persoane cu dizabilitate",
-                "Persoane fără dizabilitate",
+                "People with disability",
+                "People without disability",
                 ""
               ]
             },
-            "title": "Existența dizabilității"
+            "title": "Existence of disability"
           },
           {
             "name": "Value",

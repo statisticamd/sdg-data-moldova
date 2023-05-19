@@ -13,26 +13,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Ambele sexe",
-                "15-24 / Bărbați",
-                "15-24 / Femei",
-                "15-29 / Ambele sexe",
-                "15-29 / Bărbați",
-                "15-29 / Femei",
-                "15-34 / Ambele sexe",
-                "15-34 / Bărbați",
-                "15-34 / Femei",
+                "15-24 / Both sexes",
+                "15-24 / Men",
+                "15-24 / Women",
+                "15-29 / Both sexes",
+                "15-29 / Men",
+                "15-29 / Women",
+                "15-34 / Both sexes",
+                "15-34 / Men",
+                "15-34 / Women",
                 ""
               ]
             },
-            "title": "Grupa de vârstă / Sexul"
+            "title": "Age group / Sex"
           },
           {
             "name": "Value",

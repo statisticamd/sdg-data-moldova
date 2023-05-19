@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Fatal accidents, by sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -33,13 +33,13 @@
             "constraints": {
               "enum": [
                 "Total by economic activities",
-                "Agricultura, silvicultura și pescuit",
-                "Industrie",
-                "Industria extractivă",
-                "Industria prelucrătoare",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Mining and quarrying",
+                "Manufacturing",
                 "Electricity, gas, steam and air conditioning supply",
                 "Water supply; sewerage, waste management and remediation activities",
-                "Construcții",
+                "Construction",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage",
                 "Accommodation and food service activities",
@@ -63,8 +63,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -76,13 +76,13 @@
             "constraints": {
               "enum": [
                 "Total by economic activities",
-                "Agricultura, silvicultura și pescuit",
-                "Industrie",
-                "Industria extractivă",
-                "Industria prelucrătoare",
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Mining and quarrying",
+                "Manufacturing",
                 "Electricity, gas, steam and air conditioning supply",
                 "Water supply; sewerage, waste management and remediation activities",
-                "Construcții",
+                "Construction",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage",
                 "Accommodation and food service activities",

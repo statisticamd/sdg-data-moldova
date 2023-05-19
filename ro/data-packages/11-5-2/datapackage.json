@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Types of critical infrastructure losses",
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chișinău",
-                "Nord",
+                "Mun. Chisinau",
+                "North",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -59,7 +59,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "Sud",
+                "South",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Statistical regions",
@@ -33,13 +33,13 @@
             "constraints": {
               "enum": [
                 "Municipality Chisinau",
-                "Nord",
-                "Centru",
-                "Sud",
+                "North",
+                "Center",
+                "South",
                 ""
               ]
             },
-            "title": "Regiuni statistice"
+            "title": "Statistical regions"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -54,19 +54,19 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintiles on consumption expenditures"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexul capului gospodăriei"
+            "title": "Sex of the head of the household"
           },
           {
             "name": "Value",

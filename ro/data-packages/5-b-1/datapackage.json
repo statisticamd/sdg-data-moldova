@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -53,14 +53,14 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Superioare",
+                "Higher",
                 "Vocational",
                 "General secondary",
                 "Primary or less",
@@ -82,7 +82,7 @@
                 ""
               ]
             },
-            "title": "Statutul ocupațional"
+            "title": "Employment status"
           },
           {
             "name": "Value",

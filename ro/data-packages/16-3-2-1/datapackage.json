@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulgari",
-                "Romi",
-                "Ruși",
-                "Evrei",
-                "Ucraineni",
+                "Bulgarians",
+                "Roma",
+                "Russians",
+                "Jews",
+                "Ukrainians",
                 ""
               ]
             },
-            "title": "Etnie"
+            "title": "Ethnicity"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Disability",
@@ -60,83 +60,83 @@
             "constraints": {
               "enum": [
                 " ",
-                "Mintală",
-                "Intelectuală",
-                "Senzorială",
+                "Mental",
+                "Intellectual",
+                "Sensory",
                 ""
               ]
             },
-            "title": "Dizabilitate"
+            "title": "Disability"
           },
           {
             "name": "Citizenship",
             "type": "string",
             "constraints": {
               "enum": [
-                "Republica Moldova",
-                "Cetățeni străini",
-                "Apatrizi",
+                "Republic of Moldova",
+                "Foreign citizenship",
+                "Stateless",
                 ""
               ]
             },
-            "title": "Cetățenie"
+            "title": "Citizenship"
           },
           {
             "name": "Beneficiary status - foreign citizen",
             "type": "string",
             "constraints": {
               "enum": [
-                "Protecție temporă",
-                "Protecție umanitară",
-                "Refugiați",
-                "Solicitanți azil",
+                "Temporary protection",
+                "Humanitarian protection",
+                "Refugees",
+                "Asylum seekers",
                 ""
               ]
             },
-            "title": "Statut de beneficiar - cetățean străin"
+            "title": "Beneficiary status - foreign citizen"
           },
           {
             "name": "Requested authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "Procuratura",
-                "Inspectoratul de politie",
-                "Judecătoria",
-                "Curtea de Apel",
-                "Curtea Supremă de Justuție",
-                "Alte autorități",
+                "Prosecution",
+                "Police inspectorate",
+                "Court",
+                "Court of Appeal",
+                "Supreme Court of Justice",
+                "Other authorities",
                 ""
               ]
             },
-            "title": "Autoritatea solicitată"
+            "title": "Requested authority"
           },
           {
             "name": "Legal basis",
             "type": "string",
             "constraints": {
               "enum": [
-                "Indiferent de nivelul de venit (art. 20 legea 198)",
-                "În dependența de nivelul de venit (art. 21 Legea 198)",
+                "Regardless of income level (art. 20 law 198)",
+                "Depending on the income level (art. 21 law 198)",
                 ""
               ]
             },
-            "title": "Baza legală"
+            "title": "Legal basis"
           },
           {
             "name": "Type of qualified assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Calificată cauze penale",
-                "Calificată cauze contravenționale",
-                "Calificată cauze civile",
-                "Urgență cauze penale",
-                "Urgență cauze contravenționale",
+                "Qualified criminal cases",
+                "Qualified contravention cases",
+                "Qualified civil cases",
+                "Emergency criminal cases",
+                "Emergency contravention cases",
                 ""
               ]
             },
-            "title": "Tipul asistenței calificate"
+            "title": "Type of qualified assistance"
           },
           {
             "name": "Primary care",
@@ -147,7 +147,7 @@
                 ""
               ]
             },
-            "title": "Asistența primară"
+            "title": "Primary care"
           },
           {
             "name": "Value",

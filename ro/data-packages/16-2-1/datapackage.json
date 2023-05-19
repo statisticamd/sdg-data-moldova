@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -50,37 +50,37 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Level of education of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primare și mai jos",
-                "Secundare",
-                "Profesional",
-                "Superioare",
+                "Primary and below",
+                "Secondary",
+                "Professional",
+                "Higher",
                 ""
               ]
             },
-            "title": "Nivelul de instruire a capului gospodăriei"
+            "title": "Level of education of the head of the household"
           },
           {
             "name": "Ethnicity of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Moldovean/Român",
-                "Rus",
-                "Ucrainean",
-                "Rom",
-                "Găgăuz",
-                "Alte",
+                "Moldovan/Romanian",
+                "Russian",
+                "Ucrainian",
+                "Rum",
+                "Gagauz",
+                "Other",
                 ""
               ]
             },
-            "title": "Etnia capului gospodăriei"
+            "title": "Ethnicity of the head of the household"
           },
           {
             "name": "Wellbeing quintile",
@@ -95,7 +95,7 @@
                 ""
               ]
             },
-            "title": "Quintile de bunăstare"
+            "title": "Wellbeing quintile"
           },
           {
             "name": "Value",

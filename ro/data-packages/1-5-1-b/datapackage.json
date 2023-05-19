@@ -13,41 +13,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tehnogen",
-                "Natural (pe genuri)",
-                "Biologico-social",
-                "Incendii",
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
                 ""
               ]
             },
-            "title": "Clase Situații excepționale"
+            "title": "Classes of disasters"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 ani",
-                "18 ani și peste",
+                "0-17 years",
+                "18 years and over",
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -58,8 +58,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chișinău",
-                "Nord",
+                "Mun. Chisinau",
+                "North",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -86,7 +86,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "Sud",
+                "South",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -95,7 +95,7 @@
                 "Leova",
                 "Stefan Voda",
                 "Taraclia",
-                "UTA Găgăuzia",
+                "ATU Gagauzia",
                 ""
               ]
             },

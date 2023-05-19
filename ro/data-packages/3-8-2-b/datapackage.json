@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,19 +25,19 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexul capului gospodăriei"
+            "title": "Sex of the head of the household"
           },
           {
             "name": "Age groups of head of household, years",
@@ -68,19 +68,19 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintiles on consumption expenditures"
           },
           {
             "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cu copii până la 18 ani",
-                "Fără copii până la 18 ani",
+                "With children up to 18 years",
+                "Without children up to 18 years",
                 ""
               ]
             },
-            "title": "Tipul gospodăriei"
+            "title": "Household type"
           },
           {
             "name": "Value",

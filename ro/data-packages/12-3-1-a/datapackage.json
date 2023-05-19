@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Food products",
@@ -43,7 +43,7 @@
                 ""
               ]
             },
-            "title": "Animale"
+            "title": "Animals"
           },
           {
             "name": "Value",

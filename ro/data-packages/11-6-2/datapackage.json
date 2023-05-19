@@ -7,13 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "City",
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Orașe"
+            "title": "City"
           },
           {
             "name": "Value",

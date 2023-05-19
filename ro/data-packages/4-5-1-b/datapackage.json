@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -24,14 +24,14 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sexes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Femei",
+                "Women",
                 ""
               ]
             },

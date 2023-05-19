@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -48,36 +48,36 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Economic activities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultură",
-                "Industrie",
-                "Construcții",
-                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
-                "Transport și depozitare; informații și comunicații",
-                "Administrație publică; învățământ; sănătate și asistență socială",
-                "Alte activități",
+                "Agriculture",
+                "Industry",
+                "Construction",
+                "Wholesale and retail trade; accomodation and food service activities",
+                "Transportation and storage; information and communication",
+                "Public administration; education; health and social work",
+                "Other activities",
                 ""
               ]
             },
-            "title": "Activități economice"
+            "title": "Economic activities"
           },
           {
             "name": "Forms of ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Publică",
-                "Alte forme",
+                "Public",
+                "Other forms",
                 ""
               ]
             },
-            "title": "Forme de proprietate"
+            "title": "Forms of ownership"
           },
           {
             "name": "Value",

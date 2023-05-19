@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,20 +25,20 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Quintile I, by area of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, chintila I",
-                "Urban, chintila I",
-                "Rural, chintila I",
+                "Total, quintile I",
+                "Urban, quintile I",
+                "Rural, quintile I",
                 ""
               ]
             },
-            "title": "Chintila I, pe medii"
+            "title": "Quintile I, by area of residence"
           },
           {
             "name": "Value",
