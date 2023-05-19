@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.17.1.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.17: Encourage and promote effective public, public-private and civil society  partnerships, building on the experience and resourcing strategies of  partnerships</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.17
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.17.1.1: Implementation of the Civil Society Development Strategy</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Civil Society Development Strategy for 2018–2020 (GD. 51/2018)  reflects the  commitment of the Republic of Moldova to enhance systematically the conditions  for dynamic development of the civil society. Being built on the principles of  mutual trust, partnership, transparency, participation and political  non-partisanship, the Strategy continues the efforts initiated within the  implementation of the previous strategies for civil society development and  focuses on the same priorities. Monitoring and evaluation of the Strategy is  carried out through the tools envisaged in its section 5 "Monitoring and  Evaluation of the Strategy”. The Government, in cooperation with the civil  society organizations, submits annually to the Parliament, by the 31st of  March, a report on implementation of the strategy and fulfilment of the action  plan.</p> 
+  <p></p> 
+  <p>Given that the Civil Society Development Strategy for the period 2018-2020 expired in 2020, the next policy document will be considered for the following years to monitor the situation in the field, which will be developed in 2023. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  administrative data
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.State Chancellery</p> 
+  <p>  2.Ministries and central public authorities </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  State Chancellery
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of implemented action from the Action Plan for implementing the Civil  Society Development Strategy for 2018–2020 out of the total number of planned  actions *100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  As global methodology is missing, the national indicator is a complementary  one, meant to meet the established global target
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  State Chancellery
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  <p> Angela Zagaiciuc, State Chancelary</p> 
+  <p>tel. 022-250-634 </p>
+source_other_info_1: >-
+  Link to source https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf https://cancelaria.gov.md/sites/default/files/document/attachments/raport_integral_sdsc_2018-2020.pdf             https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf

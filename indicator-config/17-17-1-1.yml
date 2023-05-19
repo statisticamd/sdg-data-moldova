@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.7.2 Proportion of population who believe decision-making is inclusive and  responsive
+graph_title: 17.17.1.1 Implementation of the Civil Society Development Strategy
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of population who believe decision-making is inclusive and  responsive
-indicator_name: global_indicators.16-7-2-title
-indicator_number: 16.7.2
+indicator_available: Implementation of the Civil Society Development Strategy
+indicator_name: global_indicators.17-17-1-1-title
+indicator_number: 17.17.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
@@ -40,7 +40,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false

@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.16.1.1: Raportarea progreselor asupra aplicării cadrului de monitorizare a eficienței  dezvoltării cu participarea mai multor parteneri, care acordă suport în  atingerea de către țară a Obiectivelor de Dezvoltare Durabilă</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.16: Sporirea parteneriatului global pentru dezvoltare durabilă, complementat de  parteneriate cu multiple părți interesate care mobilizează și distribuie  cunoștințele, expertiza, tehnologiile și resursele financiare, pentru a  sprijini realizarea Obiectivelor de Dezvoltare Durabilă în toate țările, în  special în țările în curs de dezvoltare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  OECD, UNDP
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.16
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-16-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.16.1.1: Raportarea progreselor asupra aplicării cadrului de monitorizare a  eficienței dezvoltării cu participarea mai multor parteneri, care acordă  suport în atingerea de către țară a Obiectivelor de Dezvoltare Durabilă</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Scopul indicatorului este măsurarea calității și eficienței parteneriatelor  pentru dezvoltare. Se consideră că țara raportează progrese atunci când pe  parcursul anului de referință, numărul de indicatori din cadrul naționalizat  ODD care arată tendințe pozitive este mai mare decât numărul indicatorilor  care prezintă o dinamică negativă. Progresul este raportat atât de țară în  calitate de beneficiar al asistenței/suportului în cadrul cooperării, cât și  de către țările care oferă acest suport/asistența.</p> 
+  <p>  Republica Moldova în  calitate de țară beneficiară de finanțare externă, care raportează, este  evaluată prin intermediul următoarelor elemente:</p> 
+  <p>  1. Să conducă la stabilirea priorităților naționale: țara își consolidează cadrul național de  rezultate.</p> 
+  <p>  2. Crearea unui mediu propice pentru organizațiile societății  civile: Organizațiile societății civile își desfășoară activitatea într-un  mediu care maximizează implicarea și contribuția lor la dezvoltare.</p> 
+  <p>  3.  Promovarea implicării sectorului privat și contribuția la dezvoltare:  Calitatea dialogului public-privat</p> 
+  <p>  4. Înregistrarea cooperării pentru  dezvoltare în Bugetul Public Național supus supravegherii parlamentare:  Ponderea fondurilor de cooperare pentru dezvoltare planificate pentru sectorul  public al țării care au fost înregistrate în BPN anual supus aprobării  legislative.</p> 
+  <p>  5. Consolidarea responsabilității reciproce:  Responsabilitatea reciprocă între actorii de dezvoltare este consolidată prin  revizuiri incluzive.</p> 
+  <p>  6. Consolidarea egalității de gen și abilitării  femeilor: Existența sistemelor guvernamentale transparente pentru urmărirea  alocărilor publice pentru egalitatea de gen și abilitarea femeilor</p> 
+  <p>  7.  Consolidarea instituțiilor interne: calitatea gestionării bugetare și  financiare a țării. </p>
+UNIT_MEASURE: >-
+  da/nu
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) [Portalul public al Platformei de gestionare a asistenței externe al  Guvernului](http://amp.gov.md/portal/)</p> 
+  <p>  2) Rapoartele de țară a  donatorilor</p> 
+  <p>  3) [Cadrul de Monitorizare a Parteneriatului Global pentru   Dezvoltare  Durabilă](https://www.effectivecooperation.org/system/files/2020-06/20170510%20Monitoring%20Framework%20Review%20Strategy%20%2801%20June%202017%29.pdf) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Ministerul Finanțelor</p> 
+  <p>  2) Partenerii de dezvoltare </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministerul Finanțelor</p> 
+  <p>  Organizația pentru Cooperare și Dezvoltare  Economică (OECD)</p> 
+  <p>  Programul Națiunilor Unite pentru Dezvoltare (PNUD) </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Organizația pentru Cooperare și Dezvoltare Economică (OECD), Programul  Națiunilor Unite pentru Dezvoltare (PNUD)
+source_periodicity_1: >-
+  o dată la 2 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

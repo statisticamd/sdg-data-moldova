@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.7.2: Proportion of population who believe decision-making is inclusive and  responsive, by sex, age, disability and population group</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.7: Ensure responsive, inclusive, participatory and representative decision-making  at all levels</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Development Programme (UNDP)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.7
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/tierIII-indicators/files/Tier3-16-07-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Tier 3 Work Plan (PDF 77.8 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.7.2: Proportion of population who believe decision-making is inclusive and  responsive</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  This indicator is based on surveys and measures the level of self-assessment  of "external efficiency of policies”, meaning the extent to which the  population considers that politicians and/or political institutions will  listen to and will act considering the opinions of ordinary citizens. To  tackle both dimensions of this indicator, two questions are used within the  survey/stud. The first question measures the extent to which people believe  that they really can express their opinion about what the Government does  (inclusive participation in decision-making), and the second question measures  the extent to which people feel that the political system allows them to have  an influence on policies (focusing on responsive decision-making).
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Living standard measuring survey (LSMS) - WB, </p> 
+  <p>  2) Demography and  Health Survey (DHS), </p> 
+  <p>  3) Multiple Indicator Cluster Survey  (MICS) -  UNICEF, </p> 
+  <p>  4) Household Budget Survey (HBS) - NBS;</p> 
+  <p>  5) Other surveys </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  State Chancellery
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  State Chancellery
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The indicator is calculated based on the answers of survey respondents for two  questions that tackle two distinct dimensions, such as inclusive participation  in decision-making and taking responsive decisions by the Government:</p> 
+  <p>  1)  To what extent do you consider that the policy system in the Republic of  Moldova allows the persons like you to express themselves about the  Government's actions? </p> 
+  <p>  2) To what extent do you consider that the policy  system in the Republic of Moldova allows the persons like you to have an  influence on policies?</p> 
+  <p>  The answers are: At all, Very unlikely, A little,  Very likely, A lot, Refuse, Do not know, Non-response. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  State Chancellery
+source_periodicity_1: >-
+  Once every 2 years
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-
