@@ -49,17 +49,20 @@ Access to safely managed water sources: Acces la surse gestionate sigur de apă
 Access to services: Acces la servicii
 Access to sewerage: Acces la canalizare
 According to metadata codes: Conform codurilor din metadate
+Accommodation and food service activities: Activitati de cazare si alimentatie publica
 Administrative officers: Funcționari administrativi
+Administrative and support service activities: Activitati de servicii administrative si activitati de servicii suport
 Adults (18 - 100+ years): Adulți (18-100+ ani)
 Adults: Adulți
 Advantaged: Avantajați
 Age group (neglected): Grupa de vârstă (neglijați)
 Age group (subjected to violence): Grupa de vârstă  (supuși violenței)
-Age group / Sex: Grupa de vârstă / Sexul
+Age group/Sex: Grupa de vârstă/Sex
 Age group 1 and Sex: Grupa de vârstă 1 și Sex
 Age group 2 and Sex: Grupa de vârstă 2 și Sex
 Age group of the victim: Grupa de vârstă  a victimei
 Age group: Grupa de vârstă
+Age groups of head of household, years: Grupe de vârstă capului gospodăriei, ani
 Age of the head of the household, years: Vârsta capului gospodăriei, ani
 Age: Vârsta
 aged 0-17 years: în vârstă de 0-17 ani
@@ -94,7 +97,9 @@ Area of residence  of the respondents: Mediu de reședință al respondenților
 Area of residence (neglected): Mediul de reședință (neglijați)
 Area of residence (subjected to violence): Mediul de reședință (supuși violenței)
 Area of residence: Mediul de reședință
+Area of residence/Sex: Mediul de reședință/Sex
 Area: Mediu
+Arts, entertainment and recreation: Arta, activități de recreere și de agrement
 Asylum seekers: Solicitanți azil
 ATU Gagauzia: UTA Găgăuzia
 ATU Găgăuzia: UTA Găgăuzia
@@ -112,9 +117,11 @@ Beneficiary status - foreign citizen: Statut de beneficiar - cetățean străin
 Bio-fuel and waste: Biocombustibili și deșeuri
 Births/Deaths: Nașteri/Decese
 Births: Nașteri
+Births at the age of 10-14 years old: Nașteri la vârsta de 10-14 ani
 Blackmail: Șantajul
 Both sexes: Ambele sexe
 Boys: Băieți
+Boys up to the age of 18 years old: Băieți până la 18 ani
 Brigandage: Tâlhăria
 Brut: Brut
 Bsb: BSB
@@ -140,6 +147,7 @@ Child rights: Drepturile copilului
 child with two parents: child with two parents
 Children (0 - 17 years): Copii (0-17 ani)
 Children: Copii
+Children up to 18 years old: Copii până la 18 ani
 chronic respiratory disease: chronic respiratory disease
 Church: Biserica
 Cities: Urbe
@@ -202,6 +210,7 @@ dram: dram
 Drinking water: apa potabilă
 Duration of arrest: Durata aflării în arest
 E Water supply, sewerage, waste management and remediation activities: E Distribuția apei; salubritate, gestionarea deșeurilor, activități de decontaminare
+Early education: Educație timpurie
 Early neonatal mortality (per 1000 live births): Mortalitatea neonatală precoce (la 1000 născuți-vii)
 Economic activities: Activități economice
 economically active population: economically active population
@@ -209,7 +218,10 @@ economically inactive  population: economically inactive population
 Edineț: Edineț
 Education type: education type
 education: education
+Education:  Învățământ
 Educational institutions: Instituțiile de învățământ
+Education levels: Nivele de educație
+Electricity, gas, steam and air conditioning supply: Producția și furnizarea de energie electrică și termică, gaze, apa caldă și aer condiționat
 electricity supply: electricity supply
 electricity transport: electricity transport
 Electricity: Energie electrică
@@ -219,8 +231,8 @@ Emission sectors: Sectoare de emisie
 Employed in the agricultural sector: Angajați în sectorul agrar
 Employed in the non-agricultural sector: Angajați în sectorul non-agrar
 employed: employed
-employees in the agricultural sector: angajati în sectorul agrar
-employees in the non-agricultural sector: angajati în sectorul non-agrar
+Employees in the agricultural sector: Salariați în sectorul agrar
+Employees in the non-agricultural sector: Salariați în sectorul non-agrar
 Employment status: Statutul ocupațional
 Energy sector: Sectorul Energie 
 Engaging in criminal activities: Antrenarea în activități criminale
@@ -243,6 +255,7 @@ Fatal accidents - by sex: Accidente mortale - după sex
 Favorable environment: Mediu favorabil
 female: femeie
 Fire inspections: Inspecțiile antiincendiare
+Financial and insurance activities: Activități financiare și de asigurări
 Firearms and explosive substances: Arme de foc şi substanţe explozive
 Fires: Incendii
 Food preparation - rural: Pregătirea alimentelor - rural
@@ -280,6 +293,7 @@ General and  specific objectives: Obiective generale și  specifice
 Geographical regions: Regiuni geografice
 Germany: Germania
 Girls: Fete
+Girls up to the age of 18 years old: Fete până la 18 ani
 Grants: Granturi
 Greece: Grecia
 Gross/Net: Brut/Net
@@ -300,7 +314,9 @@ healthcare: healthcare
 Hepatitis B vaccine (HEPB): Vaccinul contra hepatitei B (HEPB)
 high plant species registered in the Red Book of RA: high plant species registered in the Red Book of RA
 high: high
-Higher: Superioare
+high school: liceal 
+Higher: Superior
+High school, upper secondary (general): Liceal, mediu general
 High-risk population categories: Categorii de populație cu risc sporit
 Hire your own: Angajați cont propriu
 Home heating systems - rural: Sisteme de încălzire a locuințelor - rural
@@ -312,6 +328,7 @@ household access to centralized water supply: household access to centralized wa
 household access to garbage disposal: "household access to garbage disposal (garbage collector system and/or disposal by truck,  garbage piled up for disposal)"
 Household type: Tipul gospodăriei 
 Hydrocarbs: Hidrocarburi
+Human health and social work activities:  Sănătate ți asistență socială
 Humanitarian protection: Protecție umanitară
 I Accomodation and food service activities: I Activități de cazare și alimentație publică
 I quintile, area of residence: Chintila I, Mediul de reședință
@@ -321,6 +338,7 @@ in case of losing a breadwinner: in case of losing a breadwinner
 included in the specially protected natural areas: inclus în ariile naturale speciale prpotejate
 Including children (0-17 years): Inclusiv copii (0-17 ani)
 Including children: Inclusiv copii
+Information and communication: Informații și comunicații
 Incomes: Venituri
 Index: Indice
 Indicators: Indicatori
@@ -365,6 +383,7 @@ Language: Limbă
 Lead: Conducere
 Lease: Locaţiune
 left without parental care: left without parental care
+Levels: Nivele
 Legacy: Moştenire
 Legal basis: Baza legală
 Legal entities: Persoane juridice
@@ -384,6 +403,7 @@ Local public authorities: Autorități publice locale
 Location: Locația
 long-term service: long-term service
 lower secondary: lower secondary
+Lower secondary (gymnasium): Gimnazial
 M Professional, scientific and technical activities: M Activități profesionale, științifice și tehnice
 Man: Bărbat
 male: Bărbat
@@ -398,6 +418,7 @@ Means of committing: Mijloace de săvîrșire
 Medical institutions: Instituțiile medicale
 Men who have sex with men: Bărbaţi care practică sex cu bărbaţii
 Men: Bărbați
+men: Bărbați
 Mental disability: Dizabilitatea mintală
 Mental: Mintală
 middle vocational: middle vocational
@@ -417,6 +438,7 @@ Montreal protocol: Montreal Protocol
 More than 12 months: Mai mult de 12 luni
 Mortgage: Ipotecă
 Mun. Chisinau: Mun. Chișinău
+Municipality Chisinau: Municipiul Chișinău
 N Administrative and support service activities: N activități de servicii administrative și activități de servicii suport
 national parliaments: national parliaments
 Nationality: Naționalitate
@@ -476,8 +498,11 @@ Other occupations: Alte ocupații
 Other reasons: Alte motive
 Other rights (encumbrance): Alte drepturi (grevare)
 Other: Alte
+Other service activities: Alte activități de servicii
+Others: Alții
 Over 100 Mbps: Peste 100 Mbps
 overweight: overweight
+Own system: Sistem propriu
 P education: P Învățământ
 paramedical personnel: paramedical personnel
 Part: Parțial
@@ -486,7 +511,7 @@ Partly available: Parțial disponibil
 passenger volume: passenger volume
 Passport offices: Birourile de pașapoarte
 Pensioner status: Statut de pensionar
-pensioners: pensioners
+Pensioners: Pensionari
 Pentavalent combined vaccine against hepatitis b, tetanus diphtheria, pertussis, and haemophilus influenzae type B infection (HEPB + DTP + HIB): Vaccinul combinat pentavalent contra hepatitei b, difteriei tetanusului, pertusis, și infecției cu haemophilus influenzae tip B (HEPB+DTP+HIB)
 People with disabilities: Persoane cu dizabilități
 People with disability: Persoane cu dizabilitate
@@ -527,6 +552,7 @@ Poors, 40%: Săraci, 40%
 Population with usual residence: Populația cu reședință obișnuită
 Portugal: Portugalia
 postal service: postal service
+Post-secondary non-tertiary (secondary professional): Profesional tehnic postsecundar nonterțiar (mediu de specialitate)
 post-graduate education, second stage (master's degree): post-graduate education, second stage (master's degree)
 Preferential tariff status, type of products: Statut tarifar preferențial, tipul produselor
 preliminary vocational: preliminary vocational
@@ -535,10 +561,18 @@ pre-specialized (vocational) education: pre-specialized (vocational) education
 Primary and below: Primare și mai jos
 Primary care: Asistența primară
 Primary: Primare
+Primary or no education: Primar sau fără şcoală primară
+primary education: învățământ primar
 Product sectors: Sectoare ale produselor
 Production and supply of electric energy and heat, gas and hot water: Producția și furnizarea de energie electrică și termică, gaze şi apă caldă 
 Professional status: Statut profesional
+Professional, scientific and technical activities: Activități profesionale, științifice și tehnice
 Professional: Profesional
+Proportion of managerial positions held by women: Proporția posturilor de conducere ocupate de femei
+Proportion of women in senior and middle management positions: Proporția femeilor în funcții de conducere de nivel superior și mediu
+Proportion of persons aged of 13-15 year who have completed primary education: Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar
+Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium): Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial
+Proportion of persons aged of 21-23 year who have completed upper secondary education: Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar
 Proportion of forest area located in legally protected areas: Proporția de suprafață forestieră situată în zonele protejate legal
 Proportion of forest area managed in accordance with long-term sustainable forest management plans: Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung
 proportion of GDP: proportion of GDP
@@ -549,7 +583,9 @@ Psychological: Psihologică
 Public administration; education; health and social work: Administrație publică; învățământ; sănătate și asistență socială
 Public procurement: Achizițiile publice
 public transportation: public transportation
+Public administration and defence; compulsory social security:  Administratțe publică și apărare; asigurări sociale obligatorii
 Public: Publică
+Public network: Rețea publică
 Q Health and social work: Q Sănătate și asistenta sociala
 Qualified and assimilated workers: Muncitori calificați și asimilați
 Qualified civil cases: Calificată cauze civile
@@ -576,6 +612,7 @@ Rayons list: lista raioanelor
 Rayons/Municipalities that have treatment plants: Raioanele/Municipiile care dețin stații de epurare
 Rayons: Raioane
 Reason related to family relationships: Motiv legat de relaţii familiare
+Real estate activities: Tranzacții imobiliare
 Refugees: Refugiați
 Refuse of reasonable accommodation: Refuz în acomodare rezonabilă
 Regardless of income level (art. 20 law 198): Indiferent de nivelul de venit (art. 20 legea 198)
@@ -606,8 +643,11 @@ Romania: România
 Rotavirus (RV) vaccine: Vaccinul contra infecţiei cu rotavirusuri  (RV)
 Rotterdam convention: Rotterdam Convention
 Rum: Rom
+Rural, births at the age of 10-14 years old: Rural, nașteri la 10-14 ani
 Rural, 1st quintile: Rural, quintila 1
 Rural, quintile I: Rural, chintila I
+Rural/Men: Rural/Bărbați
+Rural/Women: Rural/Femei
 Russian Federation: Federația Rusă
 Russian: Rus
 Russians: Ruși
@@ -619,12 +659,13 @@ Sanitary-epidemiological inspections: Inspecțiile sanitar-epidemiologice
 School: Școala
 Secondary and above: Secundar și mai sus
 Secondary incomplete: Medii incomplete
-Secondary school: Mediu general
+secondary school: gimnazial
 Secondary specialized: Mediu de specialitate
 Secondary vocational: Secundar profesional
 Secondary: Secundare
 Sectors: Sectoare
 Self-employed: Angajați pe cont propriu
+Self-employers in agriculture: Lucrători pe cont propriu in agricultură
 Sensory: Senzorială
 Services: Servicii
 sewerage: sewerage
@@ -637,6 +678,7 @@ Sex of the head of the household: Sexul capului gospodăriei
 Sex of the petitioner: Sexul petiționarului
 Sex/gender: Sex/gen
 Sex: Sex
+Sexes: Sexe
 Sexual assault: Agresiune sexuală
 Sexual orientation: Orientarea sexuală
 sexual violence: sexual violence
@@ -660,7 +702,6 @@ Socio-economic status of pupils: Statut socio-economic al elevilor
 Socio-economic status: Statutul socio-economic
 Sources of financing: Surse de finanțare
 Solids: Substanțe solide
-
 Sources:  Surse 
 South: Sud
 Southern region: Regiunea Sud
@@ -675,6 +716,7 @@ Speeds: Viteze
 Stat: De stat
 Stateless: Apatrizi
 Statistical regions: Regiuni statistice
+Status: Statut
 Status of persons: Statutul persoanei
 Stockholm convention: Stockholm Convention
 Street: Strada
@@ -696,9 +738,11 @@ Temporary protection: Protecție temporă
 The basis for the registration of the property right: Baza înregistrării dreptului de proprietate
 The existence of disability: Existența dizabilității
 Thermal energy: Energie termică
+The quantity of groundwater in aquifers, thousand m3/24 h: Cantitatea apei subterane din acvifere  mii m3/24 ore
 To borrow: De împrumut
 Tools (row, axe, hammer etc.): Instrumente (rangă, topor, ciocan etc.)
 Top level lead: Conducere nivel superior
+Total up to the age of 18 years old: Total până la 18 ani
 total  (15-24 years): total  (15-24 ani)
 total  (15-29 years): total  (15-29 ani)
 total  (15-34 years): total  (15-34 ani)
@@ -708,12 +752,14 @@ total to the total number of children with disabilities (aged 0-17 years): total
 Total, by area of residence: Total, pe medii de reședință
 Total, quintile I: Total, chintila I
 total: total
+Total births at the age of 10-14 years old: Total nașteri la 10-14 ani
 Town hall: Primăria
 Toxicity class: Clasa de toxicitate 
 Trade donation: Donaţie-schimb
 Trade-union activity: Activitate sindicală 
 Transport registration and driver qualification: Înregistrarea transportului și calificarea conducătorilor auto
 Transportation and storage; information and communication: Transport și depozitare; informații și comunicații
+Transportation and storage: Transport și depozitare
 Transportation type: transportation type
 Trolleybuses: Troleibuze
 Tuberculosis vaccine (BCG): Vaccinul contra tuberculozei (BCG)
@@ -730,6 +776,8 @@ Type of technology: Tipul tehnologiei
 Type of the source: Tipul sursei
 Type of vaccine: Tipuri de vaccin
 Type: Tip
+Type of sewerage: Tipul de canalizare 
+Types of sources: Tipuri de surse 
 Types of accounts: Tipuri de conturi
 Types of crimes: Tipuri de infracțiuni
 Types of critical infrastructure: Tipuri de infrastructura critică
@@ -760,8 +808,12 @@ Up to 45 years (18-44): Pînă la 45 ani (18-44)
 up to 51 years old: up to 51 years old
 up to 6 months: up to 6 months
 Up to and including 15 years: Până la 15 ani inclusiv
+Upper secondary vocational: Profesional tehnic secundar 
 Urban, quintile I: Urban, chintila I
 urban: urban
+Urban/Men: Urban/Bărbați
+Urban, births at the age of 10-14 years old: Urban, nașteri la 10-14 ani
+Urban/Women: Urban/Femei
 USD: USD
 Victimization: Victimizare
 Volume of personal remittances (in usd): Volumul remiterilor personale (în dolari americani)
@@ -771,14 +823,17 @@ Waste sector: Sectorul Deșeuri
 wasting: wasting
 Water heating: Încălzirea apei
 Water quality in water bodies, according to hydrochemical indicators,: Calitatea apei în corpurile de apă, conform indicatorilor hidrochimici,  
+Water quality (rivers, lakes and artificial water bodies),% of the total number of monitored sections: Calitatea apei (râuri, lacuri și corpuri de apă artificiale),% din numărul total de secțiuni monitorizate
 Water quality: Calitatea apei
 water supply: water supply
+Water supply; sewerage, waste management and remediation activities: Distribuția apei; salubritate, gestionarea deșeurilor, activitați de decontaminare
 Wealthy, 60%: Înstăriți, 60%
 Wellbeing quintile : Quintile de bunăstare
 Wetlands of international importance: Zone umede de importanţă internaţională
 White weapons (knife, sharp objects): Arme albe (cuţit, obiect înţepător)
 Whole: Integral
 Wholesale and retail trade; accomodation and food service activities: Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică
+ Wholesale and retail trade; repair of motor vehicles and motorcycles: Comerț cu ridicata și cu amănuntul; întreținerea și repararea autovehiculelor și a motocicletelor
 With children up to 18 years: Cu copii până la 18 ani
 With disabilities: Cu dizabilități 
 Without children up to 18 years: Fără copii până la 18 ani
