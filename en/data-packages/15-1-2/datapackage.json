@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Types of ecosystems",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wetlands of international importance",
+                "Other (areas with multifunctional management, resource reservations, landscape reservations, nature reserves, etc.)",
+                ""
+              ]
+            },
+            "title": "Types of ecosystems"
           },
           {
             "name": "Value",
