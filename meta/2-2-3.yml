@@ -1,0 +1,78 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.2.3: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Health Organisation (WHO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+  Percentage of women aged 15−49 years with a haemoglobin concentration less than 120 g/L for non-pregnant women and lactating women, and less than 110 g/L for pregnant women, adjusted for altitude and smoking.
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  2.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata
+SDG_INDICATOR: >-
+  <p>Indicator 2.2.3: Prevalence of anaemia in women aged 15 to 49 years</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Percentage of women aged 15−49 years with a haemoglobin concentration less than 120 g/L for non-pregnant women and lactating women, and less than 110 g/L for pregnant women, adjusted for altitude and smoking.
+UNIT_MEASURE: >-
+  percent %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  rs12_săn „Taking the number of diseases registered in patients domiciled in the service territory of the curative institution”
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Agency for Public Health
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of women aged 15-49 registered with anaemia /Number of women of the respective age * 100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Anaemia is estimated to contribute to 17% lower productivity in heavy manual labour and 5% lower productivity in other manual labour (Goal 1 End poverty in all its forms everywhere); during pregnancy, it increases the risk of maternal and perinatal mortality and contributes to low birth-weight infants (Goal 3. Good health and well-being); it also limits cognitive development, children who have adequate iron have more energy to participate in classroom exercises, and they are more mentally prepared to master the material (Goal 4. Quality education); anaemia rates in females are much higher than males — while anaemia rates decrease for males by the end of puberty, they remain high for females through reproductive years due to menstruation, thus reducing anaemia contributes to boosting females’ relative academic performance and worker productivity and helps achieve gender equality (Goal 5. Gender equality).
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Agency for Public Health
+source_periodicity_1: >-
+  annual, quarterly
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  0373022725292  Catan Liubov
+source_other_info_1: >-
