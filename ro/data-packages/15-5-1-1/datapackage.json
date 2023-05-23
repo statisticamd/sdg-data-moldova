@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types",
             "type": "string",
             "constraints": {
               "enum": [
-                "Plants",
-                "Animals",
+                "Plante",
+                "Animale",
                 ""
               ]
             },
-            "title": "Types"
+            "title": "Tipuri"
           },
           {
             "name": "Value",

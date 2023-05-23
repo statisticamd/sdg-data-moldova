@@ -13,18 +13,18 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Index",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index (rank)",
+                "Indice (rang)",
                 ""
               ]
             },
-            "title": "Index"
+            "title": "Indice"
           },
           {
             "name": "Value",

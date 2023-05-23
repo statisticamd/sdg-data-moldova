@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Area of residence",
@@ -51,48 +51,48 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Discrimination criteria",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social status",
-                "Age",
-                "Disability",
-                "Sexual orientation",
-                "Existence of a criminal record",
-                "HIV status",
-                "Roma ethnicity",
-                "Sex/gender",
-                "Other ethnicity",
-                "Religion",
-                "Other",
+                "Statut social",
+                "Vârsta",
+                "Dizabilitate",
+                "Orientarea sexuală",
+                "Existența antecedentelor penale",
+                "Statutul HIV",
+                "Etnia romă",
+                "Sex/gen",
+                "Altă etnie",
+                "Religia",
+                "Alte",
                 ""
               ]
             },
-            "title": "Discrimination criteria"
+            "title": "Criterii de discriminare"
           },
           {
             "name": "Entities in which they were discriminated against",
             "type": "string",
             "constraints": {
               "enum": [
-                "Polyclinic",
-                "Place of work",
-                "Police",
-                "Town hall",
-                "Street",
-                "Social assistance",
-                "School",
-                "Shop",
-                "Church",
-                "Other",
+                "Policlinica",
+                "Locul de muncă",
+                "Poliția",
+                "Primăria",
+                "Strada",
+                "Asistența socială",
+                "Școala",
+                "Magazin",
+                "Biserica",
+                "Alte",
                 ""
               ]
             },
-            "title": "Entities in which they were discriminated against"
+            "title": "Entități în care au fost discriminați"
           },
           {
             "name": "Value",

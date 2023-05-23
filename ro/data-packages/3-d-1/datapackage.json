@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Capabilities of the health sector",
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Capabilities of the health sector"
+            "title": "Capacități ale sectorului de sănătate"
           },
           {
             "name": "Value",

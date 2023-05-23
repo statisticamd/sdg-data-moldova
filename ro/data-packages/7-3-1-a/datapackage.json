@@ -13,23 +13,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of energy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Coal",
-                "Natural gas",
-                "Petrol products",
-                "Bio-fuel and waste",
-                "Electricity",
-                "Thermal energy",
+                "Cărbune",
+                "Gaze naturale",
+                "Produse petroliere",
+                "Biocombustibili și deșeuri",
+                "Energie electrică",
+                "Energie termică",
                 ""
               ]
             },
-            "title": "Types of energy"
+            "title": "Tipuri de energie"
           },
           {
             "name": "Value",

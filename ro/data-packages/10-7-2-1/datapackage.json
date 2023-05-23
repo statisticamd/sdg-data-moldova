@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Policy areas",
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Policy areas"
+            "title": "Domenii de politici"
           },
           {
             "name": "Value",

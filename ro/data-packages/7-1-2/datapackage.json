@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,85 +25,85 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Home heating systems - total",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - total"
+            "title": "Sisteme de încălzire a locuințelor - total"
           },
           {
             "name": "Home heating systems - urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - urban"
+            "title": "Sisteme de încălzire a locuințelor - urban"
           },
           {
             "name": "Home heating systems - rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - rural"
+            "title": "Sisteme de încălzire a locuințelor - rural"
           },
           {
             "name": "Food preparation - total",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - total"
+            "title": "Pregătirea alimentelor - total"
           },
           {
             "name": "Food preparation - urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - urban"
+            "title": "Pregătirea alimentelor - urban"
           },
           {
             "name": "Food preparation - rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - rural"
+            "title": "Pregătirea alimentelor - rural"
           },
           {
             "name": "Value",

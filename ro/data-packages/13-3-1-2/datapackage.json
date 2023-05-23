@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Strategies",
             "type": "string",
             "constraints": {
               "enum": [
-                "Strategy on development with reduced emissions until 2030",
-                "Climate change adaptation strategy until 2020",
+                "Strategia de Dezvoltare cu emisii reduse pană în 2030",
+                "Srategia de adaptare la schimbările climatice până în 2020",
                 ""
               ]
             },
-            "title": "Strategies"
+            "title": "Strategii"
           },
           {
             "name": "Value",

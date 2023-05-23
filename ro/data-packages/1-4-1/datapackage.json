@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -46,25 +46,25 @@
               "enum": [
                 "0-17",
                 "15+",
-                "57+ (women) / 62+ (men)",
+                "57+ (femei) / 62+ (bărbați)",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Access to electricity",
-                "Access to safely managed water sources",
-                "Access to sewerage",
-                "Access to internet",
+                "Acces la electricitate",
+                "Acces la surse gestionate sigur de apă",
+                "Acces la canalizare",
+                "Acces la internet",
                 ""
               ]
             },
-            "title": "Sub-indicators"
+            "title": "Sub-indicatori"
           },
           {
             "name": "Value",

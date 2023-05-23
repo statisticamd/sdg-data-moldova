@@ -7,25 +7,25 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Type of benefit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social aid",
-                "Cold-weather aid",
+                "Ajutor social",
+                "Ajutor pentru perioada rece a anului",
                 ""
               ]
             },
-            "title": "Type of benefit"
+            "title": "Tipul prestației"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Bachelor's Degree",
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Bachelor's Degree"
+            "title": "Licență"
           },
           {
             "name": "Master",

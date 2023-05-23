@@ -13,37 +13,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Food products",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vegetables and fruits, kg",
-                "Confectionery products, kg",
-                "Soft drinks, bottles",
-                "Dried fruits, kg",
-                "Vegetable oil, liters",
-                "Other products of non-animal origin, kg",
+                "Legume și fructe, kg",
+                "Produse de cofetărie, kg",
+                "Băuturi răcoritoare, butelii",
+                "Fructe uscate, kg",
+                "Ulei vegetal, litri",
+                "Alte produse de origine nonanimală, kg",
                 "Meat, kg",
-                "Meat by-products, kg",
+                "Subproduse din carne, kg",
                 ""
               ]
             },
-            "title": "Food products"
+            "title": "Produse alimentare"
           },
           {
             "name": "Animals",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pigs, heads",
-                "Birds, heads",
+                "Porcine, capete",
+                "Păsări, capete",
                 ""
               ]
             },
-            "title": "Animals"
+            "title": "Animale"
           },
           {
             "name": "Value",

@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Duration of arrest",
             "type": "string",
             "constraints": {
               "enum": [
-                "Up to 3 months",
-                "From 3 to 6 months",
-                "From 6 to 12 months",
-                "More than 12 months",
+                "Până la 3 luni",
+                "De la 3 la 6 luni",
+                "De la 6 luni până la 12 luni",
+                "Mai mult de 12 luni",
                 ""
               ]
             },
-            "title": "Duration of arrest"
+            "title": "Durata aflării în arest"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },

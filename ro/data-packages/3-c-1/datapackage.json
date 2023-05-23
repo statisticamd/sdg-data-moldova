@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of paramedical personnel per 10 000 population",
-                "Number of dentists per 10 000 population",
-                "Number of pharmacists per 10 000 population",
+                "Numărul personalului medical la 10 000 populație",
+                "Numărul de stomatologi și dentiști la 10 000 populație",
+                "Numărul de farmaciști la 10 000 populație",
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Indicatori"
           },
           {
             "name": "Districts",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -61,7 +61,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -70,7 +70,7 @@
                 "Leova",
                 "Stefan Voda",
                 "Taraclia",
-                "TAU Gagauzia",
+                "UTA Găgăuzia",
                 ""
               ]
             },

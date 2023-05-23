@@ -1,9 +1,9 @@
-Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Employment status,Value
+Year,Mediul de reședință,Sex,Grupa de vârstă,Grupa de vârstă 1 și Sex,Grupa de vârstă 2 și Sex,Statutul ocupațional,Value
 2010,,,,,,,
 2010,Urban,,,,,,
 2010,Rural,,,,,,
-2010,,Men,,,,,
-2010,,Women,,,,,
+2010,,Bărbați,,,,,
+2010,,Femei,,,,,
 2010,,,15-24,,,,
 2010,,,25-34,,,,
 2010,,,35-44,,,,
@@ -11,25 +11,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2010,,,55+,,,,
 2010,,,,0-14 / Total,,,
 2010,,,,15+ / Total,,,
-2010,,,,15+ / Men,,,
-2010,,,,15+ / Women,,,
+2010,,,,15+ / Bărbați,,,
+2010,,,,15+ / Femei,,,
 2010,,,,,15-24 / Total,,
-2010,,,,,15-24 / Men,,
-2010,,,,,15-24 / Women,,
+2010,,,,,15-24 / Bărbați,,
+2010,,,,,15-24 / Femei,,
 2010,,,,,25+ / Total,,
-2010,,,,,25+ / Men,,
-2010,,,,,25+ / Women,,
-2010,,,,,,Self-employers in agriculture,
-2010,,,,,,Employees in the agricultural sector,
-2010,,,,,,Employees in the non-agricultural sector,
-2010,,,,,,Self-employers in non-agricultural activities,
-2010,,,,,,Pensioners,
-2010,,,,,,Others,
+2010,,,,,25+ / Bărbați,,
+2010,,,,,25+ / Femei,,
+2010,,,,,,Lucrători pe cont propriu in agricultură,
+2010,,,,,,Salariați în sectorul agrar,
+2010,,,,,,Salariați în sectorul non-agrar,
+2010,,,,,,Lucrători pe cont propriu in activități neagricole,
+2010,,,,,,Pensionari,
+2010,,,,,,Alții,
 2011,,,,,,,
 2011,Urban,,,,,,
 2011,Rural,,,,,,
-2011,,Men,,,,,
-2011,,Women,,,,,
+2011,,Bărbați,,,,,
+2011,,Femei,,,,,
 2011,,,15-24,,,,
 2011,,,25-34,,,,
 2011,,,35-44,,,,
@@ -37,25 +37,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2011,,,55+,,,,
 2011,,,,0-14 / Total,,,
 2011,,,,15+ / Total,,,
-2011,,,,15+ / Men,,,
-2011,,,,15+ / Women,,,
+2011,,,,15+ / Bărbați,,,
+2011,,,,15+ / Femei,,,
 2011,,,,,15-24 / Total,,
-2011,,,,,15-24 / Men,,
-2011,,,,,15-24 / Women,,
+2011,,,,,15-24 / Bărbați,,
+2011,,,,,15-24 / Femei,,
 2011,,,,,25+ / Total,,
-2011,,,,,25+ / Men,,
-2011,,,,,25+ / Women,,
-2011,,,,,,Self-employers in agriculture,
-2011,,,,,,Employees in the agricultural sector,
-2011,,,,,,Employees in the non-agricultural sector,
-2011,,,,,,Self-employers in non-agricultural activities,
-2011,,,,,,Pensioners,
-2011,,,,,,Others,
+2011,,,,,25+ / Bărbați,,
+2011,,,,,25+ / Femei,,
+2011,,,,,,Lucrători pe cont propriu in agricultură,
+2011,,,,,,Salariați în sectorul agrar,
+2011,,,,,,Salariați în sectorul non-agrar,
+2011,,,,,,Lucrători pe cont propriu in activități neagricole,
+2011,,,,,,Pensionari,
+2011,,,,,,Alții,
 2012,,,,,,,
 2012,Urban,,,,,,
 2012,Rural,,,,,,
-2012,,Men,,,,,
-2012,,Women,,,,,
+2012,,Bărbați,,,,,
+2012,,Femei,,,,,
 2012,,,15-24,,,,
 2012,,,25-34,,,,
 2012,,,35-44,,,,
@@ -63,25 +63,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2012,,,55+,,,,
 2012,,,,0-14 / Total,,,
 2012,,,,15+ / Total,,,
-2012,,,,15+ / Men,,,
-2012,,,,15+ / Women,,,
+2012,,,,15+ / Bărbați,,,
+2012,,,,15+ / Femei,,,
 2012,,,,,15-24 / Total,,
-2012,,,,,15-24 / Men,,
-2012,,,,,15-24 / Women,,
+2012,,,,,15-24 / Bărbați,,
+2012,,,,,15-24 / Femei,,
 2012,,,,,25+ / Total,,
-2012,,,,,25+ / Men,,
-2012,,,,,25+ / Women,,
-2012,,,,,,Self-employers in agriculture,
-2012,,,,,,Employees in the agricultural sector,
-2012,,,,,,Employees in the non-agricultural sector,
-2012,,,,,,Self-employers in non-agricultural activities,
-2012,,,,,,Pensioners,
-2012,,,,,,Others,
+2012,,,,,25+ / Bărbați,,
+2012,,,,,25+ / Femei,,
+2012,,,,,,Lucrători pe cont propriu in agricultură,
+2012,,,,,,Salariați în sectorul agrar,
+2012,,,,,,Salariați în sectorul non-agrar,
+2012,,,,,,Lucrători pe cont propriu in activități neagricole,
+2012,,,,,,Pensionari,
+2012,,,,,,Alții,
 2013,,,,,,,
 2013,Urban,,,,,,
 2013,Rural,,,,,,
-2013,,Men,,,,,
-2013,,Women,,,,,
+2013,,Bărbați,,,,,
+2013,,Femei,,,,,
 2013,,,15-24,,,,
 2013,,,25-34,,,,
 2013,,,35-44,,,,
@@ -89,25 +89,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2013,,,55+,,,,
 2013,,,,0-14 / Total,,,
 2013,,,,15+ / Total,,,
-2013,,,,15+ / Men,,,
-2013,,,,15+ / Women,,,
+2013,,,,15+ / Bărbați,,,
+2013,,,,15+ / Femei,,,
 2013,,,,,15-24 / Total,,
-2013,,,,,15-24 / Men,,
-2013,,,,,15-24 / Women,,
+2013,,,,,15-24 / Bărbați,,
+2013,,,,,15-24 / Femei,,
 2013,,,,,25+ / Total,,
-2013,,,,,25+ / Men,,
-2013,,,,,25+ / Women,,
-2013,,,,,,Self-employers in agriculture,
-2013,,,,,,Employees in the agricultural sector,
-2013,,,,,,Employees in the non-agricultural sector,
-2013,,,,,,Self-employers in non-agricultural activities,
-2013,,,,,,Pensioners,
-2013,,,,,,Others,
+2013,,,,,25+ / Bărbați,,
+2013,,,,,25+ / Femei,,
+2013,,,,,,Lucrători pe cont propriu in agricultură,
+2013,,,,,,Salariați în sectorul agrar,
+2013,,,,,,Salariați în sectorul non-agrar,
+2013,,,,,,Lucrători pe cont propriu in activități neagricole,
+2013,,,,,,Pensionari,
+2013,,,,,,Alții,
 2014,,,,,,,7.0
 2014,Urban,,,,,,2.5
 2014,Rural,,,,,,10.3
-2014,,Men,,,,,7.4
-2014,,Women,,,,,6.7
+2014,,Bărbați,,,,,7.4
+2014,,Femei,,,,,6.7
 2014,,,15-24,,,,7.8
 2014,,,25-34,,,,7.4
 2014,,,35-44,,,,7.7
@@ -115,25 +115,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2014,,,55+,,,,3.4
 2014,,,,0-14 / Total,,,12.8
 2014,,,,15+ / Total,,,5.7
-2014,,,,15+ / Men,,,6.0
-2014,,,,15+ / Women,,,5.5
+2014,,,,15+ / Bărbați,,,6.0
+2014,,,,15+ / Femei,,,5.5
 2014,,,,,15-24 / Total,,7.8
-2014,,,,,15-24 / Men,,7.4
-2014,,,,,15-24 / Women,,8.1
+2014,,,,,15-24 / Bărbați,,7.4
+2014,,,,,15-24 / Femei,,8.1
 2014,,,,,25+ / Total,,5.3
-2014,,,,,25+ / Men,,5.7
-2014,,,,,25+ / Women,,5.0
-2014,,,,,,Self-employers in agriculture,14.5
-2014,,,,,,Employees in the agricultural sector,17.3
-2014,,,,,,Employees in the non-agricultural sector,4.5
-2014,,,,,,Self-employers in non-agricultural activities,2.4
-2014,,,,,,Pensioners,5.5
-2014,,,,,,Others,8.3
+2014,,,,,25+ / Bărbați,,5.7
+2014,,,,,25+ / Femei,,5.0
+2014,,,,,,Lucrători pe cont propriu in agricultură,14.5
+2014,,,,,,Salariați în sectorul agrar,17.3
+2014,,,,,,Salariați în sectorul non-agrar,4.5
+2014,,,,,,Lucrători pe cont propriu in activități neagricole,2.4
+2014,,,,,,Pensionari,5.5
+2014,,,,,,Alții,8.3
 2015,,,,,,,6.1
 2015,Urban,,,,,,1.2
 2015,Rural,,,,,,9.6
-2015,,Men,,,,,6.4
-2015,,Women,,,,,5.8
+2015,,Bărbați,,,,,6.4
+2015,,Femei,,,,,5.8
 2015,,,15-24,,,,7.6
 2015,,,25-34,,,,6.6
 2015,,,35-44,,,,7.0
@@ -141,25 +141,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2015,,,55+,,,,2.7
 2015,,,,0-14 / Total,,,10.5
 2015,,,,15+ / Total,,,5.1
-2015,,,,15+ / Men,,,5.3
-2015,,,,15+ / Women,,,5.0
+2015,,,,15+ / Bărbați,,,5.3
+2015,,,,15+ / Femei,,,5.0
 2015,,,,,15-24 / Total,,7.6
-2015,,,,,15-24 / Men,,6.7
-2015,,,,,15-24 / Women,,8.6
+2015,,,,,15-24 / Bărbați,,6.7
+2015,,,,,15-24 / Femei,,8.6
 2015,,,,,25+ / Total,,4.7
-2015,,,,,25+ / Men,,5.1
-2015,,,,,25+ / Women,,4.4
-2015,,,,,,Self-employers in agriculture,14.8
-2015,,,,,,Employees in the agricultural sector,18.7
-2015,,,,,,Employees in the non-agricultural sector,3.1
-2015,,,,,,Self-employers in non-agricultural activities,5.1
-2015,,,,,,Pensioners,3.7
-2015,,,,,,Others,6.8
+2015,,,,,25+ / Bărbați,,5.1
+2015,,,,,25+ / Femei,,4.4
+2015,,,,,,Lucrători pe cont propriu in agricultură,14.8
+2015,,,,,,Salariați în sectorul agrar,18.7
+2015,,,,,,Salariați în sectorul non-agrar,3.1
+2015,,,,,,Lucrători pe cont propriu in activități neagricole,5.1
+2015,,,,,,Pensionari,3.7
+2015,,,,,,Alții,6.8
 2016,,,,,,,5.6
 2016,Urban,,,,,,1.0
 2016,Rural,,,,,,8.8
-2016,,Men,,,,,5.9
-2016,,Women,,,,,5.2
+2016,,Bărbați,,,,,5.9
+2016,,Femei,,,,,5.2
 2016,,,15-24,,,,6.8
 2016,,,25-34,,,,4.3
 2016,,,35-44,,,,7.5
@@ -167,25 +167,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2016,,,55+,,,,2.4
 2016,,,,0-14 / Total,,,10.0
 2016,,,,15+ / Total,,,4.6
-2016,,,,15+ / Men,,,4.9
-2016,,,,15+ / Women,,,4.3
+2016,,,,15+ / Bărbați,,,4.9
+2016,,,,15+ / Femei,,,4.3
 2016,,,,,15-24 / Total,,6.8
-2016,,,,,15-24 / Men,,7.0
-2016,,,,,15-24 / Women,,6.6
+2016,,,,,15-24 / Bărbați,,7.0
+2016,,,,,15-24 / Femei,,6.6
 2016,,,,,25+ / Total,,4.2
-2016,,,,,25+ / Men,,4.5
-2016,,,,,25+ / Women,,3.9
-2016,,,,,,Self-employers in agriculture,12.3
-2016,,,,,,Employees in the agricultural sector,15.6
-2016,,,,,,Employees in the non-agricultural sector,3.0
-2016,,,,,,Self-employers in non-agricultural activities,5.5
-2016,,,,,,Pensioners,3.8
-2016,,,,,,Others,5.6
+2016,,,,,25+ / Bărbați,,4.5
+2016,,,,,25+ / Femei,,3.9
+2016,,,,,,Lucrători pe cont propriu in agricultură,12.3
+2016,,,,,,Salariați în sectorul agrar,15.6
+2016,,,,,,Salariați în sectorul non-agrar,3.0
+2016,,,,,,Lucrători pe cont propriu in activități neagricole,5.5
+2016,,,,,,Pensionari,3.8
+2016,,,,,,Alții,5.6
 2017,,,,,,,6.0
 2017,Urban,,,,,,1.2
 2017,Rural,,,,,,9.5
-2017,,Men,,,,,6.5
-2017,,Women,,,,,5.6
+2017,,Bărbați,,,,,6.5
+2017,,Femei,,,,,5.6
 2017,,,15-24,,,,9.2
 2017,,,25-34,,,,5.2
 2017,,,35-44,,,,7.0
@@ -193,25 +193,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2017,,,55+,,,,3.0
 2017,,,,0-14 / Total,,,10.2
 2017,,,,15+ / Total,,,5.1
-2017,,,,15+ / Men,,,5.5
-2017,,,,15+ / Women,,,4.8
+2017,,,,15+ / Bărbați,,,5.5
+2017,,,,15+ / Femei,,,4.8
 2017,,,,,15-24 / Total,,9.2
-2017,,,,,15-24 / Men,,8.4
-2017,,,,,15-24 / Women,,10.1
+2017,,,,,15-24 / Bărbați,,8.4
+2017,,,,,15-24 / Femei,,10.1
 2017,,,,,25+ / Total,,4.5
-2017,,,,,25+ / Men,,5.0
-2017,,,,,25+ / Women,,4.1
-2017,,,,,,Self-employers in agriculture,15.6
-2017,,,,,,Employees in the agricultural sector,16.8
-2017,,,,,,Employees in the non-agricultural sector,3.0
-2017,,,,,,Self-employers in non-agricultural activities,5.8
-2017,,,,,,Pensioners,3.9
-2017,,,,,,Others,6.4
+2017,,,,,25+ / Bărbați,,5.0
+2017,,,,,25+ / Femei,,4.1
+2017,,,,,,Lucrători pe cont propriu in agricultură,15.6
+2017,,,,,,Salariați în sectorul agrar,16.8
+2017,,,,,,Salariați în sectorul non-agrar,3.0
+2017,,,,,,Lucrători pe cont propriu in activități neagricole,5.8
+2017,,,,,,Pensionari,3.9
+2017,,,,,,Alții,6.4
 2018,,,,,,,4.8
 2018,Urban,,,,,,1.3
 2018,Rural,,,,,,7.2
-2018,,Men,,,,,5.2
-2018,,Women,,,,,4.4
+2018,,Bărbați,,,,,5.2
+2018,,Femei,,,,,4.4
 2018,,,15-24,,,,7.8
 2018,,,25-34,,,,5.0
 2018,,,35-44,,,,5.2
@@ -219,25 +219,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2018,,,55+,,,,2.1
 2018,,,,0-14 / Total,,,8.1
 2018,,,,15+ / Total,,,4.0
-2018,,,,15+ / Men,,,4.5
-2018,,,,15+ / Women,,,3.6
+2018,,,,15+ / Bărbați,,,4.5
+2018,,,,15+ / Femei,,,3.6
 2018,,,,,15-24 / Total,,7.8
-2018,,,,,15-24 / Men,,9.2
-2018,,,,,15-24 / Women,,6.0
+2018,,,,,15-24 / Bărbați,,9.2
+2018,,,,,15-24 / Femei,,6.0
 2018,,,,,25+ / Total,,3.5
-2018,,,,,25+ / Men,,3.6
-2018,,,,,25+ / Women,,3.3
-2018,,,,,,Self-employers in agriculture,9.4
-2018,,,,,,Employees in the agricultural sector,12.5
-2018,,,,,,Employees in the non-agricultural sector,1.9
-2018,,,,,,Self-employers in non-agricultural activities,2.6
-2018,,,,,,Pensioners,3.9
-2018,,,,,,Others,7.7
+2018,,,,,25+ / Bărbați,,3.6
+2018,,,,,25+ / Femei,,3.3
+2018,,,,,,Lucrători pe cont propriu in agricultură,9.4
+2018,,,,,,Salariați în sectorul agrar,12.5
+2018,,,,,,Salariați în sectorul non-agrar,1.9
+2018,,,,,,Lucrători pe cont propriu in activități neagricole,2.6
+2018,,,,,,Pensionari,3.9
+2018,,,,,,Alții,7.7
 2019,,,,,,,5.1
 2019,Urban,,,,,,1.4
 2019,Rural,,,,,,7.6
-2019,,Men,,,,,5.3
-2019,,Women,,,,,4.9
+2019,,Bărbați,,,,,5.3
+2019,,Femei,,,,,4.9
 2019,,,15-24,,,,7.7
 2019,,,25-34,,,,4.7
 2019,,,35-44,,,,5.6
@@ -245,25 +245,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2019,,,55+,,,,2.8
 2019,,,,0-14 / Total,,,9.0
 2019,,,,15+ / Total,,,4.2
-2019,,,,15+ / Men,,,4.5
-2019,,,,15+ / Women,,,4.0
+2019,,,,15+ / Bărbați,,,4.5
+2019,,,,15+ / Femei,,,4.0
 2019,,,,,15-24 / Total,,7.7
-2019,,,,,15-24 / Men,,9.2
-2019,,,,,15-24 / Women,,6.2
+2019,,,,,15-24 / Bărbați,,9.2
+2019,,,,,15-24 / Femei,,6.2
 2019,,,,,25+ / Total,,3.7
-2019,,,,,25+ / Men,,3.8
-2019,,,,,25+ / Women,,3.7
-2019,,,,,,Self-employers in agriculture,10.3
-2019,,,,,,Employees in the agricultural sector,5.5
-2019,,,,,,Employees in the non-agricultural sector,1.7
-2019,,,,,,Self-employers in non-agricultural activities,4.5
-2019,,,,,,Pensioners,3.4
-2019,,,,,,Others,7.2
+2019,,,,,25+ / Bărbați,,3.8
+2019,,,,,25+ / Femei,,3.7
+2019,,,,,,Lucrători pe cont propriu in agricultură,10.3
+2019,,,,,,Salariați în sectorul agrar,5.5
+2019,,,,,,Salariați în sectorul non-agrar,1.7
+2019,,,,,,Lucrători pe cont propriu in activități neagricole,4.5
+2019,,,,,,Pensionari,3.4
+2019,,,,,,Alții,7.2
 2020,,,,,,,4.9
 2020,Urban,,,,,,1.8
 2020,Rural,,,,,,7.0
-2020,,Men,,,,,5.3
-2020,,Women,,,,,4.6
+2020,,Bărbați,,,,,5.3
+2020,,Femei,,,,,4.6
 2020,,,15-24,,,,5.5
 2020,,,25-34,,,,6.4
 2020,,,35-44,,,,5.3
@@ -271,25 +271,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2020,,,55+,,,,2.2
 2020,,,,0-14 / Total,,,8.9
 2020,,,,15+ / Total,,,4.0
-2020,,,,15+ / Men,,,4.1
-2020,,,,15+ / Women,,,3.9
+2020,,,,15+ / Bărbați,,,4.1
+2020,,,,15+ / Femei,,,3.9
 2020,,,,,15-24 / Total,,5.5
-2020,,,,,15-24 / Men,,5.2
-2020,,,,,15-24 / Women,,5.8
+2020,,,,,15-24 / Bărbați,,5.2
+2020,,,,,15-24 / Femei,,5.8
 2020,,,,,25+ / Total,,3.8
-2020,,,,,25+ / Men,,4.0
-2020,,,,,25+ / Women,,3.6
-2020,,,,,,Self-employers in agriculture,7.5
-2020,,,,,,Employees in the agricultural sector,6.9
-2020,,,,,,Employees in the non-agricultural sector,1.9
-2020,,,,,,Self-employers in non-agricultural activities,5.3
-2020,,,,,,Pensioners,2.5
-2020,,,,,,Others,7.3
+2020,,,,,25+ / Bărbați,,4.0
+2020,,,,,25+ / Femei,,3.6
+2020,,,,,,Lucrători pe cont propriu in agricultură,7.5
+2020,,,,,,Salariați în sectorul agrar,6.9
+2020,,,,,,Salariați în sectorul non-agrar,1.9
+2020,,,,,,Lucrători pe cont propriu in activități neagricole,5.3
+2020,,,,,,Pensionari,2.5
+2020,,,,,,Alții,7.3
 2021,,,,,,,4.6
 2021,Urban,,,,,,1.8
 2021,Rural,,,,,,6.4
-2021,,Men,,,,,4.6
-2021,,Women,,,,,4.6
+2021,,Bărbați,,,,,4.6
+2021,,Femei,,,,,4.6
 2021,,,15-24,,,,5.7
 2021,,,25-34,,,,4.4
 2021,,,35-44,,,,4.4
@@ -297,25 +297,25 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2021,,,55+,,,,3.0
 2021,,,,0-14 / Total,,,7.6
 2021,,,,15+ / Total,,,3.9
-2021,,,,15+ / Men,,,3.9
-2021,,,,15+ / Women,,,3.9
+2021,,,,15+ / Bărbați,,,3.9
+2021,,,,15+ / Femei,,,3.9
 2021,,,,,15-24 / Total,,5.7
-2021,,,,,15-24 / Men,,5.1
-2021,,,,,15-24 / Women,,6.2
+2021,,,,,15-24 / Bărbați,,5.1
+2021,,,,,15-24 / Femei,,6.2
 2021,,,,,25+ / Total,,3.6
-2021,,,,,25+ / Men,,3.7
-2021,,,,,25+ / Women,,3.6
-2021,,,,,,Self-employers in agriculture,8.0
-2021,,,,,,Employees in the agricultural sector,6.7
-2021,,,,,,Employees in the non-agricultural sector,1.2
-2021,,,,,,Self-employers in non-agricultural activities,3.9
-2021,,,,,,Pensioners,3.3
-2021,,,,,,Others,6.6
+2021,,,,,25+ / Bărbați,,3.7
+2021,,,,,25+ / Femei,,3.6
+2021,,,,,,Lucrători pe cont propriu in agricultură,8.0
+2021,,,,,,Salariați în sectorul agrar,6.7
+2021,,,,,,Salariați în sectorul non-agrar,1.2
+2021,,,,,,Lucrători pe cont propriu in activități neagricole,3.9
+2021,,,,,,Pensionari,3.3
+2021,,,,,,Alții,6.6
 2022,,,,,,,6.1
 2022,Urban,,,,,,3.2
 2022,Rural,,,,,,8.0
-2022,,Men,,,,,6.4
-2022,,Women,,,,,5.9
+2022,,Bărbați,,,,,6.4
+2022,,Femei,,,,,5.9
 2022,,,15-24,,,,7.7
 2022,,,25-34,,,,5.6
 2022,,,35-44,,,,6.8
@@ -323,17 +323,17 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2022,,,55+,,,,3.8
 2022,,,,0-14 / Total,,,10.3
 2022,,,,15+ / Total,,,5.2
-2022,,,,15+ / Men,,,5.5
-2022,,,,15+ / Women,,,4.9
+2022,,,,15+ / Bărbați,,,5.5
+2022,,,,15+ / Femei,,,4.9
 2022,,,,,15-24 / Total,,7.7
-2022,,,,,15-24 / Men,,8.8
-2022,,,,,15-24 / Women,,6.5
+2022,,,,,15-24 / Bărbați,,8.8
+2022,,,,,15-24 / Femei,,6.5
 2022,,,,,25+ / Total,,4.8
-2022,,,,,25+ / Men,,4.9
-2022,,,,,25+ / Women,,4.7
-2022,,,,,,Self-employers in agriculture,9.3
-2022,,,,,,Employees in the agricultural sector,7.5
-2022,,,,,,Employees in the non-agricultural sector,3.1
-2022,,,,,,Self-employers in non-agricultural activities,4.3
-2022,,,,,,Pensioners,4.2
-2022,,,,,,Others,8.4
+2022,,,,,25+ / Bărbați,,4.9
+2022,,,,,25+ / Femei,,4.7
+2022,,,,,,Lucrători pe cont propriu in agricultură,9.3
+2022,,,,,,Salariați în sectorul agrar,7.5
+2022,,,,,,Salariați în sectorul non-agrar,3.1
+2022,,,,,,Lucrători pe cont propriu in activități neagricole,4.3
+2022,,,,,,Pensionari,4.2
+2022,,,,,,Alții,8.4

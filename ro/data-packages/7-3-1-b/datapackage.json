@@ -13,22 +13,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sectors",
             "type": "string",
             "constraints": {
               "enum": [
-                "Industry",
+                "Industrie",
                 "Transport",
-                "Residential sector (population)",
-                "Services",
-                "Agriculture",
+                "Sector rezidențial",
+                "Servicii",
+                "Agricultură",
                 ""
               ]
             },
-            "title": "Sectors"
+            "title": "Sectoare"
           },
           {
             "name": "Value",

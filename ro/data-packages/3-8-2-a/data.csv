@@ -1,9 +1,9 @@
-Year,Area of residence,Sex of the head of the household,"Age groups of head of household, years",Quintiles on consumption expenditures,Household type,Value
+Year,Mediul de reședință,Sexul capului gospodăriei,"Grupe de vârstă capului gospodăriei, ani",Chintile pe cheltuielile de consum,Tipul gospodăriei,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
-2010,,Men,,,,
-2010,,Women,,,,
+2010,,Bărbați,,,,
+2010,,Femei,,,,
 2010,,,<30,,,
 2010,,,30-39,,,
 2010,,,40-49,,,
@@ -15,13 +15,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2010,,,,III,,
 2010,,,,IV,,
 2010,,,,V,,
-2010,,,,,With children up to 18 years,
-2010,,,,,Without children up to 18 years,
+2010,,,,,Cu copii până la 18 ani,
+2010,,,,,Fără copii până la 18 ani,
 2011,,,,,,
 2011,Urban,,,,,
 2011,Rural,,,,,
-2011,,Men,,,,
-2011,,Women,,,,
+2011,,Bărbați,,,,
+2011,,Femei,,,,
 2011,,,<30,,,
 2011,,,30-39,,,
 2011,,,40-49,,,
@@ -33,13 +33,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2011,,,,III,,
 2011,,,,IV,,
 2011,,,,V,,
-2011,,,,,With children up to 18 years,
-2011,,,,,Without children up to 18 years,
+2011,,,,,Cu copii până la 18 ani,
+2011,,,,,Fără copii până la 18 ani,
 2012,,,,,,
 2012,Urban,,,,,
 2012,Rural,,,,,
-2012,,Men,,,,
-2012,,Women,,,,
+2012,,Bărbați,,,,
+2012,,Femei,,,,
 2012,,,<30,,,
 2012,,,30-39,,,
 2012,,,40-49,,,
@@ -51,13 +51,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2012,,,,III,,
 2012,,,,IV,,
 2012,,,,V,,
-2012,,,,,With children up to 18 years,
-2012,,,,,Without children up to 18 years,
+2012,,,,,Cu copii până la 18 ani,
+2012,,,,,Fără copii până la 18 ani,
 2013,,,,,,
 2013,Urban,,,,,
 2013,Rural,,,,,
-2013,,Men,,,,
-2013,,Women,,,,
+2013,,Bărbați,,,,
+2013,,Femei,,,,
 2013,,,<30,,,
 2013,,,30-39,,,
 2013,,,40-49,,,
@@ -69,13 +69,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2013,,,,III,,
 2013,,,,IV,,
 2013,,,,V,,
-2013,,,,,With children up to 18 years,
-2013,,,,,Without children up to 18 years,
+2013,,,,,Cu copii până la 18 ani,
+2013,,,,,Fără copii până la 18 ani,
 2014,,,,,,15.4
 2014,Urban,,,,,14.0
 2014,Rural,,,,,16.4
-2014,,Men,,,,14.8
-2014,,Women,,,,16.8
+2014,,Bărbați,,,,14.8
+2014,,Femei,,,,16.8
 2014,,,<30,,,13.5
 2014,,,30-39,,,8.2
 2014,,,40-49,,,9.6
@@ -87,13 +87,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2014,,,,III,,16.8
 2014,,,,IV,,18.4
 2014,,,,V,,19.2
-2014,,,,,With children up to 18 years,11.6
-2014,,,,,Without children up to 18 years,19.7
+2014,,,,,Cu copii până la 18 ani,11.6
+2014,,,,,Fără copii până la 18 ani,19.7
 2015,,,,,,18.0
 2015,Urban,,,,,17.7
 2015,Rural,,,,,18.3
-2015,,Men,,,,16.5
-2015,,Women,,,,21.4
+2015,,Bărbați,,,,16.5
+2015,,Femei,,,,21.4
 2015,,,<30,,,8.6
 2015,,,30-39,,,12.5
 2015,,,40-49,,,12.5
@@ -105,13 +105,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2015,,,,III,,19.1
 2015,,,,IV,,19.3
 2015,,,,V,,23.9
-2015,,,,,With children up to 18 years,13.0
-2015,,,,,Without children up to 18 years,23.5
+2015,,,,,Cu copii până la 18 ani,13.0
+2015,,,,,Fără copii până la 18 ani,23.5
 2016,,,,,,17.2
 2016,Urban,,,,,17.2
 2016,Rural,,,,,17.1
-2016,,Men,,,,16.1
-2016,,Women,,,,19.2
+2016,,Bărbați,,,,16.1
+2016,,Femei,,,,19.2
 2016,,,<30,,,9.2
 2016,,,30-39,,,11.1
 2016,,,40-49,,,11.1
@@ -123,13 +123,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2016,,,,III,,16.3
 2016,,,,IV,,20.8
 2016,,,,V,,22.2
-2016,,,,,With children up to 18 years,11.7
-2016,,,,,Without children up to 18 years,22.9
+2016,,,,,Cu copii până la 18 ani,11.7
+2016,,,,,Fără copii până la 18 ani,22.9
 2017,,,,,,16.3
 2017,Urban,,,,,15.6
 2017,Rural,,,,,16.8
-2017,,Men,,,,14.9
-2017,,Women,,,,19.0
+2017,,Bărbați,,,,14.9
+2017,,Femei,,,,19.0
 2017,,,<30,,,7.1
 2017,,,30-39,,,7.9
 2017,,,40-49,,,9.9
@@ -141,13 +141,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2017,,,,III,,15.6
 2017,,,,IV,,16.7
 2017,,,,V,,21.2
-2017,,,,,With children up to 18 years,11.3
-2017,,,,,Without children up to 18 years,21.6
+2017,,,,,Cu copii până la 18 ani,11.3
+2017,,,,,Fără copii până la 18 ani,21.6
 2018,,,,,,13.1
 2018,Urban,,,,,13.5
 2018,Rural,,,,,12.8
-2018,,Men,,,,12.1
-2018,,Women,,,,15.1
+2018,,Bărbați,,,,12.1
+2018,,Femei,,,,15.1
 2018,,,<30,,,7.1
 2018,,,30-39,,,8.9
 2018,,,40-49,,,9.8
@@ -159,13 +159,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2018,,,,III,,12.8
 2018,,,,IV,,13.3
 2018,,,,V,,19.3
-2018,,,,,With children up to 18 years,10.4
-2018,,,,,Without children up to 18 years,15.9
+2018,,,,,Cu copii până la 18 ani,10.4
+2018,,,,,Fără copii până la 18 ani,15.9
 2019,,,,,,14.0
 2019,Urban,,,,,15.4
 2019,Rural,,,,,13.1
-2019,,Men,,,,13.0
-2019,,Women,,,,16.4
+2019,,Bărbați,,,,13.0
+2019,,Femei,,,,16.4
 2019,,,<30,,,12.3
 2019,,,30-39,,,8.4
 2019,,,40-49,,,8.7
@@ -177,13 +177,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2019,,,,III,,13.0
 2019,,,,IV,,18.0
 2019,,,,V,,21.3
-2019,,,,,With children up to 18 years,9.3
-2019,,,,,Without children up to 18 years,18.9
+2019,,,,,Cu copii până la 18 ani,9.3
+2019,,,,,Fără copii până la 18 ani,18.9
 2020,,,,,,12.0
 2020,Urban,,,,,14.1
 2020,Rural,,,,,10.6
-2020,,Men,,,,11.0
-2020,,Women,,,,14.0
+2020,,Bărbați,,,,11.0
+2020,,Femei,,,,14.0
 2020,,,<30,,,9.7
 2020,,,30-39,,,7.0
 2020,,,40-49,,,8.6
@@ -195,13 +195,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2020,,,,III,,12.5
 2020,,,,IV,,18.0
 2020,,,,V,,17.5
-2020,,,,,With children up to 18 years,7.7
-2020,,,,,Without children up to 18 years,16.3
+2020,,,,,Cu copii până la 18 ani,7.7
+2020,,,,,Fără copii până la 18 ani,16.3
 2021,,,,,,14.2
 2021,Urban,,,,,17.1
 2021,Rural,,,,,12.2
-2021,,Men,,,,13.5
-2021,,Women,,,,15.5
+2021,,Bărbați,,,,13.5
+2021,,Femei,,,,15.5
 2021,,,<30,,,8.5
 2021,,,30-39,,,10.2
 2021,,,40-49,,,10.5
@@ -213,13 +213,13 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2021,,,,III,,11.4
 2021,,,,IV,,17.7
 2021,,,,V,,23.2
-2021,,,,,With children up to 18 years,11.2
-2021,,,,,Without children up to 18 years,17.1
+2021,,,,,Cu copii până la 18 ani,11.2
+2021,,,,,Fără copii până la 18 ani,17.1
 2022,,,,,,11.7
 2022,Urban,,,,,15.6
 2022,Rural,,,,,9.2
-2022,,Men,,,,10.5
-2022,,Women,,,,14.2
+2022,,Bărbați,,,,10.5
+2022,,Femei,,,,14.2
 2022,,,<30,,,6.3
 2022,,,30-39,,,9.8
 2022,,,40-49,,,9.4
@@ -231,5 +231,5 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2022,,,,III,,11.4
 2022,,,,IV,,12.4
 2022,,,,V,,20.4
-2022,,,,,With children up to 18 years,8.5
-2022,,,,,Without children up to 18 years,14.7
+2022,,,,,Cu copii până la 18 ani,8.5
+2022,,,,,Fără copii până la 18 ani,14.7

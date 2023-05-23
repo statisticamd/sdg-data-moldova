@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Units",
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of persons aged of 13-15 year who have completed primary education",
-                "Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium)",
-                "Proportion of persons aged of 21-23 year who have completed upper secondary education",
+                "Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar",
+                "Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial",
+                "Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar",
                 ""
               ]
             },
@@ -50,15 +50,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },

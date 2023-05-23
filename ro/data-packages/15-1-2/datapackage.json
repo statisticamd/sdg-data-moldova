@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of ecosystems",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wetlands of international importance",
-                "Other (areas with multifunctional management, resource reservations, landscape reservations, nature reserves, etc.)",
+                "Zone umede de importanţă internaţională",
+                "Altele (arii cu management multifuncţional,  rezervaţiile de resurse, rezervaţii peisajere, rezervaţii naturale etc.)",
                 ""
               ]
             },
-            "title": "Types of ecosystems"
+            "title": "Tipuri ecosisteme"
           },
           {
             "name": "Value",

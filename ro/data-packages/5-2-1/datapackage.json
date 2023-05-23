@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Age group",
@@ -40,35 +40,35 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
-                "Secondary specialized",
-                "Secondary vocational",
-                "Secondary school",
-                "Gymnasium",
+                "Superior",
+                "Mediu de specialitate",
+                "Secundar profesional",
+                "Gimnazial",
+                "Gimnazial",
                 ""
               ]
             },
-            "title": "Level of education"
+            "title": "Nivelul de studii"
           },
           {
             "name": "Form of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Psychological",
-                "Physical",
-                "Sexual",
+                "Psihologică",
+                "Fizică",
+                "Sexuală",
                 ""
               ]
             },
-            "title": "Form of violence"
+            "title": "Formă de violență"
           },
           {
             "name": "Value",

@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -33,11 +33,11 @@
             "constraints": {
               "enum": [
                 "15-24",
-                "25 and over",
+                "25 și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Statistical regions",
@@ -45,31 +45,31 @@
             "constraints": {
               "enum": [
                 "Mun. Chisnau",
-                "North",
-                "Center",
-                "South",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Occupations",
             "type": "string",
             "constraints": {
               "enum": [
-                "Legislators, senior officials and managers",
-                "Professionals",
-                "Technicians and associate professionals",
-                "Clerical support workers",
-                "Service and shop and Sales Workers",
-                "Craft and related trades workers",
-                "Plant and machine operators and assemblers",
-                "Elementary occupations",
+                "Legislatori, membri ai executivului, alți înalți demnitari și conducători ai administrației publice, conducători şi funcţionari superiori din unităţ",
+                "Specialişti în diverse domenii de activitate",
+                "Tehnicieni și alți specialişti cu nivel mediu de calificare",
+                "Funcţionari administrativi",
+                "Lucrători în domeniul serviciilor și în comerț",
+                "Muncitori calificați și asimilați",
+                "Operatori la maşini și instalaţii; asamblori de maşini şi echipamente",
+                "Ocupații elementare",
                 ""
               ]
             },
-            "title": "Occupations"
+            "title": "Ocupaţii"
           },
           {
             "name": "Value",

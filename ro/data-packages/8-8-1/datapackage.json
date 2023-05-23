@@ -13,93 +13,93 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Fatal accidents, by sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Fatal accidents, by sex"
+            "title": "Accidente mortale, după sex"
           },
           {
             "name": "Fatal accidents, by economic activities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by economic activities",
-                "Agriculture, forestry and fishing",
-                "Industry",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transportation and storage",
-                "Accommodation and food service activities",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Public administration and defence; compulsory social security",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
+                "Total pe activități economice",
+                "Agricultura, silvicultura și pescuit",
+                "Industrie",
+                "Industria extractivă",
+                "Industria prelucrătoare",
+                "Producția și furnizarea de energie electrică și termică, gaze, apa caldă și aer condiționat",
+                "Distribuția apei; salubritate, gestionarea deșeurilor, activitați de decontaminare",
+                "Construcții",
+                "Comerț cu ridicata și cu amănuntul; întreținerea și repararea autovehiculelor și a motocicletelor",
+                "Transport și depozitare",
+                "Activitati de cazare si alimentatie publica",
+                "Informații și comunicații",
+                "Activități financiare și de asigurări",
+                "Tranzacții imobiliare",
+                "Activități profesionale, științifice și tehnice",
+                "Activitati de servicii administrative si activitati de servicii suport",
+                "Administratțe publică și apărare; asigurări sociale obligatorii",
+                "Învățământ",
+                "Sănătate și asistență socială",
+                "Arta, activități de recreere și de agrement",
+                "Alte activități de servicii",
                 ""
               ]
             },
-            "title": "Fatal accidents, by economic activities"
+            "title": "Accidente mortale, după activități economice"
           },
           {
             "name": "Non-fatal accidents, by sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Non-fatal accidents, by sex"
+            "title": "Accidente nemortale, după sex"
           },
           {
             "name": "Non-fatal accidents, by economic activities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by economic activities",
-                "Agriculture, forestry and fishing",
-                "Industry",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transportation and storage",
-                "Accommodation and food service activities",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Public administration and defence; compulsory social security",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
+                "Total pe activități economice",
+                "Agricultura, silvicultura și pescuit",
+                "Industrie",
+                "Industria extractivă",
+                "Industria prelucrătoare",
+                "Producția și furnizarea de energie electrică și termică, gaze, apa caldă și aer condiționat",
+                "Distribuția apei; salubritate, gestionarea deșeurilor, activitați de decontaminare",
+                "Construcții",
+                "Comerț cu ridicata și cu amănuntul; întreținerea și repararea autovehiculelor și a motocicletelor",
+                "Transport și depozitare",
+                "Activitati de cazare si alimentatie publica",
+                "Informații și comunicații",
+                "Activități financiare și de asigurări",
+                "Tranzacții imobiliare",
+                "Activități profesionale, științifice și tehnice",
+                "Activitati de servicii administrative si activitati de servicii suport",
+                "Administratțe publică și apărare; asigurări sociale obligatorii",
+                "Învățământ",
+                "Sănătate și asistență socială",
+                "Arta, activități de recreere și de agrement",
+                "Alte activități de servicii",
                 ""
               ]
             },
-            "title": "Non-fatal accidents, by economic activities"
+            "title": "Accidente nemortale, după activități economice"
           },
           {
             "name": "Value",

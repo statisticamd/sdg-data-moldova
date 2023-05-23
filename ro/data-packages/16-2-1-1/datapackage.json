@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence (subjected to violence)",
@@ -25,44 +25,44 @@
                 ""
               ]
             },
-            "title": "Area of residence (subjected to violence)"
+            "title": "Mediul de reședință (supuși violenței)"
           },
           {
             "name": "Sex (subjected to violence)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Girls",
-                "Boys",
+                "Fete",
+                "Băieți",
                 ""
               ]
             },
-            "title": "Sex (subjected to violence)"
+            "title": "Sex (supuși violenței)"
           },
           {
             "name": "Age group (subjected to violence)",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-2 years",
+                "0-2 ani",
                 "3-6 years",
                 "7-15 years",
-                "16-17 years",
+                "16-17 ani",
                 ""
               ]
             },
-            "title": "Age group (subjected to violence)"
+            "title": "Grupa de vârstă  (supuși violenței)"
           },
           {
             "name": "Disability (subjected to violence)",
             "type": "string",
             "constraints": {
               "enum": [
-                "With disabilities",
+                "Cu dizabilități",
                 ""
               ]
             },
-            "title": "Disability (subjected to violence)"
+            "title": "Dizabilitate (supuși violenței)"
           },
           {
             "name": "Number of neglected children, at the end of the year",
@@ -73,7 +73,7 @@
                 ""
               ]
             },
-            "title": "Number of neglected children, at the end of the year"
+            "title": "Numărul copiilor neglijați, la sfîrșitul anului"
           },
           {
             "name": "Area of residence (neglected)",
@@ -85,19 +85,19 @@
                 ""
               ]
             },
-            "title": "Area of residence (neglected)"
+            "title": "Mediul de reședință (neglijați)"
           },
           {
             "name": "Sex (neglected)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Girls",
-                "Boys",
+                "Fete",
+                "Băieți",
                 ""
               ]
             },
-            "title": "Sex (neglected)"
+            "title": "Sex (neglijați)"
           },
           {
             "name": "Age group (neglected)",
@@ -111,18 +111,18 @@
                 ""
               ]
             },
-            "title": "Age group (neglected)"
+            "title": "Grupa de vârstă (neglijați)"
           },
           {
             "name": "Disability (neglected)",
             "type": "string",
             "constraints": {
               "enum": [
-                "With disabilities",
+                "Cu dizabilități",
                 ""
               ]
             },
-            "title": "Disability (neglected)"
+            "title": "Dizabilitate (neglijați)"
           },
           {
             "name": "Value",

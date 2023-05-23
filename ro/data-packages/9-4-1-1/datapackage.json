@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Emission sectors",
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy sector",
-                "Industrial processes and use of products sector",
-                "Agriculture sector",
-                "Waste sector",
+                "Sectorul Energie",
+                "Sectorul Procesele industriale şi utilizarea produselor",
+                "Sectorul Agricultura",
+                "Sectorul Deșeuri",
                 ""
               ]
             },
-            "title": "Emission sectors"
+            "title": "Sectoare de emisie"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Districts",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -60,7 +60,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -69,7 +69,7 @@
                 "Leova",
                 "Stefan Voda",
                 "Taraclia",
-                "TAU Gagauzia",
+                "UTA Găgăuzia",
                 ""
               ]
             },

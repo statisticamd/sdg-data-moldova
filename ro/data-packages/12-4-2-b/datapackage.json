@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Toxic waste by development regions",
@@ -22,14 +22,14 @@
               "enum": [
                 "Total ",
                 "Municipality Chişinău",
-                "North",
-                "Center",
-                "South",
-                "ATU Găgăuzia",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
                 ""
               ]
             },
-            "title": "Toxic waste by development regions"
+            "title": "Deșeuri toxice, pe regiuni de dezvoltare"
           },
           {
             "name": "Toxic waste by toxicity class",
@@ -43,7 +43,7 @@
                 ""
               ]
             },
-            "title": "Toxic waste by toxicity class"
+            "title": "Deșeuri toxice, pe clase de toxicitate"
           },
           {
             "name": "Value",

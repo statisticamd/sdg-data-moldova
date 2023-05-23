@@ -13,22 +13,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
-                "South",
-                "Center",
-                "ATU Gagauzia",
+                "Nord",
+                "Sud",
+                "Centru",
+                "UTA Găgăuzia",
                 "Mun. Chisinău",
                 ""
               ]
             },
-            "title": "Regions"
+            "title": "Regiuni"
           },
           {
             "name": "Value",

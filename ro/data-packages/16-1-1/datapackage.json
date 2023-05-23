@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -32,42 +32,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group of the victim"
+            "title": "Grupa de vârstă  a victimei"
           },
           {
             "name": "Means of committing",
             "type": "string",
             "constraints": {
               "enum": [
-                "Firearms and explosive substances",
-                "White weapons (knife, sharp objects)",
-                "Tools (row, axe, hammer etc.)",
-                "Other means",
+                "Arme de foc şi substanţe explozive",
+                "Arme albe (cuţit, obiect înţepător)",
+                "Instrumente (rangă, topor, ciocan etc.)",
+                "Alte mijloace",
                 ""
               ]
             },
-            "title": "Means of committing"
+            "title": "Mijloace de săvîrșire"
           },
           {
             "name": "Context/reason",
             "type": "string",
             "constraints": {
               "enum": [
-                "Revenge",
-                "Jealousy",
-                "Quarrel",
-                "Reason related to family relationships",
-                "Ordered",
-                "Other reasons",
+                "Răzbunare",
+                "Gelozie",
+                "Ceartă",
+                "Motiv legat de relaţii familiare",
+                "La comandă",
+                "Alte motive",
                 ""
               ]
             },
-            "title": "Context/reason"
+            "title": "Contextul/motivul"
           },
           {
             "name": "Value",

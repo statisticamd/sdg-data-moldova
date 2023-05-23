@@ -13,18 +13,18 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Children's rights",
             "type": "string",
             "constraints": {
               "enum": [
-                "Children's rights",
+                "Drepturile copilului",
                 ""
               ]
             },
-            "title": "Children's rights"
+            "title": "Drepturile copilului"
           },
           {
             "name": "Value",

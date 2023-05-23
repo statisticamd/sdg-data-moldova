@@ -13,16 +13,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of sources ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Underground centralized sources",
-                "Centralized surface sources",
-                "Decentralized water supply sources (wells)",
+                "Surse centralizate subterane",
+                "Surse centralizate de suprafață",
+                "Surse descentralizate de alimentare cu apă (fîntîni)",
                 ""
               ]
             },

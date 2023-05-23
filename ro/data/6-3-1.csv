@@ -1,9 +1,9 @@
-Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
+Year,Activități economice,Raioanele/Municipiile care dețin stații de epurare,Value
 2010,,,17.3
-2010,"Agriculture, forestry and fishing",,0.0
-2010,Manufacturing,,43.9
-2010,"Electricity, gas and water",,17.6
-2010,Other activities,,59.2
+2010,"Agricultura, silvicultura și pescuit",,0.0
+2010,Industria prelucrătoare,,43.9
+2010,"Energia electrică, gaze și apă",,17.6
+2010,Alte activități,,59.2
 2010,,Mun. Chișinău,99.3
 2010,,Mun. Bălți,99.0
 2010,,Cahul,67.3
@@ -21,10 +21,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2010,,Telenești,0.0
 2010,,UTA Găgăguzia,6.3
 2011,,,16.8
-2011,"Agriculture, forestry and fishing",,2.4
-2011,Manufacturing,,45.2
-2011,"Electricity, gas and water",,17.2
-2011,Other activities,,50.9
+2011,"Agricultura, silvicultura și pescuit",,2.4
+2011,Industria prelucrătoare,,45.2
+2011,"Energia electrică, gaze și apă",,17.2
+2011,Alte activități,,50.9
 2011,,Mun. Chișinău,99.3
 2011,,Mun. Bălți,99.0
 2011,,Cahul,80.4
@@ -42,10 +42,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2011,,Telenești,0.0
 2011,,UTA Găgăguzia,7.4
 2012,,,16.6
-2012,"Agriculture, forestry and fishing",,2.4
-2012,Manufacturing,,40.4
-2012,"Electricity, gas and water",,16.9
-2012,Other activities,,50.9
+2012,"Agricultura, silvicultura și pescuit",,2.4
+2012,Industria prelucrătoare,,40.4
+2012,"Energia electrică, gaze și apă",,16.9
+2012,Alte activități,,50.9
 2012,,Mun. Chișinău,99.3
 2012,,Mun. Bălți,97.8
 2012,,Cahul,84.1
@@ -63,10 +63,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2012,,Telenești,0.0
 2012,,UTA Găgăguzia,6.0
 2013,,,16.6
-2013,"Agriculture, forestry and fishing",,2.6
-2013,Manufacturing,,35.4
-2013,"Electricity, gas and water",,16.9
-2013,Other activities,,52.4
+2013,"Agricultura, silvicultura și pescuit",,2.6
+2013,Industria prelucrătoare,,35.4
+2013,"Energia electrică, gaze și apă",,16.9
+2013,Alte activități,,52.4
 2013,,Mun. Chișinău,99.3
 2013,,Mun. Bălți,99.4
 2013,,Cahul,83.3
@@ -84,10 +84,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2013,,Telenești,0.0
 2013,,UTA Găgăguzia,6.3
 2014,,,16.3
-2014,"Agriculture, forestry and fishing",,3.8
-2014,Manufacturing,,37.5
-2014,"Electricity, gas and water",,16.4
-2014,Other activities,,52.4
+2014,"Agricultura, silvicultura și pescuit",,3.8
+2014,Industria prelucrătoare,,37.5
+2014,"Energia electrică, gaze și apă",,16.4
+2014,Alte activități,,52.4
 2014,,Mun. Chișinău,96.1
 2014,,Mun. Bălți,0.0
 2014,,Cahul,84.9
@@ -105,10 +105,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2014,,Telenești,0.0
 2014,,UTA Găgăguzia,14.3
 2015,,,16.7
-2015,"Agriculture, forestry and fishing",,3.4
-2015,Manufacturing,,40.3
-2015,"Electricity, gas and water",,16.8
-2015,Other activities,,53.9
+2015,"Agricultura, silvicultura și pescuit",,3.4
+2015,Industria prelucrătoare,,40.3
+2015,"Energia electrică, gaze și apă",,16.8
+2015,Alte activități,,53.9
 2015,,Mun. Chișinău,99.4
 2015,,Mun. Bălți,0.0
 2015,,Cahul,86.4
@@ -126,10 +126,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2015,,Telenești,0.0
 2015,,UTA Găgăguzia,13.2
 2016,,,14.0
-2016,"Agriculture, forestry and fishing",,3.7
-2016,Manufacturing,,35.6
-2016,"Electricity, gas and water",,14.0
-2016,Other activities,,53.9
+2016,"Agricultura, silvicultura și pescuit",,3.7
+2016,Industria prelucrătoare,,35.6
+2016,"Energia electrică, gaze și apă",,14.0
+2016,Alte activități,,53.9
 2016,,Mun. Chișinău,66.8
 2016,,Mun. Bălți,0.0
 2016,,Cahul,86.0
@@ -147,10 +147,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2016,,Telenești,0.0
 2016,,UTA Găgăguzia,15.0
 2017,,,17.1
-2017,"Agriculture, forestry and fishing",,3.8
-2017,Manufacturing,,35.4
-2017,"Electricity, gas and water",,17.2
-2017,Other activities,,53.9
+2017,"Agricultura, silvicultura și pescuit",,3.8
+2017,Industria prelucrătoare,,35.4
+2017,"Energia electrică, gaze și apă",,17.2
+2017,Alte activități,,53.9
 2017,,Mun. Chișinău,99.4
 2017,,Mun. Bălți,0.0
 2017,,Cahul,87.4
@@ -168,10 +168,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2017,,Telenești,0.0
 2017,,UTA Găgăguzia,14.0
 2018,,,18.0
-2018,"Agriculture, forestry and fishing",,3.7
-2018,Manufacturing,,77.8
-2018,"Electricity, gas and water",,17.2
-2018,Other activities,,51.9
+2018,"Agricultura, silvicultura și pescuit",,3.7
+2018,Industria prelucrătoare,,77.8
+2018,"Energia electrică, gaze și apă",,17.2
+2018,Alte activități,,51.9
 2018,,Mun. Chișinău,99.3
 2018,,Mun. Bălți,99.3
 2018,,Cahul,86.7
@@ -189,10 +189,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2018,,Telenești,60.0
 2018,,UTA Găgăguzia,7.8
 2019,,,18.1
-2019,"Agriculture, forestry and fishing",,3.7
-2019,Manufacturing,,79.5
-2019,"Electricity, gas and water",,17.2
-2019,Other activities,,45.5
+2019,"Agricultura, silvicultura și pescuit",,3.7
+2019,Industria prelucrătoare,,79.5
+2019,"Energia electrică, gaze și apă",,17.2
+2019,Alte activități,,45.5
 2019,,Mun. Chișinău,99.2
 2019,,Mun. Bălți,99.3
 2019,,Cahul,91.3
@@ -210,10 +210,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2019,,Telenești,60.0
 2019,,UTA Găgăguzia,8.5
 2020,,,17.7
-2020,"Agriculture, forestry and fishing",,3.7
-2020,Manufacturing,,79.0
-2020,"Electricity, gas and water",,16.8
-2020,Other activities,,48.7
+2020,"Agricultura, silvicultura și pescuit",,3.7
+2020,Industria prelucrătoare,,79.0
+2020,"Energia electrică, gaze și apă",,16.8
+2020,Alte activități,,48.7
 2020,,Mun. Chișinău,99.0
 2020,,Mun. Bălți,99.2
 2020,,Cahul,89.8
@@ -231,10 +231,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2020,,Telenești,60.0
 2020,,UTA Găgăguzia,10.1
 2021,,,18.1
-2021,"Agriculture, forestry and fishing",,3.7
-2021,Manufacturing,,81.3
-2021,"Electricity, gas and water",,17.0
-2021,Other activities,,47.1
+2021,"Agricultura, silvicultura și pescuit",,3.7
+2021,Industria prelucrătoare,,81.3
+2021,"Energia electrică, gaze și apă",,17.0
+2021,Alte activități,,47.1
 2021,,Mun. Chișinău,99.0
 2021,,Mun. Bălți,99.4
 2021,,Cahul,99.1
@@ -252,10 +252,10 @@ Year,Economic activities,Rayons/Municipalities that have treatment plants,Value
 2021,,Telenești,60.0
 2021,,UTA Găgăguzia,9.4
 2022,,,
-2022,"Agriculture, forestry and fishing",,
-2022,Manufacturing,,
-2022,"Electricity, gas and water",,
-2022,Other activities,,
+2022,"Agricultura, silvicultura și pescuit",,
+2022,Industria prelucrătoare,,
+2022,"Energia electrică, gaze și apă",,
+2022,Alte activități,,
 2022,,Mun. Chișinău,
 2022,,Mun. Bălți,
 2022,,Cahul,

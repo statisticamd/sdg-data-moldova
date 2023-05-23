@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,21 +25,21 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Statistical regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Municipiul Chișinău",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -54,27 +54,27 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Type of sewerage ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public network",
-                "Own system",
+                "Rețea publică",
+                "Sistem propriu",
                 ""
               ]
             },

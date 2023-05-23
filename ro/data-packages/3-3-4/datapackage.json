@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 years and over, adults",
-                "0-17 years, children",
+                "18 ani și peste, adulți",
+                "0-17 ani, copii",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",

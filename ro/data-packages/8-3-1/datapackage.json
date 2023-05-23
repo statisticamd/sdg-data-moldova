@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -33,12 +33,12 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Agricultural sector"
+            "title": "Sectorul Agricultura"
           },
           {
             "name": "Non-agricultural sector",
@@ -46,12 +46,12 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Non-agricultural sector"
+            "title": "Sectorul non-agricol"
           },
           {
             "name": "Value",

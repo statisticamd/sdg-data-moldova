@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Levels",
             "type": "string",
             "constraints": {
               "enum": [
-                "Local public authorities, level I",
-                "Local public authorities, level II",
+                "Autorități publice locale, nivelul I",
+                "Autorități publice locale, nivelul II",
                 ""
               ]
             },
-            "title": "Levels"
+            "title": "Nivele"
           },
           {
             "name": "Value",

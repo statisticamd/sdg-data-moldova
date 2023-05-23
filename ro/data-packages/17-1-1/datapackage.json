@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of income",
             "type": "string",
             "constraints": {
               "enum": [
-                "Taxes",
-                "Social contributions",
-                "Grants",
-                "Other incomes",
+                "Impozite",
+                "Contribuții sociale",
+                "Granturi",
+                "Alte venituri",
                 ""
               ]
             },
-            "title": "Types of income"
+            "title": "Tipuri de venituri"
           },
           {
             "name": "Value",

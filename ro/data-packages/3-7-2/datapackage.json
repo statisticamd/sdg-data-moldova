@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,20 +25,20 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Births at the age of 10-14 years old",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total births at the age of 10-14 years old",
-                "Urban, births at the age of 10-14 years old",
-                "Rural, births at the age of 10-14 years old",
+                "Total nașteri la 10-14 ani",
+                "Urban, nașteri la 10-14 ani",
+                "Rural, nașteri la 10-14 ani",
                 ""
               ]
             },
-            "title": "Births at the age of 10-14 years old"
+            "title": "Nașteri la vârsta de 10-14 ani"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Educational level",
@@ -66,7 +66,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Socioeconomic status",
@@ -88,7 +88,7 @@
                 ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Etnie"
           },
           {
             "name": "Value",

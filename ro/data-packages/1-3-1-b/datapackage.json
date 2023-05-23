@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insured",
-                "Uninsured",
+                "Asigurați",
+                "Neasigurați",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Statut"
           },
           {
             "name": "Area of residence",
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
