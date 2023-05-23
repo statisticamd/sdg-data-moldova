@@ -1,0 +1,73 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.c.1.1.: 9.c.1.1. Rata de penetrare a serviciilor de acces la Internet</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target NA: NA</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+SDG_INDICATOR: >-
+  <p>Indicator 9.c.1.1.: Rata de penetrare a serviciilor de acces la Internet</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Datele de la providerii de Internet se colectează în baza raportului  trimestrial f.nr. CE-2 ”Rețele și servicii fixe”, CE-3 "Reţele şi servicii mobile." elaborat și generalizat de  ANRCETI
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Națională pentru Reglementare în Comunicații Electronice și Tehnologia  Informației
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Dezvoltării Economice și Digitalizării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Numărul total de abonați, care au acces la Internet fix sau mobil în bandă largă, raportat la numărul populației  cu resedinta obisnuita la inceputul anului de raportare sau gospodarii * 100. Totodată la calcularea penetrării raportate la 100 de gospodării abonați persoane juridice au fost excluși.</p> 
+  <p>  Abonat = orice persoană  fizică sau juridică care a încheiat un contract cu furnizorul de servicii  publice de comunicații electronice în vederea furnizării unor asemenea  servicii (Legea comunicațiilor electronice, nr.241 din 15.11.2007); </p> 
+  <p>   Acces în bandă largă = este definită conform Recomandării I.113 a Sectorului  de standardizare al Uniunii Internaționale a Telecomunicațiilor drept  "capacitatea de transfer de date mai mare decât acea a fluxului primar ISDN,  la 2.0 Mbps". </p> 
+  <p>  Internet la puncte fixe = acces la Internet și servicii  prin intermediul unor platforme tehnologice bazate pe rețele de cablu sau  radio acces fix.</p> 
+  <p> Notă: Indicatorul include atât abonații din rândul populației, cât  și abonații  - persoane juridice/ organizații.                                                                                                                     În cazul calculării ratei de penetrare raportată la 100 de locuitori, la indicatorul "Internet fix" un abonat este echivalent cu o conexiune la serviciile de acces la Internet fix. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Reglementare în Comunicații Electronice și Tehnologia  Informației
+source_periodicity_1: >-
+  trimestrial, anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

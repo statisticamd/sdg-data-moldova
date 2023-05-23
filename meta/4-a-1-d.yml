@@ -1,20 +1,23 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.1.2.1: NA</p>
+  <p>Indicator 4.a.1.d: Proportion of general education institutions adapted to the needs of people  with disabilities</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</p>
+  <p>Target 4.a: Build and upgrade education facilities that are child, disability and gender  sensitive and provide safe, non-violent, inclusive and effective learning  environments for all</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNESCO-UIS
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  4.1
+  4.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 210kB)
 SDG_INDICATOR: >-
-  <p>Indicator 4.1.2.1: Gross admission rate in the last year of study of primary and secondary education</p>
+  <p>Indicator 4.a.1.d: Proportion of general education institutions adapted to the needs of  people with disabilities</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -28,20 +31,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Gross admission rate in the last year of study of primary and secondary education represents the number of new entrants in the last grade of primary education, regardless of age, expressed as a percentage of the total population of the theoretical entrance age to the last grade of primary education.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)Statistical report no 1-edu "Activity of primary and secondary general   education institutions"</p> 
-  <p>    </p> 
-  <p>2)Population statistics </p>
+  Education Management Information System (SIME)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Bureau of Statistics
+  Ministry of Education and Research
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Education and Research
@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number of new entrants in the last grade of primary and secondary education, regardless of age,  in relation to the number of the population in the theoretical age of entering the last year of primary education*100.
+  Number of educational institutions with infrastructure adapted for students  with disabilities out of the total number of educational institutions, by  levels of education.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -57,17 +57,18 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  The global indicator also includes teaching materials adapted to the needs of  persons with disabilities, while the national indicator does not
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  2
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
+  Ministry of Education and Research
 source_periodicity_1: >-
-  annual
+  Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
 source_contact_1: >-
 source_other_info_1: >-

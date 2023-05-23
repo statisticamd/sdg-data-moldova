@@ -1,0 +1,85 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.1.1: Proportion of the rural population who live within 2\_km of an all-season road</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.1: Develop quality, reliable, sustainable and resilient infrastructure, including  regional and trans-border infrastructure, to support economic development and  human well-being, with a focus on affordable and equitable access for all</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 663kB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.1.1: Proportion of the rural population who live within 2 km of a functional  road</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> "Good or acceptable" roads mean:</p> 
+  <p>   i) paved road with IRI (international road index) less than 6 meters / km and unpaved road with IRI less than 13 meters / km, when IRI data is available</p> 
+  <p>   ii) Paved road in excellent, good or fair condition and unpaved road in excellent or good condition when IRI data is not available but other road condition data such as PCI or visual rating by class is available.</p> 
+  <p>   National roads – roads that are public property of the state, which provide main international road links, the connection between the capital of the country and the cities-residence, municipalities and objectives of republican importance, as well as the connection between them.</p> 
+  <p>   Local roads include: a) roads of district (municipal) interest - which ensure the connection between the cities-residence and the villages (municipalities) of the district (municipality), as well as the connection between villages (municipalities), including access to them from the national roads. b) communal roads - which ensure the connection between the village-residence of the commune and the component villages or between them and the objectives of communal interest; c) streets – public roads inside the localities that are public property of the administrative-territorial units of the first level or, as the case may be, of the municipalities of Chisinau and Balti.</p> 
+  <p>   According to the Roads Law (509), art.2, para.(5) Depending on the type of road structure, roads are divided into: a) roads with capital (permanent) road structure - with asphalt concrete or cement concrete surface; b) roads with light road structure (semi-permanent) - with road surface made of local materials coated with bituminous binders; c) roads with temporary road structure - paved roads.</p> 
+  <p>   According to the NBS, hardwearing roads include upgraded roads and paved roads. Modernized roads are those whose carriageway is covered with one of the following categories: concrete-cement, asphalt, cut stone pavements and hardened with hydro-carbon binders. Paved roads are those whose carriageway has one of the following types of construction: rough stone or boulder paving, improved paving or plain paving. Dirt roads - (unpaved) is considered the road with a stabilized base, which is not covered with crushed stone, asphalt binder or bituminous agents, cement or stone paving. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Distribution of population - Population statistics or Census, </p> 
+  <p>  Length and  quality of roads - Annual statistical survey No. 3- road (State Administration  of Roads - public roads, rayon councils - national and local roads), </p> 
+  <p>  GIS  data regarding the network and the quality of roads - from administrative  sources (Ingeocad) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.National Bureau of Statistics</p> 
+  <p>  2.The State Road Administration and  District Councils </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Economic Development and Digitization
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Known as Rural Access Index  RAI = share of population living within 2 km from  the closest road in "good or acceptable shape" in rural areas.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  At the national level it isn't calculated an indicator/index that would be  similar to the global one. The global index envisages the use of 3 layers of  georeferenced data - which are missing or are partially available in the RM
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

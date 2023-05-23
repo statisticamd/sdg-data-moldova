@@ -1,0 +1,85 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.1.1: Ponderea populației rurale care locuiește în raza de 2 km față de un drum  funcțional pentru toate anotimpurile</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.1: Dezvoltarea infrastructurii calitative, fiabile, durabile și puternice,  inclusiv infrastructura regională și transfrontalieră, pentru a sprijini  dezvoltarea economică și bunăstarea oamenilor, cu accent pe accesul larg și  echitabil pentru toți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.1
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 663kB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.1.1: Ponderea populației rurale care locuiește în raza de 2 km față de un  drum funcțional</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Drumurile "bune sau acceptabile" înseamnă:</p> 
+  <p>  i) drumul pavat cu IRI  (indicele rutier internațional) mai mic de 6 metri / km și drumul nepavat cu  IRI mai mic de 13 metri / km, când sunt disponibile date IRI</p> 
+  <p>  ii) Drum  pavat în stare excelentă, bună sau acceptabila și drum neasfaltat în stare  excelentă sau bună, când datele IRI nu sunt disponibile, dar sunt disponibile  alte date privind starea drumurilor, cum ar fi PCI sau evaluarea vizuală după  clasă.</p> 
+  <p>  Drumurile naționale–drumuri  care  sunt  proprietate  publică a  statului, care asigură principale legături rutiere  internaționale, legătura  intre  capitala  țării  și orașele-reședință,  municipiile  ți  obiectivele   de importanță republicană, precum și legătura între ele.</p> 
+  <p>  Drumuri locale  includ: a) drumuri de interes raional (municipal) –  care asigură legătura  dintre oraşele-reşedință și satele (comunele) din componența raionului  (municipiului), precum și legătura dintre sate (comune), inclusiv accesul  către acestea dinspre drumurile naționale.  b) drumuri comunale – care asigură  legătura dintre satul-reședință de comună și satele componente sau dintre  acestea și obiectivele de interes comunal; c) străzi – drumuri publice din  interiorul localităților care sunt proprietate publică a unităților  administrativ-teritoriale de nivelul întâi sau, după caz, a municipiilor  Chișinău și Bălți.</p> 
+  <p>  Conform Legii drumurilor (509), art.2, al.(5) În  funcție de tipul structurii rutiere, drumurile se împart în: a) drumuri cu  structura rutieră capitală (permanentă) – cu îmbrăcăminte din beton asfaltic  sau beton de ciment; b) drumuri cu structura rutieră ușoară (semipermanentă) –  cu îmbrăcăminte rutiere din materiale locale anrobate cu lianți bituminoși; c)  drumuri cu structura rutieră provizorie – drumurile pietruite.</p> 
+  <p>  Conform  BNS, drumurile cu îmbrăcăminte rigidă includ drumurile modernizate și  drumurile pietruite. Drumurile modernizate sunt cele care au partea carosabilă  acoperită cu una din următoarele categorii de îmbrăcăminte: beton-ciment,  asfaltice, pavaje din piatră cioplită și împietrite cu lianți  hidro-carbonici.  Drumurile pietruite sunt cele a căror parte carosabilă are  una din următoarele feluri de construcții: pavaj din piatră brută sau  bolovani, pietruire îmbunătățită sau pietruire simplă. Drumuri de pământ  -  (nepavat) se considera drumul cu baza stabilizata,  care nu este acoperit cu  piatra concasata, liant asfaltic sau agenți bituminoși, ciment sau pavaj cu  pietre. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Distribuția populației - Statistica populației sau Recensământ, </p> 
+  <p>  Lungimea  si calitatea drumurilor -   Cercetare statistică anuală Nr. 3-drum  (Administrația de Stat a Drumurile - drumuri publice, consiliile raionale -  drumurile naționale si locale), </p> 
+  <p>  Date GIS privind rețeaua si calitatea  drumurilor - din surse administrative (Ingeocad) </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> Biroul Național de Statistică</p> 
+  <p>  Î.S. Administrația de Stat a Drumurilor si  consiliile raionale </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Dezvoltării Economice și Digitalizării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Cunoscut ca Indice de acces rural (RAI). RAI = ponderea populației care  trăiește in raza a 2 km de la cel mai apropiat drum în "stare bună sau  acceptabila" în zonele rurale.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  La nivel național nu se calculează un indicator/indice similar cu cel global.  Indicele global presupune utilizarea a 3 seturi de date georeferențiate - care  lipsesc sau sunt parțial disponibile in RM
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

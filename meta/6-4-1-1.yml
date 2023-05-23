@@ -1,20 +1,23 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.1.2.1: NA</p>
+  <p>Indicator 6.4.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</p>
+  <p>Target 6.4: By 2030, substantially increase water-use efficiency across all sectors and  ensure sustainable withdrawals and supply of freshwater to address water  scarcity and substantially reduce the number of people suffering from water  scarcity</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  FAO
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  4.1
+  6.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 428kB)
 SDG_INDICATOR: >-
-  <p>Indicator 4.1.2.1: Gross admission rate in the last year of study of primary and secondary education</p>
+  <p>Indicator 6.4.1.1: Water consumption for production and drinking needs</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -28,28 +31,25 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Gross admission rate in the last year of study of primary and secondary education represents the number of new entrants in the last grade of primary education, regardless of age, expressed as a percentage of the total population of the theoretical entrance age to the last grade of primary education.
+  Water consumption (water use) - use of water resources extracted from different sources to satisfy industrial, agricultural, domestic and other needs.
 UNIT_MEASURE: >-
-  Percent, %
+  million m3
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)Statistical report no 1-edu "Activity of primary and secondary general   education institutions"</p> 
-  <p>    </p> 
-  <p>2)Population statistics </p>
+  Survey "Water use" according to form no. 1 - gospodăria apelor (water management)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Bureau of Statistics
+  Agency “Apele Moldovei” (Waters of Moldova)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Education and Research
+  Ministry of Environment
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number of new entrants in the last grade of primary and secondary education, regardless of age,  in relation to the number of the population in the theoretical age of entering the last year of primary education*100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -57,17 +57,20 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  National indicator is complementary to the global one
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  1
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
+  Agency “Apele Moldovei” (Waters of Moldova)
 source_periodicity_1: >-
-  annual
+  Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  Dumitru Proca, main specialist, Water Resources Management Division, Agency "Apele Moldovei", tel.022-280752, email: dima.proca@apele. gov.md
 source_other_info_1: >-

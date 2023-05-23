@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.8.2.1: Nivelul de conformitate la nivel național cu drepturile muncii (libertatea de asociere și negocierea colectivă) pe baza surselor textuale ale Organizației Internaționale a Muncii (OIM) și a legislației naționale, în funcție de sex și statutul de migrant</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.8: Protecția dreptului la muncă și promovarea mediilor de lucru sigure și  securizate pentru toți lucrătorii, inclusiv lucrătorii migranți, în special  femeile migrante, și cei în locuri de muncă precare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  ILO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.8
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-8.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.8.2.1: Numărul de convenții colective încheiate la nivel instituțional în  conformitate cu sursele documentare ale ILO și  legislația națională</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Cadrul național privind libera asociere și protecția dreptului la organizare  și negocieri colective în format tripartit.
+UNIT_MEASURE: >-
+  număr
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Datele de referință ale țărilor, în conformitate cu revizuirea anuală a  Declarației ILO;</p> 
+  <p>2) Rapoartele Comitetelor de Experți privind Aplicarea  Convențiilor și Recomandărilor</p> 
+  <p>3) Reprezentări în conformitate cu  articolul 24 din Constituția ILO;</p> 
+  <p>4) Datele privind Reclamațiile în  conformitate cu articolul 26 din Constituția ILO și raportul Comisiei pentru  libertatea de asociere. </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministerul Muncii și Protecției Sociale
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Muncii și Protecției Sociale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul de convenții colective încheiate la nivel instituțional în  conformitate cu sursele documentare ale ILO și  legislația națională
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Indicatorul Global  reprezintă un scor atribuit țării privind  respectarea/implementarea prevederilor Convențiilor ILO nr. 87 și nr. 98  privind libertatea de asociere și protecția dreptului de organizare și privind  dreptul la organizare și negocierea colectivă în baza a 6 surse textuale ale  organelor de supraveghere ILO: 1) Rapoartele Comitetelor de Experți asupra  aplicării Convențiilor și Recomandărilor; 2) Rapoartele Comitetului  Conferinței asupra a Aplicării Standardelor; 3) Liniile de referință ale țării  în baza revizuirii anuale  a Declarației ILO; 4) Reprezentarea în conformitate  cu art. 24 a constituției ILO; 5) Reclamațiile în conformitate cu art. 26 a  Constituției ILO și 6) Rapoartele Comitetului pentru Libertatea Asocierii.  </p> 
+  <p>  Pe când indicatorul național este exprimat doar ca număr al convențiilor  colective la nivel instituțional încheiate. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Ministerul Muncii și Protecției Sociale </p> 
+  <p>2) Confederația  Națională a Sindicatelor </p> 
+  <p>3) Confederația Națională a Patronatelor </p>
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Gherceac Irina, e-mail: irina.ghercac@social.gov.md, tel. 022804420
+source_other_info_1: >-

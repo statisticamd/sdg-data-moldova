@@ -1,0 +1,78 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.6.1: Numărul abonaților cu acces la Internet în banda larga, la 100 de locuitori,   după viteza de acces</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.6: Consolidarea cooperării regionale și internaționale nord-sud, sud-sud și  triunghiulare  privind accesul la știință, tehnologie și inovații și  îmbunătățirea schimbului de cunoștințe în condiții agreate de comun acord,  inclusiv printr-o mai bună coordonare între mecanismele existente, în special  la nivelul Organizației Națiunilor Unite, și printr-un mecanism global de  facilitare a tehnologiei</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  International Telecommunication Union (ITU)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-06-02.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 211 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.6.1: Numărul abonaților cu acces la Internet în bandă largă la puncte fixe,  la 100 locuitori</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  abonați / 100 locuitori
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Datele de la providerii de Internet se colectează în baza raportului  anual f.nr. CE-2 ”Rețele și servicii fixe”, elaborat și generalizat de  ANRCETI
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Națională pentru Reglementare în Comunicații Electronice și Tehnologia  Informației
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Dezvoltării Economice și Digitalizării
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Numărul specificat de abonați, care au acces la Internet în bandă largă la puncte  fixe, raportat la numărul populației  cu resedinta obisnuita la inceputul anului de raportare * 100. </p> 
+  <p>  Abonat = orice persoană  fizică sau juridică care a încheiat un contract cu furnizorul de servicii  publice de comunicații electronice în vederea furnizării unor asemenea  servicii (Legea comunicațiilor electronice, nr.241 din 15.11.2007); </p> 
+  <p>   Acces în bandă largă = este definită conform Recomandării I.113 a Sectorului  de standardizare al Uniunii Internaționale a Telecomunicațiilor drept  "capacitatea de transfer d edate mai mare decât acea a fluxului primar ISDN,  la 2.0 Mbps". </p> 
+  <p>  Internet la puncte fixe = acces la Internet și servicii  prin intermediul unor platforme tehnologice bazate pe rețele de cablu sau  radio acces fix.</p> 
+  <p>  Notă: în indicator nu sunt incluse abonamentele care au  acces la comunicații de date (inclusiv pe Internet) prin intermediul rețelelor  mobile-celulare. Indicatorul include atât abonații din rândul populației, cât  și abonații  - persoane juridice/ organizații. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Reglementare în Comunicații Electronice și Tehnologia  Informației
+source_periodicity_1: >-
+  trimestrial, anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.8.2.1: Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  ILO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.8
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-8.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.8.2.1: Number of collective agreements concluded at the institutional level  in line with ILO documentary sources and national legislation</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  National framework regarding free association and protection of the right to  organize and carry out three-party collective bargaining.
+UNIT_MEASURE: >-
+  Number
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Reference data of the countries, in line with the annual revision of the  ILO Declaration;</p> 
+  <p>2) Reports of the Experts' Committees for Applying  Conventions and Recommendations </p> 
+  <p>3) Representations in line with article  24 from ILO Constitution;</p> 
+  <p>4) Data on Reclamations in line with article 26  of the ILO Constitution and report of the Commission for Freedom of  Association. </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministry of Labour and Social Protection
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Labour and Social Protection
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of collective agreements concluded at the institutional level in line  with the ILO documentary sources and national legislation
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> The Global Indicator represents a score attributed to the country regarding  the observance/implementation of provisions of ILO Convention no. 87 and no.  98  on freedom of association and protection of the right for organization and  collective bargaining based on 6 text sources of ILO supervision bodies: 1)  Report of Experts' Committees on enforcement of Conventions and  Recommendations; 2) Reports of the Conference Committee on Enforcement of  Standards; 3) The reference lines of the country based on the annual revision  of the ILO Declaration; 4) Representation in line with art. 24 of ILO  Constitution; 5) Reclamations in line with art. 26 of ILO Constitution and 6)  Reports of the Committee for Free Association. </p> 
+  <p>  While the national  indicator is expressed only as number of collective agreements concluded at  the institutional level. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1.Ministry of Labour and Social Protection </p> 
+  <p>2.National Trade  Union Confederation</p> 
+  <p>3.National Confederation of Employers </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Gherceac Irina, e-mail: irina.ghercac@social.gov.md, tel. 022804420
+source_other_info_1: >-
