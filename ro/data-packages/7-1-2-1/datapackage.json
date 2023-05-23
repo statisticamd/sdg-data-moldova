@@ -13,92 +13,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Bio-fuel and waste",
             "type": "string",
             "constraints": {
               "enum": [
-                "Incălzirea spațiilor",
-                "Răcirea spațiilor",
-                "Încălzirea apei",
-                "Pregătirea alimentelor",
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
                 ""
               ]
             },
-            "title": "Biocombustibili și deșeuri"
+            "title": "Bio-fuel and waste"
           },
           {
             "name": "Petrol products",
             "type": "string",
             "constraints": {
               "enum": [
-                "Incălzirea spațiilor",
-                "Răcirea spațiilor",
-                "Încălzirea apei",
-                "Pregătirea alimentelor",
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
                 ""
               ]
             },
-            "title": "Produse petroliere"
+            "title": "Petrol products"
           },
           {
             "name": "Coal",
             "type": "string",
             "constraints": {
               "enum": [
-                "Incălzirea spațiilor",
-                "Răcirea spațiilor",
-                "Încălzirea apei",
-                "Pregătirea alimentelor",
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
                 ""
               ]
             },
-            "title": "Cărbune"
+            "title": "Coal"
           },
           {
             "name": "Natural gas",
             "type": "string",
             "constraints": {
               "enum": [
-                "Incălzirea spațiilor",
-                "Răcirea spațiilor",
-                "Încălzirea apei",
-                "Pregătirea alimentelor",
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
                 ""
               ]
             },
-            "title": "Gaze naturale"
+            "title": "Natural gas"
           },
           {
             "name": "Thermal energy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Incălzirea spațiilor",
-                "Răcirea spațiilor",
-                "Încălzirea apei",
-                "Pregătirea alimentelor",
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
                 ""
               ]
             },
-            "title": "Energie termică"
+            "title": "Thermal energy"
           },
           {
             "name": "Electricity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Incălzirea spațiilor",
-                "Răcirea spațiilor",
-                "Încălzirea apei",
-                "Pregătirea alimentelor",
-                "Iluminat și utilizarea aparatelor electrice",
+                "Space heating",
+                "Cooling spaces",
+                "Water heating",
+                "Food preparation",
+                "Lighting and use of electrical appliances",
                 ""
               ]
             },
-            "title": "Energie electrică"
+            "title": "Electricity"
           },
           {
             "name": "Value",

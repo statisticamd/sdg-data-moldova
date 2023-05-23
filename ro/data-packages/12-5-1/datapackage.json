@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Regions",
@@ -21,14 +21,14 @@
             "constraints": {
               "enum": [
                 "Municipiul Chişinău",
-                "Nord",
-                "Centru",
-                "Sud",
-                "UTA Găgăuzia",
+                "North",
+                "Center",
+                "South",
+                "ATU Găgăuzia",
                 ""
               ]
             },
-            "title": "Regiuni"
+            "title": "Regions"
           },
           {
             "name": "Value",

@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -40,20 +40,20 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "High-risk population categories",
             "type": "string",
             "constraints": {
               "enum": [
-                "Utilizatori de droguri injectabile",
-                "Lucrători ale sexului comercial",
-                "Bărbaţi care practică sex cu bărbaţii",
+                "Injecting drug users",
+                "Commercial sex worker",
+                "Men who have sex with men",
                 ""
               ]
             },
-            "title": "Categorii de populație cu risc sporit"
+            "title": "High-risk population categories"
           },
           {
             "name": "Value",

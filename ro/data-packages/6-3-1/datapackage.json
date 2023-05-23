@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Economic activities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultura, silvicultura și pescuit",
-                "Industria prelucrătoare",
+                "Agriculture, forestry and fishing",
+                "Manufacturing",
                 "Electricity, gas and water",
-                "Alte activități",
+                "Other activities",
                 ""
               ]
             },
-            "title": "Activități economice"
+            "title": "Economic activities"
           },
           {
             "name": "Rayons/Municipalities that have treatment plants",
@@ -53,7 +53,7 @@
                 ""
               ]
             },
-            "title": "Raioanele/Municipiile care dețin stații de epurare"
+            "title": "Rayons/Municipalities that have treatment plants"
           },
           {
             "name": "Value",

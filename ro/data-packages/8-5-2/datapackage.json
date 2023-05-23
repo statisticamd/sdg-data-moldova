@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Persons with disabilities",
@@ -51,19 +51,19 @@
                 ""
               ]
             },
-            "title": "Persoane cu dizabilități"
+            "title": "Persons with disabilities"
           },
           {
             "name": "Education levels ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Superior",
-                "Profesional tehnic postsecundar nonterțiar (mediu de specialitate)",
+                "Higher",
+                "Post-secondary non-tertiary (secondary professional)",
                 "Upper secondary vocational ",
-                "Liceal, mediu general",
-                "Gimnazial",
-                "Primar sau fără şcoală primară",
+                "High school, upper secondary (general)",
+                "Lower secondary (gymnasium)",
+                "Primary or no education",
                 ""
               ]
             },

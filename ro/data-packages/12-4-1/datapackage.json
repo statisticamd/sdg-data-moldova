@@ -7,13 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Conventions",
@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "Convenții"
+            "title": "Conventions"
           },
           {
             "name": "Value",

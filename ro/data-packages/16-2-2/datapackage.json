@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -32,52 +32,52 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adulți",
-                "Copii",
+                "Adults",
+                "Children",
                 ""
               ]
             },
-            "title": "Grupe de persoane"
+            "title": "Groups of persons"
           },
           {
             "name": "Countries of destination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Republica Moldova",
-                "Federația Rusă",
-                "Germania",
-                "Polonia",
-                "Turcia",
-                "Italia",
-                "Portugalia",
-                "Spania",
-                "Cipru",
-                "România",
-                "Grecia",
-                "Cehia",
-                "Alte",
+                "Republic of Moldova",
+                "Russian Federation",
+                "Germany",
+                "Poland",
+                "Turkey",
+                "Italy",
+                "Portugal",
+                "Spain",
+                "Cyprus",
+                "Romania",
+                "Greece",
+                "Czech",
+                "Other",
                 ""
               ]
             },
-            "title": "Ţări de destinaţie"
+            "title": "Countries of destination"
           },
           {
             "name": "Forms of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sexuală",
-                "Muncă",
-                "Cerșit",
+                "Sexual",
+                "Work",
+                "Begging",
                 "Mixt",
-                "Mamă-surogat",
-                "Antrenarea în activități criminale",
-                "Prelevare de organe, țesuturi sau celule umane",
+                "Surrogate",
+                "Engaging in criminal activities",
+                "Sampling of human organs, tissues or cells",
                 ""
               ]
             },
-            "title": "Forme de exploatare"
+            "title": "Forms of exploitation"
           },
           {
             "name": "Value",

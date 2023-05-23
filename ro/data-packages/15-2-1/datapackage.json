@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Indicators on the progress of sustainable forest management",
@@ -24,7 +24,7 @@
                 "Proportion of forest area located in legally protected areas,%",
                 "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
                 "Above-ground biomass reserves in forests, thousands c.m.",
-                "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
+                "Forest area included in the forest management certification system, independently verified, thousands ha",
                 ""
               ]
             },

@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -41,19 +41,19 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "The existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persoane cu dizabilități",
-                "Persoane fără dizabilități",
+                "People with disabilities",
+                "People without disabilities",
                 ""
               ]
             },
-            "title": "Existența dizabilității"
+            "title": "The existence of disability"
           },
           {
             "name": "Value",

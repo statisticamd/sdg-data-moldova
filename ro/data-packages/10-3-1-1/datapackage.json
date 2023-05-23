@@ -13,49 +13,49 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sex of the petitioner",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexul petiționarului"
+            "title": "Sex of the petitioner"
           },
           {
             "name": "Criteria of discrimination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Opinie",
-                "Dizabilitate",
-                "Origine socială",
-                "Limbă",
-                "Sex/gen",
+                "Opinion",
+                "Disability",
+                "Social origin",
+                "Language",
+                "Sex/gender",
                 "HIV status",
-                "Orientarea sexuală",
-                "Religie/convingeri",
-                "Statut profesional",
-                "Statut matrimonial",
-                "Apartenență politică",
-                "Loc de trai",
-                "Apartenență etnică",
-                "Maternitate",
-                "Naționalitate",
-                "Vârsta",
+                "Sexual orientation",
+                "Religion/belief",
+                "Professional status",
+                "Civil status",
+                "Political affiliation",
+                "Place of residence",
+                "Ethnical affiliation",
+                "Maternity",
+                "Nationality",
+                "Age",
                 "Race",
-                "Activitate sindicală",
-                "Statut de pensionar",
-                "Alte",
+                "Trade-union activity",
+                "Pensioner status",
+                "Other",
                 ""
               ]
             },
-            "title": "Criterii de discriminare"
+            "title": "Criteria of discrimination"
           },
           {
             "name": "Area of discrimination",
@@ -63,35 +63,35 @@
             "constraints": {
               "enum": [
                 "Discrimination on the labour market",
-                "Acces la învățământ",
-                "Acces la bunuri și servicii disponibile publicului",
-                "Acces la justiție",
-                "Discurs de ură",
-                "Lezarea demnității umane",
+                "Access to education",
+                "Access to goods and services available to the public",
+                "Access to justice",
+                "Hate speech",
+                "Injured human dignity",
                 "Exercing parental rights",
-                "Alte",
+                "Other",
                 ""
               ]
             },
-            "title": "Domeniul de discriminare"
+            "title": "Area of discrimination"
           },
           {
             "name": "Form of discrimination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Discriminare directă",
-                "Discriminare indirectă",
-                "Discriminare prin asociere",
-                "Instigare la discriminare",
-                "Hărțuire",
-                "Victimizare",
-                "Refuz în acomodare rezonabilă",
-                "Segregare rasială",
+                "Direct",
+                "Indirect",
+                "By association",
+                "Instigation to discrimination",
+                "Harassment",
+                "Victimization",
+                "Refuse of reasonable accommodation",
+                "Racial segregation",
                 ""
               ]
             },
-            "title": "Forma de discriminare"
+            "title": "Form of discrimination"
           },
           {
             "name": "Area of residence",
@@ -103,7 +103,7 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Value",

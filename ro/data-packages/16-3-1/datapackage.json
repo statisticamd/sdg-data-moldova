@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
                 ""
               ]
             },
-            "title": "Etnie"
+            "title": "Ethnicity"
           },
           {
             "name": "Migration context",
@@ -70,7 +70,7 @@
                 ""
               ]
             },
-            "title": "Context migrațional"
+            "title": "Migration context"
           },
           {
             "name": "Citizenship",
@@ -80,7 +80,7 @@
                 ""
               ]
             },
-            "title": "Cetățenie"
+            "title": "Citizenship"
           },
           {
             "name": "Value",

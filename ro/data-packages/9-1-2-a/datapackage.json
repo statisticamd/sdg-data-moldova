@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Modes of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Feroviar",
-                "Rutier",
-                "Fluvial",
-                "Aerian",
+                "Railway",
+                "Road",
+                "River",
+                "Air",
                 ""
               ]
             },
-            "title": "Moduri de transport"
+            "title": "Modes of transport"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Area of residence",
@@ -25,15 +25,15 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Area of residence"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Age group 1 and Sex",
@@ -61,12 +61,12 @@
               "enum": [
                 "0-14 / Total",
                 "15+ / Total",
-                "15+ / Bărbați",
-                "15+ / Femei",
+                "15+ / Men",
+                "15+ / Women",
                 ""
               ]
             },
-            "title": "Grupa de vârstă 1 și Sex"
+            "title": "Age group 1 and Sex"
           },
           {
             "name": "Age group 2 and Sex",
@@ -74,31 +74,31 @@
             "constraints": {
               "enum": [
                 "15-24 / Total",
-                "15-24 / Bărbați",
-                "15-24 / Femei",
+                "15-24 / Men",
+                "15-24 / Women",
                 "25+ / Total",
-                "25+ / Bărbați",
-                "25+ / Femei",
+                "25+ / Men",
+                "25+ / Women",
                 ""
               ]
             },
-            "title": "Grupa de vârstă 2 și Sex"
+            "title": "Age group 2 and Sex"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lucrători pe cont propriu in agricultură",
-                "Salariați în sectorul agrar",
-                "Salariați în sectorul non-agrar",
+                "Self-employers in agriculture",
+                "Employees in the agricultural sector",
+                "Employees in the non-agricultural sector",
                 "Self-employers in non-agricultural activities",
-                "Pensionari",
-                "Alții",
+                "Pensioners",
+                "Others",
                 ""
               ]
             },
-            "title": "Statutul ocupațional"
+            "title": "Employment status"
           },
           {
             "name": "Value",

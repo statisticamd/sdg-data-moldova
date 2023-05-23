@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Age group",
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă"
+            "title": "Age group"
           },
           {
             "name": "Regions",
@@ -34,13 +34,13 @@
               "enum": [
                 "North ",
                 "Centre",
-                "Sud",
-                "Mun. Chișinău",
-                "UTA Găgăuzia",
+                "South",
+                "Mun. Chisinau",
+                "ATU Gagauzia",
                 ""
               ]
             },
-            "title": "Regiuni"
+            "title": "Regions"
           },
           {
             "name": "Value",

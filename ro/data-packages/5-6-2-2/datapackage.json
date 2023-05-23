@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortalitatea maternă (la 1000 femei de vârstă reproductivă)",
-                "Mortalitatea neonatală precoce (la 1000 născuți-vii)",
+                "Maternal mortality (per 1000 women of reproductive age)",
+                "Early neonatal mortality (per 1000 live births)",
                 "Modern contraception (women of reproductive age use modern methods of contraception), %",
-                "Avort (la 1000 femei de vârstă reproductivă)",
+                "Abortion (per 1000 women of reproductive age)",
                 ""
               ]
             },
-            "title": "Sub-indicatori"
+            "title": "Sub-indicators"
           },
           {
             "name": "Value",

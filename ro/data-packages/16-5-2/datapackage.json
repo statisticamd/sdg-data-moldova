@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Anul"
+            "title": "Year"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Men",
+                "Women",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secundare",
-                "Mediu de specialitate",
-                "Superior",
+                "Secondary",
+                "Secondary specialized",
+                "Higher",
                 ""
               ]
             },
@@ -45,22 +45,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Inspectoratele fiscale",
-                "Vama",
-                "Poliția",
-                "Procuratura",
-                "Inspecțiile sanitar-epidemiologice",
-                "Birourile/serviciile cadastrale",
-                "Instanțele de judecată",
-                "Achizițiile publice",
-                "Înregistrarea transportului și eliberarea permisului de conducere",
-                "Revizia tehnică a automobilelor",
-                "Eliberarea autorizațiilor de construcție",
-                "Inspecția muncii",
+                "Tax inspectorates",
+                "Customs",
+                "Police",
+                "Prosecution",
+                "Sanitary-epidemiological inspections",
+                "Cadastral offices / services",
+                "Courts",
+                "Public procurement",
+                "Registration of the transport and issuance of the driving license",
+                "Technical overhaul of cars",
+                "Issuing construction permits",
+                "Work inspection",
                 ""
               ]
             },
-            "title": "Instituțiile unde s-au efectuat plăți"
+            "title": "Institutions where have been made payments"
           },
           {
             "name": "Value",
