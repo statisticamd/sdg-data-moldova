@@ -1,0 +1,6 @@
+Value,Disaggregation combinations using this value,Number of indicators
+10-30 mbps,1,1
+2-10 mbps,1,1
+30-100 mbps,1,1
+Over 100 Mbps,1,1
+Under 2 Mbps,1,1

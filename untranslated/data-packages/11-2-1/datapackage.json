@@ -12,7 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Existence of disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "People with disability",
+                "People without disability",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

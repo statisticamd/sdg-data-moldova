@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Consumption needs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic",
+                "Irigare",
+                "Technology",
+                ""
+              ]
+            },
+            "title": "Consumption needs"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultura, silvicultura și pescuit",
+                "Industria prelucrătoare",
+                "Energia electrică, gaze și apă",
+                "Alte activități",
+                ""
+              ]
+            },
+            "title": "Activități economice"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-4-1-1",
+  "title": "Consumul apei pentru necesități de producție și potabile"
+}

@@ -12,7 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "North",
+                "Center",
+                "South",
+                "ATU Gagauzia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Speeds",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 2 Mbps",
+                "2-10 mbps",
+                "10-30 mbps",
+                "30-100 mbps",
+                "Over 100 Mbps",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

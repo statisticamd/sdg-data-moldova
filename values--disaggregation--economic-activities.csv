@@ -1,11 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
-"Agriculture, forestry and fishing",1,1
+"Agriculture, forestry and fishing",2,2
 Agriculture,2,1
 Construction,2,1
-"Electricity, gas and water",1,1
+"Electricity, gas and water",2,2
 Industry,2,1
-Manufacturing,1,1
-Other activities,3,2
+Manufacturing,2,2
+Other activities,4,3
 Public administration; education; health and social work,2,1
 Transportation and storage; information and communication,2,1
 Wholesale and retail trade; accomodation and food service activities,2,1

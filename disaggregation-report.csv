@@ -14,7 +14,7 @@ Area of discrimination,1,8
 Area of residence (neglected),1,2
 Area of residence  of the respondents,1,2
 Area of residence (subjected to violence),1,2
-Area of residence,45,3
+Area of residence,48,3
 Area of residence/Sex,1,4
 Bachelor's Degree,1,3
 Beneficiary status - foreign citizen,1,4
@@ -27,6 +27,7 @@ Citizenship,1,3
 City,1,6
 Classes of disasters,6,4
 Coal,1,4
+Consumption needs,1,3
 Context/reason,1,6
 Conventions,1,5
 Countries of destination,1,13
@@ -37,9 +38,10 @@ Disability,1,4
 Discrimination criteria,2,12
 Districts,2,38
 Duration of arrest,1,4
-Economic activities,2,10
+Economic activities,3,10
 Education levels,4,4
 Education levels ,1,6
+Educational levels,1,2
 Electricity,1,5
 Emission sectors,1,4
 Employment status,2,6
@@ -57,6 +59,7 @@ Form of discrimination,1,8
 Form of violence,1,3
 Forms of exploitation,1,7
 Forms of ownership,3,3
+Function type,1,2
 General objectives,1,3
 Groups of persons,1,2
 High-risk population categories,1,3
@@ -67,12 +70,13 @@ Household type,2,2
 Index,1,1
 Indicator,1,1
 Indicators on the progress of sustainable forest management,1,5
-Indicators,2,10
+Indicators,3,13
 Institutions where have been made payments,2,22
 kg/person,1,1
 Legal basis,1,2
 Level of education of the head of the household,1,4
 Level of education,2,5
+Level of government ,1,3
 Level of studies,1,4
 Levels,1,2
 Master,1,3
@@ -100,7 +104,7 @@ Proportion of ‘young’  registrars aged 44 and below / Proportion of the work
 "Quintile I, by area of residence",2,3
 Quintiles on consumption expenditures,9,5
 Rayons/Municipalities that have treatment plants,1,16
-Regions,5,11
+Regions,6,11
 "Reported on a person, by ingredients",1,6
 "Reported on a person, by sources",1,3
 Requested authority,1,6
@@ -109,8 +113,10 @@ Sex (neglected),1,2
 Sex of the head of the household,7,2
 Sex of the petitioner,1,2
 Sex (subjected to violence),1,2
-Sex,48,5
+Sex,50,5
 Sexes,1,1
+Socio-economic status of pupils,2,2
+Speeds,1,5
 Statistical regions,4,5
 Status,1,2
 Strategies,1,2
@@ -128,6 +134,7 @@ Toxic waste,1,1
 Type of benefit,1,2
 Type of qualified assistance,1,5
 Type of sewerage ,1,2
+Type of technology,1,2
 Type of vaccine,1,10
 Types of crimes,1,8
 Types of critical infrastructure losses,1,1

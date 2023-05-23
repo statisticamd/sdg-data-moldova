@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Consumption needs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic",
+                "Irrigation",
+                "Technology",
+                ""
+              ]
+            },
+            "title": "Consumption needs"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Manufacturing",
+                "Electricity, gas and water",
+                "Other activities",
+                ""
+              ]
+            },
+            "title": "Economic activities"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-4-1-1",
+  "title": "Water use for production and drinking needs"
+}

@@ -458,6 +458,30 @@
       "title": "Neonatal mortality rate"
     },
     {
+      "path": "9-1-1/data.csv",
+      "name": "9-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+    },
+    {
       "path": "17-17-1-1/data.csv",
       "name": "17-17-1-1",
       "profile": "tabular-data-resource",
@@ -925,6 +949,30 @@
         ]
       },
       "title": "Existența în țară a cadrului normativ care garantează femeilor și bărbaților în vârstă de 15-49 ani accesul la sănătatea sexuală și reproductivă, informare și educare"
+    },
+    {
+      "path": "8-8-2-1/data.csv",
+      "name": "8-8-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Numărul de convenții colective încheiate la nivel instituțional în conformitate cu sursele documentare ale Organizației Internaționale a Muncii și cu legislația națională"
     },
     {
       "path": "16-3-2/data.csv",
@@ -3428,6 +3476,43 @@
       "title": "national_indicators.14-4-1-1--title"
     },
     {
+      "path": "9-c-1-1/data.csv",
+      "name": "9-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mobile Internet per 100 inhabitants",
+                "Fixed Internet per 100 inhabitants",
+                "Fixed Internet per 100 households",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "national_indicators.9-c-1-1--title"
+    },
+    {
       "path": "4-5-1-b/data.csv",
       "name": "4-5-1-b",
       "profile": "tabular-data-resource",
@@ -4425,6 +4510,42 @@
         ]
       },
       "title": "Ponderea populației cu cheltuielile lunare pentru întreținerea locuinței care depășesc 30% din veniturile disponibile lunare ale gospodăriei (accesibilitate - locuință adecvată)"
+    },
+    {
+      "path": "9-c-1/data.csv",
+      "name": "9-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Type of technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3G",
+                "4G",
+                ""
+              ]
+            },
+            "title": "Tipul tehnologiei"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "10-7-2-1/data.csv",
@@ -5766,6 +5887,72 @@
       "title": "Valoarea adăugată brută în industria prelucrătoare pe persoană (lei, prețuri constante)"
     },
     {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
+                ""
+              ]
+            },
+            "title": "Regiuni"
+          },
+          {
+            "name": "Speeds",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sub 2 mbps",
+                "2-10 mbps",
+                "10-30 mbps",
+                "30-100 mbps",
+                "Peste 100 Mbps",
+                ""
+              ]
+            },
+            "title": "Viteze"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+    },
+    {
       "path": "3-8-2-2/data.csv",
       "name": "3-8-2-2",
       "profile": "tabular-data-resource",
@@ -6308,6 +6495,86 @@
         ]
       },
       "title": "Ponderea persoanelor care trăiesc în locuințe a căror suprafață este sub norma de 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră, cu excepția soților (supraaglomerarea)"
+    },
+    {
+      "path": "16-7-1-b/data.csv",
+      "name": "16-7-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pînă la 45 ani (18-44)",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Dizabilitate"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Etnie"
+          },
+          {
+            "name": "Other groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Other groups"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Raportul dintre proporția pozițiilor ocupate în autoritățile publice (centrale și locale) de către persoanele din anumite grupuri ale populației și proporția grupului respectiv în total populație"
     },
     {
       "path": "13-1-1-c/data.csv",
@@ -7088,6 +7355,66 @@
       "title": "national_indicators.4-5-1-title"
     },
     {
+      "path": "4-1-1-c-i/data.csv",
+      "name": "4-1-1-c-i",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Socio-economic status of pupils",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dezavantajați",
+                "Avantajați",
+                ""
+              ]
+            },
+            "title": "Statut socio-economic al elevilor"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Băieți",
+                "Fete",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "national_indicators.4-1-1-c(i)-title"
+    },
+    {
       "path": "5-2-2/data.csv",
       "name": "5-2-2",
       "profile": "tabular-data-resource",
@@ -7277,6 +7604,42 @@
       "title": "Emisiile totale de CO2 raportate la o unitate de PIB"
     },
     {
+      "path": "4-a-1-d/data.csv",
+      "name": "4-a-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Educational levels",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Educație timpurie",
+                "Primary and general secondary education",
+                ""
+              ]
+            },
+            "title": "Educational levels"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea instituțiilor de învățământ general adaptate necesităților persoanelor cu dizabilități"
+    },
+    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -7462,6 +7825,57 @@
         ]
       },
       "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+    },
+    {
+      "path": "6-4-1-1/data.csv",
+      "name": "6-4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Consumption needs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic",
+                "Irigare",
+                "Technology",
+                ""
+              ]
+            },
+            "title": "Consumption needs"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultura, silvicultura și pescuit",
+                "Industria prelucrătoare",
+                "Energia electrică, gaze și apă",
+                "Alte activități",
+                ""
+              ]
+            },
+            "title": "Activități economice"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumul apei pentru necesități de producție și potabile"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -7722,6 +8136,30 @@
       "title": "Ponderea cheltuielilor private  (ale gospodăriilor casnice) pentru sănătate"
     },
     {
+      "path": "6-4-2/data.csv",
+      "name": "6-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+    },
+    {
       "path": "3-8-2-a/data.csv",
       "name": "3-8-2-a",
       "profile": "tabular-data-resource",
@@ -7933,6 +8371,30 @@
         ]
       },
       "title": "Parcursul mărfurilor transportate, după modul de transport (aerian, rutier, feroviar, fluvial)"
+    },
+    {
+      "path": "4-2-1/data.csv",
+      "name": "4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
     },
     {
       "path": "11-7-1-1/data.csv",
@@ -8656,6 +9118,30 @@
       "title": "16.5.2.1. Indicatorul privind „Controlul asupra corupției”  (de la „-2,5” la „2,5”)"
     },
     {
+      "path": "11-2-1-2/data.csv",
+      "name": "11-2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2  Ponderea unităților de transport public accesibile persoanelor cu dizabilități"
+    },
+    {
       "path": "1-3-1-a/data.csv",
       "name": "1-3-1-a",
       "profile": "tabular-data-resource",
@@ -8941,6 +9427,55 @@
         ]
       },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "5-5-2-2/data.csv",
+      "name": "5-5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Level of government ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central government",
+                "Autorități publice locale, nivelul I",
+                "Autorități publice locale, nivelul II",
+                ""
+              ]
+            },
+            "title": "Level of government "
+          },
+          {
+            "name": "Function type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Senior management",
+                "Management, executive",
+                ""
+              ]
+            },
+            "title": "Tip funcție"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea femeilor  în serviciul public"
     },
     {
       "path": "4-a-1-c/data.csv",
@@ -10044,6 +10579,82 @@
         ]
       },
       "title": "Indicele parității în învățământul primar  (nivelul 1)"
+    },
+    {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-17",
+                "18-29",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Existence of disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persoane cu dizabilitate",
+                "Persoane fără dizabilitate",
+                ""
+              ]
+            },
+            "title": "Existența dizabilității"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
     },
     {
       "path": "11-5-1-b/data.csv",
@@ -11390,6 +12001,66 @@
       "title": "Raportarea progreselor asupra aplicării cadrului de monitorizare a eficienței dezvoltării cu participarea mai multor parteneri, care acordă suport în atingerea de către țară a Obiectivelor de Dezvoltare Durabilă"
     },
     {
+      "path": "4-1-1-c-ii/data.csv",
+      "name": "4-1-1-c-ii",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Socio-economic status of pupils",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dezavantajați",
+                "Avantajați",
+                ""
+              ]
+            },
+            "title": "Statut socio-economic al elevilor"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Băieți",
+                "Fete",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "national_indicators.4-1-1-c(ii)-title"
+    },
+    {
       "path": "10-7-3/data.csv",
       "name": "10-7-3",
       "profile": "tabular-data-resource",
@@ -12180,30 +12851,6 @@
         ]
       },
       "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
-    },
-    {
-      "path": "9-c-1/data.csv",
-      "name": "9-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "3-3-5/data.csv",
@@ -13022,30 +13669,6 @@
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
-    },
-    {
       "path": "1-b-1/data.csv",
       "name": "1-b-1",
       "profile": "tabular-data-resource",
@@ -13140,30 +13763,6 @@
         ]
       },
       "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
-    },
-    {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "14-6-1/data.csv",
@@ -13284,54 +13883,6 @@
         ]
       },
       "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
-    },
-    {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
-    },
-    {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
     },
     {
       "path": "12-4-2/data.csv",
@@ -14556,30 +15107,6 @@
         ]
       },
       "title": "Remittance costs as a proportion of the amount remitted"
-    },
-    {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
     },
     {
       "path": "1-4-2/data.csv",
