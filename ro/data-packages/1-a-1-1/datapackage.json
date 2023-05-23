@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Type of benefit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social aid",
+                "Ajutor social",
                 "Cold-weather aid",
                 ""
               ]

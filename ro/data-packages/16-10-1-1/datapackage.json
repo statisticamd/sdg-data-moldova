@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Index",
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Index"
+            "title": "Indice"
           },
           {
             "name": "Value",

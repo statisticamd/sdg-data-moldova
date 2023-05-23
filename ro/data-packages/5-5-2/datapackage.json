@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Units",
@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Proportion of managerial positions held by women ",
-                "Proportion of women in senior and middle management positions",
+                "Proporția femeilor în funcții de conducere de nivel superior și mediu",
                 ""
               ]
             },
@@ -55,29 +55,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture",
-                "Industry",
-                "Construction",
-                "Wholesale and retail trade; accomodation and food service activities",
-                "Transportation and storage; information and communication",
-                "Public administration; education; health and social work",
-                "Other activities",
+                "Agricultură",
+                "Industrie",
+                "Construcții",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
+                "Transport și depozitare; informații și comunicații",
+                "Administrație publică; învățământ; sănătate și asistență socială",
+                "Alte activități",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "Activități economice"
           },
           {
             "name": "Forms of ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other forms",
+                "Publică",
+                "Alte forme",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",

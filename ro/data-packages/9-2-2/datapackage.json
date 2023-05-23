@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Statistical regions",
@@ -45,13 +45,13 @@
             "constraints": {
               "enum": [
                 "Mun. Chisnau",
-                "North",
-                "Center",
-                "South",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Occupations",
@@ -69,7 +69,7 @@
                 ""
               ]
             },
-            "title": "Occupations"
+            "title": "Ocupaţii"
           },
           {
             "name": "Value",

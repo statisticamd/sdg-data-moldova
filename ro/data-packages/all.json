@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -39,7 +39,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -63,19 +63,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Levels",
             "type": "string",
             "constraints": {
               "enum": [
-                "Local public authorities, level I",
-                "Local public authorities, level II",
+                "Autorități publice locale, nivelul I",
+                "Autorități publice locale, nivelul II",
                 ""
               ]
             },
-            "title": "Levels"
+            "title": "Nivele"
           },
           {
             "name": "Value",
@@ -99,7 +99,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -130,12 +130,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "25-64 / Both sexes",
-                "25-64 / Men",
-                "25-64 / Women",
+                "15-24 / Ambele sexe",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
+                "25-64 / Ambele sexe",
+                "25-64 / Bărbați",
+                "25-64 / Femei",
                 ""
               ]
             },
@@ -163,21 +163,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of income",
             "type": "string",
             "constraints": {
               "enum": [
-                "Taxes",
-                "Social contributions",
-                "Grants",
-                "Other incomes",
+                "Impozite",
+                "Contribuții sociale",
+                "Granturi",
+                "Alte venituri",
                 ""
               ]
             },
-            "title": "Types of income"
+            "title": "Tipuri de venituri"
           },
           {
             "name": "Value",
@@ -201,7 +201,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -228,7 +228,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -252,7 +252,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Fatal accidents, by sex",
@@ -272,26 +272,26 @@
             "constraints": {
               "enum": [
                 "Total by economic activities",
-                "Agriculture, forestry and fishing",
-                "Industry",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transportation and storage",
-                "Accommodation and food service activities",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Public administration and defence; compulsory social security",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
+                "Agricultura, silvicultura și pescuit",
+                "Industrie",
+                "Industria extractivă",
+                "Industria prelucrătoare",
+                "Producția și furnizarea de energie electrică și termică, gaze, apa caldă și aer condiționat",
+                "Distribuția apei; salubritate, gestionarea deșeurilor, activitați de decontaminare",
+                "Construcții",
+                "Comerț cu ridicata și cu amănuntul; întreținerea și repararea autovehiculelor și a motocicletelor",
+                "Transport și depozitare",
+                "Activitati de cazare si alimentatie publica",
+                "Informații și comunicații",
+                "Activități financiare și de asigurări",
+                "Tranzacții imobiliare",
+                "Activități profesionale, științifice și tehnice",
+                "Activitati de servicii administrative si activitati de servicii suport",
+                "Administratțe publică și apărare; asigurări sociale obligatorii",
+                "Învățământ",
+                "Sănătate și asistență socială",
+                "Arta, activități de recreere și de agrement",
+                "Alte activități de servicii",
                 ""
               ]
             },
@@ -315,26 +315,26 @@
             "constraints": {
               "enum": [
                 "Total by economic activities",
-                "Agriculture, forestry and fishing",
-                "Industry",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transportation and storage",
-                "Accommodation and food service activities",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Public administration and defence; compulsory social security",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
+                "Agricultura, silvicultura și pescuit",
+                "Industrie",
+                "Industria extractivă",
+                "Industria prelucrătoare",
+                "Producția și furnizarea de energie electrică și termică, gaze, apa caldă și aer condiționat",
+                "Distribuția apei; salubritate, gestionarea deșeurilor, activitați de decontaminare",
+                "Construcții",
+                "Comerț cu ridicata și cu amănuntul; întreținerea și repararea autovehiculelor și a motocicletelor",
+                "Transport și depozitare",
+                "Activitati de cazare si alimentatie publica",
+                "Informații și comunicații",
+                "Activități financiare și de asigurări",
+                "Tranzacții imobiliare",
+                "Activități profesionale, științifice și tehnice",
+                "Activitati de servicii administrative si activitati de servicii suport",
+                "Administratțe publică și apărare; asigurări sociale obligatorii",
+                "Învățământ",
+                "Sănătate și asistență socială",
+                "Arta, activități de recreere și de agrement",
+                "Alte activități de servicii",
                 ""
               ]
             },
@@ -362,7 +362,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Bachelor's Degree",
@@ -422,7 +422,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -470,7 +470,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "General objectives",
@@ -507,7 +507,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -526,13 +526,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, quintile I",
-                "Urban, quintile I",
-                "Rural, quintile I",
+                "Total, chintila I",
+                "Urban, chintila I",
+                "Rural, chintila I",
                 ""
               ]
             },
-            "title": "Quintile I, by area of residence"
+            "title": "Chintila I, pe medii"
           },
           {
             "name": "Value",
@@ -556,92 +556,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Bio-fuel and waste",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Bio-fuel and waste"
+            "title": "Biocombustibili și deșeuri"
           },
           {
             "name": "Petrol products",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Petrol products"
+            "title": "Produse petroliere"
           },
           {
             "name": "Coal",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Coal"
+            "title": "Cărbune"
           },
           {
             "name": "Natural gas",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Natural gas"
+            "title": "Gaze naturale"
           },
           {
             "name": "Thermal energy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
                 ""
               ]
             },
-            "title": "Thermal energy"
+            "title": "Energie termică"
           },
           {
             "name": "Electricity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Space heating",
-                "Cooling spaces",
-                "Water heating",
-                "Food preparation",
-                "Lighting and use of electrical appliances",
+                "Incălzirea spațiilor",
+                "Răcirea spațiilor",
+                "Încălzirea apei",
+                "Pregătirea alimentelor",
+                "Iluminat și utilizarea aparatelor electrice",
                 ""
               ]
             },
-            "title": "Electricity"
+            "title": "Energie electrică"
           },
           {
             "name": "Value",
@@ -665,14 +665,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Type of benefit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social aid",
+                "Ajutor social",
                 "Cold-weather aid",
                 ""
               ]
@@ -701,7 +701,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -725,7 +725,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -744,13 +744,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total births at the age of 10-14 years old",
-                "Urban, births at the age of 10-14 years old",
-                "Rural, births at the age of 10-14 years old",
+                "Total nașteri la 10-14 ani",
+                "Urban, nașteri la 10-14 ani",
+                "Rural, nașteri la 10-14 ani",
                 ""
               ]
             },
-            "title": "Births at the age of 10-14 years old"
+            "title": "Nașteri la vârsta de 10-14 ani"
           },
           {
             "name": "Value",
@@ -774,23 +774,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of energy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Coal",
-                "Natural gas",
-                "Petrol products",
-                "Bio-fuel and waste",
-                "Electricity",
-                "Thermal energy",
+                "Cărbune",
+                "Gaze naturale",
+                "Produse petroliere",
+                "Biocombustibili și deșeuri",
+                "Energie electrică",
+                "Energie termică",
                 ""
               ]
             },
-            "title": "Types of energy"
+            "title": "Tipuri de energie"
           },
           {
             "name": "Value",
@@ -814,7 +814,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -838,7 +838,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Regions",
@@ -846,14 +846,14 @@
             "constraints": {
               "enum": [
                 "Municipiul Chişinău",
-                "North",
-                "Center",
-                "South",
-                "ATU Găgăuzia",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
                 ""
               ]
             },
-            "title": "Regions"
+            "title": "Regiuni"
           },
           {
             "name": "Value",
@@ -877,7 +877,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -901,7 +901,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Thematic areas",
@@ -939,21 +939,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Duration of arrest",
             "type": "string",
             "constraints": {
               "enum": [
-                "Up to 3 months",
-                "From 3 to 6 months",
-                "From 6 to 12 months",
-                "More than 12 months",
+                "Până la 3 luni",
+                "De la 3 la 6 luni",
+                "De la 6 luni până la 12 luni",
+                "Mai mult de 12 luni",
                 ""
               ]
             },
-            "title": "Duration of arrest"
+            "title": "Durata aflării în arest"
           },
           {
             "name": "Sex",
@@ -989,7 +989,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -1008,10 +1008,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary incomplete",
-                "Secondary",
-                "Secondary specialized",
-                "Higher",
+                "Medii incomplete",
+                "Secundare",
+                "Mediu de specialitate",
+                "Superior",
                 ""
               ]
             },
@@ -1022,26 +1022,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Central public authorities",
-                "Local public authorities",
-                "Tax inspectorates",
-                "Customs",
-                "Police",
-                "Prosecution",
-                "Courts",
-                "Educational institutions",
-                "Medical institutions",
-                "Civil status offices",
-                "Passport offices",
-                "Communal services",
-                "Fire inspections",
-                "Notary offices",
-                "Transport registration and driver qualification",
-                "Technical overhaul of cars",
+                "Autorități publice centrale",
+                "Autorități publice locale",
+                "Inspectoratele fiscale",
+                "Vama",
+                "Poliția",
+                "Procuratura",
+                "Instanțele de judecată",
+                "Instituțiile de învățământ",
+                "Instituțiile medicale",
+                "Oficiile stării civile",
+                "Birourile de pașapoarte",
+                "Serviciile comunale",
+                "Inspecțiile antiincendiare",
+                "Birourile notariale",
+                "Înregistrarea transportului și calificarea conducătorilor auto",
+                "Revizia tehnică a automobilelor",
                 ""
               ]
             },
-            "title": "Institutions where have been made payments"
+            "title": "Instituțiile unde s-au efectuat plăți"
           },
           {
             "name": "Value",
@@ -1065,21 +1065,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternal mortality (per 1000 women of reproductive age)",
-                "Early neonatal mortality (per 1000 live births)",
+                "Mortalitatea maternă (la 1000 femei de vârstă reproductivă)",
+                "Mortalitatea neonatală precoce (la 1000 născuți-vii)",
                 "Modern contraception (women of reproductive age use modern methods of contraception), %",
-                "Abortion (per 1000 women of reproductive age)",
+                "Avort (la 1000 femei de vârstă reproductivă)",
                 ""
               ]
             },
-            "title": "Sub-indicators"
+            "title": "Sub-indicatori"
           },
           {
             "name": "Value",
@@ -1103,7 +1103,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -1128,7 +1128,7 @@
                 ""
               ]
             },
-            "title": "Agricultural sector"
+            "title": "Sectorul Agricultura"
           },
           {
             "name": "Non-agricultural sector",
@@ -1141,7 +1141,7 @@
                 ""
               ]
             },
-            "title": "Non-agricultural sector"
+            "title": "Sectorul non-agricol"
           },
           {
             "name": "Value",
@@ -1165,27 +1165,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Type of vaccine",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tuberculosis vaccine (BCG)",
-                "Diphtheria-tetanus-pertussis (DTP) vaccine",
-                "Combination measles-mumps-rubella vaccine (MMR)",
-                "Oral polio vaccine (OPV)",
-                "Hepatitis B vaccine (HEPB)",
-                "Type B haemophilus influenzae (HIB) vaccine",
-                "Rotavirus (RV) vaccine",
-                "Pneumococcal vaccine (PC)",
-                "Diphtheria and tetanus toxin (DT) vaccine at 7 years",
-                "Diphtheria and tetanus toxin (Td) vaccine at 15 years",
+                "Vaccinul contra tuberculozei (BCG)",
+                "Vaccinul diftero-tetano-pertusis (DTP)",
+                "Vaccinul combinat împotriva rujeolă-oreion-rubeolă (ROR)",
+                "Vaccinul oral contra poliomielitei (VPO)",
+                "Vaccinul contra hepatitei B (HEPB)",
+                "Vaccinul contra infecţiei cu haemophilus influenzae tip B (HIB)",
+                "Vaccinul contra infecţiei cu rotavirusuri  (RV)",
+                "Vaccinul pneumococic (PC)",
+                "Vaccinul cu anatoxine difterică şi tetanică (DT) la 7 ani",
+                "Vaccinul cu anatoxine difterică şi tetanică (Td) la 15 ani",
                 ""
               ]
             },
-            "title": "Type of vaccine"
+            "title": "Tipuri de vaccin"
           },
           {
             "name": "Value",
@@ -1209,7 +1209,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",
@@ -1259,7 +1259,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1283,7 +1283,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -1311,19 +1311,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "The existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disabilities",
-                "People without disabilities",
+                "Persoane cu dizabilități",
+                "Persoane fără dizabilități",
                 ""
               ]
             },
-            "title": "The existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -1347,7 +1347,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Strategies",
@@ -1383,19 +1383,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Type of aid",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social aid",
+                "Ajutor social",
                 "Cold period",
                 ""
               ]
             },
-            "title": "Type of aid"
+            "title": "Tipul de prestație"
           },
           {
             "name": "Area of residence (social assistance) ",
@@ -1433,7 +1433,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -1472,7 +1472,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Age group 1 and Sex",
@@ -1481,12 +1481,12 @@
               "enum": [
                 "0-14 / Total",
                 "15+ / Total",
-                "15+ / Men",
-                "15+ / Women",
+                "15+ / Bărbați",
+                "15+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 1 and Sex"
+            "title": "Grupa de vârstă 1 și Sex"
           },
           {
             "name": "Age group 2 and Sex",
@@ -1494,31 +1494,31 @@
             "constraints": {
               "enum": [
                 "15-24 / Total",
-                "15-24 / Men",
-                "15-24 / Women",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
                 "25+ / Total",
-                "25+ / Men",
-                "25+ / Women",
+                "25+ / Bărbați",
+                "25+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 2 and Sex"
+            "title": "Grupa de vârstă 2 și Sex"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Self-employers in agriculture",
-                "Employees in the agricultural sector",
-                "Employees in the non-agricultural sector",
+                "Lucrători pe cont propriu in agricultură",
+                "Salariați în sectorul agrar",
+                "Salariați în sectorul non-agrar",
                 "Self-employers in non-agricultural activities",
-                "Pensioners",
-                "Others",
+                "Pensionari",
+                "Alții",
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
@@ -1542,7 +1542,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1566,22 +1566,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sectors",
             "type": "string",
             "constraints": {
               "enum": [
-                "Industry",
+                "Industrie",
                 "Transport",
-                "Residential sector (population)",
-                "Services",
-                "Agriculture",
+                "Sector rezidențial",
+                "Servicii",
+                "Agricultură",
                 ""
               ]
             },
-            "title": "Sectors"
+            "title": "Sectoare"
           },
           {
             "name": "Value",
@@ -1605,7 +1605,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1629,7 +1629,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1653,7 +1653,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1677,7 +1677,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1701,7 +1701,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1725,7 +1725,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "SNA production boundary basis - Age group / Sex",
@@ -1793,7 +1793,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1817,7 +1817,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Indicator",
@@ -1852,7 +1852,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -1888,7 +1888,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -1912,7 +1912,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -1931,52 +1931,52 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adults",
-                "Children",
+                "Adulți",
+                "Copii",
                 ""
               ]
             },
-            "title": "Groups of persons"
+            "title": "Grupe de persoane"
           },
           {
             "name": "Countries of destination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Republic of Moldova",
-                "Russian Federation",
-                "Germany",
-                "Poland",
-                "Turkey",
-                "Italy",
-                "Portugal",
-                "Spain",
-                "Cyprus",
-                "Romania",
-                "Greece",
-                "Czech",
-                "Other",
+                "Republica Moldova",
+                "Federația Rusă",
+                "Germania",
+                "Polonia",
+                "Turcia",
+                "Italia",
+                "Portugalia",
+                "Spania",
+                "Cipru",
+                "România",
+                "Grecia",
+                "Cehia",
+                "Alte",
                 ""
               ]
             },
-            "title": "Countries of destination"
+            "title": "Ţări de destinaţie"
           },
           {
             "name": "Forms of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sexual",
-                "Work",
-                "Begging",
+                "Sexuală",
+                "Muncă",
+                "Cerșit",
                 "Mixt",
-                "Surrogate",
-                "Engaging in criminal activities",
-                "Sampling of human organs, tissues or cells",
+                "Mamă-surogat",
+                "Antrenarea în activități criminale",
+                "Prelevare de organe, țesuturi sau celule umane",
                 ""
               ]
             },
-            "title": "Forms of exploitation"
+            "title": "Forme de exploatare"
           },
           {
             "name": "Value",
@@ -2000,7 +2000,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of critical infrastructure losses",
@@ -2018,8 +2018,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -2046,7 +2046,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -2083,7 +2083,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2107,7 +2107,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2131,15 +2131,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Băieți",
+                "Fete",
                 ""
               ]
             },
@@ -2179,22 +2179,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "15-29 / Both sexes",
-                "15-29 / Men",
-                "15-29 / Women",
-                "15-34 / Both sexes",
-                "15-34 / Men",
-                "15-34 / Women",
+                "15-24 / Ambele sexe",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
+                "15-29 / Ambele sexe",
+                "15-29 / Bărbați",
+                "15-29 / Femei",
+                "15-34 / Ambele sexe",
+                "15-34 / Bărbați",
+                "15-34 / Femei",
                 ""
               ]
             },
@@ -2222,7 +2222,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2246,7 +2246,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Units",
@@ -2265,7 +2265,7 @@
             "constraints": {
               "enum": [
                 "Proportion of managerial positions held by women ",
-                "Proportion of women in senior and middle management positions",
+                "Proporția femeilor în funcții de conducere de nivel superior și mediu",
                 ""
               ]
             },
@@ -2288,29 +2288,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture",
-                "Industry",
-                "Construction",
-                "Wholesale and retail trade; accomodation and food service activities",
-                "Transportation and storage; information and communication",
-                "Public administration; education; health and social work",
-                "Other activities",
+                "Agricultură",
+                "Industrie",
+                "Construcții",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
+                "Transport și depozitare; informații și comunicații",
+                "Administrație publică; învățământ; sănătate și asistență socială",
+                "Alte activități",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "Activități economice"
           },
           {
             "name": "Forms of ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other forms",
+                "Publică",
+                "Alte forme",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -2334,28 +2334,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of paramedical personnel per 10 000 population",
-                "Number of dentists per 10 000 population",
-                "Number of pharmacists per 10 000 population",
+                "Numărul personalului medical la 10 000 populație",
+                "Numărul de stomatologi și dentiști la 10 000 populație",
+                "Numărul de farmaciști la 10 000 populație",
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Indicatori"
           },
           {
             "name": "Districts",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -2382,7 +2382,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -2419,7 +2419,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2443,7 +2443,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -2462,42 +2462,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group of the victim"
+            "title": "Grupa de vârstă  a victimei"
           },
           {
             "name": "Means of committing",
             "type": "string",
             "constraints": {
               "enum": [
-                "Firearms and explosive substances",
-                "White weapons (knife, sharp objects)",
-                "Tools (row, axe, hammer etc.)",
-                "Other means",
+                "Arme de foc şi substanţe explozive",
+                "Arme albe (cuţit, obiect înţepător)",
+                "Instrumente (rangă, topor, ciocan etc.)",
+                "Alte mijloace",
                 ""
               ]
             },
-            "title": "Means of committing"
+            "title": "Mijloace de săvîrșire"
           },
           {
             "name": "Context/reason",
             "type": "string",
             "constraints": {
               "enum": [
-                "Revenge",
-                "Jealousy",
-                "Quarrel",
-                "Reason related to family relationships",
-                "Ordered",
-                "Other reasons",
+                "Răzbunare",
+                "Gelozie",
+                "Ceartă",
+                "Motiv legat de relaţii familiare",
+                "La comandă",
+                "Alte motive",
                 ""
               ]
             },
-            "title": "Context/reason"
+            "title": "Contextul/motivul"
           },
           {
             "name": "Value",
@@ -2521,7 +2521,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Toxic waste by development regions",
@@ -2530,10 +2530,10 @@
               "enum": [
                 "Total ",
                 "Municipality Chişinău",
-                "North",
-                "Center",
-                "South",
-                "ATU Găgăuzia",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
                 ""
               ]
             },
@@ -2575,7 +2575,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2612,37 +2612,37 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Level of education of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary and below",
-                "Secondary",
-                "Professional",
-                "Higher",
+                "Primare și mai jos",
+                "Secundare",
+                "Profesional",
+                "Superior",
                 ""
               ]
             },
-            "title": "Level of education of the head of the household"
+            "title": "Nivelul de instruire a capului gospodăriei"
           },
           {
             "name": "Ethnicity of the head of the household",
             "type": "string",
             "constraints": {
               "enum": [
-                "Moldovan/Romanian",
-                "Russian",
-                "Ucrainian",
-                "Rum",
-                "Gagauz",
-                "Other",
+                "Moldovean/Român",
+                "Rus",
+                "Ucrainean",
+                "Rom",
+                "Găgăuz",
+                "Alte",
                 ""
               ]
             },
-            "title": "Ethnicity of the head of the household"
+            "title": "Etnia capului gospodăriei"
           },
           {
             "name": "Wellbeing quintile",
@@ -2657,7 +2657,7 @@
                 ""
               ]
             },
-            "title": "Wellbeing quintile"
+            "title": "Quintile de bunăstare"
           },
           {
             "name": "Value",
@@ -2681,7 +2681,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2705,7 +2705,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2729,7 +2729,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2753,7 +2753,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2777,7 +2777,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Age groups of head of household, years",
@@ -2793,7 +2793,7 @@
                 ""
               ]
             },
-            "title": "Age groups of head of household, years"
+            "title": "Grupe de vârstă capului gospodăriei, ani"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -2808,19 +2808,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "With children up to 18 years",
-                "Without children up to 18 years",
+                "Cu copii până la 18 ani",
+                "Fără copii până la 18 ani",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Tipul gospodăriei"
           },
           {
             "name": "Value",
@@ -2844,7 +2844,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2868,7 +2868,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2892,7 +2892,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -2928,7 +2928,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -2952,7 +2952,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -2971,8 +2971,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -2999,7 +2999,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -3036,7 +3036,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -3064,7 +3064,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -3088,7 +3088,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -3111,7 +3111,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -3135,15 +3135,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+ / Men",
-                "15+ / Women",
+                "15+ / Bărbați",
+                "15+ / Femei",
                 ""
               ]
             },
@@ -3171,7 +3171,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -3206,7 +3206,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3230,7 +3230,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -3249,12 +3249,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -3278,7 +3278,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -3305,22 +3305,22 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
-                "Secondary specialized",
-                "Secondary vocational",
+                "Superior",
+                "Mediu de specialitate",
+                "Secundar profesional",
                 "Secondary school",
-                "Gymnasium",
+                "Gimnazial",
                 ""
               ]
             },
-            "title": "Level of education"
+            "title": "Nivelul de studii"
           },
           {
             "name": "Value",
@@ -3344,7 +3344,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3368,15 +3368,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys",
-                "Girls",
+                "Băieți",
+                "Fete",
                 ""
               ]
             },
@@ -3416,7 +3416,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3440,7 +3440,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -3462,7 +3462,7 @@
                 ""
               ]
             },
-            "title": "Sexes"
+            "title": "Sexe"
           },
           {
             "name": "Value",
@@ -3486,7 +3486,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Regions",
@@ -3494,14 +3494,14 @@
             "constraints": {
               "enum": [
                 "Mun. Chișinău",
-                "North",
-                "Center",
-                "South",
-                "ATU Gagauzia",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
                 ""
               ]
             },
-            "title": "Regions"
+            "title": "Regiuni"
           },
           {
             "name": "Value",
@@ -3525,7 +3525,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3549,7 +3549,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -3573,7 +3573,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Value",
@@ -3597,7 +3597,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Reported on a person, by sources",
@@ -3605,8 +3605,8 @@
             "constraints": {
               "enum": [
                 "Auto",
-                "Railway",
-                "Air",
+                "Feroviar",
+                "Aerian",
                 ""
               ]
             },
@@ -3617,12 +3617,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon monoxide",
-                "Nitrogen dioxide",
-                "Sulphur dioxide",
-                "Hydrocarbs",
+                "Oxid de carbon",
+                "Dioxid de azot",
+                "Dioxid de sulf",
+                "Hidrocarburi",
                 "Aldehydes",
-                "Solids",
+                "Substanțe solide",
                 ""
               ]
             },
@@ -3645,8 +3645,8 @@
             "constraints": {
               "enum": [
                 "Auto",
-                "Railway",
-                "Air",
+                "Feroviar",
+                "Aerian",
                 ""
               ]
             },
@@ -3657,12 +3657,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon monoxide",
-                "Nitrogen dioxide",
-                "Sulphur dioxide",
-                "Hydrocarbs",
+                "Oxid de carbon",
+                "Dioxid de azot",
+                "Dioxid de sulf",
+                "Hidrocarburi",
                 "Aldehydes",
-                "Solids",
+                "Substanțe solide",
                 ""
               ]
             },
@@ -3690,7 +3690,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -3726,7 +3726,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -3774,7 +3774,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3798,7 +3798,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Subnational level",
@@ -3834,7 +3834,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -3858,7 +3858,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -3885,7 +3885,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Destination countries",
@@ -3920,7 +3920,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -3957,7 +3957,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -3981,7 +3981,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4005,24 +4005,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of own funds of level I in relation to total assets",
-                "Ratio of own funds of level I in relation to risk-weighted assets",
-                "Non-performing loans rate (without reserves) in relation to the total regulated capital",
-                "Share of non-performing loans in total loans granted",
-                "Return on assets",
+                "Rata fondurilor proprii de nivel I în raport cu total active",
+                "Rata fondurilor proprii de nivel I în raport cu activele ponderate la risc",
+                "Rata creditelor neperformante (fără rezerve) in raport cu capitalul total reglementat",
+                "Ponderea creditelor neperformante în totalul creditelor acordate",
+                "Rentabilitatea activelor",
                 "Rate of liquid assets in relation to short-term liabilities",
-                "Rate of net open foreign exchange position at total regulated capital",
+                "Rata poziției valutare deschise nete la capitalul total reglementat",
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Indicatori"
           },
           {
             "name": "Value",
@@ -4046,7 +4046,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -4082,19 +4082,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 years and over, adults",
-                "0-17 years, children",
+                "18 ani și peste, adulți",
+                "0-17 ani, copii",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -4118,7 +4118,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -4154,7 +4154,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -4190,33 +4190,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -4240,7 +4240,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -4276,7 +4276,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4300,7 +4300,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -4319,12 +4319,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -4348,7 +4348,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -4388,7 +4388,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -4403,19 +4403,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disability",
-                "People without disability",
+                "Persoane cu dizabilitate",
+                "Persoane fără dizabilitate",
                 ""
               ]
             },
-            "title": "Existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -4439,7 +4439,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Policy areas",
@@ -4455,7 +4455,7 @@
                 ""
               ]
             },
-            "title": "Policy areas"
+            "title": "Domenii de politici"
           },
           {
             "name": "Value",
@@ -4479,7 +4479,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4503,7 +4503,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -4522,13 +4522,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
-                "secondary school",
-                "high school",
+                "învățământ primar",
+                "gimnazial",
+                "liceal",
                 ""
               ]
             },
-            "title": "Education levels"
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",
@@ -4552,16 +4552,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of sources ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Underground centralized sources",
-                "Centralized surface sources",
-                "Decentralized water supply sources (wells)",
+                "Surse centralizate subterane",
+                "Surse centralizate de suprafață",
+                "Surse descentralizate de alimentare cu apă (fîntîni)",
                 ""
               ]
             },
@@ -4589,7 +4589,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -4608,13 +4608,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
-                "secondary school",
-                "high school",
+                "învățământ primar",
+                "gimnazial",
+                "liceal",
                 ""
               ]
             },
-            "title": "Education levels"
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",
@@ -4638,7 +4638,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4662,7 +4662,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -4698,7 +4698,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4722,21 +4722,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Emission sectors",
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy sector",
-                "Industrial processes and use of products sector",
-                "Agriculture sector",
-                "Waste sector",
+                "Sectorul Energie",
+                "Sectorul Procesele industriale şi utilizarea produselor",
+                "Sectorul Agricultura",
+                "Sectorul Deșeuri",
                 ""
               ]
             },
-            "title": "Emission sectors"
+            "title": "Sectoare de emisie"
           },
           {
             "name": "Value",
@@ -4760,7 +4760,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4784,7 +4784,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -4808,7 +4808,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Statistical regions",
@@ -4816,13 +4816,13 @@
             "constraints": {
               "enum": [
                 "Mun. Chisnau",
-                "North",
-                "Center",
-                "South",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Occupations",
@@ -4840,7 +4840,7 @@
                 ""
               ]
             },
-            "title": "Occupations"
+            "title": "Ocupaţii"
           },
           {
             "name": "Value",
@@ -4864,7 +4864,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4888,7 +4888,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -4912,7 +4912,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -4948,19 +4948,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insured",
-                "Uninsured",
+                "Asigurați",
+                "Neasigurați",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Statut"
           },
           {
             "name": "Area of residence",
@@ -4996,7 +4996,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -5022,7 +5022,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Area of residence  of the respondents",
@@ -5034,48 +5034,48 @@
                 ""
               ]
             },
-            "title": "Area of residence  of the respondents"
+            "title": "Mediu de reședință al respondenților"
           },
           {
             "name": "Discrimination criteria",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social status",
-                "Age",
-                "Disability",
-                "Sexual orientation",
-                "Existence of a criminal record",
+                "Statut social",
+                "Vârsta",
+                "Dizabilitate",
+                "Orientarea sexuală",
+                "Existența antecedentelor penale",
                 "HIV",
-                "Roma ethnicity",
-                "Sex/gender",
-                "Other ethnicity",
-                "Religion",
-                "Other",
+                "Etnia romă",
+                "Sex/gen",
+                "Altă etnie",
+                "Religia",
+                "Alte",
                 ""
               ]
             },
-            "title": "Discrimination criteria"
+            "title": "Criterii de discriminare"
           },
           {
             "name": "Entities in which they were discriminated against",
             "type": "string",
             "constraints": {
               "enum": [
-                "Polyclinic",
-                "Place of work",
-                "Police",
-                "Town hall",
-                "Street",
-                "Social assistance",
-                "School",
-                "Shop",
-                "Church",
-                "Other",
+                "Policlinica",
+                "Locul de muncă",
+                "Poliția",
+                "Primăria",
+                "Strada",
+                "Asistența socială",
+                "Școala",
+                "Magazin",
+                "Biserica",
+                "Alte",
                 ""
               ]
             },
-            "title": "Entities in which they were discriminated against"
+            "title": "Entități în care au fost discriminați"
           },
           {
             "name": "Characteristics of persons who discriminated",
@@ -5117,7 +5117,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
+                "Publică",
                 "Private",
                 ""
               ]
@@ -5146,22 +5146,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulgarians",
-                "Roma",
-                "Russians",
-                "Jews",
-                "Ukrainians",
+                "Bulgari",
+                "Romi",
+                "Ruși",
+                "Evrei",
+                "Ucraineni",
                 ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Etnie"
           },
           {
             "name": "Sex",
@@ -5185,7 +5185,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Disability",
@@ -5193,83 +5193,83 @@
             "constraints": {
               "enum": [
                 " ",
-                "Mental",
-                "Intellectual",
-                "Sensory",
+                "Mintală",
+                "Intelectuală",
+                "Senzorială",
                 ""
               ]
             },
-            "title": "Disability"
+            "title": "Dizabilitate"
           },
           {
             "name": "Citizenship",
             "type": "string",
             "constraints": {
               "enum": [
-                "Republic of Moldova",
-                "Foreign citizenship",
-                "Stateless",
+                "Republica Moldova",
+                "Cetățeni străini",
+                "Apatrizi",
                 ""
               ]
             },
-            "title": "Citizenship"
+            "title": "Cetățenie"
           },
           {
             "name": "Beneficiary status - foreign citizen",
             "type": "string",
             "constraints": {
               "enum": [
-                "Temporary protection",
-                "Humanitarian protection",
-                "Refugees",
-                "Asylum seekers",
+                "Protecție temporă",
+                "Protecție umanitară",
+                "Refugiați",
+                "Solicitanți azil",
                 ""
               ]
             },
-            "title": "Beneficiary status - foreign citizen"
+            "title": "Statut de beneficiar - cetățean străin"
           },
           {
             "name": "Requested authority",
             "type": "string",
             "constraints": {
               "enum": [
-                "Prosecution",
-                "Police inspectorate",
-                "Court",
-                "Court of Appeal",
-                "Supreme Court of Justice",
-                "Other authorities",
+                "Procuratura",
+                "Inspectoratul de politie",
+                "Judecătoria",
+                "Curtea de Apel",
+                "Curtea Supremă de Justuție",
+                "Alte autorități",
                 ""
               ]
             },
-            "title": "Requested authority"
+            "title": "Autoritatea solicitată"
           },
           {
             "name": "Legal basis",
             "type": "string",
             "constraints": {
               "enum": [
-                "Regardless of income level (art. 20 law 198)",
-                "Depending on the income level (art. 21 law 198)",
+                "Indiferent de nivelul de venit (art. 20 legea 198)",
+                "În dependența de nivelul de venit (art. 21 Legea 198)",
                 ""
               ]
             },
-            "title": "Legal basis"
+            "title": "Baza legală"
           },
           {
             "name": "Type of qualified assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Qualified criminal cases",
-                "Qualified contravention cases",
-                "Qualified civil cases",
-                "Emergency criminal cases",
-                "Emergency contravention cases",
+                "Calificată cauze penale",
+                "Calificată cauze contravenționale",
+                "Calificată cauze civile",
+                "Urgență cauze penale",
+                "Urgență cauze contravenționale",
                 ""
               ]
             },
-            "title": "Type of qualified assistance"
+            "title": "Tipul asistenței calificate"
           },
           {
             "name": "Primary care",
@@ -5280,7 +5280,7 @@
                 ""
               ]
             },
-            "title": "Primary care"
+            "title": "Asistența primară"
           },
           {
             "name": "Value",
@@ -5304,7 +5304,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -5323,78 +5323,78 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - total"
+            "title": "Sisteme de încălzire a locuințelor - total"
           },
           {
             "name": "Home heating systems - urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - urban"
+            "title": "Sisteme de încălzire a locuințelor - urban"
           },
           {
             "name": "Home heating systems - rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Centralized",
-                "Natural gas, electricity",
-                "Wood, waste and coal",
+                "Centralizat",
+                "Gaz natural, electricitate",
+                "Lemne, deșeuri și cărbune",
                 ""
               ]
             },
-            "title": "Home heating systems - rural"
+            "title": "Sisteme de încălzire a locuințelor - rural"
           },
           {
             "name": "Food preparation - total",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - total"
+            "title": "Pregătirea alimentelor - total"
           },
           {
             "name": "Food preparation - urban",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - urban"
+            "title": "Pregătirea alimentelor - urban"
           },
           {
             "name": "Food preparation - rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Natural gas / liquefied gas",
-                "Wood, waste and coal",
-                "Electricity",
+                "Gaz natural/gaz lichefiat",
+                "Lemne, deșeuri și cărbune",
+                "Energie electrică",
                 ""
               ]
             },
-            "title": "Food preparation - rural"
+            "title": "Pregătirea alimentelor - rural"
           },
           {
             "name": "Value",
@@ -5418,7 +5418,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -5445,7 +5445,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Persons with disabilities",
@@ -5456,19 +5456,19 @@
                 ""
               ]
             },
-            "title": "Persons with disabilities"
+            "title": "Persoane cu dizabilități"
           },
           {
             "name": "Education levels ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
-                "Post-secondary non-tertiary (secondary professional)",
+                "Superior",
+                "Profesional tehnic postsecundar nonterțiar (mediu de specialitate)",
                 "Upper secondary vocational ",
-                "High school, upper secondary (general)",
-                "Lower secondary (gymnasium)",
-                "Primary or no education",
+                "Liceal, mediu general",
+                "Gimnazial",
+                "Primar sau fără şcoală primară",
                 ""
               ]
             },
@@ -5496,7 +5496,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5520,7 +5520,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -5559,7 +5559,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Socioeconomic status",
@@ -5594,25 +5594,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of crimes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Premeditated severe injuries",
-                "Kidnapping a person",
-                "Sexual assault",
-                "Robbery",
-                "Brigandage",
-                "Blackmail",
-                "Domestic violence",
-                "Hooliganism",
+                "Leziuni, corporale grave",
+                "Răpirea unei persoane",
+                "Agresiune sexuală",
+                "Jaf",
+                "Tâlhăria",
+                "Șantajul",
+                "Violenţa în familie",
+                "Huliganismul",
                 ""
               ]
             },
-            "title": "Types of crimes"
+            "title": "Tipuri de infracțiuni"
           },
           {
             "name": "Sex",
@@ -5631,12 +5631,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -5660,7 +5660,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5684,7 +5684,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5708,7 +5708,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -5754,7 +5754,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5778,7 +5778,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -5818,7 +5818,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -5833,7 +5833,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Value",
@@ -5857,7 +5857,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -5881,7 +5881,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of critical infrastructure losses",
@@ -5899,8 +5899,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -5927,7 +5927,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -5964,7 +5964,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Capabilities of the health sector",
@@ -5991,7 +5991,7 @@
                 ""
               ]
             },
-            "title": "Capabilities of the health sector"
+            "title": "Capacități ale sectorului de sănătate"
           },
           {
             "name": "Value",
@@ -6015,22 +6015,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Regions",
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
-                "South",
-                "Center",
-                "ATU Gagauzia",
+                "Nord",
+                "Sud",
+                "Centru",
+                "UTA Găgăuzia",
                 "Mun. Chisinău",
                 ""
               ]
             },
-            "title": "Regions"
+            "title": "Regiuni"
           },
           {
             "name": "Value",
@@ -6054,14 +6054,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
+                "Bărbați",
                 "Femei",
                 ""
               ]
@@ -6085,14 +6085,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban/Men",
+                "Urban/Bărbați",
                 "Rural/men",
-                "Urban/Women",
-                "Rural/Women",
+                "Urban/Femei",
+                "Rural/Femei",
                 ""
               ]
             },
-            "title": "Area of residence/Sex"
+            "title": "Mediul de reședință/Sex"
           },
           {
             "name": "Age group/sex",
@@ -6134,7 +6134,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -6159,7 +6159,7 @@
                 ""
               ]
             },
-            "title": "Children up to 18 years old"
+            "title": "Copii până la 18 ani"
           },
           {
             "name": "Value",
@@ -6183,7 +6183,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6207,7 +6207,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6231,7 +6231,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -6271,7 +6271,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -6286,19 +6286,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Existence of disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "People with disability",
-                "People without disability",
+                "Persoane cu dizabilitate",
+                "Persoane fără dizabilitate",
                 ""
               ]
             },
-            "title": "Existence of disability"
+            "title": "Existența dizabilității"
           },
           {
             "name": "Value",
@@ -6322,33 +6322,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -6372,7 +6372,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -6412,14 +6412,14 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
+                "Superior",
                 "Vocational",
                 "General secondary",
                 "Primary or less",
@@ -6434,14 +6434,14 @@
             "constraints": {
               "enum": [
                 "Employees",
-                "Self-employers in agriculture",
+                "Lucrători pe cont propriu in agricultură",
                 "Self-employers in non-agricultural activities",
-                "Pensioners",
-                "Others",
+                "Pensionari",
+                "Alții",
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
@@ -6465,7 +6465,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6489,19 +6489,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of ecosystems",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wetlands of international importance",
-                "Other (areas with multifunctional management, resource reservations, landscape reservations, nature reserves, etc.)",
+                "Zone umede de importanţă internaţională",
+                "Altele (arii cu management multifuncţional,  rezervaţiile de resurse, rezervaţii peisajere, rezervaţii naturale etc.)",
                 ""
               ]
             },
-            "title": "Types of ecosystems"
+            "title": "Tipuri ecosisteme"
           },
           {
             "name": "Value",
@@ -6525,7 +6525,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6549,7 +6549,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -6597,7 +6597,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "first-level local government authorities ",
@@ -6643,33 +6643,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -6693,7 +6693,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence (subjected to violence)",
@@ -6705,44 +6705,44 @@
                 ""
               ]
             },
-            "title": "Area of residence (subjected to violence)"
+            "title": "Mediul de reședință (supuși violenței)"
           },
           {
             "name": "Sex (subjected to violence)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Girls",
-                "Boys",
+                "Fete",
+                "Băieți",
                 ""
               ]
             },
-            "title": "Sex (subjected to violence)"
+            "title": "Sex (supuși violenței)"
           },
           {
             "name": "Age group (subjected to violence)",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-2 years",
+                "0-2 ani",
                 "3-6 years",
                 "7-15 years",
-                "16-17 years",
+                "16-17 ani",
                 ""
               ]
             },
-            "title": "Age group (subjected to violence)"
+            "title": "Grupa de vârstă  (supuși violenței)"
           },
           {
             "name": "Disability (subjected to violence)",
             "type": "string",
             "constraints": {
               "enum": [
-                "With disabilities",
+                "Cu dizabilități",
                 ""
               ]
             },
-            "title": "Disability (subjected to violence)"
+            "title": "Dizabilitate (supuși violenței)"
           },
           {
             "name": "Number of neglected children, at the end of the year",
@@ -6753,7 +6753,7 @@
                 ""
               ]
             },
-            "title": "Number of neglected children, at the end of the year"
+            "title": "Numărul copiilor neglijați, la sfîrșitul anului"
           },
           {
             "name": "Area of residence (neglected)",
@@ -6765,19 +6765,19 @@
                 ""
               ]
             },
-            "title": "Area of residence (neglected)"
+            "title": "Mediul de reședință (neglijați)"
           },
           {
             "name": "Sex (neglected)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Girls",
-                "Boys",
+                "Fete",
+                "Băieți",
                 ""
               ]
             },
-            "title": "Sex (neglected)"
+            "title": "Sex (neglijați)"
           },
           {
             "name": "Age group (neglected)",
@@ -6791,18 +6791,18 @@
                 ""
               ]
             },
-            "title": "Age group (neglected)"
+            "title": "Grupa de vârstă (neglijați)"
           },
           {
             "name": "Disability (neglected)",
             "type": "string",
             "constraints": {
               "enum": [
-                "With disabilities",
+                "Cu dizabilități",
                 ""
               ]
             },
-            "title": "Disability (neglected)"
+            "title": "Dizabilitate (neglijați)"
           },
           {
             "name": "Value",
@@ -6826,7 +6826,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6850,7 +6850,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Index",
@@ -6861,7 +6861,7 @@
                 ""
               ]
             },
-            "title": "Index"
+            "title": "Indice"
           },
           {
             "name": "Value",
@@ -6885,7 +6885,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6909,7 +6909,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -6949,7 +6949,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -6973,7 +6973,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -6997,7 +6997,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -7024,35 +7024,35 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
-                "Secondary specialized",
-                "Secondary vocational",
+                "Superior",
+                "Mediu de specialitate",
+                "Secundar profesional",
                 "Secondary school",
-                "Gymnasium",
+                "Gimnazial",
                 ""
               ]
             },
-            "title": "Level of education"
+            "title": "Nivelul de studii"
           },
           {
             "name": "Form of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Psychological",
-                "Physical",
-                "Sexual",
+                "Psihologică",
+                "Fizică",
+                "Sexuală",
                 ""
               ]
             },
-            "title": "Form of violence"
+            "title": "Formă de violență"
           },
           {
             "name": "Value",
@@ -7076,7 +7076,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7100,7 +7100,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -7127,22 +7127,22 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
-                "Secondary specialized",
-                "Secondary vocational",
+                "Superior",
+                "Mediu de specialitate",
+                "Secundar profesional",
                 "Secondary school",
-                "Gymnasium",
+                "Gimnazial",
                 ""
               ]
             },
-            "title": "Level of education"
+            "title": "Nivelul de studii"
           },
           {
             "name": "Value",
@@ -7166,7 +7166,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7190,7 +7190,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7214,7 +7214,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7238,21 +7238,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Economic activities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "Manufacturing",
+                "Agricultura, silvicultura și pescuit",
+                "Industria prelucrătoare",
                 "Electricity, gas and water",
-                "Other activities",
+                "Alte activități",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "Activități economice"
           },
           {
             "name": "Rayons/Municipalities that have treatment plants",
@@ -7278,7 +7278,7 @@
                 ""
               ]
             },
-            "title": "Rayons/Municipalities that have treatment plants"
+            "title": "Raioanele/Municipiile care dețin stații de epurare"
           },
           {
             "name": "Value",
@@ -7302,7 +7302,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -7355,7 +7355,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Socioeconomic status",
@@ -7377,7 +7377,7 @@
                 ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Etnie"
           },
           {
             "name": "Value",
@@ -7401,7 +7401,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7425,7 +7425,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -7444,13 +7444,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, quintile I",
-                "Urban, quintile I",
-                "Rural, quintile I",
+                "Total, chintila I",
+                "Urban, chintila I",
+                "Rural, chintila I",
                 ""
               ]
             },
-            "title": "Quintile I, by area of residence"
+            "title": "Chintila I, pe medii"
           },
           {
             "name": "Value",
@@ -7474,7 +7474,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7498,7 +7498,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7522,7 +7522,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": " ",
@@ -7556,7 +7556,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7580,7 +7580,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7604,7 +7604,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -7628,7 +7628,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Age groups of head of household, years",
@@ -7644,7 +7644,7 @@
                 ""
               ]
             },
-            "title": "Age groups of head of household, years"
+            "title": "Grupe de vârstă capului gospodăriei, ani"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -7659,7 +7659,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Value",
@@ -7683,7 +7683,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -7707,7 +7707,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Age groups of head of household, years",
@@ -7723,7 +7723,7 @@
                 ""
               ]
             },
-            "title": "Age groups of head of household, years"
+            "title": "Grupe de vârstă capului gospodăriei, ani"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -7738,19 +7738,19 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Household type",
             "type": "string",
             "constraints": {
               "enum": [
-                "With children up to 18 years",
-                "Without children up to 18 years",
+                "Cu copii până la 18 ani",
+                "Fără copii până la 18 ani",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Tipul gospodăriei"
           },
           {
             "name": "Value",
@@ -7774,7 +7774,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7798,19 +7798,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types",
             "type": "string",
             "constraints": {
               "enum": [
-                "Plants",
-                "Animals",
+                "Plante",
+                "Animale",
                 ""
               ]
             },
-            "title": "Types"
+            "title": "Tipuri"
           },
           {
             "name": "Value",
@@ -7834,7 +7834,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7858,21 +7858,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Modes of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Railway",
-                "Road",
-                "River",
-                "Air",
+                "Feroviar",
+                "Rutier",
+                "Fluvial",
+                "Aerian",
                 ""
               ]
             },
-            "title": "Modes of transport"
+            "title": "Moduri de transport"
           },
           {
             "name": "Value",
@@ -7896,7 +7896,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7920,7 +7920,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -7944,7 +7944,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -7992,7 +7992,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -8011,12 +8011,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",
@@ -8040,7 +8040,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Units",
@@ -8058,9 +8058,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of persons aged of 13-15 year who have completed primary education",
-                "Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium)",
-                "Proportion of persons aged of 21-23 year who have completed upper secondary education",
+                "Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar",
+                "Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial",
+                "Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar",
                 ""
               ]
             },
@@ -8113,7 +8113,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -8149,7 +8149,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Regions",
@@ -8157,14 +8157,14 @@
             "constraints": {
               "enum": [
                 "Municipiul Chişinău",
-                "North",
-                "Center",
-                "South",
-                "ATU Găgăuzia",
+                "Nord",
+                "Centru",
+                "Sud",
+                "UTA Găgăuzia",
                 ""
               ]
             },
-            "title": "Regions"
+            "title": "Regiuni"
           },
           {
             "name": "kg/person",
@@ -8199,7 +8199,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Indicators on the progress of sustainable forest management",
@@ -8210,7 +8210,7 @@
                 "Proportion of forest area located in legally protected areas,%",
                 "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
                 "Above-ground biomass reserves in forests, thousands c.m.",
-                "Forest area included in the forest management certification system, independently verified, thousands ha",
+                "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
                 ""
               ]
             },
@@ -8238,7 +8238,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex of the petitioner",
@@ -8250,37 +8250,37 @@
                 ""
               ]
             },
-            "title": "Sex of the petitioner"
+            "title": "Sexul petiționarului"
           },
           {
             "name": "Criteria of discrimination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Opinion",
-                "Disability",
-                "Social origin",
-                "Language",
-                "Sex/gender",
+                "Opinie",
+                "Dizabilitate",
+                "Origine socială",
+                "Limbă",
+                "Sex/gen",
                 "HIV status",
-                "Sexual orientation",
-                "Religion/belief",
-                "Professional status",
-                "Civil status",
-                "Political affiliation",
-                "Place of residence",
-                "Ethnical affiliation",
-                "Maternity",
-                "Nationality",
-                "Age",
+                "Orientarea sexuală",
+                "Religie/convingeri",
+                "Statut profesional",
+                "Statut matrimonial",
+                "Apartenență politică",
+                "Loc de trai",
+                "Apartenență etnică",
+                "Maternitate",
+                "Naționalitate",
+                "Vârsta",
                 "Race",
-                "Trade-union activity",
-                "Pensioner status",
-                "Other",
+                "Activitate sindicală",
+                "Statut de pensionar",
+                "Alte",
                 ""
               ]
             },
-            "title": "Criteria of discrimination"
+            "title": "Criterii de discriminare"
           },
           {
             "name": "Area of discrimination",
@@ -8288,35 +8288,35 @@
             "constraints": {
               "enum": [
                 "Discrimination on the labour market",
-                "Access to education",
-                "Access to goods and services available to the public",
-                "Access to justice",
-                "Hate speech",
-                "Injured human dignity",
+                "Acces la învățământ",
+                "Acces la bunuri și servicii disponibile publicului",
+                "Acces la justiție",
+                "Discurs de ură",
+                "Lezarea demnității umane",
                 "Exercing parental rights",
-                "Other",
+                "Alte",
                 ""
               ]
             },
-            "title": "Area of discrimination"
+            "title": "Domeniul de discriminare"
           },
           {
             "name": "Form of discrimination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct",
-                "Indirect",
-                "By association",
-                "Instigation to discrimination",
-                "Harassment",
-                "Victimization",
-                "Refuse of reasonable accommodation",
-                "Racial segregation",
+                "Discriminare directă",
+                "Discriminare indirectă",
+                "Discriminare prin asociere",
+                "Instigare la discriminare",
+                "Hărțuire",
+                "Victimizare",
+                "Refuz în acomodare rezonabilă",
+                "Segregare rasială",
                 ""
               ]
             },
-            "title": "Form of discrimination"
+            "title": "Forma de discriminare"
           },
           {
             "name": "Area of residence",
@@ -8352,7 +8352,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -8391,7 +8391,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Age group 1 and Sex",
@@ -8400,12 +8400,12 @@
               "enum": [
                 "0-14 / Total",
                 "15+ / Total",
-                "15+ / Men",
-                "15+ / Women",
+                "15+ / Bărbați",
+                "15+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 1 and Sex"
+            "title": "Grupa de vârstă 1 și Sex"
           },
           {
             "name": "Age group 2 and Sex",
@@ -8413,31 +8413,31 @@
             "constraints": {
               "enum": [
                 "15-24 / Total",
-                "15-24 / Men",
-                "15-24 / Women",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
                 "25+ / Total",
-                "25+ / Men",
-                "25+ / Women",
+                "25+ / Bărbați",
+                "25+ / Femei",
                 ""
               ]
             },
-            "title": "Age group 2 and Sex"
+            "title": "Grupa de vârstă 2 și Sex"
           },
           {
             "name": "Employment status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Self-employers in agriculture",
-                "Employees in the agricultural sector",
-                "Employees in the non-agricultural sector",
+                "Lucrători pe cont propriu in agricultură",
+                "Salariați în sectorul agrar",
+                "Salariați în sectorul non-agrar",
                 "Self-employers in non-agricultural activities",
-                "Pensioners",
-                "Others",
+                "Pensionari",
+                "Alții",
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",
@@ -8461,7 +8461,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8485,7 +8485,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8509,7 +8509,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8533,7 +8533,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8557,7 +8557,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -8593,7 +8593,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8617,7 +8617,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -8644,7 +8644,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Area of residence",
@@ -8680,7 +8680,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -8707,22 +8707,22 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
-                "Secondary specialized",
-                "Secondary vocational",
+                "Superior",
+                "Mediu de specialitate",
+                "Secundar profesional",
                 "Secondary school",
-                "Gymnasium",
+                "Gimnazial",
                 ""
               ]
             },
-            "title": "Level of education"
+            "title": "Nivelul de studii"
           },
           {
             "name": "Wealth quintiles ",
@@ -8761,7 +8761,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8785,7 +8785,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8809,7 +8809,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Children's rights",
@@ -8844,7 +8844,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -8868,7 +8868,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -8904,7 +8904,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -8940,7 +8940,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -8959,9 +8959,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary",
-                "Secondary specialized",
-                "Higher",
+                "Secundare",
+                "Mediu de specialitate",
+                "Superior",
                 ""
               ]
             },
@@ -8972,22 +8972,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tax inspectorates",
-                "Customs",
-                "Police",
-                "Prosecution",
-                "Sanitary-epidemiological inspections",
-                "Cadastral offices / services",
-                "Courts",
-                "Public procurement",
-                "Registration of the transport and issuance of the driving license",
-                "Technical overhaul of cars",
-                "Issuing construction permits",
-                "Work inspection",
+                "Inspectoratele fiscale",
+                "Vama",
+                "Poliția",
+                "Procuratura",
+                "Inspecțiile sanitar-epidemiologice",
+                "Birourile/serviciile cadastrale",
+                "Instanțele de judecată",
+                "Achizițiile publice",
+                "Înregistrarea transportului și eliberarea permisului de conducere",
+                "Revizia tehnică a automobilelor",
+                "Eliberarea autorizațiilor de construcție",
+                "Inspecția muncii",
                 ""
               ]
             },
-            "title": "Institutions where have been made payments"
+            "title": "Instituțiile unde s-au efectuat plăți"
           },
           {
             "name": "Value",
@@ -9011,33 +9011,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -9061,7 +9061,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9085,7 +9085,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -9121,33 +9121,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sex",
@@ -9183,7 +9183,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -9202,14 +9202,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Municipiul Chișinău",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -9224,7 +9224,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
@@ -9236,7 +9236,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Value",
@@ -9260,33 +9260,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sex",
@@ -9305,8 +9305,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -9333,7 +9333,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -9342,7 +9342,7 @@
                 "Leova",
                 "Stefan Voda",
                 "Taraclia",
-                "ATU Gagauzia",
+                "UTA Găgăuzia",
                 ""
               ]
             },
@@ -9370,7 +9370,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -9399,7 +9399,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -9423,7 +9423,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9447,7 +9447,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9471,7 +9471,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9495,7 +9495,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9519,7 +9519,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9543,7 +9543,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Toxic waste",
@@ -9578,7 +9578,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Proportion of female judges / Proportion of women in the working-age population        ",
@@ -9686,7 +9686,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -9719,25 +9719,25 @@
               "enum": [
                 "0-17",
                 "15+",
-                "57+ (women) / 62+ (men)",
+                "57+ (femei) / 62+ (bărbați)",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sub-indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Access to electricity",
-                "Access to safely managed water sources",
-                "Access to sewerage",
-                "Access to internet",
+                "Acces la electricitate",
+                "Acces la surse gestionate sigur de apă",
+                "Acces la canalizare",
+                "Acces la internet",
                 ""
               ]
             },
-            "title": "Sub-indicators"
+            "title": "Sub-indicatori"
           },
           {
             "name": "Value",
@@ -9761,7 +9761,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9785,7 +9785,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9809,23 +9809,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Modes of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Railway",
-                "Road",
-                "Taxi",
-                "Trolleybuses",
-                "River",
-                "Air",
+                "Feroviar",
+                "Rutier",
+                "Taximetre",
+                "Troleibuze",
+                "Fluvial",
+                "Aerian",
                 ""
               ]
             },
-            "title": "Modes of transport"
+            "title": "Moduri de transport"
           },
           {
             "name": "Value",
@@ -9843,13 +9843,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Conventions",
@@ -9864,7 +9864,7 @@
                 ""
               ]
             },
-            "title": "Conventions"
+            "title": "Convenții"
           },
           {
             "name": "Value",
@@ -9888,7 +9888,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -9907,13 +9907,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
-                "secondary school",
-                "high school",
+                "învățământ primar",
+                "gimnazial",
+                "liceal",
                 ""
               ]
             },
-            "title": "Education levels"
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",
@@ -9937,7 +9937,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -9961,7 +9961,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -10007,33 +10007,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sex",
@@ -10069,7 +10069,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "SNA production boundary basis - Age group / Sex",
@@ -10137,7 +10137,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10161,7 +10161,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Food products",
@@ -10191,7 +10191,7 @@
                 ""
               ]
             },
-            "title": "Animals"
+            "title": "Animale"
           },
           {
             "name": "Value",
@@ -10215,7 +10215,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -10234,14 +10234,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Municipiul Chișinău",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -10256,7 +10256,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
@@ -10268,15 +10268,15 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Type of sewerage ",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public network",
-                "Own system",
+                "Rețea publică",
+                "Sistem propriu",
                 ""
               ]
             },
@@ -10304,7 +10304,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -10340,33 +10340,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Including children (0-17 years)",
-                "18 years and over",
+                "Inclusiv copii (0-17 ani)",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -10390,7 +10390,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10414,7 +10414,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10438,7 +10438,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10456,13 +10456,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "City",
@@ -10478,7 +10478,7 @@
                 ""
               ]
             },
-            "title": "City"
+            "title": "Orașe"
           },
           {
             "name": "Value",
@@ -10502,7 +10502,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10526,7 +10526,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10550,7 +10550,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -10573,7 +10573,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Age group.1",
@@ -10610,7 +10610,7 @@
                 ""
               ]
             },
-            "title": "Disability"
+            "title": "Dizabilitate"
           },
           {
             "name": "Area of residence",
@@ -10657,7 +10657,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -10681,7 +10681,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -10707,7 +10707,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Area of residence",
@@ -10726,41 +10726,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Social status",
-                "Age",
-                "Disability",
-                "Sexual orientation",
-                "Existence of a criminal record",
+                "Statut social",
+                "Vârsta",
+                "Dizabilitate",
+                "Orientarea sexuală",
+                "Existența antecedentelor penale",
                 "HIV status",
-                "Roma ethnicity",
-                "Sex/gender",
-                "Other ethnicity",
-                "Religion",
-                "Other",
+                "Etnia romă",
+                "Sex/gen",
+                "Altă etnie",
+                "Religia",
+                "Alte",
                 ""
               ]
             },
-            "title": "Discrimination criteria"
+            "title": "Criterii de discriminare"
           },
           {
             "name": "Entities in which they were discriminated against",
             "type": "string",
             "constraints": {
               "enum": [
-                "Polyclinic",
-                "Place of work",
-                "Police",
-                "Town hall",
-                "Street",
-                "Social assistance",
-                "School",
-                "Shop",
-                "Church",
-                "Other",
+                "Policlinica",
+                "Locul de muncă",
+                "Poliția",
+                "Primăria",
+                "Strada",
+                "Asistența socială",
+                "Școala",
+                "Magazin",
+                "Biserica",
+                "Alte",
                 ""
               ]
             },
-            "title": "Entities in which they were discriminated against"
+            "title": "Entități în care au fost discriminați"
           },
           {
             "name": "Value",
@@ -10784,7 +10784,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Tipuri SE",
@@ -10822,7 +10822,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -10862,7 +10862,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -10886,7 +10886,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -10932,7 +10932,7 @@
                 ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Etnie"
           },
           {
             "name": "Migration context",
@@ -10943,7 +10943,7 @@
                 ""
               ]
             },
-            "title": "Migration context"
+            "title": "Context migrațional"
           },
           {
             "name": "Citizenship",
@@ -10953,7 +10953,7 @@
                 ""
               ]
             },
-            "title": "Citizenship"
+            "title": "Cetățenie"
           },
           {
             "name": "Value",
@@ -10977,7 +10977,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -11004,7 +11004,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -11028,7 +11028,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -11047,14 +11047,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Early education",
-                "primary education",
-                "secondary school",
-                "high school",
+                "Educație timpurie",
+                "învățământ primar",
+                "gimnazial",
+                "liceal",
                 ""
               ]
             },
-            "title": "Education levels"
+            "title": "Nivele de educație"
           },
           {
             "name": " ",
@@ -11088,7 +11088,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -11107,14 +11107,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipality Chisinau",
-                "North",
-                "Center",
-                "South",
+                "Municipiul Chișinău",
+                "Nord",
+                "Centru",
+                "Sud",
                 ""
               ]
             },
-            "title": "Statistical regions"
+            "title": "Regiuni statistice"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -11129,7 +11129,7 @@
                 ""
               ]
             },
-            "title": "Quintiles on consumption expenditures"
+            "title": "Chintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
@@ -11141,7 +11141,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sexul capului gospodăriei"
           },
           {
             "name": "Value",
@@ -11165,33 +11165,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
@@ -11215,7 +11215,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11239,7 +11239,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11263,7 +11263,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -11290,20 +11290,20 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "High-risk population categories",
             "type": "string",
             "constraints": {
               "enum": [
-                "Injecting drug users",
-                "Commercial sex worker",
-                "Men who have sex with men",
+                "Utilizatori de droguri injectabile",
+                "Lucrători ale sexului comercial",
+                "Bărbaţi care practică sex cu bărbaţii",
                 ""
               ]
             },
-            "title": "High-risk population categories"
+            "title": "Categorii de populație cu risc sporit"
           },
           {
             "name": "Value",
@@ -11327,7 +11327,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11351,7 +11351,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11375,7 +11375,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11399,7 +11399,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11423,7 +11423,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11447,7 +11447,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11471,7 +11471,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11495,7 +11495,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11519,7 +11519,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11543,7 +11543,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11567,7 +11567,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11591,7 +11591,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11615,7 +11615,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11639,7 +11639,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11663,7 +11663,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11687,7 +11687,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11711,7 +11711,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11735,7 +11735,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11759,7 +11759,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11783,7 +11783,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11807,7 +11807,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11831,7 +11831,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11855,7 +11855,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11879,7 +11879,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11903,7 +11903,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11927,7 +11927,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11951,7 +11951,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11975,7 +11975,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -11999,7 +11999,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12023,7 +12023,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12047,7 +12047,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12071,7 +12071,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12095,7 +12095,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12119,7 +12119,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12143,7 +12143,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12167,7 +12167,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12191,7 +12191,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12215,7 +12215,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12239,7 +12239,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12263,7 +12263,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12287,7 +12287,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12311,7 +12311,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12335,7 +12335,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12359,7 +12359,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12383,7 +12383,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12407,7 +12407,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12431,7 +12431,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12455,7 +12455,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12479,7 +12479,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12503,7 +12503,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12527,7 +12527,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12551,7 +12551,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12575,7 +12575,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12599,7 +12599,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12623,7 +12623,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12647,7 +12647,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12671,7 +12671,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12695,7 +12695,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12719,7 +12719,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12743,7 +12743,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12767,7 +12767,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12791,7 +12791,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12815,7 +12815,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12839,7 +12839,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12863,7 +12863,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12887,7 +12887,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12911,7 +12911,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12935,7 +12935,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12959,7 +12959,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -12983,7 +12983,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13007,7 +13007,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13031,7 +13031,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13055,7 +13055,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13079,7 +13079,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13103,7 +13103,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13127,7 +13127,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13151,7 +13151,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13175,7 +13175,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13199,7 +13199,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13223,7 +13223,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13247,7 +13247,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13271,7 +13271,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13295,7 +13295,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13319,7 +13319,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13343,7 +13343,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13367,7 +13367,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13391,7 +13391,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13415,7 +13415,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13439,7 +13439,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13463,7 +13463,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13487,7 +13487,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13511,7 +13511,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13535,7 +13535,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13559,7 +13559,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13583,7 +13583,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13607,7 +13607,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13631,7 +13631,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13655,7 +13655,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13679,7 +13679,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13703,7 +13703,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13727,7 +13727,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13751,7 +13751,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13775,7 +13775,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13799,7 +13799,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13823,7 +13823,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13847,7 +13847,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13871,7 +13871,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13895,7 +13895,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13919,7 +13919,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13943,7 +13943,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13967,7 +13967,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -13991,7 +13991,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14015,7 +14015,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14039,7 +14039,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14063,7 +14063,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14087,7 +14087,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14111,7 +14111,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14135,7 +14135,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14159,7 +14159,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14183,7 +14183,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14207,7 +14207,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14231,7 +14231,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14255,7 +14255,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14279,7 +14279,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14303,7 +14303,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14327,7 +14327,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14351,7 +14351,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14375,7 +14375,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14399,7 +14399,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14423,7 +14423,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14447,7 +14447,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14471,7 +14471,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14495,7 +14495,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14519,7 +14519,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14543,7 +14543,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14567,7 +14567,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14591,7 +14591,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14615,7 +14615,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14639,7 +14639,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14663,7 +14663,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14687,7 +14687,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14711,7 +14711,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14735,7 +14735,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14759,7 +14759,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14783,7 +14783,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",
@@ -14807,7 +14807,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Value",

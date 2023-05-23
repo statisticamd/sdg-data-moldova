@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
-                "secondary school",
-                "high school",
+                "învățământ primar",
+                "gimnazial",
+                "liceal",
                 ""
               ]
             },
-            "title": "Education levels"
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",

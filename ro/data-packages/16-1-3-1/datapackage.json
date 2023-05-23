@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Types of crimes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Premeditated severe injuries",
-                "Kidnapping a person",
-                "Sexual assault",
-                "Robbery",
-                "Brigandage",
-                "Blackmail",
-                "Domestic violence",
-                "Hooliganism",
+                "Leziuni, corporale grave",
+                "Răpirea unei persoane",
+                "Agresiune sexuală",
+                "Jaf",
+                "Tâlhăria",
+                "Șantajul",
+                "Violenţa în familie",
+                "Huliganismul",
                 ""
               ]
             },
-            "title": "Types of crimes"
+            "title": "Tipuri de infracțiuni"
           },
           {
             "name": "Sex",
@@ -50,12 +50,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",

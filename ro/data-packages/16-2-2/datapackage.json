@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -32,52 +32,52 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adults",
-                "Children",
+                "Adulți",
+                "Copii",
                 ""
               ]
             },
-            "title": "Groups of persons"
+            "title": "Grupe de persoane"
           },
           {
             "name": "Countries of destination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Republic of Moldova",
-                "Russian Federation",
-                "Germany",
-                "Poland",
-                "Turkey",
-                "Italy",
-                "Portugal",
-                "Spain",
-                "Cyprus",
-                "Romania",
-                "Greece",
-                "Czech",
-                "Other",
+                "Republica Moldova",
+                "Federația Rusă",
+                "Germania",
+                "Polonia",
+                "Turcia",
+                "Italia",
+                "Portugalia",
+                "Spania",
+                "Cipru",
+                "România",
+                "Grecia",
+                "Cehia",
+                "Alte",
                 ""
               ]
             },
-            "title": "Countries of destination"
+            "title": "Ţări de destinaţie"
           },
           {
             "name": "Forms of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sexual",
-                "Work",
-                "Begging",
+                "Sexuală",
+                "Muncă",
+                "Cerșit",
                 "Mixt",
-                "Surrogate",
-                "Engaging in criminal activities",
-                "Sampling of human organs, tissues or cells",
+                "Mamă-surogat",
+                "Antrenarea în activități criminale",
+                "Prelevare de organe, țesuturi sau celule umane",
                 ""
               ]
             },
-            "title": "Forms of exploitation"
+            "title": "Forme de exploatare"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisinau",
-                "North",
+                "Mun. Chișinău",
+                "Nord",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -60,7 +60,7 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
+                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",

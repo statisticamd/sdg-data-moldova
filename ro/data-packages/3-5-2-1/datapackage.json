@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
+                "Bărbați",
                 "Femei",
                 ""
               ]
@@ -44,14 +44,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban/Men",
+                "Urban/Bărbați",
                 "Rural/men",
-                "Urban/Women",
-                "Rural/Women",
+                "Urban/Femei",
+                "Rural/Femei",
                 ""
               ]
             },
-            "title": "Area of residence/Sex"
+            "title": "Mediul de reședință/Sex"
           },
           {
             "name": "Age group/sex",

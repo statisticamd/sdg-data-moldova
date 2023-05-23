@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Type of aid",
             "type": "string",
             "constraints": {
               "enum": [
-                "Social aid",
+                "Ajutor social",
                 "Cold period",
                 ""
               ]
             },
-            "title": "Type of aid"
+            "title": "Tipul de prestație"
           },
           {
             "name": "Area of residence (social assistance) ",

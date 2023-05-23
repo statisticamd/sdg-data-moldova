@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary incomplete",
-                "Secondary",
-                "Secondary specialized",
-                "Higher",
+                "Medii incomplete",
+                "Secundare",
+                "Mediu de specialitate",
+                "Superior",
                 ""
               ]
             },
@@ -46,26 +46,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Central public authorities",
-                "Local public authorities",
-                "Tax inspectorates",
-                "Customs",
-                "Police",
-                "Prosecution",
-                "Courts",
-                "Educational institutions",
-                "Medical institutions",
-                "Civil status offices",
-                "Passport offices",
-                "Communal services",
-                "Fire inspections",
-                "Notary offices",
-                "Transport registration and driver qualification",
-                "Technical overhaul of cars",
+                "Autorități publice centrale",
+                "Autorități publice locale",
+                "Inspectoratele fiscale",
+                "Vama",
+                "Poliția",
+                "Procuratura",
+                "Instanțele de judecată",
+                "Instituțiile de învățământ",
+                "Instituțiile medicale",
+                "Oficiile stării civile",
+                "Birourile de pașapoarte",
+                "Serviciile comunale",
+                "Inspecțiile antiincendiare",
+                "Birourile notariale",
+                "Înregistrarea transportului și calificarea conducătorilor auto",
+                "Revizia tehnică a automobilelor",
                 ""
               ]
             },
-            "title": "Institutions where have been made payments"
+            "title": "Instituțiile unde s-au efectuat plăți"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -44,12 +44,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "25-64 / Both sexes",
-                "25-64 / Men",
-                "25-64 / Women",
+                "15-24 / Ambele sexe",
+                "15-24 / Bărbați",
+                "15-24 / Femei",
+                "25-64 / Ambele sexe",
+                "25-64 / Bărbați",
+                "25-64 / Femei",
                 ""
               ]
             },

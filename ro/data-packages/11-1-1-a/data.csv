@@ -1,4 +1,4 @@
-Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,Existence of disability,Value
+Year,Mediul de reședință,Sex,Grupa de vârstă,Chintile pe cheltuielile de consum,Existența dizabilității,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
@@ -15,8 +15,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2010,,,,III,,
 2010,,,,IV,,
 2010,,,,V,,
-2010,,,,,People with disability,
-2010,,,,,People without disability,
+2010,,,,,Persoane cu dizabilitate,
+2010,,,,,Persoane fără dizabilitate,
 2011,,,,,,
 2011,Urban,,,,,
 2011,Rural,,,,,
@@ -33,8 +33,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2011,,,,III,,
 2011,,,,IV,,
 2011,,,,V,,
-2011,,,,,People with disability,
-2011,,,,,People without disability,
+2011,,,,,Persoane cu dizabilitate,
+2011,,,,,Persoane fără dizabilitate,
 2012,,,,,,
 2012,Urban,,,,,
 2012,Rural,,,,,
@@ -51,8 +51,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2012,,,,III,,
 2012,,,,IV,,
 2012,,,,V,,
-2012,,,,,People with disability,
-2012,,,,,People without disability,
+2012,,,,,Persoane cu dizabilitate,
+2012,,,,,Persoane fără dizabilitate,
 2013,,,,,,
 2013,Urban,,,,,
 2013,Rural,,,,,
@@ -69,8 +69,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2013,,,,III,,
 2013,,,,IV,,
 2013,,,,V,,
-2013,,,,,People with disability,
-2013,,,,,People without disability,
+2013,,,,,Persoane cu dizabilitate,
+2013,,,,,Persoane fără dizabilitate,
 2014,,,,,,19.6
 2014,Urban,,,,,22.6
 2014,Rural,,,,,17.5
@@ -87,8 +87,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2014,,,,III,,20.0
 2014,,,,IV,,22.1
 2014,,,,V,,25.7
-2014,,,,,People with disability,23.1
-2014,,,,,People without disability,19.4
+2014,,,,,Persoane cu dizabilitate,23.1
+2014,,,,,Persoane fără dizabilitate,19.4
 2015,,,,,,17.4
 2015,Urban,,,,,19.2
 2015,Rural,,,,,16.1
@@ -105,8 +105,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2015,,,,III,,17.0
 2015,,,,IV,,19.5
 2015,,,,V,,23.8
-2015,,,,,People with disability,23.2
-2015,,,,,People without disability,16.9
+2015,,,,,Persoane cu dizabilitate,23.2
+2015,,,,,Persoane fără dizabilitate,16.9
 2016,,,,,,17.2
 2016,Urban,,,,,19.3
 2016,Rural,,,,,15.8
@@ -123,8 +123,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2016,,,,III,,17.9
 2016,,,,IV,,19.6
 2016,,,,V,,20.4
-2016,,,,,People with disability,22.2
-2016,,,,,People without disability,16.8
+2016,,,,,Persoane cu dizabilitate,22.2
+2016,,,,,Persoane fără dizabilitate,16.8
 2017,,,,,,16.4
 2017,Urban,,,,,19.1
 2017,Rural,,,,,14.5
@@ -141,8 +141,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2017,,,,III,,16.5
 2017,,,,IV,,20.1
 2017,,,,V,,21.5
-2017,,,,,People with disability,20.4
-2017,,,,,People without disability,15.9
+2017,,,,,Persoane cu dizabilitate,20.4
+2017,,,,,Persoane fără dizabilitate,15.9
 2018,,,,,,15.7
 2018,Urban,,,,,17.5
 2018,Rural,,,,,14.5
@@ -159,8 +159,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2018,,,,III,,14.5
 2018,,,,IV,,18.2
 2018,,,,V,,20.2
-2018,,,,,People with disability,19.4
-2018,,,,,People without disability,15.4
+2018,,,,,Persoane cu dizabilitate,19.4
+2018,,,,,Persoane fără dizabilitate,15.4
 2019,,,,,,11.5
 2019,Urban,,,,,12.2
 2019,Rural,,,,,11.0
@@ -177,8 +177,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2019,,,,III,,13.0
 2019,,,,IV,,12.3
 2019,,,,V,,15.4
-2019,,,,,People with disability,12.9
-2019,,,,,People without disability,11.3
+2019,,,,,Persoane cu dizabilitate,12.9
+2019,,,,,Persoane fără dizabilitate,11.3
 2020,,,,,,10.7
 2020,Urban,,,,,11.7
 2020,Rural,,,,,10.0
@@ -195,8 +195,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2020,,,,III,,10.3
 2020,,,,IV,,13.6
 2020,,,,V,,14.7
-2020,,,,,People with disability,14.2
-2020,,,,,People without disability,10.4
+2020,,,,,Persoane cu dizabilitate,14.2
+2020,,,,,Persoane fără dizabilitate,10.4
 2021,,,,,,9.6
 2021,Urban,,,,,9.9
 2021,Rural,,,,,9.3
@@ -213,8 +213,8 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2021,,,,III,,9.8
 2021,,,,IV,,14.6
 2021,,,,V,,11.0
-2021,,,,,People with disability,13.2
-2021,,,,,People without disability,9.3
+2021,,,,,Persoane cu dizabilitate,13.2
+2021,,,,,Persoane fără dizabilitate,9.3
 2022,,,,,,10.1
 2022,Urban,,,,,9.9
 2022,Rural,,,,,10.2
@@ -231,5 +231,5 @@ Year,Mediul de reședință,Sex,Age group,Quintiles on consumption expenditures,
 2022,,,,III,,11.1
 2022,,,,IV,,11.5
 2022,,,,V,,14.2
-2022,,,,,People with disability,13.4
-2022,,,,,People without disability,9.8
+2022,,,,,Persoane cu dizabilitate,13.4
+2022,,,,,Persoane fără dizabilitate,9.8

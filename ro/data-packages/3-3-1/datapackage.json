@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -40,20 +40,20 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "High-risk population categories",
             "type": "string",
             "constraints": {
               "enum": [
-                "Injecting drug users",
-                "Commercial sex worker",
-                "Men who have sex with men",
+                "Utilizatori de droguri injectabile",
+                "Lucrători ale sexului comercial",
+                "Bărbaţi care practică sex cu bărbaţii",
                 ""
               ]
             },
-            "title": "High-risk population categories"
+            "title": "Categorii de populație cu risc sporit"
           },
           {
             "name": "Value",

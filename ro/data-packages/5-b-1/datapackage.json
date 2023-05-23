@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -53,14 +53,14 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Higher",
+                "Superior",
                 "Vocational",
                 "General secondary",
                 "Primary or less",
@@ -75,14 +75,14 @@
             "constraints": {
               "enum": [
                 "Employees",
-                "Self-employers in agriculture",
+                "Lucrători pe cont propriu in agricultură",
                 "Self-employers in non-agricultural activities",
-                "Pensioners",
-                "Others",
+                "Pensionari",
+                "Alții",
                 ""
               ]
             },
-            "title": "Employment status"
+            "title": "Statutul ocupațional"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Reported on a person, by sources",
@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Auto",
-                "Railway",
-                "Air",
+                "Feroviar",
+                "Aerian",
                 ""
               ]
             },
@@ -33,12 +33,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon monoxide",
-                "Nitrogen dioxide",
-                "Sulphur dioxide",
-                "Hydrocarbs",
+                "Oxid de carbon",
+                "Dioxid de azot",
+                "Dioxid de sulf",
+                "Hidrocarburi",
                 "Aldehydes",
-                "Solids",
+                "Substanțe solide",
                 ""
               ]
             },
@@ -61,8 +61,8 @@
             "constraints": {
               "enum": [
                 "Auto",
-                "Railway",
-                "Air",
+                "Feroviar",
+                "Aerian",
                 ""
               ]
             },
@@ -73,12 +73,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon monoxide",
-                "Nitrogen dioxide",
-                "Sulphur dioxide",
-                "Hydrocarbs",
+                "Oxid de carbon",
+                "Dioxid de azot",
+                "Dioxid de sulf",
+                "Hidrocarburi",
                 "Aldehydes",
-                "Solids",
+                "Substanțe solide",
                 ""
               ]
             },

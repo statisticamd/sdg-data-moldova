@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary",
-                "Secondary specialized",
-                "Higher",
+                "Secundare",
+                "Mediu de specialitate",
+                "Superior",
                 ""
               ]
             },
@@ -45,22 +45,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tax inspectorates",
-                "Customs",
-                "Police",
-                "Prosecution",
-                "Sanitary-epidemiological inspections",
-                "Cadastral offices / services",
-                "Courts",
-                "Public procurement",
-                "Registration of the transport and issuance of the driving license",
-                "Technical overhaul of cars",
-                "Issuing construction permits",
-                "Work inspection",
+                "Inspectoratele fiscale",
+                "Vama",
+                "Poliția",
+                "Procuratura",
+                "Inspecțiile sanitar-epidemiologice",
+                "Birourile/serviciile cadastrale",
+                "Instanțele de judecată",
+                "Achizițiile publice",
+                "Înregistrarea transportului și eliberarea permisului de conducere",
+                "Revizia tehnică a automobilelor",
+                "Eliberarea autorizațiilor de construcție",
+                "Inspecția muncii",
                 ""
               ]
             },
-            "title": "Institutions where have been made payments"
+            "title": "Instituțiile unde s-au efectuat plăți"
           },
           {
             "name": "Value",

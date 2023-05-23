@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Sex",
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public",
-                "Other",
+                "Publică",
+                "Alte",
                 ""
               ]
             },
-            "title": "Forms of ownership"
+            "title": "Forme de proprietate"
           },
           {
             "name": "Value",

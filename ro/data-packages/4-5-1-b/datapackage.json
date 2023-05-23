@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Anul"
           },
           {
             "name": "Area of residence",
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Sexes"
+            "title": "Sexe"
           },
           {
             "name": "Value",
