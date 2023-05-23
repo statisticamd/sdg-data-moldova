@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 10.7.2.1: Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people</p>
+  <p>Indicator 10.7.2.1: Existence of efficient national policies on migration</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 10.7: Facilitate orderly, safe, regular and responsible migration and mobility of  people, including through the implementation of planned and well-managed  migration policies</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  DESA Population Division, International Organisation for Migration
+  DESA Population Division,IOM
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -41,7 +41,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Ministry of Labour and Social Protection</p> 
+  <p> 1.Ministry of  Labour and Social Protection</p> 
   <p>  2.Bureau for Migration  and Asylum</p> 
   <p>  3.General Inspectorate of Border Police </p>
 COMPILING_ORG: ''
@@ -71,6 +71,6 @@ source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
 source_contact_1: >-
+  migratie.mai@gov.md
 source_other_info_1: >-

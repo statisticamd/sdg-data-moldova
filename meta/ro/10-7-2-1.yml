@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 10.7.2.1: Numărul țărilor cu politici naționale eficiente privind migrația, care facilitează migrația și mobilitatea reglementată, în siguranță, ordonată și responsabilă a populației</p>
+  <p>Indicator 10.7.2.1: Existența de politici naționale eficiente privind migrația</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 10.7: Facilitarea migrației și mobilității ordonate, sigure, reglementate și  responsabile a persoanelor, inclusiv prin implementarea unor politici de  migrație planificate și bine gestionate</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  DESA Population Division, Organizația Internațională a Migrației
+  DESA Population Division,IOM
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -41,7 +41,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Ministerul Muncii și Protecției Sociale</p> 
+  <p> 1) Ministerul  Muncii și Protecției Sociale</p> 
   <p>  2) Biroul Migrație  și Azil</p> 
   <p>  3) Inspectoratul General Poliția de Frontieră </p>
 COMPILING_ORG: ''
@@ -68,9 +68,9 @@ source_organisation_1: >-
   <p> 1) Reprezentanța permanentă a Republicii Moldova pe lângă oficiul ONU din  Geneva </p> 
   <p>  2) Departamentul Afaceri Economice și Sociale al ONU  (Departamentul Afaceri Economice și Sociale al ONU (UNDESA)) </p>
 source_periodicity_1: >-
-  O dată la 2 ani
+  o dată la 2 ani
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
 source_contact_1: >-
+  migratie.mai@gov.md
 source_other_info_1: >-
