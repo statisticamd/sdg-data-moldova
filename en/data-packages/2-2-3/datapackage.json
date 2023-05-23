@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-17 years",
+                "18-49 years",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North ",
+                "Centre",
+                "South",
+                "Mun. Chisinau",
+                "ATU Gagauzia",
+                ""
+              ]
+            },
+            "title": "Regions"
           },
           {
             "name": "Value",

@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-17 years",
+                "18-49 years",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North ",
+                "Centre",
+                "Sud",
+                "Mun. Chișinău",
+                "UTA Găgăuzia",
+                ""
+              ]
+            },
+            "title": "Regiuni"
           },
           {
             "name": "Value",
