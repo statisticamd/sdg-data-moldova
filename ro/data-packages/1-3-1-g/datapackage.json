@@ -34,8 +34,8 @@
               "enum": [
                 "Urban",
                 "Rural",
-                "Women",
-                "Men",
+                "Femei",
+                "Bărbați",
                 ""
               ]
             },

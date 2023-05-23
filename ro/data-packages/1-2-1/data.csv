@@ -1,9 +1,9 @@
-Year,Area of residence,Sex,Age group,Value
+Year,Mediul de reședință,Sex,Age group,Value
 2010,,,,
 2010,Urban,,,
 2010,Rural,,,
-2010,,Men,,
-2010,,Women,,
+2010,,Bărbați,,
+2010,,Femei,,
 2010,,,0-17,
 2010,,,18-29,
 2010,,,30-39,
@@ -13,8 +13,8 @@ Year,Area of residence,Sex,Age group,Value
 2011,,,,
 2011,Urban,,,
 2011,Rural,,,
-2011,,Men,,
-2011,,Women,,
+2011,,Bărbați,,
+2011,,Femei,,
 2011,,,0-17,
 2011,,,18-29,
 2011,,,30-39,
@@ -24,8 +24,8 @@ Year,Area of residence,Sex,Age group,Value
 2012,,,,
 2012,Urban,,,
 2012,Rural,,,
-2012,,Men,,
-2012,,Women,,
+2012,,Bărbați,,
+2012,,Femei,,
 2012,,,0-17,
 2012,,,18-29,
 2012,,,30-39,
@@ -35,8 +35,8 @@ Year,Area of residence,Sex,Age group,Value
 2013,,,,
 2013,Urban,,,
 2013,Rural,,,
-2013,,Men,,
-2013,,Women,,
+2013,,Bărbați,,
+2013,,Femei,,
 2013,,,0-17,
 2013,,,18-29,
 2013,,,30-39,
@@ -46,8 +46,8 @@ Year,Area of residence,Sex,Age group,Value
 2014,,,,29.5
 2014,Urban,,,15.6
 2014,Rural,,,39.5
-2014,,Men,,30.4
-2014,,Women,,28.7
+2014,,Bărbați,,30.4
+2014,,Femei,,28.7
 2014,,,0-17,32.9
 2014,,,18-29,25.4
 2014,,,30-39,29.1
@@ -57,8 +57,8 @@ Year,Area of residence,Sex,Age group,Value
 2015,,,,25.4
 2015,Urban,,,11.2
 2015,Rural,,,35.6
-2015,,Men,,26.5
-2015,,Women,,24.4
+2015,,Bărbați,,26.5
+2015,,Femei,,24.4
 2015,,,0-17,27.7
 2015,,,18-29,22.6
 2015,,,30-39,22.4
@@ -68,8 +68,8 @@ Year,Area of residence,Sex,Age group,Value
 2016,,,,26.4
 2016,Urban,,,11.6
 2016,Rural,,,37.1
-2016,,Men,,26.8
-2016,,Women,,26.1
+2016,,Bărbați,,26.8
+2016,,Femei,,26.1
 2016,,,0-17,28.7
 2016,,,18-29,20.9
 2016,,,30-39,22.9
@@ -79,8 +79,8 @@ Year,Area of residence,Sex,Age group,Value
 2017,,,,27.7
 2017,Urban,,,11.8
 2017,Rural,,,38.8
-2017,,Men,,28.8
-2017,,Women,,26.7
+2017,,Bărbați,,28.8
+2017,,Femei,,26.7
 2017,,,0-17,30.9
 2017,,,18-29,26.1
 2017,,,30-39,22.3
@@ -90,8 +90,8 @@ Year,Area of residence,Sex,Age group,Value
 2018,,,,23.0
 2018,Urban,,,10.6
 2018,Rural,,,31.5
-2018,,Men,,23.3
-2018,,Women,,22.6
+2018,,Bărbați,,23.3
+2018,,Femei,,22.6
 2018,,,0-17,24.4
 2018,,,18-29,21.5
 2018,,,30-39,20.3
@@ -101,8 +101,8 @@ Year,Area of residence,Sex,Age group,Value
 2019,,,,25.2
 2019,Urban,,,11.2
 2019,Rural,,,34.5
-2019,,Men,,24.8
-2019,,Women,,25.6
+2019,,Bărbați,,24.8
+2019,,Femei,,25.6
 2019,,,0-17,24.0
 2019,,,18-29,21.6
 2019,,,30-39,19.2
@@ -112,8 +112,8 @@ Year,Area of residence,Sex,Age group,Value
 2020,,,,26.8
 2020,Urban,,,14.0
 2020,Rural,,,35.3
-2020,,Men,,26.7
-2020,,Women,,26.9
+2020,,Bărbați,,26.7
+2020,,Femei,,26.9
 2020,,,0-17,26.0
 2020,,,18-29,21.6
 2020,,,30-39,21.2
@@ -123,8 +123,8 @@ Year,Area of residence,Sex,Age group,Value
 2021,,,,24.5
 2021,Urban,,,11.9
 2021,Rural,,,32.8
-2021,,Men,,24.3
-2021,,Women,,24.7
+2021,,Bărbați,,24.3
+2021,,Femei,,24.7
 2021,,,0-17,24.4
 2021,,,18-29,18.1
 2021,,,30-39,19.6
@@ -134,8 +134,8 @@ Year,Area of residence,Sex,Age group,Value
 2022,,,,31.1
 2022,Urban,,,17.1
 2022,Rural,,,40.3
-2022,,Men,,30.8
-2022,,Women,,31.4
+2022,,Bărbați,,30.8
+2022,,Femei,,31.4
 2022,,,0-17,28.4
 2022,,,18-29,23.6
 2022,,,30-39,23.1

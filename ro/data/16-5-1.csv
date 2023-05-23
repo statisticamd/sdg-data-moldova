@@ -1,7 +1,7 @@
 Year,Sex,Level of studies,Institutions where have been made payments,Value
 2010,,,,
-2010,Men,,,
-2010,Women,,,
+2010,Bărbați,,,
+2010,Femei,,,
 2010,,Secondary incomplete,,
 2010,,Secondary,,
 2010,,Secondary specialized,,
@@ -23,8 +23,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2010,,,Transport registration and driver qualification,
 2010,,,Technical overhaul of cars,
 2011,,,,
-2011,Men,,,
-2011,Women,,,
+2011,Bărbați,,,
+2011,Femei,,,
 2011,,Secondary incomplete,,
 2011,,Secondary,,
 2011,,Secondary specialized,,
@@ -46,8 +46,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2011,,,Transport registration and driver qualification,
 2011,,,Technical overhaul of cars,
 2012,,,,37.2
-2012,Men,,,
-2012,Women,,,
+2012,Bărbați,,,
+2012,Femei,,,
 2012,,Secondary incomplete,,
 2012,,Secondary,,
 2012,,Secondary specialized,,
@@ -69,8 +69,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2012,,,Transport registration and driver qualification,1.4
 2012,,,Technical overhaul of cars,3.1
 2013,,,,
-2013,Men,,,
-2013,Women,,,
+2013,Bărbați,,,
+2013,Femei,,,
 2013,,Secondary incomplete,,
 2013,,Secondary,,
 2013,,Secondary specialized,,
@@ -92,8 +92,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2013,,,Transport registration and driver qualification,
 2013,,,Technical overhaul of cars,
 2014,,,,34.2
-2014,Men,,,
-2014,Women,,,
+2014,Bărbați,,,
+2014,Femei,,,
 2014,,Secondary incomplete,,
 2014,,Secondary,,
 2014,,Secondary specialized,,
@@ -115,8 +115,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2014,,,Transport registration and driver qualification,2.0
 2014,,,Technical overhaul of cars,3.5
 2015,,,,29.4
-2015,Men,,,31.2
-2015,Women,,,28.0
+2015,Bărbați,,,31.2
+2015,Femei,,,28.0
 2015,,Secondary incomplete,,23.6
 2015,,Secondary,,28.7
 2015,,Secondary specialized,,25.0
@@ -138,8 +138,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2015,,,Transport registration and driver qualification,2.1
 2015,,,Technical overhaul of cars,2.7
 2016,,,,
-2016,Men,,,
-2016,Women,,,
+2016,Bărbați,,,
+2016,Femei,,,
 2016,,Secondary incomplete,,
 2016,,Secondary,,
 2016,,Secondary specialized,,
@@ -161,8 +161,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2016,,,Transport registration and driver qualification,
 2016,,,Technical overhaul of cars,
 2017,,,,
-2017,Men,,,
-2017,Women,,,
+2017,Bărbați,,,
+2017,Femei,,,
 2017,,Secondary incomplete,,
 2017,,Secondary,,
 2017,,Secondary specialized,,
@@ -184,8 +184,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2017,,,Transport registration and driver qualification,
 2017,,,Technical overhaul of cars,
 2018,,,,19.5
-2018,Men,,,20.8
-2018,Women,,,18.5
+2018,Bărbați,,,20.8
+2018,Femei,,,18.5
 2018,,Secondary incomplete,,6.5
 2018,,Secondary,,17.4
 2018,,Secondary specialized,,19.7
@@ -207,8 +207,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2018,,,Transport registration and driver qualification,0.8
 2018,,,Technical overhaul of cars,3.5
 2019,,,,
-2019,Men,,,
-2019,Women,,,
+2019,Bărbați,,,
+2019,Femei,,,
 2019,,Secondary incomplete,,
 2019,,Secondary,,
 2019,,Secondary specialized,,
@@ -230,8 +230,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2019,,,Transport registration and driver qualification,
 2019,,,Technical overhaul of cars,
 2020,,,,
-2020,Men,,,
-2020,Women,,,
+2020,Bărbați,,,
+2020,Femei,,,
 2020,,Secondary incomplete,,
 2020,,Secondary,,
 2020,,Secondary specialized,,
@@ -253,8 +253,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2020,,,Transport registration and driver qualification,
 2020,,,Technical overhaul of cars,
 2021,,,,
-2021,Men,,,
-2021,Women,,,
+2021,Bărbați,,,
+2021,Femei,,,
 2021,,Secondary incomplete,,
 2021,,Secondary,,
 2021,,Secondary specialized,,
@@ -276,8 +276,8 @@ Year,Sex,Level of studies,Institutions where have been made payments,Value
 2021,,,Transport registration and driver qualification,
 2021,,,Technical overhaul of cars,
 2022,,,,
-2022,Men,,,
-2022,Women,,,
+2022,Bărbați,,,
+2022,Femei,,,
 2022,,Secondary incomplete,,
 2022,,Secondary,,
 2022,,Secondary specialized,,

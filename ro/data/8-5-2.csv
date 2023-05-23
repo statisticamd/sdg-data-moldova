@@ -1,7 +1,7 @@
 Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2010,,,,,
-2010,Men,,,,
-2010,Women,,,,
+2010,Bărbați,,,,
+2010,Femei,,,,
 2010,,15-24,,,
 2010,,25-34,,,
 2010,,35-44,,,
@@ -15,8 +15,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2010,,,,Lower secondary (gymnasium),
 2010,,,,Primary or no education,
 2011,,,,,
-2011,Men,,,,
-2011,Women,,,,
+2011,Bărbați,,,,
+2011,Femei,,,,
 2011,,15-24,,,
 2011,,25-34,,,
 2011,,35-44,,,
@@ -30,8 +30,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2011,,,,Lower secondary (gymnasium),
 2011,,,,Primary or no education,
 2012,,,,,
-2012,Men,,,,
-2012,Women,,,,
+2012,Bărbați,,,,
+2012,Femei,,,,
 2012,,15-24,,,
 2012,,25-34,,,
 2012,,35-44,,,
@@ -45,8 +45,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2012,,,,Lower secondary (gymnasium),
 2012,,,,Primary or no education,
 2013,,,,,
-2013,Men,,,,
-2013,Women,,,,
+2013,Bărbați,,,,
+2013,Femei,,,,
 2013,,15-24,,,
 2013,,25-34,,,
 2013,,35-44,,,
@@ -60,8 +60,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2013,,,,Lower secondary (gymnasium),
 2013,,,,Primary or no education,
 2014,,,,,3.7
-2014,Men,,,,4.5
-2014,Women,,,,2.9
+2014,Bărbați,,,,4.5
+2014,Femei,,,,2.9
 2014,,15-24,,,9.3
 2014,,25-34,,,4.6
 2014,,35-44,,,4.0
@@ -75,8 +75,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2014,,,,Lower secondary (gymnasium),3.6
 2014,,,,Primary or no education,1.5
 2015,,,,,4.7
-2015,Men,,,,5.9
-2015,Women,,,,3.4
+2015,Bărbați,,,,5.9
+2015,Femei,,,,3.4
 2015,,15-24,,,12.3
 2015,,25-34,,,6.4
 2015,,35-44,,,4.5
@@ -90,8 +90,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2015,,,,Lower secondary (gymnasium),6.2
 2015,,,,Primary or no education,3.9
 2016,,,,,4.0
-2016,Men,,,,5.2
-2016,Women,,,,2.7
+2016,Bărbați,,,,5.2
+2016,Femei,,,,2.7
 2016,,15-24,,,11.0
 2016,,25-34,,,5.2
 2016,,35-44,,,3.7
@@ -105,8 +105,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2016,,,,Lower secondary (gymnasium),4.1
 2016,,,,Primary or no education,4.9
 2017,,,,,3.9
-2017,Men,,,,4.5
-2017,Women,,,,3.2
+2017,Bărbați,,,,4.5
+2017,Femei,,,,3.2
 2017,,15-24,,,11.9
 2017,,25-34,,,5.0
 2017,,35-44,,,3.8
@@ -120,8 +120,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2017,,,,Lower secondary (gymnasium),4.0
 2017,,,,Primary or no education,4.0
 2018,,,,,2.9
-2018,Men,,,,3.4
-2018,Women,,,,2.4
+2018,Bărbați,,,,3.4
+2018,Femei,,,,2.4
 2018,,15-24,,,7.1
 2018,,25-34,,,4.3
 2018,,35-44,,,2.3
@@ -135,8 +135,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2018,,,,Lower secondary (gymnasium),2.7
 2018,,,,Primary or no education,7.0
 2019,,,,,5.1
-2019,Men,,,,5.8
-2019,Women,,,,4.4
+2019,Bărbați,,,,5.8
+2019,Femei,,,,4.4
 2019,,15-24,,,10.4
 2019,,25-34,,,5.8
 2019,,35-44,,,5.3
@@ -150,8 +150,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2019,,,,Lower secondary (gymnasium),8.3
 2019,,,,Primary or no education,13.3
 2020,,,,,3.8
-2020,Men,,,,4.3
-2020,Women,,,,3.2
+2020,Bărbați,,,,4.3
+2020,Femei,,,,3.2
 2020,,15-24,,,10.9
 2020,,25-34,,,3.7
 2020,,35-44,,,3.8
@@ -165,8 +165,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2020,,,,Lower secondary (gymnasium),5.6
 2020,,,,Primary or no education,21.0
 2021,,,,,3.2
-2021,Men,,,,3.8
-2021,Women,,,,2.5
+2021,Bărbați,,,,3.8
+2021,Femei,,,,2.5
 2021,,15-24,,,9.2
 2021,,25-34,,,2.9
 2021,,35-44,,,3.1
@@ -180,8 +180,8 @@ Year,Sex,Age group,Persons with disabilities,Education levels ,Value
 2021,,,,Lower secondary (gymnasium),4.1
 2021,,,,Primary or no education,8.5
 2022,,,,,3.1
-2022,Men,,,,3.5
-2022,Women,,,,2.6
+2022,Bărbați,,,,3.5
+2022,Femei,,,,2.6
 2022,,15-24,,,10.7
 2022,,25-34,,,2.5
 2022,,35-44,,,2.9

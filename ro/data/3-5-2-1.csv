@@ -1,7 +1,7 @@
-Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
+Year,Sex,Mediul de reședință,Area of residence/Sex,Age group/sex,Value
 2010,,,,,
 2010,men,,,,
-2010,Women,,,,
+2010,Femei,,,,
 2010,,Urban,,,
 2010,,Rural,,,
 2010,,,Urban/Men,,
@@ -18,7 +18,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2010,,,,45-49/Women,
 2011,,,,,
 2011,men,,,,
-2011,Women,,,,
+2011,Femei,,,,
 2011,,Urban,,,
 2011,,Rural,,,
 2011,,,Urban/Men,,
@@ -35,7 +35,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2011,,,,45-49/Women,
 2012,,,,,68.5
 2012,men,,,,80.0
-2012,Women,,,,57.0
+2012,Femei,,,,57.0
 2012,,Urban,,,
 2012,,Rural,,,
 2012,,,Urban/Men,,78.0
@@ -52,7 +52,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2012,,,,45-49/Women,59.8
 2013,,,,,61.9
 2013,men,,,,69.8
-2013,Women,,,,53.5
+2013,Femei,,,,53.5
 2013,,Urban,,,59.0
 2013,,Rural,,,64.5
 2013,,,Urban/Men,,
@@ -69,7 +69,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2013,,,,45-49/Women,
 2014,,,,,
 2014,men,,,,
-2014,Women,,,,
+2014,Femei,,,,
 2014,,Urban,,,
 2014,,Rural,,,
 2014,,,Urban/Men,,
@@ -86,7 +86,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2014,,,,45-49/Women,
 2015,,,,,
 2015,men,,,,
-2015,Women,,,,
+2015,Femei,,,,
 2015,,Urban,,,
 2015,,Rural,,,
 2015,,,Urban/Men,,
@@ -103,7 +103,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2015,,,,45-49/Women,
 2016,,,,,
 2016,men,,,,
-2016,Women,,,,
+2016,Femei,,,,
 2016,,Urban,,,
 2016,,Rural,,,
 2016,,,Urban/Men,,
@@ -120,7 +120,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2016,,,,45-49/Women,
 2017,,,,,61.0
 2017,men,,,,75.8
-2017,Women,,,,49.5
+2017,Femei,,,,49.5
 2017,,Urban,,,61.3
 2017,,Rural,,,60.6
 2017,,,Urban/Men,,
@@ -137,7 +137,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2017,,,,45-49/Women,
 2018,,,,,
 2018,men,,,,
-2018,Women,,,,
+2018,Femei,,,,
 2018,,Urban,,,
 2018,,Rural,,,
 2018,,,Urban/Men,,
@@ -154,7 +154,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2018,,,,45-49/Women,
 2019,,,,,
 2019,men,,,,
-2019,Women,,,,
+2019,Femei,,,,
 2019,,Urban,,,
 2019,,Rural,,,
 2019,,,Urban/Men,,
@@ -171,7 +171,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2019,,,,45-49/Women,
 2020,,,,,
 2020,men,,,,
-2020,Women,,,,
+2020,Femei,,,,
 2020,,Urban,,,
 2020,,Rural,,,
 2020,,,Urban/Men,,
@@ -188,7 +188,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2020,,,,45-49/Women,
 2021,,,,,63.2
 2021,men,,,,73.1
-2021,Women,,,,53.2
+2021,Femei,,,,53.2
 2021,,Urban,,,68.2
 2021,,Rural,,,57.8
 2021,,,Urban/Men,,
@@ -205,7 +205,7 @@ Year,Sex,Area of residence,Area of residence/Sex,Age group/sex,Value
 2021,,,,45-49/Women,
 2022,,,,,
 2022,men,,,,
-2022,Women,,,,
+2022,Femei,,,,
 2022,,Urban,,,
 2022,,Rural,,,
 2022,,,Urban/Men,,

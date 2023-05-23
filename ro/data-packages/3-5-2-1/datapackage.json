@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "men",
-                "Women",
+                "Femei",
                 ""
               ]
             },
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Area of residence/Sex",

@@ -5,8 +5,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2010,Russians,,,,,,,,,,
 2010,Jews,,,,,,,,,,
 2010,Ukrainians,,,,,,,,,,
-2010,,Men,,,,,,,,,20526.0
-2010,,Women,,,,,,,,,2481.0
+2010,,Bărbați,,,,,,,,,20526.0
+2010,,Femei,,,,,,,,,2481.0
 2010,,,0-17,,,,,,,,1487.0
 2010,,,18+,,,,,,,,21520.0
 2010,,,, ,,,,,,,
@@ -40,8 +40,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2011,Russians,,,,,,,,,,
 2011,Jews,,,,,,,,,,
 2011,Ukrainians,,,,,,,,,,
-2011,,Men,,,,,,,,,24998.0
-2011,,Women,,,,,,,,,2549.0
+2011,,Bărbați,,,,,,,,,24998.0
+2011,,Femei,,,,,,,,,2549.0
 2011,,,0-17,,,,,,,,1344.0
 2011,,,18+,,,,,,,,26203.0
 2011,,,, ,,,,,,,
@@ -75,8 +75,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2012,Russians,,,,,,,,,,
 2012,Jews,,,,,,,,,,
 2012,Ukrainians,,,,,,,,,,
-2012,,Men,,,,,,,,,30954.0
-2012,,Women,,,,,,,,,3236.0
+2012,,Bărbați,,,,,,,,,30954.0
+2012,,Femei,,,,,,,,,3236.0
 2012,,,0-17,,,,,,,,2021.0
 2012,,,18+,,,,,,,,32169.0
 2012,,,, ,,,,,,,
@@ -110,8 +110,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2013,Russians,,,,,,,,,,19.0
 2013,Jews,,,,,,,,,,1.0
 2013,Ukrainians,,,,,,,,,,11.0
-2013,,Men,,,,,,,,,32905.0
-2013,,Women,,,,,,,,,4102.0
+2013,,Bărbați,,,,,,,,,32905.0
+2013,,Femei,,,,,,,,,4102.0
 2013,,,0-17,,,,,,,,2310.0
 2013,,,18+,,,,,,,,34697.0
 2013,,,, ,,,,,,,4.0
@@ -145,8 +145,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2014,Russians,,,,,,,,,,80.0
 2014,Jews,,,,,,,,,,0.0
 2014,Ukrainians,,,,,,,,,,42.0
-2014,,Men,,,,,,,,,38087.0
-2014,,Women,,,,,,,,,5060.0
+2014,,Bărbați,,,,,,,,,38087.0
+2014,,Femei,,,,,,,,,5060.0
 2014,,,0-17,,,,,,,,2679.0
 2014,,,18+,,,,,,,,40468.0
 2014,,,, ,,,,,,,5.0
@@ -180,8 +180,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2015,Russians,,,,,,,,,,12.0
 2015,Jews,,,,,,,,,,0.0
 2015,Ukrainians,,,,,,,,,,12.0
-2015,,Men,,,,,,,,,38947.0
-2015,,Women,,,,,,,,,5033.0
+2015,,Bărbați,,,,,,,,,38947.0
+2015,,Femei,,,,,,,,,5033.0
 2015,,,0-17,,,,,,,,2472.0
 2015,,,18+,,,,,,,,41508.0
 2015,,,, ,,,,,,,1.0
@@ -215,8 +215,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2016,Russians,,,,,,,,,,1.0
 2016,Jews,,,,,,,,,,0.0
 2016,Ukrainians,,,,,,,,,,1.0
-2016,,Men,,,,,,,,,43940.0
-2016,,Women,,,,,,,,,5620.0
+2016,,Bărbați,,,,,,,,,43940.0
+2016,,Femei,,,,,,,,,5620.0
 2016,,,0-17,,,,,,,,2801.0
 2016,,,18+,,,,,,,,46759.0
 2016,,,, ,,,,,,,0.0
@@ -250,8 +250,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2017,Russians,,,,,,,,,,0.0
 2017,Jews,,,,,,,,,,0.0
 2017,Ukrainians,,,,,,,,,,0.0
-2017,,Men,,,,,,,,,47988.0
-2017,,Women,,,,,,,,,6613.0
+2017,,Bărbați,,,,,,,,,47988.0
+2017,,Femei,,,,,,,,,6613.0
 2017,,,0-17,,,,,,,,2864.0
 2017,,,18+,,,,,,,,51737.0
 2017,,,, ,,,,,,,1.0
@@ -285,8 +285,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2018,Russians,,,,,,,,,,3.0
 2018,Jews,,,,,,,,,,0.0
 2018,Ukrainians,,,,,,,,,,1.0
-2018,,Men,,,,,,,,,44080.0
-2018,,Women,,,,,,,,,5615.0
+2018,,Bărbați,,,,,,,,,44080.0
+2018,,Femei,,,,,,,,,5615.0
 2018,,,0-17,,,,,,,,2605.0
 2018,,,18+,,,,,,,,47090.0
 2018,,,, ,,,,,,,8.0
@@ -320,8 +320,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2019,Russians,,,,,,,,,,7.0
 2019,Jews,,,,,,,,,,0.0
 2019,Ukrainians,,,,,,,,,,5.0
-2019,,Men,,,,,,,,,42884.0
-2019,,Women,,,,,,,,,5631.0
+2019,,Bărbați,,,,,,,,,42884.0
+2019,,Femei,,,,,,,,,5631.0
 2019,,,0-17,,,,,,,,2403.0
 2019,,,18+,,,,,,,,46112.0
 2019,,,, ,,,,,,,52.0
@@ -355,8 +355,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2020,Russians,,,,,,,,,,412.0
 2020,Jews,,,,,,,,,,15.0
 2020,Ukrainians,,,,,,,,,,148.0
-2020,,Men,,,,,,,,,38662.0
-2020,,Women,,,,,,,,,5603.0
+2020,,Bărbați,,,,,,,,,38662.0
+2020,,Femei,,,,,,,,,5603.0
 2020,,,0-17,,,,,,,,2323.0
 2020,,,18+,,,,,,,,41942.0
 2020,,,, ,,,,,,,317.0
@@ -390,8 +390,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2021,Russians,,,,,,,,,,832.0
 2021,Jews,,,,,,,,,,38.0
 2021,Ukrainians,,,,,,,,,,356.0
-2021,,Men,,,,,,,,,41478.0
-2021,,Women,,,,,,,,,6512.0
+2021,,Bărbați,,,,,,,,,41478.0
+2021,,Femei,,,,,,,,,6512.0
 2021,,,0-17,,,,,,,,2213.0
 2021,,,18+,,,,,,,,45777.0
 2021,,,, ,,,,,,,279.0
@@ -425,8 +425,8 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2022,Russians,,,,,,,,,,841.0
 2022,Jews,,,,,,,,,,26.0
 2022,Ukrainians,,,,,,,,,,470.0
-2022,,Men,,,,,,,,,43566.0
-2022,,Women,,,,,,,,,6794.0
+2022,,Bărbați,,,,,,,,,43566.0
+2022,,Femei,,,,,,,,,6794.0
 2022,,,0-17,,,,,,,,2513.0
 2022,,,18+,,,,,,,,47847.0
 2022,,,, ,,,,,,,239.0

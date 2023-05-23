@@ -24,14 +24,14 @@
                 ""
               ]
             },
-            "title": "Area of residence"
+            "title": "Mediul de reședință"
           },
           {
             "name": "Sexes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
+                "Femei",
                 ""
               ]
             },

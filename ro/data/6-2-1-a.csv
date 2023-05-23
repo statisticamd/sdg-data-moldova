@@ -1,4 +1,4 @@
-Year,Area of residence,Statistical regions,Quintiles on consumption expenditures,Sex of the head of the household,Type of sewerage ,Value
+Year,Mediul de reședință,Statistical regions,Quintiles on consumption expenditures,Sex of the head of the household,Type of sewerage ,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
@@ -11,8 +11,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2010,,,III,,,
 2010,,,IV,,,
 2010,,,V,,,
-2010,,,,Men,,
-2010,,,,Women,,
+2010,,,,Bărbați,,
+2010,,,,Femei,,
 2010,,,,,Public network,
 2010,,,,,Own system,
 2011,,,,,,
@@ -27,8 +27,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2011,,,III,,,
 2011,,,IV,,,
 2011,,,V,,,
-2011,,,,Men,,
-2011,,,,Women,,
+2011,,,,Bărbați,,
+2011,,,,Femei,,
 2011,,,,,Public network,
 2011,,,,,Own system,
 2012,,,,,,
@@ -43,8 +43,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2012,,,III,,,
 2012,,,IV,,,
 2012,,,V,,,
-2012,,,,Men,,
-2012,,,,Women,,
+2012,,,,Bărbați,,
+2012,,,,Femei,,
 2012,,,,,Public network,
 2012,,,,,Own system,
 2013,,,,,,
@@ -59,8 +59,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2013,,,III,,,
 2013,,,IV,,,
 2013,,,V,,,
-2013,,,,Men,,
-2013,,,,Women,,
+2013,,,,Bărbați,,
+2013,,,,Femei,,
 2013,,,,,Public network,
 2013,,,,,Own system,
 2014,,,,,,62.8
@@ -75,8 +75,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2014,,,III,,,61.1
 2014,,,IV,,,79.5
 2014,,,V,,,87.2
-2014,,,,Men,,63.4
-2014,,,,Women,,61.4
+2014,,,,Bărbați,,63.4
+2014,,,,Femei,,61.4
 2014,,,,,Public network,32.3
 2014,,,,,Own system,30.4
 2015,,,,,,66.6
@@ -91,8 +91,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2015,,,III,,,65.4
 2015,,,IV,,,81.5
 2015,,,V,,,91.4
-2015,,,,Men,,67.1
-2015,,,,Women,,65.3
+2015,,,,Bărbați,,67.1
+2015,,,,Femei,,65.3
 2015,,,,,Public network,31.9
 2015,,,,,Own system,34.7
 2016,,,,,,67.1
@@ -107,8 +107,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2016,,,III,,,69.3
 2016,,,IV,,,79.5
 2016,,,V,,,90.8
-2016,,,,Men,,67.5
-2016,,,,Women,,66.2
+2016,,,,Bărbați,,67.5
+2016,,,,Femei,,66.2
 2016,,,,,Public network,33.3
 2016,,,,,Own system,33.7
 2017,,,,,,69.5
@@ -123,8 +123,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2017,,,III,,,71.3
 2017,,,IV,,,83.7
 2017,,,V,,,92.0
-2017,,,,Men,,70.0
-2017,,,,Women,,68.6
+2017,,,,Bărbați,,70.0
+2017,,,,Femei,,68.6
 2017,,,,,Public network,34.2
 2017,,,,,Own system,35.3
 2018,,,,,,72.3
@@ -139,8 +139,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2018,,,III,,,74.5
 2018,,,IV,,,83.2
 2018,,,V,,,92.0
-2018,,,,Men,,73.0
-2018,,,,Women,,71.0
+2018,,,,Bărbați,,73.0
+2018,,,,Femei,,71.0
 2018,,,,,Public network,35.3
 2018,,,,,Own system,37.0
 2019,,,,,,74.5
@@ -155,8 +155,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2019,,,III,,,77.9
 2019,,,IV,,,85.8
 2019,,,V,,,93.4
-2019,,,,Men,,75.8
-2019,,,,Women,,71.7
+2019,,,,Bărbați,,75.8
+2019,,,,Femei,,71.7
 2019,,,,,Public network,32.7
 2019,,,,,Own system,41.8
 2020,,,,,,77.6
@@ -171,8 +171,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2020,,,III,,,78.1
 2020,,,IV,,,86.7
 2020,,,V,,,95.8
-2020,,,,Men,,79.5
-2020,,,,Women,,73.7
+2020,,,,Bărbați,,79.5
+2020,,,,Femei,,73.7
 2020,,,,,Public network,33.0
 2020,,,,,Own system,44.6
 2021,,,,,,80.4
@@ -187,8 +187,8 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2021,,,III,,,83.7
 2021,,,IV,,,88.9
 2021,,,V,,,96.4
-2021,,,,Men,,81.7
-2021,,,,Women,,77.7
+2021,,,,Bărbați,,81.7
+2021,,,,Femei,,77.7
 2021,,,,,Public network,33.2
 2021,,,,,Own system,47.2
 2022,,,,,,81.5
@@ -203,7 +203,7 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2022,,,III,,,80.4
 2022,,,IV,,,88.9
 2022,,,V,,,96.8
-2022,,,,Men,,83.1
-2022,,,,Women,,78.2
+2022,,,,Bărbați,,83.1
+2022,,,,Femei,,78.2
 2022,,,,,Public network,34.0
 2022,,,,,Own system,47.5
