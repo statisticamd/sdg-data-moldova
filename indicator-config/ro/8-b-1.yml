@@ -1,11 +1,7 @@
 composite_breakdown_label: ''
 computation_units: scor
 copyright: ''
-data_footnote: >-
-  <p> Cel mai recent document de politici: </p> 
-  <p>Programul național pentru ocuparea forței de muncă pe anii 2022-2026 și a Planului 
-  de acțiuni privind implementarea acestuia a fost aprobat prin Hotărârea Guvernului 
-  nr. 785 din 16.11.2022 </p>
+data_footnote: ''
 data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
@@ -81,7 +77,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: Complete
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false
