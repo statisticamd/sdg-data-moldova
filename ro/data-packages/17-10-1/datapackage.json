@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Types of products",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultural products AGR ",
+                "Non-agricultural products NAGR ",
+                ""
+              ]
+            },
+            "title": "Types of products"
           },
           {
             "name": "Value",

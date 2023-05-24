@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MERCHANDISE TRADE",
+                "Services",
+                ""
+              ]
+            },
+            "title": "Indicators"
           },
           {
             "name": "Value",
