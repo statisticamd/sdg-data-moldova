@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: national_indicators.2-3-1-1-graph
+graph_title: national_indicators.2-3-1-1- Share of sown areas in total arable land-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.2-3-1-1-title
-indicator_name: national_indicators.2-3-1-1-title
-indicator_number: 2.3.1.1
+indicator_available: national_indicators.2-3-1-1- Share of sown areas in total arable land-title
+indicator_name: national_indicators.2-3-1-1- Ponderea suprafețelor  însămânțate în total terenuri arabile-title
+indicator_number: 2.3.1.1. Ponderea suprafețelor  însămânțate în total terenuri arabile
 indicator_tabs:: 
   override: false
   tab_1: ''

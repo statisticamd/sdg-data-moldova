@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: national_indicators.2-3-1-1- Share of sown areas in total arable land-graph
+graph_title: national_indicators.17-19-2-b-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.2-3-1-1- Share of sown areas in total arable land-title
-indicator_name: national_indicators.2-3-1-1- Share of sown areas in total arable land-title
-indicator_number: 2.3.1.1. Share of sown areas in total arable land
+indicator_available: national_indicators.17-19-2-b-title
+indicator_name: national_indicators.17-19-2-b-title
+indicator_number: 17.19.2.b
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
 placeholder: ''

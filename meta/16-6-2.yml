@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.6.2: Proportion of population satisfied with the quality of public services  accessed (health services, education, population documentation)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.6: Develop effective, accountable and transparent institutions at all levels</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNDP
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.6.2: Proportion of population satisfied with the quality of public services  accessed (health services, education, population documentation)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> The indicator measures the satisfaction of the population with the quality of  public services, based on the last experience of accessing such services (over  the last 12 months) in the following three areas: a) health; b) education and  c) public services, named according to the global metadata as „administrative  services”. The indicator is based on surveys, which reflect the general  perceptions of citizens aged 18 years + based on experiences regarding the  availability and quality of services which were effectively provided to survey  participants. The respondents are requested to tell about the last experiences  in relation to each service and to assess it according to the five „criteria”  or  standards for a certain service: (1) access, (2) accessibility, (3)  quality of facilities, (4) equal treatment, (5) attitude of medical personnel  (kindness and treatment), quality of teaching from teaching personnel,  promptness in provision of public services. The last question is addressed to  respondents about their general level of satisfaction with each of the  services.</p> 
+  <p>  The questions regarding the health, education and public  services may be introduced in existing surveys, using the additional elements  from these demographic surveys for subsequent disaggregation of results. This  method of „module completion” also allows to cross the levels of satisfactions  with other social-economic variables from the wider survey, such as the  respondent's health condition. This allows analysing more comprehensively the  disparities in service supply and helps to identify the specific factors which  influence the level of satisfaction. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Ad-hoc complementary modules to the Household surveys regarding the living  standard (HBS type)</p> 
+  <p>  2) Other surveys carried out by different agencies  and entities </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  1.National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  State Chancellery
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The indicator is calculated in two steps: 1) Calculation of the average score  of satisfaction with health, education and public services according to five  „criteria” or standards, which are specified below within the definition of  this indicator;</p> 
+  <p>  2) Converting the average score of health, education, and  public services in percentage </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  <p> 1.State Chancellery</p> 
+  <p>  2.United Nations Development Programme (UNDP) </p>
+source_periodicity_1: >-
+  Once every 2 years
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

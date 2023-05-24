@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.6.2: Ponderea populației satisfăcute de calitatea serviciilor publice accesate  (servicii de sănătate, educație, documentarea populației)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.6: Dezvoltarea instituțiilor eficiente, responsabile și transparente la toate  nivelurile</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNDP
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.6.2: Ponderea populației satisfăcute de calitatea serviciilor publice  accesate (servicii de sănătate, educație, documentarea populației)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul măsoară satisfacția populației  de calitatea serviciilor publice,  bazată pe ultima experiență de accesare a acestora (ultimele 12 luni), în  următoarele trei domenii: a) sănătate; b) educație și c) servicii publice,  denumite conform metadatelor globale ca „servicii administrative”. Indicatorul  este  bazat pe cercetare, care reflectă percepțiile generale ale cetățenilor  în vârstă de 18 ani + bazate pe experiențe cu privire la măsura  disponibilității și a calității serviciilor care au fost efectiv acordate  participanților la cercetare. Respondenții sunt rugați să relateze asupra  ultimei experiențe cu fiecare serviciu și dea o apreciere pe marginea celor  cinci „criterii”, sau standarde pentru un serviciul anumit: (1) accesul, (2)  accesibilitatea, (3) calitatea facilităților, (4) tratamentul egal, (5)  atitudinea personalului medical (amabilitate și tratare), calitatea predării  personalului didactic, promptitudinea acordării serviciilor publice.  Ultimă  întrebare fiind adresată respondenților despre gradul lor general de  satisfacție pentru fiecare dintre servicii.</p> 
+  <p>  Întrebările privind  serviciile de sănătate, educație și serviciile publice pot fi introduse în  cercetările existente, folosind elementele suplimentare din aceste cercetări  demografice pentru dezagregarea în ulterioară a rezultatelor. Această metodă  de „complementare modulară” permite, de asemenea, încrucișarea nivelurilor de  satisfacție cu alte variabile socio-economice aflate în cercetarea mai largă,  cum ar fi starea de sănătate a respondentului. Aceasta permite o analiză mai  cuprinzătoare a disparităților în furnizarea serviciilor și ajută la  identificarea factorilor specifici care influențează nivelul de satisfacție. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Module complementare ad-hoc la Cercetări în gospodării privind nivelul de  trai (de tipul CBGC)</p> 
+  <p>  2) Alte cercetări realizate de către diferite  agenții și entități </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  1) Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Cancelaria de Stat
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Indicatorul este calculat în doi pași: 1) Calcularea scorului mediu de  satisfacție pentru serviciile de sănătate, educație și serviciile publice  conform a cinci „criterii”, sau standarde, care sunt specificate mai jos în  cadrul definiției acestui indicator;</p> 
+  <p>  2) Convertirea scorului mediul al  serviciilor de sănătate, educație  și serviciilor publice în procente </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  <p> 1) Cancelaria de Stat</p> 
+  <p>  2) Programul Națiunilor Unite pentru Dezvoltare  (PNUD) </p>
+source_periodicity_1: >-
+  O dată la 2 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
