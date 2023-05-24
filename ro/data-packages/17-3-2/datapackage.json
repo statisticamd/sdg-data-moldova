@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Volume of personal remittances (in USD)",
+                "Volumul remiterilor personale (în dolari americani)",
                 ""
               ]
             },

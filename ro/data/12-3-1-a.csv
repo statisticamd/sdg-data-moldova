@@ -6,7 +6,7 @@ Year,Produse alimentare,Animale,Value
 2010,"Fructe uscate, kg",,
 2010,"Ulei vegetal, litri",,
 2010,"Alte produse de origine nonanimală, kg",,
-2010,"Meat, kg",,
+2010,"Carne, kg",,
 2010,"Subproduse din carne, kg",,
 2010,,"Porcine, capete",
 2010,,"Păsări, capete",
@@ -17,7 +17,7 @@ Year,Produse alimentare,Animale,Value
 2011,"Fructe uscate, kg",,
 2011,"Ulei vegetal, litri",,
 2011,"Alte produse de origine nonanimală, kg",,
-2011,"Meat, kg",,
+2011,"Carne, kg",,
 2011,"Subproduse din carne, kg",,
 2011,,"Porcine, capete",
 2011,,"Păsări, capete",
@@ -28,7 +28,7 @@ Year,Produse alimentare,Animale,Value
 2012,"Fructe uscate, kg",,
 2012,"Ulei vegetal, litri",,
 2012,"Alte produse de origine nonanimală, kg",,
-2012,"Meat, kg",,
+2012,"Carne, kg",,
 2012,"Subproduse din carne, kg",,
 2012,,"Porcine, capete",
 2012,,"Păsări, capete",
@@ -39,7 +39,7 @@ Year,Produse alimentare,Animale,Value
 2013,"Fructe uscate, kg",,
 2013,"Ulei vegetal, litri",,
 2013,"Alte produse de origine nonanimală, kg",,
-2013,"Meat, kg",,46884.4
+2013,"Carne, kg",,46884.4
 2013,"Subproduse din carne, kg",,163089.4
 2013,,"Porcine, capete",
 2013,,"Păsări, capete",
@@ -50,7 +50,7 @@ Year,Produse alimentare,Animale,Value
 2014,"Fructe uscate, kg",,
 2014,"Ulei vegetal, litri",,
 2014,"Alte produse de origine nonanimală, kg",,
-2014,"Meat, kg",,82410.3
+2014,"Carne, kg",,82410.3
 2014,"Subproduse din carne, kg",,217751.9
 2014,,"Porcine, capete",
 2014,,"Păsări, capete",
@@ -61,7 +61,7 @@ Year,Produse alimentare,Animale,Value
 2015,"Fructe uscate, kg",,
 2015,"Ulei vegetal, litri",,
 2015,"Alte produse de origine nonanimală, kg",,
-2015,"Meat, kg",,69117.9
+2015,"Carne, kg",,69117.9
 2015,"Subproduse din carne, kg",,208667.1
 2015,,"Porcine, capete",
 2015,,"Păsări, capete",
@@ -72,7 +72,7 @@ Year,Produse alimentare,Animale,Value
 2016,"Fructe uscate, kg",,
 2016,"Ulei vegetal, litri",,
 2016,"Alte produse de origine nonanimală, kg",,
-2016,"Meat, kg",,64386.2
+2016,"Carne, kg",,64386.2
 2016,"Subproduse din carne, kg",,231334.3
 2016,,"Porcine, capete",13.0
 2016,,"Păsări, capete",
@@ -83,7 +83,7 @@ Year,Produse alimentare,Animale,Value
 2017,"Fructe uscate, kg",,
 2017,"Ulei vegetal, litri",,
 2017,"Alte produse de origine nonanimală, kg",,
-2017,"Meat, kg",,50817.8
+2017,"Carne, kg",,50817.8
 2017,"Subproduse din carne, kg",,300240.7
 2017,,"Porcine, capete",7.0
 2017,,"Păsări, capete",
@@ -94,7 +94,7 @@ Year,Produse alimentare,Animale,Value
 2018,"Fructe uscate, kg",,
 2018,"Ulei vegetal, litri",,
 2018,"Alte produse de origine nonanimală, kg",,
-2018,"Meat, kg",,63547.4
+2018,"Carne, kg",,63547.4
 2018,"Subproduse din carne, kg",,358048.8
 2018,,"Porcine, capete",622.0
 2018,,"Păsări, capete",
@@ -105,7 +105,7 @@ Year,Produse alimentare,Animale,Value
 2019,"Fructe uscate, kg",,
 2019,"Ulei vegetal, litri",,
 2019,"Alte produse de origine nonanimală, kg",,
-2019,"Meat, kg",,83552.3
+2019,"Carne, kg",,83552.3
 2019,"Subproduse din carne, kg",,326865.6
 2019,,"Porcine, capete",471.0
 2019,,"Păsări, capete",
@@ -116,7 +116,7 @@ Year,Produse alimentare,Animale,Value
 2020,"Fructe uscate, kg",,
 2020,"Ulei vegetal, litri",,
 2020,"Alte produse de origine nonanimală, kg",,
-2020,"Meat, kg",,74840.5
+2020,"Carne, kg",,74840.5
 2020,"Subproduse din carne, kg",,326994.6
 2020,,"Porcine, capete",70.0
 2020,,"Păsări, capete",
@@ -127,7 +127,7 @@ Year,Produse alimentare,Animale,Value
 2021,"Fructe uscate, kg",,500.0
 2021,"Ulei vegetal, litri",,685.0
 2021,"Alte produse de origine nonanimală, kg",,64.0
-2021,"Meat, kg",,66426.2
+2021,"Carne, kg",,66426.2
 2021,"Subproduse din carne, kg",,233553.2
 2021,,"Porcine, capete",82.0
 2021,,"Păsări, capete",
@@ -138,7 +138,7 @@ Year,Produse alimentare,Animale,Value
 2022,"Fructe uscate, kg",,
 2022,"Ulei vegetal, litri",,
 2022,"Alte produse de origine nonanimală, kg",,
-2022,"Meat, kg",,52568.1
+2022,"Carne, kg",,52568.1
 2022,"Subproduse din carne, kg",,272352.5
 2022,,"Porcine, capete",32055.0
 2022,,"Păsări, capete",7150.0

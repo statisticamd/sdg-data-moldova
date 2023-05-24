@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "OG1. Consolidation of the normative and institutional framework regarding the participation of civil society in the development and monitoring of the implementation of public policies",
-                "OG2. Promoting and strengthening the financial sustainability of civil society",
-                "OG3. Development of active civic spirit and volunteering",
+                "OG1. Consolidarea cadrului normativ și a celui instituțional privind participarea societății civile la elaborarea și monitorizarea implementării politicilor publice",
+                "OG2. Promovarea și consolidarea sustenabilității financiare a societății civile",
+                "OG3. Dezvoltarea spiritului civic activ și a voluntariatului",
                 ""
               ]
             },
-            "title": "General objectives"
+            "title": "Obiective generale"
           },
           {
             "name": "Value",

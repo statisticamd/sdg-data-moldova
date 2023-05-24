@@ -501,13 +501,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "OG1. Consolidation of the normative and institutional framework regarding the participation of civil society in the development and monitoring of the implementation of public policies",
-                "OG2. Promoting and strengthening the financial sustainability of civil society",
-                "OG3. Development of active civic spirit and volunteering",
+                "OG1. Consolidarea cadrului normativ și a celui instituțional privind participarea societății civile la elaborarea și monitorizarea implementării politicilor publice",
+                "OG2. Promovarea și consolidarea sustenabilității financiare a societății civile",
+                "OG3. Dezvoltarea spiritului civic activ și a voluntariatului",
                 ""
               ]
             },
-            "title": "General objectives"
+            "title": "Obiective generale"
           },
           {
             "name": "Value",
@@ -1981,7 +1981,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Volume of personal remittances (in USD)",
+                "Volumul remiterilor personale (în dolari americani)",
                 ""
               ]
             },
@@ -2204,7 +2204,7 @@
                 ""
               ]
             },
-            "title": "Types of critical infrastructure losses"
+            "title": "Tipuri de pierderi de infrastructură critică"
           },
           {
             "name": "Districts",
@@ -2252,7 +2252,7 @@
                 ""
               ]
             },
-            "title": "Districts"
+            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -2588,7 +2588,7 @@
                 ""
               ]
             },
-            "title": "Districts"
+            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -3205,7 +3205,7 @@
                 ""
               ]
             },
-            "title": "Districts"
+            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -3640,9 +3640,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobile Internet per 100 inhabitants",
-                "Fixed Internet per 100 inhabitants",
-                "Fixed Internet per 100 households",
+                "Internet mobil la 100 de locuitori",
+                "Internet fix la 100 de locuitori",
+                "Internet fix la 100 gospodării",
                 ""
               ]
             },
@@ -5500,7 +5500,7 @@
             "constraints": {
               "enum": [
                 "Procuratura",
-                "Inspectoratul de politie",
+                "Inspectoratul de poliție",
                 "Judecătoria",
                 "Curtea de Apel",
                 "Curtea Supremă de Justuție",
@@ -6001,7 +6001,7 @@
                 ""
               ]
             },
-            "title": "Districts"
+            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -6323,7 +6323,7 @@
                 ""
               ]
             },
-            "title": "Types of critical infrastructure losses"
+            "title": "Tipuri de pierderi de infrastructură critică"
           },
           {
             "name": "Districts",
@@ -6371,7 +6371,7 @@
                 ""
               ]
             },
-            "title": "Districts"
+            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -6532,12 +6532,12 @@
               "enum": [
                 "15-24/Bărbați",
                 "15-24/ Women",
-                "25-34/Men",
-                "25-34/Women",
-                "35-44/Men",
-                "35-44/Women",
-                "45-49/Men",
-                "45-49/Women",
+                "25-34/Bărbați",
+                "25-34/Femei",
+                "35-44/Bărbați",
+                "35-44/Femei",
+                "45-49/Bărbați",
+                "45-49/Femei",
                 ""
               ]
             },
@@ -7236,8 +7236,8 @@
             "constraints": {
               "enum": [
                 "0-2 ani",
-                "3-6 years",
-                "7-15 years",
+                "3-6 ani",
+                "7-15 ani",
                 "16-17 ani",
                 ""
               ]
@@ -7295,10 +7295,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-2 years old",
-                "3-6 years old",
-                "7-15 years old",
-                "16-17 years old",
+                "0-2 ani",
+                "3-6 ani",
+                "7-15 ani",
+                "16-17 ani",
                 ""
               ]
             },
@@ -7792,8 +7792,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-17 years",
-                "18-49 years",
+                "15-17 ani",
+                "18-49 ani",
                 ""
               ]
             },
@@ -7868,11 +7868,11 @@
             "constraints": {
               "enum": [
                 "Educație timpurie",
-                "Primary and general secondary education",
+                "Învățământ primar și secundar general",
                 ""
               ]
             },
-            "title": "Educational levels"
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",
@@ -8090,13 +8090,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic",
+                "Menajere",
                 "Irigare",
-                "Technology",
+                "Tehnologice",
                 ""
               ]
             },
-            "title": "Consumption needs"
+            "title": "Necesități ale consumului"
           },
           {
             "name": "Economic activities",
@@ -9054,7 +9054,7 @@
                 "Maternitate",
                 "Naționalitate",
                 "Vârsta",
-                "Race",
+                "Rasă",
                 "Activitate sindicală",
                 "Statut de pensionar",
                 "Alte",
@@ -9716,7 +9716,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Central government",
+                "Administrația publică centrală",
                 "Autorități publice locale, nivelul I",
                 "Autorități publice locale, nivelul II",
                 ""
@@ -9729,8 +9729,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Senior management",
-                "Management, executive",
+                "Conducere nivel superior",
+                "Conducere, execuție",
                 ""
               ]
             },
@@ -10200,7 +10200,7 @@
                 ""
               ]
             },
-            "title": "Districts"
+            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -10439,10 +10439,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -10453,10 +10453,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -10467,10 +10467,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -10481,10 +10481,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -10495,10 +10495,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -10509,14 +10509,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
-            "title": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population"
+            "title": "Proporția grefierilor și asistenților judiciari cu dizabilitate față de proporția persoanelor cu dizabilități în populația în vârstă aptă de muncă"
           },
           {
             "name": "Value",
@@ -11128,7 +11128,7 @@
                 "Fructe uscate, kg",
                 "Ulei vegetal, litri",
                 "Alte produse de origine nonanimală, kg",
-                "Meat, kg",
+                "Carne, kg",
                 "Subproduse din carne, kg",
                 ""
               ]

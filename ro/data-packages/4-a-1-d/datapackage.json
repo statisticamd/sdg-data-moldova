@@ -21,11 +21,11 @@
             "constraints": {
               "enum": [
                 "Educație timpurie",
-                "Primary and general secondary education",
+                "Învățământ primar și secundar general",
                 ""
               ]
             },
-            "title": "Educational levels"
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",

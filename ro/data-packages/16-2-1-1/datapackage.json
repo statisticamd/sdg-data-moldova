@@ -45,8 +45,8 @@
             "constraints": {
               "enum": [
                 "0-2 ani",
-                "3-6 years",
-                "7-15 years",
+                "3-6 ani",
+                "7-15 ani",
                 "16-17 ani",
                 ""
               ]
@@ -104,10 +104,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-2 years old",
-                "3-6 years old",
-                "7-15 years old",
-                "16-17 years old",
+                "0-2 ani",
+                "3-6 ani",
+                "7-15 ani",
+                "16-17 ani",
                 ""
               ]
             },

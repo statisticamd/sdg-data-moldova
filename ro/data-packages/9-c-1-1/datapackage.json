@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobile Internet per 100 inhabitants",
-                "Fixed Internet per 100 inhabitants",
-                "Fixed Internet per 100 households",
+                "Internet mobil la 100 de locuitori",
+                "Internet fix la 100 de locuitori",
+                "Internet fix la 100 gospodării",
                 ""
               ]
             },

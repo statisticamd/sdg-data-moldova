@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -34,10 +34,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -48,10 +48,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -62,10 +62,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -76,10 +76,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
@@ -90,14 +90,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitutional/ supreme courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                "Total (across all levels of courts)",
+                "Constituțională/ Curtea Supremă",
+                "Curtea de Apel",
+                "Judecătorii",
+                "Total (toate nivelurile de instanțe)",
                 ""
               ]
             },
-            "title": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population"
+            "title": "Proporția grefierilor și asistenților judiciari cu dizabilitate față de proporția persoanelor cu dizabilități în populația în vârstă aptă de muncă"
           },
           {
             "name": "Value",

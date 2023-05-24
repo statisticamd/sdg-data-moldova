@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic",
+                "Menajere",
                 "Irigare",
-                "Technology",
+                "Tehnologice",
                 ""
               ]
             },
-            "title": "Consumption needs"
+            "title": "Necesități ale consumului"
           },
           {
             "name": "Economic activities",

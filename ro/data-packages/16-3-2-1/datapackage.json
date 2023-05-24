@@ -101,7 +101,7 @@
             "constraints": {
               "enum": [
                 "Procuratura",
-                "Inspectoratul de politie",
+                "Inspectoratul de poliție",
                 "Judecătoria",
                 "Curtea de Apel",
                 "Curtea Supremă de Justuție",
