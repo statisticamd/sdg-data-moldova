@@ -826,6 +826,91 @@
       "title": "Consum de energie primară  (consum intern brut)"
     },
     {
+      "path": "16-2-3/data.csv",
+      "name": "16-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Nivelul de studii"
+          },
+          {
+            "name": "Marital status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Starea civilă"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+    },
+    {
       "path": "10-7-2-3/data.csv",
       "name": "10-7-2-3",
       "profile": "tabular-data-resource",
@@ -1853,6 +1938,30 @@
       "title": "Forest area as a proportion of total land area"
     },
     {
+      "path": "3-8-1/data.csv",
+      "name": "3-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage of essential health services"
+    },
+    {
       "path": "17-3-2/data.csv",
       "name": "17-3-2",
       "profile": "tabular-data-resource",
@@ -1922,6 +2031,42 @@
         ]
       },
       "title": "Ponderea salariaților în activități de turism în total salariați"
+    },
+    {
+      "path": "16-6-2-1/data.csv",
+      "name": "16-6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Access mode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electronic",
+                "At the counter",
+                ""
+              ]
+            },
+            "title": "Mod de accesare"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea populației care au accesat serviciile publice în format electronic din totalul beneficiarilor de servicii publice"
     },
     {
       "path": "11-3-2/data.csv",
@@ -5769,6 +5914,105 @@
       "title": "Numărul de victime ale infracțiunilor de violență la 100 000 populație"
     },
     {
+      "path": "1-3-1-d/data.csv",
+      "name": "1-3-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "mun. Balti",
+                "Briceni",
+                "Donduseni",
+                "Drochia",
+                "Edinet",
+                "Falesti",
+                "Floresti",
+                "Glodeni",
+                "Ocnita",
+                "Rascani",
+                "Sangerei",
+                "Soroca",
+                "Centre",
+                "Anenii Noi",
+                "Calarasi",
+                "Criuleni",
+                "Dubasari",
+                "Hancesti",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Straseni",
+                "Soldanesti",
+                "Telenesti",
+                "Ungheni",
+                "Sud",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Causeni",
+                "Cimislia",
+                "Leova",
+                "Stefan Voda",
+                "Taraclia",
+                "UTA Gagauzia",
+                ""
+              ]
+            },
+            "title": "Districts"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporția persoanelor cu dizabilități care beneficiază de prestații sociale (pensii și alocații sociale de stat de dizabilitate)"
+    },
+    {
       "path": "16-4-2-1/data.csv",
       "name": "16-4-2-1",
       "profile": "tabular-data-resource",
@@ -8311,6 +8555,30 @@
       "title": "Numărul total de specii incluse în Cartea Roșie a Republicii Moldova"
     },
     {
+      "path": "5-c-1-1/data.csv",
+      "name": "5-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Disponibilitatea sistemelor de monitorizare și alocare a resurselor publice pentru egalitatea de gen și abilitarea femeilor"
+    },
+    {
       "path": "9-3-1-a/data.csv",
       "name": "9-3-1-a",
       "profile": "tabular-data-resource",
@@ -8384,7 +8652,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
           },
           {
@@ -10655,6 +10923,30 @@
         ]
       },
       "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "1-b-1/data.csv",
+      "name": "1-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cheltuieli publice sociale pentru susținerea persoanelor aflate în sărăcie"
     },
     {
       "path": "11-5-1-b/data.csv",
@@ -13669,30 +13961,6 @@
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
-      "path": "1-b-1/data.csv",
-      "name": "1-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Cheltuieli publice sociale pentru susținerea persoanelor aflate în sărăcie"
-    },
-    {
       "path": "14-c-1/data.csv",
       "name": "14-c-1",
       "profile": "tabular-data-resource",
@@ -14917,30 +15185,6 @@
       "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
     },
     {
-      "path": "16-2-3/data.csv",
-      "name": "16-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
-    },
-    {
       "path": "2-a-2/data.csv",
       "name": "2-a-2",
       "profile": "tabular-data-resource",
@@ -15251,30 +15495,6 @@
         ]
       },
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
-    },
-    {
-      "path": "3-8-1/data.csv",
-      "name": "3-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage of essential health services"
     },
     {
       "path": "6-5-1/data.csv",

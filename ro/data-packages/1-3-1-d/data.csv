@@ -1,0 +1,599 @@
+Year,Sex,Grupa de vârstă,Districts,Value
+2010,,,,
+2010,Bărbați,,,
+2010,Femei,,,
+2010,,15-24,,
+2010,,25-34,,
+2010,,35-44,,
+2010,,45-54,,
+2010,,55+,,
+2010,,,Mun. Chișinău,
+2010,,,Nord,
+2010,,,mun. Balti,
+2010,,,Briceni,
+2010,,,Donduseni,
+2010,,,Drochia,
+2010,,,Edinet,
+2010,,,Falesti,
+2010,,,Floresti,
+2010,,,Glodeni,
+2010,,,Ocnita,
+2010,,,Rascani,
+2010,,,Sangerei,
+2010,,,Soroca,
+2010,,,Centre,
+2010,,,Anenii Noi,
+2010,,,Calarasi,
+2010,,,Criuleni,
+2010,,,Dubasari,
+2010,,,Hancesti,
+2010,,,Ialoveni,
+2010,,,Nisporeni,
+2010,,,Orhei,
+2010,,,Rezina,
+2010,,,Straseni,
+2010,,,Soldanesti,
+2010,,,Telenesti,
+2010,,,Ungheni,
+2010,,,Sud,
+2010,,,Basarabeasca,
+2010,,,Cahul,
+2010,,,Cantemir,
+2010,,,Causeni,
+2010,,,Cimislia,
+2010,,,Leova,
+2010,,,Stefan Voda,
+2010,,,Taraclia,
+2010,,,UTA Gagauzia,
+2011,,,,
+2011,Bărbați,,,
+2011,Femei,,,
+2011,,15-24,,
+2011,,25-34,,
+2011,,35-44,,
+2011,,45-54,,
+2011,,55+,,
+2011,,,Mun. Chișinău,
+2011,,,Nord,
+2011,,,mun. Balti,
+2011,,,Briceni,
+2011,,,Donduseni,
+2011,,,Drochia,
+2011,,,Edinet,
+2011,,,Falesti,
+2011,,,Floresti,
+2011,,,Glodeni,
+2011,,,Ocnita,
+2011,,,Rascani,
+2011,,,Sangerei,
+2011,,,Soroca,
+2011,,,Centre,
+2011,,,Anenii Noi,
+2011,,,Calarasi,
+2011,,,Criuleni,
+2011,,,Dubasari,
+2011,,,Hancesti,
+2011,,,Ialoveni,
+2011,,,Nisporeni,
+2011,,,Orhei,
+2011,,,Rezina,
+2011,,,Straseni,
+2011,,,Soldanesti,
+2011,,,Telenesti,
+2011,,,Ungheni,
+2011,,,Sud,
+2011,,,Basarabeasca,
+2011,,,Cahul,
+2011,,,Cantemir,
+2011,,,Causeni,
+2011,,,Cimislia,
+2011,,,Leova,
+2011,,,Stefan Voda,
+2011,,,Taraclia,
+2011,,,UTA Gagauzia,
+2012,,,,
+2012,Bărbați,,,
+2012,Femei,,,
+2012,,15-24,,
+2012,,25-34,,
+2012,,35-44,,
+2012,,45-54,,
+2012,,55+,,
+2012,,,Mun. Chișinău,
+2012,,,Nord,
+2012,,,mun. Balti,
+2012,,,Briceni,
+2012,,,Donduseni,
+2012,,,Drochia,
+2012,,,Edinet,
+2012,,,Falesti,
+2012,,,Floresti,
+2012,,,Glodeni,
+2012,,,Ocnita,
+2012,,,Rascani,
+2012,,,Sangerei,
+2012,,,Soroca,
+2012,,,Centre,
+2012,,,Anenii Noi,
+2012,,,Calarasi,
+2012,,,Criuleni,
+2012,,,Dubasari,
+2012,,,Hancesti,
+2012,,,Ialoveni,
+2012,,,Nisporeni,
+2012,,,Orhei,
+2012,,,Rezina,
+2012,,,Straseni,
+2012,,,Soldanesti,
+2012,,,Telenesti,
+2012,,,Ungheni,
+2012,,,Sud,
+2012,,,Basarabeasca,
+2012,,,Cahul,
+2012,,,Cantemir,
+2012,,,Causeni,
+2012,,,Cimislia,
+2012,,,Leova,
+2012,,,Stefan Voda,
+2012,,,Taraclia,
+2012,,,UTA Gagauzia,
+2013,,,,
+2013,Bărbați,,,
+2013,Femei,,,
+2013,,15-24,,
+2013,,25-34,,
+2013,,35-44,,
+2013,,45-54,,
+2013,,55+,,
+2013,,,Mun. Chișinău,
+2013,,,Nord,
+2013,,,mun. Balti,
+2013,,,Briceni,
+2013,,,Donduseni,
+2013,,,Drochia,
+2013,,,Edinet,
+2013,,,Falesti,
+2013,,,Floresti,
+2013,,,Glodeni,
+2013,,,Ocnita,
+2013,,,Rascani,
+2013,,,Sangerei,
+2013,,,Soroca,
+2013,,,Centre,
+2013,,,Anenii Noi,
+2013,,,Calarasi,
+2013,,,Criuleni,
+2013,,,Dubasari,
+2013,,,Hancesti,
+2013,,,Ialoveni,
+2013,,,Nisporeni,
+2013,,,Orhei,
+2013,,,Rezina,
+2013,,,Straseni,
+2013,,,Soldanesti,
+2013,,,Telenesti,
+2013,,,Ungheni,
+2013,,,Sud,
+2013,,,Basarabeasca,
+2013,,,Cahul,
+2013,,,Cantemir,
+2013,,,Causeni,
+2013,,,Cimislia,
+2013,,,Leova,
+2013,,,Stefan Voda,
+2013,,,Taraclia,
+2013,,,UTA Gagauzia,
+2014,,,,6.5
+2014,Bărbați,,,7.0
+2014,Femei,,,5.9
+2014,,15-24,,5.4
+2014,,25-34,,3.5
+2014,,35-44,,5.9
+2014,,45-54,,11.7
+2014,,55+,,11.1
+2014,,,Mun. Chișinău,4.4
+2014,,,Nord,
+2014,,,mun. Balti,8.0
+2014,,,Briceni,7.2
+2014,,,Donduseni,7.3
+2014,,,Drochia,6.9
+2014,,,Edinet,8.8
+2014,,,Falesti,6.0
+2014,,,Floresti,7.5
+2014,,,Glodeni,5.4
+2014,,,Ocnita,6.8
+2014,,,Rascani,7.1
+2014,,,Sangerei,7.8
+2014,,,Soroca,9.0
+2014,,,Centre,
+2014,,,Anenii Noi,5.9
+2014,,,Calarasi,7.9
+2014,,,Criuleni,6.2
+2014,,,Dubasari,8.4
+2014,,,Hancesti,5.6
+2014,,,Ialoveni,5.6
+2014,,,Nisporeni,6.4
+2014,,,Orhei,7.0
+2014,,,Rezina,7.9
+2014,,,Straseni,6.9
+2014,,,Soldanesti,13.6
+2014,,,Telenesti,9.0
+2014,,,Ungheni,6.2
+2014,,,Sud,
+2014,,,Basarabeasca,8.0
+2014,,,Cahul,5.0
+2014,,,Cantemir,6.1
+2014,,,Causeni,5.0
+2014,,,Cimislia,6.1
+2014,,,Leova,5.3
+2014,,,Stefan Voda,6.4
+2014,,,Taraclia,8.3
+2014,,,UTA Gagauzia,10.0
+2015,,,,6.5
+2015,Bărbați,,,7.0
+2015,Femei,,,6.0
+2015,,15-24,,5.4
+2015,,25-34,,3.6
+2015,,35-44,,5.9
+2015,,45-54,,11.7
+2015,,55+,,11.1
+2015,,,Mun. Chișinău,4.4
+2015,,,Nord,
+2015,,,mun. Balti,7.7
+2015,,,Briceni,7.3
+2015,,,Donduseni,7.2
+2015,,,Drochia,7.0
+2015,,,Edinet,8.9
+2015,,,Falesti,5.9
+2015,,,Floresti,7.4
+2015,,,Glodeni,5.3
+2015,,,Ocnita,6.8
+2015,,,Rascani,7.0
+2015,,,Sangerei,7.9
+2015,,,Soroca,8.8
+2015,,,Centre,
+2015,,,Anenii Noi,5.9
+2015,,,Calarasi,8.0
+2015,,,Criuleni,6.3
+2015,,,Dubasari,8.1
+2015,,,Hancesti,5.8
+2015,,,Ialoveni,5.6
+2015,,,Nisporeni,6.4
+2015,,,Orhei,7.1
+2015,,,Rezina,8.5
+2015,,,Straseni,7.0
+2015,,,Soldanesti,15.1
+2015,,,Telenesti,9.2
+2015,,,Ungheni,6.1
+2015,,,Sud,
+2015,,,Basarabeasca,8.2
+2015,,,Cahul,5.1
+2015,,,Cantemir,6.1
+2015,,,Causeni,4.9
+2015,,,Cimislia,6.3
+2015,,,Leova,5.2
+2015,,,Stefan Voda,6.3
+2015,,,Taraclia,8.3
+2015,,,UTA Gagauzia,10.2
+2016,,,,6.5
+2016,Bărbați,,,7.1
+2016,Femei,,,6.0
+2016,,15-24,,5.3
+2016,,25-34,,3.6
+2016,,35-44,,5.9
+2016,,45-54,,11.6
+2016,,55+,,11.3
+2016,,,Mun. Chișinău,4.4
+2016,,,Nord,
+2016,,,mun. Balti,7.5
+2016,,,Briceni,7.6
+2016,,,Donduseni,7.1
+2016,,,Drochia,7.0
+2016,,,Edinet,9.0
+2016,,,Falesti,5.8
+2016,,,Floresti,7.4
+2016,,,Glodeni,5.3
+2016,,,Ocnita,6.8
+2016,,,Rascani,7.1
+2016,,,Sangerei,8.0
+2016,,,Soroca,8.7
+2016,,,Centre,
+2016,,,Anenii Noi,6.0
+2016,,,Calarasi,8.2
+2016,,,Criuleni,6.2
+2016,,,Dubasari,8.1
+2016,,,Hancesti,5.8
+2016,,,Ialoveni,5.5
+2016,,,Nisporeni,6.4
+2016,,,Orhei,7.1
+2016,,,Rezina,9.0
+2016,,,Straseni,7.1
+2016,,,Soldanesti,16.4
+2016,,,Telenesti,9.2
+2016,,,Ungheni,6.1
+2016,,,Sud,
+2016,,,Basarabeasca,8.0
+2016,,,Cahul,5.2
+2016,,,Cantemir,6.0
+2016,,,Causeni,5.0
+2016,,,Cimislia,6.2
+2016,,,Leova,5.2
+2016,,,Stefan Voda,6.3
+2016,,,Taraclia,8.4
+2016,,,UTA Gagauzia,10.2
+2017,,,,6.6
+2017,Bărbați,,,7.2
+2017,Femei,,,6.0
+2017,,15-24,,5.6
+2017,,25-34,,3.7
+2017,,35-44,,5.9
+2017,,45-54,,11.4
+2017,,55+,,11.2
+2017,,,Mun. Chișinău,4.3
+2017,,,Nord,
+2017,,,mun. Balti,7.3
+2017,,,Briceni,7.7
+2017,,,Donduseni,7.1
+2017,,,Drochia,6.9
+2017,,,Edinet,9.2
+2017,,,Falesti,5.8
+2017,,,Floresti,7.4
+2017,,,Glodeni,5.3
+2017,,,Ocnita,6.8
+2017,,,Rascani,6.9
+2017,,,Sangerei,8.2
+2017,,,Soroca,8.7
+2017,,,Centre,
+2017,,,Anenii Noi,6.2
+2017,,,Calarasi,8.5
+2017,,,Criuleni,6.2
+2017,,,Dubasari,8.3
+2017,,,Hancesti,6.0
+2017,,,Ialoveni,5.6
+2017,,,Nisporeni,6.5
+2017,,,Orhei,7.2
+2017,,,Rezina,9.6
+2017,,,Straseni,7.2
+2017,,,Soldanesti,17.5
+2017,,,Telenesti,9.5
+2017,,,Ungheni,6.2
+2017,,,Sud,
+2017,,,Basarabeasca,7.9
+2017,,,Cahul,5.3
+2017,,,Cantemir,6.2
+2017,,,Causeni,5.0
+2017,,,Cimislia,6.3
+2017,,,Leova,5.6
+2017,,,Stefan Voda,6.3
+2017,,,Taraclia,8.6
+2017,,,UTA Gagauzia,10.3
+2018,,,,6.6
+2018,Bărbați,,,7.2
+2018,Femei,,,6.0
+2018,,15-24,,5.3
+2018,,25-34,,3.7
+2018,,35-44,,5.7
+2018,,45-54,,11.1
+2018,,55+,,11.4
+2018,,,Mun. Chișinău,4.3
+2018,,,Nord,
+2018,,,mun. Balti,7.2
+2018,,,Briceni,7.8
+2018,,,Donduseni,6.9
+2018,,,Drochia,6.9
+2018,,,Edinet,9.2
+2018,,,Falesti,5.8
+2018,,,Floresti,7.4
+2018,,,Glodeni,5.2
+2018,,,Ocnita,6.8
+2018,,,Rascani,6.7
+2018,,,Sangerei,8.3
+2018,,,Soroca,8.7
+2018,,,Centre,
+2018,,,Anenii Noi,6.3
+2018,,,Calarasi,8.5
+2018,,,Criuleni,6.2
+2018,,,Dubasari,8.2
+2018,,,Hancesti,6.0
+2018,,,Ialoveni,5.6
+2018,,,Nisporeni,6.5
+2018,,,Orhei,7.1
+2018,,,Rezina,9.9
+2018,,,Straseni,7.3
+2018,,,Soldanesti,17.8
+2018,,,Telenesti,9.8
+2018,,,Ungheni,6.2
+2018,,,Sud,
+2018,,,Basarabeasca,7.8
+2018,,,Cahul,5.4
+2018,,,Cantemir,6.4
+2018,,,Causeni,4.9
+2018,,,Cimislia,6.4
+2018,,,Leova,5.7
+2018,,,Stefan Voda,6.3
+2018,,,Taraclia,8.3
+2018,,,UTA Gagauzia,9.7
+2019,,,,6.7
+2019,Bărbați,,,7.4
+2019,Femei,,,6.1
+2019,,15-24,,5.6
+2019,,25-34,,3.7
+2019,,35-44,,5.7
+2019,,45-54,,10.9
+2019,,55+,,11.6
+2019,,,Mun. Chișinău,4.3
+2019,,,Nord,
+2019,,,mun. Balti,7.1
+2019,,,Briceni,8.0
+2019,,,Donduseni,7.1
+2019,,,Drochia,7.1
+2019,,,Edinet,9.3
+2019,,,Falesti,6.1
+2019,,,Floresti,7.6
+2019,,,Glodeni,5.5
+2019,,,Ocnita,7.2
+2019,,,Rascani,6.9
+2019,,,Sangerei,8.6
+2019,,,Soroca,9.0
+2019,,,Centre,
+2019,,,Anenii Noi,6.7
+2019,,,Calarasi,8.8
+2019,,,Criuleni,6.4
+2019,,,Dubasari,8.4
+2019,,,Hancesti,6.3
+2019,,,Ialoveni,5.8
+2019,,,Nisporeni,6.8
+2019,,,Orhei,7.4
+2019,,,Rezina,9.9
+2019,,,Straseni,7.4
+2019,,,Soldanesti,17.7
+2019,,,Telenesti,10.2
+2019,,,Ungheni,6.5
+2019,,,Sud,
+2019,,,Basarabeasca,8.3
+2019,,,Cahul,5.6
+2019,,,Cantemir,6.6
+2019,,,Causeni,5.2
+2019,,,Cimislia,6.7
+2019,,,Leova,5.9
+2019,,,Stefan Voda,6.5
+2019,,,Taraclia,8.3
+2019,,,UTA Gagauzia,9.6
+2020,,,,6.6
+2020,Bărbați,,,7.3
+2020,Femei,,,6.0
+2020,,15-24,,5.6
+2020,,25-34,,3.7
+2020,,35-44,,5.5
+2020,,45-54,,10.5
+2020,,55+,,11.6
+2020,,,Mun. Chișinău,4.2
+2020,,,Nord,
+2020,,,mun. Balti,7.0
+2020,,,Briceni,7.9
+2020,,,Donduseni,7.2
+2020,,,Drochia,7.1
+2020,,,Edinet,9.3
+2020,,,Falesti,6.1
+2020,,,Floresti,7.6
+2020,,,Glodeni,5.7
+2020,,,Ocnita,7.2
+2020,,,Rascani,7.0
+2020,,,Sangerei,8.7
+2020,,,Soroca,8.9
+2020,,,Centre,
+2020,,,Anenii Noi,6.8
+2020,,,Calarasi,8.9
+2020,,,Criuleni,6.4
+2020,,,Dubasari,8.3
+2020,,,Hancesti,6.3
+2020,,,Ialoveni,5.8
+2020,,,Nisporeni,6.9
+2020,,,Orhei,7.4
+2020,,,Rezina,9.9
+2020,,,Straseni,7.4
+2020,,,Soldanesti,17.6
+2020,,,Telenesti,9.9
+2020,,,Ungheni,6.6
+2020,,,Sud,
+2020,,,Basarabeasca,8.4
+2020,,,Cahul,5.6
+2020,,,Cantemir,6.8
+2020,,,Causeni,5.3
+2020,,,Cimislia,6.5
+2020,,,Leova,5.8
+2020,,,Stefan Voda,6.5
+2020,,,Taraclia,8.1
+2020,,,UTA Gagauzia,9.3
+2021,,,,6.5
+2021,Bărbați,,,7.1
+2021,Femei,,,5.8
+2021,,15-24,,5.7
+2021,,25-34,,3.6
+2021,,35-44,,5.3
+2021,,45-54,,10.0
+2021,,55+,,11.1
+2021,,,Mun. Chișinău,4.0
+2021,,,Nord,
+2021,,,mun. Balti,6.7
+2021,,,Briceni,7.7
+2021,,,Donduseni,7.0
+2021,,,Drochia,6.9
+2021,,,Edinet,9.2
+2021,,,Falesti,6.1
+2021,,,Floresti,7.3
+2021,,,Glodeni,5.6
+2021,,,Ocnita,7.0
+2021,,,Rascani,6.7
+2021,,,Sangerei,8.5
+2021,,,Soroca,8.6
+2021,,,Centre,
+2021,,,Anenii Noi,6.7
+2021,,,Calarasi,8.7
+2021,,,Criuleni,6.3
+2021,,,Dubasari,8.4
+2021,,,Hancesti,6.1
+2021,,,Ialoveni,5.8
+2021,,,Nisporeni,6.9
+2021,,,Orhei,7.3
+2021,,,Rezina,9.4
+2021,,,Straseni,7.2
+2021,,,Soldanesti,17.1
+2021,,,Telenesti,10.1
+2021,,,Ungheni,6.6
+2021,,,Sud,
+2021,,,Basarabeasca,8.1
+2021,,,Cahul,5.5
+2021,,,Cantemir,6.5
+2021,,,Causeni,5.2
+2021,,,Cimislia,6.4
+2021,,,Leova,5.9
+2021,,,Stefan Voda,6.5
+2021,,,Taraclia,7.5
+2021,,,UTA Gagauzia,8.9
+2022,,,,6.2
+2022,Bărbați,,,6.9
+2022,Femei,,,5.6
+2022,,15-24,,5.9
+2022,,25-34,,3.4
+2022,,35-44,,5.4
+2022,,45-54,,9.8
+2022,,55+,,10.4
+2022,,,Mun. Chișinău,4.0
+2022,,,Nord,
+2022,,,mun. Balti,6.4
+2022,,,Briceni,7.2
+2022,,,Donduseni,6.3
+2022,,,Drochia,6.6
+2022,,,Edinet,8.7
+2022,,,Falesti,6.0
+2022,,,Floresti,7.1
+2022,,,Glodeni,5.5
+2022,,,Ocnita,6.9
+2022,,,Rascani,6.4
+2022,,,Sangerei,8.3
+2022,,,Soroca,7.9
+2022,,,Centre,
+2022,,,Anenii Noi,6.5
+2022,,,Calarasi,8.3
+2022,,,Criuleni,6.0
+2022,,,Dubasari,8.0
+2022,,,Hancesti,6.1
+2022,,,Ialoveni,5.7
+2022,,,Nisporeni,6.8
+2022,,,Orhei,7.1
+2022,,,Rezina,9.0
+2022,,,Straseni,7.1
+2022,,,Soldanesti,16.0
+2022,,,Telenesti,9.7
+2022,,,Ungheni,6.4
+2022,,,Sud,
+2022,,,Basarabeasca,8.0
+2022,,,Cahul,5.4
+2022,,,Cantemir,6.3
+2022,,,Causeni,5.1
+2022,,,Cimislia,6.1
+2022,,,Leova,5.8
+2022,,,Stefan Voda,6.1
+2022,,,Taraclia,6.9
+2022,,,UTA Gagauzia,8.4
