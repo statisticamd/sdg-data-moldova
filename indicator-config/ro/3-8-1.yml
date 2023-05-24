@@ -1,9 +1,9 @@
-computation_units: Index
-data_footnote: Preliminary data, in the process of validation by the WHO Office
+computation_units: indice
+data_footnote: Date preliminare, in proces de validare de catre Oficiul OMS
 data_non_statistical: false
 graph_title: national_indicators.3-8-1-graph
 indicator_available: national_indicators.3-8-1-title
 indicator_name: global_indicators.3-8-1-title
 indicator_number: 3.8.1
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: Republica Moldova
 reporting_status: complete

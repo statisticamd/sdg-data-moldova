@@ -1,0 +1,93 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.8.1: Coverage of essential health services</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.8: Achieve universal health coverage, including financial risk protection, access  to quality essential health-care services and access to safe, effective,  quality and affordable essential medicines and vaccines for all</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  WHO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  3.8
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 865kB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.8.1: Coverage of essential health services, index</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> The average coverage with essential health services is assessed based on the  monitoring procedures for reproductive health, maternal health, new-borns'  health and children's health, infectious diseases, non-communicable diseases  and the service capacity and access, among the general population and the most  deprived population. The 14 indicators tracing the coverage with health  services are grouped in 4 categories:</p> 
+  <p> I. Reproductive, maternal, newborn  and child health: </p> 
+  <p>  1)Family planning: Share of women of reproductive age  (15-49 years old) with their family planning needs satisfied through modern  methods of contraception (Indicator SDG 3.7.1.);</p> 
+  <p>  2) Pregnancy and  delivery care: Share of women aged 15-49 years old with live births in a  determined period of time, who received antenatal care four or more times;  </p> 
+  <p>  3) Child immunization: Share of children who received three vaccine  doses containing diphtheria - tetanus -pertussis;</p> 
+  <p>  4)Children's treatment:  Share of children aged under 5 years old with suspected pneumonia (cough,  dyspnoea, not due to a chest problem or sunny nose) during two week before  examination by the corresponding medical institution.</p> 
+  <p>  II. Infectious  diseases:</p> 
+  <p>  5) TB: share of new TB cases detected and successfully  treated;</p> 
+  <p>  6) HIV/AIDS: Share of persons living with HIV receiving  antiretroviral treatment;</p> 
+  <p>  7) Malaria: Share of persons from endemic areas  for malaria, who sleep during the night under an insecticide-treated net (Not  relevant for Moldova);</p> 
+  <p>  8)Water and sanitation: Share of households using  at least basic sanitation facilities;</p> 
+  <p>  III. Non-communicable  diseases:</p> 
+  <p>  9)Hypertension: Age-standardized prevalence of non-raised blood  pressure (systolic blood pressure <140 mm Hg or diastolic blood pressure <90  mm Hg) among adults aged 18 years and older;</p> 
+  <p>  10) Diabetes:  Age-standardized mean fasting plasma glucose (mmol/L) for adults aged 18 years  and older;</p> 
+  <p>  11) Tobacco: Age-standardized prevalence of adults >=15 years  not smoking tobacco in last 30 days (Indicator SDG 3.a.1. - see the  description there);</p> 
+  <p> IV. Service capacity and access </p> 
+  <p>  12) Hospital  access: Hospital beds per capita, relative to a maximum threshold of 18 per  10,000 population;</p> 
+  <p>  13) Health workforce: Health professionals  (physicians, psychiatrists, and surgeons) per capita, relative to maximum  thresholds for each cadre (part of indicator SDG 3.c.1.);</p> 
+  <p>  14) Health  security: International Health Regulations (IHR) core capacity index, which is  the average percentage of attributes of 13 core capacities that have been  attained (SDG. 3.d.1. global metadata). </p>
+UNIT_MEASURE: >-
+  Index
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  World Health Organisation
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Ministry of Health, National Agency for Public  Health
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Health
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  This indicator represents an index presented according to a scale from 0 to  100, which is calculated via geometric average of 14 indicators tracing the  coverage with essential health services.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  World Health Organisation
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

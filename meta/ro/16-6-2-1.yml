@@ -1,23 +1,23 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.2.1: Ponderea copiilor până la 5 ani care se dezvoltă conform din punct de vedere  medical, educațional și psiho-social, pe sexe</p>
+  <p>Indicator 16.6.2.1: Ponderea populației care au accesat serviciile publice în format electronic  din totalul beneficiarilor de servicii publice</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.2: Până în 2030, asigurarea faptului că toate fetele și toți băieții au acces la  dezvoltarea timpurie de calitate, îngrijire și educația preșcolară, astfel  încât să fie pregătiți pentru învățământul primar</p>
+  <p>Target 16.6: Dezvoltarea instituțiilor eficiente, responsabile și transparente la toate  nivelurile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Children's Fund (UNICEF)
+  UNDP
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  4.2
+  16.6
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
 SDG_INDICATOR: >-
-  <p>Indicator 4.2.1: le de dezvoltare timpurie a copilului până la 5 ani</p>
+  <p>Indicator 16.6.2.1: Ponderea populației care au accesat serviciile publice în format  electronic din totalul beneficiarilor de servicii publice</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,24 +32,22 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Indice
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Studiul de Indicatori Multipli în Cuiburi (MICS)
+  Agenția Servicii Publice
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția Națională pentru Sănătate Publică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Educației, Culturii și Cercetării
+  Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul copiilor în vârstă de până la 5 ani dezvoltarea cărora este fără  careva devieri în ceea ce privește sănătatea, învățarea și bunăstarea  psihologică, raportat la numărul total de copii în vârstă de până la 5 ani  înmulțit cu 100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -64,10 +62,7 @@ un_designated_tier: >-
   3
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
-  <p>  2) UNICEF </p>
 source_periodicity_1: >-
-  O dată la câțiva ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
