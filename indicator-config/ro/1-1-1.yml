@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: Procente, %
+computation_units: Procent, %
 copyright: ''
-data_footnote: Starting with 2019, the data are not comparable to the previous period, as the HBS methodology was modified
+data_footnote: Începand cu anul 2019 datele nu sunt comparabile cu perioada precedentă, deoarece a fost modificată metodologia CBGC
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 1.1.1. Proportion of the population below the international poverty line of $2.15 per  day
+graph_title: national_indicators.1-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of the population below the international poverty line of $2.15 per day
+indicator_available: national_indicators.1-1-1-title
 indicator_name: global_indicators.1-1-1-title
 indicator_number: 1.1.1
 indicator_tabs:: 
