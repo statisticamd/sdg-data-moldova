@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 17.18.3.1 Existence of annual Action Plan to implement the National Strategy  for Development of the National Statistical System that is fully funded and  under implementation
+graph_title: national_indicators.17-18-3-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Existence of annual Action Plan to implement the National Strategy  for Development of the National Statistical System that is fully funded and  under implementation
+indicator_available: national_indicators.17-18-3-1-title
 indicator_name: national_indicators.17-18-3-1-title
 indicator_number: 17.18.3.1
 indicator_tabs:: 
@@ -33,7 +33,16 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: ''
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>2012-2014 - Action plan for the 2012-2014 NBS Strategic Development Program</p> 
+  
+  <p></p> 
+  <p>2016-2020 - Action plan regarding the implementation of the National Statistical 
+  System Development Strategy 2016-2020</p> 
+  <p></p> 
+  <p>2022 - The annual activity plan of the National Bureau of Statistics for the 
+  year 2022 was developed </p>
 permalink: ''
 placeholder: ''
 precision: []

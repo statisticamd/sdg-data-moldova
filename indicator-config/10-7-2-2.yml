@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.7.2.2 Number of bilateral agreements signed in the area of labour migration
+graph_title: national_indicators.10-7-2-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: Number of bilateral agreements signed in the area of labour migration
+indicator_available: national_indicators.10-7-2-2-title
 indicator_name: national_indicators.10-7-2-2-title
 indicator_number: 10.7.2.2
 indicator_tabs:: 
@@ -32,8 +32,28 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova, without the left bank of the Dniester river and Bender municipality.
-page_content: ''
+national_geographical_coverage: Republic of Moldova, without the left bank of the 
+  Dniester river and Bender municipality.
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>Agreements: </p> 
+  <p>2011 - Agreement between the Government of the Italian Republic and the Government 
+  of the Republic of Moldova on labour migration, 5th of June, 2011 </p> 
+  <p>2012 - Agreement between the Government of the State of Israel and the Government 
+  of the Republic of Moldova regarding the temporary employment of workers from the 
+  Republic of Moldova in specific sectors in the state of Israel, 16th of october 
+  2012 </p> 
+  <p>2017 - The framework partnership agreement between the Ministry of Health, Labour 
+  and Social Protecion and the French Office for Immigration and Immigration and 
+  Integration of the French Republic regarding the implementation of the OFII aid 
+  for the reintegration assistance program in the Republic of Moldova, 2nd of October, 
+  2017 </p> 
+  <p>2018 - Agreement between the Government of the Republic of Moldova and the Government 
+  of Bulgaria regarding the regulation of the labour migration, 18th of June, 2018 
+  </p> 
+  <p> 2021 - Memorandum of Cooperation between the Republic of Moldova and the Federal 
+  Republic of Germany of employment of Moldovan workers for seasonal works in the 
+  Federal Republic of Germany, 1st of July, 2021 </p>
 permalink: ''
 placeholder: ''
 precision: []

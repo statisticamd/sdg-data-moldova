@@ -1,0 +1,62 @@
+composite_breakdown_label: ''
+computation_units: scor
+copyright: ''
+data_footnote: ''
+data_non_statistical: true
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+footer_fields: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_target_lines: []
+graph_title: national_indicators.5-1-1-graph
+graph_titles: []
+graph_type: line
+indicator_available: national_indicators.5-1-1-title
+indicator_name: global_indicators.5-1-1-title
+indicator_number: 5.1.1
+indicator_tabs:: 
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+national_geographical_coverage: Republica Moldova
+page_content: >-
+  <p> ***Indicator non-statistic***</p> 
+  <p>HG nr. 933/2009 cu privire la aprobarea Programul național de asigurare a egalității 
+  de gen pe anii 2010-2015</p> 
+  <p>Legea nr. 71/2016 pentru modificarea şi completarea unor acte legislative (concediu 
+  paternal, publicitate sexistă, limbaj non-sexist)</p> 
+  <p>HG nr. 259/2017 cu privire la aprobarea Strategiei pentru asigurarea egalității 
+  între femei și bărbați în Republica Moldova pe anii 2017-2021 și a Planului de 
+  acțiuni privind implementarea acesteia</p> 
+  <p>HG nr. 281/2018 cu privire la aprobarea Strategiei naţionale de prevenire și 
+  combatere a violenţei faţă de  femei și a violenţei în familie pe anii 2018-2023 
+  și a Planurilor de acțiuni privind implementarea acesteia</p> 
+  <p>Legea nr. 144/2021 cu privire la ratificarea Convenției Consiliului Europei 
+  privind prevenirea și combaterea violenței împotriva femeilor și a violenței domestice 
+  </p>
+permalink: ''
+placeholder: ''
+precision: []
+progress_status: not_available
+publications: []
+related_indicators: []
+reporting_status: complete
+sort: ''
+sources: []
+standalone: false
+tags: []
+x_axis_label: ''

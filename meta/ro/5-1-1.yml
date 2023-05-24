@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 5.1.1: Existența cadrului legal pentru  promovarea, punerea în aplicare și   monitorizarea egalității și nediscriminării pe baza de sex</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Eliminarea tuturor formelor de discriminare împotriva tuturor femeilor și  fetelor de pretutindeni</p>
+  <p>Target 5.1: Eliminarea tuturor formelor de discriminare împotriva tuturor femeilor și  fetelor de pretutindeni</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UN Women,World Bank,OECD Development Centre
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  5.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf

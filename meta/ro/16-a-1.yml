@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.a.1: Existența instituțiilor naționale independente pentru drepturile omului în  conformitate cu Principiile de la Paris</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Consolidarea instituțiilor naționale relevante, inclusiv prin cooperarea  internațională, pentru consolidarea capacității la toate nivelurile, în  special în țările în curs de dezvoltare, pentru a preveni violența, combate  terorismul și criminalitatea</p>
+  <p>Target 16.a: Consolidarea instituțiilor naționale relevante, inclusiv prin cooperarea  internațională, pentru consolidarea capacității la toate nivelurile, în  special în țările în curs de dezvoltare, pentru a preveni violența, combate  terorismul și criminalitatea</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   OHCHR
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  16.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-0A-01.pdf

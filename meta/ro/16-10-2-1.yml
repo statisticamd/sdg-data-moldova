@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.10.2.1: Numărul de țări care adoptă și implementează garanții constituționale, statutare și / sau politice pentru accesul public la informații</p>
+  <p>Indicator 16.10.2.1: Existența și gradul de implementare a cadrul normativ cu privire la  accesul la informație</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.10: Asigurarea accesului public la informații și protejarea libertăților  fundamentale,  în conformitate cu legislația națională și acordurile  internaționale</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -79,6 +79,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa date
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

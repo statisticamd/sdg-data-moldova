@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 17.18.2.1 Availability of national statistical legislation that complies with  the Fundamental Principles of Official Statistics
+graph_title: national_indicators.17-18-2-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Availability of national statistical legislation that complies with  the Fundamental Principles of Official Statistics
+indicator_available: national_indicators.17-18-2-1-title
 indicator_name: national_indicators.17-18-2-1-title
 indicator_number: 17.18.2.1
 indicator_tabs:: 
@@ -33,7 +33,25 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: ''
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>The law on official statistics was approved in 2017 and amended in 2022.</p> 
+  
+  <p>It regulates the organization and operation of the unique system of official 
+  statistics, establishes the legal framework for the development, production, dissemination 
+  and coordination of official statistics. It also contains provisions regarding 
+  the fundamental principles of official statistics, professional independence, statistical 
+  data quality management, expanding access to administrative data sources to reduce 
+  the burden on respondents and other elements aimed at strengthening the national 
+  statistical system.</p> 
+  <p></p> 
+  <p>The draft law on official statistics was developed by the National Bureau of 
+  Statistics in order to harmonize national legislation with the EU acquis in the 
+  field of statistics (Regulation (EC) no. 223/2009 of the European Parliament and 
+  of the Council of March 11, 2009 on European statistics, published in the Official 
+  Journal of the European Union (OJ) No. L 87/164 of 31.03.2009, the Code of Good 
+  Practice of European Statistics, adopted by the European Statistical Committee 
+  on 28 September 2011). </p>
 permalink: ''
 placeholder: ''
 precision: []

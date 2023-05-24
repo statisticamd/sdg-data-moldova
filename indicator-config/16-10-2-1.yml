@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: units.number
+computation_units: Number
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.10.2.1. Existence and level of implementation of the  regulatory framework on access to information
+graph_title: national_indicators.16-10-2-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Existence and level of implementation regulatory framework on access to information
+indicator_available: national_indicators.16-10-2-1-title
 indicator_name: national_indicators.16-10-2-1-title
 indicator_number: 16.10.2.1
 indicator_tabs:: 
@@ -33,7 +33,34 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: non_statistical.16-10-2-1
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>The Ministry of Justice has developed a new draft law on access to information. 
+  The new law is to transpose the international standards in the field, namely, the 
+  Tromsø Convention, the EU Directive on the reuse of public sector information, 
+  the public administration principles of SIGMA, the World Bank standards on the 
+  proactive disclosure of public information, etc.</p> 
+  <p>The draft law on access to information, developed by the Ministry of Justice, 
+  was placed for public consultation on the particip.gov.md platform between 09.01.2023-03.02.2023, 
+  being adjusted according to the proposals received. The draft law, which comes 
+  to improve the legal framework in the Republic of Moldova regarding access to information, 
+  was voted in the first reading during the Parliament session of 11.05.2023. </p> 
+  
+  <p>A relevant indicator of this indicator is the INDEX OF ACCESS TO INFORMATION: 
+  measuring the transparency of public institutions in the Republic of Moldova, a 
+  study carried out by Freedom House. In this study, the quality of legislation and 
+  the performance of public institutions in ensuring access to information were measured 
+  systematically based on a series of criteria and indicators. Through this approach 
+  and extensive analysis, the aim was to make an objective and detailed assessment 
+  of the situation in the field. The results of the analysis will be reflected in 
+  the Index of Access to Information in the Republic of Moldova, which represents 
+  an indicator consisting of 3 elements: INDEX OF ACCESS TO INFORMATION LEGISLATIVE 
+  FRAMEWORK 1. Correspondence of the legislative framework with international standards, 
+  2. The level of proactive transparency, 3. The efficiency of access to information 
+  upon request, WHICH TOGETHER CONSTITUTES 100% OF THE SOURCE (https://freedomhouse.org/sites/default/files/2022-11/fh-Moldova_Access-to-Info-Report-2022_Rom-v2.pdf). 
+  In 2021, the first report was published that analyzed the degree of transparency 
+  of public institutions in the Republic of Moldova.</p> 
+  <p>In 2021 the score was 46 out of 100, in 2022 - 47 out of 100. </p>
 permalink: ''
 placeholder: ''
 precision: []

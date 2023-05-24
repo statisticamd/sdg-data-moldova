@@ -34,7 +34,8 @@ indicator_tabs::
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
 page_content: >-
-  The national migration policy is developed by the Ministry of Internal Affairs 
+  <p> ***Non-statistical indicator***</p> 
+  <p>The national migration policy is developed by the Ministry of Internal Affairs 
   and the Ministry of Labor and Social Protection (MLSP). The MMPS is responsible 
   for the legal framework for safe and informed work emigration, by managing circular 
   migration schemes, as well as regulating the activity of private employment agencies. 
@@ -50,8 +51,8 @@ page_content: >-
   resolution at work, as well as the control mechanism of private employment agencies 
   was introduced by State Labor Inspectorate. In addition, on the website www.angajat.md, 
   managed by National Agency of Labour Force Employment, the section on the conditions 
-  of emigration for the purpose of work in several destination countries was developed.
-  
+  of emigration for the purpose of work in several destination countries was developed. 
+  </p>
 permalink: ''
 placeholder: ''
 precision: []

@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Score
+computation_units: scor
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -32,25 +32,25 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: Republica Moldova
 page_content: >-
-  <p> ***Non-statistical indicator***</p> 
-  <p>2010 - National Reproductive Health Strategy 2005-2015</p> 
-  <p>2011 - National Reproductive Health Strategy 2005-2015</p> 
-  <p>2012 - Law No. 128 on reproductive health from 06/05/2012</p> 
-  <p>2013 - National Reproductive Health Strategy 2005-2015</p> 
-  <p>2014 - National Reproductive Health Strategy 2005-2015</p> 
-  <p>2015 - National Reproductive Health Strategy 2005-2015</p> 
+  <p> ***Indicator non-statistic***</p> 
+  <p>2010 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
+  <p>2011 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
+  <p>2012 - Legea Nr. 128 privind sănătatea reproducerii din 5.06.2012</p> 
+  <p>2013 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
+  <p>2014 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
+  <p>2015 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
   <p>2018 - Programul național privind sănătatea și drepturile sexuale și reproductive 
   pentru anii 2018-2022 (HG 681/2018)</p> 
-  <p>2019 - National program on sexual and reproductive health and rights for the 
-  years 2018-2022 (HG 681/2018)</p> 
-  <p>2020 - National program on sexual and reproductive health and rights for the 
-  years 2018-2022 (HG 681/2018)</p> 
-  <p>2021 - National program on sexual and reproductive health and rights for the 
-  years 2018-2022 (HG 681/2018)</p> 
-  <p>2022 - National program on sexual and reproductive health and rights for the 
-  years 2018-2022 (HG 681/2018) </p>
+  <p>2019 - Programul național privind sănătatea și drepturile sexuale și reproductive 
+  pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2020 - Programul național privind sănătatea și drepturile sexuale și reproductive 
+  pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2021 - Programul național privind sănătatea și drepturile sexuale și reproductive 
+  pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2022 - Programul național privind sănătatea și drepturile sexuale și reproductive 
+  pentru anii 2018-2022 (HG 681/2018) </p>
 permalink: ''
 placeholder: ''
 precision: []

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 12.8.1  Presence of modules/contents on  i) sustainable development, ii)  education for climate changes and their multidisciplinary approach in school  curricula so as to set up the graduate profile
+graph_title: national_indicators.12-8-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: e of modules/contents on  i) sustainable development, ii) education for  climate changes and their multidisciplinary approach in school curricula so as  to set up the graduate profile
+indicator_available: national_indicators.12-8-1-title
 indicator_name: global_indicators.12-8-1-title
 indicator_number: 12.8.1
 indicator_tabs:: 
@@ -33,7 +33,59 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: ''
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>For 2018-2022 years the answer is „YES” for i) sustainable development, ii) 
+   education for climate changes and their multidisciplinary approach in school  
+  curricula so as to set up the graduate profile.</p> 
+  <p>Note:</p> 
+  <p>Sustainable development: The framework plan for primary, secondary and high 
+  school education offers every student the opportunity to opt for optional subjects. 
+  The optional subjects represent the flexible component of the Education Framework 
+  Plan that contributes to the development of transversal skills. The priority areas 
+  also include Education for Sustainable Development, which is oriented towards the 
+  use of competences in the field of ecological education to understand and identify 
+  solutions in case of local and global problems, such as those of sustainable development, 
+  environment, green economy, energy conservation/ use of alternative energy sources/promotion 
+  of energy efficiency measures, etc. The curriculum developed in 2018 for the Science 
+  discipline in primary education also highlights the training of students' skills 
+  and the interest in actively promoting environmental values and a healthy way of 
+  life. The theme of ecological education is studied in educational institutions 
+  within the framework of compulsory classes, optional classes and extracurricular 
+  activities. The teaching staff orients the students, in school subjects related 
+  to the pre-noted field, towards the use of skills in the field of ecological education, 
+  for understanding and identifying solutions in the case of local and global problems, 
+  as well as those of sustainable development, environment, green economy, conservation 
+  energy and promoting energy efficiency measures. For the organization of optional 
+  classes, teachers have the Curriculum for the optional discipline "Ecological Education" 
+  for grades I-XII and the Curriculum for the optional discipline "Chemistry and 
+  environmental exploration" for grades X-XII (approved by the National Curriculum 
+  Council and by order ME no. 874 of September 8, 2015).</p> 
+  <p></p> 
+  <p>Education for climate change: In 2018, the Curriculum Reform was started, which 
+  determined the correlation of curriculum policies with national and international 
+  educational standards and the formatting of the graduate's profile through the 
+  prism of educational goals and the key skills system. In primary education, grades 
+  II-IV, in the Mathematics and Sciences Curriculum Area, the mandatory Science discipline 
+  is studied, for which the curriculum was developed and the document ensures the 
+  completion and updating of the contents related to natural phenomena, including 
+  climate changes. Thus, the curriculum includes specific development skills, namely: 
+  (1) identifying and describing the components, phenomena, processes, relationships 
+  characteristic of the environment, demonstrating correctness and coherence in the 
+  use of specific terminology; (2) exploration-investigation of the environment, 
+  showing curiosity and interest in capitalizing on specific methods and tools for 
+  collecting and organizing results; (3) explaining the information/results/conclusions 
+  obtained in efforts to learn about the environment, showing a critical and creative 
+  attitude; (4) solving some problem situations based on the integration of the acquisitions 
+  acquired in the discipline with those in other fields, showing interest in the 
+  active promotion of environmental values and a healthy way of life. In the context, 
+  the Science discipline in grades II-IV is oriented towards training the student 
+  through the prism of education towards nature, the environment, knowledge of the 
+  flora and fauna of the Republic of Moldova, responsibility towards natural biodiversity, 
+  protection of natural heritage, but also the use of skills in making decisions 
+  to protect and maintaining natural well-being. For middle and high school education, 
+  the Geography discipline is studied, which includes content units aimed at the 
+  topic of the effects of climate change. </p>
 permalink: ''
 placeholder: ''
 precision: []

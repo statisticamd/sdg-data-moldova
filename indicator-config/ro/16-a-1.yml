@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Accreditation status
+computation_units: statut de acreditare
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -32,10 +32,10 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: Republica Moldova
 page_content: >-
-  <p> ***Non-statistical indicator***</p> 
-  <p>Accreditation status:</p> 
+  <p> ***Indicator non-statistic***</p> 
+  <p>Statut de acreditare: </p> 
   <p>2010 - B</p> 
   <p>2011 - B</p> 
   <p>2012 - B</p> 

@@ -4,12 +4,8 @@ copyright: ''
 data_footnote: ''
 data_non_statistical: true
 data_notice_class: ''
-data_notice_heading: Non-statistical indicator
-data_notice_text: The last Population and Housing Census was carried out in 2014. 
-  The next Population and Housing Census is planned for 2024 and will be carried out 
-  on the basis of Law 231/2022 on the population and housing census and Government 
-  Decision 951/2022 on the organization and conducting of the population and housing 
-  census of the Republic of Moldova in 2024
+data_notice_heading: ''
+data_notice_text: ''
 data_show_map: false
 data_start_values: []
 embedded_feature_footer: ''
@@ -24,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 17.19.2.a. The population and housing Census conducted in the framework of the  2020 and 2030 round
+graph_title: national_indicators.17-19-2-a-graph
 graph_titles: []
 graph_type: line
-indicator_available: The population and housing Census conducted in the framework of the  2020 and 2030 round
+indicator_available: national_indicators.17-19-2-a-title
 indicator_name: national_indicators.17-19-2-a-title
 indicator_number: 17.19.2.a
 indicator_tabs:: 
@@ -37,11 +33,13 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: The last Population and Housing Census was carried out in 2014. 
-  The next Population and Housing Census is planned for 2024 and will be carried out 
-  on the basis of Law 231/2022 on the population and housing census and Government 
-  Decision 951/2022 on the organization and conducting of the population and housing 
-  census of the Republic of Moldova in 2024
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>The last Population and Housing Census was carried out in 2014. The next Population 
+  and Housing Census is planned for 2024 and will be carried out on the basis of 
+  Law 231/2022 on the population and housing census and Government Decision 951/2022 
+  on the organization and conducting of the population and housing census of the 
+  Republic of Moldova in 2024 </p>
 permalink: ''
 placeholder: ''
 precision: []

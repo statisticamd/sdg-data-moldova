@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 13.2.1.1 Actions for establishment and operationalization of policies,  strategies and action plans on climate change adaptation and resilience,   reduction of greenhouse gas emissions
+graph_title: national_indicators.13-2-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Actions for establishment and operationalization of policies,  strategies and action plans on climate change adaptation and resilience,   reduction of greenhouse gas emissions
+indicator_available: national_indicators.13-2-1-1-title
 indicator_name: national_indicators.13-2-1-1-title
 indicator_number: 13.2.1.1
 indicator_tabs:: 
@@ -33,7 +33,10 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova, including the left side of the river Nistru and the municipality of Bender
-page_content: ''
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>The National Communication Report was prepared in 2010, 2014, 2018, 2022</p> 
+  <p>Biennial Updated Report was developed in 2016, 2019, 2021 </p>
 permalink: ''
 placeholder: ''
 precision: []

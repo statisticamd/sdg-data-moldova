@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 5.1.1 Existence of legal framework to promote, enforce and monitor equality  and non‑discrimination on the basis of sex
+graph_title: national_indicators.5-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: nce of legal framework to promote, enforce and monitor equality and  non‑discrimination on the basis of sex
+indicator_available: national_indicators.5-1-1-title
 indicator_name: global_indicators.5-1-1-title
 indicator_number: 5.1.1
 indicator_tabs:: 
@@ -33,7 +33,20 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republic of Moldova
-page_content: ''
+page_content: >-
+  <p> ***Non-statistical indicator***</p> 
+  <p>Government Decision (GD) no. 933/2009 regarding the approval of the National 
+  Program for ensuring gender equality for the years 2010-2015</p> 
+  <p>Law no. 71/2016 for the amendment and completion of some legislative acts (paternal 
+  leave, sexist advertising, non-sexist language)</p> 
+  <p>GD no. 259/2017 regarding the approval of the Strategy for ensuring equality 
+  between women and men in the Republic of Moldova for the years 2017-2021 and the 
+  Action Plan regarding its implementation</p> 
+  <p>GD no. 281/2018 regarding the approval of the National Strategy to prevent and 
+  combat violence against women and family violence for the years 2018-2023 and the 
+  Action Plans regarding its implementation</p> 
+  <p>Law no. 144/2021 on the ratification of the Council of Europe Convention on 
+  preventing and combating violence against women and domestic violence </p>
 permalink: ''
 placeholder: ''
 precision: []

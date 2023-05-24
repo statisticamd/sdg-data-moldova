@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Accreditation status
+computation_units: număr
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -20,35 +20,25 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: national_indicators.16-a-1-graph
+graph_title: national_indicators.12-1-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.16-a-1-title
-indicator_name: global_indicators.16-a-1-title
-indicator_number: 16.a.1
+indicator_available: national_indicators.12-1-1-1-title
+indicator_name: national_indicators.12-1-1-1-title
+indicator_number: 12.1.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului 
+  și mun. Bender
 page_content: >-
-  <p> ***Non-statistical indicator***</p> 
-  <p>Accreditation status:</p> 
-  <p>2010 - B</p> 
-  <p>2011 - B</p> 
-  <p>2012 - B</p> 
-  <p>2013 - B</p> 
-  <p>2014 - B</p> 
-  <p>2015 - B</p> 
-  <p>2016 - B</p> 
-  <p>2017 - B</p> 
-  <p>2018 - A</p> 
-  <p>2019 - A</p> 
-  <p>2020 - A</p> 
-  <p>2021 - A</p> 
-  <p>2022 - A </p>
+  <p> ***Indicator non-statistic***</p> 
+  <p>Pentru anii 2018-2020 - Programul  de promovare a economiei verzi 2018-2020 
+  și Planului de acțiuni privind  implementarea Programului de promovare a economiei 
+  verzi în Republica Moldova  pentru anii 2018-2020. </p>
 permalink: ''
 placeholder: ''
 precision: []
