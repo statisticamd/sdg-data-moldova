@@ -2053,7 +2053,7 @@
             "constraints": {
               "enum": [
                 "Electronic",
-                "At the counter",
+                "La ghișeu",
                 ""
               ]
             },
@@ -4590,7 +4590,7 @@
                 ""
               ]
             },
-            "title": "Types of products"
+            "title": "Tipuri de produse"
           },
           {
             "name": "Value",
@@ -6904,7 +6904,7 @@
             "constraints": {
               "enum": [
                 "mode Electronic",
-                "At the counter",
+                "La ghișeu",
                 ""
               ]
             },

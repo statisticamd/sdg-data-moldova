@@ -56,7 +56,7 @@
             "constraints": {
               "enum": [
                 "mode Electronic",
-                "At the counter",
+                "La ghișeu",
                 ""
               ]
             },
