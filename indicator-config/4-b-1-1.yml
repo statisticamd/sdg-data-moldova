@@ -24,8 +24,8 @@ graph_title: 4.b.1.1. Number of budgetary places in the state order for enrolmen
 graph_titles: []
 graph_type: line
 indicator_available: Number of budgetary places in the state order for enrolment in higher education, including vocational training and information and communication technology, technical, engineering and scientific programmes
-indicator_name: national_indicators.4-b-1-1--title
-indicator_number: 4.b.1.1.
+indicator_name: national_indicators.4-b-1-1-title
+indicator_number: 4.b.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
