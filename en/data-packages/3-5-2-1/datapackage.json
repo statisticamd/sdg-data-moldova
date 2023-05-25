@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
+                "Men",
                 "Women",
                 ""
               ]
@@ -45,7 +45,7 @@
             "constraints": {
               "enum": [
                 "Urban/Men",
-                "Rural/men",
+                "Rural/Men",
                 "Urban/Women",
                 "Rural/Women",
                 ""
@@ -54,7 +54,7 @@
             "title": "Area of residence/Sex"
           },
           {
-            "name": "Age group/sex",
+            "name": "Age group/Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,7 +69,7 @@
                 ""
               ]
             },
-            "title": "Age group/sex"
+            "title": "Age group/Sex"
           },
           {
             "name": "Value",

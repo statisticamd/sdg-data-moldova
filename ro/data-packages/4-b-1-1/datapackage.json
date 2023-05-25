@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
-                "Bachelor's Degree: Information and Communication Technology",
-                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                "Licență - Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior",
+                "Licență - Tehnologia informației și comunicațiilor",
+                "Licență - Programe tehnice, inginerești și științifice",
                 ""
               ]
             },
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Master: Number of budgetary places in the state order for enrollment in higher education",
-                "Master: Information and Communication Technology",
-                "Master's: Technical, Engineering and Science Programs",
+                "Master - Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior",
+                "Master - Tehnologia informației și comunicațiilor",
+                "Master - Programe tehnice, inginerești și științifice",
                 ""
               ]
             },
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "4-b-1-1",
-  "title": "national_indicators.4-b-1-1--title"
+  "title": "Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior, inclusiv formare profesională și tehnologia informației și comunicațiilor, programe tehnice, inginerești și științifice"
 }

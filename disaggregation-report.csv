@@ -8,7 +8,7 @@ Age group / Sex,3,14
 Age group (subjected to violence),1,4
 Age group,33,41
 "Age groups of head of household, years",3,6
-Age group/sex,1,8
+Age group/Sex,1,8
 Agricultural sector,1,3
 Animals,1,2
 Area of discrimination,1,8
@@ -78,7 +78,7 @@ kg/person,1,1
 Legal basis,1,2
 Level of education of the head of the household,1,4
 Level of education,2,5
-Level of government ,1,3
+Level of government,1,3
 Level of studies,1,4
 Levels,1,2
 Master,1,3
@@ -106,7 +106,7 @@ Proportion of ‘young’  registrars aged 44 and below / Proportion of the work
 "Quintile I, by area of residence",2,3
 Quintiles on consumption expenditures,9,5
 Rayons/Municipalities that have treatment plants,1,16
-Regions,6,11
+Regions,6,10
 "Reported on a person, by ingredients",1,6
 "Reported on a person, by sources",1,3
 Requested authority,1,6
@@ -115,7 +115,7 @@ Sex (neglected),1,2
 Sex of the head of the household,7,2
 Sex of the petitioner,1,2
 Sex (subjected to violence),1,2
-Sex,51,5
+Sex,51,4
 Sexes,1,1
 Socio-economic status of pupils,2,2
 Speeds,1,5

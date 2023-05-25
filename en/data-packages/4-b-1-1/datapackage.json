@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
-                "Bachelor's Degree: Information and Communication Technology",
-                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                "Bachelor's Degree - Number of budgetary places in the state order for enrollment in higher education",
+                "Bachelor's Degree - Information and Communication Technology",
+                "Bachelor's Degree - Technical, Engineering and Science Programs",
                 ""
               ]
             },
@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Master: Number of budgetary places in the state order for enrollment in higher education",
-                "Master: Information and Communication Technology",
-                "Master's: Technical, Engineering and Science Programs",
+                "Master - Number of budgetary places in the state order for enrollment in higher education",
+                "Master - Information and Communication Technology",
+                "Master - Technical, Engineering and Science Programs",
                 ""
               ]
             },
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "4-b-1-1",
-  "title": "national_indicators.4-b-1-1--title"
+  "title": "Number of budgetary places in the state order for enrolment in higher education, including vocational training and information and communication technology, technical, engineering and scientific programmes"
 }

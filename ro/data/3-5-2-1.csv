@@ -1,11 +1,11 @@
-Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
+Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Grupa de vârstă/Sex,Value
 2010,,,,,
 2010,Bărbați,,,,
 2010,Femei,,,,
 2010,,Urban,,,
 2010,,Rural,,,
 2010,,,Urban/Bărbați,,
-2010,,,Rural/men,,
+2010,,,Rural/Bărbați,,
 2010,,,Urban/Femei,,
 2010,,,Rural/Femei,,
 2010,,,,15-24/Bărbați,
@@ -22,7 +22,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2011,,Urban,,,
 2011,,Rural,,,
 2011,,,Urban/Bărbați,,
-2011,,,Rural/men,,
+2011,,,Rural/Bărbați,,
 2011,,,Urban/Femei,,
 2011,,,Rural/Femei,,
 2011,,,,15-24/Bărbați,
@@ -39,7 +39,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2012,,Urban,,,
 2012,,Rural,,,
 2012,,,Urban/Bărbați,,78.0
-2012,,,Rural/men,,81.0
+2012,,,Rural/Bărbați,,81.0
 2012,,,Urban/Femei,,61.0
 2012,,,Rural/Femei,,54.0
 2012,,,,15-24/Bărbați,71.2
@@ -56,7 +56,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2013,,Urban,,,59.0
 2013,,Rural,,,64.5
 2013,,,Urban/Bărbați,,
-2013,,,Rural/men,,
+2013,,,Rural/Bărbați,,
 2013,,,Urban/Femei,,
 2013,,,Rural/Femei,,
 2013,,,,15-24/Bărbați,
@@ -73,7 +73,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2014,,Urban,,,
 2014,,Rural,,,
 2014,,,Urban/Bărbați,,
-2014,,,Rural/men,,
+2014,,,Rural/Bărbați,,
 2014,,,Urban/Femei,,
 2014,,,Rural/Femei,,
 2014,,,,15-24/Bărbați,
@@ -90,7 +90,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2015,,Urban,,,
 2015,,Rural,,,
 2015,,,Urban/Bărbați,,
-2015,,,Rural/men,,
+2015,,,Rural/Bărbați,,
 2015,,,Urban/Femei,,
 2015,,,Rural/Femei,,
 2015,,,,15-24/Bărbați,
@@ -107,7 +107,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2016,,Urban,,,
 2016,,Rural,,,
 2016,,,Urban/Bărbați,,
-2016,,,Rural/men,,
+2016,,,Rural/Bărbați,,
 2016,,,Urban/Femei,,
 2016,,,Rural/Femei,,
 2016,,,,15-24/Bărbați,
@@ -124,7 +124,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2017,,Urban,,,61.3
 2017,,Rural,,,60.6
 2017,,,Urban/Bărbați,,
-2017,,,Rural/men,,
+2017,,,Rural/Bărbați,,
 2017,,,Urban/Femei,,
 2017,,,Rural/Femei,,
 2017,,,,15-24/Bărbați,
@@ -141,7 +141,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2018,,Urban,,,
 2018,,Rural,,,
 2018,,,Urban/Bărbați,,
-2018,,,Rural/men,,
+2018,,,Rural/Bărbați,,
 2018,,,Urban/Femei,,
 2018,,,Rural/Femei,,
 2018,,,,15-24/Bărbați,
@@ -158,7 +158,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2019,,Urban,,,
 2019,,Rural,,,
 2019,,,Urban/Bărbați,,
-2019,,,Rural/men,,
+2019,,,Rural/Bărbați,,
 2019,,,Urban/Femei,,
 2019,,,Rural/Femei,,
 2019,,,,15-24/Bărbați,
@@ -175,7 +175,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2020,,Urban,,,
 2020,,Rural,,,
 2020,,,Urban/Bărbați,,
-2020,,,Rural/men,,
+2020,,,Rural/Bărbați,,
 2020,,,Urban/Femei,,
 2020,,,Rural/Femei,,
 2020,,,,15-24/Bărbați,
@@ -192,7 +192,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2021,,Urban,,,68.2
 2021,,Rural,,,57.8
 2021,,,Urban/Bărbați,,
-2021,,,Rural/men,,
+2021,,,Rural/Bărbați,,
 2021,,,Urban/Femei,,
 2021,,,Rural/Femei,,
 2021,,,,15-24/Bărbați,
@@ -209,7 +209,7 @@ Year,Sex,Mediul de reședință,Mediul de reședință/Sex,Age group/sex,Value
 2022,,Urban,,,
 2022,,Rural,,,
 2022,,,Urban/Bărbați,,
-2022,,,Rural/men,,
+2022,,,Rural/Bărbați,,
 2022,,,Urban/Femei,,
 2022,,,Rural/Femei,,
 2022,,,,15-24/Bărbați,

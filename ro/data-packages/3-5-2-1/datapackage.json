@@ -45,7 +45,7 @@
             "constraints": {
               "enum": [
                 "Urban/Bărbați",
-                "Rural/men",
+                "Rural/Bărbați",
                 "Urban/Femei",
                 "Rural/Femei",
                 ""
@@ -54,7 +54,7 @@
             "title": "Mediul de reședință/Sex"
           },
           {
-            "name": "Age group/sex",
+            "name": "Age group/Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,7 +69,7 @@
                 ""
               ]
             },
-            "title": "Age group/sex"
+            "title": "Grupa de vârstă/Sex"
           },
           {
             "name": "Value",

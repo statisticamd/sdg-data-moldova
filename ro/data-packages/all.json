@@ -369,9 +369,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
-                "Bachelor's Degree: Information and Communication Technology",
-                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                "Licență - Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior",
+                "Licență - Tehnologia informației și comunicațiilor",
+                "Licență - Programe tehnice, inginerești și științifice",
                 ""
               ]
             },
@@ -382,9 +382,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Master: Number of budgetary places in the state order for enrollment in higher education",
-                "Master: Information and Communication Technology",
-                "Master's: Technical, Engineering and Science Programs",
+                "Master - Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior",
+                "Master - Tehnologia informației și comunicațiilor",
+                "Master - Programe tehnice, inginerești și științifice",
                 ""
               ]
             },
@@ -407,7 +407,7 @@
           }
         ]
       },
-      "title": "national_indicators.4-b-1-1--title"
+      "title": "Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior, inclusiv formare profesională și tehnologia informației și comunicațiilor, programe tehnice, inginerești și științifice"
     },
     {
       "path": "3-2-2/data.csv",
@@ -6510,18 +6510,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(01) national legislation, policies and funding;",
-                "(02) coordination and liaison with national focal points;",
-                "(03) supervision;",
+                "(01) national legislation, policies and funding",
+                "(02) coordination and liaison with national focal points",
+                "(03) supervision",
                 "(04) the answer",
-                "(05) training;",
-                "(06) risk communication;",
-                "(07) human resources;",
-                "(08) the laboratory;",
-                "(09) entry points;",
-                "(10) zoonotic events;",
-                "(11) food safety;",
-                "(12) chemical events;",
+                "(05) training",
+                "(06) risk communication",
+                "(07) human resources",
+                "(08) the laboratory",
+                "(09) entry points",
+                "(10) zoonotic events",
+                "(11) food safety",
+                "(12) chemical events",
                 "(13) radionuclear emergencies",
                 "funding",
                 "preparation and response",
@@ -6625,7 +6625,7 @@
             "constraints": {
               "enum": [
                 "Urban/Bărbați",
-                "Rural/men",
+                "Rural/Bărbați",
                 "Urban/Femei",
                 "Rural/Femei",
                 ""
@@ -6634,7 +6634,7 @@
             "title": "Mediul de reședință/Sex"
           },
           {
-            "name": "Age group/sex",
+            "name": "Age group/Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6649,7 +6649,7 @@
                 ""
               ]
             },
-            "title": "Age group/sex"
+            "title": "Grupa de vârstă/Sex"
           },
           {
             "name": "Value",
@@ -6692,9 +6692,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total up to the age of 18  years old",
-                "Boys up to the age of 18  years old",
-                "Girls up to the age of 18  years old",
+                "Total până la 18 ani",
+                "Băieți până la 18 ani",
+                "Fete până la 18 ani",
                 ""
               ]
             },
@@ -8007,7 +8007,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North ",
+                "Nord",
                 "Centre",
                 "Sud",
                 "Mun. Chișinău",
@@ -9915,7 +9915,7 @@
             "title": "Anul"
           },
           {
-            "name": "Level of government ",
+            "name": "Level of government",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9925,7 +9925,7 @@
                 ""
               ]
             },
-            "title": "Level of government "
+            "title": "Nivelul autorități publice"
           },
           {
             "name": "Function type",
