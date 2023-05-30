@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sources of funding",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "State budget",
+                "Support from development partners",
+                ""
+              ]
+            },
+            "title": "Sources of funding"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-b-1-1",
+  "title": "Volumul investițiilor în sectorul de eficiență energetică raportat la PIB"
+}

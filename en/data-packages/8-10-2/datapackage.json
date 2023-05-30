@@ -12,8 +12,68 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary and below",
+                "Secondary and above",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
+            "name": "Incomes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poors, 40%",
+                "Wealthy, 60%",
+                ""
+              ]
+            },
+            "title": "Incomes"
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Area"
           },
           {
             "name": "Value",

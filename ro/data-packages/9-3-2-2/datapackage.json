@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Industrie",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Size of enterprises",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Micro",
+                "Small",
+                "Medium",
+                ""
+              ]
+            },
+            "title": "Size of enterprises"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-2-2",
+  "title": "Ponderea valorii creditelor și împrumuturilor accesate de întreprinderile mici și mijlocii, pe parcursul anului, în total valoarea creditelor și împrumuturilor accesate de către întreprinderi,  inclusiv în sectorul industrie"
+}
