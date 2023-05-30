@@ -24,7 +24,7 @@
           }
         ]
       },
-      "title": "Proportion of female personal assistants (caring for people with severe disabilities)"
+      "title": "national_indicators.5-4-1-1-title"
     },
     {
       "path": "12-2-2-a/data.csv",
@@ -62,7 +62,7 @@
           }
         ]
       },
-      "title": "Consumption of natural resources per capita (the same as 8.4.2.a)"
+      "title": "national_indicators.12-2-2-a-title"
     },
     {
       "path": "10-1-1-a/data.csv",
@@ -86,7 +86,7 @@
           }
         ]
       },
-      "title": "Growth rate of household expenditures per capita among the total population"
+      "title": "national_indicators.10-1-1-a-title"
     },
     {
       "path": "5-5-1-b/data.csv",
@@ -122,7 +122,7 @@
           }
         ]
       },
-      "title": "Proportion of seats held by women in local public administration"
+      "title": "national_indicators.5-5-1-b-title"
     },
     {
       "path": "4-3-1/data.csv",
@@ -275,7 +275,7 @@
           }
         ]
       },
-      "title": "Proportion of unemployed benefiting from unemployment allowance, in total registered unemployed"
+      "title": "national_indicators.1-3-1-e-title"
     },
     {
       "path": "8-8-1/data.csv",
@@ -445,7 +445,7 @@
           }
         ]
       },
-      "title": "Number of budgetary places in the state order for enrolment in higher education, including vocational training and information and communication technology, technical, engineering and scientific programmes"
+      "title": "national_indicators.4-b-1-1-title"
     },
     {
       "path": "3-2-2/data.csv",
@@ -578,7 +578,7 @@
           }
         ]
       },
-      "title": "Implementation of the Civil Society Development Strategy"
+      "title": "national_indicators.17-17-1-1-title"
     },
     {
       "path": "1-3-1-i/data.csv",
@@ -627,7 +627,7 @@
           }
         ]
       },
-      "title": "Coverage of the poorest population (I quintile) with social allowance for the cold period of the year"
+      "title": "national_indicators.1-3-1-i-title"
     },
     {
       "path": "7-1-2-1/data.csv",
@@ -736,7 +736,7 @@
           }
         ]
       },
-      "title": "Distribution of energy sources used for domestic needs (space heating, space cooling, water heating, cooking)"
+      "title": "national_indicators.7-1-2-1-title"
     },
     {
       "path": "1-a-1-1/data.csv",
@@ -796,7 +796,7 @@
           }
         ]
       },
-      "title": "Implementation level of the national strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030 ( the same as 1.5.3.2/11.b.1.2)"
+      "title": "national_indicators.13-1-2-2-title"
     },
     {
       "path": "3-7-2/data.csv",
@@ -885,7 +885,7 @@
           }
         ]
       },
-      "title": "Final consumption of primary energy"
+      "title": "national_indicators.7-3-1-a-title"
     },
     {
       "path": "16-2-3/data.csv",
@@ -994,7 +994,7 @@
           }
         ]
       },
-      "title": "Number of bilateral social security agreements signed and in force"
+      "title": "national_indicators.10-7-2-3-title"
     },
     {
       "path": "12-5-1/data.csv",
@@ -1057,7 +1057,7 @@
           }
         ]
       },
-      "title": "Contribution of gross value added of SMEs in total gross value added"
+      "title": "national_indicators.9-3-1-1-title"
     },
     {
       "path": "5-6-2-1/data.csv",
@@ -1095,7 +1095,7 @@
           }
         ]
       },
-      "title": "Existence in the country of legislative-normative framework guaranteeing women and men aged 15-49 years old access to sexual and reproductive health, information and education"
+      "title": "national_indicators.5-6-2-1-title"
     },
     {
       "path": "8-8-2-1/data.csv",
@@ -1119,7 +1119,7 @@
           }
         ]
       },
-      "title": "Number of collective agreements concluded at the institutional level in line with ILO documentary sources and national legislation"
+      "title": "national_indicators.8-8-2-1-title"
     },
     {
       "path": "16-3-2/data.csv",
@@ -1283,7 +1283,7 @@
           }
         ]
       },
-      "title": "Implementation in the country of the legislative-normative framework, which guarantees women and men aged 15-49 years old access to sexual and reproductive health, information and education"
+      "title": "national_indicators.5-6-2-2-title"
     },
     {
       "path": "8-3-1/data.csv",
@@ -1463,7 +1463,7 @@
           }
         ]
       },
-      "title": "Implementation level of the national strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030 (the same as 11.b.1.2/13.1.2.2)"
+      "title": "national_indicators.1-5-3-2-title"
     },
     {
       "path": "10-2-1/data.csv",
@@ -1563,7 +1563,7 @@
           }
         ]
       },
-      "title": "Level of implementation of the national strategic framework on climate change"
+      "title": "national_indicators.13-3-1-2-title"
     },
     {
       "path": "1-3-1-g/data.csv",
@@ -1613,7 +1613,7 @@
           }
         ]
       },
-      "title": "Proportion of vulnerable persons benefiting from social assistance benefits"
+      "title": "national_indicators.1-3-1-g-title"
     },
     {
       "path": "8-4-1-a/data.csv",
@@ -1649,7 +1649,7 @@
           }
         ]
       },
-      "title": "Volume of natural resources extracted per person (the same as 12.2.1.a)"
+      "title": "national_indicators.8-4-1-a-title"
     },
     {
       "path": "1-1-1/data.csv",
@@ -1782,7 +1782,7 @@
           }
         ]
       },
-      "title": "Proportion of court cases lost at ECHR out of the number of applications communicated every year"
+      "title": "national_indicators.16-3-2-3-title"
     },
     {
       "path": "7-3-1-b/data.csv",
@@ -1821,7 +1821,7 @@
           }
         ]
       },
-      "title": "Final consumption of energy resources"
+      "title": "national_indicators.7-3-1-b-title"
     },
     {
       "path": "13-1-2-1/data.csv",
@@ -1845,7 +1845,7 @@
           }
         ]
       },
-      "title": "National strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, adopted and implemented (the same as 1.5.3.1/11.b.1.1)"
+      "title": "national_indicators.13-1-2-1-title"
     },
     {
       "path": "12-1-1-1/data.csv",
@@ -1869,7 +1869,7 @@
           }
         ]
       },
-      "title": "Number of national policies integrating \"green\" economy aspects, sustainable production and consumption (SPC)"
+      "title": "national_indicators.12-1-1-1-title"
     },
     {
       "path": "1-a-2-b/data.csv",
@@ -1893,7 +1893,7 @@
           }
         ]
       },
-      "title": "Proportion of health care expenditure in total national public budget expenditure"
+      "title": "national_indicators.1-a-2-b-title"
     },
     {
       "path": "8-b-1/data.csv",
@@ -1941,7 +1941,7 @@
           }
         ]
       },
-      "title": "Existence of regulatory documents and measures on prevention and decrease of invasive species' appearance to control and eradicate priority species"
+      "title": "national_indicators.15-8-1-1-title"
     },
     {
       "path": "8-7-1-a/data.csv",
@@ -2009,7 +2009,7 @@
           }
         ]
       },
-      "title": "Percentage of children aged 5–17 years engaged in child labour"
+      "title": "national_indicators.8-7-1-a-title"
     },
     {
       "path": "15-1-1/data.csv",
@@ -2128,7 +2128,7 @@
           }
         ]
       },
-      "title": "Proportion of employees in tourism activities out of the total employees"
+      "title": "national_indicators.8-9-1-2-title"
     },
     {
       "path": "16-6-2-1/data.csv",
@@ -2164,7 +2164,7 @@
           }
         ]
       },
-      "title": "Proportion of population accessing public services electronically out of total beneficiaries of public services"
+      "title": "national_indicators.16-6-2-1-title"
     },
     {
       "path": "11-3-2/data.csv",
@@ -2419,7 +2419,7 @@
           }
         ]
       },
-      "title": "Proportion of underground water bodies which achieved the \"good quality\" class (according to analytical chemical parameters, dissolved metals, pesticides)"
+      "title": "national_indicators.6-3-2-b-title"
     },
     {
       "path": "9-5-1/data.csv",
@@ -2491,7 +2491,7 @@
           }
         ]
       },
-      "title": "Gross admission rate in the last year of study of primary and secondary education"
+      "title": "national_indicators.4-1-2-1-title"
     },
     {
       "path": "8-6-1/data.csv",
@@ -2755,7 +2755,7 @@
           }
         ]
       },
-      "title": "Area of extended forest"
+      "title": "national_indicators.15-2-1-3-title"
     },
     {
       "path": "16-1-1/data.csv",
@@ -2887,7 +2887,7 @@
           }
         ]
       },
-      "title": "Proportion of hazardous waste recycled, disposed of or landfilled out of total hazardous waste generated"
+      "title": "national_indicators.12-4-2-b-title"
     },
     {
       "path": "16-2-1/data.csv",
@@ -3041,7 +3041,7 @@
           }
         ]
       },
-      "title": "Existence and level of implementation of the legislative and regulatory framework on access to information"
+      "title": "national_indicators.16-10-2-1-title"
     },
     {
       "path": "12-a-1/data.csv",
@@ -3101,7 +3101,7 @@
           }
         ]
       },
-      "title": "Rate of births and deaths registration"
+      "title": "national_indicators.17-19-2-b-title"
     },
     {
       "path": "17-4-1/data.csv",
@@ -3216,7 +3216,7 @@
           }
         ]
       },
-      "title": "Proportion of population with household expenditures on health larger than 25% of total household expenditure"
+      "title": "national_indicators.3-8-2-b-title"
     },
     {
       "path": "10-4-1/data.csv",
@@ -3507,7 +3507,7 @@
           }
         ]
       },
-      "title": "Ratio between the proportion of seat taken in the Parliament by persons from certain groups of population and proportion of the respective group in total population"
+      "title": "national_indicators.16-7-1-a-title"
     },
     {
       "path": "2-1-2/data.csv",
@@ -3578,7 +3578,7 @@
           }
         ]
       },
-      "title": "Parity index in general secondary (lyceums) and technical vocational education (level 3)"
+      "title": "national_indicators.4-5-1-c-title"
     },
     {
       "path": "9-2-1-2/data.csv",
@@ -3602,7 +3602,7 @@
           }
         ]
       },
-      "title": "Manufacturing gross value added per employed person (US dollars, constant prices)"
+      "title": "national_indicators.9-2-1-2-title"
     },
     {
       "path": "4-c-1-a/data.csv",
@@ -3650,7 +3650,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with pedagogical education in pre-primary education"
+      "title": "national_indicators.4-c-1-a-title"
     },
     {
       "path": "16-1-3/data.csv",
@@ -3895,7 +3895,7 @@
           }
         ]
       },
-      "title": "Parity index in lower secondary education (level 2)"
+      "title": "national_indicators.4-5-1-b-title"
     },
     {
       "path": "8-1-1/data.csv",
@@ -4006,7 +4006,7 @@
           }
         ]
       },
-      "title": "Average number of mobile telephones by 100 households"
+      "title": "national_indicators.5-b-1-1-title"
     },
     {
       "path": "11-6-2-1/data.csv",
@@ -4099,7 +4099,7 @@
           }
         ]
       },
-      "title": "Quantity of emissions of polluting substances in the air from mobile sources (by sources), thousand tonnes, reported per person"
+      "title": "national_indicators.11-6-2-1-title"
     },
     {
       "path": "3-9-1/data.csv",
@@ -4207,7 +4207,7 @@
           }
         ]
       },
-      "title": "Existence of normative framework to ensure fair and equitable sharing of genetic resources"
+      "title": "national_indicators.15-6-1-1-title"
     },
     {
       "path": "1-5-4/data.csv",
@@ -4267,7 +4267,7 @@
           }
         ]
       },
-      "title": "The population and housing Census conducted in the framework of the 2020 and 2030 round"
+      "title": "national_indicators.17-19-2-a-title"
     },
     {
       "path": "10-7-1/data.csv",
@@ -4414,7 +4414,7 @@
           }
         ]
       },
-      "title": "Manufacturing gross value added as a proportion of GDP (MDL, current prices)"
+      "title": "national_indicators.9-2-1-a-title"
     },
     {
       "path": "10-5-1/data.csv",
@@ -4563,7 +4563,7 @@
           }
         ]
       },
-      "title": "Coverage of children up to 3 years old with early education"
+      "title": "national_indicators.5-4-1-2-title"
     },
     {
       "path": "3-3-1-1/data.csv",
@@ -4599,7 +4599,7 @@
           }
         ]
       },
-      "title": "HIV associated deaths, per 100,000 population"
+      "title": "national_indicators.3-3-1-1-title"
     },
     {
       "path": "1-5-1-a/data.csv",
@@ -4649,7 +4649,7 @@
           }
         ]
       },
-      "title": "Number of people who died as a result of disasters, per 100.000 population (the same as 11.5.1.a/13.1.1.a)"
+      "title": "national_indicators.1-5-1-a-title"
     },
     {
       "path": "3-9-3/data.csv",
@@ -4793,7 +4793,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with pedagogical education in primary education"
+      "title": "national_indicators.4-c-1-b-title"
     },
     {
       "path": "9-3-2-1/data.csv",
@@ -4841,7 +4841,7 @@
           }
         ]
       },
-      "title": "Proportion of SMEs that accessed credit and/or loans during the year, including by industry sector"
+      "title": "national_indicators.9-3-2-1-title"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -4932,7 +4932,7 @@
           }
         ]
       },
-      "title": "Proportion of population with monthly expenditures for dwelling maintenance that exceeds 30% of the household monthly disposable income (accessibility - adequate dwelling)"
+      "title": "national_indicators.11-1-1-a-title"
     },
     {
       "path": "9-c-1/data.csv",
@@ -5006,7 +5006,7 @@
           }
         ]
       },
-      "title": "Consumption of natural resources per GDP (the same as 8.4.2.b)"
+      "title": "national_indicators.12-2-2-b-title"
     },
     {
       "path": "10-7-2-1/data.csv",
@@ -5046,7 +5046,7 @@
           }
         ]
       },
-      "title": "Existence of efficient national policies on migration"
+      "title": "national_indicators.10-7-2-1-title"
     },
     {
       "path": "17-18-3-1/data.csv",
@@ -5070,7 +5070,7 @@
           }
         ]
       },
-      "title": "Existence of annual Action Plan to implement the National Strategy for Development of the National Statistical System that is fully funded and under implementation"
+      "title": "national_indicators.17-18-3-1-title"
     },
     {
       "path": "4-a-1-f/data.csv",
@@ -5119,7 +5119,7 @@
           }
         ]
       },
-      "title": "Proportion of schools with access to separate sanitation facilities for girls and boys"
+      "title": "national_indicators.4-a-1-f-title"
     },
     {
       "path": "6-3-2-1/data.csv",
@@ -5156,7 +5156,7 @@
           }
         ]
       },
-      "title": "Proportion of drinking water supply sources not compliant with the sanitary norms for water quality (according to microbiological parameters)"
+      "title": "national_indicators.6-3-2-1-title"
     },
     {
       "path": "4-a-1-e/data.csv",
@@ -5205,7 +5205,7 @@
           }
         ]
       },
-      "title": "Proportion of schools supplied with drinking water"
+      "title": "national_indicators.4-a-1-e-title"
     },
     {
       "path": "16-a-1/data.csv",
@@ -5289,7 +5289,7 @@
           }
         ]
       },
-      "title": "Rate of road traffic accidents per 100,000 population"
+      "title": "national_indicators.11-2-1-3-title"
     },
     {
       "path": "9-4-1-1/data.csv",
@@ -5327,7 +5327,7 @@
           }
         ]
       },
-      "title": "Total CO2 emissions by sectors, equivalent thousand tons CO2"
+      "title": "national_indicators.9-4-1-1-title"
     },
     {
       "path": "5-5-2-3/data.csv",
@@ -5351,7 +5351,7 @@
           }
         ]
       },
-      "title": "Proportion of female judges"
+      "title": "national_indicators.5-5-2-3-title"
     },
     {
       "path": "9-2-2/data.csv",
@@ -5455,7 +5455,7 @@
           }
         ]
       },
-      "title": "Level of implementation of actions under the Environmental Strategy Plan for 2014-2023"
+      "title": "national_indicators.15-9-1-1-title"
     },
     {
       "path": "4-b-1/data.csv",
@@ -5539,7 +5539,7 @@
           }
         ]
       },
-      "title": "Proportion of primary and general secondary schools with Internet connection for teaching purposes"
+      "title": "national_indicators.4-a-1-b-title"
     },
     {
       "path": "8-4-2-b/data.csv",
@@ -5577,7 +5577,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption per GDP (the same as 12.2.2.b)"
+      "title": "national_indicators.8-4-2-b-title"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -5625,7 +5625,7 @@
           }
         ]
       },
-      "title": "Proportion of children covered by benefits for families with children (monthly childcare allowance until the age of 2 for uninsured persons, childcare allowance for insured persons)"
+      "title": "national_indicators.1-3-1-b-title"
     },
     {
       "path": "16-b-1/data.csv",
@@ -5933,7 +5933,7 @@
           }
         ]
       },
-      "title": "Number of persons that accessed state guaranteed legal aid"
+      "title": "national_indicators.16-3-2-1-title"
     },
     {
       "path": "17-19-1/data.csv",
@@ -6247,7 +6247,7 @@
           }
         ]
       },
-      "title": "Level of public satisfaction regarding on the quality of services in the judicial system"
+      "title": "national_indicators.16-3-2-4-title"
     },
     {
       "path": "16-1-3-1/data.csv",
@@ -6313,7 +6313,7 @@
           }
         ]
       },
-      "title": "Number of victims of violent crime per 100,000 population"
+      "title": "national_indicators.16-1-3-1-title"
     },
     {
       "path": "1-3-1-d/data.csv",
@@ -6412,7 +6412,7 @@
           }
         ]
       },
-      "title": "Proportion of persons with disabilities who benefit from social benefits"
+      "title": "national_indicators.1-3-1-d-title"
     },
     {
       "path": "16-4-2-1/data.csv",
@@ -6436,7 +6436,7 @@
           }
         ]
       },
-      "title": "Number of legally owned arms, per 100,000 population"
+      "title": "national_indicators.16-4-2-1-title"
     },
     {
       "path": "4-7-1/data.csv",
@@ -6506,7 +6506,7 @@
           }
         ]
       },
-      "title": "Parity index of children with disabilities in primary and general secondary education"
+      "title": "national_indicators.4-5-1-e-title"
     },
     {
       "path": "9-2-1-b/data.csv",
@@ -6530,7 +6530,7 @@
           }
         ]
       },
-      "title": "Manufacturing gross value added per person (MDL, constant prices)"
+      "title": "national_indicators.9-2-1-b-title"
     },
     {
       "path": "2-a-1/data.csv",
@@ -6699,7 +6699,7 @@
           }
         ]
       },
-      "title": "Proportion of population with mandatory health insurance"
+      "title": "national_indicators.3-8-2-2-title"
     },
     {
       "path": "10-1-1-b/data.csv",
@@ -6723,7 +6723,7 @@
           }
         ]
       },
-      "title": "Rate of increase in expenditure per person of the bottom 40% of the population"
+      "title": "national_indicators.10-1-1-b-title"
     },
     {
       "path": "11-5-3-b/data.csv",
@@ -6896,7 +6896,7 @@
           }
         ]
       },
-      "title": "Gender pay disparity"
+      "title": "national_indicators.8-5-1-1-title"
     },
     {
       "path": "3-5-2-1/data.csv",
@@ -6976,7 +6976,7 @@
           }
         ]
       },
-      "title": "Prevalence of harmful use of alcohol"
+      "title": "national_indicators.3-5-2-1-title"
     },
     {
       "path": "3-4-2/data.csv",
@@ -7049,7 +7049,7 @@
           }
         ]
       },
-      "title": "Proportion of expenditures for maintenance and protection of cultural heritage in total expenditures of the national public budget"
+      "title": "national_indicators.11-4-1-1-title"
     },
     {
       "path": "1-a-3-1/data.csv",
@@ -7073,7 +7073,7 @@
           }
         ]
       },
-      "title": "Proportion of public expenditure on social protection in GDP"
+      "title": "national_indicators.1-a-3-1-title"
     },
     {
       "path": "11-1-1-b/data.csv",
@@ -7164,7 +7164,7 @@
           }
         ]
       },
-      "title": "Proportion of persons living in dwellings below 9 m2 per person and of persons of different sexes over 9 years of age living in the same room, excluding spouses (overcrowding)"
+      "title": "national_indicators.11-1-1-b-title"
     },
     {
       "path": "16-6-2/data.csv",
@@ -7315,7 +7315,7 @@
           }
         ]
       },
-      "title": "Ratio between the proportion of positions held in public authorities (central and local) by persons from certain groups of population and the proportion of the respective group out of total population"
+      "title": "national_indicators.16-7-1-b-title"
     },
     {
       "path": "13-1-1-c/data.csv",
@@ -7365,7 +7365,7 @@
           }
         ]
       },
-      "title": "Number of people directly affected as a result of exceptional situations per 100,000 population (indicator 1.5.1.c/11.5.1.c)"
+      "title": "national_indicators.13-1-1-c-title"
     },
     {
       "path": "5-b-1/data.csv",
@@ -7482,7 +7482,7 @@
           }
         ]
       },
-      "title": "Manufacturing gross value added as a proportion of GDP (US dollars, current prices)"
+      "title": "national_indicators.9-2-1-1-title"
     },
     {
       "path": "15-1-2/data.csv",
@@ -7686,7 +7686,7 @@
           }
         ]
       },
-      "title": "Number of deaths attributed to disasters per 100,000 population (the same as 1.5.1.a/13.1.1.a)"
+      "title": "national_indicators.11-5-1-a-title"
     },
     {
       "path": "16-2-1-1/data.csv",
@@ -7819,7 +7819,7 @@
           }
         ]
       },
-      "title": "Number of child victims of violence and neglect at the end of the year"
+      "title": "national_indicators.16-2-1-1-title"
     },
     {
       "path": "16-9-1/data.csv",
@@ -7902,7 +7902,7 @@
           }
         ]
       },
-      "title": "World Press Freedom Index"
+      "title": "national_indicators.16-10-1-1-title"
     },
     {
       "path": "11-7-1/data.csv",
@@ -8014,7 +8014,7 @@
           }
         ]
       },
-      "title": "Availability of national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+      "title": "national_indicators.17-18-2-1-title"
     },
     {
       "path": "5-2-1/data.csv",
@@ -8390,7 +8390,7 @@
           }
         ]
       },
-      "title": "Total CO2 emissions per 1 GDP unit"
+      "title": "national_indicators.9-4-1-b-title"
     },
     {
       "path": "4-a-1-d/data.csv",
@@ -8426,7 +8426,7 @@
           }
         ]
       },
-      "title": "Proportion of general education institutions adapted to the needs of people with disabilities"
+      "title": "national_indicators.4-a-1-d-title"
     },
     {
       "path": "6-3-1/data.csv",
@@ -8664,7 +8664,7 @@
           }
         ]
       },
-      "title": "Water use for production and drinking needs"
+      "title": "national_indicators.6-4-1-1-title"
     },
     {
       "path": "1-3-1-h/data.csv",
@@ -8713,7 +8713,7 @@
           }
         ]
       },
-      "title": "Coverage of the poorest population (I quintile) with social assistance benefits"
+      "title": "national_indicators.1-3-1-h-title"
     },
     {
       "path": "8-9-1-1/data.csv",
@@ -8737,7 +8737,7 @@
           }
         ]
       },
-      "title": "Share of tourism in GDP"
+      "title": "national_indicators.8-9-1-1-title"
     },
     {
       "path": "1-a-2-c/data.csv",
@@ -8761,7 +8761,7 @@
           }
         ]
       },
-      "title": "Proportion of social protection expenditure in total national public budget expenditure"
+      "title": "national_indicators.1-a-2-c-title"
     },
     {
       "path": "10-7-4/data.csv",
@@ -8922,7 +8922,7 @@
           }
         ]
       },
-      "title": "Proportion of private expenditures (of households) for health"
+      "title": "national_indicators.3-8-2-1-title"
     },
     {
       "path": "6-4-2/data.csv",
@@ -9037,7 +9037,7 @@
           }
         ]
       },
-      "title": "Proportion of population with household expenditures on health larger than 10% of total household expenditure"
+      "title": "national_indicators.3-8-2-a-title"
     },
     {
       "path": "11-b-1-1/data.csv",
@@ -9061,7 +9061,7 @@
           }
         ]
       },
-      "title": "National strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, adopted and implemented (the same as 1.5.3.1/13.1.2.1)"
+      "title": "national_indicators.11-b-1-1-title"
     },
     {
       "path": "15-5-1-1/data.csv",
@@ -9097,7 +9097,7 @@
           }
         ]
       },
-      "title": "Total number of species included in the Red Book"
+      "title": "national_indicators.15-5-1-1-title"
     },
     {
       "path": "5-c-1-1/data.csv",
@@ -9121,7 +9121,7 @@
           }
         ]
       },
-      "title": "Availability of public resources' monitoring and allocation systems for gender equality and women's empowerment"
+      "title": "national_indicators.5-c-1-1-title"
     },
     {
       "path": "9-3-1-a/data.csv",
@@ -9145,7 +9145,7 @@
           }
         ]
       },
-      "title": "Contribution of gross value added of small and medium-sized enterprises in manufacturing to total gross value added in manufacturing"
+      "title": "national_indicators.9-3-1-a-title"
     },
     {
       "path": "9-1-2-a/data.csv",
@@ -9183,7 +9183,7 @@
           }
         ]
       },
-      "title": "Freight record by mode of transport (air, road, railroad, river)"
+      "title": "national_indicators.9-1-2-a-title"
     },
     {
       "path": "4-2-1/data.csv",
@@ -9231,7 +9231,7 @@
           }
         ]
       },
-      "title": "Proportion of green spaces and streets (conventionally public areas) out of the built-in areas of urban localities"
+      "title": "national_indicators.11-7-1-1-title"
     },
     {
       "path": "5-5-1-a/data.csv",
@@ -9255,7 +9255,7 @@
           }
         ]
       },
-      "title": "Proportion of seats held by women in the national parliament"
+      "title": "national_indicators.5-5-1-a-title"
     },
     {
       "path": "3-a-1/data.csv",
@@ -9338,7 +9338,7 @@
           }
         ]
       },
-      "title": "Volume of natural resources extracted relative to GDP (the same as 12.2.1.b)"
+      "title": "national_indicators.8-4-1-b-title"
     },
     {
       "path": "3-b-2/data.csv",
@@ -9422,7 +9422,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with pedagogical education in general secondary education (5-12 grades)"
+      "title": "national_indicators.4-c-1-c-title"
     },
     {
       "path": "4-1-2/data.csv",
@@ -9605,7 +9605,7 @@
           }
         ]
       },
-      "title": "Volume of generated (production and consumption) waste"
+      "title": "national_indicators.12-5-1-1-title"
     },
     {
       "path": "15-2-1/data.csv",
@@ -9758,7 +9758,7 @@
           }
         ]
       },
-      "title": "Number of cases of discrimination established per 100,000 inhabitants"
+      "title": "national_indicators.10-3-1-1-title"
     },
     {
       "path": "1-1-1-1/data.csv",
@@ -9867,7 +9867,7 @@
           }
         ]
       },
-      "title": "Proportion of population below the international poverty line of $4,3 a day"
+      "title": "national_indicators.1-1-1-1-title"
     },
     {
       "path": "11-3-1-1/data.csv",
@@ -9891,7 +9891,7 @@
           }
         ]
       },
-      "title": "Level of urbanization"
+      "title": "national_indicators.11-3-1-1-title"
     },
     {
       "path": "1-a-2-a/data.csv",
@@ -9915,7 +9915,7 @@
           }
         ]
       },
-      "title": "Proportion of education expenditure in total national public budget expenditure"
+      "title": "national_indicators.1-a-2-a-title"
     },
     {
       "path": "10-7-2-2/data.csv",
@@ -9939,7 +9939,7 @@
           }
         ]
       },
-      "title": "Number of bilateral agreements signed in the area of labour migration"
+      "title": "national_indicators.10-7-2-2-title"
     },
     {
       "path": "3-b-3/data.csv",
@@ -9999,7 +9999,7 @@
           }
         ]
       },
-      "title": "Youth and adult participation rate in life-long formal and non-formal education during the life"
+      "title": "national_indicators.4-3-1-title"
     },
     {
       "path": "16-5-2-1/data.csv",
@@ -10023,7 +10023,7 @@
           }
         ]
       },
-      "title": "„Corruption control” indicator (between -2,5 and 2,5)"
+      "title": "national_indicators.16-5-2-1-title"
     },
     {
       "path": "11-2-1-2/data.csv",
@@ -10047,7 +10047,7 @@
           }
         ]
       },
-      "title": "Proportion of public transport units accessible to people with disabilities"
+      "title": "national_indicators.11-2-1-2-title"
     },
     {
       "path": "1-3-1-a/data.csv",
@@ -10110,7 +10110,7 @@
           }
         ]
       },
-      "title": "Proportion of retirement-age persons who benefit from old age pension"
+      "title": "national_indicators.1-3-1-a-title"
     },
     {
       "path": "5-3-1/data.csv",
@@ -10215,7 +10215,7 @@
           }
         ]
       },
-      "title": "National strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, adopted and implemented (the same as 11.b.1.1/13.1.2.1)"
+      "title": "national_indicators.1-5-3-1-title"
     },
     {
       "path": "11-3-1/data.csv",
@@ -10274,7 +10274,7 @@
           }
         ]
       },
-      "title": "Proportion of recommendations made by the Ombudsman (including the Ombudsman for the Rights of the Child) and the Council for the Prevention and Elimination of Discrimination and for Ensuring Equality implemented by the authorities and institutions referred to (of the procedural actions)"
+      "title": "national_indicators.16-3-2-2-title"
     },
     {
       "path": "15-2-1-2/data.csv",
@@ -10298,7 +10298,7 @@
           }
         ]
       },
-      "title": "Area of restored forest"
+      "title": "national_indicators.15-2-1-2-title"
     },
     {
       "path": "9-a-1/data.csv",
@@ -10407,7 +10407,7 @@
           }
         ]
       },
-      "title": "Proportion of women in public service"
+      "title": "national_indicators.5-5-2-2-title"
     },
     {
       "path": "4-a-1-c/data.csv",
@@ -10443,7 +10443,7 @@
           }
         ]
       },
-      "title": "Proportion of primary and secondary general education institutions with access to computers for pedagogical purposes"
+      "title": "national_indicators.4-a-1-c-title"
     },
     {
       "path": "16-5-2/data.csv",
@@ -10564,7 +10564,7 @@
           }
         ]
       },
-      "title": "Number of deaths attributed to disasters per 100,000 population"
+      "title": "national_indicators.13-1-1-a-title"
     },
     {
       "path": "17-14-1-1/data.csv",
@@ -10588,7 +10588,7 @@
           }
         ]
       },
-      "title": "Mechanisms in place to enhance policy coherence of sustainable development"
+      "title": "national_indicators.17-14-1-1-title"
     },
     {
       "path": "9-5-2/data.csv",
@@ -10686,7 +10686,7 @@
           }
         ]
       },
-      "title": "Number of deaths as a result of exceptional circumstances per 100,000 population (indicator 1.5.1.a/11.5.1.a)"
+      "title": "national_indicators.13-1-1-b-title"
     },
     {
       "path": "6-1-1/data.csv",
@@ -10873,7 +10873,7 @@
           }
         ]
       },
-      "title": "Number of persons who have disappeared as a result of disasters, per 100.000 population (the same as 11.5.1.b/13.1.1.b)"
+      "title": "national_indicators.1-5-1-b-title"
     },
     {
       "path": "3-3-2/data.csv",
@@ -11010,7 +11010,7 @@
           }
         ]
       },
-      "title": "„Regulatory quality” indicator (between -2,5 and 2,5)"
+      "title": "national_indicators.16-5-2-2-title"
     },
     {
       "path": "12-2-1-b/data.csv",
@@ -11034,7 +11034,7 @@
           }
         ]
       },
-      "title": "Volume of natural resources extracted relative to GDP (the same as 8.4.1.b)"
+      "title": "national_indicators.12-2-1-b-title"
     },
     {
       "path": "17-11-1-1/data.csv",
@@ -11058,7 +11058,7 @@
           }
         ]
       },
-      "title": "Exports of goods as a proportion of country's foreign trade"
+      "title": "national_indicators.17-11-1-1-title"
     },
     {
       "path": "1-3-1-c/data.csv",
@@ -11082,7 +11082,7 @@
           }
         ]
       },
-      "title": "Proportion of women - beneficiaries of maternity allowances"
+      "title": "national_indicators.1-3-1-c-title"
     },
     {
       "path": "12-4-2-a/data.csv",
@@ -11117,7 +11117,7 @@
           }
         ]
       },
-      "title": "Volume of hazardous waste generated"
+      "title": "national_indicators.12-4-2-a-title"
     },
     {
       "path": "16-7-1-c/data.csv",
@@ -11225,7 +11225,7 @@
           }
         ]
       },
-      "title": "Ratio between the proportion of positions held in the judiciary system by persons of certain groups of population and the proportion of the respective group out of total population"
+      "title": "national_indicators.16-7-1-c-title"
     },
     {
       "path": "8-4-2-a/data.csv",
@@ -11263,7 +11263,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption per capita (the same as 12.2.2.a)"
+      "title": "national_indicators.8-4-2-a-title"
     },
     {
       "path": "1-4-1/data.csv",
@@ -11373,7 +11373,7 @@
           }
         ]
       },
-      "title": "Volume of natural resources extracted per person (the same as 8.4.1.a)"
+      "title": "national_indicators.12-2-1-a-title"
     },
     {
       "path": "2-3-1-1/data.csv",
@@ -11461,7 +11461,7 @@
           }
         ]
       },
-      "title": "Passenger record by mode of transport (air, road, railroad, river)"
+      "title": "national_indicators.9-1-2-b-title"
     },
     {
       "path": "12-4-1/data.csv",
@@ -11549,7 +11549,7 @@
           }
         ]
       },
-      "title": "Proportion of educational institutions with basic handwashing facilities"
+      "title": "national_indicators.4-a-1-g-title"
     },
     {
       "path": "11-b-1-2/data.csv",
@@ -11573,7 +11573,7 @@
           }
         ]
       },
-      "title": "Implementation level of the national strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030 (the same as 1.5.3.2/13.1.2.2)"
+      "title": "national_indicators.11-b-1-2-title"
     },
     {
       "path": "4-5-1-a/data.csv",
@@ -11619,7 +11619,7 @@
           }
         ]
       },
-      "title": "Parity index in primary education (level 1)"
+      "title": "national_indicators.4-5-1-a-title"
     },
     {
       "path": "11-2-1/data.csv",
@@ -11781,7 +11781,7 @@
           }
         ]
       },
-      "title": "Number of missing persons attributed to disasters per 100,000 population (the same as 1.5.1.b/13.1.1.b)"
+      "title": "national_indicators.11-5-1-b-title"
     },
     {
       "path": "8-7-1-b/data.csv",
@@ -11849,7 +11849,7 @@
           }
         ]
       },
-      "title": "Number of children aged 5–17 years engaged in child labour"
+      "title": "national_indicators.8-7-1-b-title"
     },
     {
       "path": "17-8-1/data.csv",
@@ -11927,7 +11927,7 @@
           }
         ]
       },
-      "title": "Food loss index"
+      "title": "national_indicators.12-3-1-a-title"
     },
     {
       "path": "6-2-1-a/data.csv",
@@ -12016,7 +12016,7 @@
           }
         ]
       },
-      "title": "Proportion of population with access to sewerage system"
+      "title": "national_indicators.6-2-1-a-title"
     },
     {
       "path": "7-1-1/data.csv",
@@ -12102,7 +12102,7 @@
           }
         ]
       },
-      "title": "Number of persons directly affected as a result of disasters, per 100.000 population (the same as 11.5.1.c/13.1.1.c)"
+      "title": "national_indicators.1-5-1-c-title"
     },
     {
       "path": "15-2-1-1/data.csv",
@@ -12126,7 +12126,7 @@
           }
         ]
       },
-      "title": "Area of degraded land recovered through reforestation"
+      "title": "national_indicators.15-2-1-1-title"
     },
     {
       "path": "13-3-1-1/data.csv",
@@ -12150,7 +12150,7 @@
           }
         ]
       },
-      "title": "Actions on integrating effects of climate (mitigation, adaptation, reduction of impact and early warning) in primary, secondary and tertiary education curricula"
+      "title": "national_indicators.13-3-1-1-title"
     },
     {
       "path": "13-2-1-1/data.csv",
@@ -12174,7 +12174,7 @@
           }
         ]
       },
-      "title": "Actions for establishment and operationalization of policies, strategies and action plans on climate change adaptation and resilience, reduction of greenhouse gas emissions"
+      "title": "national_indicators.13-2-1-1-title"
     },
     {
       "path": "11-6-2/data.csv",
@@ -12238,7 +12238,7 @@
           }
         ]
       },
-      "title": "Number of confiscated illegally owned arms"
+      "title": "national_indicators.16-4-2-2-title"
     },
     {
       "path": "11-a-1/data.csv",
@@ -12764,7 +12764,7 @@
           }
         ]
       },
-      "title": "Proportion of persons covered with benefits for temporary work incapacity, caused by work accidents and occupational diseases"
+      "title": "national_indicators.1-3-1-f-title"
     },
     {
       "path": "4-a-1-a/data.csv",
@@ -12824,7 +12824,7 @@
           }
         ]
       },
-      "title": "Proportion of schools with access to electricity"
+      "title": "national_indicators.4-a-1-a-title"
     },
     {
       "path": "6-2-1-1/data.csv",
@@ -12901,7 +12901,7 @@
           }
         ]
       },
-      "title": "Proportion of population having a (a) sanitation service and (b) bath or shower within the dwelling"
+      "title": "national_indicators.6-2-1-1-title"
     },
     {
       "path": "11-5-1-c/data.csv",
@@ -12951,7 +12951,7 @@
           }
         ]
       },
-      "title": "Number of directly affected persons attributed to disasters, per 100,000 population (the same as 1.5.1.c/13.1.1.c)"
+      "title": "national_indicators.11-5-1-c-title"
     },
     {
       "path": "2-3-2/data.csv",
@@ -12999,7 +12999,7 @@
           }
         ]
       },
-      "title": "Proportion of women in government"
+      "title": "national_indicators.5-5-2-1-title"
     },
     {
       "path": "3-3-1/data.csv",
@@ -13087,7 +13087,7 @@
           }
         ]
       },
-      "title": "Reporting progress achieved in enforcing the framework for monitoring development efficiency with participation with more partners, providing support to the country to achieve the Sustainable Development Goals"
+      "title": "national_indicators.17-16-1-1-title"
     },
     {
       "path": "4-1-1-c-ii/data.csv",
@@ -13531,7 +13531,7 @@
           }
         ]
       },
-      "title": "Proportion of population with access to safely managed drinking water supplied services"
+      "title": "national_indicators.6-1-1-1-title"
     },
     {
       "path": "14-3-1/data.csv",
@@ -14395,7 +14395,7 @@
           }
         ]
       },
-      "title": "Prevalence of overweight among children aged under 5 years old"
+      "title": "national_indicators.2-2-2-a-title"
     },
     {
       "path": "2-2-2-b/data.csv",
@@ -14419,7 +14419,7 @@
           }
         ]
       },
-      "title": "Prevalence of wasting among children under 5 years old"
+      "title": "national_indicators.2-2-2-b-title"
     },
     {
       "path": "15-6-1/data.csv",
@@ -14683,7 +14683,7 @@
           }
         ]
       },
-      "title": "Proportion of population using a hand-washing facility with soap and water"
+      "title": "national_indicators.6-2-1-b-title"
     },
     {
       "path": "14-b-1/data.csv",
