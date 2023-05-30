@@ -1,0 +1,76 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.19.1: Dollar value of all resources made available to strengthen statistical  capacity in developing countries</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.19: By 2030, build on existing initiatives to develop measurements of progress on  sustainable development that complement gross domestic product, and support  statistical capacity-building in developing countries</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  PARIS21
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  17.19
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+SDG_INDICATOR: >-
+  <p>Indicator 17.19.1: Value of external financial and technical assistance to consolidate  the national statistical system</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The indicator is based on the data of the Partner Report on Support to  Statistics (PRESS), which is drafted and managed by PARIS21 to offer an image  of the value in USD for the support to statistics provided to developing  countries. Data are collected based on the on-line questionnaire PARIS21 and  from the system of Credits' Reporting.
+UNIT_MEASURE: >-
+  US Dollars
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  [UNSTATS Database](https://unstats.un.org/sdgs/indicators/database/)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1.National Bureau of Statistics</p> 
+  <p>  2.Partnership in Statistics for  Development in the 21st Century (PARIS21) </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Volume of foreign assistance from all sources and from all donors, expressed  in USD, provided for enhancing the national statistical system.</p> 
+  <p>   Calculation is performed by transforming the financial amounts in USD using  the average exchange rate for the period of the project / year of the program.  If the payment amounts were reported, the average exchange rate for the period  of the payment year is used. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
+source_url_text_1: >-
+  UNSTATS Database
+source_contact_1: >-
+source_other_info_1: >-
