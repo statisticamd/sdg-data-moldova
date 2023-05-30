@@ -1,0 +1,78 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.b.1: Proportion of medium and high-tech industry value added in total value added</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.b: Support domestic technology development, research and innovation in developing  countries, including by ensuring a conducive policy environment for, inter  alia, industrial diversification and value addition to commodities</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Industrial Development Organization (UNIDO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.b
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 332 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.b.1: tion of medium and high-tech industry gross value added in total value  added of manufacturing industry</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Gross value added (GVA) is the balance of the production account and is  measured as the difference between the value of manufactured goods and  services (assessed at the basic prices) and the intermediary consumption  (assessed at the buyer's prices), hence representing the newly created value  in the production process. GVA is distributed by economic activities according  to  NACE rev.2. </p> 
+  <p>  Manufacturing industry = section C in CAEM Rev.2.</p> 
+  <p>   ["Medium and high-tech" activities - of  OECD](https://www.oecd-ilibrary.org/science-and-technology/oecd-taxonomy-of-economic-activities-based-on-r-d-intensity_5jlv73sqqp8r-en),  or [Eurostat  classification](https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:High-tech_classification_of_manufacturing_industries)  - which are similar with small exceptions. </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  statistical research by industry
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bureau of Statistics
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Economy and Infrastructure
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Gross added value of medium and high-tech industry  / total gross value added  in manufacturing industry *100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  as the indicator was not calculated before, it should be established if it  corresponds fully or partially with the list of activities from the industry  with advanced or medium technology
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bureau of Statistics
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

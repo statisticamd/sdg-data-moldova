@@ -1,0 +1,80 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.10.1.b: Numărul de bancomate la 100.000 populație (18 ani și peste )</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.10: Consolidarea capacității instituțiilor financiare interne pentru a încuraja și  a extinde accesul la servicii bancare, de asigurări și servicii financiare  pentru toți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  FMI
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.10
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.10.1.b: Numărul de bancomate la 100.000 populație (18 ani și peste )</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul reflectă numărul de bancomate/ATM-uri din țară pentru toate  tipurile de instituții financiare, cum ar fi: băncile comerciale și prestatorii de servicii de plată nebancari.  Bancomat (denumit prescurtat conform uzanțelor internaționale – ATM), destinat  autoservirii deținătorilor de carduri de plată, ce permite acestora retragerea  mijloacelor bănești în numerar din conturile de plăți, transferuri de mijloace  bănești, depunerea mijloacelor bănești în conturi și informarea privind  situația conturilor și a operațiunilor efectuate prin intermediul cardurilor  de plată.</p> 
+  <p>  [A se  vedea](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml </p>
+UNIT_MEASURE: >-
+  la 100.000 persoane
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Indicatorii activității în cadrul sistemului de plăți cu cardurile de plată  din Republica Moldova, Raportul statistic ORD 5.4 „Dispozitive speciale și  soluții utilizate” - BNM;</p> 
+  <p>  2) Date demografice privind populația - BNS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Banca Națională a Moldovei
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Banca Națională a Moldovei
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Numărul de bancomate ale băncilor comerciale  raportat la 100.000 populație în  vârstă de 18 ani și peste</p> 
+  <p>  Numărul total de bancomate va include: (a)  numărul de bancomate ale băncilor licențiate (colectat in baza rapoartelor  băncilor licențiate către BNM) și (b) numărul de bancomate ale organizațiilor  din sectorul financiar nebancar (include societățile de plată și societățile emitente de monedă electronică. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Banca Națională a Moldovei
+source_periodicity_1: >-
+  <p> 1) trimestrial, anual</p> 
+  <p>  2) anual </p>
+source_url_1: >-
+  https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

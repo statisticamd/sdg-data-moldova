@@ -1,0 +1,75 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.10.2: Procentul de adulți (15 ani și peste) care dispun de un cont la o bancă sau altă  instituție financiară sau cu un prestator de servicii de bani mobili</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.10: Consolidarea capacității instituțiilor financiare interne pentru a încuraja și  a extinde accesul la servicii bancare, de asigurări și servicii financiare  pentru toți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank (WB)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.10
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 210 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.10.2: ul populației (15 ani și peste) care dispune de cont bancar</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Indicatorul vizează populația care a raportat că dispune de un cont la o bancă  sau la un alt tip de instituție financiară, cum ar fi o uniune de credit, o  instituție de micro finanțare, o cooperativă sau dispune de un card de debit  personal. În plus, acesta include respondenții care raportează primirea  salariilor, a transferurilor guvernamentale sau a plăților pentru produse  agricole într-un cont la o instituție financiară în ultimele 12 luni; plata  facturilor la utilități sau a taxelor de școlarizare dintr-un cont la o  instituție financiară în ultimele 12 luni; sau primirea de salarii sau  transferuri guvernamentale pe o cartelă în ultimele 12 luni. Conturile de bani  mobili includ respondenții care raportează în mod personal, utilizând  Asociația GSM (GSMA) Mobile Money pentru serviciile Unbanked (MMU) din  ultimele 12 luni pentru a plăti facturi sau pentru a trimite sau a primi bani.  În plus, acesta include respondenții care raportează primirea salariilor, a  transferurilor guvernamentale sau a plăților pentru produse agricole prin  intermediul unui telefon mobil în ultimele 12 luni.
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Baza de date globala - Global Financial Inclusion (Global Findex), sondaje de  către  by Gallup Inc. (as part of its Gallup World Poll)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Banca Mondială
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Banca Mondială
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Proporția persoanelor adulte (de 15 ani și peste) care au raportat că dețin un  cont (pe nume propriu, sau împreună cu cineva) la o bancă sau la un alt tp de  instituție financiară, sau utilizează personal un serviciu de bani mobili în  ultimele 12 luni. </p> 
+  <p>  Calcularea indicatorului se bazează pe datele  colectate prin sondaje la nivel individual din fiecare țară pe eșantioane  reprezentative de către Gallup Inc., odată la 3 ani. Indicatorul este parte  componente din [World Bank’s Global Findex  database](https://globalfindex.worldbank.org/) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Banca Mondială
+source_periodicity_1: >-
+  o dată la 3 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

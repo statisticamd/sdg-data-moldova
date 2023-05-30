@@ -1,0 +1,95 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.4.1: Valoarea fluxurilor financiare intrate și ieșite din țară ilegal ($ SUA)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.399999999999999: Până în 2030, reducerea semnificativă a fluxurilor ilicite financiare și de  armament, consolidarea  recuperării și returnării bunurilor furate și  combaterea tuturor formelor de crimă organizată</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNODC,UNCTAD
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  16.399999999999999
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+SDG_INDICATOR: >-
+  <p>Indicator 16.4.1: Valoarea fluxurilor financiare intrate și ieșite din țară ilegal</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Indicatorul măsoară valoarea totală a fluxurilor financiare ilicite intrate și  ieșite din țară (IFF) exprimate în dolari curenți SUA. IFF-urile sunt fluxuri  financiare care sunt generate ilicit (spre exemplu, care provin din activități  infracționale sau evaziune fiscală), transferuri ilicite (cum sunt încălcarea  controalelor valutare) sau utilizate ilicit (spre exemplu, pentru finanțarea  terorismului).
+UNIT_MEASURE: >-
+  Milioane Dolari SUA
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Balanța de plăți și sistemul de conturi naționale care reflectă  activitățile economice ilegale</p> 
+  <p>  2) Datele administrative privind  tranzacțiile comerciale prin vamă, inclusiv cele de facturare greșită a  comerțului;</p> 
+  <p>  3) Statistici privind comerțul internațional de bunuri și  servicii</p> 
+  <p>  4) Rapoartele asupra chestionarelor anuale care colectează date  prind amploarea pieței de droguri </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Centrul Național Anticorupție;</p> 
+  <p>  2) Biroul Național de Statistică; </p> 
+  <p>   3) Banca Națională a Moldovei;</p> 
+  <p>  4) Inspectoratul Fiscal de stat/Ministerul  Finanțelor;</p> 
+  <p>  5) Serviciul Vamal /Ministerul Finanțelor</p> 
+  <p>  6) Alți  producători relevanți în domeniul ocrotirii normelor de drept </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Centrul Național Anticorupție
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> A fost dezvoltat un proces în două etape care ajută statele membre în  calcularea indicatorului care prevede:</p> 
+  <p>  1) O evaluare a riscului care  identifică sursele majore și cele mai relevante ale fluxurilor financiare  ilicite (IFF) într-o țară. Această evaluare a riscului poate urmări și se  poate baza pe evaluările de risc existente, de ex. cele autorizate de grupul  de acțiune financiară (FATF).</p> 
+  <p>  2) Odată identificate activitățile care  generează cele mai importante fluxuri, care sunt estimate într-o manieră  dezagregată. </p> 
+  <p>  Un prim pas în construirea indicatorului este concentrația  asupra tipurilor de IFF generate în procesul de obținere a veniturilor  ilicite: acesta se referă la ansamblul de tranzacții - cum ar fi cele legate  de comerțul internațional de bunuri ilicite - care fie generează direct  venituri ilicite pentru un subiect în timpul unei activități ilicite  productive sau neproductive sau care sunt efectuate în contextul producției  ilicite de bunuri și servicii.</p> 
+  <p>  În acest context  metodologia globală  oferă un exemplu de estimare IFF obținute din transportarea ilegală/trafic cu  migranți, care conform manualului Eurostat „Manual privind compilarea  statisticilor privind activitățile economice ilegale în conturile naționale și  balanța de plăți”, se pot fi distinse de patru tipuri de tranzacții de  contrabandă, dintre care două generează IFF:</p> 
+  <p>  Tip I: Contrabandiști  rezidenți și migranți rezidenți nu acoperă trans-naționalitatea și intrarea  ilegală și nu creează IFF</p> 
+  <p>  Tipul II: Contrabandiști rezidenți și migranți  nerezidenți, care constituie un export de servicii și are un IFF  interior:</p> 
+  <p>  Export de servicii de transport = număr de migranți nerezidenți  transportați ilegal/traficați de contrabandiștii rezidenți * prețuri</p> 
+  <p>  Tip  III: Contrabandiști nerezidenți și migranți rezidenți, estimările înregistrate  ca import de servicii ilegale și constituie IFF extern:</p> 
+  <p>  Importul  serviciilor de transport ilegal = numărul de rezidenți transportați  ilegal/traficați de contrabandiști nerezidenți * prețuri</p> 
+  <p>  Tipul IV:  Contrabandiști nerezidenți și migranți nerezidenți, aici nu au fost  înregistrate estimări</p> 
+  <p>  Studiile pilot realizate în 5 țări au determinat că  metodologia este posibilă, cu toate acestea, există limitări ale datelor, în  special în ceea ce privește stabilirea prețurilor.</p> 
+  <p>  La cel de-al doilea  pas se estimează IFF-urile în relația cu gestionarea ilicită a veniturilor.  Acestea se referă la IFF-uri generate atunci când veniturile obținute din  activități ilegale sunt investite în străinătate (de exemplu, în proprietăți).  Pentru evaluarea acestor fluxuri, se pot utiliza informații cantitative și  calitative deținute de autoritățile financiare, băncile centrale și alte  entități implicate în spălarea banilor și infracțiuni financiare. </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  3
+source_active_1: true
+source_organisation_1: >-
+  Centrul Național Anticorupție
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

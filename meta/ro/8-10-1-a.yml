@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.10.1.a: Numărul de sucursale și agenții ale băncilor comerciale la 100.000 populație  (18 ani și peste )</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.10: Consolidarea capacității instituțiilor financiare interne pentru a încuraja și  a extinde accesul la servicii bancare, de asigurări și servicii financiare  pentru toți</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  FMI
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.10
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.10.1.a: Numărul de sucursale și agenții ale băncilor comerciale la 100.000  populație (18 ani și peste )</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Subdiviziuni ale băncii: sucursale, reprezentanțe, agenții, birouri de schimb  valutar. Sucursala băncii desfășoară în numele ei toate sau unele dintre  activitățile prevăzute de licența eliberată băncii și acționează în limitele  împuternicirilor acordate de aceasta. Reprezentanța băncii nu are dreptul să  desfășoare activități prevăzute de licența eliberată băncii și alte  activități, cu excepția celor de informare, reprezentare și apărare a  intereselor băncii. Agenția poate desfășura activități (inclusiv cele ale  biroului de schimb valutar) determinate de bancă în conformitate cu lista  activităților prevăzute de licența deținută, stabilite în actele normative ale  Băncii Naționale a Moldovei. Biroul de schimb valutar își desfășoară  activitatea în conformitate cu Legea nr.62/2008 privind reglementarea  valutară.
+UNIT_MEASURE: >-
+  la 100.000 persoane
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistica supravegherii bancare ”Informați„ privind activitatea  economico-financiară a băncilor din RM”, Raport statistic ORD 3.3A „Informația  diversă” - BNM</p> 
+  <p>  2) Date demografice privind populația -BNS </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1) Banca Națională a Moldovei</p> 
+  <p>  2) Biroul Național de Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Banca Națională a Moldovei
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul de filiale/sucursale și agenții ale băncilor comerciale raportat la  100 000 populație în vârstă de 18 ani și peste.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Banca Națională a Moldovei
+source_periodicity_1: >-
+  <p> 1) lunar, trimestrial, anual</p> 
+  <p>  2) anual </p>
+source_url_1: >-
+  https://www.bnm.md/bdi/pages/reports/drsb/DRSB1.xhtml
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

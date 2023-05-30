@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.10.2.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.10: 0 Strengthen the capacity of domestic financial institutions to encourage and  expand access to banking, insurance and financial services for all</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank (WB)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  8.10
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 210 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 8.10.2.1: Bank accounts per 100,000 population (18 years and over)</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The indicator refers to the number of bank accounts opened on the names of  individuals by commercial banks licensed by the NBM. Bank account - analytical  account opened by the bank on the name of the account holder, through which  receipt and payment operations are made. The direct relations between the bank  and the client are reflected in the opened bank accounts so as to keep the  records about the relations between the bank and every client. The bank  accounts which may be opened for clients are grouped in three major  categories: current accounts, deposit accounts and loan accounts.
+UNIT_MEASURE: >-
+  Per 100,000 population
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1) Statistics on bank supervision ”Information on economic-financial activity  of banks in the RM”</p> 
+  <p>  2) Demographic data on population </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  National Bank of Moldova
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  National Bank of Moldova
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of active bank accounts of individuals out of the total population aged  15 years old and over *100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The global indicator is calculated once per 3 years based on the data of the  individual surveys from every country, while the national indicator is  suggested to be calculated based on administrative data of the National Bank.  By its nature, the indicator is complementary to the global one.
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  National Bank of Moldova
+source_periodicity_1: >-
+  <p> 1) monthly, quarterly, annual</p> 
+  <p>  2) annual </p>
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+source_other_info_1: >-

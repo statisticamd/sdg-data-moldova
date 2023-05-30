@@ -1,0 +1,78 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.b.1: Ponderea valorii adăugate a industriei cu tehnologii avansate și  medii-avansate în total valoarea adăugată</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.b: Susținerea domeniului național de dezvoltare a tehnologiilor, cercetare și  inovații în țările în curs de dezvoltare, inclusiv prin asigurarea unui mediu  propice de politici pentru, inter alia, diversificarea industrială și  adăugarea de valoare pentru mărfuri</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Industrial Development Organization (UNIDO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.b
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 332 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.b.1: ea valorii adăugate brute a industriei cu tehnologii avansate si  medii-avansate  în total valoarea adăugată in industrie prelucrătoare</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Valoarea adăugată brută (VAB) este  soldul  contului de producție și se  măsoară ca diferența dintre valoarea bunurilor și serviciilor produse  (evaluate la prețuri de bază) și consumul intermediar (evaluat la prețurile  cumpărătorului), reprezentând deci valoarea nou creată în procesul de  producție.  VAB este repartizată pe activități economice conform NACE  rev.2.</p> 
+  <p>  Industria prelucrătoare = secțiunea C din CAEM Rev.2.</p> 
+  <p>   Activitățile "medium and high-tech" - al  [OECD](https://www.oecd-ilibrary.org/science-and-technology/oecd-taxonomy-of-economic-activities-based-on-r-d-intensity_5jlv73sqqp8r-en),  sau [Eurostat  clasificare](https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:High-tech_classification_of_manufacturing_industries)  - care sunt similare cu mici excepții </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  cercetare statistica pe industrie
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Biroul Național de Statistică
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Economiei și Infrastructurii
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Valoarea adăugata bruta  a industriei cu tehnologii avansate si medii-avansate  / total valoarea adăugată bruta in industrie prelucrătoare *100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  dat fiind faptul ca indicatorul nu a fost calculat anterior, urmează de  stabilit corespunderea integrala sau parțiala cu lista de activ.con din  industria cu tehnologie avansata sau medie
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Biroul Național de Statistică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
