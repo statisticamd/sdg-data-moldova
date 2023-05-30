@@ -1,23 +1,23 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 3.3.2: Tuberculosis incidence per 100,000 population</p>
+  <p>Indicator 12.2.1.b: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected  tropical diseases and combat hepatitis, water-borne diseases and other  communicable diseases</p>
+  <p>Target 12.2: By 2030, achieve the sustainable management and efficient use of natural  resources</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  World Health Organization (WHO)
+  United Nations Environment Programme (UNEP)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  3.3
+  12.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf
+  https://wesr.unep.org/media/docs/projects/metadata_12_02_01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 61 KB)
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
 SDG_INDICATOR: >-
-  <p>Indicator 3.3.2: Tuberculosis incidence, per 100,000 population</p>
+  <p>Indicator 12.2.1.b: Volume of natural resources extracted relative to GDP (same as  8.4.1.b)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,26 +31,26 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  Material Footprint is the attribution of global material extraction to domestic final demand of a country. The total material footprint is the sum of the material footprint for biomass, fossil fuels, metal ores and non-metalic minerals.
 UNIT_MEASURE: >-
-  Per 100 000 population
+  Kg USD constant prices
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) National Agency for Public Health-Statistical report No. 8 - on new cases of tuberculosis </p> 
-  <p>  2) National Bureau of Statistics, number of population number of population with usual residence </p>
+  UN Environment Programme (UNEP)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  1.Institute of Phthisiopneumology
+  National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Health
+  Ministry of Environment
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of persons infected with a new TB case out of the number of population  *100000
+  MF =  Domestic  extraction of materials + raw material equivalents of imports - raw material equivalents of exports, expressed in kg in USA dollars in  constant prices, related to GDP.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,19 +58,21 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The indicator does not include relapse cases and only refers to newly  registered cases, no estimates are applied.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
+  2
 source_active_1: true
 source_organisation_1: >-
-  National Agency for Public Health
+  <p> 1.National Bureau of Statistics</p> 
+  <p>2.UN Environment Programme (UNEP) </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-
+  https://wesr.unep.org/downloader
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  Lungu Ludmila, Biroul Național de Statistică, tel.067770682, e-mail:  ludmila.lungu@statistica.gov.md
 source_other_info_1: >-

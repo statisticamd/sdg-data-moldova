@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 3.3.2: Incidența prin tuberculoză, la 100 mii populație</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2030, eliminarea epidemiilor de SIDA, tuberculoză, malarie și boli  tropicale neglijate, precum și combaterea hepatitei, bolilor condiționate de  apă și a altor boli transmisibile</p>
+  <p>Target 3.3: Până în 2030, eliminarea epidemiilor de SIDA, tuberculoză, malarie și boli  tropicale neglijate, precum și combaterea hepatitei, bolilor condiționate de  apă și a altor boli transmisibile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organization (WHO)
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf
@@ -31,7 +32,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  la 100.000 populație
+  la 100000 populație
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -49,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul persoanelor infectate cu caz nou tuberculoză raportat la numărul  populației *100.000
+  Numărul persoanelor infectate cu caz nou tuberculoză raportat la numărul  populației *100000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

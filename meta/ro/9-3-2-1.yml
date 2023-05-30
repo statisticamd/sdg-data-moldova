@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.3.2.1: NA</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.3: Creșterea accesului întreprinderilor mici industriale și de altă natură, în  special din țările în curs de dezvoltare, la servicii financiare, inclusiv la  credite accesibile, și integrarea acestora în lanțuri valorice și piețe  externe</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNIDO, Banca Mondială
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  9.3
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 663kB)
+SDG_INDICATOR: >-
+  <p>Indicator 9.3.2.1: Cota ÎMM care au accesat credite și/sau împrumuturi pe parcursul  anului, inclusiv pe sectorul industrie</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul se va referi la întreprinderi micro si mici: micro – întreprindere care are cel mult 9 salariați, realizează o cifră anuală de afaceri de până la 18 milioane de lei sau deține active totale de până la 18 milioane de lei;\_mică – întreprindere care are de la 10 până la 49 de salariați, realizează o cifră anuală de afaceri de până la 50 de milioane de lei sau deține active totale de până la 50 de milioane de lei. Salariați  - numărul mediu scriptic al personalului în perioada de gestiune. (art. 5, lit. a și b din Legea Nr. 179/2016)</p> 
+  <p> Întreprinderi din sectorul industrie se clasifica conform ISIC Rev.3.1 si include codurile 15-37, 45, 50-52, 55, 60-64, and 72, sau ISIC rev.4 (sau CAEM rev.2) cu codurile 10-33, 41-43, 45-47, 49-53, 55-56, 58-63.</p> 
+  <p>Instituții financiare includ: bănci și instituții financiare nebancare. Bancă – persoană juridică a cărei activitate constă în atragerea de depozite sau de alte fonduri rambursabile de la public și în acordarea de credite în cont propriu. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Informație privind activitatea economico-financiară a băncilor din RM - BNM
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Banca Națională a Moldovei
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Economiei și Infrastructurii
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Valoarea creditelor și împrumuturilor accesate de întreprinderile mici (până  la 49 salariați) pe parcursul anului de la instituții financiare / total  valoarea creditelor si împrumuturilor accesate de către întreprinderilor  (total și pe sectoare conform CAEM 2)* 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  <p> Indicatorul global recomanda întreprinderi de până la 20 angajați din sectorul  industrial, prevede accesarea de împrumuturi nu doar de la bănci, dar si de la  alte instituții financiare nebancare</p> 
+  <p>Indicatorul național se estimează pentru  întreprinderi micro si mici cu până la 49 angajați (conf.leg.nat.) pe sectoare  conform CAEM 2, include doar accesarea de credite de la bănci. </p>
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Banca Națională a Moldovei
+source_periodicity_1: >-
+  Lunar
+source_url_1: >-
+source_url_text_1: >-
+  Link la srusa de date
+source_contact_1: >-
+source_other_info_1: >-

@@ -1,0 +1,85 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.a.1: The agriculture orientation index for government expenditures</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.a: Increase investment, including through enhanced international cooperation, in  rural infrastructure, agricultural research and extension services, technology  development and plant and livestock gene banks in order to enhance  agricultural productive capacity in developing countries, in particular least  developed countries</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agricultural Organization (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  The Agriculture Orientation Index (AOI) for Government Expenditures is defined as the Agriculture share of Government Expenditure, divided by the Agriculture value added share of GDP, where Agriculture refers to the agriculture, forestry, fishing and hunting sector. National governments are requested to compile Government Expenditures according to the Government Finance Statistics (GFS) and the Classification of the Functions of Government (COFOG), and Agriculture value added share of GDP according to the System of National Accounts (SNA)
+SDG_GOAL: ''
+target_id: >-
+  2.a
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 223 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 2.a.1: riculture orientation index for government expenditures</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Index of agriculture orientation of public expenditures  (AOI) higher than 1 reflects a higher orientation towards the agricultural  sector, which receives a higher share of government/public expenditures in  relation to its contribution to the economic added value. An AOI lower than 1  reflects a lower orientation towards agriculture of public budgetary  resources, while an AOI equal to 1 reflects neutrality in government's  orientation to the agricultural sector. </p> 
+  <p>  The term "Agriculture" refers to  the agricultural, forestry, fishing and hunting sector or division A of the  Classifier of Activities in Moldova's Economy (CAEM,  rev.2).</p> 
+  <p>  Public expenditures -  expenditures according to the budgetary classification system of the Republic  of  Moldova which since 2015 is in line with the Classification of Functions of Government  (COFOG) developed by UN and the Classification of Governmental Financial  Statistics (GFS) developed by IMF. </p>
+UNIT_MEASURE: >-
+  Index
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. Numerator - administrative data of the Ministry of Finance </p> 
+  <p>2. Denominator - national accounts statistics, National Bureau of Statistics </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1.Ministry of Finance</p> 
+  <p>2.National Bureau of Statistics </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1. Ministry of Agriculture and Food Industry</p> 
+  <p>2. Ministry of Finance </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Index is calculated as a rate between two proportions. The share of  expenditures for agriculture in the national public budget (NPB), divided to the share of gross added value of agriculture in GDP. </p> 
+  <p>  Numerator: Ratio of  public expenditures for agriculture according to the functional classification  of budgetary expenditures by types, to the total expenditures of the National Public Budget.</p> 
+  <p>  Denominator: Share of gross added value of agriculture in  GDP is measured via the ratio between the gross added value of agriculture and  GDP . </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Ministry of Agriculture and Food Industry
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+  NA
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Elena Cojocaru, Senior advisor, Policy Analysis, Monitoring and Evaluation Directorate, Ministry of Agriculture and Food Industr, tel. 022 204 519, e-mail: elena.cojocaru@maia.gov.md
+source_other_info_1: >-
