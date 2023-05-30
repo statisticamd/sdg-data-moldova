@@ -27,6 +27,44 @@
       "title": "Proportion of female personal assistants (caring for people with severe disabilities)"
     },
     {
+      "path": "12-2-2-a/data.csv",
+      "name": "12-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumption of natural resources per capita (the same as 8.4.2.a)"
+    },
+    {
       "path": "10-1-1-a/data.csv",
       "name": "10-1-1-a",
       "profile": "tabular-data-resource",
@@ -1552,6 +1590,42 @@
         ]
       },
       "title": "Proportion of vulnerable persons benefiting from social assistance benefits"
+    },
+    {
+      "path": "8-4-1-a/data.csv",
+      "name": "8-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "xx",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of natural resources extracted per person (the same as 12.2.1.a)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -4674,6 +4748,54 @@
       "title": "Proportion of teachers with pedagogical education in primary education"
     },
     {
+      "path": "9-3-2-1/data.csv",
+      "name": "9-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Industry",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Size of enterprises",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Micro",
+                "Small",
+                "Medium",
+                ""
+              ]
+            },
+            "title": "Size of enterprises"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of SMEs that accessed credit and/or loans during the year, including by industry sector"
+    },
+    {
       "path": "11-1-1-a/data.csv",
       "name": "11-1-1-a",
       "profile": "tabular-data-resource",
@@ -4799,6 +4921,44 @@
         ]
       },
       "title": "Proportion of population covered by a mobile network, by technology"
+    },
+    {
+      "path": "12-2-2-b/data.csv",
+      "name": "12-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumption of natural resources per GDP (the same as 8.4.2.b)"
     },
     {
       "path": "10-7-2-1/data.csv",
@@ -5308,6 +5468,44 @@
         ]
       },
       "title": "Proportion of primary and general secondary schools with Internet connection for teaching purposes"
+    },
+    {
+      "path": "8-4-2-b/data.csv",
+      "name": "8-4-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Domestic material consumption per GDP (the same as 12.2.2.b)"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -6237,6 +6435,30 @@
         ]
       },
       "title": "Manufacturing gross value added per person (MDL, constant prices)"
+    },
+    {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "17-6-1/data.csv",
@@ -8964,6 +9186,41 @@
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
+      "path": "8-4-1-b/data.csv",
+      "name": "8-4-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of natural resources extracted relative to GDP (the same as 12.2.1.b)"
+    },
+    {
       "path": "4-c-1-c/data.csv",
       "name": "4-c-1-c",
       "profile": "tabular-data-resource",
@@ -10459,6 +10716,18 @@
             "title": "Age group"
           },
           {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -10538,6 +10807,30 @@
         ]
       },
       "title": "„Regulatory quality” indicator (between -2,5 and 2,5)"
+    },
+    {
+      "path": "12-2-1-b/data.csv",
+      "name": "12-2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of natural resources extracted relative to GDP (the same as 8.4.1.b)"
     },
     {
       "path": "17-11-1-1/data.csv",
@@ -10731,6 +11024,44 @@
       "title": "Ratio between the proportion of positions held in the judiciary system by persons of certain groups of population and the proportion of the respective group out of total population"
     },
     {
+      "path": "8-4-2-a/data.csv",
+      "name": "8-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Domestic material consumption per capita (the same as 12.2.2.a)"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -10804,6 +11135,41 @@
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "12-2-1-a/data.csv",
+      "name": "12-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of natural resources extracted per person (the same as 8.4.1.a)"
     },
     {
       "path": "2-3-1-1/data.csv",
@@ -13826,30 +14192,6 @@
         ]
       },
       "title": "Proportion of land that is degraded over total land area"
-    },
-    {
-      "path": "2-a-1/data.csv",
-      "name": "2-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "15-4-1/data.csv",

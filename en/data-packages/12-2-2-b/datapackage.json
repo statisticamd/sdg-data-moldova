@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Types of resources"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-2-2-b",
+  "title": "Consumption of natural resources per GDP (the same as 8.4.2.b)"
+}

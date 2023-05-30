@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-4-1-a",
+  "title": "Volumul resurselor naturale extrase pe o persoană (identic cu 12.2.1.a)"
+}

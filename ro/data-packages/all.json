@@ -27,6 +27,44 @@
       "title": "Ponderea asistenților personali femei (care îngrijesc de persoane cu dizabilități severe)"
     },
     {
+      "path": "12-2-2-a/data.csv",
+      "name": "12-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumul de resurse naturale pe o persoană (identic cu 8.4.2.a)"
+    },
+    {
       "path": "10-1-1-a/data.csv",
       "name": "10-1-1-a",
       "profile": "tabular-data-resource",
@@ -1552,6 +1590,42 @@
         ]
       },
       "title": "Proporția persoanelor vulnerabile beneficiare de prestații de asistență socială (ajutor social, ajutor pentru perioada rece)"
+    },
+    {
+      "path": "8-4-1-a/data.csv",
+      "name": "8-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumul resurselor naturale extrase pe o persoană (identic cu 12.2.1.a)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -4674,6 +4748,54 @@
       "title": "Ponderea personalului pedagogic cu studii în domeniul pedagogiei la nivelul primar"
     },
     {
+      "path": "9-3-2-1/data.csv",
+      "name": "9-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Industrie",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Size of enterprises",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Micro",
+                "Small",
+                "Medium",
+                ""
+              ]
+            },
+            "title": "Size of enterprises"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cota întreprinderilor mici și mijlocii care au accesat credite și/sau împrumuturi pe parcursul anului, inclusiv în sectorul industrie"
+    },
+    {
       "path": "11-1-1-a/data.csv",
       "name": "11-1-1-a",
       "profile": "tabular-data-resource",
@@ -4799,6 +4921,44 @@
         ]
       },
       "title": "Proportion of population covered by a mobile network, by technology"
+    },
+    {
+      "path": "12-2-2-b/data.csv",
+      "name": "12-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumul de resurse naturale raportate la PIB (identic cu 8.4.2.b)"
     },
     {
       "path": "10-7-2-1/data.csv",
@@ -5308,6 +5468,44 @@
         ]
       },
       "title": "Ponderea instituțiilor de învățământ primar și secundar general cu conexiune la Internet în scopuri pedagogice"
+    },
+    {
+      "path": "8-4-2-b/data.csv",
+      "name": "8-4-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumul de resurse naturale raportate la PIB (identic cu 12.2.2.b)"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -6237,6 +6435,30 @@
         ]
       },
       "title": "Valoarea adăugată brută în industria prelucrătoare pe persoană (lei, prețuri constante)"
+    },
+    {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "17-6-1/data.csv",
@@ -8964,6 +9186,41 @@
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
+      "path": "8-4-1-b/data.csv",
+      "name": "8-4-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumul resurselor naturale extrase raportate la PIB (identic cu 12.2.1.b)"
+    },
+    {
       "path": "4-c-1-c/data.csv",
       "name": "4-c-1-c",
       "profile": "tabular-data-resource",
@@ -10459,6 +10716,18 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -10538,6 +10807,30 @@
         ]
       },
       "title": "16.5.2.2. Indicatorul privind „Calitatea regulatorie” (de la „-2,5” la „2,5”)"
+    },
+    {
+      "path": "12-2-1-b/data.csv",
+      "name": "12-2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumul resurselor naturale extrase raportate la PIB (identic cu 8.4.1.b)"
     },
     {
       "path": "17-11-1-1/data.csv",
@@ -10731,6 +11024,44 @@
       "title": "Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de către persoanele din anumite grupuri ale populației și proporția grupului respectiv în total populație"
     },
     {
+      "path": "8-4-2-a/data.csv",
+      "name": "8-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boimass",
+                "Fossil fuels",
+                "Metal ores",
+                "Non-metalic minerals",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumul de resurse naturale pe o persoană (identic cu 12.2.2.a)"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -10804,6 +11135,41 @@
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "12-2-1-a/data.csv",
+      "name": "12-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Types of resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                ""
+              ]
+            },
+            "title": "Tipuri de resurse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumul resurselor naturale extrase pe o persoană (identic cu 8.4.1.a)"
     },
     {
       "path": "2-3-1-1/data.csv",
@@ -13826,30 +14192,6 @@
         ]
       },
       "title": "Proportion of land that is degraded over total land area"
-    },
-    {
-      "path": "2-a-1/data.csv",
-      "name": "2-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "15-4-1/data.csv",

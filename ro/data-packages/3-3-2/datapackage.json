@@ -45,6 +45,18 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
