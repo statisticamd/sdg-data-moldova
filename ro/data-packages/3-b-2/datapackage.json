@@ -7,13 +7,25 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Disbursement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net disbursement",
+                "Gross disbursement",
+                ""
+              ]
+            },
+            "title": "Debursări"
           },
           {
             "name": "Value",

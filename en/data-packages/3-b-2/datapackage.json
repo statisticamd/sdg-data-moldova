@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Disbursement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Net disbursement",
+                "Gross disbursement",
+                ""
+              ]
+            },
+            "title": "Disbursement"
           },
           {
             "name": "Value",
