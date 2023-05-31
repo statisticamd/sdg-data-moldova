@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
-computation_units: ''
+computation_units: Procent, %
 copyright: ''
 data_footnote: ''
-data_non_statistical: true
+data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: national_indicators.12-b-1-1-graph
+graph_title: national_indicators.2-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.12-b-1-1-title
-indicator_name: national_indicators.12-b-1-1-title
-indicator_number: 12.b.1.1
+indicator_available: national_indicators.2-1-1-title
+indicator_name: global_indicators.2-1-1-title
+indicator_number: 2.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''
@@ -33,24 +33,14 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republica Moldova
-page_content: >-
-  <p> ***Indicator non-statistic***</p> 
-  <p>Pentru anul 2022:</p>
-  <p>1.Strategia Națională de Dezvoltare Regională (SNDR) pentru anii 2022-2028, 
-  HG nr.40 
-  din 26.01.2022;</p> 
-  <p>2. Planul de acţiuni al Guvernului pentru anii 2021-2022;</p> 
-  <p>3. Strategia națională de dezvoltare „Moldova Europeană 2030”;</p> 
-  <p>4. Programul de retehnologizare și eficiență energetică a întreprinderilor mici și 
-  mijlocii;</p> 
-  <p>5. Programul Satul European. </p>
+page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false

@@ -1,0 +1,73 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.4.2.b: Ponderea populației adulte care își percepe drepturile sale asupra pământului  ca fiind sigure</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.4: Până în 2030, asigurarea faptului că toți bărbații și toate femeile, în  special cei săraci și vulnerabili,   au drepturi egale la resursele economice,  precum și acces la serviciile de bază, dreptul la proprietate și control  asupra terenurilor și a altor forme de proprietate, moștenire, resurse  naturale,  tehnologii noi potrivite și servicii financiare, inclusiv de  microfinanțare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank (WB)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  1.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+SDG_INDICATOR: >-
+  <p>Indicator 1.4.2.b: Ponderea populației adulte care își percepe drepturile sale asupra  pământului ca fiind sigure</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Siguranța percepută vis-a-vis de dreptul la proprietate: Percepția privind  siguranța dreptului la proprietate se referă la percepția unui individ despre  probabilitatea pierderii involuntare a unui teren aflat în posesie sau a  capacității de utilizare a acestuia. Deși ar părea că persoanele care nu dețin  careva documente privind drepturile de proprietate asupra terenurilor pot fi  des percepuți ca fiind în situație de risc, sau cei care dețin aceste  documente sunt mai protejați, de fapt pot exista situații în care nici posesia  a astfel de documente nu poate garanta siguranța asupra terenului. Dimpotrivă,  chiar și fără documente legale, persoanele se pot simți protejate împotriva  deposedării sau privării. Prin urmare, observarea și analizarea acestor  situații va permite o înțelegere mai bună a securității funciare, bazată pe un  contextul specific al țării. </p> 
+  <p>  În scopul producerii indicatorului, se  propune de a defini percepțiile privind siguranța asupra proprietății unui  teren dacă: (i) titularul de drept (respondentul) nu declară careva teamă cu  privire la pierderea involuntară a terenului în următorii cinci ani din cauza,  de exemplu, cărorva pericole/amenințări în interiorul familiei, comunității  sau externe și (ii)  titularul de drept declară că are dreptul de a transmite  în moștenire terenul. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Recensământ sau cercetări statistice în gospodării cu modul separat privind  percepțiile populației (de tip CBGC, MICS, sau altele) cu integrarea modului  care va fi elaborat de FAO și Un Women (modulul ar include si colectarea de  date privind proporția populației cu documente de proprietate asupra  terenurilor =(a) din 1.4.2)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+COMPILING_ORG: ''
+INST_MANDATE: >-
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul populației adulte care percepe drepturile sale asupra terenurilor ca  fiind sigure raportat la numărul total al populației adulte *100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul național reprezintă o parte componentă a indicatorului global  (indicatorul global reprezintă suma ponderată a valorilor (a) si (b) ale 1.4.1  = 0.5∗(a)+0.5∗(b))
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+source_periodicity_1: >-
+  o dată la câțiva (3/10) ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-
