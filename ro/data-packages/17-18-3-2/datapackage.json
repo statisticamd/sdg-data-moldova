@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Level of implementation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Integral",
+                "Partial",
+                "unfulfilled",
+                ""
+              ]
+            },
+            "title": "Level of implementation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-18-3-2",
+  "title": "Gradul de implementare și gradul de finanțare a Planului anual de acțiuni pentru implementarea Strategiei Naționale de Dezvoltare a Sistemului Statistic Național"
+}

@@ -1045,6 +1045,30 @@
       "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of undernourishment"
+    },
+    {
       "path": "10-7-2-3/data.csv",
       "name": "10-7-2-3",
       "profile": "tabular-data-resource",
@@ -4460,6 +4484,30 @@
         ]
       },
       "title": "The population and housing Census conducted in the framework of the 2020 and 2030 round"
+    },
+    {
+      "path": "12-3-1-b/data.csv",
+      "name": "12-3-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Food waste index"
     },
     {
       "path": "10-7-1/data.csv",
@@ -10386,6 +10434,43 @@
       "title": "Youth and adult participation rate in life-long formal and non-formal education during the life"
     },
     {
+      "path": "17-18-3-2/data.csv",
+      "name": "17-18-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Level of implementation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Integral",
+                "Partial",
+                "unfulfilled",
+                ""
+              ]
+            },
+            "title": "Level of implementation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Level of implementation and funding of the annual Action Plan for the implementation of the National Strategy for the development of the National Statistical System"
+    },
+    {
       "path": "16-5-2-1/data.csv",
       "name": "16-5-2-1",
       "profile": "tabular-data-resource",
@@ -11958,6 +12043,53 @@
         ]
       },
       "title": "Proportion of educational institutions with basic handwashing facilities"
+    },
+    {
+      "path": "1-4-2-b/data.csv",
+      "name": "1-4-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of land rights",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxx",
+                ""
+              ]
+            },
+            "title": "Type of land rights"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of adult population who perceive their tenure rights to land as being secure"
     },
     {
       "path": "11-b-1-2/data.csv",
@@ -16028,30 +16160,6 @@
         ]
       },
       "title": "Manufacturing value added as a proportion of GDP and per capita"
-    },
-    {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of undernourishment"
     },
     {
       "path": "14-7-1/data.csv",
