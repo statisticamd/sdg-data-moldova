@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Proportion of female judges / Proportion of women in the working-age population        ",
+            "name": "Proportion of female judges to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,7 +28,7 @@
             }
           },
           {
-            "name": "Proportion of female registrars / Proportion of women in the working-age population        ",
+            "name": "Proportion of female registrars to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
             }
           },
           {
-            "name": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -54,7 +54,7 @@
             }
           },
           {
-            "name": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,7 +67,7 @@
             }
           },
           {
-            "name": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of judges with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -80,7 +80,7 @@
             }
           },
           {
-            "name": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [

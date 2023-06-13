@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",
+            "name": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)",
             "type": "string",
             "constraints": {
               "enum": [

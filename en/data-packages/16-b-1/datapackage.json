@@ -95,42 +95,42 @@
             "title": "Entities in which they were discriminated against"
           },
           {
-            "name": "Characteristics of persons who discriminated",
+            "name": "Characteristics ofPersons who discriminated",
             "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Characteristics of persons who discriminated"
+            "title": "Characteristics ofPersons who discriminated"
           },
           {
-            "name": "The quality of the person who discriminated",
+            "name": "The quality of thePerson who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
-                "Individual person",
-                "Legal person",
+                "IndividualPerson",
+                "LegalPerson",
                 ""
               ]
             },
-            "title": "The quality of the person who discriminated"
+            "title": "The quality of thePerson who discriminated"
           },
           {
-            "name": "The quality/function held by the natural person",
+            "name": "The quality/function held by the naturalPerson",
             "type": "string",
             "constraints": {
               "enum": [
-                " Person with a function of public dignity",
+                "Person with a function of public dignity",
                 "Public official",
                 "Person with responsibility functions",
                 ""
               ]
             },
-            "title": "The quality/function held by the natural person"
+            "title": "The quality/function held by the naturalPerson"
           },
           {
-            "name": "The field of activity related to the person who discriminated",
+            "name": "The field of activity related to thePerson who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
@@ -139,7 +139,7 @@
                 ""
               ]
             },
-            "title": "The field of activity related to the person who discriminated"
+            "title": "The field of activity related to thePerson who discriminated"
           },
           {
             "name": "Value",

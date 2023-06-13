@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "Proportion of female judges / Proportion of women in the working-age population        ",
+            "name": "Proportion of female judges to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,10 +27,10 @@
                 ""
               ]
             },
-            "title": "Proportion of female judges / Proportion of women in the working-age population        "
+            "title": "Proporția femeilor judecători față de proporția femeilor în populația în vârstă aptă de muncă"
           },
           {
-            "name": "Proportion of female registrars / Proportion of women in the working-age population        ",
+            "name": "Proportion of female registrars to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,10 +41,10 @@
                 ""
               ]
             },
-            "title": "Proportion of female registrars / Proportion of women in the working-age population        "
+            "title": "Proporția femeilor grefieri și asistenți judiciari față de proporția femeilor în populația în vârstă aptă de muncă"
           },
           {
-            "name": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -55,10 +55,10 @@
                 ""
               ]
             },
-            "title": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        "
+            "title": "Proporția tinerilor judecători în vârstă de 44 ani și mai puțin față de proporția populației în vârstă aptă de muncă peste vârsta eligibilă pentru un grefier și asistent judiciar și mai puțin de 45 ani"
           },
           {
-            "name": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,10 +69,10 @@
                 ""
               ]
             },
-            "title": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        "
+            "title": "Proporția tinerilor grefieri și asistenți judiciari în vârstă de 44 ani și mai puțin față de proporția populației în vârstă aptă de muncă peste vârsta eligibilă pentru un grefier și asistent judiciar și mai puțin de 45 ani"
           },
           {
-            "name": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of judges with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -83,10 +83,10 @@
                 ""
               ]
             },
-            "title": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population"
+            "title": "Proporția judecătorilor cu dizabilitate față de proporția persoanelor cu dizabilități în populația în vârstă aptă de muncă"
           },
           {
-            "name": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [

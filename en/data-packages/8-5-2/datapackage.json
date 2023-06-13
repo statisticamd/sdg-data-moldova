@@ -54,7 +54,7 @@
             "title": "Persons with disabilities"
           },
           {
-            "name": "Education levels ",
+            "name": "Education levels",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,7 +67,7 @@
                 ""
               ]
             },
-            "title": "Education levels "
+            "title": "Education levels"
           },
           {
             "name": "Value",

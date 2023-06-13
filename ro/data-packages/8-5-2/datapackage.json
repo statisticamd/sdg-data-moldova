@@ -54,7 +54,7 @@
             "title": "Persoane cu dizabilități"
           },
           {
-            "name": "Education levels ",
+            "name": "Education levels",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,7 +67,7 @@
                 ""
               ]
             },
-            "title": "Education levels "
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",

@@ -50,7 +50,7 @@
             }
           },
           {
-            "name": "Education levels ",
+            "name": "Education levels",
             "type": "string",
             "constraints": {
               "enum": [

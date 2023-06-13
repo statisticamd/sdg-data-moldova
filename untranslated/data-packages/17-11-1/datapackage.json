@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MERCHANDISE TRADE",
+                "Merchandise trade",
                 "Services",
                 ""
               ]

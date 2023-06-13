@@ -28,7 +28,7 @@
             "title": "Sex"
           },
           {
-            "name": "Level of studies",
+            "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Level of studies"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Institutions where have been made payments",

@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "Level of studies",
+            "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [

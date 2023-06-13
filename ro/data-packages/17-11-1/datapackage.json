@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MERCHANDISE TRADE",
+                "Comerțul cu mărfuri",
                 "Servicii",
                 ""
               ]

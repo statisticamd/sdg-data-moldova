@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "Boimass",
-                "Fossil fuels",
-                "Metal ores",
-                "Non-metalic minerals",
+                "Combustibili fosili",
+                "Minereuri metalice",
+                "Minerale nemetalice",
                 ""
               ]
             },

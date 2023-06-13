@@ -69,7 +69,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Type of sewerage ",
+            "name": "Type of sewerage",
             "type": "string",
             "constraints": {
               "enum": [
@@ -78,7 +78,7 @@
                 ""
               ]
             },
-            "title": "Type of sewerage "
+            "title": "Tipul de canalizare"
           },
           {
             "name": "Value",

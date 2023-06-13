@@ -990,7 +990,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomass",
+                "Biomasă",
                 ""
               ]
             },
@@ -1073,9 +1073,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual net rate of change of forest area,%",
-                "Proportion of forest area located in legally protected areas,%",
-                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
+                "Annual net rate of change of forest area,percent",
+                "Proportion of forest area located in legally protected areas,percent",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,percent",
                 "Above-ground biomass reserves in forests, thousands c.m.",
                 "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
                 ""
@@ -1500,7 +1500,7 @@
             "title": "Persoane cu dizabilități"
           },
           {
-            "name": "Education levels ",
+            "name": "Education levels",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1513,7 +1513,7 @@
                 ""
               ]
             },
-            "title": "Education levels "
+            "title": "Nivele de educație"
           },
           {
             "name": "Value",
@@ -1915,7 +1915,7 @@
             "title": "Sex"
           },
           {
-            "name": "Level of studies",
+            "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1926,7 +1926,7 @@
                 ""
               ]
             },
-            "title": "Level of studies"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Institutions where have been made payments",
@@ -2062,7 +2062,7 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Marital status",
@@ -2455,7 +2455,7 @@
             "constraints": {
               "enum": [
                 "Total ",
-                "Municipality Chişinău",
+                "Municipiul Chișinău",
                 "Nord",
                 "Centru",
                 "Sud",
@@ -3188,7 +3188,7 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Form of violence",
@@ -4519,7 +4519,7 @@
           }
         ]
       },
-      "title": "national_indicators.11-5-3-b--title"
+      "title": "Numărul de întreruperi ale serviciilor de bază în urma situațiilor excepționale"
     },
     {
       "path": "17-17-1-1/data.csv",
@@ -5238,7 +5238,7 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Value",
@@ -6834,9 +6834,9 @@
             "constraints": {
               "enum": [
                 "Boimass",
-                "Fossil fuels",
-                "Metal ores",
-                "Non-metalic minerals",
+                "Combustibili fosili",
+                "Minereuri metalice",
+                "Minerale nemetalice",
                 ""
               ]
             },
@@ -7925,7 +7925,7 @@
             "title": "Anul"
           },
           {
-            "name": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",
+            "name": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7937,7 +7937,7 @@
                 ""
               ]
             },
-            "title": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)"
+            "title": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)"
           },
           {
             "name": "The quantity of groundwater in aquifers, thousand m3/24 h ",
@@ -8455,7 +8455,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Type of sewerage ",
+            "name": "Type of sewerage",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8464,7 +8464,7 @@
                 ""
               ]
             },
-            "title": "Type of sewerage "
+            "title": "Tipul de canalizare"
           },
           {
             "name": "Value",
@@ -8551,7 +8551,7 @@
             "title": "Anul"
           },
           {
-            "name": "Types of sources ",
+            "name": "Types of sources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8561,7 +8561,7 @@
                 ""
               ]
             },
-            "title": "Types of sources "
+            "title": "Tipuri de surse"
           },
           {
             "name": "Value",
@@ -8919,8 +8919,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomass",
-                "xx",
+                "Biomasă",
                 ""
               ]
             },
@@ -9280,9 +9279,9 @@
             "constraints": {
               "enum": [
                 "Boimass",
-                "Fossil fuels",
-                "Metal ores",
-                "Non-metalic minerals",
+                "Combustibili fosili",
+                "Minereuri metalice",
+                "Minerale nemetalice",
                 ""
               ]
             },
@@ -9617,15 +9616,15 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Incomes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Săraci, 40 procente",
-                "Înstăriți, 60 procente",
+                "Poors, 40%",
+                "Wealthy, 60%",
                 ""
               ]
             },
@@ -10131,9 +10130,9 @@
             "constraints": {
               "enum": [
                 "Boimass",
-                "Fossil fuels",
-                "Metal ores",
-                "Non-metalic minerals",
+                "Combustibili fosili",
+                "Minereuri metalice",
+                "Minerale nemetalice",
                 ""
               ]
             },
@@ -10575,9 +10574,9 @@
             "constraints": {
               "enum": [
                 "Boimass",
-                "Fossil fuels",
-                "Metal ores",
-                "Non-metalic minerals",
+                "Combustibili fosili",
+                "Minereuri metalice",
+                "Minerale nemetalice",
                 ""
               ]
             },
@@ -10612,7 +10611,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MERCHANDISE TRADE",
+                "Comerțul cu mărfuri",
                 "Servicii",
                 ""
               ]
@@ -10842,7 +10841,7 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Value",
@@ -10893,7 +10892,7 @@
             "title": "Anul"
           },
           {
-            "name": "Proportion of female judges / Proportion of women in the working-age population        ",
+            "name": "Proportion of female judges to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10904,10 +10903,10 @@
                 ""
               ]
             },
-            "title": "Proportion of female judges / Proportion of women in the working-age population        "
+            "title": "Proporția femeilor judecători față de proporția femeilor în populația în vârstă aptă de muncă"
           },
           {
-            "name": "Proportion of female registrars / Proportion of women in the working-age population        ",
+            "name": "Proportion of female registrars to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10918,10 +10917,10 @@
                 ""
               ]
             },
-            "title": "Proportion of female registrars / Proportion of women in the working-age population        "
+            "title": "Proporția femeilor grefieri și asistenți judiciari față de proporția femeilor în populația în vârstă aptă de muncă"
           },
           {
-            "name": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10932,10 +10931,10 @@
                 ""
               ]
             },
-            "title": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        "
+            "title": "Proporția tinerilor judecători în vârstă de 44 ani și mai puțin față de proporția populației în vârstă aptă de muncă peste vârsta eligibilă pentru un grefier și asistent judiciar și mai puțin de 45 ani"
           },
           {
-            "name": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10946,10 +10945,10 @@
                 ""
               ]
             },
-            "title": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        "
+            "title": "Proporția tinerilor grefieri și asistenți judiciari în vârstă de 44 ani și mai puțin față de proporția populației în vârstă aptă de muncă peste vârsta eligibilă pentru un grefier și asistent judiciar și mai puțin de 45 ani"
           },
           {
-            "name": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of judges with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10960,10 +10959,10 @@
                 ""
               ]
             },
-            "title": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population"
+            "title": "Proporția judecătorilor cu dizabilitate față de proporția persoanelor cu dizabilități în populația în vârstă aptă de muncă"
           },
           {
-            "name": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11319,42 +11318,42 @@
             "title": "Entități în care au fost discriminați"
           },
           {
-            "name": "Characteristics of persons who discriminated",
+            "name": "Characteristics ofPersons who discriminated",
             "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Characteristics of persons who discriminated"
+            "title": "Characteristics ofPersons who discriminated"
           },
           {
-            "name": "The quality of the person who discriminated",
+            "name": "The quality of thePerson who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persoană fizică",
-                "Legal person",
+                "IndividualPerson",
+                "LegalPerson",
                 ""
               ]
             },
-            "title": "Calitatea persoanei care a discriminat"
+            "title": "The quality of thePerson who discriminated"
           },
           {
-            "name": "The quality/function held by the natural person",
+            "name": "The quality/function held by the naturalPerson",
             "type": "string",
             "constraints": {
               "enum": [
-                " Person with a function of public dignity",
+                "Persoană cu funcție de demnitate publică",
                 "Persoană juridică",
                 "Persoană cu funcție de răspundere",
                 ""
               ]
             },
-            "title": "Calitatea/funcția deținută de persoana fizică"
+            "title": "The quality/function held by the naturalPerson"
           },
           {
-            "name": "The field of activity related to the person who discriminated",
+            "name": "The field of activity related to thePerson who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11363,7 +11362,7 @@
                 ""
               ]
             },
-            "title": "Domeniul de activitate aferent persoanei care a discriminat"
+            "title": "The field of activity related to thePerson who discriminated"
           },
           {
             "name": "Value",
@@ -13397,7 +13396,7 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Wealth quintiles ",
@@ -13639,8 +13638,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products AGR ",
-                "Non-agricultural products NAGR ",
+                "Produse agricole",
+                "Produse neagricole",
                 ""
               ]
             },

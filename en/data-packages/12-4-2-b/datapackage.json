@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Total ",
-                "Municipality Chişinău",
+                "Municipality Chisinau",
                 "North",
                 "Center",
                 "South",

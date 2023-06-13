@@ -49,15 +49,15 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivelul de educaţie"
           },
           {
             "name": "Incomes",
             "type": "string",
             "constraints": {
               "enum": [
-                "Săraci, 40 procente",
-                "Înstăriți, 60 procente",
+                "Poors, 40%",
+                "Wealthy, 60%",
                 ""
               ]
             },

@@ -1073,9 +1073,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual net rate of change of forest area,%",
-                "Proportion of forest area located in legally protected areas,%",
-                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
+                "Annual net rate of change of forest area,percent",
+                "Proportion of forest area located in legally protected areas,percent",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,percent",
                 "Above-ground biomass reserves in forests, thousands c.m.",
                 "Forest area included in the forest management certification system, independently verified, thousands ha",
                 ""
@@ -1500,7 +1500,7 @@
             "title": "Persons with disabilities"
           },
           {
-            "name": "Education levels ",
+            "name": "Education levels",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1513,7 +1513,7 @@
                 ""
               ]
             },
-            "title": "Education levels "
+            "title": "Education levels"
           },
           {
             "name": "Value",
@@ -1915,7 +1915,7 @@
             "title": "Sex"
           },
           {
-            "name": "Level of studies",
+            "name": "Level of education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1926,7 +1926,7 @@
                 ""
               ]
             },
-            "title": "Level of studies"
+            "title": "Level of education"
           },
           {
             "name": "Institutions where have been made payments",
@@ -2455,7 +2455,7 @@
             "constraints": {
               "enum": [
                 "Total ",
-                "Municipality Chişinău",
+                "Municipality Chisinau",
                 "North",
                 "Center",
                 "South",
@@ -4519,7 +4519,7 @@
           }
         ]
       },
-      "title": "national_indicators.11-5-3-b--title"
+      "title": "Number of interruptions of basic services due to exceptional situations"
     },
     {
       "path": "17-17-1-1/data.csv",
@@ -7925,7 +7925,7 @@
             "title": "Year"
           },
           {
-            "name": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",
+            "name": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7937,7 +7937,7 @@
                 ""
               ]
             },
-            "title": "Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)"
+            "title": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)"
           },
           {
             "name": "The quantity of groundwater in aquifers, thousand m3/24 h ",
@@ -8455,7 +8455,7 @@
             "title": "Sex of the head of the household"
           },
           {
-            "name": "Type of sewerage ",
+            "name": "Type of sewerage",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8464,7 +8464,7 @@
                 ""
               ]
             },
-            "title": "Type of sewerage "
+            "title": "Type of sewerage"
           },
           {
             "name": "Value",
@@ -8551,7 +8551,7 @@
             "title": "Year"
           },
           {
-            "name": "Types of sources ",
+            "name": "Types of sources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8561,7 +8561,7 @@
                 ""
               ]
             },
-            "title": "Types of sources "
+            "title": "Types of sources"
           },
           {
             "name": "Value",
@@ -8920,7 +8920,6 @@
             "constraints": {
               "enum": [
                 "Biomass",
-                "xx",
                 ""
               ]
             },
@@ -10612,7 +10611,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MERCHANDISE TRADE",
+                "Merchandise trade",
                 "Services",
                 ""
               ]
@@ -10893,7 +10892,7 @@
             "title": "Year"
           },
           {
-            "name": "Proportion of female judges / Proportion of women in the working-age population        ",
+            "name": "Proportion of female judges to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10904,10 +10903,10 @@
                 ""
               ]
             },
-            "title": "Proportion of female judges / Proportion of women in the working-age population        "
+            "title": "Proportion of female judges to Proportion of women in the working-age population"
           },
           {
-            "name": "Proportion of female registrars / Proportion of women in the working-age population        ",
+            "name": "Proportion of female registrars to Proportion of women in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10918,10 +10917,10 @@
                 ""
               ]
             },
-            "title": "Proportion of female registrars / Proportion of women in the working-age population        "
+            "title": "Proportion of female registrars to Proportion of women in the working-age population"
           },
           {
-            "name": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10932,10 +10931,10 @@
                 ""
               ]
             },
-            "title": "Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        "
+            "title": "Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45"
           },
           {
-            "name": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ",
+            "name": "Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10946,10 +10945,10 @@
                 ""
               ]
             },
-            "title": "Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        "
+            "title": "Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45"
           },
           {
-            "name": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of judges with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10960,10 +10959,10 @@
                 ""
               ]
             },
-            "title": "Proportion of judges with a disability / Proportion of persons with a disability in the working-age population"
+            "title": "Proportion of judges with a disability to Proportion of persons with a disability in the working-age population"
           },
           {
-            "name": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",
+            "name": "Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10974,7 +10973,7 @@
                 ""
               ]
             },
-            "title": "Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population"
+            "title": "Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population"
           },
           {
             "name": "Value",
@@ -11319,42 +11318,42 @@
             "title": "Entities in which they were discriminated against"
           },
           {
-            "name": "Characteristics of persons who discriminated",
+            "name": "Characteristics ofPersons who discriminated",
             "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Characteristics of persons who discriminated"
+            "title": "Characteristics ofPersons who discriminated"
           },
           {
-            "name": "The quality of the person who discriminated",
+            "name": "The quality of thePerson who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
-                "Individual person",
-                "Legal person",
+                "IndividualPerson",
+                "LegalPerson",
                 ""
               ]
             },
-            "title": "The quality of the person who discriminated"
+            "title": "The quality of thePerson who discriminated"
           },
           {
-            "name": "The quality/function held by the natural person",
+            "name": "The quality/function held by the naturalPerson",
             "type": "string",
             "constraints": {
               "enum": [
-                " Person with a function of public dignity",
+                "Person with a function of public dignity",
                 "Public official",
                 "Person with responsibility functions",
                 ""
               ]
             },
-            "title": "The quality/function held by the natural person"
+            "title": "The quality/function held by the naturalPerson"
           },
           {
-            "name": "The field of activity related to the person who discriminated",
+            "name": "The field of activity related to thePerson who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11363,7 +11362,7 @@
                 ""
               ]
             },
-            "title": "The field of activity related to the person who discriminated"
+            "title": "The field of activity related to thePerson who discriminated"
           },
           {
             "name": "Value",
@@ -13639,8 +13638,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products AGR ",
-                "Non-agricultural products NAGR ",
+                "Agricultural products AGR",
+                "Non-agricultural products NAGR",
                 ""
               ]
             },

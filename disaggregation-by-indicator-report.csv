@@ -22,7 +22,6 @@ Indicator,Disaggregations,Number of disaggregations
 #11-1-1-b,"Area of residence, Sex, Age group, Quintiles on consumption expenditures, Existence of disability",5
 #11-5-1-a,"Age group, Classes of disasters",2
 #11-5-1-c,"Age group, Classes of disasters",2
-#11-5-3-b,"Types of critical infrastructure losses, Districts",2
 #11-6-2,Cities,1
 #11-6-2-1,"Reported on a person, by sources, Reported on a person, by ingredients, Quantity of emissions, total, Quantity of emissions, by sources, Quantity of emissions, by ingredients",5
 #12-2-1-a,Types of resources,1
@@ -50,12 +49,12 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-2,"Sex, Duration of arrest",2
 #16-3-2-1,"Sex, Age group, Ethnicity, Disability, Citizenship, Beneficiary status - foreign citizen, Requested authority, Legal basis, Type of qualified assistance, Primary care",10
 #16-3-2-2,Children's rights,1
-#16-5-1,"Sex, Level of studies, Institutions where have been made payments",3
+#16-5-1,"Sex, Level of education, Institutions where have been made payments",3
 #16-5-2,"Sex, Institutions where have been made payments, Nivel de instruire",3
 #16-6-2-1,Access mode,1
 #16-7-1-a,"Sex, Age group",2
-#16-7-1-c,"Proportion of female judges / Proportion of women in the working-age population        , Proportion of female registrars / Proportion of women in the working-age population        , Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        , Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        , Proportion of judges with a disability / Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population",6
-#16-b-1,"Sex, Age group, Area of residence  of the respondents, Discrimination criteria, Entities in which they were discriminated against, The quality of the person who discriminated, The quality/function held by the natural person, The field of activity related to the person who discriminated",8
+#16-7-1-c,"Proportion of female judges to Proportion of women in the working-age population, Proportion of female registrars to Proportion of women in the working-age population, Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of judges with a disability to Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",6
+#16-b-1,"Sex, Age group, Area of residence  of the respondents, Discrimination criteria, Entities in which they were discriminated against, The quality of thePerson who discriminated, The quality/function held by the naturalPerson, The field of activity related to thePerson who discriminated",8
 #17-1-1,Types of income,1
 #17-10-1,Types of products,1
 #17-11-1,Indicators,1
@@ -117,12 +116,12 @@ Indicator,Disaggregations,Number of disaggregations
 #5-b-1-1,"Area of residence, Sex of the head of the household",2
 #6-1-1,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Statistical regions",4
 #6-2-1-1,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Statistical regions",4
-#6-2-1-a,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Statistical regions, Type of sewerage ",5
+#6-2-1-a,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Statistical regions, Type of sewerage",5
 #6-3-1,"Economic activities, Rayons/Municipalities that have treatment plants",2
-#6-3-2-1,Types of sources ,1
+#6-3-2-1,Types of sources,1
 #6-4-1-1,"Consumption needs, Economic activities",2
 #6-5-2,River,1
-#6-6-1,"Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections), The quantity of groundwater in aquifers, thousand m3/24 h ",2
+#6-6-1,"Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections), The quantity of groundwater in aquifers, thousand m3/24 h ",2
 #7-1-1,Area of residence,1
 #7-1-2,"Area of residence, Home heating systems - total, Home heating systems - urban, Home heating systems - rural, Food preparation - total, Food preparation - urban, Food preparation - rural",7
 #7-1-2-1,"Bio-fuel and waste, Petrol products, Coal, Natural gas, Thermal energy, Electricity",6
@@ -133,7 +132,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-4-1-a,Types of resources,1
 #8-4-2-a,Types of resources,1
 #8-5-1-1,Regions,1
-#8-5-2,"Sex, Age group, Persons with disabilities, Education levels ",4
+#8-5-2,"Sex, Age group, Education levels, Persons with disabilities",4
 #8-6-1,Age group / Sex,1
 #8-8-1,"Fatal accidents, by sex, Fatal accidents, by economic activities, Non-fatal accidents, by sex, Non-fatal accidents, by economic activities",4
 #8-9-1-2,Sex,1

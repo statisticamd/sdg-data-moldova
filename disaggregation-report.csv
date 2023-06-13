@@ -39,11 +39,10 @@ Disability (subjected to violence),1,1
 Disability,1,4
 Disbursement,1,2
 Discrimination criteria,2,12
-Districts,3,39
+Districts,2,39
 Duration of arrest,1,4
 Economic activities,3,10
-Education levels,4,4
-Education levels ,1,6
+Education levels,5,10
 Educational levels,1,2
 Electricity,1,5
 Emission sectors,1,4
@@ -78,11 +77,10 @@ Institutions where have been made payments,2,22
 kg/person,1,1
 Legal basis,1,2
 Level of education of the head of the household,1,4
-Level of education,2,5
+Level of education,3,7
 Level of eutrophication in rivers,1,2
 Level of government,1,3
 Level of implementation,1,3
-Level of studies,1,4
 Levels,1,2
 Master,1,3
 Means of committing,1,4
@@ -97,12 +95,12 @@ Occupations,1,8
 Persons with disabilities,1,1
 Petrol products,1,4
 Primary care,1,1
-Proportion of female judges / Proportion of women in the working-age population        ,1,4
-Proportion of female registrars / Proportion of women in the working-age population        ,1,4
-Proportion of judges with a disability / Proportion of persons with a disability in the working-age population,1,4
-Proportion of registrars with a disability / Proportion of persons with a disability in the working-age population,1,4
-Proportion of ‘young’ judges  aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ,1,4
-Proportion of ‘young’  registrars aged 44 and below / Proportion of the working-age population aged above the eligibility age and below 45        ,1,4
+Proportion of female judges to Proportion of women in the working-age population,1,4
+Proportion of female registrars to Proportion of women in the working-age population,1,4
+Proportion of judges with a disability to Proportion of persons with a disability in the working-age population,1,4
+Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population,1,4
+Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45,1,4
+Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45,1,4
 "Quantity of emissions, by ingredients",1,6
 "Quantity of emissions, by sources",1,3
 "Quantity of emissions, total",1,1
@@ -128,9 +126,9 @@ Status,1,2
 Strategies,1,2
 Sub-indicators,2,8
 The existence of disability,1,2
-The field of activity related to the person who discriminated,1,2
-The quality of the person who discriminated,1,2
-The quality/function held by the natural person,1,3
+The field of activity related to thePerson who discriminated,1,2
+The quality of thePerson who discriminated,1,2
+The quality/function held by the naturalPerson,1,3
 "The quantity of groundwater in aquifers, thousand m3/24 h ",1,1
 Thermal energy,1,4
 Tipuri SE,1,4
@@ -139,17 +137,16 @@ Toxic waste by toxicity class,1,4
 Toxic waste,1,1
 Type of benefit,1,2
 Type of qualified assistance,1,5
-Type of sewerage ,1,2
+Type of sewerage,1,2
 Type of technology,1,2
 Type of vaccine,1,10
 Types of crimes,1,8
-Types of critical infrastructure losses,1,1
 Types of ecosystems,1,2
 Types of energy,1,6
 Types of income,1,4
 Types of products,1,2
-Types of resources,4,6
-Types of sources ,1,3
+Types of resources,4,5
+Types of sources,1,3
 Types,1,2
-"Water quality (rivers, lakes and artificial water bodies), % of the total number of monitored sections)",1,5
+"Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)",1,5
 Wellbeing quintile,1,5

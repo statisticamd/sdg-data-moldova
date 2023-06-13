@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Biomass",
-                "xx",
                 ""
               ]
             },

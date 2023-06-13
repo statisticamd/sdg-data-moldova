@@ -1,4 +1,4 @@
-Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria,Entities in which they were discriminated against,Characteristics of persons who discriminated,The quality of the person who discriminated,The quality/function held by the natural person,The field of activity related to the person who discriminated,Value
+Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria,Entities in which they were discriminated against,Characteristics ofPersons who discriminated,The quality of thePerson who discriminated,The quality/function held by the naturalPerson,The field of activity related to thePerson who discriminated,Value
 2010,,,,,,,,,,
 2010,Men,,,,,,,,,
 2010,Women,,,,,,,,,
@@ -30,9 +30,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2010,,,,,Church,,,,,
 2010,,,,,Other,,,,,
 2010,,,,,,,,,,
-2010,,,,,,,Individual person,,,
-2010,,,,,,,Legal person,,,
-2010,,,,,,,, Person with a function of public dignity,,
+2010,,,,,,,IndividualPerson,,,
+2010,,,,,,,LegalPerson,,,
+2010,,,,,,,,Person with a function of public dignity,,
 2010,,,,,,,,Public official,,
 2010,,,,,,,,Person with responsibility functions,,
 2010,,,,,,,,,Public,
@@ -68,9 +68,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2011,,,,,Church,,,,,
 2011,,,,,Other,,,,,
 2011,,,,,,,,,,
-2011,,,,,,,Individual person,,,
-2011,,,,,,,Legal person,,,
-2011,,,,,,,, Person with a function of public dignity,,
+2011,,,,,,,IndividualPerson,,,
+2011,,,,,,,LegalPerson,,,
+2011,,,,,,,,Person with a function of public dignity,,
 2011,,,,,,,,Public official,,
 2011,,,,,,,,Person with responsibility functions,,
 2011,,,,,,,,,Public,
@@ -106,9 +106,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2012,,,,,Church,,,,,
 2012,,,,,Other,,,,,
 2012,,,,,,,,,,
-2012,,,,,,,Individual person,,,
-2012,,,,,,,Legal person,,,
-2012,,,,,,,, Person with a function of public dignity,,
+2012,,,,,,,IndividualPerson,,,
+2012,,,,,,,LegalPerson,,,
+2012,,,,,,,,Person with a function of public dignity,,
 2012,,,,,,,,Public official,,
 2012,,,,,,,,Person with responsibility functions,,
 2012,,,,,,,,,Public,
@@ -144,9 +144,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2013,,,,,Church,,,,,
 2013,,,,,Other,,,,,
 2013,,,,,,,,,,
-2013,,,,,,,Individual person,,,
-2013,,,,,,,Legal person,,,
-2013,,,,,,,, Person with a function of public dignity,,
+2013,,,,,,,IndividualPerson,,,
+2013,,,,,,,LegalPerson,,,
+2013,,,,,,,,Person with a function of public dignity,,
 2013,,,,,,,,Public official,,
 2013,,,,,,,,Person with responsibility functions,,
 2013,,,,,,,,,Public,
@@ -182,9 +182,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2014,,,,,Church,,,,,2.2
 2014,,,,,Other,,,,,6.0
 2014,,,,,,,,,,
-2014,,,,,,,Individual person,,,
-2014,,,,,,,Legal person,,,
-2014,,,,,,,, Person with a function of public dignity,,
+2014,,,,,,,IndividualPerson,,,
+2014,,,,,,,LegalPerson,,,
+2014,,,,,,,,Person with a function of public dignity,,
 2014,,,,,,,,Public official,,
 2014,,,,,,,,Person with responsibility functions,,
 2014,,,,,,,,,Public,
@@ -220,9 +220,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2015,,,,,Church,,,,,
 2015,,,,,Other,,,,,
 2015,,,,,,,,,,
-2015,,,,,,,Individual person,,,
-2015,,,,,,,Legal person,,,
-2015,,,,,,,, Person with a function of public dignity,,
+2015,,,,,,,IndividualPerson,,,
+2015,,,,,,,LegalPerson,,,
+2015,,,,,,,,Person with a function of public dignity,,
 2015,,,,,,,,Public official,,
 2015,,,,,,,,Person with responsibility functions,,
 2015,,,,,,,,,Public,
@@ -258,9 +258,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2016,,,,,Church,,,,,
 2016,,,,,Other,,,,,
 2016,,,,,,,,,,
-2016,,,,,,,Individual person,,,
-2016,,,,,,,Legal person,,,
-2016,,,,,,,, Person with a function of public dignity,,
+2016,,,,,,,IndividualPerson,,,
+2016,,,,,,,LegalPerson,,,
+2016,,,,,,,,Person with a function of public dignity,,
 2016,,,,,,,,Public official,,
 2016,,,,,,,,Person with responsibility functions,,
 2016,,,,,,,,,Public,
@@ -296,9 +296,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2017,,,,,Church,,,,,
 2017,,,,,Other,,,,,
 2017,,,,,,,,,,
-2017,,,,,,,Individual person,,,
-2017,,,,,,,Legal person,,,
-2017,,,,,,,, Person with a function of public dignity,,
+2017,,,,,,,IndividualPerson,,,
+2017,,,,,,,LegalPerson,,,
+2017,,,,,,,,Person with a function of public dignity,,
 2017,,,,,,,,Public official,,
 2017,,,,,,,,Person with responsibility functions,,
 2017,,,,,,,,,Public,
@@ -334,9 +334,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2018,,,,,Church,,,,,
 2018,,,,,Other,,,,,
 2018,,,,,,,,,,
-2018,,,,,,,Individual person,,,
-2018,,,,,,,Legal person,,,
-2018,,,,,,,, Person with a function of public dignity,,
+2018,,,,,,,IndividualPerson,,,
+2018,,,,,,,LegalPerson,,,
+2018,,,,,,,,Person with a function of public dignity,,
 2018,,,,,,,,Public official,,
 2018,,,,,,,,Person with responsibility functions,,
 2018,,,,,,,,,Public,
@@ -372,9 +372,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2019,,,,,Church,,,,,
 2019,,,,,Other,,,,,
 2019,,,,,,,,,,
-2019,,,,,,,Individual person,,,
-2019,,,,,,,Legal person,,,
-2019,,,,,,,, Person with a function of public dignity,,
+2019,,,,,,,IndividualPerson,,,
+2019,,,,,,,LegalPerson,,,
+2019,,,,,,,,Person with a function of public dignity,,
 2019,,,,,,,,Public official,,
 2019,,,,,,,,Person with responsibility functions,,
 2019,,,,,,,,,Public,
@@ -410,9 +410,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2020,,,,,Church,,,,,
 2020,,,,,Other,,,,,
 2020,,,,,,,,,,
-2020,,,,,,,Individual person,,,
-2020,,,,,,,Legal person,,,
-2020,,,,,,,, Person with a function of public dignity,,
+2020,,,,,,,IndividualPerson,,,
+2020,,,,,,,LegalPerson,,,
+2020,,,,,,,,Person with a function of public dignity,,
 2020,,,,,,,,Public official,,
 2020,,,,,,,,Person with responsibility functions,,
 2020,,,,,,,,,Public,
@@ -448,9 +448,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2021,,,,,Church,,,,,
 2021,,,,,Other,,,,,
 2021,,,,,,,,,,
-2021,,,,,,,Individual person,,,30.0
-2021,,,,,,,Legal person,,,57.5
-2021,,,,,,,, Person with a function of public dignity,,10.0
+2021,,,,,,,IndividualPerson,,,30.0
+2021,,,,,,,LegalPerson,,,57.5
+2021,,,,,,,,Person with a function of public dignity,,10.0
 2021,,,,,,,,Public official,,10.0
 2021,,,,,,,,Person with responsibility functions,,12.5
 2021,,,,,,,,,Public,75.0
@@ -486,9 +486,9 @@ Year,Sex,Age group,Area of residence  of the respondents,Discrimination criteria
 2022,,,,,Church,,,,,
 2022,,,,,Other,,,,,12.0
 2022,,,,,,,,,,
-2022,,,,,,,Individual person,,,33.3
-2022,,,,,,,Legal person,,,43.3
-2022,,,,,,,, Person with a function of public dignity,,6.6
+2022,,,,,,,IndividualPerson,,,33.3
+2022,,,,,,,LegalPerson,,,43.3
+2022,,,,,,,,Person with a function of public dignity,,6.6
 2022,,,,,,,,Public official,,16.6
 2022,,,,,,,,Person with responsibility functions,,
 2022,,,,,,,,,Public,73.3
