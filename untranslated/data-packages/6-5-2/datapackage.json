@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "River",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prut river",
+                "Dniester river",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

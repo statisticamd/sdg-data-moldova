@@ -15,16 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "City",
+            "name": "Cities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Chisinau",
+                "Chișinău",
                 "Leova",
-                "Balti",
+                "Bălți",
                 "Tiraspol",
                 "Bender",
-                "Rabnita",
+                "Râbnița",
                 ""
               ]
             }

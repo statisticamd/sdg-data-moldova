@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Production and supply of electric energy and heat, gas and hot water",
+                "Other activities",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

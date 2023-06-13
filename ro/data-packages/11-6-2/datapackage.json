@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "City",
+            "name": "Cities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Orașe"
+            "title": "Urbe"
           },
           {
             "name": "Value",

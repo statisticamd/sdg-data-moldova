@@ -16,20 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "City",
+            "name": "Cities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Chisinau",
+                "Chișinău",
                 "Leova",
-                "Balti",
+                "Bălți",
                 "Tiraspol",
                 "Bender",
-                "Rabnita",
+                "Râbnița",
                 ""
               ]
             },
-            "title": "City"
+            "title": "Cities"
           },
           {
             "name": "Value",

@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultura, silvicultura și pescuit",
+                "Industria extractivă",
+                "Industria prelucrătoare",
+                "Producția și furnizarea de energie electrică și termică, gaze şi apă caldă",
+                "Alte activități",
+                ""
+              ]
+            },
+            "title": "Activități economice"
           },
           {
             "name": "Value",
