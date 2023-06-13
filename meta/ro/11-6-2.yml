@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
-  <p>Indicator 11.6.2: Concentrația medie anuală a suspensiilor solide în urbe (PM10)</p>
+  <p>Indicator 11.6.2: Concentrația medie anuală a suspensiilor solide in urbe (PM10)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,15 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Suspensii solide cu fracția 10 mkm (PM-10) în localitățile urbane reprezintă  poluarea aerului preponderent în formă de praf fin, include un amestec de  particule solide și lichide caracterizate prin dimensiunile reduse ale  acestora - până la 10 mkm. Circa 60% din PM10 este format din particule de tip  PM2.5, cu diametrul sub 2.5 microni. Conform Organizației Mondiale a  Sănătății, expunerea la particule fine (PM2.5) are cel mai semnifică cativ  impact asupra sănătății umane, în comparație cu alți poluanți. </p> 
+  <p> Suspensii solide cu fracția 10 mkm (PM-10) în localitățile urbane reprezintă  poluarea aerului preponderent în forma de praf fin, include un amestec de  particule solide și lichide caracterizate prin dimensiunile reduse ale  acestora - până la 10 mkm. Circa 60% din PM10 este format din particule de tip  PM2.5, cu diametrul sub 2.5 microni. Conform Organizației Mondiale a  Sănătății, expunerea la particule fine (PM2.5) are cel mai semnificativ  impact asupra sănătății umane, în comparație cu alți poluanți. În anul 2015  nivelul mediu de PM2.5 în orașe a fost de 15 micrograme la metru cub, și de  16,7, în anul 2016.</p> 
   <p>   Monitoringul calității aerului atmosferic: Rețeaua operațională de  monitorizare a calității aerului atmosferic constă din 18 posturi staționare,  17 dintre care sunt amplasate în 5 centre industrializate: Chișinău - 6  posturi, Bălți-2, Tiraspol-3, Bender-4, Râbnița-2, și 1 stație  transfrontalieră în or. Leova.</p> 
-  <p>  La 17 stații se prelevează probe de 3 ori  pe zi (07:00, 13:00 și 19:00) fiind analizați poluanții de bază (suspensii  solide, dioxid de sulf, monoxid de carbon, dioxid de azot) și cei specifici  (sulfați solubili, oxid de azot, aldehidă formică, fenol și benzo(a)piren).  Programul observațiilor, prelevarea mostrelor și analiza chimică se efectuează  conform metodologiei “ Руководство по контролю загрязнения атмосферы, РД  52.04. 186-89-Москва 1991”. Gradul de poluare a aerului se apreciază după  valoarea concentrațiilor medii față de concentrația maxim admisibilă (CMA),  iar calitatea aerului se estimează prin indicele complex al poluării  atmosferei (IPA). </p>
+  <p>  La 17 stații se prelevează probe de 3 ori  pe zi (07:00, 13:00 și 19:00) fiind analizați poluanții de bază (suspensii  solide, dioxid de sulf, monoxid de carbon, dioxid de azot) și cei specifici  (sulfați solubili, oxid de azot, aldehidă formică, fenol și benzo(a)piren).  Programul observațiilor, prelevarea mostrelor și analiza chimică se efectuează  conform metodologiei “ Руководство по контролю загрязнения атмосферы, РД  52.04. 186-89-Москва 1991”. Gradul de poluare a aerului se apreciază după  valoarea concentrațiilor medii față de concentrația maxim admisibilă (CMA),  iar calitatea aerului se estimează prin indicele complex al poluării  atmosferei (IPA). ( [A se  vedea](http://mediu.gov.md/ro/content/protec%C8%9Bia-aerului-atmosferic) ) </p>
 UNIT_MEASURE: >-
   µg/m3
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Rețeaua de monitorizare a calității aerului atmosferic.
+  Rețeaua de monitorizare a calității aerului atmosferic
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Concentrația medie anuală a suspensiilor solide reprezintă media aritmetică de  suspensii solide ponderată la populația urbană și este exprimată în micrograme  pe metru cub. Pulberi în suspensie cu fracția 10 mkm se determina prin metoda  automată de  măsurare,  se  bazează  pe  principiul  ciclon,  destinată   pentru determinarea  concentrației  de  masă  a  fracției  fibrogene  cu  mărimea  <10  mkm  în  aerul  atmosferic.
+  Concentrația medie anuală a suspensiilor solide reprezintă media aritmetică de  suspensii solide ponderată la populația urbană si este exprimată în micrograme  pe metru cub. Pulberi în suspensie cu fracția 10 mkm se determina prin metoda  automată de  măsurare,  se  bazează  pe  principiul  ciclon,  destinată   pentru determinarea  concentrației  de  masă  a  fracției  fibrogene  cu  mărimea  <10  mkm  în  aerul  atmosferic.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -72,9 +72,9 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Trimestrial
 source_url_1: >-
-  https://am.gov.md/sites/default/files/document/attachments/Anuar-DGLRM-2021-fin_0.pdf
+  http://www.green-economies-eap.org/resources/Raport_RO.pdf
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Lungu Marina, Șef, Laboratorul de referință de mediu, Agenția de Mediu, tel. 022 820 746, e-mail: m_lungu@am.gov.md
+  Marina Lungu, Șef Laboratorul de referință de mediu, Agenția de Mediu, tel. 022 820 746, e-mail: m_lungu@am.gov.md
 source_other_info_1: >-

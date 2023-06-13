@@ -1,0 +1,91 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 6.4.1: Evoluția eficienței utilizării apei în timp</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 6.4: Până în 2030, creșterea substanțială a eficienței de utilizare a apei în toate  sectoarele și asigurarea unui proces durabil de captare și furnizare a apei  potabile, pentru a face față deficitului de apă și pentru a reduce substanțial  numărul de persoane care suferă de deficit de apă</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  FAO
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  6.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 6.4.1: ia eficienței utilizării apei în timp</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Eficiența apei utilizate este definită ca volumul de apă utilizată raportat la  valoarea adăugată a anumitor sectoare majore. Schimbarea în eficiența  utilizării apei reprezintă evoluția în timp (schimbarea) în valoarea acestui  raport/proporții. Cele 3 sectoare economice majore se consideră:  1.  Agricultură, silvicultură și pescuit (NACE rev.2, secțiunea A); 2. Industria  extractivă, Industria prelucrătoare, Producția și furnizarea de energie  electrică și termică, gaze, apă caldă și aer condiționat, Construcții (NACE  rev.2, secțiunile C B, C, D and F); 3. alte sectoare de servicii (NACE rev.2,  secțiunile E și G-T). Eficiența se estimează pe fiecare dintre cele 3 sectoare  majore. Pentru agricultură se va estima eficiența utilizării apei pentru  irigare (irigarea pământului, inclusiv irigarea în perioada de vegetație și  toate tipurile de irigare în perioadele de până la începerea vegetației),  necesitățile de producție în</p> 
+  <p>  sectorul agricol (complexele animaliere,  ateliere de reparații, deservirea tehnică a transportului auto și mecanismelor  etc.)</p> 
+  <p>  Apă utilizată înseamnă apă captată sau primită și folosită în  scopul desfășurării activității economice de fabricare a producției, de  executare a lucrărilor și de prestare a serviciilor. Apa poate fi utilizată  pentru necesități de producție, necesitățile agriculturii (incl.de  irigare)</p> 
+  <p>  Apă captată: apă obținută din obiectivele acvatice amplasate în  granițele Republicii Moldova. Apa captată este extrasă din surse superficiale  (râuri, lacuri), surse subterane. </p>
+UNIT_MEASURE: >-
+  lei/m3
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. Cercetarea "Utilizarea apei" conform formularului nr.1 - gospodăria apelor</p> 
+  <p>2. Datele Conturilor naționale </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Agenția „Apele Moldovei”</p> 
+  <p>2. Biroul Național de Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Suma valorii adăugate a trei sectoare economice, ponderate la proporția apelor  captate de către fiecare sector din total volum de ape captate. </p> 
+  <p> WUE =  Awe* PA+Iwe* PI+Swe* PS</p> 
+  <p> Unde:</p> 
+  <p>  WUE =Eficiența utilizării apei, </p> 
+  <p>   Awe= eficiența utilizării apei în agricultura irigată [USD/m3], </p> 
+  <p>  Iwe =  Eficiența utilizării apei în industrie [USD/m3], </p> 
+  <p>  Swe=Eficiența  utilizării apei în servicii [USD/m3], </p> 
+  <p>  PA = Proporția de apă utilizată de  către sectorul agricol în total utilizări,</p> 
+  <p>  PI =Proporția de apă utilizată  de către sectorul industrial în total utilizări </p> 
+  <p>  PS =Proporția de apă  utilizată de către sectorul servicii în total utilizări </p> 
+  <p>  Fiecare dintre  aceste elemente se calculează separat (a se vedea metadatele globale) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția „Apele Moldovei”
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Dumitru Proca, specialist principal, Direcția Managementul Resurselor de Ape, Agenția "Apele Moldovei", tel.022-280752, email: dima.proca@apele. gov.md
+source_other_info_1: >-

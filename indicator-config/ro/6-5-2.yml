@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
-computation_units: Percent, %
+computation_units: Procent, %
 copyright: ''
-data_footnote: <p> Prut river - Agreement between the Government of the Republic of Moldova and the Government of Romania regarding cooperation for the protection and sustainable use of the waters of the Prut and Danube, signed in Chisinau on June 28, 2010.</p> 
-  <p>Dniester river - Agreement between the Government of the Republic of Moldova and the Cabinet of Ministers of Ukraine regarding collaboration in the field of protection and sustainable development of the Dniester River Basin, signed on November 29, 2012 in Rome, Italy. For the Dniester River, Ukraine ratified the Agreement on June 7, 2017, and the first meeting of the Dniester Commission took place in 2018 </p>
+data_footnote: <p> Râul Prut - Acordul între Guvernul Republicii Moldova şi Guvernul României privind cooperarea pentru protecția şi utilizarea durabilă a apelor Prutului şi Dunării, semnat la Chișinău la 28 iunie 2010. </p> 
+  <p>Fluviul Nistru - Acordul între Guvernul Republicii Moldova şi Cabinetul de Miniştri al Ucrainei privind colaborarea în domeniul protecţiei şi dezvoltării durabile a bazinului râului Nistru, semnat la 29 noiembrie 2012 la Roma, Italia. Pentru fluviul Nistru Ucraina a ratificat Acordul la 7 iunie 2017, iar prima ședință a Comisiei Nistrene a avut loc în 2018. </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -33,7 +33,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova
+national_geographical_coverage: Republica Moldova
 page_content: ''
 permalink: ''
 placeholder: ''

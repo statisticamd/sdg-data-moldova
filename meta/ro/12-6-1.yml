@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 12.6.1: Numărul de companii care publică rapoarte de sustenabilitate</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 12.6: Încurajarea companiilor, în special a companiilor mari și transnaționale, să  adopte practici durabile și să integreze informațiile privind durabilitatea în ciclul de raportare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNEP,  UNCTAD
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  12.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 12.6.1: Numărul companiilor care publică rapoarte privind consumul rațional de  resurse</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Număr
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Rapoartele companiilor din țară
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Programul Națiunilor Unite pentru Mediu (UNEP)/ Conferința Națiunilor Unite  pentru Comerț și Dezvoltare (Conferința Națiunilor Unite pentru Comerț și  Dezvoltare (UNCTAD))
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Mediului
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Scopul indicatorului este de a măsura contribuția companiilor la dezvoltarea durabilă. Pentru a calcula indicatorul, se va lua în considerare companiile care publică informații de sustenabilitate care acoperă următoarele detalii despre sustenabilitate, care sunt împărțite în criterii minime și avansate:</p> 
+  <p>   1) Criterii minime:</p> 
+  <p>   Cadrul instituțional și de guvernare: • Evaluare materială; • Strategia de sustenabilitate și/sau principiile legate de sustenabilitate; • Abordarea managementului pentru soluţionarea subiectelor materiale; • Structura de guvernare, inclusiv pentru problemele economice, de mediu și sociale</p> 
+  <p>   • Impacturi, riscuri, oportunități cheie; • Practici de combatere a fraudei, anticorupție și anti-concurență.</p> 
+  <p>Economic: • Măsurarea directă a performanței economice (venituri, profit net, valoare adăugată, plăți către acționari); • Măsurarea indirectă a performanței economice (investiții comunitare, investiții în infrastructură sau alt impact economic local important)</p> 
+  <p>   Mediu:• Consumul de energie și eficiența energetică; • Utilizarea deșeurilor, generarea apei uzate, practici integrate de gestionare a resurselor de deșeuri sau de reciclare/reutilizare și eficiență a apei; •  A emisiilor de gaze cu efect de seră; • Alte emisii și efluenți, inclusiv substanțe care distrug ozonul, oxizi de azot (NOX), oxizi de sulf (SOX) și substanțe chimice; • Generarea deșeurilor, inclusiv deșeurilor periculoase; • Practici de minimizare și reciclare a deșeurilor; • Utilizarea și/sau producerea de substanțe chimice periculoase</p> 
+  <p>Social: • Sănătate și securitate în muncă; • Numărul total de angajați, în funcție de tipul contractului și sex; • Instruirea angajaților; • Practici de muncă incorecte și ilegale și alte aspecte referitoare la drepturile omului; • Diversitatea, egalitatea de șanse și discriminarea în organele de guvernare și în rândul angajaților; • Drepturile lucrătorilor și contractele colective.</p> 
+  <p>   Metodologia respectivă permite aplicarea principiului „respectați sau explicați” pentru standardul minim, ceea ce permite entităților raportoare să evidențieze de ce anumite informații nu sunt relevante pentru companiile lor și le va face mai accesibile pentru companiile mici. Cu toate acestea, acest lucru nu s-ar aplica problemelor care au fost identificate ca fiind materiale pentru companie, care ar trebui raportate.</p> 
+  <p>2) Cerințe avansate: includeți informațiile/indicatorii complementari pentru criteriile minime, care sunt:</p> 
+  <p>   Cadrul instituțional și de guvernanță: • Detalii despre lanțul de aprovizionare; • Detalii despre implicarea părților interesate în legătură cu performanța sustenabilității; • Detalii despre remunerare</p> 
+  <p>   Economic:• Politici și practici durabile de achiziții publice; • Procentul sau proporția de achiziții/furnizori locali; • Donații de caritate</p> 
+  <p>    Mediul: • Evaluarea mediului de aprovizionare; • Consumul de materiale, furnizarea de materiale și materiale reciclate sau folosite; • Intensitatea energetică și sursele regenerabile de energie; • Intensitatea apei și managementul integrat al resurselor de apă; • intensitatea GES; • Intensitatea deșeurilor; • Impactul asupra biodiversităţii; • Angajamentul furnizorului și al consumatorului/clientului pentru problemele de mediu</p> 
+  <p>   Social: • Evaluarea socială a furnizorilor; • Impactul comunității locale; • Angajamentul furnizorilor și consumatorilor pentru problemele de durabilitate </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Programul Națiunilor Unite pentru Mediu (UNEP)/ Conferința Națiunilor Unite  pentru Comerț și Dezvoltare (Conferința Națiunilor Unite pentru Comerț și  Dezvoltare (UNCTAD))
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Daniel Tentiuc, consultant principal, Serviciul politici în domeniul economiei circulare și instrumente economice, Ministerul Mediului, tel. 022 204 578, e-mail: daniel.tentiuc@mediu.gov.md
+source_other_info_1: >-

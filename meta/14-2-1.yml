@@ -1,0 +1,82 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 14.2.1: Number of countries using ecosystem-based approaches to managing marine areas</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 14.2: By 2020, sustainably manage and protect marine and coastal ecosystems to avoid  significant adverse impacts, including by strengthening their resilience, and  take action for their restoration in order to achieve healthy and productive  oceans</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNEP
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  14.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-14.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 288 kB)
+SDG_INDICATOR: >-
+  <p>Indicator 14.2.1: Proportion of national exclusive economic zones managed using  ecosystem-based approaches</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Ecosystem-based approach - an economic concept understood as an advanced  management approach, in which the management of biodiversity conservation is  closely related to territorial, human, financial, institutional, and  information resources. The economic, social and environmental benefits of the  actions based on the ecosystem-based  approach are visible in the long term (10-20 years). </p> 
+  <p>  Exclusive Economic National  Zone (EEZ) (200 marine miles of coast), as it is underlined in the UN  Convention on the Law on the Sea </p>
+UNIT_MEASURE: >-
+  Percent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  administrative data
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Ministry of the Environment</p> 
+  <p>2. Ministry of Economic Development and Digitalization</p> 
+  <p>3. Public Agencies </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of the Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of national exclusive economic zones managed using ecosystem-based  approaches out of the total number of national exclusive economic zones  X100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  The global indicator, as well as the national one have the same wording, but  the national one, as there are no maritime and coast ecosystems, refers to the  ecosystems of water bodies, the aim being to reduce the negative impact of  economic activities on environment and to improve the measures for preventing  environment pollution
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  <p> 1. Ministry of the Environment</p> 
+  <p>2. Ministry of Economic Development and Digitalization</p> 
+  <p>3. Public Agencies </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Daniel Tentiuc, principal adviser, Policy Service in the field of circular economy and economic instruments, Ministry of Environment, tel. 022 204 578, e-mail: daniel.tentiuc@mediu.gov.md
+source_other_info_1: >-

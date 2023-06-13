@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 11.6.2 Annual mean levels of fine particulate matter (PM10)
+graph_title: national_indicators.11-6-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: Annual mean levels of fine particulate matter (PM10)
+indicator_available: national_indicators.11-6-2-title
 indicator_name: global_indicators.11-6-2-title
 indicator_number: 11.6.2
 indicator_tabs:: 
@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
 placeholder: ''

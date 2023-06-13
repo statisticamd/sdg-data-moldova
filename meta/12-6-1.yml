@@ -1,0 +1,87 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 12.6.1: Number of companies publishing sustainability reports</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 12.6: Encourage companies, especially large and transnational companies, to adopt  sustainable practices and to integrate sustainability information into their reporting cycle</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UNEP,  UNCTAD
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  12.6
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (pdf 782kB)
+SDG_INDICATOR: >-
+  <p>Indicator 12.6.1: Number of companies publishing reports on rational consumption of  resources</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+UNIT_MEASURE: >-
+  Number
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  Reports of companies from the country
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  UN Environment Programme (UNEP)/United Nations Conference on Trade and  Development (UNCTAD)
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of the Environment
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> The purpose of the indicator is to measure the companies' contribution to  sustainable development. To calculate the indicator, they will consider the  companies which publish sustainability information covering the following  details on sustainability, which are divided into minimum and advanced  criteria:</p> 
+  <p>  1) Minimum criteria:</p> 
+  <p>  Institutional and governance  framework: • Material evaluation; • Sustainability strategy and / or  sustainability-related principles; • Management approach to settle material  subjects; • Governance structure, including for economic, environmental and  social problems</p> 
+  <p>  • Impacts, risks, key opportunities; • Practices for  combatting fraud, anticorruption and anti-competition </p> 
+  <p>  Economic: • Direct  measurement of economic performance (revenues, net profit, added value,  payments to shareholders); • Indirect measurement of economic performance  (community investments, investments in infrastructure or other important local  economic impact)</p> 
+  <p>  Environmental:• Energy consumption and energy  efficiency; • Waste use, wastewater generation, integrated practices for  waster resources management or water recycling / reuse and efficiency; •  Greenhouse gas emission; • Other emissions and effluents, including substances  which destroy ozone, nitrogen oxides (NOX), sulphur oxides (SOX) and chemical  substances; • Generation of waste, including hazardous waste; • Practices for  minimizing and recycling waste; • Use and / or production of hazardous  chemical substances </p> 
+  <p>  Social: • Occupational health and security; • Total  number of employees, depending on the type of contract and sex; • Training of  employees; • Incorrect and illegal work practices and other aspects regarding  human rights; • Diversity, equality of chances and discrimination in  governance bodies and among employees; • Workers' rights and collective  contracts.</p> 
+  <p>  The respective methodology allows applying the principle  „respect or explain” for the minimum standard, which allows the reporting  entities to point out why certain information is not relevant for their  companies and will make it more accessible for small companies. However, this  would not apply to problems which were identified as material for the company,  which should be reported.</p> 
+  <p>  2) Advanced requirements: include the  complementary information / indicators for the minimum criteria, which  are:</p> 
+  <p>  Institutional and governance framework: • Details about the supply  chain; • Details about involvement of interested parties in relation to  sustainability performance; • Details about remuneration </p> 
+  <p>  Economic:•  Sustainable public procurement policies and practices; • Percentage or  proportion of local procurements / providers; • Charity donations </p> 
+  <p>   Environmental: • Assessment of supplying environment; • Consumption of  materials, supply of materials, and recycled or used materials; • Energy  intensity and renewable energy sources; • Water intensity and integrated  management of water resources; • GES intensity; • Waste intensity; • Impact on  biodiversity; • Commitment of supplier and consumer / client for environmental  issues </p> 
+  <p>  Social: • Social assessment of suppliers; • Local community  impact; • Commitment of suppliers and consumers for sustainability issues </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  UN Environment Programme (UNEP)/United Nations Conference on Trade and  Development (UNCTAD)
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Daniel Tentiuc, principal adviser, Policy Service in the field of circular economy and economic instruments, Ministry of Environment, tel. 022 204 578, e-mail: daniel.tentiuc@mediu.gov.md
+source_other_info_1: >-

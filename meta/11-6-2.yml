@@ -31,9 +31,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Particulate matter with fraction 10 mkm (PM-10) in urban localities represents  air pollution mainly in fine duster, and includes a combination of solid and  liquid particulates characterised via their reduced dimensions - up to 10 mkm.  About 60% of PM10 is composed of particulate of type PM2.5, with diameter  under 2.5 microns. According to the World Health Organization, exposure to  fine particulate (PM2.5) has the most significant impact on human health as  compared to other pollutants. </p> 
+  <p> Particulate matter with fraction 10 mkm (PM-10) in urban localities represents  air pollution mainly in fine duster, and includes a combination of solid and  liquid particulates characterised via their reduced dimensions - up to 10 mkm.  About 60% of PM10 is composed of particulate of type PM2.5, with diameter  under 2.5 microns. According to the World Health Organization, exposure to  fine particulate (PM2.5) has the most significant impact on human health as  compared to other pollutants. In 2015, the average level of PM2.5 in cities  was 15 micrograms per cubic meter and 16.7, in 2016. </p> 
   <p>   Atmosphere air quality monitoring: The operation network for atmospheric air  quality monitoring includes 18 stationary posts, 17 of which are located in 5  industrialised centres: Chisinau - 6 posts, Balti-2, Tiraspol-3, Bender-4,  Ribnita-2, and 1 transborder station in Leova town.</p> 
-  <p>  The samples are taken  at those 17 stations 3 times per day (07:00, 13:00 and 19:00), analysing the  basic pollutants (solid matters, sulphur dioxide, carbon monoxide and nitrogen  dioxide) and the specific ones (soluble sulphates, nitrogen oxide, aldehyde,  phenol and  benzo(a)pyrene). The program of observation, collection of samples  and chemical analysis is carried out according to the methodology   "Руководство по контролю загрязнения атмосферы, РД 52.04. 186-89-Москва 1991”  - Guidelines for atmospheric air pollution control. The air pollution  level is  assesses according to the value of mean concentration as compared to the  maximum admissible concentration (CMA), and the quality of air is estimated  through air pollution complex index (IPA). </p>
+  <p>  The samples are taken  at those 17 stations 3 times per day (07:00, 13:00 and 19:00), analysing the  basic pollutants (solid matters, sulphur dioxide, carbon monoxide and nitrogen  dioxide) and the specific ones (soluble sulphates, nitrogen oxide, aldehyde,  phenol and  benzo(a)pyrene). The program of observation, collection of samples  and chemical analysis is carried out according to the methodology   "Руководство по контролю загрязнения атмосферы, РД 52.04. 186-89-Москва 1991”  - Guidelines for atmospheric air pollution control. [The air pollution  level](http://mediu.gov.md/ro/content/protec%C8%9Bia-aerului-atmosferic) is  assesses according to the value of mean concentration as compared to the  maximum admissible concentration (CMA), and the quality of air is estimated  through air pollution complex index (IPA). </p>
 UNIT_MEASURE: >-
   µg/m3
 CLASS_SYSTEM: ''
@@ -72,9 +72,9 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Quarterly
 source_url_1: >-
-  https://am.gov.md/sites/default/files/document/attachments/Anuar-DGLRM-2021-fin_0.pdf
+  NA
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  Lungu Marina, head of Environmental Reference Laboratory, Environment Agency, tel. 022 820 746, e-mail: m_lungu@am.gov.md
+  Marina Lungu, Head of Environmental Reference Laboratory, Environment Agency, Agenția de Mediu, tel. 022 820 746, e-mail: m_lungu@am.gov.md
 source_other_info_1: >-
