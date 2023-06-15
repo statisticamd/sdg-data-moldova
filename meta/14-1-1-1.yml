@@ -33,8 +33,8 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Eutrophication of the increase of biological productivity, of plankton algae  biomass in waterbeds. Eutrophication of waterbeds is favoured by such factors  as: presence of some compounds originating from wastewater, nutrient species  with nitrogen and phosphorus, biodegradable organic compounds (light and  temperature). Chemical indices of eutrophication are: 1) production of  biomass, mg/l; 2) content in dissolved oxygen, mg/l; 3) content of nitrogen  and phosphorus; 4) ratio between the chemical consumption of oxygen (CCOMn)  and concentration in dissolved oxygen; 5) ratio of mineral nitrogen and total  phosphorus = 10. Lakes represent a high risk of eutrophication, as compared  with watercourses.
 UNIT_MEASURE: >-
-  <p> 1. Nitrate concentration - mgN / l</p> 
-  <p>2. Phosphate concentration - mgP / l </p>
+  Nitrate concentration - mgN / l 
+  Phosphate concentration - mgP / l
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

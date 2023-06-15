@@ -33,8 +33,8 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Eutrofizare este creșterea productivității biologice, a biomasei algelor planctonice în bazinele acvatice. Eutrofizarea bazinelor acvatice este  favorizată de așa factori cum sunt: prezența unor compuși proveniți din apele  uzate, speciile nutritive cu azot și fosfor, compușii organici biodegerabili  (lumina și temperatura). Indicii chimici ai eutrofizări sunt: 1) producția de  biomasă, mg/l; 2) conținutul în oxigen dizolvat, mg/l; 3) conținutul de azot  și fosfor; 4) raportul dintre consumul chimic de oxigen (CCOMn) și  concentrația în oxigen dizolvat; 5) raportul azot mineral/fosfor total=10.  Lacurile prezintă un risc sporit de eutrofuizare, comparativ cu apele  curgătoare.
 UNIT_MEASURE: >-
-  <p> 1. Concentrația de nitrați - mgN / l</p> 
-  <p>2. Concentrația de fosfat - mgP / l </p>
+  Concentrația de nitrați - mgN / l 
+  Concentrația de fosfat - mgP / l
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
