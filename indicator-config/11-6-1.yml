@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 11.6.1. Proportion of municipal solid waste regularly collected and with  adequate final discharge out of total municipal solid waste generated
+graph_title: global_indicators.11-6-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: ion of municipal solid waste regularly collected and with adequate  final discharge out of total municipal solid waste generated
+indicator_available: national_indicators.11-6-1-title
 indicator_name: global_indicators.11-6-1-title
 indicator_number: 11.6.1
 indicator_tabs:: 

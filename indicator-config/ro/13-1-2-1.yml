@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Yes/no
+computation_units: da/nu
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -20,22 +20,22 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: national_indicators.11-b-1-1-graph
+graph_title: national_indicators.13-1-2-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.11-b-1-1-title
-indicator_name: national_indicators.11-b-1-1-title
-indicator_number: 11.b.1.1
+indicator_available: national_indicators.13-1-2-1-title
+indicator_name: national_indicators.13-1-2-1-title
+indicator_number: 13.1.2.1
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
-  ***Non-statistical indicator***
-  For the year 2022 - Yes
+  <p> ***Indicator non-statistic***</p> 
+  <p>Pentru anul 2022 - Da </p>
 permalink: ''
 placeholder: ''
 precision: []

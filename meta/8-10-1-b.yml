@@ -31,7 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The indicator reflects the number of ATMs in the entire country for all types  of financial institutions, such as: commercial banks and non-bank payment service providers. [The automated teller  machine](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml  (internationally called – ATM) is meant for self-servicing of bankcards'  owners, allowing them to withdraw monetary means in cash from the payment  accounts, transfers of monetary means, deposit of monetary means in accounts  and information regarding the situation on accounts and operations performed  through payment cards.
+  The indicator reflects the number of ATMs in the entire country for all types  of financial institutions, such as: commercial banks and non-bank payment service providers. [The automated teller  machine](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml)  (internationally called – ATM) is meant for self-servicing of bankcards'  owners, allowing them to withdraw monetary means in cash from the payment  accounts, transfers of monetary means, deposit of monetary means in accounts  and information regarding the situation on accounts and operations performed  through payment cards.
 UNIT_MEASURE: >-
   Per 100 000 population
 CLASS_SYSTEM: ''

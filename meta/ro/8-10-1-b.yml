@@ -32,7 +32,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> Indicatorul reflectă numărul de bancomate/ATM-uri din țară pentru toate  tipurile de instituții financiare, cum ar fi: băncile comerciale și prestatorii de servicii de plată nebancari.  Bancomat (denumit prescurtat conform uzanțelor internaționale – ATM), destinat  autoservirii deținătorilor de carduri de plată, ce permite acestora retragerea  mijloacelor bănești în numerar din conturile de plăți, transferuri de mijloace  bănești, depunerea mijloacelor bănești în conturi și informarea privind  situația conturilor și a operațiunilor efectuate prin intermediul cardurilor  de plată.</p> 
-  <p>  [A se  vedea](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml </p>
+  <p>  [A se  vedea](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml) </p>
 UNIT_MEASURE: >-
   la 100.000 persoane
 CLASS_SYSTEM: ''

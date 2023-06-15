@@ -59,7 +59,7 @@
 7-15 years old: 7-15 ani
 A Agriculture, forestry and fishing: A agricultura, silvicultura și pescuit
 Abortion (per 1000 women of reproductive age): Avort (la 1000 femei de vârstă reproductivă)
-Above-ground biomass reserves in forests, thousands m.c.: Rezervele de biomasă supraterană în păduri, mii m.c.
+Above-ground biomass reserves in forests, thousands c.m.: Rezervele de biomasă supraterană în păduri, mii m.c.
 Access mode: Mod de accesare
 Access to education: Acces la învățământ
 Access to electricity: Acces la electricitate
@@ -402,6 +402,7 @@ Incomes: Venituri
 Index: Indice
 Index (rank): Indice (rang)
 Indicators: Indicatori
+Indicators on the progress of sustainable forest management: Indicatori privind progresul managementului durabil al pădurilor
 Indirect: Discriminare indirectă
 Individuals: Persoane fizice
 Individual person: Persoană fizică
@@ -437,6 +438,7 @@ K Financial and insurance activities: K activități financiare și de asigurăr
 kg per capita: kg per capita
 kg/mln. dram: kg/mln. dram
 Kg/person: Kg/persoană
+kg/person: Kg/persoană
 Kidnapping a person: Răpirea unei persoane
 L Real estate activities: L Tranzacții imobiliare
 landline telephone: landline telephone
@@ -530,7 +532,7 @@ Nitrogen dioxide: Dioxid de azot
 Nitrate concentration - mgn / l: Concentraţia de nitraţi – mgn/l
 Nitrate concentration: Concentraţia de nitraţi
 Non-agricultural sector: Sectorul non-agricol
-Non-agricultural products NAGR: Produse neagricole 
+Non-agricultural products NAGR: Produse non-agricole
 Non-fatal accidents - by economic activities: Accidente nemortale - după activități economice
 Non-fatal accidents, by economic activities: Accidente nemortale, după activități economice
 Non-fatal accidents - by sex: Accidente nemortale - după sex
@@ -671,8 +673,8 @@ Proportion of judges with a disability to Proportion of persons with a disabilit
 Proportion of persons aged of 13-15 year who have completed primary education: Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar
 Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium): Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial
 Proportion of persons aged of 21-23 year who have completed upper secondary education: Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar
-Proportion of forest area located in legally protected areas, percent: Proporția de suprafață forestieră situată în zonele protejate legal
-Proportion of forest area managed in accordance with long-term sustainable forest management plans: Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung
+Proportion of forest area located in legally protected areas, percent: Proporția de suprafață forestieră situată în zonele protejate legal, procente
+Proportion of forest area managed in accordance with long-term sustainable forest management plans, percent: Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung, procente
 proportion of GDP: proportion of GDP
 proportion of households with primary reliance on clean fuels and technology: proportion of households with primary reliance on clean fuels and technology
 proportion of schools connected to the Internet: proportion of schools connected to the Internet
@@ -957,8 +959,8 @@ Waste circulation: Mișcarea deșeurilor
 Waste sector: Sectorul Deșeuri
 wasting: wasting
 Water heating: Încălzirea apei
-Water quality in water bodies, according to hydrochemical indicators,: Calitatea apei în corpurile de apă, conform indicatorilor hidrochimici,  
-Water quality (rivers, lakes and artificial water bodies),percent of the total number of monitored sections: Calitatea apei (râuri, lacuri și corpuri de apă artificiale), procente din numărul total de secțiuni monitorizate
+Water quality in water bodies, according to hydrochemical indicators: Calitatea apei în corpurile de apă, conform indicatorilor hidrochimici,  
+Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections: Calitatea apei (râuri, lacuri și corpuri de apă artificiale), procente din numărul total de secțiuni monitorizate
 Water quality: Calitatea apei
 water supply: water supply
 Water supply; sewerage, waste management and remediation activities: Distribuția apei; salubritate, gestionarea deșeurilor, activitați de decontaminare
