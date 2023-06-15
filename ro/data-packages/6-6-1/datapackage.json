@@ -31,7 +31,7 @@
             "title": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)"
           },
           {
-            "name": "The quantity of groundwater in aquifers, thousand m3/24 h ",
+            "name": "The quantity of groundwater in aquifers, thousand m3/24 h",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "The quantity of groundwater in aquifers, thousand m3/24 h "
+            "title": "Cantitatea apei subterane din acvifere  mii m3/24 ore"
           },
           {
             "name": "Value",

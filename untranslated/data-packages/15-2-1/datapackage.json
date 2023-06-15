@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual net rate of change of forest area,percent",
-                "Proportion of forest area located in legally protected areas,percent",
-                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,percent",
+                "Annual net rate of change of forest area, percent",
+                "Proportion of forest area located in legally protected areas, percent",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans, percent",
                 "Above-ground biomass reserves in forests, thousands c.m.",
                 "Forest area included in the forest management certification system, independently verified, thousands ha",
                 ""

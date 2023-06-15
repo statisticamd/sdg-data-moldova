@@ -10,7 +10,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2010,,,Total,,
 2010,,,,Superior,
 2010,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),
-2010,,,,Upper secondary vocational ,
+2010,,,,Profesional tehnic secundar,
 2010,,,,"Liceal, mediu general",
 2010,,,,Gimnazial,
 2010,,,,Primar sau fără şcoală primară,
@@ -25,7 +25,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2011,,,Total,,
 2011,,,,Superior,
 2011,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),
-2011,,,,Upper secondary vocational ,
+2011,,,,Profesional tehnic secundar,
 2011,,,,"Liceal, mediu general",
 2011,,,,Gimnazial,
 2011,,,,Primar sau fără şcoală primară,
@@ -40,7 +40,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2012,,,Total,,
 2012,,,,Superior,
 2012,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),
-2012,,,,Upper secondary vocational ,
+2012,,,,Profesional tehnic secundar,
 2012,,,,"Liceal, mediu general",
 2012,,,,Gimnazial,
 2012,,,,Primar sau fără şcoală primară,
@@ -55,7 +55,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2013,,,Total,,
 2013,,,,Superior,
 2013,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),
-2013,,,,Upper secondary vocational ,
+2013,,,,Profesional tehnic secundar,
 2013,,,,"Liceal, mediu general",
 2013,,,,Gimnazial,
 2013,,,,Primar sau fără şcoală primară,
@@ -70,7 +70,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2014,,,Total,,
 2014,,,,Superior,3.9
 2014,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.7
-2014,,,,Upper secondary vocational ,3.4
+2014,,,,Profesional tehnic secundar,3.4
 2014,,,,"Liceal, mediu general",4.3
 2014,,,,Gimnazial,3.6
 2014,,,,Primar sau fără şcoală primară,1.5
@@ -85,7 +85,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2015,,,Total,,
 2015,,,,Superior,4.7
 2015,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.9
-2015,,,,Upper secondary vocational ,4.7
+2015,,,,Profesional tehnic secundar,4.7
 2015,,,,"Liceal, mediu general",3.9
 2015,,,,Gimnazial,6.2
 2015,,,,Primar sau fără şcoală primară,3.9
@@ -100,7 +100,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2016,,,Total,,
 2016,,,,Superior,4.4
 2016,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.6
-2016,,,,Upper secondary vocational ,3.9
+2016,,,,Profesional tehnic secundar,3.9
 2016,,,,"Liceal, mediu general",3.9
 2016,,,,Gimnazial,4.1
 2016,,,,Primar sau fără şcoală primară,4.9
@@ -115,7 +115,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2017,,,Total,,2.7
 2017,,,,Superior,3.6
 2017,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.5
-2017,,,,Upper secondary vocational ,4.5
+2017,,,,Profesional tehnic secundar,4.5
 2017,,,,"Liceal, mediu general",3.6
 2017,,,,Gimnazial,4.0
 2017,,,,Primar sau fără şcoală primară,4.0
@@ -130,7 +130,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2018,,,Total,,1.8
 2018,,,,Superior,3.1
 2018,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.3
-2018,,,,Upper secondary vocational ,2.8
+2018,,,,Profesional tehnic secundar,2.8
 2018,,,,"Liceal, mediu general",2.6
 2018,,,,Gimnazial,2.7
 2018,,,,Primar sau fără şcoală primară,7.0
@@ -145,7 +145,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2019,,,Total,,3.8
 2019,,,,Superior,2.8
 2019,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.8
-2019,,,,Upper secondary vocational ,5.8
+2019,,,,Profesional tehnic secundar,5.8
 2019,,,,"Liceal, mediu general",5.5
 2019,,,,Gimnazial,8.3
 2019,,,,Primar sau fără şcoală primară,13.3
@@ -160,7 +160,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2020,,,Total,,2.4
 2020,,,,Superior,2.3
 2020,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.4
-2020,,,,Upper secondary vocational ,4.4
+2020,,,,Profesional tehnic secundar,4.4
 2020,,,,"Liceal, mediu general",3.9
 2020,,,,Gimnazial,5.6
 2020,,,,Primar sau fără şcoală primară,21.0
@@ -175,7 +175,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2021,,,Total,,4.2
 2021,,,,Superior,1.8
 2021,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),3.5
-2021,,,,Upper secondary vocational ,3.8
+2021,,,,Profesional tehnic secundar,3.8
 2021,,,,"Liceal, mediu general",3.5
 2021,,,,Gimnazial,4.1
 2021,,,,Primar sau fără şcoală primară,8.5
@@ -190,7 +190,7 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2022,,,Total,,4.6
 2022,,,,Superior,1.9
 2022,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),2.6
-2022,,,,Upper secondary vocational ,3.3
+2022,,,,Profesional tehnic secundar,3.3
 2022,,,,"Liceal, mediu general",3.5
 2022,,,,Gimnazial,4.6
 2022,,,,Primar sau fără şcoală primară,2.4

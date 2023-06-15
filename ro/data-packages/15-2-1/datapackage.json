@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual net rate of change of forest area,percent",
-                "Proportion of forest area located in legally protected areas,percent",
-                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,percent",
-                "Above-ground biomass reserves in forests, thousands c.m.",
+                "Rata netă anuală de schimbare a suprafeței forestiere, procente",
+                "Proporția de suprafață forestieră situată în zonele protejate legal, procente",
+                "Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung, procente",
+                "Rezervele de biomasă supraterană în păduri, mii m.c.",
                 "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
                 ""
               ]
             },
-            "title": "Indicators on the progress of sustainable forest management"
+            "title": "Indicatori privind progresul managementului durabil al pădurilor"
           },
           {
             "name": "Value",

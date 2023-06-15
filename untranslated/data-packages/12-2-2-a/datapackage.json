@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boimass",
+                "Biomass",
                 "Fossil fuels",
                 "Metal ores",
                 "Non-metalic minerals",

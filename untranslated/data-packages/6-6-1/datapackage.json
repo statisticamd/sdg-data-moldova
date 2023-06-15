@@ -29,7 +29,7 @@
             }
           },
           {
-            "name": "The quantity of groundwater in aquifers, thousand m3/24 h ",
+            "name": "The quantity of groundwater in aquifers, thousand m3/24 h",
             "type": "string",
             "constraints": {
               "enum": [

@@ -10,7 +10,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2010,,,Total,,
 2010,,,,Higher,
 2010,,,,Post-secondary non-tertiary (secondary professional),
-2010,,,,Upper secondary vocational ,
+2010,,,,Upper secondary vocational,
 2010,,,,"High school, upper secondary (general)",
 2010,,,,Lower secondary (gymnasium),
 2010,,,,Primary or no education,
@@ -25,7 +25,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2011,,,Total,,
 2011,,,,Higher,
 2011,,,,Post-secondary non-tertiary (secondary professional),
-2011,,,,Upper secondary vocational ,
+2011,,,,Upper secondary vocational,
 2011,,,,"High school, upper secondary (general)",
 2011,,,,Lower secondary (gymnasium),
 2011,,,,Primary or no education,
@@ -40,7 +40,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2012,,,Total,,
 2012,,,,Higher,
 2012,,,,Post-secondary non-tertiary (secondary professional),
-2012,,,,Upper secondary vocational ,
+2012,,,,Upper secondary vocational,
 2012,,,,"High school, upper secondary (general)",
 2012,,,,Lower secondary (gymnasium),
 2012,,,,Primary or no education,
@@ -55,7 +55,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2013,,,Total,,
 2013,,,,Higher,
 2013,,,,Post-secondary non-tertiary (secondary professional),
-2013,,,,Upper secondary vocational ,
+2013,,,,Upper secondary vocational,
 2013,,,,"High school, upper secondary (general)",
 2013,,,,Lower secondary (gymnasium),
 2013,,,,Primary or no education,
@@ -70,7 +70,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2014,,,Total,,
 2014,,,,Higher,3.9
 2014,,,,Post-secondary non-tertiary (secondary professional),3.7
-2014,,,,Upper secondary vocational ,3.4
+2014,,,,Upper secondary vocational,3.4
 2014,,,,"High school, upper secondary (general)",4.3
 2014,,,,Lower secondary (gymnasium),3.6
 2014,,,,Primary or no education,1.5
@@ -85,7 +85,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2015,,,Total,,
 2015,,,,Higher,4.7
 2015,,,,Post-secondary non-tertiary (secondary professional),3.9
-2015,,,,Upper secondary vocational ,4.7
+2015,,,,Upper secondary vocational,4.7
 2015,,,,"High school, upper secondary (general)",3.9
 2015,,,,Lower secondary (gymnasium),6.2
 2015,,,,Primary or no education,3.9
@@ -100,7 +100,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2016,,,Total,,
 2016,,,,Higher,4.4
 2016,,,,Post-secondary non-tertiary (secondary professional),3.6
-2016,,,,Upper secondary vocational ,3.9
+2016,,,,Upper secondary vocational,3.9
 2016,,,,"High school, upper secondary (general)",3.9
 2016,,,,Lower secondary (gymnasium),4.1
 2016,,,,Primary or no education,4.9
@@ -115,7 +115,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2017,,,Total,,2.7
 2017,,,,Higher,3.6
 2017,,,,Post-secondary non-tertiary (secondary professional),3.5
-2017,,,,Upper secondary vocational ,4.5
+2017,,,,Upper secondary vocational,4.5
 2017,,,,"High school, upper secondary (general)",3.6
 2017,,,,Lower secondary (gymnasium),4.0
 2017,,,,Primary or no education,4.0
@@ -130,7 +130,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2018,,,Total,,1.8
 2018,,,,Higher,3.1
 2018,,,,Post-secondary non-tertiary (secondary professional),3.3
-2018,,,,Upper secondary vocational ,2.8
+2018,,,,Upper secondary vocational,2.8
 2018,,,,"High school, upper secondary (general)",2.6
 2018,,,,Lower secondary (gymnasium),2.7
 2018,,,,Primary or no education,7.0
@@ -145,7 +145,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2019,,,Total,,3.8
 2019,,,,Higher,2.8
 2019,,,,Post-secondary non-tertiary (secondary professional),3.8
-2019,,,,Upper secondary vocational ,5.8
+2019,,,,Upper secondary vocational,5.8
 2019,,,,"High school, upper secondary (general)",5.5
 2019,,,,Lower secondary (gymnasium),8.3
 2019,,,,Primary or no education,13.3
@@ -160,7 +160,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2020,,,Total,,2.4
 2020,,,,Higher,2.3
 2020,,,,Post-secondary non-tertiary (secondary professional),3.4
-2020,,,,Upper secondary vocational ,4.4
+2020,,,,Upper secondary vocational,4.4
 2020,,,,"High school, upper secondary (general)",3.9
 2020,,,,Lower secondary (gymnasium),5.6
 2020,,,,Primary or no education,21.0
@@ -175,7 +175,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2021,,,Total,,4.2
 2021,,,,Higher,1.8
 2021,,,,Post-secondary non-tertiary (secondary professional),3.5
-2021,,,,Upper secondary vocational ,3.8
+2021,,,,Upper secondary vocational,3.8
 2021,,,,"High school, upper secondary (general)",3.5
 2021,,,,Lower secondary (gymnasium),4.1
 2021,,,,Primary or no education,8.5
@@ -190,7 +190,7 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2022,,,Total,,4.6
 2022,,,,Higher,1.9
 2022,,,,Post-secondary non-tertiary (secondary professional),2.6
-2022,,,,Upper secondary vocational ,3.3
+2022,,,,Upper secondary vocational,3.3
 2022,,,,"High school, upper secondary (general)",3.5
 2022,,,,Lower secondary (gymnasium),4.6
 2022,,,,Primary or no education,2.4

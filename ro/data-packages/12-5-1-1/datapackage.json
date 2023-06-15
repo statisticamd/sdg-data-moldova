@@ -35,11 +35,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/person",
+                "Kg/persoană",
                 ""
               ]
             },
-            "title": "kg/person"
+            "title": "Kg/persoană"
           },
           {
             "name": "Value",
