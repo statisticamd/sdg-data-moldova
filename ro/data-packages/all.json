@@ -208,9 +208,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Bărbați",
-                "Femei",
+                "Total - sectorul agricol",
+                "Bărbați - sectorul agricol",
+                "Femei - sectorul agricol",
                 ""
               ]
             },
@@ -221,9 +221,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Bărbați",
-                "Femei",
+                "Total non-agricultural sector",
+                "Bărbați - sectorul non-agricol",
+                "Femei - sectorul non-agricol",
                 ""
               ]
             },
@@ -2319,7 +2319,7 @@
           }
         ]
       },
-      "title": "national_indicators.4-1-1-c(ii)-title"
+      "title": "(ii) Ponderea elevilor din ultima clasă a învățământului gimnazial cu cunoștințe minime în domeniul matematicii"
     },
     {
       "path": "5-4-1-2/data.csv",
@@ -11648,7 +11648,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of managerial positions held by women ",
+                "Proporția posturilor de conducere ocupate de femei",
                 "Proporția femeilor în funcții de conducere de nivel superior și mediu",
                 ""
               ]
@@ -11763,7 +11763,7 @@
           }
         ]
       },
-      "title": "national_indicators.4-1-1-c(i)-title"
+      "title": "(i) Ponderea elevilor din ultima clasă a învățământului gimnazial cu cunoștințe minime în domeniul citirii/lecturii"
     },
     {
       "path": "17-6-1/data.csv",

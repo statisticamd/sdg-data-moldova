@@ -193,9 +193,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Men",
-                "Women",
+                "Total - agricultural sector",
+                "Men - agricultural sector",
+                "Women - agricultural sector",
                 ""
               ]
             }
@@ -205,9 +205,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Men",
-                "Women",
+                "Total non-agricultural sector",
+                "Men - non-agricultural sector",
+                "Women - non-agricultural sector",
                 ""
               ]
             }
@@ -10740,7 +10740,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of managerial positions held by women ",
+                "Proportion of managerial positions held by women",
                 "Proportion of women in senior and middle management positions",
                 ""
               ]

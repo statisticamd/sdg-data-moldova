@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of managerial positions held by women ",
+                "Proporția posturilor de conducere ocupate de femei",
                 "Proporția femeilor în funcții de conducere de nivel superior și mediu",
                 ""
               ]

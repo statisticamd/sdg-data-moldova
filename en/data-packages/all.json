@@ -208,9 +208,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Men",
-                "Women",
+                "Total - agricultural sector",
+                "Men - agricultural sector",
+                "Women - agricultural sector",
                 ""
               ]
             },
@@ -221,9 +221,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Men",
-                "Women",
+                "Total non-agricultural sector",
+                "Men - non-agricultural sector",
+                "Women - non-agricultural sector",
                 ""
               ]
             },
@@ -2319,7 +2319,7 @@
           }
         ]
       },
-      "title": "national_indicators.4-1-1-c(ii)-title"
+      "title": "(ii) Proportion of children and youth at the end of lower secondary achieving at least a minimum proficiency level in mathematics"
     },
     {
       "path": "5-4-1-2/data.csv",
@@ -11648,7 +11648,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of managerial positions held by women ",
+                "Proportion of managerial positions held by women",
                 "Proportion of women in senior and middle management positions",
                 ""
               ]
@@ -11763,7 +11763,7 @@
           }
         ]
       },
-      "title": "national_indicators.4-1-1-c(i)-title"
+      "title": "(i) Proportion of children and youth at the end of lower secondary achieving at least a minimum proficiency level in reading"
     },
     {
       "path": "17-6-1/data.csv",

@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of managerial positions held by women ",
+                "Proportion of managerial positions held by women",
                 "Proportion of women in senior and middle management positions",
                 ""
               ]

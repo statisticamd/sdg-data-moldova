@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Bărbați",
-                "Femei",
+                "Total - sectorul agricol",
+                "Bărbați - sectorul agricol",
+                "Femei - sectorul agricol",
                 ""
               ]
             },
@@ -45,9 +45,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Bărbați",
-                "Femei",
+                "Total non-agricultural sector",
+                "Bărbați - sectorul non-agricol",
+                "Femei - sectorul non-agricol",
                 ""
               ]
             },
