@@ -23,10 +23,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 9.2.2 Manufacturing employment as a proportion of total employment
+graph_title: national_indicators.9-2-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: cturing employment as a proportion of total employment
+indicator_available: national_indicators.9-2-2-title
 indicator_name: global_indicators.9-2-2-title
 indicator_number: 9.2.2
 indicator_tabs:: 

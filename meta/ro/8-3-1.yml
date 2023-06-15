@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
-  <p>Indicator 8.3.1: Ponderea ocupării informale în  sectorul nonagricol</p>
+  <p>Indicator 8.3.1: ea ocupării informale în  sectorul nonagricol</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -36,7 +36,7 @@ STAT_CONC_DEF: >-
   <p>1) Lucrătorii pe cont propriu, care lucrează în întreprinderile sectorului informal;</p> 
   <p>2) Patronii, care lucrează la întreprinderile sectorului informal;</p> 
   <p>3) Membrii cooperativelor informale de producție;</p> 
-  <p>4) Ajutorii familiali neremunerați, care lucrează la întreprinderile sectorului formal sau la întreprinderile sectorului informal;</p> 
+  <p>4) Lucrători familiali neremunerați, care lucrează la întreprinderile sectorului formal sau la întreprinderile sectorului informal;</p> 
   <p>5) Salariații angajați la întreprinderile sectorului formal, la întreprinderile sectorului informal sau în gospodăriile particulare ale cetățenilor, care satisfac cel puțin unul din criteriile de mai jos:</p> 
   <p>- patronul nu plătește contribuțiile sociale pentru ei;</p> 
   <p>- nu beneficiază de concediu anual plătit;</p> 
@@ -70,7 +70,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Nu întru totul. Definiția indicatorului global include persoanele care produc bunuri exclusiv pentru consumul propriu. Conform definiției  naționale, ocuparea nu cuprinde această categorie de persoane din 2019
+  Nu deplin. Definiția ocupării pentru indicatorul global este conform standardelor statistice de la a 13-a Conferință Internațională a Statisticienilor Muncii (CISM-13, 1982), în timp ce definiția națională a ocupării forței de muncă se bazează pe ultimul standard internațional - Rezoluția CISM-19, 2013. (Începând cu 2019, persoanele care produc bunuri exclusiv pentru consumul propriu nu fac parte din populația ocupată).
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

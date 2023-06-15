@@ -4,7 +4,8 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 9.2: Promovarea industrializării incluzive și durabile și, până în 2030, sporirea  semnificativă a ratei de ocupare și a produsului Intern brut în industrie, în  conformitate cu circumstanțele naționale, și dublarea acestei cote în țările  cel mai puțin dezvoltate.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Industrial Development Organization (UNIDO)
+  <p> United Nations Industrial Development Organization (UNIDO)</p> 
+  <p>(în colaborare cu Organizația Internațională a Muncii - OIM) </p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -47,7 +48,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei
+  Ministerul Dezvoltării Economice și Digitalizării
 OTHER_METHOD: >-
   Acest indicator indică contribuția industriei prelucrătoare în ocuparea totală a forței de muncă. Măsoară capacitatea sectorului de producție de a absorbi surplusul de muncă din agricultură și din alte sectoare tradiționale.
 RATIONALE: ''

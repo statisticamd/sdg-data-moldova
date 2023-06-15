@@ -270,13 +270,13 @@
   (7) resursele umane; (8) laboratorul; (9) punctele de intrare; (10) evenimente 
   zoonotice; (11) siguranța alimentelor; (12) evenimente chimice; (13) urgențe radionucleare)
 3-d-1-graph: 3.d.1. Indicele capacității sectorului de  sănătate 
-4-1-1-c-i-title: (i) Ponderea elevilor din ultima clasă a învățământului gimnazial 
+4-1-1-c(i)-title: (i) Ponderea elevilor din ultima clasă a învățământului gimnazial 
   cu cunoștințe minime în domeniul citirii/lecturii 
-4-1-1-c-i-graph: 4.1.1.c. (i) Ponderea elevilor din ultima clasă a învățământului gimnazial 
+4-1-1-c(i)-graph: 4.1.1.c. (i) Ponderea elevilor din ultima clasă a învățământului gimnazial 
   cu cunoștințe minime în domeniul citirii/lecturii 
-4-1-1-c-ii-title: (ii) Ponderea elevilor din ultima clasă a învățământului 
+4-1-1-c(ii)-title: (ii) Ponderea elevilor din ultima clasă a învățământului 
   gimnazial cu cunoștințe minime în domeniul matematicii 
-4-1-1-c-ii-graph: 4.1.1.c. (ii) Ponderea elevilor din ultima clasă a învățământului 
+4-1-1-c(ii)-graph: 4.1.1.c. (ii) Ponderea elevilor din ultima clasă a învățământului 
   gimnazial cu cunoștințe minime în domeniul matematicii 
 4-1-2-title: Rata de absolvire  a învățământului primar, gimnazial, liceal/mediu 
   general și secundar profesional

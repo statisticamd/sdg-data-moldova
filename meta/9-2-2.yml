@@ -4,7 +4,8 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 9.2: Promote inclusive and sustainable industrialization and, by 2030,  significantly raise industry’s share of employment and gross domestic product,  in line with national circumstances, and double its share in least developed  countries.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Industrial Development Organization (UNIDO)
+  <p> United Nations Industrial Development Organization (UNIDO)</p> 
+  <p>(with the collaboration of the International Labour Organization – ILO) </p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -47,7 +48,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy
+  Ministry of of Economic Development and Digitalization
 OTHER_METHOD: >-
   This indicator conveys the contribution of manufacturing in total employment. It measures the ability of the manufacturing sector to absorb surplus labour from agricultural and other traditional sectors.
 RATIONALE: ''

@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata
 SDG_INDICATOR: >-
-  <p>Indicator 8.3.1: Proportion of informal employment in non-agriculture sector</p>
+  <p>Indicator 8.3.1: tion of informal employment in non-agriculture sector</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -34,7 +34,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> (National definition) Informal employment includes:</p> 
   <p>1) own account workers working in informal sector enterprises;</p> 
-  <p>1) own account workers working in informal sector enterprises;</p> 
+  <p>2) employers  working in informal sector enterprises;</p> 
   <p>3) members of informal producers’ cooperatives;</p> 
   <p>4) contributing family workers, working in formal or informal sector enterprises;</p> 
   <p>5) employees in formal or informal sector enterprises, or in private households, and meet at least one of the below criteria:</p> 
@@ -46,7 +46,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Labor Force Survey
+  Labour Force Survey
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,7 +70,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Not fulfilly. The definition of the global indicator includes persons who produce goods exclusively for their own consumption. According to the national definition, employment does not include this category of people from 2019
+  Not fully. The definition of employment for the global indicator is according to the statistical standards of the 13th International Conference of Labor Statisticians (13th ICLS, 1982), while the national definition of employment is based on the latest international standard - Resolution 19th ICLS, 2013. (Starting with 2019, persons who produce goods exclusively for their own consumption are not part of the employed population).
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

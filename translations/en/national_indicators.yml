@@ -130,9 +130,9 @@
   (4) response; (5) preparedness; (6) risk communication; (7) human resources; (8) 
   laboratory; (9) entry points; (10) zoonotic events; (11) food safety; (12) chemical 
   events; (13) radionuclear emergencies)
-4-1-1-c-ititle: (i) Proportion of children and youth at the end of lower 
+4-1-1-c(i)-title: (i) Proportion of children and youth at the end of lower 
   secondary achieving at least a minimum proficiency level in reading
-4-1-1-c-iititle: (ii) Proportion of children and youth at the end of lower 
+4-1-1-c(ii)-title: (ii) Proportion of children and youth at the end of lower 
   secondary achieving at least a minimum proficiency level in mathematics
 4-1-2-title: Completion rate (primary education, lower secondary education, 
   upper secondary education)
@@ -721,9 +721,9 @@
   essential medicines available and affordable on a sustainable basis
 3-c-1-graph: 3.c.1 Number of health workers in average per 10,000 population
 3-d-1-graph: 3.d.1 Health Sector Capacity Index 
-4-1-1-c-igraph: 4.1.1.c (i) Proportion of children and youth at the end of lower 
+4-1-1-c(i)-graph: 4.1.1.c (i) Proportion of children and youth at the end of lower 
   secondary achieving at least a minimum proficiency level in reading
-4-1-1-c-iigraph: 4.1.1.c (ii) Proportion of children and youth at the end of lower 
+4-1-1-c(ii)-graph: 4.1.1.c (ii) Proportion of children and youth at the end of lower 
   secondary achieving at least a minimum proficiency level in mathematics
 4-1-2-graph: 4.1.2 Completion rate (primary education, lower secondary education, 
   upper secondary education)
