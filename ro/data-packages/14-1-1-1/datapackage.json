@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nitrate concentration",
+                "Concentraţia de nitraţi",
                 "Phosphate concentration ",
                 ""
               ]
