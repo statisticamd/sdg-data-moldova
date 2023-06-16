@@ -43,16 +43,10 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1.National Office for Social Insurance </p> 
-  <p>  2.Ministry of Labour and  Social Protection </p> 
-  <p>  3.Republican Experimental Center for Prosthesis,  Orthopedics and Rehabilitation </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Office for Social Insurance </p> 
-  <p>  2.Ministry of Labour and  Social Protection </p> 
-  <p>  3.Republican Experimental Center for Prosthesis,  Orthopedics and Rehabilitation </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Labour and Social Protection
@@ -76,7 +70,6 @@ un_designated_tier: >-
   3
 source_active_1: true
 source_organisation_1: >-
-  Ministry of Finance
 source_periodicity_1: >-
   Annual
 source_url_1: >-

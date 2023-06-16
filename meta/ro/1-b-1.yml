@@ -43,16 +43,10 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Casa Națională de Asigurări Sociale </p> 
-  <p>  2) Ministerul Muncii  și Protecției Sociale </p> 
-  <p>  3) Centrul Republican Experimental Protezare,  Ortopedie și Reabilitare </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Casa Națională de Asigurări Sociale </p> 
-  <p>  2) Ministerul Muncii  și Protecției Sociale </p> 
-  <p>  3) Centrul Republican Experimental Protezare,  Ortopedie și Reabilitare </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
@@ -76,7 +70,6 @@ un_designated_tier: >-
   3
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Finanțelor
 source_periodicity_1: >-
   anual
 source_url_1: >-
