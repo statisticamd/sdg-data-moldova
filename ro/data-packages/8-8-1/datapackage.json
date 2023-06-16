@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Bărbați",
                 "Femei",
                 ""
@@ -32,7 +33,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total pe activități economice",
                 "Agricultura, silvicultura și pescuit",
                 "Industrie",
                 "Industria extractivă",
@@ -63,6 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Bărbați",
                 "Femei",
                 ""
@@ -75,7 +76,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total pe activități economice",
                 "Agricultura, silvicultura și pescuit",
                 "Industrie",
                 "Industria extractivă",

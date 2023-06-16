@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Men",
                 "Women",
                 ""
@@ -32,7 +33,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by economic activities",
                 "Agriculture, forestry and fishing",
                 "Industry",
                 "Mining and quarrying",
@@ -63,6 +63,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Men",
                 "Women",
                 ""
@@ -75,7 +76,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by economic activities",
                 "Agriculture, forestry and fishing",
                 "Industry",
                 "Mining and quarrying",

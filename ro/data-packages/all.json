@@ -3253,6 +3253,42 @@
       "title": "Decese HIV asociate la 100 000 populație"
     },
     {
+      "path": "6-1-1-1/data.csv",
+      "name": "6-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea populației cu acces la servicii de alimentare cu apă potabilă gestionate în siguranță"
+    },
+    {
       "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
@@ -3468,6 +3504,57 @@
         ]
       },
       "title": "Ponderea femeilor alese în Parlament"
+    },
+    {
+      "path": "6-2-1-b/data.csv",
+      "name": "6-2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
+          },
+          {
+            "name": "Wealth quintiles ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Wealth quintiles "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea populației care utilizează o instalație de spălare a mâinilor cu săpun și apă"
     },
     {
       "path": "10-3-1-1/data.csv",
@@ -6304,6 +6391,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Bărbați",
                 "Femei",
                 ""
@@ -6316,7 +6404,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total pe activități economice",
                 "Agricultura, silvicultura și pescuit",
                 "Industrie",
                 "Industria extractivă",
@@ -6347,6 +6434,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Bărbați",
                 "Femei",
                 ""
@@ -6359,7 +6447,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total pe activități economice",
                 "Agricultura, silvicultura și pescuit",
                 "Industrie",
                 "Industria extractivă",
@@ -8495,7 +8582,7 @@
           }
         ]
       },
-      "title": "Ponderea recomandărilor Avocatului Poporului (inclusiv Avocatul Poporului pentru drepturile copilului) și Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității, implementate de către autoritățile și instituțiile sesizate (care rezultă din acțiunile procesuale)"
+      "title": "Ponderea recomandărilor Avocatului Poporului (inclusiv Avocatul Poporului pentru drepturile copilului) și Consiliului pentru egalitate, implementate de către autoritățile și instituțiile sesizate"
     },
     {
       "path": "4-a-1-g/data.csv",
@@ -10283,7 +10370,7 @@
             "title": "Anul"
           },
           {
-            "name": "Level of government",
+            "name": "Level of government ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10293,7 +10380,7 @@
                 ""
               ]
             },
-            "title": "Nivelul autorități publice"
+            "title": "Level of government "
           },
           {
             "name": "Function type",
@@ -15758,30 +15845,6 @@
       "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
     },
     {
-      "path": "6-2-1-b/data.csv",
-      "name": "6-2-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ponderea populației care utilizează o instalație de spălare a mâinilor cu săpun și apă"
-    },
-    {
       "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
@@ -15996,30 +16059,6 @@
         ]
       },
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
-    },
-    {
-      "path": "6-1-1-1/data.csv",
-      "name": "6-1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ponderea populației cu acces la servicii de alimentare cu apă potabilă gestionate în siguranță"
     },
     {
       "path": "17-18-2/data.csv",

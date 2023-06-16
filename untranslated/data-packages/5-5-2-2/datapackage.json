@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Level of government",
+            "name": "Level of government ",
             "type": "string",
             "constraints": {
               "enum": [

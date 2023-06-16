@@ -3004,6 +3004,39 @@
       "title": "national_indicators.3-3-1-1-title"
     },
     {
+      "path": "6-1-1-1/data.csv",
+      "name": "6-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.6-1-1-1-title"
+    },
+    {
       "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
@@ -3201,6 +3234,53 @@
         ]
       },
       "title": "national_indicators.5-5-1-a-title"
+    },
+    {
+      "path": "6-2-1-b/data.csv",
+      "name": "6-2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wealth quintiles ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.6-2-1-b-title"
     },
     {
       "path": "10-3-1-1/data.csv",
@@ -5817,6 +5897,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Men",
                 "Women",
                 ""
@@ -5828,7 +5909,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by economic activities",
                 "Agriculture, forestry and fishing",
                 "Industry",
                 "Mining and quarrying",
@@ -5858,6 +5938,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Men",
                 "Women",
                 ""
@@ -5869,7 +5950,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total by economic activities",
                 "Agriculture, forestry and fishing",
                 "Industry",
                 "Mining and quarrying",
@@ -9486,7 +9566,7 @@
             "type": "integer"
           },
           {
-            "name": "Level of government",
+            "name": "Level of government ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -14517,28 +14597,6 @@
       "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
     },
     {
-      "path": "6-2-1-b/data.csv",
-      "name": "6-2-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.6-2-1-b-title"
-    },
-    {
       "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
@@ -14735,28 +14793,6 @@
         ]
       },
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
-    },
-    {
-      "path": "6-1-1-1/data.csv",
-      "name": "6-1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.6-1-1-1-title"
     },
     {
       "path": "17-18-2/data.csv",

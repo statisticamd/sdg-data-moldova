@@ -1,8 +1,8 @@
 Year,"Accidente mortale, după sex","Accidente mortale, după activități economice","Accidente nemortale, după sex","Accidente nemortale, după activități economice",Value
 2010,,,,,
-2010,Bărbați,,,,
-2010,Femei,,,,
-2010,,Total pe activități economice,,,
+2010,Total,,,,6.6
+2010,Bărbați,,,,12.7
+2010,Femei,,,,1.5
 2010,,"Agricultura, silvicultura și pescuit",,,
 2010,,Industrie,,,
 2010,,Industria extractivă,,,
@@ -23,9 +23,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2010,,Sănătate și asistență socială,,,
 2010,,"Arta, activități de recreere și de agrement",,,
 2010,,Alte activități de servicii,,,
-2010,,,Bărbați,,
-2010,,,Femei,,
-2010,,,,Total pe activități economice,
+2010,,,Total,,91.4
+2010,,,Bărbați,,124.8
+2010,,,Femei,,60.2
 2010,,,,"Agricultura, silvicultura și pescuit",
 2010,,,,Industrie,
 2010,,,,Industria extractivă,
@@ -47,9 +47,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2010,,,,"Arta, activități de recreere și de agrement",
 2010,,,,Alte activități de servicii,
 2011,,,,,
-2011,Bărbați,,,,
-2011,Femei,,,,
-2011,,Total pe activități economice,,,
+2011,Total,,,,4.6
+2011,Bărbați,,,,10.2
+2011,Femei,,,,0.0
 2011,,"Agricultura, silvicultura și pescuit",,,
 2011,,Industrie,,,
 2011,,Industria extractivă,,,
@@ -70,9 +70,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2011,,Sănătate și asistență socială,,,
 2011,,"Arta, activități de recreere și de agrement",,,
 2011,,Alte activități de servicii,,,
-2011,,,Bărbați,,
-2011,,,Femei,,
-2011,,,,Total pe activități economice,
+2011,,,Total,,66.0
+2011,,,Bărbați,,119.3
+2011,,,Femei,,33.0
 2011,,,,"Agricultura, silvicultura și pescuit",
 2011,,,,Industrie,
 2011,,,,Industria extractivă,
@@ -94,9 +94,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2011,,,,"Arta, activități de recreere și de agrement",
 2011,,,,Alte activități de servicii,
 2012,,,,,
-2012,Bărbați,,,,
-2012,Femei,,,,
-2012,,Total pe activități economice,,,
+2012,Total,,,,3.4
+2012,Bărbați,,,,6.0
+2012,Femei,,,,1.2
 2012,,"Agricultura, silvicultura și pescuit",,,
 2012,,Industrie,,,
 2012,,Industria extractivă,,,
@@ -117,9 +117,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2012,,Sănătate și asistență socială,,,
 2012,,"Arta, activități de recreere și de agrement",,,
 2012,,Alte activități de servicii,,,
-2012,,,Bărbați,,
-2012,,,Femei,,
-2012,,,,Total pe activități economice,
+2012,,,Total,,64.4
+2012,,,Bărbați,,91.5
+2012,,,Femei,,49.9
 2012,,,,"Agricultura, silvicultura și pescuit",
 2012,,,,Industrie,
 2012,,,,Industria extractivă,
@@ -141,9 +141,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2012,,,,"Arta, activități de recreere și de agrement",
 2012,,,,Alte activități de servicii,
 2013,,,,,
-2013,Bărbați,,,,
-2013,Femei,,,,
-2013,,Total pe activități economice,,,
+2013,Total,,,,6.2
+2013,Bărbați,,,,13.3
+2013,Femei,,,,0.3
 2013,,"Agricultura, silvicultura și pescuit",,,
 2013,,Industrie,,,
 2013,,Industria extractivă,,,
@@ -164,9 +164,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2013,,Sănătate și asistență socială,,,
 2013,,"Arta, activități de recreere și de agrement",,,
 2013,,Alte activități de servicii,,,
-2013,,,Bărbați,,
-2013,,,Femei,,
-2013,,,,Total pe activități economice,
+2013,,,Total,,90.6
+2013,,,Bărbați,,158.4
+2013,,,Femei,,45.7
 2013,,,,"Agricultura, silvicultura și pescuit",
 2013,,,,Industrie,
 2013,,,,Industria extractivă,
@@ -188,9 +188,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2013,,,,"Arta, activități de recreere și de agrement",
 2013,,,,Alte activități de servicii,
 2014,,,,,
-2014,Bărbați,,,,
-2014,Femei,,,,
-2014,,Total pe activități economice,,,
+2014,Total,,,,5.9
+2014,Bărbați,,,,12.7
+2014,Femei,,,,0.3
 2014,,"Agricultura, silvicultura și pescuit",,,
 2014,,Industrie,,,
 2014,,Industria extractivă,,,
@@ -211,9 +211,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2014,,Sănătate și asistență socială,,,
 2014,,"Arta, activități de recreere și de agrement",,,
 2014,,Alte activități de servicii,,,
-2014,,,Bărbați,,
-2014,,,Femei,,
-2014,,,,Total pe activități economice,
+2014,,,Total,,80.0
+2014,,,Bărbați,,150.9
+2014,,,Femei,,31.4
 2014,,,,"Agricultura, silvicultura și pescuit",
 2014,,,,Industrie,
 2014,,,,Industria extractivă,
@@ -235,9 +235,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2014,,,,"Arta, activități de recreere și de agrement",
 2014,,,,Alte activități de servicii,
 2015,,,,,
-2015,Bărbați,,,,
-2015,Femei,,,,
-2015,,Total pe activități economice,,,
+2015,Total,,,,5.7
+2015,Bărbați,,,,12.0
+2015,Femei,,,,0.6
 2015,,"Agricultura, silvicultura și pescuit",,,
 2015,,Industrie,,,
 2015,,Industria extractivă,,,
@@ -258,9 +258,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2015,,Sănătate și asistență socială,,,
 2015,,"Arta, activități de recreere și de agrement",,,
 2015,,Alte activități de servicii,,,
-2015,,,Bărbați,,
-2015,,,Femei,,
-2015,,,,Total pe activități economice,
+2015,,,Total,,67.8
+2015,,,Bărbați,,121.6
+2015,,,Femei,,29.4
 2015,,,,"Agricultura, silvicultura și pescuit",
 2015,,,,Industrie,
 2015,,,,Industria extractivă,
@@ -282,9 +282,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2015,,,,"Arta, activități de recreere și de agrement",
 2015,,,,Alte activități de servicii,
 2016,,,,,
+2016,Total,,,,4.9
 2016,Bărbați,,,,9.0
 2016,Femei,,,,1.3
-2016,,Total pe activități economice,,,4.9
 2016,,"Agricultura, silvicultura și pescuit",,,10.9
 2016,,Industrie,,,7.1
 2016,,Industria extractivă,,,0.0
@@ -305,9 +305,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2016,,Sănătate și asistență socială,,,0.0
 2016,,"Arta, activități de recreere și de agrement",,,0.0
 2016,,Alte activități de servicii,,,0.0
+2016,,,Total,,57.6
 2016,,,Bărbați,,74.1
 2016,,,Femei,,43.0
-2016,,,,Total pe activități economice,57.6
 2016,,,,"Agricultura, silvicultura și pescuit",76.2
 2016,,,,Industrie,97.9
 2016,,,,Industria extractivă,194.4
@@ -329,9 +329,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2016,,,,"Arta, activități de recreere și de agrement",110.3
 2016,,,,Alte activități de servicii,45.8
 2017,,,,,
+2017,Total,,,,6.8
 2017,Bărbați,,,,14.5
 2017,Femei,,,,0.0
-2017,,Total pe activități economice,,,6.8
 2017,,"Agricultura, silvicultura și pescuit",,,29.3
 2017,,Industrie,,,5.7
 2017,,Industria extractivă,,,197.9
@@ -352,9 +352,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2017,,Sănătate și asistență socială,,,0.0
 2017,,"Arta, activități de recreere și de agrement",,,0.0
 2017,,Alte activități de servicii,,,0.0
+2017,,,Total,,68.0
 2017,,,Bărbați,,94.5
 2017,,,Femei,,44.2
-2017,,,,Total pe activități economice,68.0
 2017,,,,"Agricultura, silvicultura și pescuit",61.2
 2017,,,,Industrie,90.0
 2017,,,,Industria extractivă,49.5
@@ -376,9 +376,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2017,,,,"Arta, activități de recreere și de agrement",33.2
 2017,,,,Alte activități de servicii,39.5
 2018,,,,,
+2018,Total,,,,6.2
 2018,Bărbați,,,,12.6
 2018,Femei,,,,0.3
-2018,,Total pe activități economice,,,6.2
 2018,,"Agricultura, silvicultura și pescuit",,,5.3
 2018,,Industrie,,,9.2
 2018,,Industria extractivă,,,0.0
@@ -399,9 +399,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2018,,Sănătate și asistență socială,,,0.0
 2018,,"Arta, activități de recreere și de agrement",,,8.2
 2018,,Alte activități de servicii,,,0.0
+2018,,,Total,,75.9
 2018,,,Bărbați,,104.5
 2018,,,Femei,,49.6
-2018,,,,Total pe activități economice,75.9
 2018,,,,"Agricultura, silvicultura și pescuit",42.5
 2018,,,,Industrie,108.5
 2018,,,,Industria extractivă,51.3
@@ -423,9 +423,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2018,,,,"Arta, activități de recreere și de agrement",32.8
 2018,,,,Alte activități de servicii,19.2
 2019,,,,,
+2019,Total,,,,5.8
 2019,Bărbați,,,,11.4
 2019,Femei,,,,0.6
-2019,,Total pe activități economice,,,5.8
 2019,,"Agricultura, silvicultura și pescuit",,,16.5
 2019,,Industrie,,,5.4
 2019,,Industria extractivă,,,48.0
@@ -446,9 +446,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2019,,Sănătate și asistență socială,,,3.3
 2019,,"Arta, activități de recreere și de agrement",,,0.0
 2019,,Alte activități de servicii,,,0.0
+2019,,,Total,,73.1
 2019,,,Bărbați,,105.6
 2019,,,Femei,,43.4
-2019,,,,Total pe activități economice,73.1
 2019,,,,"Agricultura, silvicultura și pescuit",65.9
 2019,,,,Industrie,94.3
 2019,,,,Industria extractivă,48.0
@@ -470,9 +470,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2019,,,,"Arta, activități de recreere și de agrement",24.3
 2019,,,,Alte activități de servicii,46.2
 2020,,,,,
+2020,Total,,,,5.2
 2020,Bărbați,,,,10.9
 2020,Femei,,,,0.0
-2020,,Total pe activități economice,,,5.2
 2020,,"Agricultura, silvicultura și pescuit",,,11.7
 2020,,Industrie,,,8.5
 2020,,Industria extractivă,,,0.0
@@ -493,9 +493,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2020,,Sănătate și asistență socială,,,0.0
 2020,,"Arta, activități de recreere și de agrement",,,0.0
 2020,,Alte activități de servicii,,,0.0
+2020,,,Total,,64.5
 2020,,,Bărbați,,92.1
 2020,,,Femei,,39.5
-2020,,,,Total pe activități economice,64.5
 2020,,,,"Agricultura, silvicultura și pescuit",32.2
 2020,,,,Industrie,96.2
 2020,,,,Industria extractivă,153.1
@@ -517,9 +517,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2020,,,,"Arta, activități de recreere și de agrement",16.9
 2020,,,,Alte activități de servicii,0.0
 2021,,,,,
+2021,Total,,,,4.8
 2021,Bărbați,,,,10.1
 2021,Femei,,,,0.0
-2021,,Total pe activități economice,,,4.8
 2021,,"Agricultura, silvicultura și pescuit",,,23.2
 2021,,Industrie,,,1.9
 2021,,Industria extractivă,,,0.0
@@ -540,9 +540,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2021,,Sănătate și asistență socială,,,0.0
 2021,,"Arta, activități de recreere și de agrement",,,8.5
 2021,,Alte activități de servicii,,,16.9
+2021,,,Total,,84.0
 2021,,,Bărbați,,111.9
 2021,,,Femei,,58.7
-2021,,,,Total pe activități economice,84.0
 2021,,,,"Agricultura, silvicultura și pescuit",46.4
 2021,,,,Industrie,133.5
 2021,,,,Industria extractivă,54.7
@@ -564,9 +564,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2021,,,,"Arta, activități de recreere și de agrement",42.4
 2021,,,,Alte activități de servicii,16.9
 2022,,,,,
+2022,Total,,,,
 2022,Bărbați,,,,
 2022,Femei,,,,
-2022,,Total pe activități economice,,,
 2022,,"Agricultura, silvicultura și pescuit",,,
 2022,,Industrie,,,
 2022,,Industria extractivă,,,
@@ -587,9 +587,9 @@ Year,"Accidente mortale, după sex","Accidente mortale, după activități econo
 2022,,Sănătate și asistență socială,,,
 2022,,"Arta, activități de recreere și de agrement",,,
 2022,,Alte activități de servicii,,,
+2022,,,Total,,
 2022,,,Bărbați,,
 2022,,,Femei,,
-2022,,,,Total pe activități economice,
 2022,,,,"Agricultura, silvicultura și pescuit",
 2022,,,,Industrie,
 2022,,,,Industria extractivă,
