@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
+                "North ",
                 "Centre",
                 "South",
                 "Mun. Chisinau",

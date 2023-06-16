@@ -5935,7 +5935,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
+                "North ",
                 "Centre",
                 "South",
                 "Mun. Chisinau",
@@ -6440,6 +6440,30 @@
         ]
       },
       "title": "Implementation level of the national strategic framework on risk reduction in exceptional situations, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030 (the same as 11.b.1.2/13.1.2.2)"
+    },
+    {
+      "path": "2-2-2-a/data.csv",
+      "name": "2-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of overweight among children aged under 5 years old"
     },
     {
       "path": "7-3-1-b/data.csv",
@@ -8545,6 +8569,30 @@
       "title": "Coverage of the poorest population (I quintile) with social allowance for the cold period of the year"
     },
     {
+      "path": "2-2-2-b/data.csv",
+      "name": "2-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of wasting among children under 5 years old"
+    },
+    {
       "path": "4-b-1-1/data.csv",
       "name": "4-b-1-1",
       "profile": "tabular-data-resource",
@@ -8603,6 +8651,30 @@
         ]
       },
       "title": "Number of budgetary places in the state order for enrolment in higher education, including vocational training and information and communication technology, technical, engineering and scientific programmes"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "1-a-1-1/data.csv",
@@ -14256,30 +14328,6 @@
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
-      "path": "2-2-2-b/data.csv",
-      "name": "2-2-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of wasting among children under 5 years old"
-    },
-    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
@@ -16176,30 +16224,6 @@
       "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
-    },
-    {
       "path": "16-10-2/data.csv",
       "name": "16-10-2",
       "profile": "tabular-data-resource",
@@ -16606,30 +16630,6 @@
         ]
       },
       "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
-    },
-    {
-      "path": "2-2-2-a/data.csv",
-      "name": "2-2-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of overweight among children aged under 5 years old"
     },
     {
       "path": "6-3-2/data.csv",

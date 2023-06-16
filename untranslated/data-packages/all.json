@@ -5475,7 +5475,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
+                "North ",
                 "Centre",
                 "South",
                 "Mun. Chisinau",
@@ -5944,6 +5944,28 @@
         ]
       },
       "title": "national_indicators.1-5-3-2-title"
+    },
+    {
+      "path": "2-2-2-a/data.csv",
+      "name": "2-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.2-2-2-a-title"
     },
     {
       "path": "7-3-1-b/data.csv",
@@ -7887,6 +7909,28 @@
       "title": "national_indicators.1-3-1-i-title"
     },
     {
+      "path": "2-2-2-b/data.csv",
+      "name": "2-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.2-2-2-b-title"
+    },
+    {
       "path": "4-b-1-1/data.csv",
       "name": "4-b-1-1",
       "profile": "tabular-data-resource",
@@ -7940,6 +7984,28 @@
         ]
       },
       "title": "national_indicators.4-b-1-1-title"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "1-a-1-1/data.csv",
@@ -13140,28 +13206,6 @@
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
-      "path": "2-2-2-b/data.csv",
-      "name": "2-2-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.2-2-2-b-title"
-    },
-    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
@@ -14900,28 +14944,6 @@
       "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
-    },
-    {
       "path": "16-10-2/data.csv",
       "name": "16-10-2",
       "profile": "tabular-data-resource",
@@ -15294,28 +15316,6 @@
         ]
       },
       "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
-    },
-    {
-      "path": "2-2-2-a/data.csv",
-      "name": "2-2-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "national_indicators.2-2-2-a-title"
     },
     {
       "path": "6-3-2/data.csv",

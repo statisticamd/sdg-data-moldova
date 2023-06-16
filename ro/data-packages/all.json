@@ -5935,7 +5935,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nord",
+                "North ",
                 "Centre",
                 "Sud",
                 "Mun. Chișinău",
@@ -6440,6 +6440,30 @@
         ]
       },
       "title": "Gradul de implementare a Cadrului strategic național privind reducerea riscurilor de  situații excepționale, aliniat la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030 (identic cu 11.b.1.2/13.1.2.2)"
+    },
+    {
+      "path": "2-2-2-a/data.csv",
+      "name": "2-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalența supraponderalilor printre copii în vârstă de până la 5 ani"
     },
     {
       "path": "7-3-1-b/data.csv",
@@ -8545,6 +8569,30 @@
       "title": "Acoperirea populației celei mai sărace (quintila 1) cu prestații de ajutor pentru perioada rece a anului"
     },
     {
+      "path": "2-2-2-b/data.csv",
+      "name": "2-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalența retardului ponderal printre copii în vârstă de până la 5 ani"
+    },
+    {
       "path": "4-b-1-1/data.csv",
       "name": "4-b-1-1",
       "profile": "tabular-data-resource",
@@ -8603,6 +8651,30 @@
         ]
       },
       "title": "Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior, inclusiv formare profesională și tehnologia informației și comunicațiilor, programe tehnice, inginerești și științifice"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "1-a-1-1/data.csv",
@@ -14256,30 +14328,6 @@
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
-      "path": "2-2-2-b/data.csv",
-      "name": "2-2-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalența retardului ponderal printre copii în vârstă de până la 5 ani"
-    },
-    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
@@ -16176,30 +16224,6 @@
       "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
-    },
-    {
       "path": "16-10-2/data.csv",
       "name": "16-10-2",
       "profile": "tabular-data-resource",
@@ -16606,30 +16630,6 @@
         ]
       },
       "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
-    },
-    {
-      "path": "2-2-2-a/data.csv",
-      "name": "2-2-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalența supraponderalilor printre copii în vârstă de până la 5 ani"
     },
     {
       "path": "6-3-2/data.csv",
