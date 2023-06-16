@@ -885,23 +885,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(01) national legislation, policies and funding",
-                "(02) coordination and liaison with national focal points",
-                "(03) supervision",
-                "(04) the answer",
-                "(05) training",
-                "(06) risk communication",
-                "(07) human resources",
-                "(08) the laboratory",
-                "(09) entry points",
-                "(10) zoonotic events",
-                "(11) food safety",
-                "(12) chemical events",
-                "(13) radionuclear emergencies",
-                "funding",
-                "preparation and response",
-                "providing medical assistance",
-                "infection prevention and control",
+                "(01) legislația, politicile  și finanțarea națională",
+                "(02) coordonarea și legătura cu punctele focale  naționale",
+                "(03) supravegherea",
+                "(04) răspunsul",
+                "(05) pregătirea",
+                "(06) comunicarea  riscurilor",
+                "(07) resursele umane",
+                "(08) laboratorul",
+                "(09) punctele de intrare",
+                "(10)  evenimente zoonotice",
+                "(11) siguranța alimentelor",
+                "(12) evenimente  chimice",
+                "(13) urgențe radionucleare",
+                "finanțare",
+                "pregătirea și răspunsul",
+                "asigurarea asistenței medicale",
+                "profilaxia și controlul infecțiilor",
                 ""
               ]
             },
@@ -1894,6 +1894,68 @@
         ]
       },
       "title": "Raportarea progreselor asupra aplicării cadrului de monitorizare a eficienței dezvoltării cu participarea mai multor parteneri, care acordă suport în atingerea de către țară a Obiectivelor de Dezvoltare Durabilă"
+    },
+    {
+      "path": "3-8-1-1/data.csv",
+      "name": "3-8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxx",
+                ""
+              ]
+            },
+            "title": "Diseases"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea populației care a beneficiat de medicamente esențiale naționale compensate din fondurile de asigurări obligatorii de asistență medicală"
     },
     {
       "path": "3-4-1/data.csv",
@@ -9860,7 +9922,7 @@
           }
         ]
       },
-      "title": "Rata de participare a tinerilor și adulților în educația formală și nonformală pe parcursul vieții"
+      "title": "global_indicators.4-3-1-1-title"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -10953,7 +11015,7 @@
           }
         ]
       },
-      "title": "3-2-1-1"
+      "title": "Rata mortalității infantile la 1 000 născuți vii"
     },
     {
       "path": "10-7-1/data.csv",
@@ -11322,7 +11384,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
           },
           {

@@ -1896,6 +1896,68 @@
       "title": "Reporting progress achieved in enforcing the framework for monitoring development efficiency with participation with more partners, providing support to the country to achieve the Sustainable Development Goals"
     },
     {
+      "path": "3-8-1-1/data.csv",
+      "name": "3-8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxx",
+                ""
+              ]
+            },
+            "title": "Diseases"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of the population having received national essential medicines compensated from compulsory health insurance funds"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -9860,7 +9922,7 @@
           }
         ]
       },
-      "title": "Youth and adult participation rate in life-long formal and non-formal education during the life"
+      "title": "global_indicators.4-3-1-1-title"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -10953,7 +11015,7 @@
           }
         ]
       },
-      "title": "3-2-1-1"
+      "title": "Infant mortality rate, per 1,000 live births"
     },
     {
       "path": "10-7-1/data.csv",
@@ -11322,7 +11384,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
