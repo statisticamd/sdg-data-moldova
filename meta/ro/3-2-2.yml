@@ -1,0 +1,77 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.2.2: Rata mortalității neonatale</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.2: Până în 2030, eliminarea deceselor care pot fi prevenite în rândul  nou-născuților și copiilor până la 5 ani, în toate țările având scopul de a  reduce mortalitatea neonatală la cel mult 12 decese la 1.000 născuți-vii și  mortalitatea copiilor până la 5 ani la cel mult 25 decese la 1.000 născuți-vii</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Children's Fund (UNICEF)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+  Probabilitatea ca un copil născut într-un anumit an sau perioadă să moară în primele 28 de zile de viață,  dacă este supus ratelor de mortalitate specifice vârstei din acea perioadă exprimate la 1000 de născuți vii. Decesele neonatale (decese în rândul născuților vii în primele 28 de zile încheiate de viață) pot fi subdivizate în decese neonatale timpurii, care au loc în primele 7 zile de viață și decese neonatale tardive, care au loc după a 7-a zi dar înainte de a 28-a zi încheiată de viaţă.
+SDG_GOAL: ''
+target_id: >-
+  3.2
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 225 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 3.2.2: Rata mortalității neonatale, la 1.000 născuți vii</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Mortalitatea neonatală este parte din mortalitatea infantilă, care exprimă  intensitatea deceselor infantile în primele 27 de zile de la naștere.
+UNIT_MEASURE: >-
+  la 1000 născuți vii
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  1) Agenția Națională pentru Sănătate Publică -Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului                                2) Biroul Național  de Statistică-număr născuți vii
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Instituțiile medicale
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Sănătății
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Numărul de copii decedați în anul curent în vârstă de 0 - 27 zile de la  naștere, raportat la 1000 născuți vii în anul de referință.</p> 
+  <p>  Datele se  bazează pe înregistrarea copiilor nou-născuți cu masa de la 500 gr și de la 22  săptămâni gestație </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Națională pentru Sănătate Publică
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

@@ -1,23 +1,23 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 3.7.1: Ponderea femeilor de vârstă fertilă (15-49 ani) cu necesități de planificare a  familiei satisfăcute prin metode moderne de contracepție</p>
+  <p>Indicator 3.1.1: Rata mortalității materne</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 3.7: Până în 2030, asigurarea accesului universal la serviciile de sănătate sexuală  și reproductivă, inclusiv pentru planificarea familiei, informare și educație,  precum și integrarea sănătății reproducerii în strategiile și programele  naționale</p>
+  <p>Target 3.1: Până în 2030, reducerea ratei globale a mortalității materne la mai puțin de  70 de cazuri la 100.000 de născuți-vii</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  DESA Population Division
+  WHO
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  3.7
+  3.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 865kB)
 SDG_INDICATOR: >-
-  <p>Indicator 3.7.1: Ponderea femeilor de vârstă fertilă (15-49 ani) cu necesități de planificare a  familiei satisfăcute prin metode moderne de contracepție</p>
+  <p>Indicator 3.1.1: Rata mortalității materne, la 100.000 născuți vii</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,17 +32,16 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Procent, %
+  persoane la 100.000 născuți vii
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  MICS 2012
+  1) Agenția Națională pentru Sănătate Publică -Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului                                2) Biroul Național  de Statistică-număr născuți vii
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
-  <p>  2) UNICEF </p>
+  Instituțiile medicale
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Sănătății
@@ -50,7 +49,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul femeilor de vârstă fertilă (15-49 ani) care nu doresc să abă (mai  mulți) copii, ori doresc să amâne nașterea unui copil următor prin utilizare  mijloacelor moderne de contracepție raportat la numărul total al femeilor de  vârsta respectivă *100.
+  <p> Numărul femeilor care au decedat în urma complicațiilor din timpul sarcinii  sau nașterii în anul de referință, care revin la 100000 de născuți vii* din  același an.</p> 
+  <p>  * Datele se bazează pe înregistrarea copiilor nou-născuți cu  masa de la 500 gr și de la 22 săptămâni gestație. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -65,10 +65,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
-  <p>     2) Ministerul Muncii și Protecției Sociale </p>
+  Agenția Națională pentru Sănătate Publică
 source_periodicity_1: >-
-  O dată la câțiva ani
+  anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

@@ -45,7 +45,8 @@ DATA_SOURCE: >-
   1) Parlamentul Republicii Moldova
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Muncii și Protecției Sociale
+  <p>Cancelaria de Stat</p>
+  <p>Ministerul Muncii și Protecției Sociale</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

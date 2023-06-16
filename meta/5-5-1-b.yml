@@ -46,7 +46,8 @@ DATA_SOURCE: >-
   Central Electoral Commission
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
+  <p>State Chancellery</p>
+  <p>Ministry of Labour and Social Protection</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

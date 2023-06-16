@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 5.b.1.1. Average number of mobile telephones by 100 households
+graph_title: national_indicators.5-b-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Average number of mobile telephones by 100 households
+indicator_available: national_indicators.5-b-1-1-title
 indicator_name: national_indicators.5-b-1-1-title
 indicator_number: 5.b.1.1
 indicator_tabs:: 

@@ -23,10 +23,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 4.3.1 Youth and adult participation rate in life-long formal and non-formal  education during the life
+graph_title: national_indicators.4-3-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Participation rate of youth and adults in life-long formal and non-formal education
+indicator_available: national_indicators.4-3-1-title
 indicator_name: global_indicators.4-3-1-title
 indicator_number: 4.3.1
 indicator_tabs:: 
