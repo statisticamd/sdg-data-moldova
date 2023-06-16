@@ -24,7 +24,7 @@ graph_title: national_indicators.4-5-1-d-graph
 graph_titles: []
 graph_type: line
 indicator_available: national_indicators.4-5-1-d-title
-indicator_name: global_indicators.4-5-1-d-title
+indicator_name: national_indicators.4-5-1-d-title
 indicator_number: 4.5.1.d
 indicator_tabs:: 
   override: false
