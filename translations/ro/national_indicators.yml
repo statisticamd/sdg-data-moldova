@@ -688,11 +688,9 @@
 10-2-1-title: Rata sărăciei relative 
 10-2-1-graph: 10.2.1. Rata sărăciei relative 
 10-3-1-title: Ponderea populației care a comunicat că în ultimele 12 luni 
-  s-a simțit  vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul 
-  internațional al drepturilor omului  (identic cu 16.b.1)
+  s-a simțit  vreodată discriminată sau hărțuită în baza unui criteriu protejat (identic cu 16.b.1)
 10-3-1-graph: 10.3.1. Ponderea populației care a comunicat că în ultimele 12 luni 
-  s-a simțit  vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul 
-  internațional al drepturilor omului  
+  s-a simțit  vreodată discriminată sau hărțuită în baza unui criteriu protejat  
 10-3-1-1-title: Numărul de cazuri de discriminare constatate la 100 000 
   populație 
 10-3-1-1-graph: 10.3.1.1. Numărul de cazuri de discriminare constatate la 100 000 
@@ -1063,13 +1061,11 @@
 16-3-2-1-graph: 16.3.2.1. Numărul de persoane care au beneficiat de asistență juridică 
   garantată de stat
 16-3-2-2-title: Ponderea recomandărilor Avocatului Poporului (inclusiv 
-  Avocatul Poporului pentru drepturile copilului) și Consiliului pentru prevenirea 
-  și eliminarea discriminării și asigurarea egalității, implementate de către autoritățile 
-  și instituțiile sesizate (care rezultă din acțiunile procesuale)
+  Avocatul Poporului pentru drepturile copilului) și Consiliului pentru egalitate, 
+  implementate de către autoritățile și instituțiile sesizate
 16-3-2-2-graph: 16.3.2.2. Ponderea recomandărilor Avocatului Poporului (inclusiv 
-  Avocatul Poporului pentru drepturile copilului) și Consiliului pentru prevenirea 
-  și eliminarea discriminării și asigurarea egalității, implementate de către autoritățile 
-  și instituțiile sesizate
+  Avocatul Poporului pentru drepturile copilului) și Consiliului pentru egalitate, 
+  implementate de către autoritățile și instituțiile sesizate
 16-3-2-3-title: Ponderea cazurilor pierdute la CEDO, din numărul de cereri 
   comunicate în fiecare an
 16-3-2-3-graph: 16.3.2.3. Ponderea cazurilor pierdute la CEDO, din numărul de cereri 
@@ -1153,11 +1149,9 @@
   omului în conformitate cu Principiile de la Paris, statut de acreditare (A, B, 
   C)
 16-b-1-title: 16.b.1 Ponderea populației care a comunicat că în ultimele 12 luni 
-  s-a simțit vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul 
-  internațional al drepturilor omului (identic cu 10.3.1)
+  s-a simțit vreodată discriminată sau hărțuită în baza unui criteriu protejat (identic cu 10.3.1)
 16-b-1-graph: 16.b.1 Ponderea populației care a comunicat că în ultimele 12 luni 
-  s-a simțit vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul 
-  internațional al drepturilor omului
+  s-a simțit vreodată discriminată sau hărțuită în baza unui criteriu protejat
 17-1-1-title: Ponderea veniturilor bugetului public național în PIB
 17-1-1-graph: 17.1.1. Ponderea veniturilor bugetului public național în PIB
 17-1-2-title: Raportul veniturilor din impozite și taxe în totalul cheltuielilor 
@@ -1186,9 +1180,9 @@
    pentru consolidare de capacități și planificare strategică
 17-9-1-graph: 17.9.1. Valoarea asistenței financiare și tehnice externe acordată 
   Republicii Moldova  pentru consolidare de capacități și planificare strategică
-17-10-1-title: 17.10.1. Nivelul mediu ponderat al tarifelor vamale de import în Republica 
+17-10-1-title: 17.10.1. Nivelul mediu ponderat al taxelor vamale de import în Republica 
   Moldova
-17-10-1-graph: 17.10.1. Nivelul mediu ponderat al tarifelor vamale de import în Republica 
+17-10-1-graph: 17.10.1. Nivelul mediu ponderat al taxelor vamale de import în Republica 
   Moldova
 17-11-1-title: 17.11.1. Ponderea exporturilor din Republica Moldova în comerțul exterior 
   global

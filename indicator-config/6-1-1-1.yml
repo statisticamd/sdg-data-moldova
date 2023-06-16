@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 6.1.1.1. Proportion of population with access to safely managed drinking water  supplied services
+graph_title: national_indicators.6-1-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of population with access to safely managed drinking water  supplied services
+indicator_available: national_indicators.6-1-1-1-title
 indicator_name: national_indicators.6-1-1-1-title
 indicator_number: 6.1.1.1
 indicator_tabs:: 

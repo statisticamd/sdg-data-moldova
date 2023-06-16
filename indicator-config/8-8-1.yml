@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 8.8.1 Accidents at work rate, per 100,000 employees
+graph_title: national_indicators.8-8-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Accidents at work rate, per 100,000 employees
+indicator_available: national_indicators.8-8-1-title
 indicator_name: global_indicators.8-8-1-title
 indicator_number: 8.8.1
 indicator_tabs:: 

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 6.3.2.b. Proportion of underground water bodies which achieved the "good  quality" class  (according to analytical chemical parameters, dissolved  metals, pesticides)
+graph_title: national_indicators.6-3-2-b-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of underground water bodies which achieved the "good  quality" class  (according to analytical chemical parameters, dissolved  metals, pesticides)
+indicator_available: national_indicators.6-3-2-b-title
 indicator_name: national_indicators.6-3-2-b-title
 indicator_number: 6.3.2.b
 indicator_tabs:: 

@@ -53,7 +53,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of unemployed people benefiting from unemployment allowance out of the  total number of unemployed registered in  the year of reference X100.
+  Number of unemployed people benefiting from unemployment allowance out of the total number of registered unemployed expressed in percentage.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

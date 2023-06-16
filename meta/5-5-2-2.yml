@@ -48,7 +48,7 @@ RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
   <p> R(f) = N(f_fp) / N(tot_fp) * 100</p> 
-  <p>unde: </p> 
+  <p>where: </p> 
   <p>R(f)  - the share of women in public service</p> 
   <p>N(f_fp) - the number of women civil servants</p> 
   <p>N(tot_fp) - the number of total civil servants </p>

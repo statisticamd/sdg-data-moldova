@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Nunărul beneficiarilor de ajutor de șomaj  - CNAS (începând cu 10.02.2019)</p> 
+  <p> Numărul beneficiarilor de ajutor de șomaj  - CNAS (începând cu 10.02.2019)</p> 
   <p>Numărul șomerilor înregistrați - ANOFM </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -53,7 +53,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul șomerilor beneficiari de ajutor de șomaj raportat la numărul total al  șomerilor înregistrați în anul de referință X100.
+  Numărul șomerilor beneficiari de ajutor de șomaj raportat la numărul total al  șomerilor înregistrați exprimat în procente.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
