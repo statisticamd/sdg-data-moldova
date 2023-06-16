@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, chintila I",
-                "Urban, chintila I",
-                "Rural, chintila I",
+                "Total, quintila I",
+                "Urban, quintila I",
+                "Rural, quintila I",
                 ""
               ]
             },
-            "title": "Chintila I, pe medii"
+            "title": "Quntila I, pe medii"
           },
           {
             "name": "Value",

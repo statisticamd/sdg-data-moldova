@@ -544,7 +544,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
@@ -744,7 +744,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Value",
@@ -3758,7 +3758,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Household type",
@@ -4972,7 +4972,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
@@ -6692,7 +6692,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Household type",
@@ -8025,7 +8025,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Value",
@@ -8527,13 +8527,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, chintila I",
-                "Urban, chintila I",
-                "Rural, chintila I",
+                "Total, quintila I",
+                "Urban, quintila I",
+                "Rural, quintila I",
                 ""
               ]
             },
-            "title": "Chintila I, pe medii"
+            "title": "Quntila I, pe medii"
           },
           {
             "name": "Value",
@@ -9858,7 +9858,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Existence of disability",
@@ -9973,7 +9973,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Existence of disability",
@@ -13122,7 +13122,7 @@
                 ""
               ]
             },
-            "title": "Chintile pe cheltuielile de consum"
+            "title": "Quintile pe cheltuielile de consum"
           },
           {
             "name": "Sex of the head of the household",
@@ -13327,13 +13327,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total, chintila I",
-                "Urban, chintila I",
-                "Rural, chintila I",
+                "Total, quintila I",
+                "Urban, quintila I",
+                "Rural, quintila I",
                 ""
               ]
             },
-            "title": "Chintila I, pe medii"
+            "title": "Quntila I, pe medii"
           },
           {
             "name": "Value",
