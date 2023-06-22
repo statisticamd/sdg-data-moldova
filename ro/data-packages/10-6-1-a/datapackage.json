@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "International organisations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN General Assembly (UNGA)",
+                "International Finance Corporation (IFC)",
+                "International Bank for Reconstruction and Development (IBRD)",
+                "International Monetary Fund (IMF)",
+                "Economic and Social Council - the United Nations (ECOSOC)",
+                "World Trade Organization (WTO)",
+                ""
+              ]
+            },
+            "title": "Organizații internaționale"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-6-1-a",
+  "title": "Ponderea reprezentării  Republicii Moldova  în cadrul organizațiilor internaționale"
+}

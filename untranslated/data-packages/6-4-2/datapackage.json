@@ -15,6 +15,20 @@
             "type": "integer"
           },
           {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing industry",
+                "Production and supply of electricity and thermal energy, gas and hot water",
+                "Other activities",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

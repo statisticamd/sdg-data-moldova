@@ -16,6 +16,21 @@
             "title": "Anul"
           },
           {
+            "name": "Economic activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultura, silvicultura și pescuit",
+                "Industria extractivă",
+                "Manufacturing industry",
+                "Production and supply of electricity and thermal energy, gas and hot water",
+                "Alte activități",
+                ""
+              ]
+            },
+            "title": "Activități economice"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

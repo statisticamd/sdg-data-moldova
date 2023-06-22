@@ -39,9 +39,9 @@ Disability (subjected to violence),1,1
 Disability,1,4
 Disbursement,1,2
 Discrimination criteria,2,12
-Districts,3,39
+Districts,2,39
 Duration of arrest,1,4
-Economic activities,3,10
+Economic activities,4,13
 Education levels,5,10
 Educational levels,1,2
 Electricity,1,5
@@ -60,10 +60,11 @@ Food products,1,8
 Form of discrimination,1,8
 Form of violence,1,3
 Forms of exploitation,1,7
-Forms of ownership,3,3
+Forms of ownership,4,3
 Function type,1,2
 General objectives,1,3
 Groups of persons,1,2
+"Health workers per 10.000 population, in teritorial aspect",1,39
 High-risk population categories,1,3
 Home heating systems - rural,1,3
 Home heating systems - total,1,3
@@ -72,8 +73,9 @@ Household type,2,2
 Index,1,1
 Indicator,1,1
 Indicators on the progress of sustainable forest management,1,5
-Indicators,4,15
+Indicators,4,17
 Institutions where have been made payments,2,22
+International organisations,2,6
 kg/person,1,1
 Legal basis,1,2
 Level of education of the head of the household,1,4
@@ -117,7 +119,7 @@ Sex (neglected),1,2
 Sex of the head of the household,7,2
 Sex of the petitioner,1,2
 Sex (subjected to violence),1,2
-Sex,53,4
+Sex,54,4
 Sexes,1,1
 Socio-economic status of pupils,2,2
 Speeds,1,5

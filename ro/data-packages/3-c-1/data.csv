@@ -1,344 +1,362 @@
-Year,Indicatori,Raioane,Value
-2014,,,45.3
-2014,Numărul personalului medical la 10 000 populație,,91.1
+Year,Indicatori,"Health workers per 10.000 population, in teritorial aspect",Value
+2014,Number of health workers per 10 000 population,,138.1
+2014,Physicians per 10 000 population,,46.9
+2014,Number of nursing and midwifery personnel per 10 000 population,,91.1
 2014,Numărul de stomatologi și dentiști la 10 000 populație,,6.2
 2014,Numărul de farmaciști la 10 000 populație,,6.7
-2014,,Mun. Chișinău,33.4
-2014,,Nord,23.9
-2014,,mun. Balti,45.7
-2014,,Briceni,21.0
-2014,,Donduseni,24.9
-2014,,Drochia,21.2
-2014,,Edinet,25.7
-2014,,Falesti,13.5
-2014,,Floresti,20.0
-2014,,Glodeni,20.1
-2014,,Ocnita,21.4
-2014,,Rascani,21.7
-2014,,Sangerei,16.4
-2014,,Soroca,25.6
-2014,,Centre,19.0
-2014,,Anenii Noi,19.1
-2014,,Calarasi,18.7
-2014,,Criuleni,18.6
-2014,,Dubasari,10.7
-2014,,Hancesti,19.5
-2014,,Ialoveni,20.5
-2014,,Nisporeni,19.1
-2014,,Orhei,21.2
-2014,,Rezina,17.6
-2014,,Straseni,20.1
-2014,,Soldanesti,19.2
-2014,,Telenesti,18.9
-2014,,Ungheni,17.8
-2014,,Sud,18.2
-2014,,Basarabeasca,23.8
-2014,,Cahul,22.8
-2014,,Cantemir,14.1
-2014,,Causeni,15.9
-2014,,Cimislia,19.2
-2014,,Leova,15.4
-2014,,Stefan Voda,16.9
-2014,,Taraclia,16.7
-2014,,UTA Găgăuzia,25.7
-2015,,,46.0
-2015,Numărul personalului medical la 10 000 populație,,87.1
+2014,,Total for the country,138.1
+2014,,Mun. Chișinău,83.6
+2014,,Nord,95.5
+2014,,mun. Balti,164.5
+2014,,Briceni,81.4
+2014,,Donduseni,94.8
+2014,,Drochia,87.9
+2014,,Edinet,95.9
+2014,,Falesti,71.7
+2014,,Floresti,80.4
+2014,,Glodeni,80.0
+2014,,Ocnita,91.0
+2014,,Rascani,89.3
+2014,,Sangerei,72.3
+2014,,Soroca,102.7
+2014,,Centre,71.6
+2014,,Anenii Noi,65.7
+2014,,Calarasi,73.4
+2014,,Criuleni,63.6
+2014,,Dubasari,41.2
+2014,,Hancesti,69.8
+2014,,Ialoveni,61.1
+2014,,Nisporeni,81.3
+2014,,Orhei,85.8
+2014,,Rezina,80.0
+2014,,Straseni,64.9
+2014,,Soldanesti,80.9
+2014,,Telenesti,74.5
+2014,,Ungheni,77.9
+2014,,Sud,81.1
+2014,,Basarabeasca,91.1
+2014,,Cahul,89.1
+2014,,Cantemir,81.0
+2014,,Causeni,76.7
+2014,,Cimislia,82.3
+2014,,Leova,74.8
+2014,,Stefan Voda,74.6
+2014,,Taraclia,79.4
+2014,,UTA Găgăuzia,106.5
+2015,Number of health workers per 10 000 population,,133.1
+2015,Physicians per 10 000 population,,46.0
+2015,Number of nursing and midwifery personnel per 10 000 population,,87.1
 2015,Numărul de stomatologi și dentiști la 10 000 populație,,6.3
 2015,Numărul de farmaciști la 10 000 populație,,6.6
-2015,,Mun. Chișinău,32.9
-2015,,Nord,23.6
-2015,,mun. Balti,45.4
-2015,,Briceni,20.7
-2015,,Donduseni,23.5
-2015,,Drochia,20.9
-2015,,Edinet,25.8
-2015,,Falesti,13.0
-2015,,Floresti,19.2
-2015,,Glodeni,19.3
-2015,,Ocnita,21.1
-2015,,Rascani,21.2
-2015,,Sangerei,16.7
-2015,,Soroca,25.6
-2015,,Centre,19.2
-2015,,Anenii Noi,19.0
-2015,,Calarasi,20.8
-2015,,Criuleni,18.9
-2015,,Dubasari,12.5
-2015,,Hancesti,21.2
-2015,,Ialoveni,20.0
-2015,,Nisporeni,18.6
-2015,,Orhei,21.3
-2015,,Rezina,16.6
-2015,,Straseni,20.3
-2015,,Soldanesti,19.2
-2015,,Telenesti,18.7
-2015,,Ungheni,16.8
-2015,,Sud,18.4
-2015,,Basarabeasca,23.2
-2015,,Cahul,22.3
-2015,,Cantemir,15.0
-2015,,Causeni,17.4
-2015,,Cimislia,19.8
-2015,,Leova,15.5
-2015,,Stefan Voda,16.6
-2015,,Taraclia,15.9
-2015,,UTA Găgăuzia,25.2
-2016,,,46.9
-2016,Numărul personalului medical la 10 000 populație,,91.6
+2015,,Total for the country,133.1
+2015,,Mun. Chișinău,81.0
+2015,,Nord,94.1
+2015,,mun. Balti,164.2
+2015,,Briceni,80.2
+2015,,Donduseni,89.4
+2015,,Drochia,86.7
+2015,,Edinet,93.6
+2015,,Falesti,70.5
+2015,,Floresti,80.3
+2015,,Glodeni,78.3
+2015,,Ocnita,89.0
+2015,,Rascani,87.6
+2015,,Sangerei,71.7
+2015,,Soroca,99.9
+2015,,Centre,70.9
+2015,,Anenii Noi,63.2
+2015,,Calarasi,75.0
+2015,,Criuleni,63.7
+2015,,Dubasari,42.8
+2015,,Hancesti,71.5
+2015,,Ialoveni,59.9
+2015,,Nisporeni,79.6
+2015,,Orhei,85.8
+2015,,Rezina,77.7
+2015,,Straseni,64.8
+2015,,Soldanesti,78.4
+2015,,Telenesti,73.2
+2015,,Ungheni,75.5
+2015,,Sud,79.7
+2015,,Basarabeasca,89.1
+2015,,Cahul,86.4
+2015,,Cantemir,80.3
+2015,,Causeni,76.8
+2015,,Cimislia,82.0
+2015,,Leova,71.6
+2015,,Stefan Voda,72.8
+2015,,Taraclia,79.6
+2015,,UTA Găgăuzia,107.3
+2016,Number of health workers per 10 000 population,,138.5
+2016,Physicians per 10 000 population,,46.9
+2016,Number of nursing and midwifery personnel per 10 000 population,,91.6
 2016,Numărul de stomatologi și dentiști la 10 000 populație,,6.2
 2016,Numărul de farmaciști la 10 000 populație,,5.9
-2016,,Mun. Chișinău,33.2
-2016,,Nord,23.8
-2016,,mun. Balti,47.8
-2016,,Briceni,21.4
-2016,,Donduseni,22.7
-2016,,Drochia,19.0
-2016,,Edinet,27.2
-2016,,Falesti,13.5
-2016,,Floresti,19.0
-2016,,Glodeni,19.6
-2016,,Ocnita,20.5
-2016,,Rascani,20.2
-2016,,Sangerei,17.0
-2016,,Soroca,25.0
-2016,,Centre,19.9
-2016,,Anenii Noi,20.1
-2016,,Calarasi,22.6
-2016,,Criuleni,20.2
-2016,,Dubasari,12.6
-2016,,Hancesti,21.5
-2016,,Ialoveni,20.4
-2016,,Nisporeni,19.0
-2016,,Orhei,22.4
-2016,,Rezina,18.6
-2016,,Straseni,20.4
-2016,,Soldanesti,19.5
-2016,,Telenesti,18.4
-2016,,Ungheni,16.9
-2016,,Sud,18.6
-2016,,Basarabeasca,21.7
-2016,,Cahul,23.4
-2016,,Cantemir,15.9
-2016,,Causeni,16.8
-2016,,Cimislia,21.7
-2016,,Leova,14.9
-2016,,Stefan Voda,16.4
-2016,,Taraclia,15.7
-2016,,UTA Găgăuzia,24.8
-2017,,,47.7
-2017,Numărul personalului medical la 10 000 populație,,92.0
+2016,,Total for the country,138.5
+2016,,Mun. Chișinău,81.8
+2016,,Nord,93.0
+2016,,mun. Balti,165.9
+2016,,Briceni,78.8
+2016,,Donduseni,88.2
+2016,,Drochia,81.6
+2016,,Edinet,96.3
+2016,,Falesti,68.8
+2016,,Floresti,80.5
+2016,,Glodeni,76.6
+2016,,Ocnita,81.3
+2016,,Rascani,86.7
+2016,,Sangerei,72.3
+2016,,Soroca,97.2
+2016,,Centre,70.9
+2016,,Anenii Noi,64.5
+2016,,Calarasi,76.0
+2016,,Criuleni,64.1
+2016,,Dubasari,45.5
+2016,,Hancesti,70.1
+2016,,Ialoveni,58.0
+2016,,Nisporeni,79.4
+2016,,Orhei,86.2
+2016,,Rezina,80.3
+2016,,Straseni,63.6
+2016,,Soldanesti,76.3
+2016,,Telenesti,72.3
+2016,,Ungheni,76.7
+2016,,Sud,79.1
+2016,,Basarabeasca,87.2
+2016,,Cahul,88.6
+2016,,Cantemir,78.9
+2016,,Causeni,74.7
+2016,,Cimislia,82.6
+2016,,Leova,68.0
+2016,,Stefan Voda,71.7
+2016,,Taraclia,79.7
+2016,,UTA Găgăuzia,108.9
+2017,Number of health workers per 10 000 population,,139.7
+2017,Physicians per 10 000 population,,47.7
+2017,Number of nursing and midwifery personnel per 10 000 population,,92.0
 2017,Numărul de stomatologi și dentiști la 10 000 populație,,6.3
 2017,Numărul de farmaciști la 10 000 populație,,6.0
-2017,,Mun. Chișinău,32.6
-2017,,Nord,23.7
-2017,,mun. Balti,47.5
-2017,,Briceni,22.1
-2017,,Donduseni,22.5
-2017,,Drochia,18.1
-2017,,Edinet,27.6
-2017,,Falesti,13.8
-2017,,Floresti,19.1
-2017,,Glodeni,19.7
-2017,,Ocnita,19.5
-2017,,Rascani,19.9
-2017,,Sangerei,16.9
-2017,,Soroca,24.9
-2017,,Centre,20.7
-2017,,Anenii Noi,21.6
-2017,,Calarasi,23.4
-2017,,Criuleni,20.9
-2017,,Dubasari,13.0
-2017,,Hancesti,21.6
-2017,,Ialoveni,22.1
-2017,,Nisporeni,19.9
-2017,,Orhei,23.5
-2017,,Rezina,18.6
-2017,,Straseni,21.7
-2017,,Soldanesti,18.2
-2017,,Telenesti,19.9
-2017,,Ungheni,17.6
-2017,,Sud,19.2
-2017,,Basarabeasca,24.0
-2017,,Cahul,24.9
-2017,,Cantemir,15.6
-2017,,Causeni,17.2
-2017,,Cimislia,22.7
-2017,,Leova,14.7
-2017,,Stefan Voda,17.0
-2017,,Taraclia,14.8
-2017,,UTA Găgăuzia,23.9
-2018,,,47.1
-2018,Numărul personalului medical la 10 000 populație,,89.3
+2017,,Total for the country,139.7
+2017,,Mun. Chișinău,80.7
+2017,,Nord,93.1
+2017,,mun. Balti,165.4
+2017,,Briceni,80.9
+2017,,Donduseni,88.0
+2017,,Drochia,78.4
+2017,,Edinet,99.1
+2017,,Falesti,68.8
+2017,,Floresti,82.0
+2017,,Glodeni,76.6
+2017,,Ocnita,79.2
+2017,,Rascani,86.9
+2017,,Sangerei,70.8
+2017,,Soroca,97.3
+2017,,Centre,71.6
+2017,,Anenii Noi,69.3
+2017,,Calarasi,77.9
+2017,,Criuleni,63.8
+2017,,Dubasari,47.1
+2017,,Hancesti,70.1
+2017,,Ialoveni,61.9
+2017,,Nisporeni,79.0
+2017,,Orhei,86.2
+2017,,Rezina,78.6
+2017,,Straseni,63.4
+2017,,Soldanesti,66.9
+2017,,Telenesti,73.7
+2017,,Ungheni,77.7
+2017,,Sud,80.1
+2017,,Basarabeasca,89.3
+2017,,Cahul,94.1
+2017,,Cantemir,79.4
+2017,,Causeni,73.1
+2017,,Cimislia,83.0
+2017,,Leova,70.8
+2017,,Stefan Voda,71.0
+2017,,Taraclia,76.6
+2017,,UTA Găgăuzia,102.2
+2018,Number of health workers per 10 000 population,,136.4
+2018,Physicians per 10 000 population,,47.1
+2018,Number of nursing and midwifery personnel per 10 000 population,,89.3
 2018,Numărul de stomatologi și dentiști la 10 000 populație,,6.4
 2018,Numărul de farmaciști la 10 000 populație,,6.3
-2018,,Mun. Chișinău,31.7
-2018,,Nord,23.2
-2018,,mun. Balti,45.1
-2018,,Briceni,21.9
-2018,,Donduseni,21.4
-2018,,Drochia,18.3
-2018,,Edinet,27.8
-2018,,Falesti,13.8
-2018,,Floresti,18.4
-2018,,Glodeni,19.5
-2018,,Ocnita,19.3
-2018,,Rascani,18.5
-2018,,Sangerei,17.1
-2018,,Soroca,23.8
-2018,,Centre,20.3
-2018,,Anenii Noi,20.6
-2018,,Calarasi,21.9
-2018,,Criuleni,21.4
-2018,,Dubasari,14.1
-2018,,Hancesti,21.5
-2018,,Ialoveni,21.7
-2018,,Nisporeni,19.2
-2018,,Orhei,24.6
-2018,,Rezina,17.8
-2018,,Straseni,20.2
-2018,,Soldanesti,18.6
-2018,,Telenesti,18.6
-2018,,Ungheni,17.3
-2018,,Sud,18.7
-2018,,Basarabeasca,23.4
-2018,,Cahul,23.7
-2018,,Cantemir,15.9
-2018,,Causeni,17.1
-2018,,Cimislia,21.3
-2018,,Leova,15.4
-2018,,Stefan Voda,16.4
-2018,,Taraclia,14.6
-2018,,UTA Găgăuzia,23.2
-2019,,,47.5
-2019,Numărul personalului medical la 10 000 populație,,89.2
+2018,,Total for the country,136.4
+2018,,Mun. Chișinău,78.3
+2018,,Nord,91.1
+2018,,mun. Balti,157.6
+2018,,Briceni,80.2
+2018,,Donduseni,85.4
+2018,,Drochia,77.3
+2018,,Edinet,100.2
+2018,,Falesti,66.0
+2018,,Floresti,80.7
+2018,,Glodeni,74.9
+2018,,Ocnita,79.5
+2018,,Rascani,81.2
+2018,,Sangerei,71.6
+2018,,Soroca,96.2
+2018,,Centre,70.9
+2018,,Anenii Noi,64.0
+2018,,Calarasi,77.3
+2018,,Criuleni,65.5
+2018,,Dubasari,49.2
+2018,,Hancesti,70.4
+2018,,Ialoveni,59.9
+2018,,Nisporeni,84.5
+2018,,Orhei,85.8
+2018,,Rezina,76.7
+2018,,Straseni,61.4
+2018,,Soldanesti,72.9
+2018,,Telenesti,70.5
+2018,,Ungheni,75.7
+2018,,Sud,78.4
+2018,,Basarabeasca,92.7
+2018,,Cahul,91.5
+2018,,Cantemir,81.8
+2018,,Causeni,71.7
+2018,,Cimislia,78.6
+2018,,Leova,67.6
+2018,,Stefan Voda,67.8
+2018,,Taraclia,75.8
+2018,,UTA Găgăuzia,99.5
+2019,Number of health workers per 10 000 population,,136.7
+2019,Physicians per 10 000 population,,47.5
+2019,Number of nursing and midwifery personnel per 10 000 population,,89.2
 2019,Numărul de stomatologi și dentiști la 10 000 populație,,6.4
 2019,Numărul de farmaciști la 10 000 populație,,6.9
-2019,,Mun. Chișinău,31.2
-2019,,Nord,23.3
-2019,,mun. Balti,44.7
-2019,,Briceni,22.8
-2019,,Donduseni,21.0
-2019,,Drochia,18.2
-2019,,Edinet,27.4
-2019,,Falesti,13.6
-2019,,Floresti,19.0
-2019,,Glodeni,19.6
-2019,,Ocnita,19.7
-2019,,Rascani,18.9
-2019,,Sangerei,16.5
-2019,,Soroca,24.9
-2019,,Centre,20.9
-2019,,Anenii Noi,21.4
-2019,,Calarasi,22.5
-2019,,Criuleni,22.9
-2019,,Dubasari,13.6
-2019,,Hancesti,20.7
-2019,,Ialoveni,21.6
-2019,,Nisporeni,20.2
-2019,,Orhei,24.3
-2019,,Rezina,18.4
-2019,,Straseni,21.5
-2019,,Soldanesti,20.1
-2019,,Telenesti,21.1
-2019,,Ungheni,17.9
-2019,,Sud,18.9
-2019,,Basarabeasca,23.2
-2019,,Cahul,24.1
-2019,,Cantemir,15.6
-2019,,Causeni,17.7
-2019,,Cimislia,20.5
-2019,,Leova,16.2
-2019,,Stefan Voda,16.6
-2019,,Taraclia,14.5
-2019,,UTA Găgăuzia,23.4
-2020,,,47.2
-2020,Numărul personalului medical la 10 000 populație,,88.3
+2019,,Total for the country,136.7
+2019,,Mun. Chișinău,76.6
+2019,,Nord,90.3
+2019,,mun. Balti,154.0
+2019,,Briceni,80.2
+2019,,Donduseni,84.3
+2019,,Drochia,76.2
+2019,,Edinet,100.8
+2019,,Falesti,66.8
+2019,,Floresti,78.6
+2019,,Glodeni,75.9
+2019,,Ocnita,78.9
+2019,,Rascani,80.1
+2019,,Sangerei,69.9
+2019,,Soroca,96.5
+2019,,Centre,71.9
+2019,,Anenii Noi,66.1
+2019,,Calarasi,77.8
+2019,,Criuleni,67.5
+2019,,Dubasari,47.4
+2019,,Hancesti,70.5
+2019,,Ialoveni,58.1
+2019,,Nisporeni,86.8
+2019,,Orhei,86.7
+2019,,Rezina,76.9
+2019,,Straseni,62.5
+2019,,Soldanesti,79.9
+2019,,Telenesti,75.0
+2019,,Ungheni,75.5
+2019,,Sud,79.1
+2019,,Basarabeasca,89.2
+2019,,Cahul,92.5
+2019,,Cantemir,80.8
+2019,,Causeni,73.5
+2019,,Cimislia,80.2
+2019,,Leova,69.9
+2019,,Stefan Voda,68.6
+2019,,Taraclia,74.4
+2019,,UTA Găgăuzia,97.5
+2020,Number of health workers per 10 000 population,,135.5
+2020,Physicians per 10 000 population,,47.2
+2020,Number of nursing and midwifery personnel per 10 000 population,,88.3
 2020,Numărul de stomatologi și dentiști la 10 000 populație,,6.3
 2020,Numărul de farmaciști la 10 000 populație,,4.6
-2020,,Mun. Chișinău,30.7
-2020,,Nord,21.9
-2020,,mun. Balti,40.4
-2020,,Briceni,21.6
-2020,,Donduseni,19.3
-2020,,Drochia,17.5
-2020,,Edinet,26.4
-2020,,Falesti,13.3
-2020,,Floresti,18.0
-2020,,Glodeni,18.7
-2020,,Ocnita,18.4
-2020,,Rascani,17.2
-2020,,Sangerei,16.2
-2020,,Soroca,23.2
-2020,,Centre,20.2
-2020,,Anenii Noi,21.9
-2020,,Calarasi,23.0
-2020,,Criuleni,20.8
-2020,,Dubasari,14.4
-2020,,Hancesti,19.4
-2020,,Ialoveni,20.7
-2020,,Nisporeni,18.6
-2020,,Orhei,23.9
-2020,,Rezina,15.9
-2020,,Straseni,21.6
-2020,,Soldanesti,20.5
-2020,,Telenesti,19.2
-2020,,Ungheni,17.2
-2020,,Sud,18.6
-2020,,Basarabeasca,22.3
-2020,,Cahul,23.1
-2020,,Cantemir,16.1
-2020,,Causeni,18.1
-2020,,Cimislia,20.8
-2020,,Leova,14.7
-2020,,Stefan Voda,16.1
-2020,,Taraclia,14.6
-2020,,UTA Găgăuzia,22.5
-2021,,,46.9
-2021,Numărul personalului medical la 10 000 populație,,92.0
+2020,,Total for the country,135.5
+2020,,Mun. Chișinău,74.5
+2020,,Nord,87.6
+2020,,mun. Balti,145.1
+2020,,Briceni,78.3
+2020,,Donduseni,82.8
+2020,,Drochia,75.2
+2020,,Edinet,98.0
+2020,,Falesti,64.8
+2020,,Floresti,77.9
+2020,,Glodeni,74.1
+2020,,Ocnita,76.7
+2020,,Rascani,79.5
+2020,,Sangerei,69.2
+2020,,Soroca,91.3
+2020,,Centre,71.0
+2020,,Anenii Noi,68.0
+2020,,Calarasi,77.9
+2020,,Criuleni,66.3
+2020,,Dubasari,49.4
+2020,,Hancesti,68.8
+2020,,Ialoveni,58.4
+2020,,Nisporeni,84.7
+2020,,Orhei,87.2
+2020,,Rezina,71.3
+2020,,Straseni,61.5
+2020,,Soldanesti,77.7
+2020,,Telenesti,71.7
+2020,,Ungheni,74.6
+2020,,Sud,78.1
+2020,,Basarabeasca,82.3
+2020,,Cahul,90.8
+2020,,Cantemir,82.1
+2020,,Causeni,73.6
+2020,,Cimislia,81.0
+2020,,Leova,68.6
+2020,,Stefan Voda,68.1
+2020,,Taraclia,70.7
+2020,,UTA Găgăuzia,97.1
+2021,Number of health workers per 10 000 population,,138.9
+2021,Physicians per 10 000 population,,46.9
+2021,Number of nursing and midwifery personnel per 10 000 population,,92.0
 2021,Numărul de stomatologi și dentiști la 10 000 populație,,5.9
 2021,Numărul de farmaciști la 10 000 populație,,6.7
-2021,,Mun. Chișinău,30.3
-2021,,Nord,21.4
-2021,,mun. Balti,39.5
-2021,,Briceni,20.3
-2021,,Donduseni,18.5
-2021,,Drochia,17.0
-2021,,Edinet,25.7
-2021,,Falesti,12.3
-2021,,Floresti,17.5
-2021,,Glodeni,18.6
-2021,,Ocnita,18.0
-2021,,Rascani,18.0
-2021,,Sangerei,16.2
-2021,,Soroca,22.5
-2021,,Centre,20.7
-2021,,Anenii Noi,22.4
-2021,,Calarasi,22.7
-2021,,Criuleni,20.4
-2021,,Dubasari,14.2
-2021,,Hancesti,19.9
-2021,,Ialoveni,21.8
-2021,,Nisporeni,19.3
-2021,,Orhei,24.4
-2021,,Rezina,19.3
-2021,,Straseni,21.8
-2021,,Soldanesti,20.7
-2021,,Telenesti,19.5
-2021,,Ungheni,17.5
-2021,,Sud,18.8
-2021,,Basarabeasca,23.2
-2021,,Cahul,22.8
-2021,,Cantemir,15.9
-2021,,Causeni,20.2
-2021,,Cimislia,21.2
-2021,,Leova,15.3
-2021,,Stefan Voda,14.6
-2021,,Taraclia,13.9
-2021,,UTA Găgăuzia,21.9
-2022,,,
-2022,Numărul personalului medical la 10 000 populație,,
+2021,,Total for the country,138.9
+2021,,Mun. Chișinău,75.4
+2021,,Nord,87.2
+2021,,mun. Balti,146.1
+2021,,Briceni,76.8
+2021,,Donduseni,78.9
+2021,,Drochia,73.5
+2021,,Edinet,96.9
+2021,,Falesti,62.6
+2021,,Floresti,80.2
+2021,,Glodeni,75.2
+2021,,Ocnita,75.0
+2021,,Rascani,80.7
+2021,,Sangerei,70.0
+2021,,Soroca,88.8
+2021,,Centre,71.8
+2021,,Anenii Noi,68.3
+2021,,Calarasi,76.7
+2021,,Criuleni,67.3
+2021,,Dubasari,49.8
+2021,,Hancesti,69.3
+2021,,Ialoveni,60.4
+2021,,Nisporeni,84.9
+2021,,Orhei,88.3
+2021,,Rezina,75.4
+2021,,Straseni,62.1
+2021,,Soldanesti,76.2
+2021,,Telenesti,72.1
+2021,,Ungheni,75.9
+2021,,Sud,79.2
+2021,,Basarabeasca,86.3
+2021,,Cahul,92.1
+2021,,Cantemir,80.2
+2021,,Causeni,76.2
+2021,,Cimislia,83.2
+2021,,Leova,69.7
+2021,,Stefan Voda,68.3
+2021,,Taraclia,70.3
+2021,,UTA Găgăuzia,97.4
+2022,Number of health workers per 10 000 population,,
+2022,Physicians per 10 000 population,,
+2022,Number of nursing and midwifery personnel per 10 000 population,,
 2022,Numărul de stomatologi și dentiști la 10 000 populație,,
 2022,Numărul de farmaciști la 10 000 populație,,
+2022,,Total for the country,
 2022,,Mun. Chișinău,
 2022,,Nord,
 2022,,mun. Balti,

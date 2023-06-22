@@ -20,7 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Numărul personalului medical la 10 000 populație",
+                "Number of health workers per 10 000 population",
+                "Physicians per 10 000 population",
+                "Number of nursing and midwifery personnel per 10 000 population",
                 "Numărul de stomatologi și dentiști la 10 000 populație",
                 "Numărul de farmaciști la 10 000 populație",
                 ""
@@ -29,10 +31,11 @@
             "title": "Indicatori"
           },
           {
-            "name": "Districts",
+            "name": "Health workers per 10.000 population, in teritorial aspect",
             "type": "string",
             "constraints": {
               "enum": [
+                "Total for the country",
                 "Mun. Chișinău",
                 "Nord",
                 "mun. Balti",
@@ -74,7 +77,7 @@
                 ""
               ]
             },
-            "title": "Raioane"
+            "title": "Health workers per 10.000 population, in teritorial aspect"
           },
           {
             "name": "Value",
