@@ -31,13 +31,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  event, produced as a result of the violation of the traffic rules, in which one or more vehicles in circulation on the public road were involved, resulting in injury to health, bodily integrity, the death of one or more persons or material damage was caused
+  Event, produced as a result of the violation of the traffic rules, in which one or more vehicles in circulation on the public road were involved, resulting in injury to health, bodily integrity, the death of one or more persons or material damage was caused
 UNIT_MEASURE: >-
   number
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  1)Administrative statistical data of the MAI 2) Demographic data regarding thenumber of popultion NBS
+  <p> 1)Administrative statistical data of the MAI </p> 
+  <p>2) Demographic data regarding thenumber of popultion NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -45,12 +46,12 @@ DATA_SOURCE: >-
   General Police Inspectorate of the Ministry of Internal Affairs, National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Health, Labour an Social Protesction
+  Ministry of Internal Affairs
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number of road traffic injuries an fatalitie aut of total population *100 000
+  Total number of road accidents related to the total population *100 000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,7 +59,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The indicator is composet of two parts: number of road traffic accidents related to total number population *100 000
+  National indicator
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

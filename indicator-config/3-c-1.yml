@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Per 10 000 population
+computation_units: Per 10.000 population
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3.c.1 Number of health workers in average per 10,000 population
+graph_title: national_indicators.3-c-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Number of health workers in average per 10,000 population
+indicator_available: national_indicators.3-c-1-title
 indicator_name: global_indicators.3-c-1-title
 indicator_number: 3.c.1
 indicator_tabs:: 

@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.c.1.c: Ponderea personalului pedagogic cu, cel puțin, calificarea minimă necesară, pe nivele educaționale</p>
+  <p>Indicator 4.c.1.c: Ponderea personalului pedagogic cu studii în domeniul pedagogiei în nivelul  secundar general (clasele 5-12)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.c: Sporirea substanțială a numărului de profesori calificați, până în 2030,  inclusiv prin cooperare internațională pentru instruirea profesorilor în  țările în curs de dezvoltare, în special în cele cel mai puțin dezvoltate și  statele insulare mici în curs de dezvoltare</p>
+  <p>Target 4.c: Sporirea substanțială a numărului de profesori calificați, până în 2030, inclusiv prin cooperare internațională pentru instruirea profesorilor în țările în curs de dezvoltare, în special în cele cel mai puțin dezvoltate și statele insulare mici în curs de dezvoltare</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Education and Scientific Cultural Organisation - Institute of  Statistics (UNESCO-UIS)
@@ -59,7 +59,7 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
   <p> Global: personal pedagogic cu nivel minim de instruire pentru a preda conform  cerințelor naționale</p> 
-  <p>    Național: personal pedagogic cu studii în  domeniul  pedagogiei sau cursuri de psihopedagogie de un an </p>
+  <p>Național: personal pedagogic cu studii în  domeniul  pedagogiei sau cursuri de psihopedagogie de un an </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

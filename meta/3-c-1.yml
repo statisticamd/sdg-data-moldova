@@ -8,16 +8,17 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  Density of physicians, nursing and midwifery personnel, dentistry personnel,  and pharmaceutical personnel per 1,000 persons
+  Density of physicians, nursing and midwifery personnel, dentistry personnel,  and pharmaceutical personnel per 10 000 persons
 SDG_GOAL: ''
 target_id: >-
+  3.c
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-0C-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 207 KB)
 SDG_INDICATOR: >-
-  <p>Indicator 3.c.1: Number of health workers in average per 10,000 population</p>
+  <p>Indicator 3.c.1: Health worker density and distribution</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,12 +33,14 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> The medical personnel is divided into doctors and paramedical personnel. The  indicator is collected according to the classification ISCO-08.</p> 
-  <p>  Doctors:  221, 2211 (medical family doctors/general practitioners: scientific researcher  in medicine, intern scientific researcher in medicine, inspector-doctor,  medical family doctor, general medicine doctor, resident doctor, intern) and   2212 (specialist doctors). </p> 
-  <p>  Paramedical personnel:  2221 (generalist  nurses: nurse (higher education), family doctor nurse, emergency nurse,  dietary nurse, radiologist nurse, anesthesia and reanimation nurse, functional  diagnosis nurse, radiological diagnosis nurse, nurse in sanitary education for  health, nurse in intensive care for children, nurse in surgery rooms, dietary  nurse), 2222 (midwives), 3221 (assistants: medical assistants (secondary  level), inferior charity assistant, charity medical assistant, inferior  medical assistant for patients' care, epidemiologist medical assistant,  hygienist medical assistant, lab diagnosis medical assistant, rehabilitation  medical assistant (physical therapy, kineto-therapy, massage,  balneal-therapy)) and 3222 (nursing professionals: nurse in neonatology,  midwife (secondary qualification)). </p> 
-  <p>  Dentists: 2261 (dentist, specialist  dentist, resident dentist), 3214 (technician for medical and dental  protection: feldsher prosthesis, excluding the dental prosthetic technicians)  and 3251 (dental technician).</p> 
-  <p>  Pharmacists: 2262 (pharmacist, specialist  pharmacist, resident pharmacist, inspector-pharmacist) and 3213 (pharmacy  technicians and assistants: pharmacist assistant, inferior pharmacist,  pharmacist lab technician). </p>
+  <p>Density of medical doctors: The density of medical doctors is defined as the number of medical doctors, including generalists and specialist medical practitioners per 10,000 population in the given national and/or subnational area. The International Standard Classification of Occupations (ISCO) unit group codes included in this category are 221, 2211 and 2212 of ISCO-08.</p> 
+  <p>Density of nursing and midwifery personnel: The density of nursing and midwifery personnel is defined as the number of nursing and midwifery personnel per 10,000 population in the given national and/or subnational area. The ISCO-08 codes included in this category are 2221, 2222, 3221 and 3222 (nurses and midwives) and also includes other health professionals with vocational training.</p> 
+  <p></p> 
+  <p>Density of dentists: The density of dentists is defined as the number of dentists per 10,000 population in the given national and/or subnational area. The ISCO-08 codes included in this category are 2261, 3214, 3251.</p> 
+  <p></p> 
+  <p>Density of pharmacists: The density of pharmacists is defined as the number of pharmacists per 10,000 population in the given national and/or subnational area. The ISCO-08 codes included in this category are 2262, 3213. </p>
 UNIT_MEASURE: >-
-  Per 10 000 population
+  Per 10.000 population
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -63,7 +66,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  At the global level reported per 1000 population.
+  At the global level reported per 10000 population.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -71,7 +74,7 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
+  National Agency for Public Health
 source_periodicity_1: >-
   Annual
 source_url_1: >-

@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.c.1.c: Proportion of teachers with the minimum required qualifications, by education level</p>
+  <p>Indicator 4.c.1.c: Proportion of teachers with pedagogical education in general secondary  education (5-12 grades)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.c: By 2030, substantially increase the supply of qualified teachers, including   through international cooperation for teacher training in developing   countries, especially least developed countries and small island developing  States By 2030, substantially increase the supply of qualified teachers,  including through international cooperation for teacher training in developing  countries, especially least developed countries and small island developing  States</p>
+  <p>Target 4.c: By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Education and Scientific Cultural Organisation - Institute of  Statistics (UNESCO-UIS)
@@ -31,7 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Pedagogical education will be considered pedagogical studies, before getting   the job or during the teaching activity, or if such studies are missing -  psychopedagogy courses for one year Pedagogical education will be considered  pedagogical studies, before getting the job or during the teaching activity,  or if such studies are missing - psychopedagogy courses for one year .
+  Pedagogical education will be considered pedagogical studies, before getting   the job or during the teaching activity, or if such studies are missing -  psychopedagogy courses for one year Pedagogical education will be considered  pedagogical studies, before getting the job or during the teaching activity,  or if such studies are missing - psychopedagogy courses for one year.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -58,8 +58,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements                     </p> 
-  <p>    National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year Global: teaching personnel with minimum level of education to teach  according to national requirements                     National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year </p>
+  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements</p> 
+  <p>National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year Global: teaching personnel with minimum level of education to teach  according to national requirements </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

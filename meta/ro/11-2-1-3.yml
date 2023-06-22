@@ -37,7 +37,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  1)Date statistice administrative MAI 2)Date demografice privind numărul populației BNS
+  <p> 1)Date statistice administrative MAI </p> 
+  <p>2)Date demografice privind numărul populației BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -45,12 +46,12 @@ DATA_SOURCE: >-
   Inpectoratul General al poliției, Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Sănătății, Muncii și Protecției Sociale
+  Ministerul Afacerilor Interne
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  numărul total de decedați raportat la total populație * 100 000
+  Numărul total de accidente rutiere raportat la total populație * 100 000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,7 +59,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  indicatorul este format din numărul accidentelor raportate la numărul populației
+  Indicator național
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
