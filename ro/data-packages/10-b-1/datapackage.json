@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Foreign assistance management platform (AMP)",
+                "Annual reports on foreign assistance of the Ministry of Finance ",
+                ""
+              ]
+            },
+            "title": "Source"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prut river",
-                "Dniester river",
+                "Râul Prut",
+                "Râul Nistru",
                 ""
               ]
             },

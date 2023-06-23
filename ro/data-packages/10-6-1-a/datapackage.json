@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN General Assembly (UNGA)",
-                "International Finance Corporation (IFC)",
-                "International Bank for Reconstruction and Development (IBRD)",
-                "International Monetary Fund (IMF)",
-                "Economic and Social Council - the United Nations (ECOSOC)",
-                "World Trade Organization (WTO)",
+                "Adunarea Generală a ONU (UNGA)",
+                "Corporația Financiară Internațională  (IFC)",
+                "Banca Internațională pentru Reconstrucție și Dezvoltare (IBRD)",
+                "Fondul Monetar Internațional (IMF)",
+                "Consiliul Economic și Social al Organizației Națiunilor Unite (ECOSOC)",
+                "Organizația Mondială a Comerțului (WTO)",
                 ""
               ]
             },

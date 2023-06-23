@@ -1167,7 +1167,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -1402,7 +1402,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -1497,7 +1497,7 @@
             "constraints": {
               "enum": [
                 "North ",
-                "Centre",
+                "Centru",
                 "Sud",
                 "Mun. Chișinău",
                 "UTA Găgăuzia",
@@ -1849,6 +1849,30 @@
         ]
       },
       "title": "Prevalența retardului ponderal printre copii în vârstă de până la 5 ani"
+    },
+    {
+      "path": "6-b-1/data.csv",
+      "name": "6-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
       "path": "9-1-1/data.csv",
@@ -3192,7 +3216,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -3865,12 +3889,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN General Assembly (UNGA)",
-                "International Finance Corporation (IFC)",
-                "International Bank for Reconstruction and Development (IBRD)",
-                "International Monetary Fund (IMF)",
-                "Economic and Social Council - the United Nations (ECOSOC)",
-                "World Trade Organization (WTO)",
+                "Adunarea Generală a ONU (UNGA)",
+                "Corporația Financiară Internațională  (IFC)",
+                "Banca Internațională pentru Reconstrucție și Dezvoltare (IBRD)",
+                "Fondul Monetar Internațional (IMF)",
+                "Consiliul Economic și Social al Organizației Națiunilor Unite (ECOSOC)",
+                "Organizația Mondială a Comerțului (WTO)",
                 ""
               ]
             },
@@ -3907,7 +3931,7 @@
           }
         ]
       },
-      "title": "2  Ponderea unităților de transport public accesibile persoanelor cu dizabilități"
+      "title": "Ponderea unităților de transport public accesibile persoanelor cu dizabilități"
     },
     {
       "path": "3-5-2-1/data.csv",
@@ -5512,7 +5536,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -7090,7 +7114,7 @@
           }
         ]
       },
-      "title": "3 Rata accidentelor rutiere la 100.000 populație"
+      "title": "Rata accidentelor rutiere la 100.000 populație"
     },
     {
       "path": "16-1-3-1/data.csv",
@@ -8200,9 +8224,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of health workers per 10 000 population",
-                "Physicians per 10 000 population",
-                "Number of nursing and midwifery personnel per 10 000 population",
+                "Numărul personalului medical  la 10 000 populatie",
+                "Numărul de medici la 10 000 populație",
+                "Numărul personalului medical cu studii medii la 10 000 populație",
                 "Numărul de stomatologi și dentiști la 10 000 populație",
                 "Numărul de farmaciști la 10 000 populație",
                 ""
@@ -8215,7 +8239,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total for the country",
+                "Total țară",
                 "Mun. Chișinău",
                 "Nord",
                 "mun. Balti",
@@ -8230,7 +8254,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -8257,7 +8281,7 @@
                 ""
               ]
             },
-            "title": "Health workers per 10.000 population, in teritorial aspect"
+            "title": "Personal medical la 10.000 populație, în aspect teritorial"
           },
           {
             "name": "Value",
@@ -8290,8 +8314,8 @@
               "enum": [
                 "Agricultura, silvicultura și pescuit",
                 "Industria extractivă",
-                "Manufacturing industry",
-                "Production and supply of electricity and thermal energy, gas and hot water",
+                "Industria prelucrătoare",
+                "Production and supply of electricity and heat, gas and hot water",
                 "Alte activități",
                 ""
               ]
@@ -8777,7 +8801,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -9125,8 +9149,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prut river",
-                "Dniester river",
+                "Râul Prut",
+                "Râul Nistru",
                 ""
               ]
             },
@@ -9620,6 +9644,30 @@
       "title": "Ponderea populației cu cheltuielile lunare pentru întreținerea locuinței care depășesc 30% din veniturile disponibile lunare ale gospodăriei (accesibilitate - locuință adecvată)"
     },
     {
+      "path": "14-7-1-1/data.csv",
+      "name": "14-7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea pescuitului în PIB"
+    },
+    {
       "path": "10-7-2-1/data.csv",
       "name": "10-7-2-1",
       "profile": "tabular-data-resource",
@@ -9696,6 +9744,42 @@
         ]
       },
       "title": "Implementarea cadrului normativ care garantează femeilor și bărbaților în vârstă de 15-49 ani accesul la sănătatea sexuală și reproductivă, informare și educare"
+    },
+    {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Foreign assistance management platform (AMP)",
+                "Annual reports on foreign assistance of the Ministry of Finance ",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "16-4-2-2/data.csv",
@@ -11347,12 +11431,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN General Assembly (UNGA)",
-                "International Finance Corporation (IFC)",
-                "International Bank for Reconstruction and Development (IBRD)",
-                "International Monetary Fund (IMF)",
-                "Economic and Social Council - the United Nations (ECOSOC)",
-                "World Trade Organization (WTO)",
+                "Adunarea Generală a ONU (UNGA)",
+                "Corporația Financiară Internațională  (IFC)",
+                "Banca Internațională pentru Reconstrucție și Dezvoltare (IBRD)",
+                "Fondul Monetar Internațional (IMF)",
+                "Consiliul Economic și Social al Organizației Națiunilor Unite (ECOSOC)",
+                "Organizația Mondială a Comerțului (WTO)",
                 ""
               ]
             },
@@ -12654,7 +12738,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -15465,30 +15549,6 @@
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
-    },
-    {
       "path": "11-4-1/data.csv",
       "name": "11-4-1",
       "profile": "tabular-data-resource",
@@ -15535,30 +15595,6 @@
         ]
       },
       "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
-    },
-    {
-      "path": "6-b-1/data.csv",
-      "name": "6-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
       "path": "12-b-1/data.csv",

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of health workers per 10 000 population",
-                "Physicians per 10 000 population",
-                "Number of nursing and midwifery personnel per 10 000 population",
+                "Numărul personalului medical  la 10 000 populatie",
+                "Numărul de medici la 10 000 populație",
+                "Numărul personalului medical cu studii medii la 10 000 populație",
                 "Numărul de stomatologi și dentiști la 10 000 populație",
                 "Numărul de farmaciști la 10 000 populație",
                 ""
@@ -35,7 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total for the country",
+                "Total țară",
                 "Mun. Chișinău",
                 "Nord",
                 "mun. Balti",
@@ -50,7 +50,7 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
+                "Centru",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -77,7 +77,7 @@
                 ""
               ]
             },
-            "title": "Health workers per 10.000 population, in teritorial aspect"
+            "title": "Personal medical la 10.000 populație, în aspect teritorial"
           },
           {
             "name": "Value",
