@@ -37,7 +37,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Recensământ sau cercetări statistice în gospodării cu modul separat privind  percepțiile populației (de tip CBGC, MICS, sau altele) cu integrarea modului  care va fi elaborat de FAO și Un Women (modulul ar include si colectarea de  date privind proporția populației cu documente de proprietate asupra  terenurilor =(a) din 1.4.2)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -56,7 +55,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Indicatorul național reprezintă o parte componentă a indicatorului global  (indicatorul global reprezintă suma ponderată a valorilor (a) si (b) ale 1.4.1  = 0.5∗(a)+0.5∗(b))
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -65,7 +63,6 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
-  o dată la câțiva (3/10) ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

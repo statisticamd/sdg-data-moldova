@@ -45,7 +45,7 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1.Ministry of Education and Research</p> 
-  <p>  2.Climate Change Office </p>
+  <p>  2.Public Institution National Office for the Implementation of Environmental Projects </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment
@@ -69,7 +69,7 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1.Ministry of Education and Research</p> 
-  <p>  2.Climate Change Office </p>
+  <p>  2.Public Institution National Office for the Implementation of Environmental Projects </p>
 source_periodicity_1: >-
   Once every 2 and 4 years
 source_url_1: >-

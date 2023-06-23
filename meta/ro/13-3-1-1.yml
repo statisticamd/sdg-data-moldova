@@ -45,7 +45,7 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1.Ministerul Educației și Cercetării</p> 
-  <p>  2.Oficiul Schimbarea Climei </p>
+  <p>  2.Instituția Publică Oficiul National pentru Implementarea Proiectelor de Mediu </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul  Mediului
@@ -69,11 +69,11 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1.Ministerul Educației și Cercetării</p> 
-  <p>  2.Oficiul Schimbarea Climei </p>
+  <p>  2.Instituția Publică Oficiul National pentru Implementarea Proiectelor de Mediu </p>
 source_periodicity_1: >-
   O dată la 2 si 4 ani
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

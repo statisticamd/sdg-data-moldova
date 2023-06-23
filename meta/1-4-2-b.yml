@@ -37,7 +37,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Census or statistical surveys in households with a separate module on  population perception (such as HBS, MICS, or other), integrating the module t  be developed by FAO and UN Women (the module would include also collection of  data regarding the share of population with documents for tenure rights to  land =(a) from 1.4.2)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -56,7 +55,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The national indicator represents a component part of the global indicator   (the global indicator represents the weighted sum of the values (a) and (b) of  1.4.1 = 0.5∗(a)+0.5∗(b))
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -65,7 +63,6 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
-  Once every 3-10 years
 source_url_1: >-
 source_url_text_1: >-
   Link to source
