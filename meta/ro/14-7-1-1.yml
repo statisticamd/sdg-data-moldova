@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 14.7.1.1: Ponderea pescuitului in PIB</p>
+  <p>Indicator 14.7.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 14.7: Până în 2030, creșterea beneficiilor economice pentru statele insulare mici și  țările cel mai puțin dezvoltate, din utilizarea durabilă a resurselor marine,  inclusiv prin gestionarea durabilă a pescuitului, acvaculturii și turismului</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  FAO,UNEP-WCMC
+  Food and Agricultural Organization (FAO), UN Environment Programme (UNEP)-WCMC
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -15,9 +15,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-14.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 288kB)
+  Metadatele indicatorului global
 SDG_INDICATOR: >-
-  <p>Indicator 14.7.1.1: Ponderea pescuitului in PIB</p>
+  <p>Indicator 14.7.1.1: Ponderea pescuitului în PIB</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -48,7 +48,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Valoarea adăugata bruta  a pescuitului  / Produsul Intern Brut *100.
+  Valoarea adăugata bruta  a pescuitului  / Produsul Intern Brut *100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -60,7 +60,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

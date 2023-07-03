@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 14.7.1.1: Fisheries as a proportion of GDP</p>
+  <p>Indicator 14.7.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 14.7: By 2030, increase the economic benefits to small island developing States and  least developed countries from the sustainable use of marine resources,  including through sustainable management of fisheries, aquaculture and tourism</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  FAO,UNEP-WCMC
+  Food and Agricultural Organization (FAO), UN Environment Programme (UNEP) -WCMC
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -48,7 +48,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Gross added value of fishing  / Gross Domestic Product *100.
+  Gross added value of fishing  / Gross Domestic Product *100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -60,7 +60,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

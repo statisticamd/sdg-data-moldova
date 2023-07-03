@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: ''
+computation_units: Procente
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -40,7 +40,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false
