@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 468kB)
 SDG_INDICATOR: >-
-  <p>Indicator 17.10.1: mediu ponderat al tarifelor vamale de import în Republica Moldova</p>
+  <p>Indicator 17.10.1: Nivelul mediu ponderat al tarifelor vamale de import în Republica Moldova</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -46,7 +46,7 @@ DATA_SOURCE: >-
   Serviciul Vamal al Ministerul Finanțelor
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Dezvoltării Economiei și Digitalizării
+  Ministerul Dezvoltării Economiei Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

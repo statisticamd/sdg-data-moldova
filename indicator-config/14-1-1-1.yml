@@ -1,6 +1,5 @@
 composite_breakdown_label: ''
-computation_units: <p> 1. Nitrate concentration - mgN / l</p> 
-  <p>2. Phosphate concentration - mgP / l </p>
+computation_units: Nitrate concentration - mgN/l, Phosphate concentration - mgP/l
 copyright: ''
 data_footnote: ''
 data_non_statistical: false

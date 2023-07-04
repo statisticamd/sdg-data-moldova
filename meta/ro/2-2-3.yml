@@ -38,12 +38,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  rs12_săn „Prinind numărul maladiilor înregistrate la bolnavi domiciliați în teritoriul de deservire a instituției curative”
+  Cercetarea rs12_săn „Privind numărul maladiilor înregistrate la bolnavi domiciliați în teritoriul de deservire a instituției curative”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția Națională pentru sănătatea puplică
+  Agenția Națională pentru Sănătatea Publică
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Sănătății
@@ -67,7 +67,7 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agenția Națională pentru sănătatea puplică
+  Agenția Națională pentru Sănătatea Publică
 source_periodicity_1: >-
   anual, trimestrial
 source_url_1: >-

@@ -539,7 +539,7 @@
 8-2-1-title: Rata anuală de creștere a PIB pe o persoană ocupată
 8-2-1-graph: 8.2.1. Rata anuală de creștere a PIB pe o persoană ocupată
 8-3-1-title: Ponderea ocupării informale în  sectorul nonagricol
-8-3-1-graph: 8.3.1. Ponderea ocupării informale în  sectorul nonagricol
+8-3-1-graph: 8.3.1. Ponderea ocupării informale în  sectorul non-agricol
 8-4-1-a-title: Volumul resurselor naturale extrase pe o persoană (identic 
   cu 12.2.1.a)
 8-4-1-a-graph: 8.4.1.a. Volumul resurselor naturale extrase pe o persoană
@@ -833,7 +833,7 @@
 11-b-2-graph: 11.b.2. Proporția autorităților publice locale care adoptă și implementează 
   strategii locale de reducere a riscurilor de  situații excepționale în conformitate 
   cu strategiile naționale de reducere a riscurilor de  situații excepționale
-12-1-1-1-title: '12.1.1.1. Numărul de politici naționale care integrează aspectele 
+12-1-1-1-title: 'Numărul de politici naționale care integrează aspectele 
   economiei „verzi”, producției și consumului durabil (PCD)'
 12-1-1-1-graph: '12.1.1.1. Numărul de politici naționale care integrează aspectele 
   economiei „verzi”, producției și consumului durabil (PCD)'
@@ -1092,10 +1092,10 @@
   (mită) în ultimele 12 luni
 16-5-2-graph: 16.5.2. Ponderea antreprenorilor care au efectuat plăți neoficiale 
   (mită) în ultimele 12 luni
-16-5-2-1-title: '16.5.2.1. Indicatorul privind „Controlul asupra corupției”  (de 
+16-5-2-1-title: 'Indicatorul privind „Controlul asupra corupției”  (de 
   la „-2,5” la „2,5”)'
 16-5-2-1-graph: '16.5.2.1. Indicatorul privind „Controlul asupra corupției”'  
-16-5-2-2-title: '16.5.2.2. Indicatorul privind „Calitatea regulatorie” (de la „-2,5” 
+16-5-2-2-title: 'Indicatorul privind „Calitatea regulatorie” (de la „-2,5” 
   la „2,5”)'
 16-5-2-2-graph: '16.5.2.2. Indicatorul privind „Calitatea regulatorie”'
 16-6-1-title: Ponderea cheltuielilor publice efective raportate la cheltuielile 

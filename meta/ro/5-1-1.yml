@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 634kB)
 SDG_INDICATOR: >-
-  <p>Indicator 5.1.1: nța cadrului legal pentru  promovarea, punerea în aplicare și   monitorizarea egalității și nediscriminării pe baza de sex</p>
+  <p>Indicator 5.1.1: Existența cadrului legal pentru  promovarea, punerea în aplicare și   monitorizarea egalității și nediscriminării pe baza de sex</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -44,7 +44,7 @@ DATA_SOURCE: >-
   <p> Ministerul Muncii și Protecției Sociale</p> 
   <p>  Ministerul  Justiției</p> 
   <p>  Ministerul Afacerilor Interne</p> 
-  <p>  Consiliul pentru Prevenirea  și Eliminarea Discriminării și Asigurarea Egalității,</p> 
+  <p>  Consiliul pentru Egalitate</p> 
   <p>  Agenția Servicii  Publice </p> 
   <p> Agenția de administrare a instanțelor judecătorești</p> 
   <p>  APC  (grupurile coordonatoare în domeniul gender) </p>
@@ -82,7 +82,7 @@ source_organisation_1: >-
   <p> Ministerul Muncii și Protecției Sociale</p> 
   <p>  Ministerul  Justiției</p> 
   <p>  Ministerul Afacerilor Interne</p> 
-  <p>  Consiliul pentru Prevenirea  și Eliminarea Discriminării și Asigurarea Egalității</p> 
+  <p>  Consiliul pentru Egalitate</p> 
   <p>  Agenția Servicii  Publice</p> 
   <p> Agenția de administrare a instanțelor judecătorești</p> 
   <p>  APC  (grupurile coordonatoare în domeniul gender) </p>

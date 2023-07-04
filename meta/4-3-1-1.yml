@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.3.1: NA</p>
+  <p>Indicator 4.3.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 4.3: By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
 SDG_INDICATOR: >-
-  <p>Indicator 4.3.1: 1 Gross enrolment ratio for tertiary education</p>
+  <p>Indicator 4.3.1.1: Gross enrolment ratio for tertiary education</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''

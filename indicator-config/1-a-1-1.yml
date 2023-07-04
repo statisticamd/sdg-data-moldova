@@ -20,12 +20,12 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 1.a.1.1. Proportion of funds allocated from the national public budget for the social aid program (social aid and aid for cold period of the year) in the total national public budget expenditures
+graph_title: national_indicators.1-a-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of funds allocated from the national public budget for the social aid program (social aid and aid for cold period of the year) in the total national public budget expenditures
-indicator_name: national_indicators.1-a-1-1--title
-indicator_number: 1.a.1.1.
+indicator_available: national_indicators.1-a-1-1-title
+indicator_name: national_indicators.1-a-1-1-title
+indicator_number: 1.a.1.1
 indicator_tabs:: 
   override: false
   tab_1: ''

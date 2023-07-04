@@ -1,6 +1,5 @@
 composite_breakdown_label: ''
-computation_units: <p> 1. Concentrația de nitrați - mgN / l</p> 
-  <p>2. Concentrația de fosfat - mgP / l </p>
+computation_units: Concentrația de nitrați - mgN/l, Concentrația de fosfat - mgP/l
 copyright: ''
 data_footnote: ''
 data_non_statistical: false

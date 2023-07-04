@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 14.4.1.1.: NA</p>
+  <p>Indicator 14.4.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 14.4: Până în 2020, reglementarea eficientă a pescuitului și a pescuitului  excesiv, ilegal, nedeclarat și nereglementat și a practicilor de pescuit  distructive, și implementarea planurilor de  management bazate pe știință,  pentru a restabili stocurile de pește în cel mai scurt timp posibil,  cel  puțin la nivelurile care ar asigura un randament maxim durabil, după cum este  determinat de caracteristicile biologice ale acestora</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -19,7 +19,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
-  <p>Indicator 14.4.1.1.: umărul de contravenții înregistrate privind pescuitul ilegal</p>
+  <p>Indicator 14.4.1.1: Numărul de contravenții înregistrate privind pescuitul ilegal</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
