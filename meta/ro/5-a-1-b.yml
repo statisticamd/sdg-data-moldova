@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.a.1.b: Ponderea femeilor  cu drepturi  de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.a: Efectuarea de reforme pentru garantarea femeilor drepturi egale asupra resurselor economice, accesului la proprietate și control asupra terenurilor și a altor forme de proprietate, serviciilor financiare, moștenirii și resurselor naturale, în conformitate cu legislația națională</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Entity for Gender Equality and the Empowerment
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  5.a
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 4.0
+SDG_INDICATOR: >-
+  <p>Indicator 5.a.1.b: Ponderea femeilor  cu drepturi  de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Indicatorul b) se focusează pe paritatea de gen și măsoară măsura în care femeile sunt dezavantajate în ceea ce privește dreptul la proprietate sau alte drepturi patrimoniale asupra terenurilor agricole.</p> 
+  <p>   Teren agricol - conform definiției WCA 2020, este terenul care acoperă următoarele clase de utilizare a terenurilor: Pământ arabil (culturi temporare + pajiști temporare și pășuni + temporar abandonate),  Terenuri cu culturi permanente,  Teren sub pajiști și pășuni permanente.</p> 
+  <p>   Deși definiția nu e finală, se recomandă a considera populație agricolă (sau din agricultură) persoanele adulte care trăiesc în gospodării agricole în care cel puțin un membru al gospodăriei este implicat, în principal, într-o activitate agricolă (exploatare terenuri agricole și / sau  creștere animale) în ultimele 12 luni, indiferent de scopul final  al producției (fie pentru generarea de venit, fie pentru consumul propriu) și statutul ocupațional. Trei condiții (proxies) se vor considera pentru definirea drepturilor asupra terenului agricol:  persoana 1) dispune de documente legale pe numele persoanei (unde persoana e menționată drept "Proprietar" sau "deținător"); 2) are dreptul de a vinde terenul; 3) are dreptul de a transmite în moștenire terenul (altei persoane). Se va considera îndeplinirea a cel puțin uneia din condiții. </p>
+UNIT_MEASURE: >-
+  Procent, %
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Agenția Servicii Publice
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> Ministerul Muncii și Protecției Sociale</p> 
+  <p>Ministerul Justiției</p> 
+  <p>Agenția Relații Funciare și Cadastru </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  b) Numărul femeilor cu drepturi de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole raportat la numărul total de populație din agricultură cu drepturi de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole * 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul global este prezentat ca 2 sub-indicatori a) și b). Indicatorul respectiv reprezintă sub-indicatorul b).
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  2
+source_active_1: true
+source_organisation_1: >-
+  Agenția Servicii Publice
+source_periodicity_1: >-
+  Anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+source_other_info_1: >-

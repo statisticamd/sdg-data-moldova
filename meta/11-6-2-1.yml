@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 211 KB)
 SDG_INDICATOR: >-
-  <p>Indicator 11.6.2.1: Quantity of emissions of polluting substances in the air from mobile  sources (by sources), thousand tonnes, per person</p>
+  <p>Indicator 11.6.2.1: Quantity of emissions of polluting substances in the air from mobile  sources (by sources), kg per person</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -34,7 +34,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Emissions of pollutants into the atmosphere from mobile sources represent the volume of polluting substances discharged into the atmospheric air by road, railway, naval and air transport. Mobile emission sources are transport vehicles and self-propelled machines equipped with engines, the operation of which results air pollutant emissions
 UNIT_MEASURE: >-
-  thousands tons, kg/person
+  kg/person
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

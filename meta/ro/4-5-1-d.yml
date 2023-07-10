@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.5.1: Indicele parității (femei/bărbați, rural/urban, chintila inferioară/superioară și altele, cum ar fi statutul de dizabilitate, persoane indigene și cele afectate de conflicte, de îndată ce devin disponibile date) pentru toți indicatorii de învățământ din această listă, care pot fi dezagregați</p>
+  <p>Indicator 4.5.1.d: Indicele parității (femei/bărbați, rural/urban, chintila inferioară/superioară și altele, cum ar fi statutul de dizabilitate, persoane indigene și cele afectate de conflicte, de îndată ce devin disponibile date) pentru toți indicatorii de învățământ din această listă, care pot fi dezagregați</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 4.5: Până în 2030, eliminarea disparităților între sexe în educație și asigurarea accesului egal la toate nivelurile de învățământ și formare profesională a persoanelor vulnerabile, inclusiv a persoanelor cu dizabilități, a popoarelor indigene și a copiilor aflați în situații vulnerabile</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 210kB)
 SDG_INDICATOR: >-
-  <p>Indicator 4.5.1.d. Indicele parității în învățământul terțiar</p>
+  <p>Indicator 4.5.1.d: Indicele parității în învățământul terțiar</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''

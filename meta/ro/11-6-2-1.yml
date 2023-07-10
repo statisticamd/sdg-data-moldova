@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 211 KB)
 SDG_INDICATOR: >-
-  <p>Indicator 11.6.2.1: Cantitatea de emisii de substanțe poluante în aer de la sursele  mobile (pe surse), mii tone, raportate pe o persoană</p>
+  <p>Indicator 11.6.2.1: Cantitatea de emisii de substanțe poluante în aer de la sursele  mobile (pe surse), kg raportate pe o persoană</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -34,7 +34,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Emisiile de poluanți în atmosferă de la sursele mobile reprezintă volumul substanțelor poluante  evacuate  în aerul atmosferic de mijloacele de transport rutiere, feroviare, navale, aeriene. Sursele mobile de emisie sunt vehicule de transport și mașini autopropulsate echipate cu motoare, a căror funcționare duce la emisii poluante în aer
 UNIT_MEASURE: >-
-  mii tone, kg/persoană
+  kg/persoană
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

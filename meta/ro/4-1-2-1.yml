@@ -28,13 +28,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Rata brută de admisie în ultimul an de studiu al învăţământului primar reprezintă numărul total al elevilor înscrişi pentru prima dată în ultimul an de studiu al învăţământului primar, indiferent de vârstă, exprimat ca raport procentual din totalul populaţiei în vârstă teoretică de intrare în ultimul an al învăţământului primar.
+  Rata brută de admisie în ultimul an de studiu al învăţământului primar și al învățământului gimnazial reprezintă numărul total al elevilor înscrişi pentru prima dată în ultimul an de studiu al învăţământului primar, indiferent de vârstă, exprimat ca raport procentual din totalul populaţiei în vârstă teoretică de intrare în ultimul an al învăţământului primar.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1)Cercetarea statistică nr 1-edu "Activitatea instituțiilor de învățământ  primar  și secundar general"</p> 
+  <p>  </p> 
   <p> 2)Statistica populației </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -48,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul total al elevilor înscrişi pentru prima dată în ultimul an de studiu al învăţământului primar, indiferent de vârstă,  raportat la numărul populaţiei în vârstă teoretică de intrare în ultimul an al învăţământului primar,*100
+  Numărul total al elevilor înscrişi pentru prima dată în ultimul an de studiu al învăţământului primar și al învățământului gimnazial, indiferent de vârstă,  raportat la numărul populaţiei în vârstă teoretică de intrare în ultimul an al învăţământului primar*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -25,7 +25,7 @@ graph_titles: []
 graph_type: line
 indicator_available: national_indicators.11-5-3-b-title
 indicator_name: national_indicators.11-5-3-b-title
-indicator_number: 11.5.3.b.
+indicator_number: 11.5.3.b
 indicator_tabs:: 
   override: false
   tab_1: ''

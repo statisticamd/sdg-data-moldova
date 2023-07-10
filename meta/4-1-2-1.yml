@@ -28,13 +28,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Number of new entrants in the last grade of primary education, regardless of age, expressed as a percentage of the total population of the theoretical entrance age to the last grade of primary education.
+  Gross admission rate in the last year of study of primary and secondary education represents the number of new entrants in the last grade of primary education, regardless of age, expressed as a percentage of the total population of the theoretical entrance age to the last grade of primary education.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1)Statistical report no 1-edu "Activity of primary and secondary general   education institutions"</p> 
+  <p>    </p> 
   <p>2)Population statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -48,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number of new entrants in the last grade of primary education, regardless of age, expressed as a percentage of the total population of the theoretical entrance age to the last grade of primary education.
+  Total number of new entrants in the last grade of primary and secondary education, regardless of age,  in relation to the number of the population in the theoretical age of entering the last year of primary education*100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

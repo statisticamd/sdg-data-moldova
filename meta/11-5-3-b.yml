@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.5.3.b.: Number of interruptions of basic services due to exceptional situations</p>
+  <p>Indicator 11.5.3.b: Number of interruptions of basic services due to exceptional situations</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 11.5: NA</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -9,11 +9,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  11.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
 SDG_INDICATOR: >-
-  <p>Indicator 11.5.3.b.: Number of interruptions of basic services due to exceptional situations</p>
+  <p>Indicator 11.5.3.b: Number of interruptions of basic services due to exceptional situations</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
