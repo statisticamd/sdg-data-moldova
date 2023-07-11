@@ -12,7 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Rare species ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Plants",
+                "Animals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Local species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Plants",
+                "Animals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disappearance risk categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

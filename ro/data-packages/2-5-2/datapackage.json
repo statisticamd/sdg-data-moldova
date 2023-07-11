@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Rare species ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Plants",
+                "Animale",
+                ""
+              ]
+            },
+            "title": "Rare species "
+          },
+          {
+            "name": "Local species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Plants",
+                "Animale",
+                ""
+              ]
+            },
+            "title": "Local species"
+          },
+          {
+            "name": "Disappearance risk categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Disappearance risk categories"
           },
           {
             "name": "Value",

@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Components of integrated water resources management (iwrm)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mediu favorabil",
+                "Instituții",
+                "Instrumente de management",
+                "Finanțare",
+                ""
+              ]
+            },
+            "title": "Componente ale Managementului Integrat al Resurselor de Apă (IWRM)"
           },
           {
             "name": "Value",

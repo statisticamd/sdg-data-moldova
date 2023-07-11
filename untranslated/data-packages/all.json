@@ -318,6 +318,60 @@
       "title": "national_indicators.11-b-1-2-title"
     },
     {
+      "path": "2-5-2/data.csv",
+      "name": "2-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Rare species ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Plants",
+                "Animals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Local species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " Plants",
+                "Animals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disappearance risk categories",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of local breeds classified as being at risk of extinction"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -1634,6 +1688,40 @@
         ]
       },
       "title": "national_indicators.9-2-1-2-title"
+    },
+    {
+      "path": "17-18-1-1/data.csv",
+      "name": "17-18-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Availability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fully available",
+                "Partly available",
+                "Not available",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.17-18-1-1-title"
     },
     {
       "path": "16-2-3/data.csv",
@@ -5133,6 +5221,28 @@
       "title": "national_indicators.1-a-2-a-title"
     },
     {
+      "path": "2-5-1/data.csv",
+      "name": "2-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
+    },
+    {
       "path": "2-2-2-b/data.csv",
       "name": "2-2-2-b",
       "profile": "tabular-data-resource",
@@ -8065,6 +8175,64 @@
         ]
       },
       "title": "national_indicators.5-6-2-1-title"
+    },
+    {
+      "path": "5-a-1-a/data.csv",
+      "name": "5-a-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.5-a-1-a-title"
     },
     {
       "path": "5-6-2-2/data.csv",
@@ -11669,6 +11837,41 @@
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
+      "path": "6-5-1/data.csv",
+      "name": "6-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Components of integrated water resources management (iwrm)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Favorable environment",
+                "Institutions",
+                "Management tools",
+                "Funding",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Degree of integrated water resources management"
+    },
+    {
       "path": "15-8-1-1/data.csv",
       "name": "15-8-1-1",
       "profile": "tabular-data-resource",
@@ -13327,6 +13530,53 @@
       "title": "national_indicators.13-1-2-1-title"
     },
     {
+      "path": "1-4-2-a/data.csv",
+      "name": "1-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                "Men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.1-4-2-a-title"
+    },
+    {
       "path": "13-1-1-b/data.csv",
       "name": "13-1-1-b",
       "profile": "tabular-data-resource",
@@ -14123,28 +14373,6 @@
       "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
-      "path": "2-5-2/data.csv",
-      "name": "2-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
-    },
-    {
       "path": "17-19-2/data.csv",
       "name": "17-19-2",
       "profile": "tabular-data-resource",
@@ -14605,28 +14833,6 @@
         ]
       },
       "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
-    },
-    {
-      "path": "2-5-1/data.csv",
-      "name": "2-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
       "path": "14-c-1/data.csv",
@@ -15133,28 +15339,6 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Degree of integrated water resources management"
     },
     {
       "path": "5-6-2/data.csv",

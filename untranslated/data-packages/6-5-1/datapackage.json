@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Components of integrated water resources management (iwrm)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Favorable environment",
+                "Institutions",
+                "Management tools",
+                "Funding",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
