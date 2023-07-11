@@ -1,0 +1,83 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 1.4.2.a: Proporția populației adulte cu drepturi de proprietate sigure asupra terenurilor cu acte recunoscute legal</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.4: Până în 2030, asigurarea faptului că toți bărbații și toate femeile, în  special cei săraci și vulnerabili,   au drepturi egale la resursele economice,  precum și acces la serviciile de bază, dreptul la proprietate și control  asupra terenurilor și a altor forme de proprietate, moștenire, resurse  naturale,  tehnologii noi potrivite și servicii financiare, inclusiv de  microfinanțare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Bank (WB), UN-Habitat
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  1.4
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-02.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global
+SDG_INDICATOR: >-
+  <p>Indicator 1.4.2.a: Ponderea populației adulte cu drepturi asigurate asupra pământului</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  <p> Titlu de proprietate este actul prin care este autentificat dreptul de  deținere asupra terenului, eliberat de autoritățile administrației publice  locale, certificatul de moștenire, contractul de vânzare-cumpărare, contractul  de donație, contractul de schimb, contractul de arendă și altele (Titlu III,  Codul Civil). Deținători de terenuri sunt titularii dreptului de proprietate,  de posesiune, de beneficiere funciară. Deținătorii de terenuri cu titlu de  proprietate privată pot fi cetățeni ai Republicii Moldova și investitorii  străini, în conformitate cu legislația. Deținătorii de terenuri cu orice titlu  sunt protejați de stat. (Titlul III din Codul Civil, art. 4 din Codul  Funciar)</p> 
+  <p>  Persoană adultă se va considera persoana care a împlinit vârsta  legală  de 18 ani și este eligibilă pentru a i se atribui drepturi asupra   imobilelor. Mai multe detalii în Codul Civil, Articolul 20. </p> 
+  <p>Înregistrarea  dreptului asupra bunului imobil (în particular terenuri) se face în temeiul   documentelor (art.28 din Legea Nr. 1543/1998  privind  cadastrul bunurilor imobile). </p>
+UNIT_MEASURE: >-
+  Număr
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> 1. Registru al bunurilor imobile, capitolul A, care conține  înscrieri privind terenul </p> 
+  <p>2. Statistica populației, Biroul Național de Statistică </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> 1. Agenția Servicii Publice</p> 
+  <p>2. Biroul Național de Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  <p> 1. Ministerul Infrastructurii și Dezvoltării Regionale</p> 
+  <p>2. Ministerul Justiției</p> 
+  <p>3. Ministerul Agriculturii și Industriei Alimentare </p>
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Numărul persoanelor adulte de 18 ani + care dețin document ce confirmă dreptul  de proprietate sau alt drept asupra terenurilor (agricole și neagricole  separat), înregistrate pe teritoriul Republicii Moldova, raportat la numărul  total al populației adulte de 18 ani și peste X 100.
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+  Indicatorul național reprezintă o parte componentă a indicatorului global  (indicatorul global reprezintă suma ponderată a valorilor (a) si (b) ale 1.4.1  = 0.5∗(a)+0.5∗(b))
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  Agenția Servicii Publice
+source_periodicity_1: >-
+  anual
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Lilia Graur, Dezvoltator baza de date, coordonator, Direcția resurse și sisteme informaționale, Agenția Servicii Publice, tel. 022 88 10 23, e-mail: lilia.graur@asp.gov.md
+source_other_info_1: >-

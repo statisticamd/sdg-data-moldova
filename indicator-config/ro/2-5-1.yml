@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: number
+computation_units: număr
 copyright: ''
-data_footnote: The table shows data on the number of genetic resources of animal origin for food and agriculture preserved ex situ, in situ/on farm in the medium or long term
+data_footnote: In tabel sunt prezentate date privind numărul de resurse genetice de origine animalieră pentru  alimentație și agricultură conservate ex situ, in situ/on farm pe termen mediu  sau lung
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: ''
 permalink: ''
 placeholder: ''

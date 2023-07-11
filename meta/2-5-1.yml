@@ -1,0 +1,81 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture  secured in either medium- or long-term conservation facilities</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.5: By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed  and domesticated animals and their related wild species, including through  soundly managed and diversified seed and plant banks at the national, regional  and international levels, and promote access to and fair and equitable sharing  of benefits arising from the utilization of genetic resources and associated  traditional knowledge, as internationally agreed</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Food and Agricultural Organization (FAO)
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  2.5
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-05-01.pdf
+GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF 334 KB)
+SDG_INDICATOR: >-
+  <p>Indicator 2.5.1: Number of plant and animal genetic resources for food and agriculture  conserved ex situ, in situ/on farm in the medium or long term</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Conservation of genetic resources in agriculture - a modality of ensuring with  necessary resources so as to meet the challenges caused by diseases, pests and  new and appearing climate changes. Researchers use the specific nature of  animals, crops or wild species for different purposes, such as tolerance to  salinity, resistance to diseases and adaptability to climate changes.  Also offers the producers the necessary diversity for adapting the markets to  changes.
+UNIT_MEASURE: >-
+  number
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  administrative data
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Subordinate science and educational institutions
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministry of Agriculture and Food Industry
+OTHER_METHOD: >-
+  https://agrobiznes.md/a-avut-loc-conferinta-internationala-privind-conservarea-resurselor-genetice-vegetale-si-animale.html
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  <p> Indicator is composed of two components which are calculated separately.</p> 
+  <p>  1) Plant genetic resources: total number of single samples of plant genetic resources secured in medium- or long-term  conservation facilities. </p> 
+  <p>  This should include all the samples of basic collections and single samples stored in medium-term conservation facilities  as active collections only when these samples are considered part of national  basic collections. The basic collections may include seeds' collections,  field, crio-preserved, in vitro, depending of the preserved species and  available facilities in the country.</p> 
+  <p>  2) Animal genetic resources: number  of local breeds with sufficient genetic material stored in the gene bank  collections, which allow reconstructing the breed in case of disappearance  (according to the Guides for crio-preserving animal genetic resources, FAO,  2012) </p>
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+  <p> 1. Ministry of Agriculture and Food Industry</p> 
+  <p>2. Subordinate science and educational institutions </p>
+source_periodicity_1: >-
+  Annual
+source_url_1: >-
+source_url_text_1: >-
+  Link to source
+source_contact_1: >-
+  Valentin Roșca, Head of the Animal Husbandry Sector Policy Division, Ministry of Agriculture and Food Industry, tel. 0 22 204 506, e-mail: valentin.rosca@maia.gov.md
+source_other_info_1: >-
