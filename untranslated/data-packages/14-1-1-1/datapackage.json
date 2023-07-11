@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "Nitrate concentration",
-                "Phosphate concentration ",
+                "Phosphate concentration",
                 ""
               ]
             }

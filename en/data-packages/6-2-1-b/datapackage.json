@@ -28,7 +28,7 @@
             "title": "Area of residence"
           },
           {
-            "name": "Wealth quintiles ",
+            "name": "Wealth quintiles",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Wealth quintiles "
+            "title": "Wealth quintiles"
           },
           {
             "name": "Value",

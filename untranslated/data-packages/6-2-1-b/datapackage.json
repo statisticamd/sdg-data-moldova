@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "Wealth quintiles ",
+            "name": "Wealth quintiles",
             "type": "string",
             "constraints": {
               "enum": [

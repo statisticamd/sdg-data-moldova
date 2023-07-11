@@ -28,7 +28,7 @@
             "title": "Mediul de reședință"
           },
           {
-            "name": "Wealth quintiles ",
+            "name": "Wealth quintiles",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Wealth quintiles "
+            "title": "Quintile de bunăstare"
           },
           {
             "name": "Value",

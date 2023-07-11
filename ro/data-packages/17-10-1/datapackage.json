@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Produse agricole",
-                "Produse non-agricole",
+                "Agricultural products AGR ",
+                "Non-agricultural products NAGR ",
                 ""
               ]
             },

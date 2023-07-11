@@ -54,7 +54,7 @@
             "title": "Area of residence/Sex"
           },
           {
-            "name": "Age group/Sex",
+            "name": "Age group/sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,7 +69,7 @@
                 ""
               ]
             },
-            "title": "Age group/Sex"
+            "title": "Age group/sex"
           },
           {
             "name": "Value",

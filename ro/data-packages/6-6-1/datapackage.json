@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)",
+            "name": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,14 +28,14 @@
                 ""
               ]
             },
-            "title": "Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections)"
+            "title": "Calitatea apei (râuri, lacuri și corpuri de apă artificiale), procente din numărul total de secțiuni monitorizate"
           },
           {
-            "name": "The quantity of groundwater in aquifers, thousand m3/24 h",
+            "name": "The quantity of groundwater in aquifers, thousand m3/24h",
             "type": "string",
             "constraints": {
               "enum": [
-                "The quantity of groundwater in aquifers, thousand m3/24 h ",
+                "Cantitatea apei subterane din acvifere  mii m3/24 ore",
                 ""
               ]
             },

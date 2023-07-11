@@ -54,7 +54,7 @@
             "title": "Mediul de reședință/Sex"
           },
           {
-            "name": "Age group/Sex",
+            "name": "Age group/sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,7 +69,7 @@
                 ""
               ]
             },
-            "title": "Grupa de vârstă/Sex"
+            "title": "Grupa de vârstă/sex"
           },
           {
             "name": "Value",

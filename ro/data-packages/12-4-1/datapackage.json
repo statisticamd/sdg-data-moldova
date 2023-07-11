@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -22,7 +22,7 @@
               "enum": [
                 "Basel Convention",
                 "Rotterdam Convention",
-                "Stockholm Convention",
+                "Convenția Stockholm",
                 "Montreal Protocol",
                 "Minamata Convention",
                 ""

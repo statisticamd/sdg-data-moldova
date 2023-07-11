@@ -95,42 +95,42 @@
             "title": "Entități în care au fost discriminați"
           },
           {
-            "name": "Characteristics ofPersons who discriminated",
+            "name": "Characteristics of persons who discriminated",
             "type": "number",
             "constraints": {
               "enum": [
                 ""
               ]
             },
-            "title": "Characteristics ofPersons who discriminated"
+            "title": "Characteristics of persons who discriminated"
           },
           {
-            "name": "The quality of thePerson who discriminated",
+            "name": "The quality of the person who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
-                "IndividualPerson",
-                "LegalPerson",
+                "Persoană fizică",
+                "Persoană juridică",
                 ""
               ]
             },
-            "title": "The quality of thePerson who discriminated"
+            "title": "Calitatea persoanei care a discriminat"
           },
           {
-            "name": "The quality/function held by the naturalPerson",
+            "name": "The quality/function held by the natural person",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persoană cu funcție de demnitate publică",
+                " Person with a function of public dignity",
                 "Persoană juridică",
                 "Persoană cu funcție de răspundere",
                 ""
               ]
             },
-            "title": "The quality/function held by the naturalPerson"
+            "title": "Calitatea/funcția deținută de persoana fizică"
           },
           {
-            "name": "The field of activity related to thePerson who discriminated",
+            "name": "The field of activity related to the person who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
@@ -139,7 +139,7 @@
                 ""
               ]
             },
-            "title": "The field of activity related to thePerson who discriminated"
+            "title": "Domeniul de activitate aferent persoanei care a discriminat"
           },
           {
             "name": "Value",

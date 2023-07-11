@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total până la 18 ani",
-                "Băieți până la 18 ani",
+                "Total up to the age of 18  years old",
+                "Boys up to the age of 18  years old",
                 "Fete până la 18 ani",
                 ""
               ]

@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Sources of funding",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "State budget",
-                "Support from development partners",
-                ""
-              ]
-            },
-            "title": "Sources of funding"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

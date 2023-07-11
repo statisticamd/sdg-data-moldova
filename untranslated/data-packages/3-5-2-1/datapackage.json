@@ -50,7 +50,7 @@
             }
           },
           {
-            "name": "Age group/Sex",
+            "name": "Age group/sex",
             "type": "string",
             "constraints": {
               "enum": [

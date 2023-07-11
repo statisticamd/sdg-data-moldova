@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Concentraţia de nitraţi",
-                "Phosphate concentration ",
+                "Concentraţia de fosfaţi",
                 ""
               ]
             },

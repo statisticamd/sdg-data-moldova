@@ -89,7 +89,7 @@
             }
           },
           {
-            "name": "Characteristics ofPersons who discriminated",
+            "name": "Characteristics of persons who discriminated",
             "type": "number",
             "constraints": {
               "enum": [
@@ -98,22 +98,22 @@
             }
           },
           {
-            "name": "The quality of thePerson who discriminated",
+            "name": "The quality of the person who discriminated",
             "type": "string",
             "constraints": {
               "enum": [
-                "IndividualPerson",
-                "LegalPerson",
+                "Individual person",
+                "Legal person",
                 ""
               ]
             }
           },
           {
-            "name": "The quality/function held by the naturalPerson",
+            "name": "The quality/function held by the natural person",
             "type": "string",
             "constraints": {
               "enum": [
-                "Person with a function of public dignity",
+                " Person with a function of public dignity",
                 "Public official",
                 "Person with responsibility functions",
                 ""
@@ -121,7 +121,7 @@
             }
           },
           {
-            "name": "The field of activity related to thePerson who discriminated",
+            "name": "The field of activity related to the person who discriminated",
             "type": "string",
             "constraints": {
               "enum": [

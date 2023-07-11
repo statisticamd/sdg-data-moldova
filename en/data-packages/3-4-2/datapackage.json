@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total up to the age of 18 years old",
-                "Boys up to the age of 18 years old",
+                "Total up to the age of 18  years old",
+                "Boys up to the age of 18  years old",
                 "Girls up to the age of 18 years old",
                 ""
               ]
