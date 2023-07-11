@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Integral",
-                "Partial",
-                "unfulfilled",
+                "Parțial",
+                "Nerealizat",
                 ""
               ]
             },

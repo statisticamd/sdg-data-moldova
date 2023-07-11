@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Integral",
-                "Partial",
-                "unfulfilled",
+                "Fully",
+                "Partially",
+                "Not implemented",
                 ""
               ]
             }

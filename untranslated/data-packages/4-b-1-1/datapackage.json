@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
-                "Bachelor's Degree: Information and Communication Technology",
-                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                "Bachelor's Degree - Number of budgetary places in the state order for enrollment in higher education",
+                "Bachelor's Degree - Information and Communication Technology",
+                "Bachelor's Degree - Technical, Engineering and Science Programs",
                 ""
               ]
             }

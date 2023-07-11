@@ -547,7 +547,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boimass",
+                "Biomasă",
                 "Combustibili fosili",
                 "Minereuri metalice",
                 "Minerale nemetalice",
@@ -717,7 +717,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -731,7 +731,7 @@
             "constraints": {
               "enum": [
                 "Net disbursement",
-                "Gross disbursement",
+                "Debursări brute",
                 ""
               ]
             },
@@ -1032,7 +1032,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total up to the age of 18  years old",
+                "Total până la 18 ani",
                 "Boys up to the age of 18  years old",
                 "Fete până la 18 ani",
                 ""
@@ -2295,7 +2295,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Indicatori"
           },
           {
             "name": "Area of residence",
@@ -2633,8 +2633,8 @@
             "constraints": {
               "enum": [
                 "Integral",
-                "Partial",
-                "unfulfilled",
+                "Parțial",
+                "Nerealizat",
                 ""
               ]
             },
@@ -3730,8 +3730,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign assistance management platform (AMP)",
-                "Annual reports on foreign assistance of the Ministry of Finance ",
+                "Platforma pentru gestionarea asistenței externe (AMP)",
+                "Rapoarte anuale privind asistența externă a Ministerului Finanțelor",
                 ""
               ]
             },
@@ -4480,7 +4480,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Indicatori"
           },
           {
             "name": "Area of residence",
@@ -9393,11 +9393,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel Convention",
-                "Rotterdam Convention",
+                "Convenția Basel",
+                "Convenția Rotterdam",
                 "Convenția Stockholm",
-                "Montreal Protocol",
-                "Minamata Convention",
+                "Protocolul de la Montreal",
+                "Convenția Minamata",
                 ""
               ]
             },
@@ -12558,9 +12558,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
-                "Bachelor's Degree: Information and Communication Technology",
-                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                "Licență - Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior",
+                "Licență - Tehnologia informației și comunicațiilor",
+                "Licență - Programe tehnice, inginerești și științifice",
                 ""
               ]
             },

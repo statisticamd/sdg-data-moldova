@@ -547,7 +547,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boimass",
+                "Biomass",
                 "Fossil fuels",
                 "Metal ores",
                 "Non-metalic minerals",
@@ -1032,7 +1032,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total up to the age of 18  years old",
+                "Total up to the age of 18 years old",
                 "Boys up to the age of 18  years old",
                 "Girls up to the age of 18 years old",
                 ""
@@ -2632,9 +2632,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Integral",
-                "Partial",
-                "unfulfilled",
+                "Fully",
+                "Partially",
+                "Not implemented",
                 ""
               ]
             },
@@ -3731,7 +3731,7 @@
             "constraints": {
               "enum": [
                 "Foreign assistance management platform (AMP)",
-                "Annual reports on foreign assistance of the Ministry of Finance ",
+                "Annual reports on foreign assistance of the Ministry of Finance",
                 ""
               ]
             },
@@ -12558,9 +12558,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bachelor's Degree: Number of budgetary places in the state order for enrollment in higher education",
-                "Bachelor's Degree: Information and Communication Technology",
-                "Bachelor's Degree: Technical, Engineering and Science Programs",
+                "Bachelor's Degree - Number of budgetary places in the state order for enrollment in higher education",
+                "Bachelor's Degree - Information and Communication Technology",
+                "Bachelor's Degree - Technical, Engineering and Science Programs",
                 ""
               ]
             },

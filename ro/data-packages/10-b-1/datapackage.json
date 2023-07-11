@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign assistance management platform (AMP)",
-                "Annual reports on foreign assistance of the Ministry of Finance ",
+                "Platforma pentru gestionarea asistenței externe (AMP)",
+                "Rapoarte anuale privind asistența externă a Ministerului Finanțelor",
                 ""
               ]
             },

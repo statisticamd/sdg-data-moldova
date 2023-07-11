@@ -1,4 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Integral,1,1
-Partial,1,1
-unfulfilled,1,1
+Fully,1,1
+Not implemented,1,1
+Partially,1,1
