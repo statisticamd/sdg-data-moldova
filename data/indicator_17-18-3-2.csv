@@ -1,40 +1,40 @@
 Year,Level of implementation,Value
-2010,Integral,
-2010,Partial,
-2010,unfulfilled,
-2011,Integral,
-2011,Partial,
-2011,unfulfilled,
-2012,Integral,4
-2012,Partial,
-2012,unfulfilled,
-2013,Integral,13.4
-2013,Partial,
-2013,unfulfilled,
-2014,Integral,77.4
-2014,Partial,
-2014,unfulfilled,
-2015,Integral,
-2015,Partial,
-2015,unfulfilled,
-2016,Integral,6.9
-2016,Partial,
-2016,unfulfilled,
-2017,Integral,15.6
-2017,Partial,
-2017,unfulfilled,
-2018,Integral,19.2
-2018,Partial,
-2018,unfulfilled,
-2019,Integral,37.1
-2019,Partial,
-2019,unfulfilled,
-2020,Integral,44
-2020,Partial,47
-2020,unfulfilled,9
-2021,Integral,
-2021,Partial,
-2021,unfulfilled,
-2022,Integral,
-2022,Partial,
-2022,unfulfilled,
+2010,Fully,
+2010,Partially,
+2010,Not implemented,
+2011,Fully,
+2011,Partially,
+2011,Not implemented,
+2012,Fully,4
+2012,Partially,
+2012,Not implemented,
+2013,Fully,13.4
+2013,Partially,
+2013,Not implemented,
+2014,Fully,77.4
+2014,Partially,
+2014,Not implemented,
+2015,Fully,
+2015,Partially,
+2015,Not implemented,
+2016,Fully,6.9
+2016,Partially,
+2016,Not implemented,
+2017,Fully,15.6
+2017,Partially,
+2017,Not implemented,
+2018,Fully,19.2
+2018,Partially,
+2018,Not implemented,
+2019,Fully,37.1
+2019,Partially,
+2019,Not implemented,
+2020,Fully,44
+2020,Partially,47
+2020,Not implemented,9
+2021,Fully,
+2021,Partially,
+2021,Not implemented,
+2022,Fully,
+2022,Partially,
+2022,Not implemented,

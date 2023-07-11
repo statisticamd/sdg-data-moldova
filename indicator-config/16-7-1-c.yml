@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.7.1.c. Ratio between the proportion of positions held in the judiciary  system by persons of certain groups of population and the proportion of the  respective group out of total population
+graph_title: national_indicators.16-7-1-c-graph
 graph_titles: []
 graph_type: line
-indicator_available: Ratio between the proportion of positions held in the judiciary  system by persons of certain groups of population (by sex, age, persons with  disabilities and other corresponding groups) and the proportion of the  respective group out of total population
+indicator_available: national_indicators.16-7-1-c-title
 indicator_name: national_indicators.16-7-1-c-title
 indicator_number: 16.7.1.c
 indicator_tabs:: 
