@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3.4.2. Suicide mortality rate, per 100,000 population
+graph_title: national_indicators.3-4-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: Suicide mortality rate, per 100,000 population
+indicator_available: national_indicators.3-4-2-title
 indicator_name: global_indicators.3-4-2-title
 indicator_number: 3.4.2
 indicator_tabs:: 

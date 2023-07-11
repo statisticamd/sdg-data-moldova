@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 6.6.1 Surface change dynamics of water-related ecosystems (indicators on the spatial extent of water-related ecosystems, water quality of lakes and artificial water bodies, the amount (discharge) of water in rivers and estuaries, the quality of water-related ecosystems, the amount of groundwater in aquifers)
+graph_title: national_indicators.6-6-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Surface change dynamics of water-related ecosystems (indicators on the spatial extent of water-related ecosystems, water quality of lakes and artificial water bodies, the amount (discharge) of water in rivers and estuaries, the quality of water-related ecosystems, the amount of groundwater in aquifers)
+indicator_available: national_indicators.6-6-1-title
 indicator_name: global_indicators.6-6-1-title
 indicator_number: 6.6.1
 indicator_tabs:: 

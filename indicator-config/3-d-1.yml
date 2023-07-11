@@ -20,12 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: <p> 3.d.1 Health Sector Capacity Index ((1) national legislation, policies and  funding; (2) coordination and liaison with national focal points; (3)  surveillance; (4) response; (5) preparedness; (6) risk communication; (7)  human resources; (8) laboratory; (9) entry points; (10) zoonotic events; (11)  food safety; (12) chemical events; (13) radionuclear emergencies)</p> 
-  <p></p> 
-  <p>Indicators after 2021 - legislation, national policies; coordination and liaison with national focal points; financing; the laboratory; supervision; human resources; preparedness and response; providing medical assistance; infection prevention and control; risk communication; entry points; zoonotic events; food safety; chemical events; radionuclear emergencies </p>
+graph_title: national_indicators.3-d-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Health Sector Capacity Index ((1) national legislation, policies and  funding; (2) coordination and liaison with national focal points; (3)  surveillance; (4) response; (5) preparedness; (6) risk communication; (7)  human resources; (8) laboratory; (9) entry points; (10) zoonotic events; (11)  food safety; (12) chemical events; (13) radionuclear emergencies)Indicators after 2021 - legislation, national policies; coordination and liaison with national focal points; Financing; the laboratory; supervision; human resources; preparedness and response; providing medical assistance; infection prevention and control; risk communication; entry points; zoonotic events; food safety; chemical events; radionuclear emergencies
+indicator_available: national_indicators.3-d-1-title
 indicator_name: global_indicators.3-d-1-title
 indicator_number: 3.d.1
 indicator_tabs:: 

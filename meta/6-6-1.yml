@@ -48,7 +48,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Ministry of Environment and subordinate  institutions:</p> 
+  <p> 1. Ministry of Environment</p> 
   <p>2. State Hydrometeorological Service</p> 
   <p>3. Environment  Agency</p> 
   <p>4. Agency of Geology and Mineral Resources </p>
@@ -74,7 +74,7 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Ministry of Environment and subordinate  institutions:</p> 
+  <p> 1. Ministry of Environment</p> 
   <p>2. State Hydrometeorological Service</p> 
   <p>3. Environment  Agency</p> 
   <p>4. Agency of Geology and Mineral Resources </p>

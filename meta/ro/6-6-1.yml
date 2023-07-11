@@ -48,7 +48,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Ministerul  Mediului instituțiile  subordonate:</p> 
+  <p> 1. Ministerul  Mediului</p> 
   <p>2. Serviciul Hidrometeorologic de Stat, </p> 
   <p>3. Agenţia de  Mediu</p> 
   <p>4. Agenția pentru Geologie și Resurse Minerale </p>
@@ -74,7 +74,7 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Ministerul  Mediului instituțiile  subordonate:</p> 
+  <p> 1. Ministerul  Mediului</p> 
   <p>2. Serviciul Hidrometeorologic de Stat, </p> 
   <p>3. Agenţia de  Mediu</p> 
   <p>4. Agenția pentru Geologie și Resurse Minerale </p>
