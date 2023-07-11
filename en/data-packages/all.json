@@ -14706,7 +14706,7 @@
             "title": "Sex"
           },
           {
-            "name": "Age groups",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -14718,7 +14718,7 @@
                 ""
               ]
             },
-            "title": "Age groups"
+            "title": "Age group"
           },
           {
             "name": "Value",

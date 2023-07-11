@@ -13555,7 +13555,7 @@
             }
           },
           {
-            "name": "Age groups",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
