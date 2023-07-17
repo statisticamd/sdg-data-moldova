@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Level of government ",
+            "name": "Level of government",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Level of government "
+            "title": "Level of government"
           },
           {
             "name": "Function type",

@@ -104,6 +104,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-5-1-a,"Area of residence, Sex",2
 #4-5-1-b,"Area of residence, Sexes",2
 #4-5-1-c,Sex,1
+#4-5-1-e,"Area of residence, Sex",2
 #4-a-1-a,"Area of residence, Education levels",2
 #4-a-1-b,Area of residence,1
 #4-a-1-c,Area of residence,1
@@ -120,7 +121,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1-2,Area of residence,1
 #5-5-1-b,Levels,1
 #5-5-2,"Area of residence, Economic activities, Forms of ownership",3
-#5-5-2-2,"Level of government , Function type",2
+#5-5-2-2,"Level of government, Function type",2
 #5-6-2-2,Sub-indicators,1
 #5-a-1-b,Age group,1
 #5-b-1-1,"Area of residence, Sex of the head of the household",2

@@ -4831,7 +4831,7 @@
             "title": "Anul"
           },
           {
-            "name": "Level of government ",
+            "name": "Level of government",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4841,7 +4841,7 @@
                 ""
               ]
             },
-            "title": "Level of government "
+            "title": "Nivelul autorități publice"
           },
           {
             "name": "Function type",
