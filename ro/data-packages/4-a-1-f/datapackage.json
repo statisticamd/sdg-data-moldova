@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "învățământ primar",
-                "gimnazial",
+                "mediu general",
                 "liceal",
                 ""
               ]

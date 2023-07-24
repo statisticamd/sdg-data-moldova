@@ -128,7 +128,7 @@
                 "Superior",
                 "Mediu de specialitate",
                 "Secundar profesional",
-                "Gimnazial",
+                "Mediu general",
                 "Gimnazial",
                 ""
               ]
@@ -862,7 +862,7 @@
             "constraints": {
               "enum": [
                 "învățământ primar",
-                "gimnazial",
+                "mediu general",
                 "liceal",
                 ""
               ]
@@ -1498,7 +1498,7 @@
                 "Superior",
                 "Mediu de specialitate",
                 "Secundar profesional",
-                "Gimnazial",
+                "Mediu general",
                 "Gimnazial",
                 ""
               ]
@@ -2339,7 +2339,7 @@
             "constraints": {
               "enum": [
                 "învățământ primar",
-                "gimnazial",
+                "mediu general",
                 "liceal",
                 ""
               ]
@@ -2517,7 +2517,7 @@
                 "Superior",
                 "Mediu de specialitate",
                 "Secundar profesional",
-                "Gimnazial",
+                "Mediu general",
                 "Gimnazial",
                 ""
               ]
@@ -4412,7 +4412,7 @@
                 "Superior",
                 "Mediu de specialitate",
                 "Secundar profesional",
-                "Gimnazial",
+                "Mediu general",
                 "Gimnazial",
                 ""
               ]
@@ -6006,7 +6006,7 @@
             "constraints": {
               "enum": [
                 "învățământ primar",
-                "gimnazial",
+                "mediu general",
                 "liceal",
                 ""
               ]
@@ -10870,7 +10870,7 @@
               "enum": [
                 "Educație timpurie",
                 "învățământ primar",
-                "gimnazial",
+                "mediu general",
                 "liceal",
                 ""
               ]
