@@ -1092,7 +1092,7 @@
             "constraints": {
               "enum": [
                 "Total până la 18 ani",
-                "Boys up to the age of 18  years old",
+                "Băieți până la 18 ani",
                 "Fete până la 18 ani",
                 ""
               ]
@@ -12538,7 +12538,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisnau",
+                "Mun. Chișinău",
                 "Nord",
                 "Centru",
                 "Sud",
@@ -13473,7 +13473,7 @@
                 "Sud",
                 "Centru",
                 "UTA Găgăuzia",
-                "Mun. Chisinău",
+                "Mun. Chișinău",
                 ""
               ]
             },

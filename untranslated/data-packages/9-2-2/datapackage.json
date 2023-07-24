@@ -41,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisnau",
+                "Mun. Chisinau",
                 "North",
                 "Center",
                 "South",

@@ -1092,7 +1092,7 @@
             "constraints": {
               "enum": [
                 "Total up to the age of 18 years old",
-                "Boys up to the age of 18  years old",
+                "Boys up to the age of 18 years old",
                 "Girls up to the age of 18 years old",
                 ""
               ]
@@ -4163,7 +4163,7 @@
                 "North",
                 "Center",
                 "South",
-                "ATU Găgăuzia",
+                "ATU Gagauzia",
                 ""
               ]
             },
@@ -12538,7 +12538,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mun. Chisnau",
+                "Mun. Chisinau",
                 "North",
                 "Center",
                 "South",
@@ -13473,7 +13473,7 @@
                 "South",
                 "Center",
                 "ATU Gagauzia",
-                "Mun. Chisinău",
+                "Mun. Chisinau",
                 ""
               ]
             },
