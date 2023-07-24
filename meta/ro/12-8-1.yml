@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 12.8.1: Măsura în care (i) educația pentru cetățenie globală și (ii) educația pentru  dezvoltare durabilă sunt integrate în (a) politicile naționale educaționale;  (b) curriculum; (c) instruirea profesorilor și (d) evaluarea studenților</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 12.8: Până în 2030, oamenii de pretutindeni trebuie să dețină informații relevante  și să fie sensibilizați pe tema dezvoltării durabile și a unui stil de viață  în armonie cu natura</p>
+  <p>Target NA: Până în 2030, oamenii de pretutindeni trebuie să dețină informații relevante  și să fie sensibilizați pe tema dezvoltării durabile și a unui stil de viață  în armonie cu natura</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNESCO-UIS
@@ -10,14 +10,13 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  12.8
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 782kB)
 SDG_INDICATOR: >-
-  <p>Indicator 12.8.1: ța în curricula școlară a modulelor/ conținuturilor curriculare: i)  dezvoltarea durabilă, ii) educația pentru schimbările climatice și abordarea  multidisciplinară a acestora în vederea formării profilului absolventului</p>
+  <p>Indicator 12.8.1: Existența în curricula școlară a modulelor/ conținuturilor curriculare: i)  dezvoltarea durabilă, ii) educația pentru schimbările climatice și abordarea  multidisciplinară a acestora în vederea formării profilului absolventului</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 12.4.2.b. Proportion of hazardous waste recycled, disposed of or landfilled  in total hazardous waste generated
+graph_title: national_indicators.12-4-2-b-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of hazardous waste recycled, disposed of or landfilled in total hazardous waste generated
+indicator_available: national_indicators.12-4-2-b-title
 indicator_name: national_indicators.12-4-2-b-title
 indicator_number: 12.4.2.b
 indicator_tabs:: 

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 11.3.1. Ratio of land consumption rate to population growth rate
+graph_title: national_indicators.11-3-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: f land consumption rate to population growth rate
+indicator_available: national_indicators.11-3-1-title
 indicator_name: global_indicators.11-3-1-title
 indicator_number: 11.3.1
 indicator_tabs:: 

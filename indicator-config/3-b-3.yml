@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+graph_title: national_indicators.3-b-3-graph
 graph_titles: []
 graph_type: line
-indicator_available: tion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+indicator_available: national_indicators.3-b-3-title
 indicator_name: global_indicators.3-b-3-title
 indicator_number: 3.b.3
 indicator_tabs:: 

@@ -1,7 +1,8 @@
 composite_breakdown_label: ''
 computation_units: score
 copyright: ''
-data_footnote: ''
+data_footnote: <p> Latest policy document:</p> 
+  <p>The national employment program for the years 2022-2026 and the action plan for its implementation was approved by Government Decision no. 785 of 16.11.2022 </p>
 data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
@@ -32,40 +33,9 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova, without the left side of 
-  the river Nistru and he municipality of Bender
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and he municipality of Bender
 page_content: >-
-  <p> 2010 - Score 3. National action plan for employment for 2010, approved by the 
-  Government Decision no.219/ 2010</p> 
-  <p>2011 - Score 3. National action plan for employment for 2011, approved by the 
-  Government Decision no.81/ 2011</p> 
-  <p>2012 - Score 3. National action plan for employment for 2012, approved by the 
-  Government Decision no.1011/ 2012</p> 
-  <p>2013 - Score 3. National action plan for employment for 2013, approved by the 
-  Government Decision no.1020/ 2013</p> 
-  <p>2014 - Score 3. National action plan for employment for 2014, approved by the 
-  Government Decision no.1091/ 2014</p> 
-  <p>2015 - Score 3. National action plan for employment for 2015, approved by the 
-  Government Decision no.335/ 2015</p> 
-  <p>2016 - Score 1.</p> 
-  <p>2017 - Score 3. National Employment Strategy for 2017-2021, approved by the 
-  Government Decision no. 1473 of 30 December 2016. The National Action Plan for 
-  2017 for the implementation of the National Employment Strategy for 2017-2021 approved 
-  by the Government Decision no.582/ 2017</p> 
-  <p>2018 - Score 3. National Employment Strategy for 2017-2021, approved by the 
-  Government Decision no. 1473 of 30 December 2016.  The National Action Plan for 
-  2018 for the implementation of the National Employment Strategy for 2017-2021 approved 
-  by the Government Decision no.552/ 2018</p> 
-  <p>2019 - Score 3. The National Strategy on Employment for 2017-2021, approved 
-  by the Government Decision no. 1473/2016 </p> 
-  <p>2020 - Score 3. National Employment Strategy for 2017-2021, approved by the 
-  Government Decision no. 1473 of 30 December 2016.  The National Action Plan for 
-  2020 for the implementation of the National Strategy on Employment for 2017-2021 
-  approved by the Government Decision no.290/2020</p> 
-  <p>2021 - Score 3. National Employment Strategy for 2017-2021, approved by the 
-  Government Decision no. no. 1473 of 30 December 2016</p> 
-  <p>2022 – Score 1. National Program for Employment for the years 2022-2026, approved 
-  by the Government Decision no. 785/2022 </p>
+  NA
 permalink: ''
 placeholder: ''
 precision: []
