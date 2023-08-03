@@ -170,5 +170,6 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags: []
+tags:
+  - Global adjusted
 x_axis_label: ''
