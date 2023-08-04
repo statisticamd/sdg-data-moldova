@@ -44,5 +44,6 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags: []
+tags:
+  - Gloabl
 x_axis_label: ''
