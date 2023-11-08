@@ -82,8 +82,7 @@ translations:
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
 # fields, beyond the default "status by goal" report.
-reporting_status_extra_fields:
-  - tags
+reporting_status_extra_fields: []
 
 # Map layers
 # ----------
