@@ -22,8 +22,8 @@ Indicator,Disaggregations,Number of disaggregations
 #10-6-1-a,International organisations,1
 #10-6-1-b,International organisations,1
 #10-b-1,Source,1
-#11-1-1-a,"Area of residence, Sex, Quintiles on consumption expenditures, Age group, Existence of disability",5
-#11-1-1-b,"Area of residence, Sex, Quintiles on consumption expenditures, Age group, Existence of disability",5
+#11-1-1-a,"Area of residence, Quintiles on consumption expenditures, Sex, Age group, Existence of disability",5
+#11-1-1-b,"Area of residence, Quintiles on consumption expenditures, Sex, Age group, Existence of disability",5
 #11-5-1-a,"Age group, Classes of disasters",2
 #11-5-1-c,"Age group, Classes of disasters",2
 #11-6-2,Cities,1
@@ -53,12 +53,12 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-2,"Sex, Duration of arrest",2
 #16-3-2-1,"Sex, Age group, Ethnicity, Disability, Citizenship, Beneficiary status - foreign citizen, Requested authority, Legal basis, Type of qualified assistance, Primary care",10
 #16-3-2-2,Children's rights,1
-#16-5-1,"Sex, Institutions where have been made payments, Level of education",3
-#16-5-2,"Sex, Nivel de instruire, Institutions where have been made payments",3
+#16-5-1,"Sex, Level of education, Institutions where have been made payments",3
+#16-5-2,"Sex, Institutions where have been made payments, Nivel de instruire",3
 #16-6-2-1,Access mode,1
 #16-7-1-a,"Sex, Age group",2
 #16-7-1-c,"Proportion of female judges to Proportion of women in the working-age population, Proportion of female registrars to Proportion of women in the working-age population, Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of judges with a disability to Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",6
-#16-b-1,"Sex, Age group, Area of residence  of the respondents, Discrimination criteria, Entities in which they were discriminated against, The quality of the person who discriminated, The quality/function held by the natural person, The field of activity related to the person who discriminated",8
+#16-b-1,"Sex, Age group, Discrimination criteria, Entities in which they were discriminated against, Area of residence  of the respondents, The quality of the person who discriminated, The quality/function held by the natural person, The field of activity related to the person who discriminated",8
 #17-1-1,Types of income,1
 #17-10-1,Types of products,1
 #17-11-1,Indicators,1
@@ -85,7 +85,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-1,Sex,1
 #3-7-2,"Area of residence, Births at the age of 10-14 years old",2
 #3-8-2-1,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years",4
-#3-8-2-2,"Area of residence, Sex, Quintiles on consumption expenditures, Age group",4
+#3-8-2-2,"Area of residence, Quintiles on consumption expenditures, Sex, Age group",4
 #3-8-2-a,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years, Household type",5
 #3-8-2-b,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years, Household type",5
 #3-9-3,Sex,1
@@ -120,7 +120,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"Area of residence, Sex, Age group",3
 #5-4-1-2,Area of residence,1
 #5-5-1-b,Levels,1
-#5-5-2,"Area of residence, Economic activities, Forms of ownership",3
+#5-5-2,"Area of residence, Forms of ownership, Economic activities",3
 #5-5-2-2,"Level of government, Function type",2
 #5-6-2-2,Sub-indicators,1
 #5-a-1-b,Age group,1
@@ -132,7 +132,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-2-1-b,"Area of residence, Wealth quintiles",2
 #6-3-1,"Economic activities, Rayons/Municipalities that have treatment plants",2
 #6-3-2-1,Types of sources,1
-#6-4-1-1,"Consumption needs, Economic activities",2
+#6-4-1-1,"Economic activities, Consumption needs",2
 #6-4-2,Economic activities,1
 #6-5-2,River,1
 #6-6-1,"Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections, The quantity of groundwater in aquifers, thousand m3/24h",2
@@ -152,7 +152,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-9-1-2,Sex,1
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1
-#9-2-2,"Sex, Statistical regions, Age group, Occupations",4
+#9-2-2,"Statistical regions, Sex, Age group, Occupations",4
 #9-4-1-1,Emission sectors,1
 #9-5-2,Sex,1
 #9-c-1,Type of technology,1
