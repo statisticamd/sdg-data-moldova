@@ -14,6 +14,7 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
@@ -28,5 +29,8 @@ permalink: ''
 precision: []
 reporting_status: divided
 sort: ''
+sources: []
 standalone: false
-tags: []
+tags:
+  - Global divided
+x_axis_label: ''
