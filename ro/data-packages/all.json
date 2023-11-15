@@ -101,7 +101,7 @@
           }
         ]
       },
-      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+      "title": "Proporția comerțului ilicit cu animale sălbatice, care au fost braconate sau traficate prin contrabandă"
     },
     {
       "path": "3-a-1/data.csv",
@@ -149,7 +149,7 @@
           }
         ]
       },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+      "title": "Prevalența standardizată pe vârstă a consumului de tutun în rândul populației în vârstă de 15 ani și peste"
     },
     {
       "path": "16-2-1/data.csv",
@@ -255,7 +255,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+      "title": "Ponderea copiilor (1-17 ani) care au fost supuși pedepsei fizice și/sau agresiunii psihologice din partea îngrijitorilor, în ultima lună"
     },
     {
       "path": "17-18-1-1/data.csv",
@@ -335,7 +335,7 @@
           }
         ]
       },
-      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+      "title": "Procentul tinerilor (15–24 ani) fără un loc de muncă, studii sau instruire"
     },
     {
       "path": "16-1-1/data.csv",
@@ -413,7 +413,7 @@
           }
         ]
       },
-      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+      "title": "Numărul victimelor omorului intenționat la 100 mii populație, pe sexe și vârstă"
     },
     {
       "path": "16-1-3/data.csv",
@@ -479,7 +479,7 @@
           }
         ]
       },
-      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
+      "title": "Proporția populației supuse (a) violentei fizice, (b) violenței psihologice și (c) violenței sexuale, în ultimele 12 luni"
     },
     {
       "path": "9-5-1/data.csv",
@@ -503,7 +503,7 @@
           }
         ]
       },
-      "title": "Research and development expenditure as a proportion of GDP"
+      "title": "Cheltuielile pentru cercetare și dezvoltare ca procent din PIB"
     },
     {
       "path": "12-3-1-a/data.csv",
@@ -656,7 +656,7 @@
           }
         ]
       },
-      "title": "Proportion of population living in households with access to basic services"
+      "title": "Ponderea populației care locuiește în gospodării casnice cu acces la servicii de bază"
     },
     {
       "path": "16-3-1/data.csv",
@@ -747,7 +747,7 @@
           }
         ]
       },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+      "title": "Ponderea victimelor violenței care în ultimele 12 luni au raport despre victimizarea lor autorităților competente sau altor mecanisme oficial recunoscute de soluționare a conflictelor"
     },
     {
       "path": "12-5-1-1/data.csv",
@@ -863,7 +863,7 @@
           }
         ]
       },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+      "title": "Proporția femeilor și fetelor de 15 ani și peste care au fost supuse violenței sexuale din partea unei altei persoane decât partenerul intim, în ultimele 12 luni, pe vârste și locul survenirii violenței"
     },
     {
       "path": "7-3-1-b/data.csv",
@@ -1147,7 +1147,7 @@
           }
         ]
       },
-      "title": "Proportion of population with primary reliance on clean fuels and technology"
+      "title": "Ponderea populației care se bazează în mod primar pe carburanți și tehnologii curate"
     },
     {
       "path": "3-b-3/data.csv",
@@ -1171,7 +1171,7 @@
           }
         ]
       },
-      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+      "title": "Proporția instituțiilor medico-sanitare care dispun de setul de bază al medicamentelor esențiale disponibile și accesibile în mod permanent"
     },
     {
       "path": "9-1-2-b/data.csv",
@@ -1246,7 +1246,7 @@
           }
         ]
       },
-      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+      "title": "Volumul remiterilor personale (în dolari SUA) ca procent din PIB"
     },
     {
       "path": "10-3-1/data.csv",
@@ -1349,7 +1349,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Ponderea populației care a comunicat că în ultimele 12 luni s-a simțit vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul internațional al drepturilor omului"
     },
     {
       "path": "13-1-3/data.csv",
@@ -1373,7 +1373,7 @@
           }
         ]
       },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+      "title": "Proporția autorităților publice locale care adoptă și implementează strategii locale de reducere a riscurilor de dezastre în conformitate cu strategiile naționale de reducere a riscurilor de dezastre"
     },
     {
       "path": "14-2-1/data.csv",
@@ -1397,7 +1397,7 @@
           }
         ]
       },
-      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
+      "title": "Numărul de țări care utilizează abordări bazate pe ecosistem pentru gestionarea zonelor marine"
     },
     {
       "path": "12-5-1/data.csv",
@@ -1436,7 +1436,7 @@
           }
         ]
       },
-      "title": "National recycling rate, tons of material recycled"
+      "title": "Rata națională de reciclare, tone de material reciclat"
     },
     {
       "path": "7-1-1/data.csv",
@@ -1472,7 +1472,7 @@
           }
         ]
       },
-      "title": "Proportion of population with access to electricity"
+      "title": "Ponderea populației cu acces la energie electrică"
     },
     {
       "path": "9-2-2/data.csv",
@@ -1552,7 +1552,7 @@
           }
         ]
       },
-      "title": "Manufacturing employment as a proportion of total employment"
+      "title": "Ponderea populației ocupate în industria prelucrătoare în total populație ocupată"
     },
     {
       "path": "10-2-1/data.csv",
@@ -1616,7 +1616,7 @@
           }
         ]
       },
-      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+      "title": "Ponderea populației care trăiește sub 50% din venitul median, pe sexe, vârstă, persoane cu dizabilități"
     },
     {
       "path": "1-a-2-a/data.csv",
@@ -1957,7 +1957,7 @@
           }
         ]
       },
-      "title": "Red List Index"
+      "title": "Indicele Listei Roșii"
     },
     {
       "path": "16-9-1/data.csv",
@@ -1981,7 +1981,7 @@
           }
         ]
       },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+      "title": "Ponderea copiilor în vârstă de până la 5 ani, nașterea cărora a fost înregistrată de o autoritate civilă, pe vârste"
     },
     {
       "path": "13-3-1-1/data.csv",
@@ -2172,7 +2172,7 @@
           }
         ]
       },
-      "title": "Ratio of land consumption rate to population growth rate"
+      "title": "Rata consumului de teren raportată la rata de creștere a populației"
     },
     {
       "path": "4-5-1-e/data.csv",
@@ -2242,7 +2242,7 @@
           }
         ]
       },
-      "title": "Proportion of agricultural area under productive and sustainable agriculture"
+      "title": "Ponderea suprafețelor agricole în agricultură productivă și durabilă"
     },
     {
       "path": "12-3-1-b/data.csv",
@@ -2330,7 +2330,7 @@
           }
         ]
       },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+      "title": "Concentrația medie anuală a suspensiilor solide (PM2.5 și PM10) în urbe (populație ponderată)"
     },
     {
       "path": "13-3-1-2/data.csv",
@@ -2486,7 +2486,7 @@
           }
         ]
       },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+      "title": "Cheltuielile publice primare drept ca pondere din bugetul aprobat inițial, pe sectoare (sau pe coduri bugetare sau ceva similar)"
     },
     {
       "path": "17-6-1/data.csv",
@@ -2552,7 +2552,7 @@
           }
         ]
       },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+      "title": "Numărul abonaților cu acces la Internet în banda larga, la 100 de locuitori, după viteza de acces"
     },
     {
       "path": "5-6-2-2/data.csv",
@@ -2629,7 +2629,7 @@
           }
         ]
       },
-      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+      "title": "Nivelul stresului hidric: ponderea apei captate din totalul resurselor de apă disponibile"
     },
     {
       "path": "5-1-1/data.csv",
@@ -2653,7 +2653,7 @@
           }
         ]
       },
-      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+      "title": "Existența cadrului legal pentru promovarea, punerea în aplicare și monitorizarea egalității și nediscriminării pe baza de sex"
     },
     {
       "path": "16-5-2-2/data.csv",
@@ -2774,7 +2774,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Măsura în care (i) educația pentru cetățenie globală și (ii) educația pentru dezvoltare durabilă sunt integrate în (a) politicile naționale educaționale; (b) curriculum; (c) instruirea profesorilor și (d) evaluarea studenților"
     },
     {
       "path": "5-a-1-a/data.csv",
@@ -2887,7 +2887,7 @@
           }
         ]
       },
-      "title": "Change in the extent of water-related ecosystems over time"
+      "title": "Modificarea procentuală a ecosistemului acvatic în timp"
     },
     {
       "path": "2-2-2-a/data.csv",
@@ -2962,7 +2962,7 @@
           }
         ]
       },
-      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+      "title": "Prevalența anemiei la femeile cu vârsta cuprinsă între 15 și 49 de ani, în funcție de statutul sarcinii (procent)"
     },
     {
       "path": "2-3-1-1/data.csv",
@@ -3058,7 +3058,7 @@
           }
         ]
       },
-      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Consumul  de alcool per capita (15+ ani) în decurs de un an calendaristic în litri de alcool pur"
     },
     {
       "path": "9-3-1-1/data.csv",
@@ -3146,7 +3146,7 @@
           }
         ]
       },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+      "title": "Prevalența retardului statural (înălțimea pentru vârstă cu o deviere standard <-2 de la mediana standardelor Organizației Mondiale a Sănătății (OMS) pentru creșterea copiilor) printre copii în vârstă de până la 5 ani"
     },
     {
       "path": "16-7-1-c/data.csv",
@@ -3356,7 +3356,7 @@
           }
         ]
       },
-      "title": "Progress towards sustainable forest management"
+      "title": "Progresul privind managementul durabil al pădurilor"
     },
     {
       "path": "12-2-2-a/data.csv",
@@ -3430,7 +3430,7 @@
           }
         ]
       },
-      "title": "Developing countries’ and least developed countries’ share of global exports"
+      "title": "Ponderea exporturilor țărilor în curs de dezvoltare și a celor mai puțin dezvoltate în comerțul global"
     },
     {
       "path": "6-1-1-1/data.csv",
@@ -3547,7 +3547,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+      "title": "Proporția femeilor în vârstă de 20-24 ani în căsătorii sau uniuni până la 15 și 18 ani"
     },
     {
       "path": "16-3-2-2/data.csv",
@@ -3618,7 +3618,7 @@
           }
         ]
       },
-      "title": "Death rate due to road traffic injuries"
+      "title": "Rata mortalității determinată de accidente rutiere"
     },
     {
       "path": "10-5-1/data.csv",
@@ -3659,7 +3659,7 @@
           }
         ]
       },
-      "title": "Financial Soundness Indicators"
+      "title": "Indicatorii de stabilitate financiară"
     },
     {
       "path": "16-2-1-1/data.csv",
@@ -3856,7 +3856,7 @@
           }
         ]
       },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+      "title": "Ponderea apelor uzate epurate în mod sigur"
     },
     {
       "path": "10-1-1-b/data.csv",
@@ -3975,7 +3975,7 @@
           }
         ]
       },
-      "title": "Proportion of population satisfied with their last experience of public services"
+      "title": "Ponderea populației satisfăcute de ultima experiență de accesare a serviciilor publice"
     },
     {
       "path": "15-1-1/data.csv",
@@ -3999,7 +3999,7 @@
           }
         ]
       },
-      "title": "Forest area as a proportion of total land area"
+      "title": "Suprafața forestieră ca procent din suprafața totală a terenurilor terestre"
     },
     {
       "path": "4-1-2-1/data.csv",
@@ -4339,7 +4339,7 @@
           }
         ]
       },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+      "title": "Rata accidentelor de muncă fatale și non-fatale la 100.000 lucrători, pe sexe și statut migrațional"
     },
     {
       "path": "9-c-1-1/data.csv",
@@ -4438,7 +4438,7 @@
           }
         ]
       },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+      "title": "Valoarea pierderilor economice directe în urma situațiilor excepționale raportate la PIB"
     },
     {
       "path": "8-10-2-1/data.csv",
@@ -4589,7 +4589,7 @@
           }
         ]
       },
-      "title": "Tuberculosis incidence per 100,000 population"
+      "title": "Incidența prin tuberculoză, la 100 mii populație"
     },
     {
       "path": "2-3-1/data.csv",
@@ -4613,7 +4613,7 @@
           }
         ]
       },
-      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+      "title": "Volumul producerii per unitate de muncă pe clase de fermieri/păstori/dimensiunea întreprinderii forestiere"
     },
     {
       "path": "17-17-1-1/data.csv",
@@ -4689,7 +4689,7 @@
           }
         ]
       },
-      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+      "title": "Numărul de părți la acorduri internaționale și multilaterale de mediu cu privire la deșeurile periculoase și alte substanțe chimice, care-și întrunesc angajamentele și obligațiilor lor privind transmiterea informației după cum se solicitări de fiecare acord relevant"
     },
     {
       "path": "15-3-1/data.csv",
@@ -4713,7 +4713,7 @@
           }
         ]
       },
-      "title": "Proportion of land that is degraded over total land area"
+      "title": "Cota parte a terenurilor degradate din suprafața totală de terenuri"
     },
     {
       "path": "3-3-1-1/data.csv",
@@ -4797,7 +4797,7 @@
           }
         ]
       },
-      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+      "title": "Volumul fluxurilor oficiale (asistenței oficiale pentru dezvoltare și alte fluxuri) pentru sectorul agricol"
     },
     {
       "path": "16-7-1-a/data.csv",
@@ -4954,7 +4954,7 @@
           }
         ]
       },
-      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+      "title": "Prevalența insecurității alimentare moderate sau severe în rândul populației, în baza Scării de Experiență în Insecuritatea Alimentară (FIES)"
     },
     {
       "path": "8-1-1/data.csv",
@@ -4993,7 +4993,7 @@
           }
         ]
       },
-      "title": "Annual growth rate of real GDP per capita"
+      "title": "Rata anuală de creștere a PIB pe cap de locuitor"
     },
     {
       "path": "3-2-1/data.csv",
@@ -5041,7 +5041,7 @@
           }
         ]
       },
-      "title": "Under‑5 mortality rate"
+      "title": "Rata mortalității copiilor în vârstă de până la 5 ani"
     },
     {
       "path": "2-2-2-b/data.csv",
@@ -5089,7 +5089,7 @@
           }
         ]
       },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+      "title": "Gradul de acoperire cu intervenții de tratare (servicii farmacologice, psiho-sociale și de reabilitare, cât și servicii după acordarea de asistență) pentru tulburările cauzate de consumul de substanțe"
     },
     {
       "path": "11-5-1-a/data.csv",
@@ -5428,7 +5428,7 @@
           }
         ]
       },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+      "title": "Ponderea persoanelor care au avut cel puțin un contact cu un funcționar public și care au plătit mită unui funcționar public sau au fost rugate să plătească mită de către acești funcționari publici în ultimele 12 luni"
     },
     {
       "path": "7-b-1-2/data.csv",
@@ -5528,7 +5528,7 @@
           }
         ]
       },
-      "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
+      "title": "Numărul deceselor cauzate de conflicte la 100 mii populație, pe sexe, vârste și cauză"
     },
     {
       "path": "16-a-1/data.csv",
@@ -5552,7 +5552,7 @@
           }
         ]
       },
-      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
+      "title": "Existența instituțiilor naționale independente pentru drepturile omului în conformitate cu Principiile de la Paris"
     },
     {
       "path": "8-8-2-1/data.csv",
@@ -5600,7 +5600,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+      "title": "Resurse financiare suplimentare mobilizate pentru țările în curs de dezvoltare din surse multiple"
     },
     {
       "path": "15-a-1/data.csv",
@@ -5624,7 +5624,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "(a) Asistență oficială pentru dezvoltare pentru conservarea și utilizarea durabilă a biodiversității; și (b) veniturile generate și finanțarea mobilizată din instrumente economice relevante pentru biodiversitate"
     },
     {
       "path": "4-7-1/data.csv",
@@ -5648,7 +5648,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Măsura în care (i) educația privind cetățenia globală și (ii) educația pentru dezvoltare durabilă, sunt integrate în (a) politicile educaționale naționale, (b) curriculum, (c) instruirea profesorilor și (d) evaluarea studenților"
     },
     {
       "path": "3-8-1-1/data.csv",
@@ -5770,7 +5770,7 @@
           }
         ]
       },
-      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+      "title": "Ponderea medie a suprafeței construite a orașelor care este deschisă utilizării publice pentru toți, pe sexe, vârstă și persoane cu dizabilități"
     },
     {
       "path": "6-5-2/data.csv",
@@ -5806,7 +5806,7 @@
           }
         ]
       },
-      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+      "title": "Ponderea suprafeței bazinelor hidrografice transfrontaliere cu aranjamente operaționale pentru cooperare în domeniul apei"
     },
     {
       "path": "13-2-1-1/data.csv",
@@ -5955,7 +5955,7 @@
           }
         ]
       },
-      "title": "Proportion of population using safely managed drinking water services"
+      "title": "Ponderea populației care utilizează servicii de apă potabilă gestionate în mod sigur"
     },
     {
       "path": "3-9-3/data.csv",
@@ -5991,7 +5991,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to unintentional poisoning"
+      "title": "Rata mortalității determinate de intoxicații neintenționate"
     },
     {
       "path": "17-19-2-b/data.csv",
@@ -6088,7 +6088,7 @@
           }
         ]
       },
-      "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+      "title": "Proporția timpului alocat pentru munca casnică și îngrijiri neremunerate, pe sexe, vârstă și locație"
     },
     {
       "path": "8-10-2/data.csv",
@@ -6172,7 +6172,7 @@
           }
         ]
       },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+      "title": "Procentul de adulți (15+ ani) care dispun de un cont la o bancă sau altă instituție financiară sau cu un prestator de servicii de bani mobili"
     },
     {
       "path": "7-b-1-1/data.csv",
@@ -6388,7 +6388,7 @@
           }
         ]
       },
-      "title": "Labour share of GDP"
+      "title": "Ponderea forței de muncă în PIB"
     },
     {
       "path": "8-4-1-a/data.csv",
@@ -6447,7 +6447,7 @@
           }
         ]
       },
-      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
+      "title": "Ponderea APL care dispun de programe/strategii, proceduri stabilite și operaționale de implicare a comunității în managementul apei și a sanitației"
     },
     {
       "path": "10-b-1/data.csv",
@@ -6483,7 +6483,7 @@
           }
         ]
       },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+      "title": "Fluxurile totale de resurse pentru dezvoltare, pe țări beneficiare și țări donatoare și tip de fluxuri (de ex. asistența oficială pentru dezvoltare, investiții străine directe și alte fluxuri)"
     },
     {
       "path": "11-2-1/data.csv",
@@ -6559,7 +6559,7 @@
           }
         ]
       },
-      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+      "title": "Proporția populației care are acces convenabil la transportul public, pe sexe, vârstă și persoane cu dizabilități"
     },
     {
       "path": "4-a-1-d/data.csv",
@@ -6641,7 +6641,7 @@
           }
         ]
       },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+      "title": "Proporția autorităților publice locale care adoptă și implementează strategii locale de reducere a riscurilor de dezastre în conformitate cu strategiile naționale de reducere a riscurilor de dezastre"
     },
     {
       "path": "3-4-2/data.csv",
@@ -6690,7 +6690,7 @@
           }
         ]
       },
-      "title": "Suicide mortality rate"
+      "title": "Rata mortalității prin suicid"
     },
     {
       "path": "9-2-1-2/data.csv",
@@ -6750,7 +6750,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to household and ambient air pollution"
+      "title": "Rata mortalității determinate de poluarea aerului în încăperi și celui ambiant"
     },
     {
       "path": "4-a-1-g/data.csv",
@@ -6915,7 +6915,7 @@
           }
         ]
       },
-      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+      "title": "Volumul asistenței externe oficiale pentru dezvoltare pentru burse de studii, în funcție de domeniul de educație și tipul studiilor"
     },
     {
       "path": "1-1-1/data.csv",
@@ -7024,7 +7024,7 @@
           }
         ]
       },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+      "title": "Ponderea populației aflate sub pragul internațional al sărăciei, pe sexe, vârstă, statut ocupațional și mediu de reședință (urban/rural)"
     },
     {
       "path": "8-4-2-b/data.csv",
@@ -7166,7 +7166,7 @@
           }
         ]
       },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+      "title": "Ponderea populației rurale care locuiește în raza de 2 km față de un drum funcțional pentru toate anotimpurile"
     },
     {
       "path": "8-2-1/data.csv",
@@ -7190,7 +7190,7 @@
           }
         ]
       },
-      "title": "Annual growth rate of real GDP per employed person"
+      "title": "Rata anuală de creștere a PIB pe o persoană ocupată"
     },
     {
       "path": "13-1-1-b/data.csv",
@@ -7345,7 +7345,7 @@
           }
         ]
       },
-      "title": "Proportion of individuals who own a mobile telephone, by sex"
+      "title": "Ponderea populației care deține telefon mobil, pe sexe"
     },
     {
       "path": "3-8-1/data.csv",
@@ -7369,7 +7369,7 @@
           }
         ]
       },
-      "title": "Coverage of essential health services"
+      "title": "Acoperirea cu servicii esențiale de sănătate"
     },
     {
       "path": "2-a-1/data.csv",
@@ -7393,7 +7393,7 @@
           }
         ]
       },
-      "title": "The agriculture orientation index for government expenditures"
+      "title": "Indicele orientării cheltuielilor publice către agricultură"
     },
     {
       "path": "11-1-1-a/data.csv",
@@ -7520,7 +7520,7 @@
           }
         ]
       },
-      "title": "Hepatitis B incidence per 100,000 population"
+      "title": "Incidența prin hepatita B, la 100 mii populație"
     },
     {
       "path": "2-5-1/data.csv",
@@ -7544,7 +7544,7 @@
           }
         ]
       },
-      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
+      "title": "Numărul de resurse genetice (a) vegetale și (b) animale pentru alimentație și agricultură asigurate în instalații de conservare pe termen mediu sau lung"
     },
     {
       "path": "3-7-1/data.csv",
@@ -7568,7 +7568,7 @@
           }
         ]
       },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+      "title": "Ponderea femeilor de vârstă fertilă (15-49 ani) cu necesități de planificare a familiei satisfăcute prin metode moderne de contracepție"
     },
     {
       "path": "4-a-1-c/data.csv",
@@ -7777,7 +7777,7 @@
           }
         ]
       },
-      "title": "Aid for Trade commitments and disbursements"
+      "title": "Volumul asistenței pentru angajamentele și debursările ce țin de comerț"
     },
     {
       "path": "14-7-1-1/data.csv",
@@ -7885,7 +7885,7 @@
           }
         ]
       },
-      "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+      "title": "Ponderea populației care consideră că procesul de luare a deciziilor este incluziv și participativ, pe sexe, vârstă, dizabilitate și grup de populație"
     },
     {
       "path": "4-5-1-c/data.csv",
@@ -7944,7 +7944,7 @@
           }
         ]
       },
-      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
+      "title": "Volumul suportului internațional oficial (asistenței externe oficiale plus alte fluxuri oficiale) acordate pentru dezvoltarea infrastructurii"
     },
     {
       "path": "5-6-2-1/data.csv",
@@ -8056,7 +8056,7 @@
           }
         ]
       },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
+      "title": "Ponderea persoanelor aflate în arest preventiv în total persoane deținute în instituții penitenciare"
     },
     {
       "path": "8-5-1-1/data.csv",
@@ -8245,7 +8245,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Ponderea populației care a comunicat că în ultimele 12 luni s-a simțit vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul internațional al drepturilor omului"
     },
     {
       "path": "12-1-1-1/data.csv",
@@ -8376,7 +8376,7 @@
           }
         ]
       },
-      "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+      "title": "Ponderea victimelor abuzului fizic sau hărțuirii sexuale, în ultimele 12 luni, pe sexe, vârstă, statut de dizabilitate și locul de survenire"
     },
     {
       "path": "15-3-1-1/data.csv",
@@ -8545,7 +8545,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+      "title": "Proporția copiilor cu vârsta cuprinsă între 24 și 59 de luni care sunt pe cale de dezvoltare în ceea ce privește sănătatea, învățarea și bunăstarea psihosocială, pe sexe"
     },
     {
       "path": "17-4-1/data.csv",
@@ -8569,7 +8569,7 @@
           }
         ]
       },
-      "title": "Debt service as a proportion of exports of goods and services"
+      "title": "Serviciul datoriei externe ca proporție din total export de bunuri și servicii"
     },
     {
       "path": "5-b-1-1/data.csv",
@@ -8703,7 +8703,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+      "title": "Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale aparatului respirator"
     },
     {
       "path": "17-10-1/data.csv",
@@ -8739,7 +8739,7 @@
           }
         ]
       },
-      "title": "Worldwide weighted tariff-average"
+      "title": "Nivelul mediu ponderat al tarifelor vamale la nivel mondial"
     },
     {
       "path": "16-5-2/data.csv",
@@ -8810,7 +8810,7 @@
           }
         ]
       },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+      "title": "Ponderea antreprenorilor care au avut cel puțin un contact cu un funcționar public și care au plătit mită unui funcționar public sau au fost rugați să plătească mită de către acești funcționari publici în ultimele 12 luni"
     },
     {
       "path": "4-c-1-a/data.csv",
@@ -9027,7 +9027,7 @@
           }
         ]
       },
-      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+      "title": "Existența unei strategii naționale elaborate și operaționalizate privind ocuparea tinerilor, ca o strategie distinctă sau o parte din strategia națională privind ocuparea"
     },
     {
       "path": "9-b-1/data.csv",
@@ -9051,7 +9051,7 @@
           }
         ]
       },
-      "title": "Proportion of medium and high-tech industry value added in total value added"
+      "title": "Ponderea valorii adăugate a industriei cu tehnologii avansate și medii-avansate în total valoarea adăugată"
     },
     {
       "path": "5-4-1-2/data.csv",
@@ -9111,7 +9111,7 @@
           }
         ]
       },
-      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+      "title": "Volumul asistenței externe oficiale pentru dezvoltare pentru sectorul de aprovizionare cu apă și sanitație, care face parte din planul de cheltuieli coordonate la nivel de guvern"
     },
     {
       "path": "17-18-2-1/data.csv",
@@ -9223,7 +9223,7 @@
           }
         ]
       },
-      "title": "Proportion of women in managerial positions"
+      "title": "Ponderea femeilor în funcții de conducere"
     },
     {
       "path": "1-3-1-b/data.csv",
@@ -9295,7 +9295,7 @@
           }
         ]
       },
-      "title": "Number of companies publishing sustainability reports"
+      "title": "Numărul companiilor care publică rapoarte privind consumul durabil de resurse"
     },
     {
       "path": "17-1-1/data.csv",
@@ -9333,7 +9333,7 @@
           }
         ]
       },
-      "title": "Total government revenue as a proportion of GDP, by source"
+      "title": "Venituri publice totale raportate la PIB, pe surse"
     },
     {
       "path": "12-4-2-a/data.csv",
@@ -9404,7 +9404,7 @@
           }
         ]
       },
-      "title": "Proportion of population covered by a mobile network, by technology"
+      "title": "Rata de acoperire a populației cu rețea mobilă, pe tehnologii"
     },
     {
       "path": "15-2-1-2/data.csv",
@@ -9562,7 +9562,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+      "title": "Ponderea femeilor în vârsta de 15-49 de ani care iau decizii independente cu privire la relații sexuale, utilizarea contracepției și sănătatea sexuală și reproductivă"
     },
     {
       "path": "11-2-1-3/data.csv",
@@ -9855,7 +9855,7 @@
           }
         ]
       },
-      "title": "Change in water-use efficiency over time"
+      "title": "Evoluția eficienței utilizării apei în timp"
     },
     {
       "path": "15-2-1-3/data.csv",
@@ -9973,7 +9973,7 @@
           }
         ]
       },
-      "title": "Proportion of the target population covered by all vaccines included in their national programme"
+      "title": "Ponderea populației țintă acoperite cu toate vaccinurile incluse în cadrul programului național de imunizări"
     },
     {
       "path": "16-1-3-1/data.csv",
@@ -10075,7 +10075,7 @@
           }
         ]
       },
-      "title": "Total net official development assistance to medical research and basic health sectors"
+      "title": "Volumul asistenței externe oficiale pentru cercetare-dezvoltare în domeniul sănătății și dezvoltarea sectoarelor de bază în sănătate"
     },
     {
       "path": "17-15-1/data.csv",
@@ -10099,7 +10099,7 @@
           }
         ]
       },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+      "title": "Nivelul de utilizare al cadrelor de rezultate și instrumentelor de planificare ale țării de către furnizorii de cooperare pentru dezvoltare"
     },
     {
       "path": "1-2-1/data.csv",
@@ -10163,7 +10163,7 @@
           }
         ]
       },
-      "title": "Proportion of population living below the national poverty line, by sex and age"
+      "title": "Ponderea populației aflate sub pragul național al sărăciei, pe sexe și vârstă"
     },
     {
       "path": "12-2-1-b/data.csv",
@@ -10265,7 +10265,7 @@
           }
         ]
       },
-      "title": "Unemployment rate, by sex, age and persons with disabilities"
+      "title": "Rata șomajului, pe sexe, vârstă și persoane cu dizabilități"
     },
     {
       "path": "11-7-1-1/data.csv",
@@ -10386,7 +10386,7 @@
           }
         ]
       },
-      "title": "Proportion of individuals using the Internet"
+      "title": "Proporția persoanelor care utilizează Internetul"
     },
     {
       "path": "4-4-1/data.csv",
@@ -10460,7 +10460,7 @@
           }
         ]
       },
-      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+      "title": "Ponderea tinerilor și adulților cu cunoștințe TIC, după tipul acestora"
     },
     {
       "path": "6-4-1-1/data.csv",
@@ -10573,7 +10573,7 @@
           }
         ]
       },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
+      "title": "Ponderea ocupării informale în total populație ocupată, pe sectoare și sexe"
     },
     {
       "path": "1-a-1-1/data.csv",
@@ -10633,7 +10633,7 @@
           }
         ]
       },
-      "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
+      "title": "Valoarea fluxurilor financiare intrate și ieșite din țară ilegal ($ SUA)"
     },
     {
       "path": "2-c-1/data.csv",
@@ -10657,7 +10657,7 @@
           }
         ]
       },
-      "title": "Indicator of food price anomalies"
+      "title": "Indicele anomaliilor în prețurile prețurilor produselor alimentare"
     },
     {
       "path": "1-b-1/data.csv",
@@ -10732,7 +10732,7 @@
           }
         ]
       },
-      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
+      "title": "Capacitatea și pregătirea pentru urgențele de sănătate conform Regulamentului Sanitar Internațional"
     },
     {
       "path": "10-1-1-a/data.csv",
@@ -10954,7 +10954,7 @@
           }
         ]
       },
-      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+      "title": "Numărul de noi infecții HIV la 1.000 persoane neinfectate, pe sexe, vârstă și populații cheie"
     },
     {
       "path": "14-b-1/data.csv",
@@ -10978,7 +10978,7 @@
           }
         ]
       },
-      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+      "title": "Gradul de implementare a cadrului legal/normativ/de politici/instituțional care recunoaște și protejează drepturile de acces pentru pescarii de scară mică"
     },
     {
       "path": "9-3-2-1/data.csv",
@@ -11074,7 +11074,7 @@
           }
         ]
       },
-      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+      "title": "Rata de încadrare în educația organizată (cu un an înainte de vârsta oficială de intrare în școala primară), pe sexe"
     },
     {
       "path": "1-a-2-c/data.csv",
@@ -11305,7 +11305,7 @@
           }
         ]
       },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+      "title": "Pierderile economice directe în urma situațiilor excepționale, raportat la PIB global"
     },
     {
       "path": "9-4-1-b/data.csv",
@@ -11437,7 +11437,7 @@
           }
         ]
       },
-      "title": "Maternal mortality ratio"
+      "title": "Rata mortalității materne"
     },
     {
       "path": "9-5-2/data.csv",
@@ -11473,7 +11473,7 @@
           }
         ]
       },
-      "title": "Researchers (in full-time equivalent) per million inhabitants"
+      "title": "Cercetători (echivalent normă întreagă) la 1.000.000 locuitori"
     },
     {
       "path": "3-8-2-b/data.csv",
@@ -11758,7 +11758,7 @@
           }
         ]
       },
-      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
+      "title": "Numărul de țări care au politici urbane naționale sau planuri de dezvoltare regională care (a) răspund la dinamica populației; (b) asigură o dezvoltare teritorială echilibrată; și (c) asigură creșterea spațiului fiscal local"
     },
     {
       "path": "3-2-1-1/data.csv",
@@ -12063,7 +12063,7 @@
           }
         ]
       },
-      "title": "Proportion of births attended by skilled health personnel"
+      "title": "Proporția nașterilor asistate de personal medical calificat"
     },
     {
       "path": "16-6-2-1/data.csv",
@@ -12250,7 +12250,7 @@
           }
         ]
       },
-      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+      "title": "Proporția ariilor importante ale biodiversității zonelor terestre și de apă dulce protejate, divizate pe tipuri de ecosisteme"
     },
     {
       "path": "3-c-1/data.csv",
@@ -12338,7 +12338,7 @@
           }
         ]
       },
-      "title": "Health worker density and distribution"
+      "title": "Densitatea și distribuția lucrătorilor medicali"
     },
     {
       "path": "2-3-2/data.csv",
@@ -12362,7 +12362,7 @@
           }
         ]
       },
-      "title": "Average income of small-scale food producers, by sex and indigenous status"
+      "title": "Venitul mediu al micilor producători agricoli, pe sexe și statut indigen"
     },
     {
       "path": "16-4-2-1/data.csv",
@@ -12446,7 +12446,7 @@
           }
         ]
       },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+      "title": "Proporția autorităților publice locale care adoptă și implementează strategii locale de reducere a riscurilor de dezastre în conformitate cu strategiile naționale de reducere a riscurilor de dezastre"
     },
     {
       "path": "17-1-2/data.csv",
@@ -12470,7 +12470,7 @@
           }
         ]
       },
-      "title": "Proportion of domestic budget funded by domestic taxes"
+      "title": "Proporția bugetului public național finanțat din impozite și taxe"
     },
     {
       "path": "13-1-3-1/data.csv",
@@ -12567,7 +12567,7 @@
           }
         ]
       },
-      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+      "title": "Rata nașterilor timpurii la vârsta de 10-14 ani; 15-19 ani, la 1.000 femei de grupa respectivă"
     },
     {
       "path": "6-3-2-1/data.csv",
@@ -12726,7 +12726,7 @@
           }
         ]
       },
-      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+      "title": "Rata de absolvire (învățământ primar, învățământ secundar inferior, învățământ secundar superior)"
     },
     {
       "path": "12-2-1-a/data.csv",
@@ -12809,7 +12809,7 @@
           }
         ]
       },
-      "title": "Prevalence of undernourishment"
+      "title": "Prevalența subnutriției"
     },
     {
       "path": "10-7-2-3/data.csv",
@@ -12897,7 +12897,7 @@
           }
         ]
       },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+      "title": "Rata de participare a tinerilor și adulților în educația formală și non-formală în ultimele 12 luni, pe sexe"
     },
     {
       "path": "10-7-4/data.csv",
@@ -12931,7 +12931,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who are refugees, by country of origin"
+      "title": "Proporția populației care este refugiată, după țara de origine"
     },
     {
       "path": "17-9-1/data.csv",
@@ -12955,7 +12955,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Volumul asistenței externe (în dolari SUA) tehnice și financiare (inclusiv prin cooperarea nord-sud, sud-sud, și triunghiulară) acordată țărilor în curs de dezvoltare"
     },
     {
       "path": "4-b-1-1/data.csv",
@@ -13064,7 +13064,7 @@
           }
         ]
       },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
+      "title": "Ponderea de rase locale clasificate ca fiind în risc de dispariție"
     },
     {
       "path": "1-a-3-1/data.csv",
@@ -13261,7 +13261,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
+      "title": "Rata mortalității determinate de surse nesigure de apă, lipsă de sanitație și igienă (expunerea la servicii nesigure de apă, sanitație și igienă pentru toți - WASH)"
     },
     {
       "path": "14-1-1-1/data.csv",
@@ -13564,7 +13564,7 @@
           }
         ]
       },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+      "title": "Ponderea tinerilor în vârstă de 18-29 ani care au fost supuși violenței sexuale până la 18 ani"
     },
     {
       "path": "1-2-2/data.csv",
@@ -13628,7 +13628,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Ponderea bărbaților, femeilor și copiilor de toate vârstele care trăiesc în sărăcie, în toate dimensiunile acesteia, conform definițiilor naționale"
     },
     {
       "path": "3-2-2/data.csv",
@@ -13676,7 +13676,7 @@
           }
         ]
       },
-      "title": "Neonatal mortality rate"
+      "title": "Rata mortalității neonatale"
     },
     {
       "path": "16-2-2/data.csv",
@@ -13764,7 +13764,7 @@
           }
         ]
       },
-      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+      "title": "Numărul victimelor traficului de ființe umane la 100 mii populație, pe sexe, vârstă și forme de exploatare"
     },
     {
       "path": "6-3-2-a/data.csv",
@@ -13812,7 +13812,7 @@
           }
         ]
       },
-      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
+      "title": "Volumul asistenței externe acordate pentru consolidarea sistemului statistic în țările în curs de dezvoltare, echivalent în dolari SUA"
     },
     {
       "path": "4-5-1-d/data.csv",
@@ -13860,7 +13860,7 @@
           }
         ]
       },
-      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+      "title": "Volumul fluxurilor financiare internaționale oferite țărilor în curs de dezvoltare drept suport pentru cercetări și dezvoltare în domeniul energiei curate și producerea energiei regenerabile, inclusiv în sistemele hibride"
     },
     {
       "path": "11-3-2/data.csv",
@@ -13884,7 +13884,7 @@
           }
         ]
       },
-      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
+      "title": "Proporția orașelor în care structurile funcționează în mod regulat și pe o bază democratică, asigurând participarea directă a societății civile la planificarea urbană și managementul urban"
     },
     {
       "path": "16-1-4/data.csv",
@@ -13920,7 +13920,7 @@
           }
         ]
       },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
+      "title": "Ponderea persoanelor care se simt în siguranță când se plimbă singure în regiunea lor de reședință după lăsarea întunericului"
     },
     {
       "path": "16-3-2-3/data.csv",
@@ -13982,7 +13982,7 @@
           }
         ]
       },
-      "title": "Degree of integrated water resources management"
+      "title": "Gradul de implementare a managementului integrat al resurselor de apă"
     },
     {
       "path": "12-a-1/data.csv",
@@ -14006,7 +14006,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "Capacitatea instalată de generare a energiei regenerabile în țările în curs de dezvoltare (în wați pe cap de locuitor)"
     },
     {
       "path": "10-6-1-b/data.csv",
@@ -14154,7 +14154,7 @@
           }
         ]
       },
-      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+      "title": "Proporția deșeurilor municipale solide colectate regulat, cu depozitare și evacuare finală adecvată în total deșeuri municipale generate, pe orașe"
     },
     {
       "path": "3-8-2-a/data.csv",
@@ -14521,7 +14521,7 @@
           }
         ]
       },
-      "title": "Renewable energy share in the total final energy consumption"
+      "title": "Ponderea energiei din surse regenerabile în consumul final de energie"
     },
     {
       "path": "1-5-1-b/data.csv",
@@ -14789,7 +14789,7 @@
           }
         ]
       },
-      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+      "title": "Proporția femeilor și fetelor de 15 ani și peste care au fost supuse violenței fizice, sexuale sau psihologice din partea partenerului/soțului curent sau anterior, în ultimele 12 luni, pe vârste și forme ale violenței"
     },
     {
       "path": "10-7-1/data.csv",
@@ -14851,7 +14851,7 @@
           }
         ]
       },
-      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+      "title": "Ponderea costurilor de angajare la muncă peste hotare în veniturile lunare în țara de destinație"
     },
     {
       "path": "14-a-1/data.csv",
@@ -14875,7 +14875,7 @@
           }
         ]
       },
-      "title": "Proportion of total research budget allocated to research in the field of marine technology"
+      "title": "Proporția din bugetul total al cercetării alocat cercetării în domeniul tehnologiei marine"
     },
     {
       "path": "4-5-1/data.csv",
@@ -14899,7 +14899,7 @@
           }
         ]
       },
-      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+      "title": "Indicele parității (femeie/bărbat, rural/urban, chintila inferioară/superioară și altele, cum ar fi statutul de dizabilitate, persoane indigene și cele afectate de conflicte, de îndată ce devin disponibile date) pentru toți indicatorii de învățământ din această listă, care pot fi dezagregați"
     },
     {
       "path": "4-1-1/data.csv",
@@ -14923,7 +14923,7 @@
           }
         ]
       },
-      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+      "title": "Proporția de copii și tineri (a) în clasele 2/3; (b) la sfârșitul învățământului primar și (c) la sfârșitul învățământului gimnazial cu cunoștințe minime în domeniul (i) ) citirii și (ii) matematicii, pe sexe"
     },
     {
       "path": "5-6-2/data.csv",
@@ -14947,7 +14947,7 @@
           }
         ]
       },
-      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+      "title": "Numărul de țări cu cadrul legislativ-normativ care garantează femeilor și bărbaților în vârstă de 15 ani și peste accesul egal la sănătatea sexuală și reproductivă, informare și educare"
     },
     {
       "path": "5-3-2/data.csv",
@@ -14971,7 +14971,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
+      "title": "Proporția fetelor și femeilor cu vârste de 15-49 ani care au suferit mutilare / tăiere genitală feminină, pe vârste"
     },
     {
       "path": "6-2-1/data.csv",
@@ -14995,7 +14995,7 @@
           }
         ]
       },
-      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
+      "title": "Proporția populației care utilizează (a) servicii de apă potabilă gestionate în mod sigur și (b) o instalație de spălare a mâinilor cu săpun și apă"
     },
     {
       "path": "10-7-2/data.csv",
@@ -15019,7 +15019,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+      "title": "Numărul țărilor cu politici naționale eficiente privind migrația, care facilitează migrația și mobilitatea reglementată, în siguranță, ordonată și responsabilă a populației"
     },
     {
       "path": "13-2-2/data.csv",
@@ -15043,7 +15043,7 @@
           }
         ]
       },
-      "title": "Total greenhouse gas emissions per year"
+      "title": "Emisiile totale de gaze cu efect de seră pe an"
     },
     {
       "path": "17-14-1/data.csv",
@@ -15067,7 +15067,7 @@
           }
         ]
       },
-      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
+      "title": "Număr de țări cu mecanisme în vigoare pentru consolidarea coerenței politicilor de dezvoltare durabilă"
     },
     {
       "path": "12-2-2/data.csv",
@@ -15091,7 +15091,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Consumul intern de resurse naturale, consumul de resurse naturale pe o persoană, consumul de resurse naturale raportate la PIB"
     },
     {
       "path": "12-b-1/data.csv",
@@ -15115,7 +15115,7 @@
           }
         ]
       },
-      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
+      "title": "Implementarea instrumentelor standard de monitorizare și evaluare pentru monitorizarea aspectelor economice și de mediu ale durabilității turismului"
     },
     {
       "path": "17-18-1/data.csv",
@@ -15163,7 +15163,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
+      "title": "Proporția țărilor cu disponibilitatea sistemelor de monitorizare și alocare a resurselor publice pentru egalitatea de gen și abilitarea femeilor"
     },
     {
       "path": "8-5-1/data.csv",
@@ -15187,7 +15187,7 @@
           }
         ]
       },
-      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+      "title": "Câștigul salarial mediu orar al unui salariat, pe sexe, vârstă, ocupații și persoane cu dizabilități"
     },
     {
       "path": "17-18-3/data.csv",
@@ -15211,7 +15211,7 @@
           }
         ]
       },
-      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+      "title": "Număr de țări cu un Plan statistic național care este deplin finanțat și în proces de implementare, pe sursa de finanțare"
     },
     {
       "path": "8-7-1/data.csv",
@@ -15235,7 +15235,7 @@
           }
         ]
       },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+      "title": "Procentul și numărul copiilor cu vârsta între 5-17 ani, implicați în munca copiilor, pe vârstă și sexe"
     },
     {
       "path": "8-10-1/data.csv",
@@ -15259,7 +15259,7 @@
           }
         ]
       },
-      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
+      "title": "(a) Numărul de filiale și agenții ale băncilor comerciale la 100 mii adulți și (b) numărul de bancomate la 100 mii adulți"
     },
     {
       "path": "12-4-2/data.csv",
@@ -15283,7 +15283,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Volumul deșeurilor periculoase generate pe o persoană și (b) proporția deșeurilor periculoase tratate, pe tip de tratare"
     },
     {
       "path": "2-2-2/data.csv",
@@ -15307,7 +15307,7 @@
           }
         ]
       },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+      "title": "Prevalența malnutriției (greutatea pentru vârstă cu o deviere standard >+2 sau <-2 de la mediana standardelor OMS pentru creșterea copiilor) printre copii în vârstă de până la 5 ani, pe tipuri (supraponderal și retard ponderal)"
     },
     {
       "path": "17-13-1/data.csv",
@@ -15331,7 +15331,7 @@
           }
         ]
       },
-      "title": "Macroeconomic Dashboard"
+      "title": "Tabloul macroeconomic"
     },
     {
       "path": "7-b-1/data.csv",
@@ -15355,7 +15355,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "Capacitate instalată de generare a energiei din surse regenerabile în țările în curs de dezvoltare (în wați pe cap de locuitor)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -15379,7 +15379,7 @@
           }
         ]
       },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+      "title": "Ritmul de creștere a cheltuielilor de consum sau veniturilor gospodăriilor pe o persoană ale 40% din populația cel mai puțin asigurată a populației și per total țară"
     },
     {
       "path": "13-2-1/data.csv",
@@ -15403,7 +15403,7 @@
           }
         ]
       },
-      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Numărul de țări cu contribuții determinate la nivel național, strategii pe termen lung, planuri naționale de adaptare și comunicări privind adaptarea, conform raportului către secretariatul Convenției-cadru a Națiunilor Unite privind schimbările climatice"
     },
     {
       "path": "3-3-3/data.csv",
@@ -15427,7 +15427,7 @@
           }
         ]
       },
-      "title": "Malaria incidence per 1,000 population"
+      "title": "Incidența prin malarie, la 1.000 populație"
     },
     {
       "path": "13-3-1/data.csv",
@@ -15451,7 +15451,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Măsura în care (i) educația pentru cetățenia globală și (ii) educația pentru dezvoltare durabilă sunt integrate în (a) politicile naționale de educație; (b) curriculum; (c) formarea profesorilor; și (d) evaluarea elevilor"
     },
     {
       "path": "17-19-2/data.csv",
@@ -15475,7 +15475,7 @@
           }
         ]
       },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+      "title": "Ponderea țărilor care (a) au efectuat cel puțin un recensământ al populației și al locuințelor în ultimii 10 ani; și (b) au atins rata înregistrării a nașterilor de 100% și deceselor de 80%"
     },
     {
       "path": "10-a-1/data.csv",
@@ -15499,7 +15499,7 @@
           }
         ]
       },
-      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
+      "title": "Proporția liniilor tarifare aplicate la „cota zero” la importurile de mărfuri din țările subdezvoltate și celor în curs de dezvoltare"
     },
     {
       "path": "15-8-1/data.csv",
@@ -15523,7 +15523,7 @@
           }
         ]
       },
-      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+      "title": "Ponderea țărilor care adoptă legislație națională relevantă și alocare adecvată de resurse pentru prevenirea sau controlul speciilor alogene invazive"
     },
     {
       "path": "1-a-1/data.csv",
@@ -15547,7 +15547,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "Ponderea granturilor de asistență oficială pentru dezvoltare de la toți donatorii care se focalizează pe reducerea sărăciei din venitul național brut al țării beneficiare"
     },
     {
       "path": "9-3-2/data.csv",
@@ -15571,7 +15571,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries with a loan or line of credit"
+      "title": "Proporția industriilor de scară mică care au accesat credite sau împrumuturi"
     },
     {
       "path": "13-a-1/data.csv",
@@ -15595,7 +15595,7 @@
           }
         ]
       },
-      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
+      "title": "Sume furnizate și mobilizate în dolari SUA pe an în raport cu obiectivul continuu de mobilizare colectivă existent al angajamentului de 100 de miliarde USD până în 2025"
     },
     {
       "path": "1-4-2/data.csv",
@@ -15619,7 +15619,7 @@
           }
         ]
       },
-      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+      "title": "Ponderea populației adulte cu drepturi garantate de proprietate asupra terenurilor, cu documente (a) legal recunoscute și (b) care își percepe drepturile sale asupra pământului ca fiind sigure, pe sexe și tipul de proprietate funciară"
     },
     {
       "path": "16-7-1/data.csv",
@@ -15643,7 +15643,7 @@
           }
         ]
       },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+      "title": "Raportul dintre proporția pozițiilor ocupate în instituțiile publice naționale și locale, inclusiv în (a) organul legislativ; (b) servicii publice și (c) sistemul judiciar în comparație cu distribuția națională, pe sexe, vârstă, persoanele cu dizabilități și grupuri de populație"
     },
     {
       "path": "11-5-1/data.csv",
@@ -15667,7 +15667,7 @@
           }
         ]
       },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Numărul de persoane decedate, dispărute și direct afectate în urma situațiilor excepționale, la 100.000 de locuitori"
     },
     {
       "path": "11-1-1/data.csv",
@@ -15691,7 +15691,7 @@
           }
         ]
       },
-      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+      "title": "Ponderea populației urbane care locuiește în mahalale, așezări informale sau locuințe inadecvate"
     },
     {
       "path": "17-7-1/data.csv",
@@ -15715,7 +15715,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Volumul total de finanțare aprobată pentru țările în curs de dezvoltare pentru a promova dezvoltarea, transferul, diseminarea și răspândirea tehnologiilor temeinice din punct de vedere ecologic"
     },
     {
       "path": "4-6-1/data.csv",
@@ -15739,7 +15739,7 @@
           }
         ]
       },
-      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+      "title": "Ponderea populației într-un anumit grup de vârstă, care atinge cel puțin un anumit nivel de competențe funcționale în (a) alfabetizare și (b) aritmetică), pe sexe"
     },
     {
       "path": "3-8-2/data.csv",
@@ -15763,7 +15763,7 @@
           }
         ]
       },
-      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
+      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mari în totalul cheltuielilor sau venitulurilor gospodăriei"
     },
     {
       "path": "8-4-2/data.csv",
@@ -15787,7 +15787,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Consumul intern de resurse naturale, consumul intern de resurse naturale pe o persoană și consumul intern de resurse naturale raportat la PIB"
     },
     {
       "path": "8-8-2/data.csv",
@@ -15811,7 +15811,7 @@
           }
         ]
       },
-      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
+      "title": "Nivelul de respectare la nivel național a drepturilor de muncă (libertatea de asociere și negocierea colectivă) în conformitate cu sursele documentare ale ILO și legislația națională, pe sexe și statut migrațional"
     },
     {
       "path": "3-d-2/data.csv",
@@ -15835,7 +15835,7 @@
           }
         ]
       },
-      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
+      "title": "Procentul de infecții ale fluxului sanguin datorate unor organisme rezistente la antimicrobiene selectate"
     },
     {
       "path": "5-a-1/data.csv",
@@ -15859,7 +15859,7 @@
           }
         ]
       },
-      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+      "title": "(a) Ponderea populației agricole cu drepturi de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole, pe sexe și (b) ponderea femeilor cu drepturi de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole, după tipul de posesiune"
     },
     {
       "path": "4-c-1/data.csv",
@@ -15883,7 +15883,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+      "title": "Ponderea personalului pedagogic cu, cel puțin, calificarea minimă necesară, pe nivele educaționale"
     },
     {
       "path": "16-10-2/data.csv",
@@ -15907,7 +15907,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+      "title": "Numărul de țări care adoptă și implementează garanții constituționale, statutare și / sau politice pentru accesul public la informații"
     },
     {
       "path": "17-12-1/data.csv",
@@ -15931,7 +15931,7 @@
           }
         ]
       },
-      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+      "title": "Nivelul mediu al tarifelor vamale aplicat țărilor în curs de dezvoltare, țărilor cel mai puțin dezvoltate și statelor insulare în curs de dezvoltare"
     },
     {
       "path": "9-4-1/data.csv",
@@ -15955,7 +15955,7 @@
           }
         ]
       },
-      "title": "CO2 emission per unit of value added"
+      "title": "Emisiile de CO2 per unitate de valoarea adăugată"
     },
     {
       "path": "14-c-1/data.csv",
@@ -15979,7 +15979,7 @@
           }
         ]
       },
-      "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
+      "title": "Numărul de țări care înregistrează progres în ratificarea, acceptarea și implementarea prin cadre legale, de politici și instituționale, instrumentele ce țin de domeniul oceanelor, care implementează dreptul internațional, conform celor reflectate în Convenția ONU asupra dreptului mării, pentru conservarea și utilizarea durabilă a oceanelor și resurselor lor"
     },
     {
       "path": "15-4-2/data.csv",
@@ -16003,7 +16003,7 @@
           }
         ]
       },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+      "title": "Indicele acoperii verzi montane"
     },
     {
       "path": "2-b-1/data.csv",
@@ -16027,7 +16027,7 @@
           }
         ]
       },
-      "title": "Agricultural export subsidies"
+      "title": "Subvenții pentru exportul agricol"
     },
     {
       "path": "14-1-1/data.csv",
@@ -16051,7 +16051,7 @@
           }
         ]
       },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris densityi"
+      "title": "(a) Indicele de eutrofizarea apelor de coastă și (b) densitatea deșeurilor flotante de plastic"
     },
     {
       "path": "11-b-1/data.csv",
@@ -16075,7 +16075,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Numărul de țări care adoptă și implementează Cadrul strategic național privind reducerea riscurilor de dezastre, aliniate la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030"
     },
     {
       "path": "5-a-2/data.csv",
@@ -16099,7 +16099,7 @@
           }
         ]
       },
-      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
+      "title": "Proporția țărilor unde există cadrul legislativ (inclusiv dreptul cutumiar) care garantează femeilor drepturi egale la proprietate și/sau control asupra pământurilor"
     },
     {
       "path": "16-8-1/data.csv",
@@ -16123,7 +16123,7 @@
           }
         ]
       },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
+      "title": "Proporția membrilor și a drepturilor de vot ale țărilor în curs de dezvoltare în cadrul organizațiile internaționale"
     },
     {
       "path": "16-3-3/data.csv",
@@ -16147,7 +16147,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+      "title": "Proporția populației care a experimentat o dispută în ultimii doi ani și care a accesat un mecanism formal sau informal de soluționare a disputelor, pe tip de mecanism"
     },
     {
       "path": "17-17-1/data.csv",
@@ -16171,7 +16171,7 @@
           }
         ]
       },
-      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
+      "title": "Suma (în dolari SUA) dedicată pentru parteneriate public-private pentru infrastructură"
     },
     {
       "path": "1-5-1/data.csv",
@@ -16195,7 +16195,7 @@
           }
         ]
       },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Numărul de persoane decedate, dispărute și persoane direct afectate în urma situațiilor excepționale, la 100.000 de locuitori"
     },
     {
       "path": "7-3-1/data.csv",
@@ -16219,7 +16219,7 @@
           }
         ]
       },
-      "title": "Energy intensity measured in terms of primary energy and GDP"
+      "title": "Intensitatea energetică măsurată în termeni de energie primară și PIB"
     },
     {
       "path": "17-2-1/data.csv",
@@ -16243,7 +16243,7 @@
           }
         ]
       },
-      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
+      "title": "Asistența netă oficială pentru dezvoltare, totală și pentru țările cel mai puțin dezvoltate, ca proporție a venitului național brut (VNB) al Comitetului donatorilor de asistență pentru dezvoltare al Organizației pentru Cooperare și Dezvoltare Economică (OCDE)"
     },
     {
       "path": "15-b-1/data.csv",
@@ -16267,7 +16267,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "(a) Asistență oficială pentru dezvoltare pentru conservarea și utilizarea durabilă a biodiversității; și (b) veniturile generate și finanțarea mobilizată din instrumente economice relevante pentru biodiversitate"
     },
     {
       "path": "10-4-2/data.csv",
@@ -16291,7 +16291,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy"
+      "title": "Impactul redistributiv al politicii fiscale"
     },
     {
       "path": "14-5-1/data.csv",
@@ -16315,7 +16315,7 @@
           }
         ]
       },
-      "title": "Coverage of protected areas in relation to marine areas"
+      "title": "Acoperirea ariilor protejate în raport cu zonele marine"
     },
     {
       "path": "3-3-5/data.csv",
@@ -16339,7 +16339,7 @@
           }
         ]
       },
-      "title": "Number of people requiring interventions against neglected tropical diseases"
+      "title": "Numărul de persoane care necesită intervenții împotriva bolilor tropicale neglijate"
     },
     {
       "path": "6-3-2/data.csv",
@@ -16363,7 +16363,7 @@
           }
         ]
       },
-      "title": "Proportion of bodies of water with good ambient water quality"
+      "title": "Proporția corpurilor de apă cu calitate bună a apei ambientale"
     },
     {
       "path": "15-c-1/data.csv",
@@ -16387,7 +16387,7 @@
           }
         ]
       },
-      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+      "title": "Proporția comerțului ilicit cu animale sălbatice care au fost braconate sau traficate prin contrabandă"
     },
     {
       "path": "1-5-3/data.csv",
@@ -16411,7 +16411,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Număr de țări care adoptă și implementează strategii naționale de reducere a riscurilor de dezastre, aliniat la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030"
     },
     {
       "path": "12-3-1/data.csv",
@@ -16435,7 +16435,7 @@
           }
         ]
       },
-      "title": "(a) Food loss index and (b) food waste index"
+      "title": "(a) Indicele Global al risipei alimentare și (b) Indicele Global de deșeuri alimentare"
     },
     {
       "path": "11-4-1/data.csv",
@@ -16459,7 +16459,7 @@
           }
         ]
       },
-      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+      "title": "Cheltuielile totale (publice și private) per capita pentru conservarea și protejarea întregului patrimoniu cultural și natural, pe surse de finanțare (publică, privată), tip de patrimoniu (cultural, natural), nivel de guvern (național, regional și local/municipal)"
     },
     {
       "path": "5-5-1/data.csv",
@@ -16483,7 +16483,7 @@
           }
         ]
       },
-      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+      "title": "Ponderea femeilor alese în (a) parlament și (b) administrația publică locală"
     },
     {
       "path": "12-7-1/data.csv",
@@ -16507,7 +16507,7 @@
           }
         ]
       },
-      "title": "Number of countries implementing sustainable public procurement policies and action plans"
+      "title": "Numărul de țări care implementează politici și planuri de acțiuni privind asigurarea de achiziții publice durabile"
     },
     {
       "path": "15-4-1/data.csv",
@@ -16531,7 +16531,7 @@
           }
         ]
       },
-      "title": "Coverage by protected areas of important sites for mountain biodiversity"
+      "title": "Acoperirea cu arii protejate a zonelor importante pentru biodiversitate montană"
     },
     {
       "path": "9-1-2/data.csv",
@@ -16555,7 +16555,7 @@
           }
         ]
       },
-      "title": "Passenger and freight volumes, by mode of transport"
+      "title": "Volumul transportului de pasageri și de mărfuri, după modul de transport"
     },
     {
       "path": "13-b-1/data.csv",
@@ -16579,7 +16579,7 @@
           }
         ]
       },
-      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Numărul de țări cel mai puțin dezvoltate și state insulare mici în curs de dezvoltare cu contribuții determinate la nivel național, strategii pe termen lung, planuri naționale de adaptare și comunicări privind adaptarea, conform raportului către secretariatul Convenției-cadru a Națiunilor Unite privind schimbările climatice"
     },
     {
       "path": "9-2-1/data.csv",
@@ -16603,7 +16603,7 @@
           }
         ]
       },
-      "title": "Manufacturing value added as a proportion of GDP and per capita"
+      "title": "Valoarea adăugată brută în industria prelucrătoare ca proporție în PIB și pe persoană"
     },
     {
       "path": "4-a-1/data.csv",
@@ -16627,7 +16627,7 @@
           }
         ]
       },
-      "title": "Proportion of schools offering basic services, by type of service"
+      "title": "Ponderea instituțiilor de învățământ care oferă acces la serviciile de bază, pe tipuri de servicii"
     },
     {
       "path": "10-6-1/data.csv",
@@ -16651,7 +16651,7 @@
           }
         ]
       },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
+      "title": "Proporția membrilor și drepturile de vot ale țărilor în curs de dezvoltare în cadrul organizațiilor internaționale"
     },
     {
       "path": "14-6-1/data.csv",
@@ -16675,7 +16675,7 @@
           }
         ]
       },
-      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+      "title": "Gradul de implementare a instrumentelor internaționale care vizează combaterea pescuitului ilegal, nedeclarat și nereglementat"
     },
     {
       "path": "14-4-1/data.csv",
@@ -16699,7 +16699,7 @@
           }
         ]
       },
-      "title": "Proportion of fish stocks within biologically sustainable levels"
+      "title": "Proporția stocurilor de pește în cadrul nivelelor durabile din punct de vedere biologic"
     },
     {
       "path": "12-c-1/data.csv",
@@ -16723,7 +16723,7 @@
           }
         ]
       },
-      "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
+      "title": "Volumul de subvenții pentru combustibili fosili pe unitate din PIB (producție și consum)"
     },
     {
       "path": "8-4-1/data.csv",
@@ -16747,7 +16747,7 @@
           }
         ]
       },
-      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+      "title": "Amprenta materiilor prime, amprenta materiilor prime pe o persoană și amprenta materiilor prime raportată la PIB"
     },
     {
       "path": "16-10-1/data.csv",
@@ -16771,7 +16771,7 @@
           }
         ]
       },
-      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+      "title": "Numărul cazurilor verificate de omor, răpire, dispariție forțară, reținere silită, tortură a reprezentanților mass-media, sindicatelor și a altor persoane care promovează drepturile omului, în ultimele 12 luni"
     },
     {
       "path": "17-16-1/data.csv",
@@ -16795,7 +16795,7 @@
           }
         ]
       },
-      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
+      "title": "Număr de țări care raportează progrese asupra aplicării cadrului de monitorizare a eficienței dezvoltării cu participarea mai multor parteneri, care acordă suport în atingerea Obiectivelor de Dezvoltare Durabilă"
     },
     {
       "path": "1-3-1/data.csv",
@@ -16819,7 +16819,7 @@
           }
         ]
       },
-      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+      "title": "Ponderea populației care beneficiază de sistemul de protecție socială, pe sexe, copii, șomeri, persoane în vârstă, persoane cu dizabilități, femei însărcinate, nou-născuți, victime ale accidentelor de muncă, săracii și persoanele vulnerabile"
     },
     {
       "path": "9-3-1/data.csv",
@@ -16843,7 +16843,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries in total industry value added"
+      "title": "Proporția industriilor de scară mică în valoarea adăugată totală a industriei"
     },
     {
       "path": "13-1-2/data.csv",
@@ -16867,7 +16867,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Numărul de țări care adoptă și implementează strategii naționale privind reducerea riscurilor de dezastre, aliniate la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030"
     },
     {
       "path": "16-4-2/data.csv",
@@ -16891,7 +16891,7 @@
           }
         ]
       },
-      "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+      "title": "Ponderea armelor confiscate, depistate sau predate, originea sau contextul ilegal al căror a fost urmărită sau stabilită de către o autoritate competentă în conformitate cu instrumentele internaționale"
     },
     {
       "path": "12-1-1/data.csv",
@@ -16915,7 +16915,7 @@
           }
         ]
       },
-      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+      "title": "Numărul de țări care dezvoltă, adoptă sau implementează instrumente de politică menite să sprijine trecerea la consumul și producția durabile"
     },
     {
       "path": "12-2-1/data.csv",
@@ -16939,7 +16939,7 @@
           }
         ]
       },
-      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+      "title": "Amprenta resurselor naturale, amprenta resurselor naturale pe o persoană, amprenta resurselor naturale raportate la PIB"
     },
     {
       "path": "15-6-1/data.csv",
@@ -16963,7 +16963,7 @@
           }
         ]
       },
-      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+      "title": "Numărul de țări care au adoptat cadru legislativ, administrativ și de politici întru asigurarea distribuirii corecte și echitabile a beneficiilor"
     },
     {
       "path": "14-3-1/data.csv",
@@ -16987,7 +16987,7 @@
           }
         ]
       },
-      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+      "title": "Aciditatea marină medie (pH) măsurată la un șir convenit de stații reprezentative de prelevare a probelor"
     },
     {
       "path": "10-7-3/data.csv",
@@ -17011,7 +17011,7 @@
           }
         ]
       },
-      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
+      "title": "Numărul de persoane care au murit sau au dispărut în procesul de migrare către o destinație internațională"
     },
     {
       "path": "8-9-1/data.csv",
@@ -17035,7 +17035,7 @@
           }
         ]
       },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+      "title": "Ponderea turismului în PIB și rata de creștere"
     },
     {
       "path": "15-9-1/data.csv",
@@ -17059,7 +17059,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
+      "title": "(a) Numărul de țări care și-au stabilit ținte naționale în conformitate cu sau similar Țintei 2 de biodiversitate Aichi din Planul strategic pentru biodiversitate 2011-2020 în strategia și planurile de acțiune naționale în materie de biodiversitate și progresul raportat către aceste ținte; și (b) integrarea biodiversității în sistemele naționale de contabilitate și raportare, definită ca implementarea Sistemului de contabilitate economico-mediu"
     },
     {
       "path": "17-18-2/data.csv",
@@ -17083,7 +17083,7 @@
           }
         ]
       },
-      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+      "title": "Număr de țări care dispun de legislație națională în domeniul statisticii conform Principiilor Fundamentale ale Statisticii Oficiale"
     },
     {
       "path": "1-a-2/data.csv",
@@ -17107,7 +17107,7 @@
           }
         ]
       },
-      "title": "Proportion of total government spending on essential services (education, health and social protection)"
+      "title": "Ponderea cheltuielilor publice pentru servicii esențiale (educație, sănătate și protecție socială)"
     },
     {
       "path": "13-1-1/data.csv",
@@ -17131,7 +17131,7 @@
           }
         ]
       },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Numărul de persoane decedate, dispărute și persoane direct afectate în urma situațiilor excepționale, la 100.000 de locuitori"
     },
     {
       "path": "14-7-1/data.csv",
@@ -17155,7 +17155,7 @@
           }
         ]
       },
-      "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
+      "title": "Ponderea pescuitului durabil în PIB în statele mici insulare în curs de dezvoltare, în țările cel mai puțin dezvoltate și în toate țările"
     },
     {
       "path": "10-c-1/data.csv",
@@ -17179,7 +17179,7 @@
           }
         ]
       },
-      "title": "Remittance costs as a proportion of the amount remitted"
+      "title": "Costurile de remitere ca proporție din suma încasată"
     },
     {
       "path": "17-5-1/data.csv",
@@ -17203,31 +17203,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+      "title": "Numărul de țări care adoptă și implementează regimuri de promovare a investițiilor pentru țările cel mai puțin dezvoltate"
     }
   ]
 }
