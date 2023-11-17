@@ -1,29 +1,29 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"Sex, Age group, Area of residence, Age group 1 and Sex, Age group 2 and Sex, Employment status",6
-#1-1-1-1,"Sex, Age group, Area of residence, Age group 1 and Sex, Age group 2 and Sex, Employment status",6
-#1-2-1,"Sex, Age group, Area of residence",3
-#1-3-1-a,"Sex, Age group, Area of residence",3
+#1-1-1,"Area of residence, Sex, Age group, Age group 1 and Sex, Age group 2 and Sex, Employment status",6
+#1-1-1-1,"Area of residence, Sex, Age group, Age group 1 and Sex, Age group 2 and Sex, Employment status",6
+#1-2-1,"Area of residence, Sex, Age group",3
+#1-3-1-a,"Area of residence, Sex, Age group",3
 #1-3-1-b,"Area of residence, Status",2
 #1-3-1-d,"Sex, Age group, Districts",3
 #1-3-1-e,"Sex, Age group",2
 #1-3-1-f,"Sex, Age group",2
 #1-3-1-h,"Area of residence, Quintile I, by area of residence",2
 #1-3-1-i,"Area of residence, Quintile I, by area of residence",2
-#1-4-1,"Sex, Age group, Area of residence, Sub-indicators",4
+#1-4-1,"Area of residence, Sex, Age group, Sub-indicators",4
 #1-4-2-a,"Sex, Age group",2
 #1-5-1-a,"Age group, Classes of disasters",2
 #1-5-1-c,"Age group, Classes of disasters",2
 #1-5-2,Tipuri SE,1
 #1-a-1-1,Type of benefit,1
 #10-2-1,"Sex, Age group, The existence of disability",3
-#10-3-1,"Sex, Age group, Area of residence, Discrimination criteria, Entities in which they were discriminated against",5
+#10-3-1,"Area of residence, Sex, Age group, Discrimination criteria, Entities in which they were discriminated against",5
 #10-3-1-1,"Area of residence, Sex of the petitioner, Criteria of discrimination, Area of discrimination, Form of discrimination",5
 #10-5-1,Indicators,1
 #10-6-1-a,International organisations,1
 #10-6-1-b,International organisations,1
 #10-b-1,Source,1
-#11-1-1-a,"Sex, Age group, Area of residence, Quintiles on consumption expenditures, Existence of disability",5
-#11-1-1-b,"Sex, Age group, Area of residence, Quintiles on consumption expenditures, Existence of disability",5
+#11-1-1-a,"Area of residence, Quintiles on consumption expenditures, Sex, Age group, Existence of disability",5
+#11-1-1-b,"Area of residence, Quintiles on consumption expenditures, Sex, Age group, Existence of disability",5
 #11-5-1-a,"Age group, Classes of disasters",2
 #11-5-1-c,"Age group, Classes of disasters",2
 #11-6-2,Cities,1
@@ -44,10 +44,10 @@ Indicator,Disaggregations,Number of disaggregations
 #15-2-1,Indicators on the progress of sustainable forest management,1
 #15-5-1-1,Types,1
 #16-1-1,"Sex, Age group of the victim, Means of committing, Context/reason",4
-#16-1-3,"Age group, Area of residence, Level of education",3
+#16-1-3,"Area of residence, Age group, Level of education",3
 #16-1-3-1,"Sex, Age group, Types of crimes",3
 #16-10-1-1,Index,1
-#16-2-1,"Sex, Age group, Area of residence, Level of education of the head of the household, Ethnicity of the head of the household, Wellbeing quintile",6
+#16-2-1,"Area of residence, Sex, Age group, Level of education of the head of the household, Ethnicity of the head of the household, Wellbeing quintile",6
 #16-2-1-1,"Area of residence (subjected to violence), Sex (subjected to violence), Age group (subjected to violence), Disability (subjected to violence), Number of neglected children, at the end of the year, Area of residence (neglected), Sex (neglected), Age group (neglected), Disability (neglected)",9
 #16-2-2,"Sex, Groups of persons, Countries of destination, Forms of exploitation",4
 #16-3-2,"Sex, Duration of arrest",2
@@ -71,53 +71,53 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-2,Age group / Sex,1
 #2-2-3,"Age group, Regions",2
 #3-1-1,"Area of residence, Districts",2
-#3-2-1,"Sex, Area of residence",2
-#3-2-1-1,"Sex, Area of residence",2
-#3-2-2,"Sex, Area of residence",2
+#3-2-1,"Area of residence, Sex",2
+#3-2-1-1,"Area of residence, Sex",2
+#3-2-2,"Area of residence, Sex",2
 #3-3-1,"Sex, Age group, High-risk population categories",3
 #3-3-1-1,Sex,1
-#3-3-2,"Sex, Age group, Area of residence",3
+#3-3-2,"Area of residence, Sex, Age group",3
 #3-3-4,Age group,1
 #3-4-1,Sex,1
 #3-4-2,"Sex, Children up to 18 years old",2
 #3-5-2,Sex,1
-#3-5-2-1,"Sex, Area of residence, Area of residence/Sex, Age group/sex",4
+#3-5-2-1,"Area of residence, Sex, Area of residence/Sex, Age group/sex",4
 #3-6-1,Sex,1
 #3-7-2,"Area of residence, Births at the age of 10-14 years old",2
-#3-8-2-1,"Area of residence, Sex of the head of the household, Age groups of head of household, years, Quintiles on consumption expenditures",4
-#3-8-2-2,"Sex, Age group, Area of residence, Quintiles on consumption expenditures",4
-#3-8-2-a,"Area of residence, Sex of the head of the household, Age groups of head of household, years, Quintiles on consumption expenditures, Household type",5
-#3-8-2-b,"Area of residence, Sex of the head of the household, Age groups of head of household, years, Quintiles on consumption expenditures, Household type",5
+#3-8-2-1,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years",4
+#3-8-2-2,"Area of residence, Quintiles on consumption expenditures, Sex, Age group",4
+#3-8-2-a,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years, Household type",5
+#3-8-2-b,"Area of residence, Quintiles on consumption expenditures, Sex of the head of the household, Age groups of head of household, years, Household type",5
 #3-9-3,Sex,1
-#3-a-1,"Sex, Area of residence",2
+#3-a-1,"Area of residence, Sex",2
 #3-b-1,Type of vaccine,1
 #3-b-2,Disbursement,1
 #3-c-1,"Indicators, Health workers per 10.000 population, in teritorial aspect",2
 #3-d-1,Capabilities of the health sector,1
-#4-1-1-c-i,"Sex, Area of residence, Socio-economic status of pupils",3
-#4-1-1-c-ii,"Sex, Area of residence, Socio-economic status of pupils",3
-#4-1-2,"Sex, Area of residence",2
-#4-1-2-1,"Sex, Area of residence",2
-#4-2-2,"Sex, Area of residence",2
-#4-3-1,"Sex, Area of residence, Age group / Sex",3
+#4-1-1-c-i,"Area of residence, Sex, Socio-economic status of pupils",3
+#4-1-1-c-ii,"Area of residence, Sex, Socio-economic status of pupils",3
+#4-1-2,"Area of residence, Sex",2
+#4-1-2-1,"Area of residence, Sex",2
+#4-2-2,"Area of residence, Sex",2
+#4-3-1,"Area of residence, Sex, Age group / Sex",3
 #4-3-1-1,Sex,1
-#4-5-1-a,"Sex, Area of residence",2
+#4-5-1-a,"Area of residence, Sex",2
 #4-5-1-b,"Area of residence, Sexes",2
 #4-5-1-c,Sex,1
-#4-5-1-e,"Sex, Area of residence",2
-#4-a-1-a,"Education levels, Area of residence",2
+#4-5-1-e,"Area of residence, Sex",2
+#4-a-1-a,"Area of residence, Education levels",2
 #4-a-1-b,Area of residence,1
 #4-a-1-c,Area of residence,1
 #4-a-1-d,Educational levels,1
-#4-a-1-e,"Education levels, Area of residence",2
-#4-a-1-f,"Education levels, Area of residence",2
-#4-a-1-g,"Education levels, Area of residence",2
+#4-a-1-e,"Area of residence, Education levels",2
+#4-a-1-f,"Area of residence, Education levels",2
+#4-a-1-g,"Area of residence, Education levels",2
 #4-b-1-1,"Bachelor's Degree, Master",2
 #4-c-1-a,"Sex, Forms of ownership",2
 #4-c-1-b,"Sex, Forms of ownership",2
 #4-c-1-c,"Sex, Forms of ownership",2
-#5-2-1,"Age group, Area of residence, Level of education, Form of violence",4
-#5-4-1,"Sex, Age group, Area of residence",3
+#5-2-1,"Area of residence, Age group, Level of education, Form of violence",4
+#5-4-1,"Area of residence, Sex, Age group",3
 #5-4-1-2,Area of residence,1
 #5-5-1-b,Levels,1
 #5-5-2,"Area of residence, Forms of ownership, Economic activities",3
@@ -125,10 +125,10 @@ Indicator,Disaggregations,Number of disaggregations
 #5-6-2-2,Sub-indicators,1
 #5-a-1-b,Age group,1
 #5-b-1-1,"Area of residence, Sex of the head of the household",2
-#6-1-1,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Statistical regions",4
+#6-1-1,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the head of the household",4
 #6-1-1-1,Area of residence,1
-#6-2-1-1,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Statistical regions",4
-#6-2-1-a,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Statistical regions, Type of sewerage",5
+#6-2-1-1,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the head of the household",4
+#6-2-1-a,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the head of the household, Type of sewerage",5
 #6-2-1-b,"Area of residence, Wealth quintiles",2
 #6-3-1,"Economic activities, Rayons/Municipalities that have treatment plants",2
 #6-3-2-1,Types of sources,1
@@ -146,13 +146,13 @@ Indicator,Disaggregations,Number of disaggregations
 #8-4-1-a,Types of resources,1
 #8-4-2-a,Types of resources,1
 #8-5-1-1,Regions,1
-#8-5-2,"Sex, Age group, Persons with disabilities, Education levels",4
+#8-5-2,"Sex, Age group, Education levels, Persons with disabilities",4
 #8-6-1,Age group / Sex,1
 #8-8-1,"Fatal accidents, by sex, Fatal accidents, by economic activities, Non-fatal accidents, by sex, Non-fatal accidents, by economic activities",4
 #8-9-1-2,Sex,1
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1
-#9-2-2,"Sex, Age group, Statistical regions, Occupations",4
+#9-2-2,"Statistical regions, Sex, Age group, Occupations",4
 #9-4-1-1,Emission sectors,1
 #9-5-2,Sex,1
 #9-c-1,Type of technology,1
