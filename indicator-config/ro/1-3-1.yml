@@ -1,4 +1,9 @@
-﻿composite_breakdown_label: ''
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -27,15 +32,10 @@ indicator_available: ''
 indicator_name: global_indicators.1-3-1-title
 indicator_number: 1.3.1
 indicator_tabs:
-  override: false
-  tab_1: ''
-  tab_2: ''
-  tab_3: ''
-  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-placeholder: ''
+placeholder: global_indicators.1-3-1-title
 precision: []
 progress_status: not_available
 publications: []
