@@ -28,7 +28,8 @@ page_content: ''
 permalink: ''
 placeholder: global_indicators.1-4-2-title
 precision: []
-reporting_status: divided
+reporting_status: notstarted
+reporting_status_1: divided
 sort: ''
 sources: []
 standalone: false
