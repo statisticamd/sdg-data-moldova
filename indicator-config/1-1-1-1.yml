@@ -50,6 +50,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: National proxy
 x_axis_label: ''
