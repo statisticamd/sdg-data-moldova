@@ -16,7 +16,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-2,Tipuri SE,1
 #1-a-1-1,Type of benefit,1
 #10-2-1,"Sex, Age group, The existence of disability",3
-#10-3-1,"Sex, Age group, Area of residence, Discrimination criteria, Entities in which they were discriminated against",5
+#10-3-1,"Sex, Age group, Discrimination criteria, Entities in which they were discriminated against, Area of residence",5
 #10-3-1-1,"Area of residence, Sex of the petitioner, Criteria of discrimination, Area of discrimination, Form of discrimination",5
 #10-5-1,Indicators,1
 #10-6-1-a,International organisations,1
@@ -53,12 +53,12 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-2,"Sex, Duration of arrest",2
 #16-3-2-1,"Sex, Age group, Ethnicity, Disability, Citizenship, Beneficiary status - foreign citizen, Requested authority, Legal basis, Type of qualified assistance, Primary care",10
 #16-3-2-2,Children's rights,1
-#16-5-1,"Sex, Level of education, Institutions where have been made payments",3
-#16-5-2,"Sex, Institutions where have been made payments, Nivel de instruire",3
+#16-5-1,"Sex, Institutions where have been made payments, Level of education",3
+#16-5-2,"Sex, Nivel de instruire, Institutions where have been made payments",3
 #16-6-2-1,Access mode,1
 #16-7-1-a,"Sex, Age group",2
 #16-7-1-c,"Proportion of female judges to Proportion of women in the working-age population, Proportion of female registrars to Proportion of women in the working-age population, Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of judges with a disability to Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",6
-#16-b-1,"Sex, Age group, Discrimination criteria, Entities in which they were discriminated against, Area of residence  of the respondents, The quality of the person who discriminated, The quality/function held by the natural person, The field of activity related to the person who discriminated",8
+#16-b-1,"Sex, Age group, Area of residence  of the respondents, Discrimination criteria, Entities in which they were discriminated against, The quality of the person who discriminated, The quality/function held by the natural person, The field of activity related to the person who discriminated",8
 #17-1-1,Types of income,1
 #17-10-1,Types of products,1
 #17-11-1,Indicators,1
@@ -105,13 +105,13 @@ Indicator,Disaggregations,Number of disaggregations
 #4-5-1-b,"Area of residence, Sexes",2
 #4-5-1-c,Sex,1
 #4-5-1-e,"Sex, Area of residence",2
-#4-a-1-a,"Education levels, Area of residence",2
+#4-a-1-a,"Area of residence, Education levels",2
 #4-a-1-b,Area of residence,1
 #4-a-1-c,Area of residence,1
 #4-a-1-d,Educational levels,1
-#4-a-1-e,"Education levels, Area of residence",2
-#4-a-1-f,"Education levels, Area of residence",2
-#4-a-1-g,"Education levels, Area of residence",2
+#4-a-1-e,"Area of residence, Education levels",2
+#4-a-1-f,"Area of residence, Education levels",2
+#4-a-1-g,"Area of residence, Education levels",2
 #4-b-1-1,"Bachelor's Degree, Master",2
 #4-c-1-a,"Sex, Forms of ownership",2
 #4-c-1-b,"Sex, Forms of ownership",2
@@ -120,7 +120,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"Sex, Age group, Area of residence",3
 #5-4-1-2,Area of residence,1
 #5-5-1-b,Levels,1
-#5-5-2,"Area of residence, Forms of ownership, Economic activities",3
+#5-5-2,"Area of residence, Economic activities, Forms of ownership",3
 #5-5-2-2,"Level of government, Function type",2
 #5-6-2-2,Sub-indicators,1
 #5-a-1-b,Age group,1
@@ -146,7 +146,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-4-1-a,Types of resources,1
 #8-4-2-a,Types of resources,1
 #8-5-1-1,Regions,1
-#8-5-2,"Sex, Age group, Persons with disabilities, Education levels",4
+#8-5-2,"Sex, Age group, Education levels, Persons with disabilities",4
 #8-6-1,Age group / Sex,1
 #8-8-1,"Fatal accidents, by sex, Fatal accidents, by economic activities, Non-fatal accidents, by sex, Non-fatal accidents, by economic activities",4
 #8-9-1-2,Sex,1
