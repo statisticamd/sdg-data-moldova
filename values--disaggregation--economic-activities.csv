@@ -1,13 +1,14 @@
 Value,Disaggregation combinations using this value,Number of indicators
-"Agriculture, forestry and fishing",3,3
+"Agriculture, forestry and fishing",4,4
 Agriculture,2,1
 Construction,2,1
 "Electricity, gas and water",2,2
 Industry,2,1
 Manufacturing industry,1,1
-Manufacturing,2,2
-Mining and quarrying,1,1
+Manufacturing,3,3
+Mining and quarrying,2,2
 Other activities,5,4
+"Production and supply of electric energy and heat, gas and hot water",1,1
 "Production and supply of electricity and heat, gas and hot water",1,1
 Public administration; education; health and social work,2,1
 Transportation and storage; information and communication,2,1
