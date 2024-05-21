@@ -13,9 +13,9 @@ target_id: >-
   6.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 428kB)
+  United Nations Sustainable Development Goals Metadata
 SDG_INDICATOR: >-
   <p>Indicator 6.4.1: Change in water-use efficiency over time</p>
 SDG_SERIES_DESCR: ''
