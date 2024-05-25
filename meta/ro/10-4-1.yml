@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 10.4.1: Ponderea forței de muncă în PIB</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Adoptarea politicilor, în special fiscale, salariale și de protecție socială,  în scopul realizării progresive a unei egalități sporite</p>
+  <p>Target 10.4: Adoptarea politicilor, în special fiscale, salariale și de protecție socială,  în scopul realizării progresive a unei egalități sporite</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   International Labour Organization (ILO)
@@ -10,9 +10,10 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  10.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf
+  Metadatele ODD ale ONU (PDF)
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 190 KB)
 SDG_INDICATOR: >-
@@ -44,7 +45,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei și Infrastructurii
+  Ministerul Economiei și Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

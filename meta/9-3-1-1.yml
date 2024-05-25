@@ -13,9 +13,7 @@ target_id: >-
   9.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
 SDG_INDICATOR: >-
   <p>Indicator 9.3.1.1: Contribution of gross value added  of SMEs in total gross value added</p>
 SDG_SERIES_DESCR: ''
@@ -31,7 +29,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Small and Medium Enterprises (SME) - enterprises who meet cumulatively the  following conditions: a) have an annual medium number of employees (the  average number of personnel on paper during the period of reference) up to  250; b) has an annual turnover (revenues from sale) up to 50 million MDL or  have total assets (current assets and movable operating fixed asset) up to 50  million MDL, according to the last approved financial report. It should be  mentioned that the ceiling of the turnover and total assets may be modified by  the Government, depending on the evolution of the macroeconomic indicators  (art. 4 of the Law No. 179 dated 21.07.2016 on Small and Medium Enterprises)
+  The constant defining criterion used to classify small and medium-sized enterprises (SMEs) for statistical purposes is the average annual number of employees (According to Article 5, paragraph 2 of Law no. 179/2016 on Small and Medium Enterprises). The small and medium-sized enterprises sector includes enterprises with an average annual number of up to 250 employees (According to Article 4, paragraph 1, letter a) of Law no. 179/2016 on small and medium-sized enterprises).
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -44,7 +42,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Digitisation
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -72,6 +70,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://statistica.gov.md/en/national-accounts-9667_59502.html
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

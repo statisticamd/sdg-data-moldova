@@ -17,7 +17,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 217 KB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.2.1.a: Valoarea adăugată brută în industria prelucrătoare ca proporție în  PIB (lei, prețuri curente)</p>
 SDG_SERIES_DESCR: ''
@@ -47,7 +47,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei și Infrastructurii
+  Ministerul Economiei și Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

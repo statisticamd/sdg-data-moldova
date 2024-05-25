@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 8.1.1: Rata anuală de creștere a PIB pe cap de locuitor</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Susținerea creșterii economice pe cap de locuitor în conformitate cu situația  națională și, în special, creșterea Produsului Intern Brut cu cel puțin 7 la  sută pe an în țările cel mai puțin dezvoltate</p>
+  <p>Target 8.1: Susținerea creșterii economice pe cap de locuitor în conformitate cu situația  națională și, în special, creșterea Produsului Intern Brut cu cel puțin 7 la  sută pe an în țările cel mai puțin dezvoltate</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Statistics Division (UNSD)
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  8.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-08-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 232 KB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.1.1: Rata anuală de creștere a PIB pe cap de locuitor</p>
 SDG_SERIES_DESCR: ''
@@ -43,8 +44,8 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Economiei și Infrastructurii</p> 
-  <p>  Ministerul Agriculturii,  Dezvoltării Regionale și Mediului </p>
+  <p> Ministerul Economiei și Digitalizării</p> 
+  <p>Ministerul Agriculturii și Industriei Alimentare </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

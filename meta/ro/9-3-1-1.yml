@@ -13,9 +13,7 @@ target_id: >-
   9.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
 SDG_INDICATOR: >-
   <p>Indicator 9.3.1.1: Contribuția valorii adăugate brute a ÎMM în total valoarea adăugată  brută</p>
 SDG_SERIES_DESCR: ''
@@ -31,7 +29,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Întreprinderi mici și mijlocii (ÎMM) - întreprinderile care îndeplinesc  cumulativ următoarele condiții: a) au un număr mediu anual de salariați  (numărul mediu scriptic al personalului în perioada de gestiune) de până la  250; b) realizează o cifră anuală de afaceri (venituri din vânzări) de până la  50 de milioane de lei sau dețin active totale (active imobilizate și active  circulante) de până la 50 de milioane de lei, conform ultimei situații  financiare aprobate. De menționat că plafonul cifrei de afaceri și al  activelor totale poate fi modificat de către Guvern, în funcție de evoluția  indicatorilor macroeconomici (art. 4 din Legea nr. 179 din  21.07.2016 cu  privire la întreprinderile mici și mijlocii)
+  Criteriul definitoriu constant folosit la clasificarea întreprinderilor mici şi mijlocii (ÎMM) în scopuri statistice este numărul mediu anual de salariați (Conform art.5, alin. 2 din Legea nr. 179/2016 cu privire la întreprinderile mici şi mijlocii). Sectorul întreprinderilor mici si mijlocii cuprinde întreprinderile care au un număr mediu anual de pînă la 250 de salariați (Conform art.4, alin. 1, lit. a) din Legea nr. 179/2016 cu privire la întreprinderile mici şi mijlocii).
 UNIT_MEASURE: >-
   Procente, %
 CLASS_SYSTEM: ''
@@ -44,7 +42,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei și Digitizării
+  Ministerul Economiei și Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

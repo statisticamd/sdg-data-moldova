@@ -10,9 +10,10 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  10.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf
+  United Nations Sustainable Development Goals Metadata (PDF)
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 190 KB)
 SDG_INDICATOR: >-
@@ -44,7 +45,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Infrastructure
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -70,6 +71,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://statistica.gov.md/en/national-accounts-9667_59502.html
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

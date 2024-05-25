@@ -1,17 +1,21 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 9.3.1.a: NA</p>
+  <p>Indicator 9.3.1.a: Proportion of small-scale industries in total industry value added</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: NA</p>
+  <p>Target 9.3000000000000007: Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Industrial Development Organization (UNIDO)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  9.3000000000000007
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.3.1.a: Contribution of gross value added of small and medium-sized enterprises in manufacturing to total gross value added in manufacturing</p>
 SDG_SERIES_DESCR: ''
@@ -38,7 +42,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Digitisation
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -54,12 +58,14 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  2
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
 source_periodicity_1: >-
+  Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

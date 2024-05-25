@@ -14,9 +14,7 @@ target_id: >-
   9.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 217 KB)
 SDG_INDICATOR: >-
   <p>Indicator 9.2.1.1: Manufacturing gross value added as a proportion of GDP (US dollars,  curent prices)</p>
 SDG_SERIES_DESCR: ''
@@ -44,6 +42,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -66,6 +65,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

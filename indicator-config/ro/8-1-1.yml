@@ -33,7 +33,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republica Moldova
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: ''
 permalink: ''
 placeholder: ''
@@ -45,6 +45,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
+tags: []
 x_axis_label: ''
