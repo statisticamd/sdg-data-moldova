@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 8.5.1.1: Câștigul salarial mediu orar al unui salariat, pe sexe, vârstă, ocupații și  persoane cu dizabilități</p>
+  <p>Indicator 8.5.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 8.5: Până în 2030, angajarea completă și productivă și muncă decentă pentru toate  femeile și toți bărbații, inclusiv pentru tineri și persoanele cu  dizabilități, precum și remunerarea egală pentru munca de valoare egală</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,7 +13,6 @@ target_id: >-
   8.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf
 GOAL_META_LINK_TEXT: >-
 SDG_INDICATOR: >-
   <p>Indicator 8.5.1.1: Disparitatea salarială de gen</p>
@@ -70,6 +69,6 @@ source_periodicity_1: >-
   Anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

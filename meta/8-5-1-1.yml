@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 8.5.1.1: Average hourly earnings of employees, by sex, age, occupation and persons with  disabilities</p>
+  <p>Indicator 8.5.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 8.5: By 2030, achieve full and productive employment and decent work for all  women and men, including for young people and persons with disabilities, and  equal pay for work of equal value</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,7 +13,6 @@ target_id: >-
   8.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf
 GOAL_META_LINK_TEXT: >-
 SDG_INDICATOR: >-
   <p>Indicator 8.5.1.1: Gender pay gap</p>
@@ -70,6 +69,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-
