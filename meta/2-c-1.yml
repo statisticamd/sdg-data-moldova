@@ -46,7 +46,7 @@ DATA_SOURCE: >-
   Food and Agriculture Organization (FAO)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Agriculture, Regional Development and Environment
+  Ministry of Agriculture and Food Industry
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -68,9 +68,9 @@ source_active_1: true
 source_organisation_1: >-
   Food and Agriculture Organization (FAO)
 source_periodicity_1: >-
-  <p> Quarterly</p> 
-  <p>    Annual </p>
+  Annual
 source_url_1: >-
+  https://www.fao.org/sustainable-development-goals-data-portal/data/indicators/2c1---indicator-of-(food)-price-anomalies/en
 source_url_text_1: >-
   Link to source
 source_contact_1: >-

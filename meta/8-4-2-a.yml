@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Domestic material consumption per capita  =  Domestic material consumption  relative to the population number
+  Domestic material consumption per capita  =  Domestic material consumption divided to the population number
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

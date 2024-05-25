@@ -29,8 +29,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Suprafaţă însămânţată – terenul arabil însămânţat cu culturi agricole și suprafețele însămânțate cu culturi agricole între rândurile de livezi și vii.                                                                                   Teren arabil - terenurile agricole sistematic prelucrate (arate) şi utilizate pentru semănatul</p> 
-  <p>culturilor agricole şi ierburilor perene </p>
+  Suprafaţă însămânţată – terenul arabil însămânţat cu culturi agricole și suprafețele însămânțate cu culturi agricole între rândurile de copaci în livezi și vii.                                                                                   Teren arabil - terenurile agricole sistematic prelucrate (arate) şi utilizate pentru semănatul culturilor agricole şi ierburilor perene
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -43,7 +42,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Biroul Național de Statistică                                                                                                                           Agenția Relații Funciare și Cadastru
+  Biroul Național de Statistică                                                                                                                           Agenției Geodezie, Cartografie și Cadastru
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Agriculturii și Industriei Alimentare

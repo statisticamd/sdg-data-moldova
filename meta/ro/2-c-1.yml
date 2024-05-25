@@ -32,7 +32,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indicatorul anomaliilor de preț la produsele alimentare (IFPA) măsoară prețurile anormal de mari ale pieței. IFPA se bazează pe rate de creștere complexe echilibrate care iau în considerare atât creșterea prețurilor pe parcursul anului, cât și pe tot parcursul anului. Indicatorul evaluează în mod direct creșterea prețurilor pentru o anumită lună timp de mai mulți ani, ținând cont de sezonalitatea pe piețele agricole și inflația, permițându-ne să răspundem la întrebarea dacă modificarea prețurilor este anormală pentru o anumită perioadă.
+  Indicatorul anomaliilor de preț la produsele alimentare (IFPA) măsoară prețurile anormal de mari ale pieței. IFPA se bazează pe rate de creștere complexe echilibrate care iau în considerare atât creșterea prețurilor la sfârșitul anului, cât și pe tot parcursul anului. Indicatorul evaluează în mod direct creșterea prețurilor pentru o anumită lună timp de mai mulți ani, ținând cont de sezonalitatea pe piețele agricole și inflația, permițându-ne să răspundem la întrebarea dacă modificarea prețurilor este anormală pentru o anumită perioadă.
 UNIT_MEASURE: >-
   indice
 CLASS_SYSTEM: ''
@@ -46,7 +46,7 @@ DATA_SOURCE: >-
   Organizația Națiunilor Unite pentru Agricultură și Alimentație (FAO)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Agriculturii, Dezvoltării Regionale și Mediului
+  Ministerul Agriculturii și Industriei Alimentare
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -68,9 +68,9 @@ source_active_1: true
 source_organisation_1: >-
   Organizația Națiunilor Unite pentru Agricultură și Alimentație (FAO)
 source_periodicity_1: >-
-  <p> trimestrial </p> 
-  <p>   anual </p>
+  Anual
 source_url_1: >-
+  https://www.fao.org/sustainable-development-goals-data-portal/data/indicators/2c1---indicator-of-(food)-price-anomalies/en
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

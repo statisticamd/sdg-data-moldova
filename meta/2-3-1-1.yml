@@ -29,7 +29,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Sown area – arable land sown with agricultural crops and the areas sown with agricultural crops between rows of orchards and vineyards.                                                                    Arable land - represents the agricultural land plots systematically processed (ploughed) and used for cultivation of annual or perennial crops
+  Sown area – arable land sown with agricultural crops and the areas sown with agricultural crops between rows of trees in orchards and vineyards.                                                                    Arable land - represents the agricultural land plots systematically processed (ploughed) and used for cultivation of annual or perennial crops
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -42,7 +42,8 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Bureau of Statistics                                                                                                          Land Relations and Cadastre Agency
+  <p> National Bureau of Statistics                </p> 
+  <p>Geodesy, Cartography and Cadastre Agency </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Agriculture and Food industry

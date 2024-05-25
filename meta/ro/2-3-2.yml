@@ -15,7 +15,7 @@ target_id: >-
   2.2999999999999998
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-2.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-02-03-02.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -54,7 +54,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Volumul producției globale agricole a micilor producători agricoli în prețuri comparabile/total  volumul producției globale agricole în prețuri comparabile*100
+  Volumul producției globale agricole a micilor producători agricoli în prețuri comparabile/volumul total al producției globale agricole în prețuri comparabile*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
