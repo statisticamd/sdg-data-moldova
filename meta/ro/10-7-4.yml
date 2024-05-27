@@ -15,6 +15,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.7.4: Numărul de refugiați la 100.000 de locuitori</p>
 SDG_SERIES_DESCR: ''
@@ -48,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  [Numărul de refugiați în funcție de țara de origine la sfârșitul anului /(Populația de la sfârșitul anului în țara de origine + numărul de refugiați în funcție de țara de origine la sfârșitul anului)]*100000
+  ((Numărul de refugiați în funcție de țara de origine la sfârșitul anului) /(Populația la sfârșitul anului în țara de origine + numărul de refugiați în funcție de țara de origine la sfârșitul anului))*100000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
