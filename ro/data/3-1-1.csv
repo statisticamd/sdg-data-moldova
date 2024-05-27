@@ -163,8 +163,8 @@ Year,Mediul de reședință,Raioane,Value
 2013,,Ștefan Vodă,120.6
 2013,,Taraclia,
 2013,,UTA Găgăuzia,
-2014,,,14.7
-2014,Urban,,6.5
+2014,,,17.2
+2014,Urban,,13.1
 2014,Rural,,19.7
 2014,,Mun. Chișinău,11.8
 2014,,Nord,18.7
@@ -450,40 +450,40 @@ Year,Mediul de reședință,Raioane,Value
 2020,,Ștefan Vodă,
 2020,,Taraclia,
 2020,,UTA Găgăuzia,
-2021,,,47.9
-2021,Urban,,50.7
-2021,Rural,,46.0
-2021,,Mun. Chișinău,28.6
-2021,,Nord,65.8
-2021,,mun. Bălți,181.2
+2021,,,47.749
+2021,Urban,,50.463
+2021,Rural,,45.898
+2021,,Mun. Chișinău,28.401
+2021,,Nord,65.703
+2021,,mun. Bălți,180.668
 2021,,Briceni,
 2021,,Dondușeni,
 2021,,Drochia,
-2021,,Edineț,167.8
+2021,,Edineț,167.504
 2021,,Fălești,
-2021,,Florești,144.3
+2021,,Florești,144.092
 2021,,Glodeni,
 2021,,Ocnița,
 2021,,Râșcani,
 2021,,Sângerei,
-2021,,Soroca,135.9
-2021,,Centru,65.9
-2021,,Anenii Noi,138.5
-2021,,Călărași,163.9
-2021,,Criuleni,144.5
+2021,,Soroca,135.501
+2021,,Centru,65.725
+2021,,Anenii Noi,137.741
+2021,,Călărași,163.666
+2021,,Criuleni,144.092
 2021,,Dubăsari,
 2021,,Hâncești,
-2021,,Ialoveni,105.2
+2021,,Ialoveni,104.603
 2021,,Nisporeni,
 2021,,Orhei,
-2021,,Rezina,234.2
+2021,,Rezina,234.192
 2021,,Strășeni,
 2021,,Șoldănești,
 2021,,Telenești,
-2021,,Ungheni,94.4
-2021,,Sud,24.5
+2021,,Ungheni,94.162
+2021,,Sud,24.468
 2021,,Basarabeasca,
-2021,,Cahul,112.0
+2021,,Cahul,111.982
 2021,,Cantemir,
 2021,,Căușeni,
 2021,,Cimișlia,
@@ -491,16 +491,16 @@ Year,Mediul de reședință,Raioane,Value
 2021,,Ștefan Vodă,
 2021,,Taraclia,
 2021,,UTA Găgăuzia,
-2022,,,
-2022,Urban,,
-2022,Rural,,
-2022,,Mun. Chișinău,
-2022,,Nord,
+2022,,,59.4
+2022,Urban,,53.8
+2022,Rural,,63.3
+2022,,Mun. Chișinău,58.711
+2022,,Nord,28.798
 2022,,mun. Bălți,
 2022,,Briceni,
-2022,,Dondușeni,
+2022,,Dondușeni,341.297
 2022,,Drochia,
-2022,,Edineț,
+2022,,Edineț,186.22
 2022,,Fălești,
 2022,,Florești,
 2022,,Glodeni,
@@ -508,10 +508,10 @@ Year,Mediul de reședință,Raioane,Value
 2022,,Râșcani,
 2022,,Sângerei,
 2022,,Soroca,
-2022,,Centru,
-2022,,Anenii Noi,
+2022,,Centru,47.534
+2022,,Anenii Noi,328.407
 2022,,Călărași,
-2022,,Criuleni,
+2022,,Criuleni,155.28
 2022,,Dubăsari,
 2022,,Hâncești,
 2022,,Ialoveni,
@@ -521,14 +521,14 @@ Year,Mediul de reședință,Raioane,Value
 2022,,Strășeni,
 2022,,Șoldănești,
 2022,,Telenești,
-2022,,Ungheni,
-2022,,Sud,
+2022,,Ungheni,96.618
+2022,,Sud,164.114
 2022,,Basarabeasca,
-2022,,Cahul,
-2022,,Cantemir,
+2022,,Cahul,122.249
+2022,,Cantemir,497.512
 2022,,Căușeni,
-2022,,Cimișlia,
-2022,,Leova,
-2022,,Ștefan Vodă,
+2022,,Cimișlia,265.957
+2022,,Leova,251.256
+2022,,Ștefan Vodă,165.017
 2022,,Taraclia,
 2022,,UTA Găgăuzia,
