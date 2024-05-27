@@ -3789,10 +3789,42 @@
             "type": "integer"
           },
           {
-            "name": " ",
-            "type": "number",
+            "name": "Sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Origin country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Afghanistan",
+                "Egypt",
+                "Armenia",
+                "Azerbaijan",
+                "Belarus",
+                "Comoro Islands",
+                "Eritrea",
+                "Iraq",
+                "Iran",
+                "Jordan",
+                "Kyrgyzstan",
+                "Nigeria",
+                "Russia",
+                "Sudan",
+                "Syria",
+                "Tajikistan",
+                "Turkmenistan",
+                "Togo",
+                "Turkey",
+                "Ukraine ",
+                "Uzbekistan",
                 ""
               ]
             }
