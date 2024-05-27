@@ -14,9 +14,9 @@ target_id: >-
   3.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 65.1 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.4.2: Suicide mortality rate, per 100,000 population</p>
 SDG_SERIES_DESCR: ''

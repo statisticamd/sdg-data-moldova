@@ -4,7 +4,6 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 11.3: By 2030, enhance inclusive and sustainable urbanization and capacity for  participatory, integrated and sustainable human settlement planning and  management in all countries</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UN-Habitat
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -13,9 +12,7 @@ target_id: >-
   11.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
 SDG_INDICATOR: >-
   <p>Indicator 11.3.1.1: Level of urbanization</p>
 SDG_SERIES_DESCR: ''
@@ -49,7 +46,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of urban population / Total population * 100.
+  Number of urban population / total population * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,7 +58,6 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
@@ -69,6 +65,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

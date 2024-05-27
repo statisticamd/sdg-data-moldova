@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3.4.1 Mortality rate attributed of the circulatory system, cancer, diseases of  the digestive system, diabetes, diseases of the respiratory system among  persons between 30 to 70 years aged  per 100,000 population
+graph_title: national_indicators.3-4-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Mortality rate attributed to cardiovascular disease, cancer, diseases of  the digestive system, diabetes, diseases of the respiratory system among  persons between 30 to 70 years aged  per 100,000 population
+indicator_available: national_indicators.3-4-1-title
 indicator_name: global_indicators.3-4-1-title
 indicator_number: 3.4.1
 indicator_tabs:: 
@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
 placeholder: ''
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
+tags: []
 x_axis_label: ''

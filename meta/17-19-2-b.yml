@@ -13,9 +13,9 @@ target_id: >-
   17.19
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02a.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02b.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.19.2.b: Rate of births and deaths registration</p>
 SDG_SERIES_DESCR: ''
@@ -38,8 +38,7 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) Administrative data on  registration of civil status - PSA </p> 
-  <p>  2) Statistical data on vital statistics - NBS </p> 
-  <p>  3) Online questionnaire UNSTATS </p>
+  <p>  2) Statistical data on vital statistics - NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -48,8 +47,7 @@ DATA_SOURCE: >-
   <p>  2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.United Nations Statistics Division </p>
+  National Bureau of Statistics
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -71,12 +69,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.United Nations Statistics Division </p>
+  National Bureau of Statistics
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link data source
 source_contact_1: >-
 source_other_info_1: >-

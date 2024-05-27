@@ -4,7 +4,6 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 11.3: Până în 2030, consolidarea urbanizării incluzive și durabile și a capacității pentru planificarea și gestionarea participativă, integrată și durabilă a așezărilor umane în toate țările</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UN-Habitat
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -13,9 +12,7 @@ target_id: >-
   11.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
 SDG_INDICATOR: >-
   <p>Indicator 11.3.1.1: Gradul de urbanizare</p>
 SDG_SERIES_DESCR: ''
@@ -49,7 +46,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul populației urbane / Populația totală * 100.
+  Numărul populației urbane / populația totală * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,7 +58,6 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

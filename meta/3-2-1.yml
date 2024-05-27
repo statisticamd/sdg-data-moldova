@@ -4,18 +4,19 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 3.2: By 2030, end preventable deaths of newborns and children under 5 years of age,  with all countries aiming to reduce neonatal mortality to at least as low as  12 per 1,000 live births and under-5 mortality to at least as low as 25 per  1,000 live births</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Children's Fund (UNICEFF)
+  United Nations Children's Fund (UNICEF)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
   The probability of a child born in a specific year or period dying before  reaching the age of 5 years, if subject to age specific mortality rates of  that period, expressed per 1000 live births. The under-five mortality rate as  defined here is, strictly speaking, not a rate (i.e. the number of deaths  divided by the number of population at risk during a certain period of time)  but a probability of death derived from a life table and expressed as a rate  per 1000 live births.
 SDG_GOAL: ''
 target_id: >-
+  3.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 225 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.2.1: Mortality rate of children aged 5 years, per 1,000 live births</p>
 SDG_SERIES_DESCR: ''
@@ -69,6 +70,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

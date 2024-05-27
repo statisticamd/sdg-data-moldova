@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 3.9.3: Rata mortalității determinate de intoxicații neintenționate</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2030, reducerea substanțială a numărului deceselor și bolilor  provocate de produsele chimice periculoase, de poluare și de contaminarea  aerului, apei și a solului</p>
+  <p>Target 3.9: Până în 2030, reducerea substanțială a numărului deceselor și bolilor  provocate de produsele chimice periculoase, de poluare și de contaminarea  aerului, apei și a solului</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organisation (WHO)
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.9
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-03.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 213 KB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.9.3: Rata mortalității determinate de intoxicații neintenționate la 100.000  populație</p>
 SDG_SERIES_DESCR: ''

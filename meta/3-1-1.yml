@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 865kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.1.1: Maternal mortality ratio, per 100,000 live births</p>
 SDG_SERIES_DESCR: ''
@@ -49,8 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of women who have passed away as a result of complications during  pregnancy or delivery in the year of reference, per 100 000 born alive* in the  same year.</p> 
-  <p>  * Data are based on registration of newly-born children with  550 gr weight and of 22 weeks of gestation. </p>
+  Number of women who have passed away as a result of complications during  pregnancy or delivery in the year of reference, per 100 000 born alive in the  same year. Data are based on registration of newly-born children with  550 gr weight and of 22 weeks of gestation.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,6 +69,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-
