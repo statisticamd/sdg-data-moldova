@@ -58,14 +58,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24/Bărbați",
+                "15-24 ani/Bărbați",
                 "15-24/ Women",
-                "25-34/Bărbați",
-                "25-34/Femei",
-                "35-44/Bărbați",
-                "35-44/Femei",
-                "45-49/Bărbați",
-                "45-49/Femei",
+                "25-34 ani/Bărbați",
+                "25-34 ani/Femei",
+                "35-44 ani/Bărbați",
+                "35-44 ani/Femei",
+                "45-49 ani/Bărbați",
+                "45-49 ani/Femei",
                 ""
               ]
             },

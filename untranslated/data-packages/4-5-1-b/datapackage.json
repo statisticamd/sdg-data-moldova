@@ -25,7 +25,7 @@
             }
           },
           {
-            "name": "Sexes",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [

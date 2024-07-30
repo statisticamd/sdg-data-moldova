@@ -27,7 +27,7 @@
             "title": "Area of residence"
           },
           {
-            "name": "Sexes",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Sexes"
+            "title": "Sex"
           },
           {
             "name": "Value",

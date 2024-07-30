@@ -44,12 +44,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Ambele sexe",
-                "15-24 / Bărbați",
-                "15-24 / Femei",
+                "15-24 ani/Ambele sexe",
+                "15-24 ani/Bărbați",
+                "15-24 ani/Femei",
                 "25-64 / Ambele sexe",
-                "25-64 / Bărbați",
-                "25-64 / Femei",
+                "25-64 ani/Bărbați",
+                "25-64 ani/Femei",
                 ""
               ]
             },

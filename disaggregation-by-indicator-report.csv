@@ -103,7 +103,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-3-1,"Sex, Area of residence, Age group / Sex",3
 #4-3-1-1,Sex,1
 #4-5-1-a,"Sex, Area of residence",2
-#4-5-1-b,"Area of residence, Sexes",2
+#4-5-1-b,"Sex, Area of residence",2
 #4-5-1-c,Sex,1
 #4-5-1-e,"Sex, Area of residence",2
 #4-a-1-a,"Area of residence, Education levels",2
@@ -116,7 +116,6 @@ Indicator,Disaggregations,Number of disaggregations
 #4-b-1-1,"Bachelor's Degree, Master",2
 #4-c-1-a,"Sex, Forms of ownership",2
 #4-c-1-b,"Sex, Forms of ownership",2
-#4-c-1-c,"Sex, Forms of ownership",2
 #5-2-1,"Area of residence, Age group, Level of education, Form of violence",4
 #5-4-1,"Sex, Area of residence, Age group",3
 #5-4-1-2,Area of residence,1

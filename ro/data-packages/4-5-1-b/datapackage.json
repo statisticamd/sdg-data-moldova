@@ -27,7 +27,7 @@
             "title": "Mediul de reședință"
           },
           {
-            "name": "Sexes",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Sex"
           },
           {
             "name": "Value",

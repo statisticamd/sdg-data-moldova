@@ -61,8 +61,8 @@
               "enum": [
                 "0-14 / Total",
                 "15+ / Total",
-                "15+ / Bărbați",
-                "15+ / Femei",
+                "15 ani + / Bărbați",
+                "15 ani +  / Femei",
                 ""
               ]
             },
@@ -74,8 +74,8 @@
             "constraints": {
               "enum": [
                 "15-24 / Total",
-                "15-24 / Bărbați",
-                "15-24 / Femei",
+                "15-24 ani/Bărbați",
+                "15-24 ani/Femei",
                 "25+ / Total",
                 "25+ / Bărbați",
                 "25+ / Femei",
