@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 375 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.1.2.b: Passenger record by mode of transport (air, road, railroad, river)</p>
 SDG_SERIES_DESCR: ''
@@ -31,7 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Passenger record expresses the volume of passenger transport (in  passengers-km) and is determined based on the number of transported passengers  and the effective distance in km travelled by every passenger by types of  vehicles.
+  <p> Passenger record expresses the volume of passenger transport (in  passengers-km) and is determined based on the number of transported passengers  and the effective distance in km travelled by every passenger by types of  vehicles.</p> 
+  <p>Note: global metadata  recommend reporting the indicator regarding the railroad transport only on the  territory of the country. The national indicator on railroad transportation  may be reported both for the territory of the country, as well as for the  territory outside the country. </p>
 UNIT_MEASURE: >-
   Million passengers-km
 CLASS_SYSTEM: ''
@@ -45,13 +46,12 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Infrastructure
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Passenger road = amount obtained by multiplying the number of passengers  transported by mode of transport  (air, road, railroad and river) * distance  in km travelled by the respective passengers.</p> 
-  <p>  Note: global metadata  recommend reporting the indicator regarding the railroad transport only on the  territory of the country. The national indicator on railroad transportation  may be reported both for the territory of the country, as well as for the  territory outside the country. </p>
+  Passenger road = amount obtained by multiplying the number of passengers  transported by mode of transport  (air, road, railroad and river) * distance  in km travelled by the respective passengers.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -71,6 +71,6 @@ source_periodicity_1: >-
   Infraannual-monthly
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

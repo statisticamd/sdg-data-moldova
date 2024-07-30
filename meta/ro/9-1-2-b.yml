@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 375 KB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.1.2.b: Parcursul pasagerilor transportați, după modul de transport (aerian,  rutier, feroviar și fluvial)</p>
 SDG_SERIES_DESCR: ''
@@ -32,7 +32,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> Parcursul pasagerilor exprimă volumul transportului de pasageri (în  pasageri-km) și se determină pe baza numărului de pasageri transportați și a  distanței efective în km parcurse de fiecare pasager pe tipuri de  vehicule.</p> 
-  <p>  Nota: metadatele globale recomandă raportarea indicatorului  privind transportul feroviar doar pe teritoriul țării. Indicatorul național  privind transportul feroviar poate fi raportat atât pe teritoriul țării, cât  și în afara țării. </p>
+  <p>Notă: metadatele globale recomandă raportarea indicatorului  privind transportul feroviar doar pe teritoriul țării. Indicatorul național  privind transportul feroviar poate fi raportat atât pe teritoriul țării, cât  și în afara țării. </p>
 UNIT_MEASURE: >-
   mil. pasageri-km
 CLASS_SYSTEM: ''
@@ -46,7 +46,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei și Infrastructurii
+  Ministerul Dezvoltării Economice și Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -71,6 +71,6 @@ source_periodicity_1: >-
   infraanual-lunar
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

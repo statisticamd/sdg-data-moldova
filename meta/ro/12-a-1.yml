@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-12-0a-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 782kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 12.a.1: Capacitatea instalațiilor de generare a energiei electrice regenerabile, Watt / cap de locuitor</p>
 SDG_SERIES_DESCR: ''
@@ -47,7 +47,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Biroul Național de Statistică
+  Ministerul Infrastructurii și Dezvoltării Regionale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
