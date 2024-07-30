@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-04-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 210kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.a.1.c: Proportion of primary and secondary general education institutions with access to computers for pedagogical purposes</p>
 SDG_SERIES_DESCR: ''
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

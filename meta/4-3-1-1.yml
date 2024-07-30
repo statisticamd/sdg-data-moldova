@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.3.1.1: NA</p>
+  <p>Indicator 4.3.1.1: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 4.3: By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -69,11 +69,10 @@ source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
 source_periodicity_1: >-
-  <p> Annual</p> 
-  <p>Under the heading „year” have been reported the data at the beginning of the study year </p>
+  Annual
 source_url_1: >-
   https://statbank.statistica.md/PxWeb/pxweb/en/50%20Statistica%20gender/50%20Statistica%20gender__GEN02/GEN020290inv_rcl.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774
 source_url_text_1: >-
-  Statbank>> Gender statistics>>Education and training of women during lifetime>>
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

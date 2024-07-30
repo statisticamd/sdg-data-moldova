@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-04-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 210kB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.a.1.c: Ponderea instituțiilor de învățământ primar și secundar general cu acces la calculatoare în scopuri pedagogice</p>
 SDG_SERIES_DESCR: ''
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
@@ -69,6 +69,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

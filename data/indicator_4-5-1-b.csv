@@ -1,4 +1,4 @@
-Year,Area of residence,Sexes,Value
+Year,Area of residence,Sex,Value
 2010,,,
 2010,Rural,,
 2010,,Women,
@@ -12,29 +12,29 @@ Year,Area of residence,Sexes,Value
 2013,Rural,,
 2013,,Women,
 2014,,,
-2014,Rural,,1.5
+2014,Rural,,0.7
 2014,,Women,1
 2015,,,
-2015,Rural,,1.5
+2015,Rural,,0.7
 2015,,Women,1
 2016,,,
-2016,Rural,,1.5
+2016,Rural,,0.7
 2016,,Women,1
 2017,,,
-2017,Rural,,1.5
+2017,Rural,,0.7
 2017,,Women,1
 2018,,,
-2018,Rural,,1.4
+2018,Rural,,0.7
 2018,,Women,1
 2019,,,
-2019,Rural,,1.4
+2019,Rural,,0.7
 2019,,Women,1
 2020,,,
-2020,Rural,,1.4
+2020,Rural,,0.7
 2020,,Women,1
 2021,,,
-2021,Rural,,1.3
+2021,Rural,,0.7
 2021,,Women,1
 2022,,,
-2022,Rural,,
-2022,,Women,
+2022,Rural,,0.7
+2022,,Women,1

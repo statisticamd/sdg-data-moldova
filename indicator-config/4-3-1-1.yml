@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
 computation_units: Percent, %
 copyright: ''
-data_footnote: ''
+data_footnote: Data are presented for the beginning of the study year
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

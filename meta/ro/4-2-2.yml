@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 4.2.2: Rata de încadrare în educația organizată (cu un an înainte de vârsta oficială de intrare în școala primară), pe sexe</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2030, asigurarea faptului că toate fetele și toți băieții au acces la dezvoltarea timpurie de calitate, îngrijire și educația preșcolară, astfel încât să fie pregătiți pentru învățământul primar</p>
+  <p>Target 4.2: Până în 2030, asigurarea faptului că toate fetele și toți băieții au acces la dezvoltarea timpurie de calitate, îngrijire și educația preșcolară, astfel încât să fie pregătiți pentru învățământul primar</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Education and Scientific Cultural Organisation
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  4.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 223
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.2.2: Rata de cuprindere în educația formală a copiilor în vârstă de 6 ani</p>
 SDG_SERIES_DESCR: ''
@@ -51,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul copiilor în vârstă de 6 ani cuprinși în învățământul formal (educație timpurie și învățământ primar) raportat la numărul total al copiilor în vârstă de 6 ani, *100.
+  Numărul copiilor în vârstă de 6 ani cuprinși în învățământul formal (educație timpurie și învățământ primar) raportat la numărul total al copiilor în vârstă de 6 ani *100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -71,6 +72,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

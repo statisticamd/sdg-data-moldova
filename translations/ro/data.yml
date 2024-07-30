@@ -8,28 +8,42 @@
 1,000 people: 1 000 persoane
 1,000 tons: 1 000 tone
 10-49 employees: 10-49 angajaţi
-15+ / Men: 15+ / Bărbați
-15+ / Women: 15+ / Femei
+15-24 years: 15-24 ani
+25-64 years: 25-64 ani
+65 years+: 65 ani +
+25 years +: 25 ani +
+25-34 years: 25-34 ani
+35-44 years: 35-44 ani
+45-54 years: 45-54 ani
+55-64 years: 55-64 ani
+15-24 years / Both sexes: 15-24 ani / Ambele sexe
+15-24 years / Men: 15-24 ani / Bărbați
+15-24 years / Women: 15-24 ani / Femei
+25-64 years / Both sexes: 25-64 ani / Ambele sexe
+25-64 years / Men: 25-64 ani / Bărbați
+25-64 years / Women: 25-64 ani / Femei
+15+ / Men: 15 ani + / Bărbați
+15+ / Women: 15 ani +  / Femei
 15-17 years: 15-17 ani
-15-24 / Both sexes: 15-24 / Ambele sexe
-15-24/Both sexes: 15-24/Ambele sexe
-15-24 / Men: 15-24 / Bărbați
-15-24/Men: 15-24/Bărbați
-15-24 / Women: 15-24 / Femei
-15-24/Women: 15-24/Femei
-15-29 / Both sexes: 15-29 / Ambele sexe
-15-29/Both sexes: 15-29/Ambele sexe
-15-29 / Men: 15-29 / Bărbați
-15-29/Men: 15-29/Bărbați
-15-29 / Women: 15-29 / Femei
-15-29/Women: 15-29/Femei
-15-34/ Women: 15-34/Femei
-15-34 / Both sexes: 15-34 / Ambele sexe
-15-34/Both sexes: 15-34/Ambele sexe
-15-34 / Men: 15-34 / Bărbați
-15-34/Men: 15-34/Bărbați
-15-34 / Women: 15-34 / Femei
-15-34/Women: 15-34/Femei
+15-24 / Both sexes: 15-24 ani/Ambele sexe
+15-24/Both sexes: 15-24 ani/Ambele sexe
+15-24 / Men: 15-24 ani/Bărbați
+15-24/Men: 15-24 ani/Bărbați
+15-24 / Women: 15-24 ani/Femei
+15-24/Women: 15-24 ani/Femei
+15-29 years / Both sexes: 15-29 ani/Ambele sexe
+15-29/Both sexes: 15-29 ani/Ambele sexe
+15-29 years / Men: 15-29 ani/Bărbați
+15-29/Men: 15-29 ani/Bărbați
+15-29 years / Women: 15-29 ani/Femei
+15-29/Women: 15-29 ani/Femei
+15-34/ Women: 15-34 ani/Femei
+15-34 years / Both sexes: 15-34 ani/Ambele sexe
+15-34/Both sexes: 15-34 ani/Ambele sexe
+15-34 years / Men: 15-34 ani/Bărbați
+15-34/Men: 15-34 ani/Bărbați
+15-34 years / Women: 15-34 ani/Femei
+15-34/Women: 15-34 ani/Femei
 16-17 years: 16-17 ani
 16-17 years old: 16-17 ani
 18 years and over, adults: 18 ani și peste, adulți
@@ -42,15 +56,15 @@
 25percent of daily per capita total household consumption: 25 procente of daily per capita total household consumption
 25+ / Men: 25+ / Bărbați
 25+ / Women: 25+ / Femei
-25-34/Men: 25-34/Bărbați
-25-34/Women: 25-34/Femei
-35-44/Men: 35-44/Bărbați
-35-44/Women: 35-44/Femei
-45-49/Men: 45-49/Bărbați
-45-49/Women: 45-49/Femei
+25-34/Men: 25-34 ani/Bărbați
+25-34/Women: 25-34 ani/Femei
+35-44/Men: 35-44 ani/Bărbați
+35-44/Women: 35-44 ani/Femei
+45-49/Men: 45-49 ani/Bărbați
+45-49/Women: 45-49 ani/Femei
 25-64 / Both sexes: 25-64 / Ambele sexe
-25-64 / Men: 25-64 / Bărbați
-25-64 / Women: 25-64 / Femei
+25-64 / Men: 25-64 ani/Bărbați
+25-64 / Women: 25-64 ani/Femei
 3-6 years: 3-6 ani
 3-6 years old: 3-6 ani
 57+ (women) / 62+ (men): 57+ (femei) / 62+ (bărbați)
@@ -717,9 +731,9 @@ Proportion of managerial positions held by women: Proporția posturilor de condu
 Proportion of women in senior and middle management positions: Proporția femeilor în funcții de conducere de nivel superior și mediu
 Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population: Proporția grefierilor și asistenților judiciari cu dizabilitate față de proporția persoanelor cu dizabilități în populația în vârstă aptă de muncă
 Proportion of judges with a disability to Proportion of persons with a disability in the working-age population: Proporția judecătorilor cu dizabilitate față de proporția persoanelor cu dizabilități în populația în vârstă aptă de muncă
-Proportion of persons aged of 13-15 year who have completed primary education: Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar
-Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium): Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial
-Proportion of persons aged of 21-23 year who have completed upper secondary education: Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar
+Proportion of persons aged of 13-15 years who have completed primary education: Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar
+Proportion of persons aged of 18-20 years who have completed lower secondary education (gimnasium): Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial
+Proportion of persons aged of 21-23 years who have completed upper secondary education: Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar
 Proportion of forest area located in legally protected areas, percent: Proporția de suprafață forestieră situată în zonele protejate legal, procente
 Proportion of forest area managed in accordance with long-term sustainable forest management plans, percent: Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung, procente
 proportion of GDP: proportion of GDP
