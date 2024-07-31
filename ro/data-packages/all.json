@@ -13701,16 +13701,17 @@
             "title": "Anul"
           },
           {
-            "name": "Area of residence",
+            "name": "Births at the age of 15-19 years old",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Total births at the age of 15-19 years old",
+                "Urban, births at the age of 15-19 years old",
+                "Rural, births at the age of 15-19 years old",
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Births at the age of 15-19 years old"
           },
           {
             "name": "Births at the age of 10-14 years old",
