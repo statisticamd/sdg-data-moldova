@@ -56,7 +56,7 @@ Year,Mediul de reședință,Sex,Grupa de vârstă,Sub-indicatori,Value
 2014,,,15+,,62.6
 2014,,,57+ (femei) / 62+ (bărbați),,52.7
 2014,,,,Acces la electricitate,100.0
-2014,,,,Acces la surse gestionate sigur de apă,73.1
+2014,,,,Acces la surse gestionate sigur de apă,73.063
 2014,,,,Acces la canalizare,62.8
 2014,,,,Acces la internet,
 2015,,,,,66.1
@@ -68,7 +68,7 @@ Year,Mediul de reședință,Sex,Grupa de vârstă,Sub-indicatori,Value
 2015,,,15+,,65.9
 2015,,,57+ (femei) / 62+ (bărbați),,56.5
 2015,,,,Acces la electricitate,100.0
-2015,,,,Acces la surse gestionate sigur de apă,77.0
+2015,,,,Acces la surse gestionate sigur de apă,76.983
 2015,,,,Acces la canalizare,66.6
 2015,,,,Acces la internet,
 2016,,,,,66.7
@@ -80,7 +80,7 @@ Year,Mediul de reședință,Sex,Grupa de vârstă,Sub-indicatori,Value
 2016,,,15+,,66.5
 2016,,,57+ (femei) / 62+ (bărbați),,59.0
 2016,,,,Acces la electricitate,100.0
-2016,,,,Acces la surse gestionate sigur de apă,77.2
+2016,,,,Acces la surse gestionate sigur de apă,77.25
 2016,,,,Acces la canalizare,67.1
 2016,,,,Acces la internet,
 2017,,,,,69.2
@@ -92,7 +92,7 @@ Year,Mediul de reședință,Sex,Grupa de vârstă,Sub-indicatori,Value
 2017,,,15+,,69.4
 2017,,,57+ (femei) / 62+ (bărbați),,62.7
 2017,,,,Acces la electricitate,100.0
-2017,,,,Acces la surse gestionate sigur de apă,80.8
+2017,,,,Acces la surse gestionate sigur de apă,80.818
 2017,,,,Acces la canalizare,69.5
 2017,,,,Acces la internet,
 2018,,,,,72.1
@@ -104,54 +104,66 @@ Year,Mediul de reședință,Sex,Grupa de vârstă,Sub-indicatori,Value
 2018,,,15+,,71.6
 2018,,,57+ (femei) / 62+ (bărbați),,65.7
 2018,,,,Acces la electricitate,100.0
-2018,,,,Acces la surse gestionate sigur de apă,82.1
+2018,,,,Acces la surse gestionate sigur de apă,82.079
 2018,,,,Acces la canalizare,72.3
 2018,,,,Acces la internet,
-2019,,,,,61.0
-2019,Urban,,,,80.9
-2019,Rural,,,,47.9
-2019,,Bărbați,,,61.4
-2019,,Femei,,,60.7
-2019,,,0-17,,71.4
-2019,,,15+,,58.3
-2019,,,57+ (femei) / 62+ (bărbați),,39.5
-2019,,,,Acces la electricitate,100.0
-2019,,,,Acces la surse gestionate sigur de apă,83.1
-2019,,,,Acces la canalizare,74.5
-2019,,,,Acces la internet,70.8
-2020,,,,,65.2
-2020,Urban,,,,84.2
-2020,Rural,,,,52.6
-2020,,Bărbați,,,66.3
-2020,,Femei,,,64.2
-2020,,,0-17,,76.2
+2019,,,,,61.002
+2019,Urban,,,,80.909
+2019,Rural,,,,47.858
+2019,,Bărbați,,,61.404
+2019,,Femei,,,60.651
+2019,,,0-17,,71.44
+2019,,,15+,,58.335
+2019,,,57+ (femei) / 62+ (bărbați),,39.45
+2019,,,,Acces la electricitate,99.992
+2019,,,,Acces la surse gestionate sigur de apă,83.144
+2019,,,,Acces la canalizare,74.519
+2019,,,,Acces la internet,70.796
+2020,,,,,65.161
+2020,Urban,,,,84.211
+2020,Rural,,,,52.609
+2020,,Bărbați,,,66.251
+2020,,Femei,,,64.166
+2020,,,0-17,,76.172
 2020,,,15+,,62.5
-2020,,,57+ (femei) / 62+ (bărbați),,43.9
-2020,,,,Acces la electricitate,100.0
-2020,,,,Acces la surse gestionate sigur de apă,85.3
-2020,,,,Acces la canalizare,77.6
-2020,,,,Acces la internet,74.2
-2021,,,,,68.4
-2021,Urban,,,,85.4
-2021,Rural,,,,57.3
-2021,,Bărbați,,,69.2
-2021,,Femei,,,67.8
-2021,,,0-17,,79.6
-2021,,,15+,,65.9
-2021,,,57+ (femei) / 62+ (bărbați),,43.6
-2021,,,,Acces la electricitate,100.0
-2021,,,,Acces la surse gestionate sigur de apă,86.4
-2021,,,,Acces la canalizare,80.4
-2021,,,,Acces la internet,76.4
-2022,,,,,69.3
-2022,Urban,,,,85.3
-2022,Rural,,,,58.8
-2022,,Bărbați,,,69.9
-2022,,Femei,,,68.7
-2022,,,0-17,,81.0
-2022,,,15+,,66.4
-2022,,,57+ (femei) / 62+ (bărbați),,45.7
+2020,,,57+ (femei) / 62+ (bărbați),,43.857
+2020,,,,Acces la electricitate,99.988
+2020,,,,Acces la surse gestionate sigur de apă,85.342
+2020,,,,Acces la canalizare,77.619
+2020,,,,Acces la internet,74.195
+2021,,,,,68.448
+2021,Urban,,,,85.413
+2021,Rural,,,,57.296
+2021,,Bărbați,,,69.222
+2021,,Femei,,,67.796
+2021,,,0-17,,79.632
+2021,,,15+,,65.881
+2021,,,57+ (femei) / 62+ (bărbați),,43.571
+2021,,,,Acces la electricitate,99.986
+2021,,,,Acces la surse gestionate sigur de apă,86.411
+2021,,,,Acces la canalizare,80.394
+2021,,,,Acces la internet,76.424
+2022,,,,,69.282
+2022,Urban,,,,85.272
+2022,Rural,,,,58.779
+2022,,Bărbați,,,69.923
+2022,,Femei,,,68.739
+2022,,,0-17,,81.022
+2022,,,15+,,66.351
+2022,,,57+ (femei) / 62+ (bărbați),,45.745
 2022,,,,Acces la electricitate,100.0
-2022,,,,Acces la surse gestionate sigur de apă,88.5
-2022,,,,Acces la canalizare,81.5
-2022,,,,Acces la internet,77.6
+2022,,,,Acces la surse gestionate sigur de apă,88.522
+2022,,,,Acces la canalizare,81.464
+2022,,,,Acces la internet,77.577
+2023,,,,,72.764
+2023,Urban,,,,85.885
+2023,Rural,,,,62.9
+2023,,Bărbați,,,73.754
+2023,,Femei,,,71.93
+2023,,,0-17,,82.362
+2023,,,15+,,70.718
+2023,,,57+ (femei) / 62+ (bărbați),,51.218
+2023,,,,Acces la electricitate,100.0
+2023,,,,Acces la surse gestionate sigur de apă,90.729
+2023,,,,Acces la canalizare,85.02
+2023,,,,Acces la internet,79.071

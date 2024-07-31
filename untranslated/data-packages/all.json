@@ -12044,7 +12044,7 @@
             }
           },
           {
-            "name": "Type of sewerage",
+            "name": "Type of sewerage ",
             "type": "string",
             "constraints": {
               "enum": [

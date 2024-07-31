@@ -56,7 +56,7 @@ Year,Area of residence,Sex,Age group,Sub-indicators,Value
 2014,,,15+,,62.6
 2014,,,57+ (women) / 62+ (men),,52.7
 2014,,,,Access to electricity,100.0
-2014,,,,Access to safely managed water sources,73.1
+2014,,,,Access to safely managed water sources,73.063
 2014,,,,Access to sewerage,62.8
 2014,,,,Access to internet,
 2015,,,,,66.1
@@ -68,7 +68,7 @@ Year,Area of residence,Sex,Age group,Sub-indicators,Value
 2015,,,15+,,65.9
 2015,,,57+ (women) / 62+ (men),,56.5
 2015,,,,Access to electricity,100.0
-2015,,,,Access to safely managed water sources,77.0
+2015,,,,Access to safely managed water sources,76.983
 2015,,,,Access to sewerage,66.6
 2015,,,,Access to internet,
 2016,,,,,66.7
@@ -80,7 +80,7 @@ Year,Area of residence,Sex,Age group,Sub-indicators,Value
 2016,,,15+,,66.5
 2016,,,57+ (women) / 62+ (men),,59.0
 2016,,,,Access to electricity,100.0
-2016,,,,Access to safely managed water sources,77.2
+2016,,,,Access to safely managed water sources,77.25
 2016,,,,Access to sewerage,67.1
 2016,,,,Access to internet,
 2017,,,,,69.2
@@ -92,7 +92,7 @@ Year,Area of residence,Sex,Age group,Sub-indicators,Value
 2017,,,15+,,69.4
 2017,,,57+ (women) / 62+ (men),,62.7
 2017,,,,Access to electricity,100.0
-2017,,,,Access to safely managed water sources,80.8
+2017,,,,Access to safely managed water sources,80.818
 2017,,,,Access to sewerage,69.5
 2017,,,,Access to internet,
 2018,,,,,72.1
@@ -104,54 +104,66 @@ Year,Area of residence,Sex,Age group,Sub-indicators,Value
 2018,,,15+,,71.6
 2018,,,57+ (women) / 62+ (men),,65.7
 2018,,,,Access to electricity,100.0
-2018,,,,Access to safely managed water sources,82.1
+2018,,,,Access to safely managed water sources,82.079
 2018,,,,Access to sewerage,72.3
 2018,,,,Access to internet,
-2019,,,,,61.0
-2019,Urban,,,,80.9
-2019,Rural,,,,47.9
-2019,,Men,,,61.4
-2019,,Women,,,60.7
-2019,,,0-17,,71.4
-2019,,,15+,,58.3
-2019,,,57+ (women) / 62+ (men),,39.5
-2019,,,,Access to electricity,100.0
-2019,,,,Access to safely managed water sources,83.1
-2019,,,,Access to sewerage,74.5
-2019,,,,Access to internet,70.8
-2020,,,,,65.2
-2020,Urban,,,,84.2
-2020,Rural,,,,52.6
-2020,,Men,,,66.3
-2020,,Women,,,64.2
-2020,,,0-17,,76.2
+2019,,,,,61.002
+2019,Urban,,,,80.909
+2019,Rural,,,,47.858
+2019,,Men,,,61.404
+2019,,Women,,,60.651
+2019,,,0-17,,71.44
+2019,,,15+,,58.335
+2019,,,57+ (women) / 62+ (men),,39.45
+2019,,,,Access to electricity,99.992
+2019,,,,Access to safely managed water sources,83.144
+2019,,,,Access to sewerage,74.519
+2019,,,,Access to internet,70.796
+2020,,,,,65.161
+2020,Urban,,,,84.211
+2020,Rural,,,,52.609
+2020,,Men,,,66.251
+2020,,Women,,,64.166
+2020,,,0-17,,76.172
 2020,,,15+,,62.5
-2020,,,57+ (women) / 62+ (men),,43.9
-2020,,,,Access to electricity,100.0
-2020,,,,Access to safely managed water sources,85.3
-2020,,,,Access to sewerage,77.6
-2020,,,,Access to internet,74.2
-2021,,,,,68.4
-2021,Urban,,,,85.4
-2021,Rural,,,,57.3
-2021,,Men,,,69.2
-2021,,Women,,,67.8
-2021,,,0-17,,79.6
-2021,,,15+,,65.9
-2021,,,57+ (women) / 62+ (men),,43.6
-2021,,,,Access to electricity,100.0
-2021,,,,Access to safely managed water sources,86.4
-2021,,,,Access to sewerage,80.4
-2021,,,,Access to internet,76.4
-2022,,,,,69.3
-2022,Urban,,,,85.3
-2022,Rural,,,,58.8
-2022,,Men,,,69.9
-2022,,Women,,,68.7
-2022,,,0-17,,81.0
-2022,,,15+,,66.4
-2022,,,57+ (women) / 62+ (men),,45.7
+2020,,,57+ (women) / 62+ (men),,43.857
+2020,,,,Access to electricity,99.988
+2020,,,,Access to safely managed water sources,85.342
+2020,,,,Access to sewerage,77.619
+2020,,,,Access to internet,74.195
+2021,,,,,68.448
+2021,Urban,,,,85.413
+2021,Rural,,,,57.296
+2021,,Men,,,69.222
+2021,,Women,,,67.796
+2021,,,0-17,,79.632
+2021,,,15+,,65.881
+2021,,,57+ (women) / 62+ (men),,43.571
+2021,,,,Access to electricity,99.986
+2021,,,,Access to safely managed water sources,86.411
+2021,,,,Access to sewerage,80.394
+2021,,,,Access to internet,76.424
+2022,,,,,69.282
+2022,Urban,,,,85.272
+2022,Rural,,,,58.779
+2022,,Men,,,69.923
+2022,,Women,,,68.739
+2022,,,0-17,,81.022
+2022,,,15+,,66.351
+2022,,,57+ (women) / 62+ (men),,45.745
 2022,,,,Access to electricity,100.0
-2022,,,,Access to safely managed water sources,88.5
-2022,,,,Access to sewerage,81.5
-2022,,,,Access to internet,77.6
+2022,,,,Access to safely managed water sources,88.522
+2022,,,,Access to sewerage,81.464
+2022,,,,Access to internet,77.577
+2023,,,,,72.764
+2023,Urban,,,,85.885
+2023,Rural,,,,62.9
+2023,,Men,,,73.754
+2023,,Women,,,71.93
+2023,,,0-17,,82.362
+2023,,,15+,,70.718
+2023,,,57+ (women) / 62+ (men),,51.218
+2023,,,,Access to electricity,100.0
+2023,,,,Access to safely managed water sources,90.729
+2023,,,,Access to sewerage,85.02
+2023,,,,Access to internet,79.071

@@ -259,81 +259,107 @@ Year,Area of residence,Sex,Age group,Age group 1 and Sex,Age group 2 and Sex,Emp
 2019,,,,,,Self-employers in non-agricultural activities,4.5
 2019,,,,,,Pensioners,3.4
 2019,,,,,,Others,7.2
-2020,,,,,,,4.9
-2020,Urban,,,,,,1.8
-2020,Rural,,,,,,7.0
-2020,,Men,,,,,5.3
-2020,,Women,,,,,4.6
-2020,,,15-24,,,,5.5
-2020,,,25-34,,,,6.4
-2020,,,35-44,,,,5.3
-2020,,,45-54,,,,4.0
-2020,,,55+,,,,2.2
-2020,,,,0-14 / Total,,,8.9
-2020,,,,15+ / Total,,,4.0
-2020,,,,15+ / Men,,,4.1
-2020,,,,15+ / Women,,,3.9
-2020,,,,,15-24 / Total,,5.5
-2020,,,,,15-24 / Men,,5.2
-2020,,,,,15-24 / Women,,5.8
-2020,,,,,25+ / Total,,3.8
-2020,,,,,25+ / Men,,4.0
-2020,,,,,25+ / Women,,3.6
-2020,,,,,,Self-employers in agriculture,7.5
-2020,,,,,,Employees in the agricultural sector,6.9
-2020,,,,,,Employees in the non-agricultural sector,1.9
-2020,,,,,,Self-employers in non-agricultural activities,5.3
-2020,,,,,,Pensioners,2.5
-2020,,,,,,Others,7.3
-2021,,,,,,,4.6
-2021,Urban,,,,,,1.8
-2021,Rural,,,,,,6.4
-2021,,Men,,,,,4.6
-2021,,Women,,,,,4.6
-2021,,,15-24,,,,5.7
-2021,,,25-34,,,,4.4
-2021,,,35-44,,,,4.4
-2021,,,45-54,,,,3.8
-2021,,,55+,,,,3.0
-2021,,,,0-14 / Total,,,7.6
-2021,,,,15+ / Total,,,3.9
-2021,,,,15+ / Men,,,3.9
-2021,,,,15+ / Women,,,3.9
-2021,,,,,15-24 / Total,,5.7
-2021,,,,,15-24 / Men,,5.1
-2021,,,,,15-24 / Women,,6.2
-2021,,,,,25+ / Total,,3.6
-2021,,,,,25+ / Men,,3.7
-2021,,,,,25+ / Women,,3.6
-2021,,,,,,Self-employers in agriculture,8.0
-2021,,,,,,Employees in the agricultural sector,6.7
-2021,,,,,,Employees in the non-agricultural sector,1.2
-2021,,,,,,Self-employers in non-agricultural activities,3.9
-2021,,,,,,Pensioners,3.3
-2021,,,,,,Others,6.6
+2020,,,,,,,4.914
+2020,Urban,,,,,,1.794
+2020,Rural,,,,,,6.969
+2020,,Men,,,,,5.255
+2020,,Women,,,,,4.602
+2020,,,15-24,,,,5.458
+2020,,,25-34,,,,6.361
+2020,,,35-44,,,,5.291
+2020,,,45-54,,,,3.965
+2020,,,55+,,,,2.184
+2020,,,,0-14 / Total,,,8.89
+2020,,,,15+ / Total,,,4.005
+2020,,,,15+ / Men,,,4.146
+2020,,,,15+ / Women,,,3.885
+2020,,,,,15-24 / Total,,5.458
+2020,,,,,15-24 / Men,,5.172
+2020,,,,,15-24 / Women,,5.771
+2020,,,,,25+ / Total,,3.798
+2020,,,,,25+ / Men,,3.977
+2020,,,,,25+ / Women,,3.65
+2020,,,,,,Self-employers in agriculture,7.476
+2020,,,,,,Employees in the agricultural sector,6.885
+2020,,,,,,Employees in the non-agricultural sector,1.855
+2020,,,,,,Self-employers in non-agricultural activities,5.326
+2020,,,,,,Pensioners,2.516
+2020,,,,,,Others,7.263
+2021,,,,,,,4.563
+2021,Urban,,,,,,1.817
+2021,Rural,,,,,,6.367
+2021,,Men,,,,,4.554
+2021,,Women,,,,,4.57
+2021,,,15-24,,,,5.686
+2021,,,25-34,,,,4.356
+2021,,,35-44,,,,4.404
+2021,,,45-54,,,,3.817
+2021,,,55+,,,,2.996
+2021,,,,0-14 / Total,,,7.55
+2021,,,,15+ / Total,,,3.889
+2021,,,,15+ / Men,,,3.888
+2021,,,,15+ / Women,,,3.891
+2021,,,,,15-24 / Total,,5.686
+2021,,,,,15-24 / Men,,5.122
+2021,,,,,15-24 / Women,,6.183
+2021,,,,,25+ / Total,,3.632
+2021,,,,,25+ / Men,,3.701
+2021,,,,,25+ / Women,,3.576
+2021,,,,,,Self-employers in agriculture,7.969
+2021,,,,,,Employees in the agricultural sector,6.684
+2021,,,,,,Employees in the non-agricultural sector,1.198
+2021,,,,,,Self-employers in non-agricultural activities,3.936
+2021,,,,,,Pensioners,3.32
+2021,,,,,,Others,6.551
 2022,,,,,,,6.1
-2022,Urban,,,,,,3.2
-2022,Rural,,,,,,8.0
-2022,,Men,,,,,6.4
-2022,,Women,,,,,5.9
-2022,,,15-24,,,,7.7
-2022,,,25-34,,,,5.6
-2022,,,35-44,,,,6.8
-2022,,,45-54,,,,4.7
-2022,,,55+,,,,3.8
-2022,,,,0-14 / Total,,,10.3
-2022,,,,15+ / Total,,,5.2
-2022,,,,15+ / Men,,,5.5
-2022,,,,15+ / Women,,,4.9
-2022,,,,,15-24 / Total,,7.7
-2022,,,,,15-24 / Men,,8.8
-2022,,,,,15-24 / Women,,6.5
-2022,,,,,25+ / Total,,4.8
-2022,,,,,25+ / Men,,4.9
-2022,,,,,25+ / Women,,4.7
-2022,,,,,,Self-employers in agriculture,9.3
-2022,,,,,,Employees in the agricultural sector,7.5
-2022,,,,,,Employees in the non-agricultural sector,3.1
-2022,,,,,,Self-employers in non-agricultural activities,4.3
-2022,,,,,,Pensioners,4.2
-2022,,,,,,Others,8.4
+2022,Urban,,,,,,3.17
+2022,Rural,,,,,,8.024
+2022,,Men,,,,,6.354
+2022,,Women,,,,,5.884
+2022,,,15-24,,,,7.698
+2022,,,25-34,,,,5.605
+2022,,,35-44,,,,6.782
+2022,,,45-54,,,,4.748
+2022,,,55+,,,,3.822
+2022,,,,0-14 / Total,,,10.287
+2022,,,,15+ / Total,,,5.165
+2022,,,,15+ / Men,,,5.461
+2022,,,,15+ / Women,,,4.925
+2022,,,,,15-24 / Total,,7.698
+2022,,,,,15-24 / Men,,8.806
+2022,,,,,15-24 / Women,,6.543
+2022,,,,,25+ / Total,,4.812
+2022,,,,,25+ / Men,,4.92
+2022,,,,,25+ / Women,,4.728
+2022,,,,,,Self-employers in agriculture,9.278
+2022,,,,,,Employees in the agricultural sector,7.538
+2022,,,,,,Employees in the non-agricultural sector,3.129
+2022,,,,,,Self-employers in non-agricultural activities,4.294
+2022,,,,,,Pensioners,4.174
+2022,,,,,,Others,8.436
+2023,,,,,,,6.143
+2023,Urban,,,,,,2.197
+2023,Rural,,,,,,9.11
+2023,,Men,,,,,6.629
+2023,,Women,,,,,5.734
+2023,,,15-24,,,,5.824
+2023,,,25-34,,,,5.409
+2023,,,35-44,,,,7.426
+2023,,,45-54,,,,4.145
+2023,,,55+,,,,4.345
+2023,,,,0-14 / Total,,,10.92
+2023,,,,15+ / Total,,,5.084
+2023,,,,15+ / Men,,,5.454
+2023,,,,15+ / Women,,,4.787
+2023,,,,,15-24 / Total,,5.824
+2023,,,,,15-24 / Men,,5.525
+2023,,,,,15-24 / Women,,6.133
+2023,,,,,25+ / Total,,4.985
+2023,,,,,25+ / Men,,5.443
+2023,,,,,25+ / Women,,4.628
+2023,,,,,,Self-employers in agriculture,12.029
+2023,,,,,,Employees in the agricultural sector,8.89
+2023,,,,,,Employees in the non-agricultural sector,2.31
+2023,,,,,,Self-employers in non-agricultural activities,3.406
+2023,,,,,,Pensioners,4.123
+2023,,,,,,Others,9.127

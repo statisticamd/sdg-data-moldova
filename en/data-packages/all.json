@@ -13070,7 +13070,7 @@
             "title": "Sex of the head of the household"
           },
           {
-            "name": "Type of sewerage",
+            "name": "Type of sewerage ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13079,7 +13079,7 @@
                 ""
               ]
             },
-            "title": "Type of sewerage"
+            "title": "Type of sewerage "
           },
           {
             "name": "Value",
