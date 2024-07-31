@@ -35,11 +35,11 @@ indicator_tabs::
 national_geographical_coverage: Republica Moldova
 page_content: >-
   <p> ***Indicator non-statistic***</p> 
-  <p>Ultimul Recensmânt al Populației și Locuințelor a fost desfășurat în anul 2014. 
-  Următorul Recensmânt al Populației și Locuințelor este planificat în anul 2024 
-  și se va desfășura în baza Legii 231/2022 privind recensământul populației și locuințelor 
-  șia HG 951/2022 cu privire la organizarea și efectuarea recensământului populației 
-  și locuințelor din Republica Moldova în anul 2024 </p>
+  <p>Recensământul Populației
+și Locuințelor în cadrul rundei 2020 a fost desfășurat în Republica Molodva
+în perioada 8 aprilie-7 iulie în baza Legii 231/2022 privind recensământul populației
+și locuințelor și a HG 951/2022 cu privire la organizarea și efectuarea recensământului
+populației și locuințelor din Republica Moldova în anul 2024 </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -50,6 +50,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global divizat
+tags: []
 x_axis_label: ''

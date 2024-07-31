@@ -16,8 +16,7 @@ target_id: >-
   6.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  <p> https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf </p> 
-  <p>https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf </p>
+  https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -68,7 +67,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1(a)/2(b)
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

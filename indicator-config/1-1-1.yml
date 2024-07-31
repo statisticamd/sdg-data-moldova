@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 1.1.1. Proportion of the population below the international poverty line of $2.15 per  day
+graph_title: national_indicators.1-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of the population below the international poverty line of $2.15 per day
+indicator_available: national_indicators.1-1-1-title
 indicator_name: global_indicators.1-1-1-title
 indicator_number: 1.1.1
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global adjusted
+tags: []
 x_axis_label: ''

@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 6.2.1.1: Proporția populației care utilizează (a) servicii de salubritate gestionate în mod sigur și (b) o instalație de spălare a mâinilor cu săpun și apă</p>
+  <p>Indicator 6.2.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 6.2: Până în 2030, realizarea accesului la condiții sanitare și de igienă adecvate și echitabile pentru toți și eliminarea defecării în aer liber, acordând o atenție specială nevoilor femeilor și fetelor și celor în situații vulnerabile</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -16,8 +16,6 @@ target_id: >-
   6.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  <p> https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf </p> 
-  <p>https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf </p>
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -69,7 +67,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1(a)/2(b)
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 3.8.2.2: Proportion of population with large household expenditures on health as a share of total household expenditure or income</p>
+  <p>Indicator 3.8.2.2: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-
