@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.18.3.1: Existența Planului anual de acțiuni pentru implementarea Strategiei Naționale  de Dezvoltare a Sistemului Statistic Național, care este deplin finanțat și  aflat în proces de implementare</p>
+  <p>Indicator 17.18.3.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 17.18: Până în 2020, sporirea suportului de consolidare a capacităților pentru țările  în curs de    dezvoltare, inclusiv pentru țările cel mai puțin dezvoltate și  statele insulare mici în curs de dezvoltare, pentru a crește în mod  semnificativ disponibilitatea datelor calitative, în timp util și fiabile,  desegregate după venit, sex, vârstă, rasă, etnie, statut migrațional,  dizabilități,  localizare geografică și alte caracteristici relevante în  contexte naționale</p>
+  <p>Target 17.18: Până în 2020, sporirea suportului de consolidare a capacităților pentru țările în curs de dezvoltare, inclusiv pentru țările cel mai puțin dezvoltate și statele insulare mici în curs de dezvoltare, pentru a crește în mod semnificativ disponibilitatea datelor calitative, în timp util și fiabile, desegregate după venit, sex, vârstă, rasă, etnie, statut migrațional, dizabilități, localizare geografică și alte caracteristici relevante în contexte naționale</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   PARIS21
@@ -34,12 +34,11 @@ STAT_CONC_DEF: >-
   <p> Indicatorul vizează colectarea informației în ceea ce privește existența  Planului de acțiuni pentru implementarea Strategiei naționale de dezvoltare a  SSN. </p> 
   <p>  La nivel global atingerea acestui indicator este apreciată în  cadrul Raportului anual de stare privind Strategiile naționale pentru  elaborarea statisticilor (SNDD). În colaborare cu partenerii săi, PARIS21  raportează progresul țării în elaborarea și implementarea planurilor  statistice naționale. Indicatorul reprezintă un număr de țări care (i) pun în  aplicare o strategie, (ii) elaborează o strategie sau (iii) se află în proces  de adoptare a unei strategii în anul curent. </p>
 UNIT_MEASURE: >-
-  da/nu
+  Documente de politici
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Cadrul normativ și strategic sectorial în domeniul statisticii - BNS</p> 
-  <p>   2) PARIS21 SDG Survey through online form + PARIS21 [anual NSDS status  report](https://paris21.org/sites/default/files/2019-05/NSDS%20Status%20Report%20May%202019.pdf) </p>
+  Cadrul normativ și strategic sectorial în domeniul statisticii - BNS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,8 +71,8 @@ source_organisation_1: >-
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  https://statistica.gov.md/files/files/despre/Strategii/Realizare_plan_actiuni_SDSSN_2016-2019.pdf
+  https://statistica.gov.md/ro/programul-de-dezvoltare-a-sistemului-statistic-national-pentru-perioada-31_59784.html
 source_url_text_1: >-
-  Realizarea Planului de acțiuni pentru implementarea Strategiei de dezvoltare a sistemului statistic național 2016-2020
+  Realizarea Planului de acțiuni pentru implementarea Programului de dezvoltare a sistemului statistic național pentru perioada 2023-2026
 source_contact_1: >-
 source_other_info_1: >-

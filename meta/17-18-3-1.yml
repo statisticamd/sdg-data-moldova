@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.18.3.1: Existence of annual Action Plan to implement the National Strategy for  Development of the National Statistical System that is fully funded and under  implementation</p>
+  <p>Indicator 17.18.3.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 17.18: By 2020, enhance capacity-building support to developing countries, including  for least developed countries and small island developing States, to increase  significantly the availability of high-quality, timely and reliable data  disaggregated by income, gender, age, race, ethnicity, migratory status,  disability, geographic location and other characteristics relevant in national  contexts</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -34,12 +34,11 @@ STAT_CONC_DEF: >-
   <p> The indicator refers to collecting the information in relation to the  existence of the Action Plan for implementing the National Strategy for  Development of the NSS. </p> 
   <p>  At the global level, the achievement of this  indicator is assessed in the Annual Report regarding the status of national  strategies for statistics development (NSSD). In collaboration with its  partners, PARIS21 reports the country's progress in developing and  implementing national statistical plans. The indicator represents a number of  countries that (i) implement a strategy, (ii) develop a strategy or (iii) are  adopting a strategy during the current year. </p>
 UNIT_MEASURE: >-
-  Yes/no
+  Policy documents
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Sector normative and strategical framework in the area of statistics - NBS  </p> 
-  <p>  2) PARIS21 SDG Survey through online form + PARIS21 annual [NSDS status  report](https://paris21.org/sites/default/files/2019-05/NSDS%20Status%20Report%20May%202019.pdf) </p>
+  Sector normative and strategical framework in the area of statistics - NBS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,8 +71,8 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  https://statistica.gov.md/files/files/despre/Strategii/Realizare_plan_actiuni_SDSSN_2016-2019.pdf
+  https://statistica.gov.md/ro/programul-de-dezvoltare-a-sistemului-statistic-national-pentru-perioada-31_59784.html
 source_url_text_1: >-
-  Implementation of the Action Plan for the implementation of the National Statistical System Development Strategy 2016-2020
+  Implementation of the Action Plan for the implementation of the National Statistical System Development Program 2023-2026
 source_contact_1: >-
 source_other_info_1: >-

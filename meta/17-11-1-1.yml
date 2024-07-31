@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-11-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.11.1.1: Exports of goods  as a proportion of country's foreign trade</p>
 SDG_SERIES_DESCR: ''
@@ -38,7 +38,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistics of foreign trade - NBS
+  Statistics of foreign trade - National Bureau of Statistics
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -46,7 +46,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Infrastructure
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://statistica.gov.md/en/statistic_indicator_details/19
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

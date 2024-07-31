@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.18.3.2: Gradul de implementare și gradul de finanțare a Planului anual de acțiuni  pentru implementarea Strategiei Naționale de Dezvoltare a Sistemului Statistic  Național</p>
+  <p>Indicator 17.18.3.2: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 17.18: Până în 2020, sporirea suportului de consolidare a capacităților pentru țările  în curs de    dezvoltare, inclusiv pentru țările cel mai puțin dezvoltate și  statele insulare mici în curs de dezvoltare, pentru a crește în mod  semnificativ disponibilitatea datelor calitative, în timp util și fiabile,  desegregate după venit, sex, vârstă, rasă, etnie, statut migrațional,  dizabilități,  localizare geografică și alte caracteristici relevante în  contexte naționale</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.18.3.2: Gradul de implementare și gradul de finanțare a Planului anual de  acțiuni pentru implementarea Strategiei Naționale de Dezvoltare a Sistemului  Statistic Național</p>
 SDG_SERIES_DESCR: ''
@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Cadrul normativ în domeniul statisticii - BNS
+  Cadrul normativ în domeniul statisticii - Biroul Național de Statistică
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,8 +70,8 @@ source_organisation_1: >-
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  https://statistica.gov.md/files/files/despre/Strategii/Raport_realizare_SDSSN_2016_2020.pdf
+  https://statistica.gov.md/ro/programul-de-dezvoltare-a-sistemului-statistic-national-pentru-perioada-31_59784.html
 source_url_text_1: >-
-  Realizarea SDSSN 2016-2020
+  Programul de dezvoltare a Sistemului Statistic Național pentru perioada 2023-2026
 source_contact_1: >-
 source_other_info_1: >-

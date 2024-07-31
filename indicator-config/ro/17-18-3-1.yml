@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: da/nu
+computation_units: Documente de politici
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -35,14 +35,20 @@ indicator_tabs::
 national_geographical_coverage: Republica Moldova
 page_content: >-
   <p> ***Indicator non-statistic***</p> 
-  <p>2012-2014 - Planul de acțiuni la Programul de Dezvoltare Strategică al BNS 2012-2014</p> 
-  
+  <p>2012-2014 - Planul de
+acțiuni la Programul de Dezvoltare Strategică al BNS 2012-2014</p> 
   <p></p> 
-  <p>2016-2020 - Planul de acțiuni privind implementarea Strategiei  de dezvoltare 
-  a sistemului statistic naţional 2016-2020</p> 
+  <p>2016-2020 - Planul de acțiuni privind implementarea Strategiei  de dezvoltare
+a sistemului statistic naţional 2016-2020</p> 
   <p></p> 
-  <p>2022 - A fost elaborat Planul anual de activitate al Biroului Național de Statistică 
-  pentru anul 2022 </p>
+  <p>2022 - a fost
+elaborat Planul anual de activitate al Biroului Național de Statistică pentru anul
+2022</p> 
+  <p></p> 
+  <p>2023 - a fost aprobat prin Hotărârea Guvernului nr.503/2023
+Programul de dezvoltare a sistemului statistic național pentru perioada
+2023-2026, inclusiv a Planului de acțiuni pentru implementarea PDSSN 2023-2026.
+</p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -53,6 +59,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Național proxy
+tags: []
 x_axis_label: ''

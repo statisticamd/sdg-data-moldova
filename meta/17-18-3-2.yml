@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.18.3.2: Level of implementation and funding of the annual Action Plan for the  implementation of the National Strategy for the development of the National  Statistical System</p>
+  <p>Indicator 17.18.3.2: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 17.18: By 2020, enhance capacity-building support to developing countries, including  for least developed countries and small island developing States, to increase  significantly the availability of high-quality, timely and reliable data  disaggregated by income, gender, age, race, ethnicity, migratory status,  disability, geographic location and other characteristics relevant in national  contexts</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.18.3.2: Level of implementation and funding of the annual Action Plan for  the implementation of the National Strategy for the development of the  National Statistical System</p>
 SDG_SERIES_DESCR: ''
@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Normative framework in the area of statistics - NBS
+  Normative framework in the area of statistics - National Bureau of Statistics
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,8 +70,8 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  https://statistica.gov.md/files/files/despre/Strategii/Raport_realizare_SDSSN_2016_2020.pdf
+  https://statistica.gov.md/ro/programul-de-dezvoltare-a-sistemului-statistic-national-pentru-perioada-31_59784.html
 source_url_text_1: >-
-  Implementation od 2016-2020 NSS Strategy
+  The National Statistical System development program for the period 2023-2026
 source_contact_1: >-
 source_other_info_1: >-

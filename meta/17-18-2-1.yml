@@ -4,7 +4,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 17.18: By 2020, enhance capacity-building support to developing countries, including  for least developed countries and small island developing States, to increase  significantly the availability of high-quality, timely and reliable data  disaggregated by income, gender, age, race, ethnicity, migratory status,  disability, geographic location and other characteristics relevant in national  contexts</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNSD,PARIS21, Regional Commissions,World Bank
+  UNSD, PARIS21, Regional Commissions,World Bank
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.18.2.1: Availability of national statistical legislation that complies with  the Fundamental Principles of Official Statistics</p>
 SDG_SERIES_DESCR: ''
@@ -43,7 +43,7 @@ STAT_CONC_DEF: >-
   <p>  Principle  9. The  use  by  statistical  agencies  in  each  country  of  international   concepts,  classifications  and  methods  promotes  the  consistency  and  efficiency of statistical systems at all official levels.</p> 
   <p>  Principle 10.  Bilateral  and  multilateral  cooperation  in  statistics  contributes  to   the improvement of systems of official statistics in all countries. </p>
 UNIT_MEASURE: >-
-  Yes/no
+  Policy documents
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -56,8 +56,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.Partnership in Statistics for  Development in the 21st Century (PARIS21) </p>
+  National Bureau of Statistics
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -77,13 +76,11 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.Partnership in Statistics for  Development in the 21st Century (PARIS21) </p>
+  National Bureau of Statistics
 source_periodicity_1: >-
-  Quarter I 2018
 source_url_1: >-
   https://www.legis.md/cautare/getResults?doc_id=134938&lang=ro
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-
