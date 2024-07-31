@@ -13706,12 +13706,12 @@
             "constraints": {
               "enum": [
                 "Total births at the age of 15-19 years old",
-                "Urban, births at the age of 15-19 years old",
-                "Rural, births at the age of 15-19 years old",
+                "Urban, nașteri la 15-19 ani",
+                "Rural, nașteri la 15-19 ani",
                 ""
               ]
             },
-            "title": "Births at the age of 15-19 years old"
+            "title": "Nașteri la vârsta de 15-19 ani"
           },
           {
             "name": "Births at the age of 10-14 years old",
