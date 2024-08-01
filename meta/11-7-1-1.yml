@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.7.1.1: Proportion of green spaces and streets (conventionally public areas) out of  the built-in areas of urban localities</p>
+  <p>Indicator 11.7.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 11.7: By 2030, provide universal access to safe, inclusive and accessible, green and  public spaces, in particular for women and children, older persons and persons  with disabilities</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.7.1.1: Proportion of green spaces and streets (conventionally public areas)  out of the built-in areas of urban localities</p>
 SDG_SERIES_DESCR: ''
@@ -64,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

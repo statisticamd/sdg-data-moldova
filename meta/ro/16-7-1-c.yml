@@ -14,9 +14,9 @@ target_id: >-
   16.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01c.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.7.1.c: Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de  către persoanele din anumite grupuri ale populației (pe sexe, vârstă,  persoanele cu dizabilități și alte grupuri corespunzătoare) și proporția  grupului respectiv în total populație</p>
 SDG_SERIES_DESCR: ''
@@ -44,10 +44,11 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1) Agenția de Administrare a Instanțelor Judecătorești, Ministerul  Justiției.</p> 
-  <p>  2) Consiliul Superior al Magistraturii </p>
+  <p>2) Consiliul Superior al Magistraturii</p> 
+  <p>3) Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Justiției
+  Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -78,7 +79,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

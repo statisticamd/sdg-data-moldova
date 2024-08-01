@@ -14,9 +14,9 @@ target_id: >-
   16.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01c.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.7.1.c: Ratio between the proportion of positions held in the judiciary  system by persons of certain groups of population (by sex, age, persons with  disabilities and other corresponding groups) and the proportion of the  respective group out of total population</p>
 SDG_SERIES_DESCR: ''
@@ -44,10 +44,11 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1.Agency for Court Administration, Ministry of Justice</p> 
-  <p>  2.Superior Council  of Magistracy </p>
+  <p>2.Superior Council  of Magistracy</p> 
+  <p>3. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Justice
+  State Chancellary
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -78,7 +79,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
@@ -86,6 +87,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

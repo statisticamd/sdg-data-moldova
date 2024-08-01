@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.7.1.1: Ponderea suprafeței spațiilor verzi și străzilor (convențional spații publice)  în suprafața construită a localităților urbane</p>
+  <p>Indicator 11.7.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 11.7: Până în 2030, asigurarea accesului universal la spații verzi și publice  sigure, incluzive și accesibile, în special pentru femei și copii, persoane în  etate și cele cu dizabilități</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.7.1.1: Ponderea suprafeței spațiilor verzi și străzilor (convențional spații  publice) în suprafața construită a localităților urbane</p>
 SDG_SERIES_DESCR: ''
@@ -64,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
