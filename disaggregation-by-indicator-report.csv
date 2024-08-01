@@ -31,7 +31,6 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-2-1,"Reported on a person, by sources, Reported on a person, by ingredients, Quantity of emissions, total, Quantity of emissions, by sources, Quantity of emissions, by ingredients",5
 #12-2-1-a,Types of resources,1
 #12-2-2-a,Types of resources,1
-#12-3-1-a,"Food products, Animals",2
 #12-4-1,Conventions,1
 #12-4-2-a,Toxic waste,1
 #12-4-2-b,"Toxic waste by development regions, Toxic waste by toxicity class",2
@@ -67,7 +66,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-1-1,Availability,1
 #17-18-3-2,Level of implementation,1
 #17-19-2-b,Births/Deaths,1
-#17-3-2,Indicator,1
+#17-3-2,Indicators,1
 #17-6-1,"Area of residence, Regions, Speeds",3
 #2-1-2,Age group / Sex,1
 #2-2-3,"Age group, Regions",2

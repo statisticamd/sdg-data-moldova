@@ -10,7 +10,6 @@ Age group,35,42
 "Age groups of head of household, years",3,6
 Age group/sex,1,8
 Agricultural sector,1,3
-Animals,1,2
 Area of discrimination,1,8
 Area of residence (neglected),1,2
 Area of residence  of the respondents,1,2
@@ -58,7 +57,6 @@ Existence of disability,2,2
 Food preparation - rural,1,3
 Food preparation - total,1,3
 Food preparation - urban,1,3
-Food products,1,8
 Form of discrimination,1,8
 Form of violence,1,3
 Forms of exploitation,1,7
@@ -73,9 +71,8 @@ Home heating systems - total,1,3
 Home heating systems - urban,1,3
 Household type,2,2
 Index,1,1
-Indicator,1,1
 Indicators on the progress of sustainable forest management,1,5
-Indicators,4,17
+Indicators,5,18
 Institutions where have been made payments,2,22
 International organisations,2,6
 kg/person,1,1

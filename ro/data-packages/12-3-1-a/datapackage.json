@@ -16,36 +16,6 @@
             "title": "Anul"
           },
           {
-            "name": "Food products",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Legume și fructe, kg",
-                "Produse de cofetărie, kg",
-                "Băuturi răcoritoare, butelii",
-                "Fructe uscate, kg",
-                "Ulei vegetal, litri",
-                "Alte produse de origine nonanimală, kg",
-                "Carne, kg",
-                "Subproduse din carne, kg",
-                ""
-              ]
-            },
-            "title": "Produse alimentare"
-          },
-          {
-            "name": "Animals",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Porcine, capete",
-                "Păsări, capete",
-                ""
-              ]
-            },
-            "title": "Animale"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

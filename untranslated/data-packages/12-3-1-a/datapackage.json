@@ -15,34 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Food products",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vegetables and fruits, kg",
-                "Confectionery products, kg",
-                "Soft drinks, bottles",
-                "Dried fruits, kg",
-                "Vegetable oil, liters",
-                "Other products of non-animal origin, kg",
-                "Meat, kg",
-                "Meat by-products, kg",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Animals",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pigs, heads",
-                "Birds, heads",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

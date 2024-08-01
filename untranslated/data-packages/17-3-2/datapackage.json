@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Indicator",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
