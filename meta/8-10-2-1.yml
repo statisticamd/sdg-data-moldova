@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 8.10.2.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 8.10: 0 Strengthen the capacity of domestic financial institutions to encourage and  expand access to banking, insurance and financial services for all</p>
+  <p>Target 8.10: Strengthen the capacity of domestic financial institutions to encourage and  expand access to banking, insurance and financial services for all</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Bank (WB)
@@ -14,7 +14,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 210 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.10.2.1: Bank accounts per 100,000 population (18 years and over)</p>
 SDG_SERIES_DESCR: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   <p>  2) annual </p>
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

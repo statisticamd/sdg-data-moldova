@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-04-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.4.1: Public debt and publicly guaranteed debt service as a proportion of  exports of goods and services</p>
 SDG_SERIES_DESCR: ''
@@ -35,7 +35,7 @@ STAT_CONC_DEF: >-
   <p>The main components  of the external debt: (1) Portfolio investment - debt securities (which include debt securities issued to be placed by residents of Moldova, held by  non-residents, except for the ones held by non-resident parent enterprise / non-resident  branch and state securities issued to be placed on the internal market  of the Republic of Moldova, purchased by non-residents,  (2) Loans (IMF loans,  governmental loans, guaranteed loans, private loans), (3)  Special drawing rights (allocation of SDR), (4) Currency and deposits (deposits with the national banking system and/or other resident deposit taking financial corporations), (5) Trade credits and advances  (liabilities in the form of credits and advances extended by</p> 
   <p>suppliers or buyers in commercial transactions in goods or services), (6) Other  debt liabilities (historical debt for import of goods and services,  liabilities related to transactions in investments,  liabilities not yet extinguished in relations with non-residents), (7) Intercompany lending (liabilities of direct investment enterprises to their direct investors from abroad). </p> 
   <p>Type of debt: public debt and publicly  guaranteed debt (short-term, long- term), nonguaranteed private debt  (short-term, long-term).</p> 
-  <p> The external debt of the Republic of Moldova is  compiled according to the manual “External Debt Statistics: Guide for Compilers and Users” recommended by IMF, edition 2013, which is in line with the VI edition of the Balance of Payments and International Investment  Position Manual (MBP6). According to the EDS 2013, the arrears on external loans and debt securities service, are considered as part of the original financial instrument stock generating the debt  ([see  here] (https://bnm.md/en/search?partitions[0]=677&post_types[677][0]=922 )). </p>
+  <p> The external debt of the Republic of Moldova is  compiled according to the manual “External Debt Statistics: Guide for Compilers and Users” recommended by IMF, edition 2013, which is in line with the VI edition of the Balance of Payments and International Investment  Position Manual (MBP6). According to the EDS 2013, the arrears on external loans and debt securities service, are considered as part of the original financial instrument stock generating the debt. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -55,8 +55,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The service of public external debt and publicly guaranteed debt (payments  made according to a timetable) as a proportion of exports of goods and  services. For this indicator, exclusively only the public debt and publicly  guaranteed debt will be considered.  </p> 
-  <p>  The indicator is calculated by  [NBM](https://bnm.md/en/search?partitions[0]=677&post_types[677][0]=922). </p>
+  The service of public external debt and publicly guaranteed debt (payments  made) as a proportion of exports of goods and  services. For this indicator, exclusively only the public debt and publicly  guaranteed debt will be considered.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -77,6 +76,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://bnm.md/ro/search?partitions%5B0%5D=677&post_types%5B677%5D%5B0%5D=922
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

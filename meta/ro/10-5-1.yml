@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 10.5.1: Indicatorii de stabilitate financiară</p>
+  <p>Indicator 10.5.1: Indicatorii de soliditate financiară</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 10.5: Perfecționarea reglementării și monitorizării piețelor și instituțiilor  financiare globale și consolidarea implementării acestor reglementări</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,9 +13,9 @@ target_id: >-
   10.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-10-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 564kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.5.1: Indicatori privind stabilitatea financiară</p>
 SDG_SERIES_DESCR: ''
@@ -36,7 +36,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Raport: Informație privind activitatea economico-financiară a băncilor din RM  - BNM
+  <p> Raport: Raport prinvid indicatori de soliditate financiară</p> 
+  <p>Raport: Informație privind activitatea economico-financiară a băncilor din RM  - BNM </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -75,14 +76,16 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   Banca Națională a Moldovei
 source_periodicity_1: >-
   lunar
 source_url_1: >-
+  https://bnm.md/bdi/pages/reports/drsb/DRSB1.xhtml
 source_url_text_1: >-
-  Link la sursa de date
+  https://data.imf.org/regular.aspx?key=63174545
 source_contact_1: >-
+  Link la sursa de date
 source_other_info_1: >-

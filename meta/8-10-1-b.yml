@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.10.1.b: Number of automated teller machines (ATMs) per 100,000 population  (18 years and over)</p>
 SDG_SERIES_DESCR: ''
@@ -31,7 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The indicator reflects the number of ATMs in the entire country for all types  of financial institutions, such as: commercial banks and non-bank payment service providers. [The automated teller  machine](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml)  (internationally called – ATM) is meant for self-servicing of bankcards'  owners, allowing them to withdraw monetary means in cash from the payment  accounts, transfers of monetary means, deposit of monetary means in accounts  and information regarding the situation on accounts and operations performed  through payment cards.
+  The indicator reflects the number of ATMs in the entire country for all types  of financial institutions, such as: commercial banks and non-bank payment service providers. [The automated teller  machine](https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml  (internationally called – ATM) is meant for self-servicing of bankcards'  owners, allowing them to withdraw monetary means in cash from the payment  accounts, transfers of monetary means, deposit of monetary means in accounts  and information regarding the situation on accounts and operations performed  through payment cards.
 UNIT_MEASURE: >-
   Per 100 000 population
 CLASS_SYSTEM: ''
@@ -74,6 +74,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

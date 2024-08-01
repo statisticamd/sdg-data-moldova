@@ -18,7 +18,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 12.3.1.a: Indicele risipei alimentare</p>
 SDG_SERIES_DESCR: ''
@@ -35,7 +35,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  unități cantitative
+  indice
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -60,7 +60,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  nu este comparabil
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

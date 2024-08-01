@@ -14,9 +14,9 @@ target_id: >-
   6.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 6.3.2.b: Proportion of underground water bodies which achieved the "good  quality" class  (according to analytical chemical parameters, dissolved  metals, pesticides)</p>
 SDG_SERIES_DESCR: ''
@@ -48,7 +48,7 @@ DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> Ministry of Environment;</p> 
-  <p>Ministry ofHealth </p>
+  <p>Ministry of Health </p>
 OTHER_METHOD: >-
   Information developed for 8 bodies of water (aquifer horizons/complexes) based on data from the Reports of the project "Groundwater monitoring in the Dniester watershed district and the Danube-Prut and Black Sea watershed district
 RATIONALE: ''
@@ -74,7 +74,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Raducan Daniela, head of Geological Division, tel. 022 71 97 48, e-mail: directia.geologica@agrm.gov.md
 source_other_info_1: >-

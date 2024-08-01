@@ -18,7 +18,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 782kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 12.3.1.a: Food loss index</p>
 SDG_SERIES_DESCR: ''
@@ -35,7 +35,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  quantitative units
+  index
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -60,7 +60,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  not comparable
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -74,7 +73,7 @@ source_periodicity_1: >-
 source_url_1: >-
   https://ansa.gov.md/ro/content/transparenta-decizionala#tab-0-2
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Alexandra Mihail, head of the Strategic Planning Section, analysis, risk assessment for control planning and laboratory management, tel. 022 26 46 91, e-mail: alexandra.mihail@ansa.gov.md
 source_other_info_1: >-

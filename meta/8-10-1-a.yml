@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.10.1.a: Number of commercial bank branches and agencies per 100,000  population (18 years and over)</p>
 SDG_SERIES_DESCR: ''
@@ -38,13 +38,13 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) Statistics of bank supervision ”Information regarding the  economic-financial activity of the banks from the RM”, Statistical Report ORD  3.3A „Diverse information” - NBM</p> 
-  <p>  2) Demographic data on population - NBS </p>
+  <p>  2) Demographic data on population (Usual resident population by ages, rural/urban areas and sex, as of January 1) - NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1.National Bank of Moldova</p> 
-  <p>  2.National Bureau of Statistics </p>
+  <p>2.National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   National Bank of Moldova
@@ -70,10 +70,10 @@ source_organisation_1: >-
   National Bank of Moldova
 source_periodicity_1: >-
   <p> 1) Monthly, quarterly, annual</p> 
-  <p>  2) Annual </p>
+  <p>2) Annual </p>
 source_url_1: >-
   https://www.bnm.md/bdi/pages/reports/drsb/DRSB1.xhtml
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

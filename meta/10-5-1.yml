@@ -13,9 +13,9 @@ target_id: >-
   10.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-10-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 564kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.5.1: Financial Soundness Indicators</p>
 SDG_SERIES_DESCR: ''
@@ -36,7 +36,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Report: Information on economic-financial activity of the banks in the RM -  NBM
+  <p> Report: Financial soundness indicators</p> 
+  <p>Report: Information on economic-financial activity of the banks in the RM -  NBM </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -75,14 +76,16 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bank of Moldova
 source_periodicity_1: >-
   Monthly
 source_url_1: >-
+  https://bnm.md/bdi/pages/reports/drsb/DRSB1.xhtml
 source_url_text_1: >-
-  Link to source
+  https://data.imf.org/regular.aspx?key=63174545
 source_contact_1: >-
+  Link to data source
 source_other_info_1: >-
