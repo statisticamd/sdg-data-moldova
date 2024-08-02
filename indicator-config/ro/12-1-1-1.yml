@@ -35,62 +35,27 @@ indicator_tabs::
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
   <p> ***Indicator non-statistic***</p> 
-  <p>Numărul de politici pe
-ani:</p> 
+  <p>Numărul de politici pe ani:</p> 
   <p></p> 
-  <p>2013 (2); 2014 (3); 2015 (3); 	2016 (5); 2017 (5); 2018
-(6); 2019 (6); 2020 (6); 2021 (5); 2022 (6); 2023 (15)</p> 
+  <p>2013 (2); 2014 (3); 2015 (3); 	2016 (5); 2017 (5); 2018 (6); 2019 (6); 2020 (6); 2021 (5); 2022 (6); 2023 (15)</p> 
   <p></p> 
-  <p>Pentru
-perioada 2020-2022:</p> 
-  <p>- Strategia de Mediu pentru 2014-2023 aprobată
-prin Hotărârea Guvernului nr. 301/2014;</p> 
-  <p>- Programul de promovare a
-economiei "verzi" în Republica Moldova pentru perioada 2018-2020 aprobat prin Hotărîrea
-Guvernului nr.160/2018;</p> 
-  <p>- Strategia de gestionare a deșeurilor
-în Republica Moldova pentru anii 2013-2027 aprobată prin Hotărârea Guvernului
-nr. 248/2013;</p> 
-  <p>- Strategia de dezvoltare cu emisii reduse a Republicii
-Moldova până în anul 2030 și Planul de acțiuni pentru implementarea acesteia aprobată
-prin Hotărârea Guvernului nr. 1470/2016;</p> 
-  <p>- Strategia energetică
-a Republicii Moldova până în anul 2030 aprobată prin Hotărârea Guvernului nr. 102/2013;</p>
-
-  <p>- Strategia Națională de Dezvoltare Regională a Republicii Moldova
-pentru anii 2022 – 2028 aprobată prin Hotărârea Guvernului nr. 40/2022;</p>
-
-  <p>-Programul național pentru implementarea Protocolului privind Apa și Sănătatea
-în - Republica Moldova pentru anii 2016-2025 aprobat prin Hotărârea Guvernului
-nr. 1063/2016.                                                            
-                                                                               
-       Pentru perioada 2023:                                                   
-                                                                       *Inclusiv
-cele de la perioada de mai sus însă fără de cele colorate în roșu (cele în roșu
-au fost deja expirate)</p> 
-  <p>- Strategia națională de sănătate „Sănătatea 2030”,
-aprobată prin Hotărârea Guvernului nr. 387/2023;</p> 
-  <p>- Strategia Națională
-de Dezvoltare Agricolă și Rurală pentru anii 2023 – 2030 aprobată prin Hotărârea
-Guvernului nr. 56/2023;</p> 
-  <p>- Strategia de dezvoltare „Educația -
-2030” aprobată prin Hotărârea Guvernului nr. 114/2023;</p> 
-  <p>- Programul de
-dezvoltare cu emisii reduse 2030 aprobat prin Hotărârea Guvernului nr. 659/2023;</p>
-
-  <p>- Programul național de adaptare la schimbările climatice până în anul
-2030 aprobat prin Hotărârea Guvernului nr. 624/2023;</p> 
-  <p>- Programul național
-de extindere și reabilitare a pădurilor pentru perioada 2023-2032 aprobat
-prin Hotărârea Guvernului nr. 55/2023;</p> 
-  <p>- Programul pentru gestionarea
-deșeurilor pentru anii 2023-2027 aprobat prin Hotărârea Guvernului nr. 972/2023;</p>
-
-  <p>- Programului de Management durabil al Substanțelor chimice pentru anii
-2023-2030,  aprobat prin Hotărârea Guvernului nr. 816/2023;</p> 
-  <p>- Programul
-Național pentru Promovarea Antreprenoriatului și Creșterea Competitivității
-pentru perioada 2023-2027 aprobat prin Hotărârea Guvernului nr. 653/2023. </p>
+  <p>Pentru perioada 2020-2022:</p> 
+  <p>- Strategia de Mediu pentru 2014-2023 aprobată prin Hotărârea Guvernului nr. 301/2014;</p> 
+  <p>- Programul de promovare a economiei "verzi" în Republica Moldova pentru perioada 2018-2020 aprobat prin Hotărîrea Guvernului nr.160/2018;</p> 
+  <p>- Strategia de gestionare a deșeurilor în Republica Moldova pentru anii 2013-2027 aprobată prin Hotărârea Guvernului nr. 248/2013;</p> 
+  <p>- Strategia de dezvoltare cu emisii reduse a Republicii Moldova până în anul 2030 și Planul de acțiuni pentru implementarea acesteia aprobată prin Hotărârea Guvernului nr. 1470/2016;</p> 
+  <p>- Strategia energetică a Republicii Moldova până în anul 2030 aprobată prin Hotărârea Guvernului nr. 102/2013;</p> 
+  <p>- Strategia Națională de Dezvoltare Regională a Republicii Moldova pentru anii 2022 – 2028 aprobată prin Hotărârea Guvernului nr. 40/2022;</p> 
+  <p>-Programul național pentru implementarea Protocolului privind Apa și Sănătatea în - Republica Moldova pentru anii 2016-2025 aprobat prin Hotărârea Guvernului nr. 1063/2016.                                                                                                                                                    Pentru perioada 2023:                                                                                                                           *Inclusiv cele de la perioada de mai sus însă fără de cele colorate în roșu (cele în roșu au fost deja expirate)</p> 
+  <p>- Strategia națională de sănătate „Sănătatea 2030”, aprobată prin Hotărârea Guvernului nr. 387/2023;</p> 
+  <p>- Strategia Națională de Dezvoltare Agricolă și Rurală pentru anii 2023 – 2030 aprobată prin Hotărârea Guvernului nr. 56/2023;</p> 
+  <p>- Strategia de dezvoltare „Educația - 2030” aprobată prin Hotărârea Guvernului nr. 114/2023;</p> 
+  <p>- Programul de dezvoltare cu emisii reduse 2030 aprobat prin Hotărârea Guvernului nr. 659/2023;</p> 
+  <p>- Programul național de adaptare la schimbările climatice până în anul 2030 aprobat prin Hotărârea Guvernului nr. 624/2023;</p> 
+  <p>- Programul național de extindere și reabilitare a pădurilor pentru perioada 2023-2032 aprobat prin Hotărârea Guvernului nr. 55/2023;</p> 
+  <p>- Programul pentru gestionarea deșeurilor pentru anii 2023-2027 aprobat prin Hotărârea Guvernului nr. 972/2023;</p> 
+  <p>- Programului de Management durabil al Substanțelor chimice pentru anii 2023-2030,  aprobat prin Hotărârea Guvernului nr. 816/2023;</p> 
+  <p>- Programul Național pentru Promovarea Antreprenoriatului și Creșterea Competitivității pentru perioada 2023-2027 aprobat prin Hotărârea Guvernului nr. 653/2023. </p>
 permalink: ''
 placeholder: ''
 precision: []
