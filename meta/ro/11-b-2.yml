@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 11.b.2: Proporția autorităților publice locale care adoptă și implementează strategii  locale de reducere a riscurilor de dezastre în conformitate cu strategiile  naționale de reducere a riscurilor de dezastre</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2020, sporirea substanțială a numărului de orașe și așezăminte umane  care adoptă și implementează politici și planuri integrate axate pe  incluziune, eficiența resurselor, atenuarea și adaptarea la schimbările  climatice, rezistența față de dezastre, precum și elaborarea și implementarea  în conformitate cu Cadrul de la Sendai pentru Reducerea Riscurilor Dezastrelor  2015-2030 a unui management holist al dezastrelor la toate nivelele</p>
+  <p>Target 11.b: Până în 2020, sporirea substanțială a numărului de orașe și așezăminte umane  care adoptă și implementează politici și planuri integrate axate pe  incluziune, eficiența resurselor, atenuarea și adaptarea la schimbările  climatice, rezistența față de dezastre, precum și elaborarea și implementarea  în conformitate cu Cadrul de la Sendai pentru Reducerea Riscurilor Dezastrelor  2015-2030 a unui management holist al dezastrelor la toate nivelele</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNDRR
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  11.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf

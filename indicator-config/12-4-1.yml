@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 12.4.1 Level of adherence to reporting duties related to international  agreements/commitments signed by the RM regarding hazardous chemical  substances and waste  (number of reports submitted to the convention address  versus number of reports required)
+graph_title: national_indicators.12-4-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Level of adherence to reporting duties related to international  agreements/commitments signed by the Republic of Moldova regarding hazardous chemical  substances and waste  (number of reports submitted to the convention address  versus number of reports required)
+indicator_available: national_indicators.12-4-1-title
 indicator_name: global_indicators.12-4-1-title
 indicator_number: 12.4.1
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global adjusted
+tags: []
 x_axis_label: ''

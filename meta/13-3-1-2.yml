@@ -13,7 +13,7 @@ target_id: >-
   13.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-13.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-13-03-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 759kB)
 SDG_INDICATOR: >-
@@ -48,11 +48,11 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment
 OTHER_METHOD: >-
+  At the end of the year 2023, the National Program for Adaptation to Climate Change until the year 2030 and the Action Plan for its implementation (Government Decision no. 624/2023) were approved, as well as the Low Emission Development Program of the Republic of Moldova until the year 2030 (no. 659/202), which are to be implemented.
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The level of implementation of the national strategic framework on climate  change will be calculated as ratio between the number of implemented actions  and the total number of actions planned in the existing strategic framework.  </p> 
-  <p>  Currently 2 strategies are carried out: Strategy on climate change  adaptation in  2020, Strategy on low-emission development by 2030. </p>
+  The level of implementation of the national strategic framework on climate  change will be calculated as ratio between the number of implemented actions  and the total number of actions planned in the existing strategic framework.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -74,7 +74,7 @@ source_periodicity_1: >-
   Once every 2 and 4 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  Stela Drucioc, Head of Climate and Air Policy Division, Ministry of Environment, tel. 022 204 580, e-mail: stela.drucioc@mediu.gov.md.
+  Marina Lungu - Senior Consultant, Climate Change Policy Section, Ministry of Environment, tel. 022-204-581, email: marina.lungu@mediu.gov.md;                  Andrei Cucoș - Head of the Air Quality Protection Policy Department, Ministry of Environment, tel: 022-204-580, e-mail: andrei.cucos@mediu.gov.md.
 source_other_info_1: >-

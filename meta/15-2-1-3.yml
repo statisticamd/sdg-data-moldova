@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 15.2.1.3: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 15.2: By 2020, promote the implementation of sustainable management of all types of  forests, halt deforestation, restore degraded forests and substantially  increase afforestation and reforestation globally</p>
+  <p>Target 15.2: By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substanțially increase afforestation and reforestation globally</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Food and Agriculture Organisation of the United Nations (FAO)
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF)
+  United Nations Sustainable Development Goals Metadata (PDF 756 KB)
 SDG_INDICATOR: >-
   <p>Indicator 15.2.1.3: Area of extended forest</p>
 SDG_SERIES_DESCR: ''
@@ -38,7 +38,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  administrative data Moldsilva
+  Agency „Moldsilva” surveys
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -51,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Area of extended forest at the end of reporting year, ha
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -72,7 +71,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to data source
+  Link to source
 source_contact_1: >-
-  Serghei Tonofrei 022-274-224/060395349/serghei.tonofrei@moldsilva.gov.md
+  Serghei Tonofrei, Deputy head of Forest fund, protected areas and forest regeneration Division, tel. 022-274-224, 060395349, e-mail: serghei.tonofrei@moldsilva.gov.md
 source_other_info_1: >-

@@ -36,9 +36,9 @@ national_geographical_coverage: Republic of Moldova, without the left side of th
 page_content: >-
   <p> ***Non-statistical indicator***</p> 
   <p>For 2018-2022 - „YES”</p> 
-  <p>Strategy on Biological  Diversity of the Republic of Moldova and the Action Plan for implementing it  (GD no. 274/2015);</p> 
-  <p>Law on Vegetal Kingdom No. 239/2007;</p> 
-  <p>Law on  Animal Kingdom No. 439/1995. </p>
+  <p>The Strategy for Biodiversity of the Republic of Moldova and the Action Plan for its Implementation, approved by Government Decision no. 274/2015.;</p> 
+  <p>Law on Plant Kingdom No. 239/2007;</p> 
+  <p>Law on  Animal Kingdom No. 439/1995.                                                                                                        Additionally, the National Action Plan for the Republic of Moldova's accession to the European Union for the years 2024-2027 (NAP), approved by Government Decision no. 829/2023, foresees the approval of the Draft Law on Invasive Alien Species by December 2025. </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -49,6 +49,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

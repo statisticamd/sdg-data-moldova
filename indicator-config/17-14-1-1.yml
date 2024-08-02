@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Yes/no
+computation_units: Policy documents
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -32,10 +32,12 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: >-
-  <p> ***Non-statistical indicator***</p> 
-  <p>"YES" for 2017-2018, 2019-2022 </p>
+  <p> The national mechanisms that ensure the coordination and monitoring the  process of enhancing the coherence of sustainable development policies are the  following: </p> 
+  <p>- National Coordination Council for Sustainable Development (GD.  912/2016);</p> 
+  <p>- Coordinating Councils for SDG in sector policies;  </p> 
+  <p>- the National framework for monitoring the implementation of the 2030 Sustainable Development Agenda approved (HG 953/2022). </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -46,6 +48,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

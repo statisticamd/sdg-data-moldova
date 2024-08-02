@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-16-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.16.1.1: Raportarea progreselor asupra aplicării cadrului de monitorizare a  eficienței dezvoltării cu participarea mai multor parteneri, care acordă  suport în atingerea de către țară a Obiectivelor de Dezvoltare Durabilă</p>
 SDG_SERIES_DESCR: ''
@@ -41,7 +41,7 @@ STAT_CONC_DEF: >-
   <p>  6. Consolidarea egalității de gen și abilitării  femeilor: Existența sistemelor guvernamentale transparente pentru urmărirea  alocărilor publice pentru egalitatea de gen și abilitarea femeilor</p> 
   <p>  7.  Consolidarea instituțiilor interne: calitatea gestionării bugetare și  financiare a țării. </p>
 UNIT_MEASURE: >-
-  da/nu
+  Documente de politici
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -52,11 +52,11 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Ministerul Finanțelor</p> 
+  <p> 1) Cancelaria de Stat</p> 
   <p>  2) Partenerii de dezvoltare </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Finanțelor</p> 
+  <p> Cancelaria de Stat</p> 
   <p>  Organizația pentru Cooperare și Dezvoltare  Economică (OECD)</p> 
   <p>  Programul Națiunilor Unite pentru Dezvoltare (PNUD) </p>
 OTHER_METHOD: >-

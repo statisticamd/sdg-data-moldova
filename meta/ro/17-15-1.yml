@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 17.15.1: Nivelul de utilizare al cadrelor de rezultate și instrumentelor de planificare  ale țării de către furnizorii de cooperare pentru dezvoltare</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 17.15: Respectarea spațiului de politici și a autorității fiecărei țări în a stabili  și implementa politici de eradicare a sărăciei și dezvoltare durabilă</p>
+  <p>Target NA: Respectarea spațiului de politici și a autorității fiecărei țări în a stabili  și implementa politici de eradicare a sărăciei și dezvoltare durabilă</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   OECD, UNDP
@@ -10,12 +10,11 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  17.15
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-15-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.15.1: Nivelul de utilizare a cadrelor de rezultate și instrumentelor de  planificare naționale de către furnizorii de cooperare pentru dezvoltare</p>
 SDG_SERIES_DESCR: ''
@@ -47,7 +46,7 @@ DATA_SOURCE: >-
   <p>  2) Ministerul Afacerilor Externe și Integrării  Europene </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Finanțelor</p> 
+  <p> Cnacelaria de Stat</p> 
   <p>  Organizația pentru Cooperare și Dezvoltare  Economică (OECD)</p> 
   <p>  Programul Națiunilor Unite pentru Dezvoltare (PNUD) </p>
 OTHER_METHOD: >-
@@ -77,9 +76,9 @@ source_active_1: true
 source_organisation_1: >-
   Organizația pentru Cooperare și Dezvoltare Economică (OECD), Programul  Națiunilor Unite pentru Dezvoltare (PNUD)
 source_periodicity_1: >-
-  o dată la 2 ani
+  O dată la 2 ani
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 15.9.1.1. Level of implementation of actions under the Environment Strategic Plan for 2014-2023
+graph_title: national_indicators.15-9-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Level of implementation of actions under the Environment Strategic Plan for 2014-2023
+indicator_available: national_indicators.15-9-1-1-title
 indicator_name: national_indicators.15-9-1-1-title
 indicator_number: 15.9.1.1
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

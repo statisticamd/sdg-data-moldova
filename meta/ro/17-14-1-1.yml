@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.14.1.1: NA</p>
+  <p>Indicator 17.14.1.1: Existența mecanismelor pentru a consolidarea coerenței politicilor de  dezvoltare durabilă</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 17.14: Sporirea coerenței politicilor pentru dezvoltare durabilă</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,9 +13,9 @@ target_id: >-
   17.14
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-14-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.14.1.1: Existența mecanismelor pentru a consolidarea coerenței politicilor  de dezvoltare durabilă</p>
 SDG_SERIES_DESCR: ''
@@ -31,9 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  În calitate de mecanisme naționale care asigură coordonarea și monitorizarea  procesului de consolidare a coerenței politicilor de dezvoltare durabilă sunt  considerate: Consiliul Național  de Coordonare pentru Dezvoltare Durabilă (HG.  912/2016); Consiliile Coordonatoare pentru ODD-uri  în politicile sectoriale;  BNS în calitate de instituție care coordonează la nivel național a procesului  de actualizare și monitorizare a lizatei de indicatori ODD; Existența cadrului naţional de monitorizare a implementării Agendei de Dezvoltare Durabilă 2030 aprobat (HG 953/2022);
 UNIT_MEASURE: >-
-  da/nu
+  Documente de politici
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -65,12 +64,12 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Cancelaria de stat
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

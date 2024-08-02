@@ -33,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   The indicator measures the extent to which the National Strategy on Disaster  Risk Reduction is aligned to the Senda Framework for Disaster Risk Reduction.  This option suggest using the minimum criteria defined as elements of the  so-called DRR Progress Index. It measures the level to which the DRR National  Strategy meets the four elements defined in para. 27 (b) of the Sendai  Framework, which are: ​​a) setting the timeframe, targets and indicators, b)  sets the objectives and the measures for preventing the occurrence of disaster  risks (c) sets objectives and measures related to reducing the existing risks  and (d) sets the objectives and the measures for enhancing economic, social,  health, and environment resilience. Every element is attributed 0.25 (25%). If  a country has a DRR strategy which meets the four elements, it is assessed  with 1.
 UNIT_MEASURE: >-
-  Index
+  Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -72,7 +72,7 @@ source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Mihail Grigoraș, Deputy Director, State Hidrometeorological Service, tel. 022-77-35-00, e-mail. mihail.grigoras@meteo.gov.md
 source_other_info_1: >-

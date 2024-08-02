@@ -13,7 +13,7 @@ target_id: >-
   6.6
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 428kB)
 SDG_INDICATOR: >-
@@ -83,8 +83,8 @@ source_periodicity_1: >-
   <p>2. once every 5 years for  sub-indicators 3; 4 and 5 </p>
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  <p> 1. Igor Lungu, Deputy Director, Agency of Geology and Mineral Resources, tel. 022-750-656, e-mail: director.adjunct@agrm.gov.md</p> 
-  <p>2. Gavril Gîlcă, Director, Environment Agency, tel. 022-820-770, e-mail: g_gilca@am.gov.md </p>
+  <p> Igor Lungu, Deputy Director, Agency of Geology and Mineral Resources, tel. 022-750-656, e-mail: director.adjunct@agrm.gov.md</p> 
+  <p>Vasile Parașciuc - Interim Chief of the General Directorate of the Environmental Reference Laboratory, tel. 022-820-896, email: v_parasciuc@am.gov.md. </p>
 source_other_info_1: >-

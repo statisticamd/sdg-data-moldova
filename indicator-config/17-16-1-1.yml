@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Yes/no
+computation_units: Policy documents
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -32,19 +32,18 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: >-
-  <p> ***Non-statistical indicator***</p> 
-  <p>The number of indicators in the nationalized SDG framework that show positive trends is greater than the number of indicators that show negative dynamics: The progress evaluation report on the implementation of the SDGs for 2022 will be available in June 2023.</p> 
+  <p> The number of indicators in the nationalized SDG framework that show positive trends is greater than the number of indicators that show negative dynamics.</p> 
   <p></p> 
-  <p>The situation in 2022:</p> 
+  <p>The 2022 situation:</p> 
   <p>1. Lead to the setting of national priorities: the country strengthens its national results framework. (YES)</p> 
-  <p>2. Creating an enabling environment for civil society organizations: Civil society organizations operate in an environment that maximizes their involvement and contribution to development. (YES)</p> 
-  <p>3. Promoting the involvement of the private sector and contributing to development: Quality of public-private dialogue (YES)</p> 
-  <p>4. Registration of development cooperation in the National Public Budget subject to parliamentary supervision: The share of development cooperation funds planned for the country's public sector that have been registered in the annual BPN subject to legislative approval. (There is no exact data, but development cooperation funds are registered in the NPB)</p> 
-  <p>5. Strengthening mutual accountability: Mutual accountability among development actors is strengthened through inclusive reviews. (YES)</p> 
-  <p>6. Strengthening gender equality and women's empowerment: Existence of transparent government systems for tracking public allocations for gender equality and women's empowerment (Partially - in 2022 in the Public Finance Management Strategy the respective priority is provided)</p> 
-  <p>7. Strengthening internal institutions: the quality of the country's budgetary and financial management (YES). </p>
+  <p> 2. Creating an enabling environment for civil society organizations: Civil society organizations operate in an environment that maximizes their involvement and contribution to development. (YES)</p> 
+  <p> 3. Promoting the involvement of the private sector and contributing to development: Quality of public-private dialogue (YES)</p> 
+  <p> 4. Registration of development cooperation in the National Public Budget (NPB)subject to parliamentary supervision: The share of development cooperation funds planned for the country's public sector that have been registered in the annual NPB subject to legislative approval. (There are no exact data, but development cooperation funds are registered in BPN)</p> 
+  <p> 5. Strengthening mutual accountability: Mutual accountability among development actors is strengthened through inclusive reviews. (YES)</p> 
+  <p> 6. Strengthening gender equality and women's empowerment: Existence of transparent government systems for tracking public allocations for gender equality and women's empowerment (Partially - in 2022 in the Public Finance Management Strategy, the respective priority is provided)</p> 
+  <p> 7. Strengthening internal institutions: the quality of the country's budgetary and financial management (DA). </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -55,6 +54,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

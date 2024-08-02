@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.14.1.1: NA</p>
+  <p>Indicator 17.14.1.1: Mechanisms in place to enhance policy coherence of sustainable development</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 17.14: Enhance policy coherence for sustainable development</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,9 +13,9 @@ target_id: >-
   17.14
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-14-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.14.1.1: Mechanisms in place to enhance policy coherence of sustainable  development</p>
 SDG_SERIES_DESCR: ''
@@ -31,9 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The national mechanisms that ensure the coordination and monitoring the  process of enhancing the coherence of sustainable development policies are the  following: National Coordination Council for Sustainable Development (GD.  912/2016); Coordinating Councils for SDG in sector policies; NBS as the  institution that coordinates at the national level the process of updating and  monitoring the SDG indicators' fulfilment.
 UNIT_MEASURE: >-
-  Yes/no
+  Policy documents
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -65,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   State Chancellery
@@ -73,6 +72,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

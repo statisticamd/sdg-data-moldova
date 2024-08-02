@@ -13,7 +13,7 @@ target_id: >-
   15.9
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-09-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 456kB)
 SDG_INDICATOR: >-
@@ -68,7 +68,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   Ministry of  Environment
@@ -77,7 +77,7 @@ source_periodicity_1: >-
 source_url_1: >-
   http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=352741
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  Veronica Josu, principal adviser, Biodiversity Policy Division, Ministry of Environment, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+  Raisa Leon - Head of the Department for Coordinating Public Policies and European Integration, tel: 022-204-567, e-mail: raisa.leon@mediu.gov.md.
 source_other_info_1: >-

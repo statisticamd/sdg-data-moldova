@@ -13,7 +13,7 @@ target_id: >-
   13.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-03.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-02.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -75,5 +75,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-source_other_info_1: >-
   Mihail Grigoraș, Director adjunct, Serviciul Hidrometeorologic de Stat, tel. 022-77-35-00, e-mail. mihail.grigoras@meteo.gov.md
+source_other_info_1: >-

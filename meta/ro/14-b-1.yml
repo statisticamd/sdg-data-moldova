@@ -13,7 +13,7 @@ target_id: >-
   14.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-14.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-14-0b-01.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -76,5 +76,4 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Angela Konovalenko, șef Direcția Politici în Domeniul Biodiversității, Ministerul Mediului, tel. 022-204-573, e-mail: angela.konovalenko@mediu.gov.md
 source_other_info_1: >-

@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.7.1.b: Raportul dintre proporția pozițiilor ocupate în autoritățile publice  (centrale și locale) de către persoanele din anumite grupuri ale populației și  proporția grupului respectiv în total populație</p>
 SDG_SERIES_DESCR: ''
@@ -33,7 +33,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Proporție
+  Raport
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -52,6 +52,11 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  <p> Indicatorul urmărește să compare proporția diferitelor grupuri demografice (pe sex, vârstă, dizabilități și grupuri de populație) reprezentate în serviciul public, cu proporția acestor aceleași grupuri în populația țării.</p> 
+  <p></p> 
+  <p>Ratele rezultate pot fi interpretate astfel: </p> 
+  <p>0, când nu există deloc reprezentare în subcategoria respectivă a serviciului public </p> 
+  <p>1, când reprezentarea în subcategoria respectivă este mai mare în serviciul public decât în populație în vârstă de muncă </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

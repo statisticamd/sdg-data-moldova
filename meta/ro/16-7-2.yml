@@ -13,9 +13,9 @@ target_id: >-
   16.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/tierIII-indicators/files/Tier3-16-07-02.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Tier 3 Work Plan (PDF 77.8 KB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.7.2: Ponderea populației care consideră că procesul de luare a deciziilor  este incluziv și participativ</p>
 SDG_SERIES_DESCR: ''
@@ -69,12 +69,12 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Cancelaria de stat
 source_periodicity_1: >-
-  o dată la 2 ani
+  O dată la 2 ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

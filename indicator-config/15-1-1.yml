@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 15.1.1 Forest area as a proportion of total land area
+graph_title: national_indicators.15-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Forest area as a percent of total land area
+indicator_available: national_indicators.15-1-1-title
 indicator_name: global_indicators.15-1-1-title
 indicator_number: 15.1.1
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
+tags: []
 x_axis_label: ''

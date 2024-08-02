@@ -13,7 +13,7 @@ target_id: >-
   13.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-13.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-13-03-01.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -48,11 +48,11 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Mediului
 OTHER_METHOD: >-
+  La sfârșitul anului 2023, a fost aprobat  Programul național de adaptare la schimbările climatice până în anul 2030 și Planul de acțiuni pentru implementarea acestuia (HG nr. 624/2023) și Programul de dezvoltare cu emisii reduse al Republicii Moldova până în anul 2030 (nr.659/202), care urmează să fie implememntate.
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Gradul de implementare a cadrului strategic național privind schimbările  climatice se va calcula ca raportul dintre numărul de acțiuni implementate și  numărul total de acțiuni planificate în cadrul strategic existent. </p> 
-  <p>  La  moment sunt în derulare 2 strategii: Strategia de adaptare la  schimbările  climatice până în 2020, Strategia de dezvoltare cu emisii reduse până în 2030. </p>
+  Gradul de implementare a cadrului strategic național privind schimbările  climatice se va calcula ca raportul dintre numărul de acțiuni implementate și  numărul total de acțiuni planificate în cadrul strategic existent.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -76,5 +76,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Stela Drucioc, sef Direcția politici de aer și schimbări climatice, Ministerul Mediului, tel. 022 204 580, e-mail: stela.drucioc@mediu.gov.md.
+  Marina Lungu - Consultant principal, Secția politici în domeniul schimbării climei, Ministerul Mediului, tel. 022-204-581, e-mail: marina.lungu@mediu.gov.md; Andrei Cucoș - Șef al Direcției politici în domeniul protecției aerului atmosferic, Ministerul Mediului, tel: 022-204-580, e-mail: andrei.cucos@mediu.gov.md.
 source_other_info_1: >-

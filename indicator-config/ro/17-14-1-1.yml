@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: da/nu
+computation_units: Documente de politici
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -32,10 +32,12 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republica Moldova
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
-  <p> ***Indicator non-statistic***</p> 
-  <p>"DA" pentru anii 2017-2018, 2019-2022 </p>
+  <p> În calitate de mecanisme naționale care asigură coordonarea și monitorizarea  procesului de consolidare a coerenței politicilor de dezvoltare durabilă sunt  considerate: </p> 
+  <p>- Consiliul Național  de Coordonare pentru Dezvoltare Durabilă (HG.  912/2016);</p> 
+  <p>- Consiliile Coordonatoare pentru ODD-uri  în politicile sectoriale;  </p> 
+  <p>-Cadrul naţional de monitorizare a implementării Agendei de Dezvoltare Durabilă 2030 aprobat (HG 953/2022). </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -46,6 +48,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Național proxy
+tags: []
 x_axis_label: ''

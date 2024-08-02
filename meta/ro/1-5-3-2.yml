@@ -33,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Indicatorul vizează măsurarea gradului în care strategia naționala de reducere  a riscurilor de dezastre se aliniază la Cadrul de la Sendai pentru reducerea  riscului de dezastre. Această opțiune propune utilizarea criteriilor minime  definite ca elemente ale asa-numitului Indice de progres privind RRD. Acesta  măsoară gradul în care strategia națională de RRD satisface cele patru  elemente definite în paragraful 27 (b) din Cadrul de la Sendai, care sunt:  ​​a) stabilește cadru de tim, ținte și indicatori, b) stabilește obiective și  măsuri de prevenirea a creării riscurilor de dezastre (c) stabilește obiective  și măsurile care vizează reducerea riscurilor existente și (d) stabilirea  obiectivelor și măsuri de consolidare a rezistenței economice, sociale, de  sănătate și de mediu. Fiecărui element i se atribuie 0,25 (25%). Dacă o țară  are o strategie RRD care satisface cele patru elemente, ea este evaluată cu 1.  Dacă o țară raportează lipsa strategiei de reducere a riscurilor de dezastre,  ea este evaluată ca fiind 0.
 UNIT_MEASURE: >-
-  Indice
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

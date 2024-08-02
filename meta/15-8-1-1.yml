@@ -13,7 +13,7 @@ target_id: >-
   15.8
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-08-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 456kB)
 SDG_INDICATOR: >-
@@ -89,9 +89,9 @@ source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  Veronica Josu, principal adviser, Biodiversity Policy Division, Ministry of Environment, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
+  Veronica Josu, Senior Consultant, Nature Conservation and Biosafety Policy Division, Ministry of Environment, tel. 022-204-574, email: veronica.josu@mediu.gov.md
 source_other_info_1: >-
   <p> https://www.informea.org/en/countries/MD/legislation</p> 
   <p>https://www.ecolex.org/result/?q=&type=legislation&xcountry=Moldova%2C+Republic+of&xdate_min=&xdate_max=</p> 

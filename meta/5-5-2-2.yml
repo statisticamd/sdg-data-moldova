@@ -13,6 +13,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.5.2.2: Share of women in public service</p>
 SDG_SERIES_DESCR: ''
@@ -72,7 +73,8 @@ source_periodicity_1: >-
 source_url_1: >-
   https://cancelaria.gov.md/ro/advanced-page-type/rapoarte-0
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  State Chancellery, Public service management department, Aurelia Druta, principal consultant, tel.: 022 25 02 98, e-mail: aurelia.druta@gov.md
+  <p> State Chancellery, Public service management department,Irina Ghirghilijiu, principal consultant, tel.: 022 250-298</p> 
+  <p>e-mail: irina.ghirghilijiu@gov.md </p>
 source_other_info_1: >-

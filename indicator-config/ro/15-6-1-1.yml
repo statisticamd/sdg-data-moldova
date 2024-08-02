@@ -35,7 +35,8 @@ indicator_tabs::
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
   <p> ***Indicator non-statistic***</p> 
-  <p>Pentru 2016-2018 - Da </p>
+  <p>Pentru 2016-2018 - Da. </p> 
+  <p>De asemenea, Planul național de acțiuni pentru aderarea Republicii Moldova la Uniunea Europeană pe anii 2024-2027 (PNA) , aprobat prin Hotărârea Guvernului nr. 829/2023, prevede aprobarea Proiectului de lege privind accesul la resursele genetice și împărțirea corectă și echitabilă a beneficiilor care rezultă din utilizarea acestora în luna iunie 2025. </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -46,6 +47,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Național proxy
+tags: []
 x_axis_label: ''

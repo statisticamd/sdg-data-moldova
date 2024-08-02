@@ -34,8 +34,11 @@ indicator_tabs::
   tab_4: ''
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
-  ***Indicator non-statistic***
-  Pentru anul 2022 - Da'
+  <p> ***Indicator non-statistic***</p> 
+  <p>Pentru anul 2022 - Da</p>
+
+  <p>Pentru anul  2023 -Da . A fost inițiată dezvoltarea unui Program Național
+de Reducere a Riscului de Dezastre. </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -46,6 +49,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Național proxy
+tags: []
 x_axis_label: ''

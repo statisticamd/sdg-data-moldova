@@ -10,12 +10,11 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  17.15
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-15-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.15.1: Extent of use of country-owned results frameworks and planning tools  by providers of development cooperation</p>
 SDG_SERIES_DESCR: ''
@@ -47,7 +46,7 @@ DATA_SOURCE: >-
   <p>  2.Ministry of Foreign Affairs and European  Integration </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Ministry of Finance</p> 
+  <p> 1.State Chancellary </p> 
   <p>  2.Organisation for Economic Co-operation and  Development (OECD)</p> 
   <p>  3.United Nations Development Programme (UNDP) </p>
 OTHER_METHOD: >-
@@ -81,6 +80,6 @@ source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

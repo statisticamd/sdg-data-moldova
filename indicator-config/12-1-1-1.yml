@@ -32,13 +32,64 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova, without the left side of the 
-  river Nistru and the municipality of Bender
+national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: >-
   <p> ***Non-statistical indicator***</p> 
-  <p>For 2018-2020 - Program for Promoting Green Economy  2018-2020 and the Action 
-  Plan for implementing the Program for Promoting Green  Economy in the Republic 
-  of Moldova for 2018-2020. </p>
+  <p>Number of policies
+by year:</p> 
+  <p></p> 
+  <p>2013 (2); 2014 (3); 2015 (3); 	2016 (5); 2017 (5);
+2018 (6); 2019 (6); 2020 (6); 2021 (5); 2022 (6); 2023 (15)</p> 
+  <p></p> 
+  <p>For
+the period 2020-2022:</p> 
+  <p>-The Environmental Strategy for 2014-2023
+approved by Government Decision no. 301/2014;</p> 
+  <p>-The Green Economy Promotion
+Program in the Republic of Moldova for the period 2018-2020 approved by Government
+Decision no. 160/2018;</p> 
+  <p>-The Waste Management Strategy in the Republic
+of Moldova for the years 2013-2027 approved by Government Decision no. 248/2013;</p>
+
+  <p>-The Low Emission Development Strategy of the Republic of Moldova
+until 2030 and the Action Plan for its implementation approved by Government
+Decision no. 1470/2016;</p> 
+  <p>-The Energy Strategy of the Republic of Moldova
+until 2030 approved by Government Decision no. 102/2013;</p> 
+  <p>-The National
+Strategy for Regional Development of the Republic of Moldova for the years
+2022 - 2028 approved by Government Decision no. 40/2022;</p> 
+  <p>-The National
+Program for the Implementation of the Protocol on Water and Health in the Republic
+of Moldova for the years 2016-2025 approved by Government Decision no. 1063/2016.</p>
+
+  <p>For the period 2023:</p> 
+  <p>*Including those from the aforementioned
+period but excluding those highlighted in red (the ones highlighted in red
+have already expired)</p> 
+  <p>-The National Health Strategy "Health 2030" approved
+by Government Decision no. 387/2023;</p> 
+  <p>-The National Strategy for
+Agricultural and Rural Development for the years 2023 - 2030 approved by Government
+Decision no. 56/2023;</p> 
+  <p>-The "Education - 2030" Development Strategy
+approved by Government Decision no. 114/2023;</p> 
+  <p>-The Low Emission Development
+Program 2030 approved by Government Decision no. 659/2023;</p> 
+  <p>-The
+National Program for Adaptation to Climate Change until 2030 approved by Government
+Decision no. 624/2023;</p> 
+  <p>-The National Program for the Expansion
+and Rehabilitation of Forests for the period 2023-2032 approved by Government Decision
+no. 55/2023;</p> 
+  <p>-The Waste Management Program for the years 2023-2027
+approved by Government Decision no. 972/2023;</p> 
+  <p>-The National Program
+for Sustainable Chemical Substances Management for the years 2023-2030 approved
+by Government Decision no. 816/2023;</p> 
+  <p>-The National Program for Entrepreneurship
+Promotion and Competitiveness Enhancement for the period 2023-2027 approved
+by Government Decision no. 653/2023. </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -49,6 +100,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''
