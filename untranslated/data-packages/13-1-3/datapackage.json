@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Level of local government authorities ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "First level of local government authorities",
+                "Second level of local government authorities",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

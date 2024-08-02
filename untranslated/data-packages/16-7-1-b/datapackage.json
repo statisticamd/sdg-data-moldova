@@ -26,41 +26,11 @@
             }
           },
           {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Up to 45 years (18-44)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Other groups",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
+                "Disability",
                 ""
               ]
             }

@@ -34,7 +34,8 @@
             "constraints": {
               "enum": [
                 "Senior management",
-                "Management, executive",
+                "Management",
+                "Executive",
                 ""
               ]
             },

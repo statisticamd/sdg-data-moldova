@@ -15,21 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "first-level local government authorities ",
+            "name": "Level of local government authorities ",
             "type": "string",
             "constraints": {
               "enum": [
-                "first-level local government authorities ",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "second tier local government authorities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "second tier local government authorities",
+                "First level of local government authorities",
+                "Second level of local government authorities",
                 ""
               ]
             }

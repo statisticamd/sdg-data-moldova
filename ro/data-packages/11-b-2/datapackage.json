@@ -16,26 +16,16 @@
             "title": "Anul"
           },
           {
-            "name": "first-level local government authorities ",
+            "name": "Level of local government authorities ",
             "type": "string",
             "constraints": {
               "enum": [
-                "first-level local government authorities ",
+                "Autoritățile administrației publice locale de nivelul întâi",
+                "Autoritățile administrației publice locale de nivelul doi",
                 ""
               ]
             },
-            "title": "first-level local government authorities "
-          },
-          {
-            "name": "second tier local government authorities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "second tier local government authorities",
-                ""
-              ]
-            },
-            "title": "second tier local government authorities"
+            "title": "Level of local government authorities "
           },
           {
             "name": "Value",

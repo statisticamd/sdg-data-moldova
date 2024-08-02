@@ -28,48 +28,15 @@
             "title": "Sex"
           },
           {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pînă la 45 ani (18-44)",
-                ""
-              ]
-            },
-            "title": "Grupa de vârstă"
-          },
-          {
             "name": "Disability",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Dizabilitate",
                 ""
               ]
             },
             "title": "Dizabilitate"
-          },
-          {
-            "name": "Ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Etnie"
-          },
-          {
-            "name": "Other groups",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Other groups"
           },
           {
             "name": "Value",

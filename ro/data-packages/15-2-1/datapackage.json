@@ -16,19 +16,19 @@
             "title": "Anul"
           },
           {
-            "name": "Indicators on the progress of sustainable forest management",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rata netă anuală de schimbare a suprafeței forestiere, procente",
-                "Proporția de suprafață forestieră situată în zonele protejate legal, procente",
-                "Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung, procente",
+                "Annual net rate of change of forest area,%",
+                "Proportion of forest area located in legally protected areas,%",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
                 "Rezervele de biomasă supraterană în păduri, mii m.c.",
                 "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
                 ""
               ]
             },
-            "title": "Indicatori privind progresul managementului durabil al pădurilor"
+            "title": "Indicatori"
           },
           {
             "name": "Value",

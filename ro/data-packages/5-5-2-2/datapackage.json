@@ -34,7 +34,8 @@
             "constraints": {
               "enum": [
                 "Conducere nivel superior",
-                "Conducere, execuție",
+                "Conducere",
+                "Execuție",
                 ""
               ]
             },

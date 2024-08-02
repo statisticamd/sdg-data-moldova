@@ -16,6 +16,18 @@
             "title": "Anul"
           },
           {
+            "name": "Level of local government authorities ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autoritățile administrației publice locale de nivelul întâi",
+                "Autoritățile administrației publice locale de nivelul doi",
+                ""
+              ]
+            },
+            "title": "Level of local government authorities "
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

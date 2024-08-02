@@ -16,16 +16,16 @@
             "title": "Anul"
           },
           {
-            "name": "Subnational level",
+            "name": "Level of local government authorities ",
             "type": "string",
             "constraints": {
               "enum": [
-                "first-level local government authorities ",
-                "second-level local government authorities",
+                "Autoritățile administrației publice locale de nivelul întâi",
+                "Autoritățile administrației publice locale de nivelul doi",
                 ""
               ]
             },
-            "title": "Subnational level"
+            "title": "Level of local government authorities "
           },
           {
             "name": "Value",

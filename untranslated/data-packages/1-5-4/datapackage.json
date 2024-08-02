@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Subnational level",
+            "name": "Level of local government authorities ",
             "type": "string",
             "constraints": {
               "enum": [
-                "first-level local government authorities ",
-                "second-level local government authorities",
+                "First level of local government authorities",
+                "Second level of local government authorities",
                 ""
               ]
             }

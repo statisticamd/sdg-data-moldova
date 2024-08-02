@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Subnational level",
+            "name": "Level of local government authorities ",
             "type": "string",
             "constraints": {
               "enum": [
-                "first-level local government authorities ",
-                "second-level local government authorities",
+                "First level of local government authorities",
+                "Second level of local government authorities",
                 ""
               ]
             },
-            "title": "Subnational level"
+            "title": "Level of local government authorities "
           },
           {
             "name": "Value",

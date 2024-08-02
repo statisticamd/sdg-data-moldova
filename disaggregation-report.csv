@@ -37,7 +37,7 @@ Countries of destination,1,13
 Criteria of discrimination,1,20
 Disability (neglected),1,1
 Disability (subjected to violence),1,1
-Disability,1,4
+Disability,2,5
 Disbursement,1,2
 Discrimination criteria,2,12
 Districts,2,39
@@ -61,7 +61,7 @@ Form of discrimination,1,8
 Form of violence,1,3
 Forms of exploitation,1,7
 Forms of ownership,3,3
-Function type,1,2
+Function type,1,3
 General objectives,1,3
 Groups of persons,1,2
 "Health workers per 10.000 population, in teritorial aspect",1,39
@@ -71,8 +71,7 @@ Home heating systems - total,1,3
 Home heating systems - urban,1,3
 Household type,2,2
 Index,1,1
-Indicators on the progress of sustainable forest management,1,5
-Indicators,5,18
+Indicators,6,23
 Institutions where have been made payments,2,22
 International organisations,2,6
 kg/person,1,1
@@ -82,6 +81,7 @@ Level of education,3,7
 Level of eutrophication in rivers,1,2
 Level of government,1,3
 Level of implementation,1,3
+Level of local government authorities ,3,2
 Levels,1,2
 Master,1,3
 Means of committing,1,4
@@ -119,7 +119,7 @@ Sex (neglected),1,2
 Sex of the head of the household,7,2
 Sex of the petitioner,1,2
 Sex (subjected to violence),1,2
-Sex,57,4
+Sex,58,4
 Socio-economic status of pupils,2,2
 Source,1,2
 Speeds,1,5
