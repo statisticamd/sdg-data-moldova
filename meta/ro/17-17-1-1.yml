@@ -13,9 +13,8 @@ target_id: >-
   17.17
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.17.1.1: Gradul de implementare a Strategiei de dezvoltare a societății  civile</p>
 SDG_SERIES_DESCR: ''
@@ -32,7 +31,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> Strategia de dezvoltare a societății civile pentru perioada 2018–2020 (HG.  51/2018)  reflectă angajamentul Republicii Moldova de a consolida în mod  sistematic condițiile pentru dezvoltarea dinamică a societății civile. Fiind  edificată pe principiile încrederii reciproce, parteneriatului, transparenței,  participării, nonpartizanatului politic, Strategia continuă eforturile  demarate în cadrul realizării strategiilor precedente de dezvoltare a  societății civile și se axează pe aceleași priorități. Monitorizarea și  evaluarea implementării Strategiei se realizează prin intermediul  instrumentelor prevăzute de către aceasta în secțiunea a 5-a „Monitorizarea și  evaluarea Strategiei”. Guvernul, în cooperare cu organizațiile societății  civile, prezentă anual Parlamentului, până la data de 31 martie, un raport  privind implementarea strategiei și realizarea planului de acțiuni, indicate .</p> 
-  <p>Având în vedere că Strategia de dezvoltare a societății civile pentru perioada 2018–2020 a expirat în anul 2020, pentru următorii ani pentru monitorizarea situației în domeniu se va considera următorul document de politici în domeniu, care în anul 2023 va fi elaborat. </p>
+  <p>Având în vedere că Strategia de dezvoltare a societății civile pentru perioada 2018–2020 a expirat în anul 2020, pentru următorii ani pentru monitorizarea situației în domeniu se va considera următorul document de politici în domeniu: Programul de dezvoltare a organizațiilor societății civile pentru perioada 2024-2027(HG nr. 845/2023). Datele pentru acest indicator vor fi disponibileîn anul 2025. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -65,18 +64,18 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Cancelaria de stat
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf https://cancelaria.gov.md/sites/default/files/document/attachments/raport_integral_sdsc_2018-2020.pdf             https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf
+  https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
   <p> Angela Zagaiciuc, Cancelaria de Stat</p> 
   <p>tel. 022-250-634 </p>
 source_other_info_1: >-
-  Link to source https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf https://cancelaria.gov.md/sites/default/files/document/attachments/raport_integral_sdsc_2018-2020.pdf             https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf
+  Link la sursa de date https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf https://cancelaria.gov.md/sites/default/files/document/attachments/raport_integral_sdsc_2018-2020.pdf             https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf
