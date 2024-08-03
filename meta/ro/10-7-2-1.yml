@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 564kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.7.2.1: Existența de politici naționale eficiente privind migrația</p>
 SDG_SERIES_DESCR: ''
@@ -41,9 +41,8 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Ministerul  Muncii și Protecției Sociale</p> 
-  <p>  2) Biroul Migrație  și Azil</p> 
-  <p>  3) Inspectoratul General Poliția de Frontieră </p>
+  <p> Inspectoratul General pentru Migrație</p> 
+  <p>  Inspectoratul General Poliția de Frontieră </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Reprezentanța permanentă a Republicii Moldova pe lângă oficiul ONU din Geneva

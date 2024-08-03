@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 10.7.1 Recruitment cost borne by employee as a proportion of yearly income  earned in country of destination
+graph_title: national_indicators.10-7-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Recruitment cost borne by employee as a proportion of yearly income  earned in country of destination
+indicator_available: national_indicators.10-7-1-title
 indicator_name: global_indicators.10-7-1-title
 indicator_number: 10.7.1
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global adjusted
+tags: []
 x_axis_label: ''

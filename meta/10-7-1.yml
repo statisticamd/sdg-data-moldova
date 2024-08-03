@@ -13,7 +13,7 @@ target_id: >-
   10.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata
 SDG_INDICATOR: >-
@@ -60,14 +60,14 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  II
+  2
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
   Once every 2 years depending on the country''s data collection capacity
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   <p> Ministry of Labour and Social Protection</p> 
   <p>Diaspora Relations Bureau </p>

@@ -13,7 +13,7 @@ target_id: >-
   10.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-01.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global
 SDG_INDICATOR: >-
@@ -60,7 +60,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  II
+  2
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-

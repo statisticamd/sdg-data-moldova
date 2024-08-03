@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 564kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.7.2.1: Existence of efficient national policies on migration</p>
 SDG_SERIES_DESCR: ''
@@ -41,9 +41,8 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Ministry of  Labour and Social Protection</p> 
-  <p>  2.Bureau for Migration  and Asylum</p> 
-  <p>  3.General Inspectorate of Border Police </p>
+  <p> General Inspectorate of Migration</p> 
+  <p>  General Inspectorate of Border Police </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Permanent Mission of the Republic of Moldova to the United Nations Office in  Geneva

@@ -13,9 +13,9 @@ target_id: >-
   8.8
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-8.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 525kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.8.2.1: Number of collective agreements concluded at the institutional level  in line with ILO documentary sources and national legislation</p>
 SDG_SERIES_DESCR: ''
@@ -77,7 +77,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  Gherceac Irina, e-mail: irina.ghercac@social.gov.md, tel. 022804420
+  Țurcanu Snejana, e-mail: snejana.turcanu@social.gov.md, tel. 022804422
 source_other_info_1: >-
