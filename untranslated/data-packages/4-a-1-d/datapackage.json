@@ -21,6 +21,20 @@
               "enum": [
                 "Early education",
                 "Primary and general secondary education",
+                "primary education",
+                "secondary school",
+                "high school",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
                 ""
               ]
             }

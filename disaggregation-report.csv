@@ -14,7 +14,7 @@ Area of discrimination,1,8
 Area of residence (neglected),1,2
 Area of residence  of the respondents,1,2
 Area of residence (subjected to violence),1,2
-Area of residence,53,3
+Area of residence,54,3
 Area of residence/Sex,1,4
 Availability,1,3
 Bachelor's Degree,1,3
@@ -44,7 +44,7 @@ Districts,2,39
 Duration of arrest,1,4
 Economic activities,5,14
 Education levels,5,10
-Educational levels,1,2
+Educational levels,1,5
 Electricity,1,5
 Emission sectors,1,4
 Employment status,2,6
@@ -60,7 +60,7 @@ Food preparation - urban,1,3
 Form of discrimination,1,8
 Form of violence,1,3
 Forms of exploitation,1,7
-Forms of ownership,3,3
+Forms of ownership,4,3
 Function type,1,3
 General objectives,1,3
 Groups of persons,1,2
@@ -119,7 +119,7 @@ Sex (neglected),1,2
 Sex of the head of the household,7,2
 Sex of the petitioner,1,2
 Sex (subjected to violence),1,2
-Sex,58,4
+Sex,59,4
 Socio-economic status of pupils,2,2
 Source,1,2
 Speeds,1,5
@@ -137,7 +137,7 @@ Tipuri SE,1,4
 Toxic waste by development regions,1,6
 Toxic waste by toxicity class,1,4
 Toxic waste,1,1
-Type of benefit,1,2
+Type of benefit,1,3
 Type of qualified assistance,1,5
 Type of sewerage ,1,2
 Type of technology,1,2

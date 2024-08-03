@@ -6940,7 +6940,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
           },
           {
@@ -7053,8 +7053,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products AGR ",
-                "Non-agricultural products NAGR ",
+                "Produse agricole",
+                "Produse non-agricole",
                 ""
               ]
             },
@@ -8210,18 +8210,8 @@
             "title": "Nivele de educație"
           },
           {
-            "name": " ",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": " "
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -11613,7 +11603,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -11628,6 +11618,7 @@
               "enum": [
                 "Ajutor social",
                 "Ajutor pentru perioada rece a anului",
+                "Compensații la energie sub formă de plată monetară",
                 ""
               ]
             },
@@ -14156,10 +14147,25 @@
               "enum": [
                 "Educație timpurie",
                 "Învățământ primar și secundar general",
+                "învățământ primar",
+                "mediu general",
+                "liceal",
                 ""
               ]
             },
             "title": "Nivele de educație"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",
@@ -14617,7 +14623,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
           },
           {

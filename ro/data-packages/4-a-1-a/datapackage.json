@@ -42,18 +42,8 @@
             "title": "Nivele de educație"
           },
           {
-            "name": " ",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": " "
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

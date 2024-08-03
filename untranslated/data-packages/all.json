@@ -6395,7 +6395,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -6499,8 +6499,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products AGR ",
-                "Non-agricultural products NAGR ",
+                "Agricultural products AGR",
+                "Non-agricultural products NAGR",
                 ""
               ]
             }
@@ -7564,17 +7564,8 @@
             }
           },
           {
-            "name": " ",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -10722,6 +10713,7 @@
               "enum": [
                 "Social aid",
                 "Cold-weather aid",
+                "Energy compensation in the form of monetary payment",
                 ""
               ]
             }
@@ -13051,6 +13043,20 @@
               "enum": [
                 "Early education",
                 "Primary and general secondary education",
+                "primary education",
+                "secondary school",
+                "high school",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -13476,7 +13482,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Value",

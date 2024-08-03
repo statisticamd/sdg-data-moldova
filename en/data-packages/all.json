@@ -6940,7 +6940,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -7053,8 +7053,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agricultural products AGR ",
-                "Non-agricultural products NAGR ",
+                "Agricultural products AGR",
+                "Non-agricultural products NAGR",
                 ""
               ]
             },
@@ -8210,18 +8210,8 @@
             "title": "Education levels"
           },
           {
-            "name": " ",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": " "
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -11628,6 +11618,7 @@
               "enum": [
                 "Social aid",
                 "Cold-weather aid",
+                "Energy compensation in the form of monetary payment",
                 ""
               ]
             },
@@ -14156,10 +14147,25 @@
               "enum": [
                 "Early education",
                 "Primary and general secondary education",
+                "primary education",
+                "secondary school",
+                "high school",
                 ""
               ]
             },
             "title": "Educational levels"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Area of residence"
           },
           {
             "name": "Value",
@@ -14617,7 +14623,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {

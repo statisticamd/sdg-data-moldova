@@ -22,10 +22,25 @@
               "enum": [
                 "Educație timpurie",
                 "Învățământ primar și secundar general",
+                "învățământ primar",
+                "mediu general",
+                "liceal",
                 ""
               ]
             },
             "title": "Nivele de educație"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Mediul de reședință"
           },
           {
             "name": "Value",

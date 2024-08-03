@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -22,6 +22,7 @@
               "enum": [
                 "Ajutor social",
                 "Ajutor pentru perioada rece a anului",
+                "Compensații la energie sub formă de plată monetară",
                 ""
               ]
             },

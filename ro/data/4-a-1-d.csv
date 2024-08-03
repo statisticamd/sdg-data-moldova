@@ -1,27 +1,99 @@
-Year,Nivele de educație,Value
-2010,Educație timpurie,
-2010,Învățământ primar și secundar general,
-2011,Educație timpurie,
-2011,Învățământ primar și secundar general,
-2012,Educație timpurie,
-2012,Învățământ primar și secundar general,
-2013,Educație timpurie,
-2013,Învățământ primar și secundar general,
-2014,Educație timpurie,
-2014,Învățământ primar și secundar general,
-2015,Educație timpurie,
-2015,Învățământ primar și secundar general,
-2016,Educație timpurie,
-2016,Învățământ primar și secundar general,
-2017,Educație timpurie,
-2017,Învățământ primar și secundar general,
-2018,Educație timpurie,12.7
-2018,Învățământ primar și secundar general,47.3
-2019,Educație timpurie,14.0
-2019,Învățământ primar și secundar general,49.5
-2020,Educație timpurie,17.6
-2020,Învățământ primar și secundar general,63.9
-2021,Educație timpurie,14.2
-2021,Învățământ primar și secundar general,57.0
-2022,Educație timpurie,
-2022,Învățământ primar și secundar general,
+Year,Nivele de educație,Mediul de reședință,Value
+2010,Educație timpurie,,
+2010,Învățământ primar și secundar general,,
+2010,învățământ primar,,
+2010,mediu general,,
+2010,liceal,,
+2010,,Rural,
+2010,,Urban,
+2011,Educație timpurie,,
+2011,Învățământ primar și secundar general,,
+2011,învățământ primar,,
+2011,mediu general,,
+2011,liceal,,
+2011,,Rural,
+2011,,Urban,
+2012,Educație timpurie,,
+2012,Învățământ primar și secundar general,,
+2012,învățământ primar,,
+2012,mediu general,,
+2012,liceal,,
+2012,,Rural,
+2012,,Urban,
+2013,Educație timpurie,,
+2013,Învățământ primar și secundar general,,
+2013,învățământ primar,,
+2013,mediu general,,
+2013,liceal,,
+2013,,Rural,
+2013,,Urban,
+2014,Educație timpurie,,
+2014,Învățământ primar și secundar general,,
+2014,învățământ primar,,
+2014,mediu general,,
+2014,liceal,,
+2014,,Rural,
+2014,,Urban,
+2015,Educație timpurie,,
+2015,Învățământ primar și secundar general,,
+2015,învățământ primar,,
+2015,mediu general,,
+2015,liceal,,
+2015,,Rural,
+2015,,Urban,
+2016,Educație timpurie,,
+2016,Învățământ primar și secundar general,,
+2016,învățământ primar,,
+2016,mediu general,,
+2016,liceal,,
+2016,,Rural,
+2016,,Urban,
+2017,Educație timpurie,,
+2017,Învățământ primar și secundar general,,
+2017,învățământ primar,,
+2017,mediu general,,
+2017,liceal,,
+2017,,Rural,
+2017,,Urban,
+2018,Educație timpurie,,
+2018,Învățământ primar și secundar general,,
+2018,învățământ primar,,
+2018,mediu general,,
+2018,liceal,,
+2018,,Rural,
+2018,,Urban,
+2019,Educație timpurie,,
+2019,Învățământ primar și secundar general,,
+2019,învățământ primar,,
+2019,mediu general,,
+2019,liceal,,
+2019,,Rural,
+2019,,Urban,
+2020,Educație timpurie,,14.0
+2020,Învățământ primar și secundar general,,26.2
+2020,învățământ primar,,21.2
+2020,mediu general,,22.9
+2020,liceal,,35.3
+2020,,Rural,24.0
+2020,,Urban,32.5
+2021,Educație timpurie,,14.2
+2021,Învățământ primar și secundar general,,27.2
+2021,învățământ primar,,25.0
+2021,mediu general,,22.7
+2021,liceal,,38.3
+2021,,Rural,24.3
+2021,,Urban,35.8
+2022,Educație timpurie,,14.1
+2022,Învățământ primar și secundar general,,27.2
+2022,învățământ primar,,24.2
+2022,mediu general,,23.2
+2022,liceal,,36.8
+2022,,Rural,24.5
+2022,,Urban,34.8
+2023,Educație timpurie,,14.0
+2023,Învățământ primar și secundar general,,27.5
+2023,învățământ primar,,25.3
+2023,mediu general,,23.6
+2023,liceal,,36.8
+2023,,Rural,25.0
+2023,,Urban,34.7

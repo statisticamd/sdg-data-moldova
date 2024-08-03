@@ -22,6 +22,7 @@
               "enum": [
                 "Social aid",
                 "Cold-weather aid",
+                "Energy compensation in the form of monetary payment",
                 ""
               ]
             },
