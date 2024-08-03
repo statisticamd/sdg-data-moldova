@@ -14,6 +14,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.b.1.1: Numărul de locuri bugetare în comanda de stat pentru înscrierea în învățământul superior, inclusiv formare profesională și tehnologia informației și comunicațiilor, programe tehnice, inginerești și științifice</p>
 SDG_SERIES_DESCR: ''
@@ -70,4 +71,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  tatiana.pasa@mec.gov.md
 source_other_info_1: >-

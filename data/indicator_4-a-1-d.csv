@@ -1,27 +1,99 @@
-Year,Educational levels,Value
-2010,Early education,
-2010,Primary and general secondary education,
-2011,Early education,
-2011,Primary and general secondary education,
-2012,Early education,
-2012,Primary and general secondary education,
-2013,Early education,
-2013,Primary and general secondary education,
-2014,Early education,
-2014,Primary and general secondary education,
-2015,Early education,
-2015,Primary and general secondary education,
-2016,Early education,
-2016,Primary and general secondary education,
-2017,Early education,
-2017,Primary and general secondary education,
-2018,Early education,12.7
-2018,Primary and general secondary education,47.3
-2019,Early education,14
-2019,Primary and general secondary education,49.5
-2020,Early education,17.6
-2020,Primary and general secondary education,63.9
-2021,Early education,14.2
-2021,Primary and general secondary education,57
-2022,Early education,
-2022,Primary and general secondary education,
+Year,Educational levels,Area of residence,Value
+2010,Early education,,
+2010,Primary and general secondary education,,
+2010,primary education,,
+2010,secondary school,,
+2010,high school,,
+2010,,Rural,
+2010,,Urban,
+2011,Early education,,
+2011,Primary and general secondary education,,
+2011,primary education,,
+2011,secondary school,,
+2011,high school,,
+2011,,Rural,
+2011,,Urban,
+2012,Early education,,
+2012,Primary and general secondary education,,
+2012,primary education,,
+2012,secondary school,,
+2012,high school,,
+2012,,Rural,
+2012,,Urban,
+2013,Early education,,
+2013,Primary and general secondary education,,
+2013,primary education,,
+2013,secondary school,,
+2013,high school,,
+2013,,Rural,
+2013,,Urban,
+2014,Early education,,
+2014,Primary and general secondary education,,
+2014,primary education,,
+2014,secondary school,,
+2014,high school,,
+2014,,Rural,
+2014,,Urban,
+2015,Early education,,
+2015,Primary and general secondary education,,
+2015,primary education,,
+2015,secondary school,,
+2015,high school,,
+2015,,Rural,
+2015,,Urban,
+2016,Early education,,
+2016,Primary and general secondary education,,
+2016,primary education,,
+2016,secondary school,,
+2016,high school,,
+2016,,Rural,
+2016,,Urban,
+2017,Early education,,
+2017,Primary and general secondary education,,
+2017,primary education,,
+2017,secondary school,,
+2017,high school,,
+2017,,Rural,
+2017,,Urban,
+2018,Early education,,
+2018,Primary and general secondary education,,
+2018,primary education,,
+2018,secondary school,,
+2018,high school,,
+2018,,Rural,
+2018,,Urban,
+2019,Early education,,
+2019,Primary and general secondary education,,
+2019,primary education,,
+2019,secondary school,,
+2019,high school,,
+2019,,Rural,
+2019,,Urban,
+2020,Early education,,14
+2020,Primary and general secondary education,,26.2
+2020,primary education,,21.2
+2020,secondary school,,22.9
+2020,high school,,35.3
+2020,,Rural,24
+2020,,Urban,32.5
+2021,Early education,,14.2
+2021,Primary and general secondary education,,27.2
+2021,primary education,,25
+2021,secondary school,,22.7
+2021,high school,,38.3
+2021,,Rural,24.3
+2021,,Urban,35.8
+2022,Early education,,14.1
+2022,Primary and general secondary education,,27.2
+2022,primary education,,24.2
+2022,secondary school,,23.2
+2022,high school,,36.8
+2022,,Rural,24.5
+2022,,Urban,34.8
+2023,Early education,,14
+2023,Primary and general secondary education,,27.5
+2023,primary education,,25.3
+2023,secondary school,,23.6
+2023,high school,,36.8
+2023,,Rural,25
+2023,,Urban,34.7

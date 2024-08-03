@@ -14,7 +14,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.4.1.1: Ponderea cheltuielilor pentru conservarea și protejarea  patrimoniului cultural în totalul cheltuielilor Bugetului public național</p>
 SDG_SERIES_DESCR: ''
@@ -64,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   Ministerul Finanțelor

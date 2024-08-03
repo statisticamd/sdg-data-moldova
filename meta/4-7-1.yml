@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  4.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-4.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-07-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 210kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.7.1: Existence in the curricula of the following modules/contents: i)  sustainable development, ii) human rights, iii) gender equality, iv) education  for health and multidisciplinary approach for setting the graduate profile</p>
 SDG_SERIES_DESCR: ''
@@ -32,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   The indicator is estimated based on national reports sent to UNESCO based on  the questionnaire on implementation of the 1974 Recommendation concerning  Education for International Understanding,  Cooperation  and  Peace  and   Education  relating  to  Human  Rights  and  Fundamental  Freedoms, sent once  per 4 years by the member countries. Methodology and UNESCO questionnaire are  annexed to the global metadata for the given indicator.
 UNIT_MEASURE: >-
-  Yes/No
+  Score
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -70,7 +71,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Ministry of Education and Research
@@ -78,6 +79,7 @@ source_periodicity_1: >-
   Once every 4 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
+  angela.bezu@mec.gov.md
 source_other_info_1: >-

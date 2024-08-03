@@ -59,21 +59,27 @@ Year,Area of residence,Education levels,Value
 2019,,primary education,
 2019,,secondary school,
 2019,,high school,
-2020,,,70.8
-2020,Urban,,87.1
-2020,Rural,,65.3
+2020,,,
+2020,Urban,,
+2020,Rural,,
 2020,,primary education,
 2020,,secondary school,
 2020,,high school,
-2021,,,71.7
-2021,Urban,,87.3
-2021,Rural,,66.2
+2021,,,
+2021,Urban,,
+2021,Rural,,
 2021,,primary education,
 2021,,secondary school,
 2021,,high school,
-2022,,,86
-2022,Urban,,96.5
-2022,Rural,,82.4
-2022,,primary education,88
-2022,,secondary school,81.2
-2022,,high school,96.4
+2022,,,83.6
+2022,Urban,,86.5
+2022,Rural,,82.6
+2022,,primary education,81.3
+2022,,secondary school,84.1
+2022,,high school,83.2
+2023,,,88.1
+2023,Urban,,89.7
+2023,Rural,,87.6
+2023,,primary education,86.8
+2023,,secondary school,88.9
+2023,,high school,86.8

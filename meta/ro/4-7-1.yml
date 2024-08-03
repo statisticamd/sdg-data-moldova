@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 4.7.1: Măsura în care (i) educația privind cetățenia globală și (ii) educația pentru  dezvoltare durabilă, sunt integrate în (a) politicile educaționale naționale,  (b) curriculum, (c) instruirea profesorilor și (d) evaluarea studenților</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2030, asigurarea faptului că toți elevii dobândesc cunoștințele și  competențele necesare pentru promovarea dezvoltării durabile, inclusiv,  printre altele, prin educația pentru dezvoltare durabilă și stiluri de viață  durabile, drepturile omului, egalitatea de gen, promovarea unei culturi a  păcii și non-violenței, cetățenia globală și aprecierea diversității culturale  și a contribuției culturii la dezvoltarea durabilă</p>
+  <p>Target 4.7: Până în 2030, asigurarea faptului că toți elevii dobândesc cunoștințele și  competențele necesare pentru promovarea dezvoltării durabile, inclusiv,  printre altele, prin educația pentru dezvoltare durabilă și stiluri de viață  durabile, drepturile omului, egalitatea de gen, promovarea unei culturi a  păcii și non-violenței, cetățenia globală și aprecierea diversității culturale  și a contribuției culturii la dezvoltarea durabilă</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNESCO-UIS
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  4.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-4.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-07-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 210kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.7.1: Existența în curricula școlară a modulelor/ conținuturilor curriculare:  i) dezvoltarea durabilă, ii) drepturile omului, iii) egalitate de gen, iv)  educația pentru sănătate și abordarea multidisciplinară a acestora în vederea  formării profilului absolventului</p>
 SDG_SERIES_DESCR: ''
@@ -32,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Indicatorul se estimează in baza rapoartelor naționale transmise către UNESCO  in baza chestionarului privind implementarea Recomandării 1974 a UNESCO (1974  Recommendation concerning Education for International Understanding,   Cooperation  and  Peace  and  Education  relating  to  Human  Rights  and   Fundamental  Freedoms) transmis o dată la 4 ani către tarile-membre.  Metodologia și chestionarul UNESCO sunt anexate la metadatele globale pentru  indicatorul dat.
 UNIT_MEASURE: >-
-  Da/Nu
+  Scor
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -70,7 +71,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Ministerul Educației și Cercetării
@@ -80,4 +81,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  angela.bezu@mec.gov.md
 source_other_info_1: >-

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 1.a.2.b Proportion of health care expenditure in total national public budget  expenditure
+graph_title: national_indicators.1-a-2-b-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of health care expenditure in total national public budget  expenditure
+indicator_available: national_indicators.1-a-2-b-title
 indicator_name: national_indicators.1-a-2-b-title
 indicator_number: 1.a.2.b
 indicator_tabs:: 
@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
 placeholder: ''
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global divided
+tags: []
 x_axis_label: ''

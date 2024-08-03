@@ -13,7 +13,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
-  UN Metadata
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 1.a.3.1: Proportion of public expenditure on social protection in GDP</p>
 SDG_SERIES_DESCR: ''
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   Ministry of Finance
@@ -69,6 +69,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

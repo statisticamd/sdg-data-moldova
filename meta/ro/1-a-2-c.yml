@@ -13,9 +13,9 @@ target_id: >-
   1.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-1.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02b.pdf
 GOAL_META_LINK_TEXT: >-
-  TIER III - NO WORK PLAN
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 1.a.2.c: Ponderea cheltuielilor pentru protecție socială în totalul  cheltuielilor bugetului public național</p>
 SDG_SERIES_DESCR: ''
@@ -65,7 +65,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Ministerul Finanțelor
