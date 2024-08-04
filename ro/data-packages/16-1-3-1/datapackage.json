@@ -58,6 +58,19 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Forms of violence ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Violență psihologică",
+                "Violență fizică",
+                "Violență sexuală",
+                ""
+              ]
+            },
+            "title": "Forms of violence "
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

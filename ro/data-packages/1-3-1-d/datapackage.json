@@ -48,7 +48,6 @@
             "constraints": {
               "enum": [
                 "Mun. Chișinău",
-                "Nord",
                 "mun. Bălți",
                 "Briceni",
                 "Dondușeni",
@@ -61,7 +60,6 @@
                 "Râșcani",
                 "Sângerei",
                 "Soroca",
-                "Centru",
                 "Anenii Noi",
                 "Călărași",
                 "Criuleni",
@@ -75,7 +73,6 @@
                 "Șoldănești",
                 "Telenești",
                 "Ungheni",
-                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",

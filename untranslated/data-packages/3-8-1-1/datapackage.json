@@ -30,21 +30,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0-15",
                 "15-24",
                 "25-34",
                 "35-44",
                 "45-54",
+                "16-55",
                 "55+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Diseases",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxx",
                 ""
               ]
             }

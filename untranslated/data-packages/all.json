@@ -610,7 +610,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
                 "15-24",
                 "25-34",
                 "35-44",
@@ -1223,6 +1222,25 @@
             "type": "integer"
           },
           {
+            "name": "Genetic resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cattle, heads",
+                "Pigs, heads",
+                "Sheep, heads",
+                "Goats, heads",
+                "Horses, heads",
+                "Rabbits, heads",
+                "Birds, heads",
+                "Fish, heads",
+                "Bees, families",
+                "Plant genetic resources (samples)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1321,14 +1339,14 @@
             "type": "integer"
           },
           {
-            "name": "Tipuri SE",
+            "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tehnogen",
-                "Natural (pe genuri)",
-                "Biologico-social",
-                "Incendii",
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
                 ""
               ]
             }
@@ -3273,33 +3291,22 @@
             "type": "integer"
           },
           {
-            "name": "Rare species ",
+            "name": "Cattle",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
+                "Baltata with Black Moldavian type",
                 ""
               ]
             }
           },
           {
-            "name": "Local species",
+            "name": "Sheep",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disappearance risk categories",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
+                "Caracul",
+                "Tigaie",
                 ""
               ]
             }
@@ -7857,7 +7864,6 @@
             "constraints": {
               "enum": [
                 "Mun. Chisinau",
-                "North",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -7870,7 +7876,6 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -7884,7 +7889,6 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -8753,17 +8757,6 @@
             }
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -8867,21 +8860,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0-15",
                 "15-24",
                 "25-34",
                 "35-44",
                 "45-54",
+                "16-55",
                 "55+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Diseases",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxx",
                 ""
               ]
             }
@@ -9693,7 +9678,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " ",
                 "Mental",
                 "Intellectual",
                 "Sensory",
@@ -9951,7 +9935,7 @@
           }
         ]
       },
-      "title": "national_indicators.14-4-1-1--title"
+      "title": "national_indicators.14-4-1-1-title"
     },
     {
       "path": "11-5-1-a/data.csv",
@@ -11232,7 +11216,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Industry",
+                "Industry and constructions",
                 "Transport",
                 "Residential sector (population)",
                 "Services",
@@ -11264,25 +11248,25 @@
             "type": "integer"
           },
           {
-            "name": "Classes of disasters",
+            "name": "Clase situațiilor excepționale",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             }
           },
           {
-            "name": "Age group",
+            "name": "Grupa de vârstă",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             }
@@ -11292,8 +11276,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             }
@@ -12228,6 +12212,18 @@
             }
           },
           {
+            "name": "Forms of violence ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological violence",
+                "Physical violence",
+                "Sexual violence",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -12505,7 +12501,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Including children (0-17 years)",
+                "0-17 years",
                 "18 years and over",
                 ""
               ]
@@ -13603,17 +13599,6 @@
               "enum": [
                 "Insured",
                 "Uninsured",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
                 ""
               ]
             }

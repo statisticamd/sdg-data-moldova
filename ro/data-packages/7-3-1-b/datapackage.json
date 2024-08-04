@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Industrie",
+                "Industrie și construcții",
                 "Transport",
                 "Sector rezidențial",
                 "Servicii",

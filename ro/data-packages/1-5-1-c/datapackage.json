@@ -34,7 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Inclusiv copii (0-17 ani)",
+                "0-17 ani",
                 "18 ani și peste",
                 ""
               ]

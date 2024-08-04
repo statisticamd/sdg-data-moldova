@@ -163,37 +163,37 @@ Year,Sex of the petitioner,Criteria of discrimination,Area of discrimination,For
 2013,,,,Racial segregation,,
 2013,,,,,Urban,
 2013,,,,,Rural,
-2014,,,,,,2.3
+2014,,,,,,2.27
 2014,Men,,,,,
 2014,Women,,,,,
 2014,,Opinion,,,,0.0
-2014,,Disability,,,,0.5
-2014,,Social origin,,,,0.1
+2014,,Disability,,,,0.49
+2014,,Social origin,,,,0.07
 2014,,Language,,,,0.0
-2014,,Sex/gender,,,,0.4
+2014,,Sex/gender,,,,0.45
 2014,,HIV status,,,,0.0
-2014,,Sexual orientation,,,,0.2
-2014,,Religion/belief,,,,0.2
+2014,,Sexual orientation,,,,0.17
+2014,,Religion/belief,,,,0.17
 2014,,Professional status,,,,0.1
 2014,,Civil status,,,,0.1
-2014,,Political affiliation,,,,0.1
-2014,,Place of residence,,,,0.1
-2014,,Ethnical affiliation,,,,0.0
-2014,,Maternity,,,,0.0
-2014,,Nationality,,,,0.0
+2014,,Political affiliation,,,,0.07
+2014,,Place of residence,,,,0.07
+2014,,Ethnical affiliation,,,,0.03
+2014,,Maternity,,,,0.03
+2014,,Nationality,,,,0.03
 2014,,Age,,,,0.0
 2014,,Race,,,,0.0
 2014,,Trade-union activity,,,,0.0
 2014,,Pensioner status,,,,0.0
 2014,,Other,,,,0.0
-2014,,,Discrimination on the labour market,,,0.3
+2014,,,Discrimination on the labour market,,,0.31
 2014,,,Access to education,,,0.1
 2014,,,Access to goods and services available to the public,,,0.7
-2014,,,Access to justice,,,0.2
+2014,,,Access to justice,,,0.21
 2014,,,Hate speech,,,0.0
-2014,,,Injured human dignity,,,0.2
+2014,,,Injured human dignity,,,0.21
 2014,,,Exercing parental rights,,,0.1
-2014,,,Other,,,0.0
+2014,,,Other,,,0.03
 2014,,,,Direct,,0.0
 2014,,,,Indirect,,0.0
 2014,,,,By association,,0.0
@@ -204,331 +204,372 @@ Year,Sex of the petitioner,Criteria of discrimination,Area of discrimination,For
 2014,,,,Racial segregation,,0.0
 2014,,,,,Urban,
 2014,,,,,Rural,
-2015,,,,,,1.3
+2015,,,,,,1.27
 2015,Men,,,,,
 2015,Women,,,,,
-2015,,Opinion,,,,0.1
-2015,,Disability,,,,0.3
+2015,,Opinion,,,,0.14
+2015,,Disability,,,,0.28
 2015,,Social origin,,,,0.0
-2015,,Language,,,,0.1
-2015,,Sex/gender,,,,0.3
+2015,,Language,,,,0.14
+2015,,Sex/gender,,,,0.28
 2015,,HIV status,,,,0.0
-2015,,Sexual orientation,,,,0.1
+2015,,Sexual orientation,,,,0.07
 2015,,Religion/belief,,,,0.0
 2015,,Professional status,,,,0.0
 2015,,Civil status,,,,0.0
 2015,,Political affiliation,,,,0.0
-2015,,Place of residence,,,,0.1
-2015,,Ethnical affiliation,,,,0.1
-2015,,Maternity,,,,0.0
-2015,,Nationality,,,,0.0
-2015,,Age,,,,0.1
-2015,,Race,,,,0.1
+2015,,Place of residence,,,,0.07
+2015,,Ethnical affiliation,,,,0.14
+2015,,Maternity,,,,0.04
+2015,,Nationality,,,,0.04
+2015,,Age,,,,0.11
+2015,,Race,,,,0.14
 2015,,Trade-union activity,,,,0.0
 2015,,Pensioner status,,,,0.0
 2015,,Other,,,,0.0
-2015,,,Discrimination on the labour market,,,0.3
-2015,,,Access to education,,,0.0
-2015,,,Access to goods and services available to the public,,,0.6
+2015,,,Discrimination on the labour market,,,0.35
+2015,,,Access to education,,,0.04
+2015,,,Access to goods and services available to the public,,,0.56
 2015,,,Access to justice,,,0.0
 2015,,,Hate speech,,,0.0
-2015,,,Injured human dignity,,,0.1
-2015,,,Exercing parental rights,,,0.1
-2015,,,Other,,,0.0
-2015,,,,Direct,,0.9
-2015,,,,Indirect,,0.0
-2015,,,,By association,,0.0
-2015,,,,Instigation to discrimination,,0.1
-2015,,,,Harassment,,0.1
-2015,,,,Victimization,,0.0
-2015,,,,Refuse of reasonable accommodation,,0.2
+2015,,,Injured human dignity,,,0.14
+2015,,,Exercing parental rights,,,0.07
+2015,,,Other,,,0.04
+2015,,,,Direct,,0.91
+2015,,,,Indirect,,0.04
+2015,,,,By association,,0.04
+2015,,,,Instigation to discrimination,,0.11
+2015,,,,Harassment,,0.07
+2015,,,,Victimization,,0.04
+2015,,,,Refuse of reasonable accommodation,,0.25
 2015,,,,Racial segregation,,0.0
 2015,,,,,Urban,
 2015,,,,,Rural,
-2016,,,,,,1.5
-2016,Men,,,,,1.6
-2016,Women,,,,,1.0
+2016,,,,,,1.49
+2016,Men,,,,,1.55
+2016,Women,,,,,1.02
 2016,,Opinion,,,,0.0
-2016,,Disability,,,,0.8
-2016,,Social origin,,,,0.0
-2016,,Language,,,,0.1
-2016,,Sex/gender,,,,0.3
-2016,,HIV status,,,,0.0
+2016,,Disability,,,,0.78
+2016,,Social origin,,,,0.04
+2016,,Language,,,,0.11
+2016,,Sex/gender,,,,0.28
+2016,,HIV status,,,,0.04
 2016,,Sexual orientation,,,,0.0
 2016,,Religion/belief,,,,0.0
 2016,,Professional status,,,,0.0
 2016,,Civil status,,,,0.0
 2016,,Political affiliation,,,,0.0
 2016,,Place of residence,,,,0.0
-2016,,Ethnical affiliation,,,,0.0
-2016,,Maternity,,,,0.0
-2016,,Nationality,,,,0.0
-2016,,Age,,,,0.1
+2016,,Ethnical affiliation,,,,0.04
+2016,,Maternity,,,,0.04
+2016,,Nationality,,,,0.04
+2016,,Age,,,,0.07
 2016,,Race,,,,0.0
 2016,,Trade-union activity,,,,0.0
 2016,,Pensioner status,,,,0.0
-2016,,Other,,,,0.0
-2016,,,Discrimination on the labour market,,,0.1
-2016,,,Access to education,,,0.0
-2016,,,Access to goods and services available to the public,,,0.4
-2016,,,Access to justice,,,0.2
+2016,,Other,,,,0.04
+2016,,,Discrimination on the labour market,,,0.11
+2016,,,Access to education,,,0.04
+2016,,,Access to goods and services available to the public,,,0.39
+2016,,,Access to justice,,,0.18
 2016,,,Hate speech,,,0.0
 2016,,,Injured human dignity,,,0.0
 2016,,,Exercing parental rights,,,0.0
 2016,,,Other,,,0.0
-2016,,,,Direct,,0.1
-2016,,,,Indirect,,0.1
-2016,,,,By association,,0.0
+2016,,,,Direct,,0.14
+2016,,,,Indirect,,0.11
+2016,,,,By association,,0.04
 2016,,,,Instigation to discrimination,,0.0
-2016,,,,Harassment,,0.1
+2016,,,,Harassment,,0.07
 2016,,,,Victimization,,0.0
 2016,,,,Refuse of reasonable accommodation,,0.0
 2016,,,,Racial segregation,,0.0
-2016,,,,,Urban,1.2
-2016,,,,,Rural,0.2
-2017,,,,,,2.0
+2016,,,,,Urban,1.23
+2016,,,,,Rural,0.17
+2017,,,,,,1.98
 2017,Men,,,,,1.8
-2017,Women,,,,,1.0
+2017,Women,,,,,1.04
 2017,,Opinion,,,,0.0
-2017,,Disability,,,,1.0
-2017,,Social origin,,,,0.1
-2017,,Language,,,,0.2
-2017,,Sex/gender,,,,0.3
-2017,,HIV status,,,,0.0
-2017,,Sexual orientation,,,,0.0
-2017,,Religion/belief,,,,0.1
-2017,,Professional status,,,,0.1
+2017,,Disability,,,,1.01
+2017,,Social origin,,,,0.14
+2017,,Language,,,,0.22
+2017,,Sex/gender,,,,0.32
+2017,,HIV status,,,,0.04
+2017,,Sexual orientation,,,,0.04
+2017,,Religion/belief,,,,0.07
+2017,,Professional status,,,,0.14
 2017,,Civil status,,,,0.0
 2017,,Political affiliation,,,,0.0
-2017,,Place of residence,,,,0.0
+2017,,Place of residence,,,,0.04
 2017,,Ethnical affiliation,,,,0.0
 2017,,Maternity,,,,0.0
 2017,,Nationality,,,,0.0
-2017,,Age,,,,0.4
-2017,,Race,,,,0.1
+2017,,Age,,,,0.36
+2017,,Race,,,,0.14
 2017,,Trade-union activity,,,,0.0
 2017,,Pensioner status,,,,0.0
 2017,,Other,,,,0.0
-2017,,,Discrimination on the labour market,,,0.4
-2017,,,Access to education,,,0.0
-2017,,,Access to goods and services available to the public,,,1.3
-2017,,,Access to justice,,,0.2
+2017,,,Discrimination on the labour market,,,0.36
+2017,,,Access to education,,,0.04
+2017,,,Access to goods and services available to the public,,,1.26
+2017,,,Access to justice,,,0.22
 2017,,,Hate speech,,,0.0
-2017,,,Injured human dignity,,,0.4
+2017,,,Injured human dignity,,,0.36
 2017,,,Exercing parental rights,,,0.0
 2017,,,Other,,,0.0
-2017,,,,Direct,,1.0
-2017,,,,Indirect,,0.3
-2017,,,,By association,,0.1
-2017,,,,Instigation to discrimination,,0.2
-2017,,,,Harassment,,0.0
-2017,,,,Victimization,,0.1
-2017,,,,Refuse of reasonable accommodation,,0.2
+2017,,,,Direct,,1.04
+2017,,,,Indirect,,0.32
+2017,,,,By association,,0.07
+2017,,,,Instigation to discrimination,,0.18
+2017,,,,Harassment,,0.04
+2017,,,,Victimization,,0.11
+2017,,,,Refuse of reasonable accommodation,,0.22
 2017,,,,Racial segregation,,0.0
-2017,,,,,Urban,1.3
-2017,,,,,Rural,0.3
-2018,,,,,,3.1
-2018,Men,,,,,1.8
-2018,Women,,,,,1.0
-2018,,Opinion,,,,0.2
-2018,,Disability,,,,0.3
-2018,,Social origin,,,,0.0
-2018,,Language,,,,0.9
+2017,,,,,Urban,1.33
+2017,,,,,Rural,0.32
+2018,,,,,,3.07
+2018,Men,,,,,1.75
+2018,Women,,,,,1.02
+2018,,Opinion,,,,0.21
+2018,,Disability,,,,0.32
+2018,,Social origin,,,,0.03
+2018,,Language,,,,0.95
 2018,,Sex/gender,,,,0.4
 2018,,HIV status,,,,0.0
 2018,,Sexual orientation,,,,0.0
-2018,,Religion/belief,,,,0.2
+2018,,Religion/belief,,,,0.18
 2018,,Professional status,,,,0.0
-2018,,Civil status,,,,0.0
-2018,,Political affiliation,,,,0.2
-2018,,Place of residence,,,,0.0
-2018,,Ethnical affiliation,,,,0.1
-2018,,Maternity,,,,0.1
-2018,,Nationality,,,,0.4
-2018,,Age,,,,0.3
+2018,,Civil status,,,,0.03
+2018,,Political affiliation,,,,0.18
+2018,,Place of residence,,,,0.03
+2018,,Ethnical affiliation,,,,0.14
+2018,,Maternity,,,,0.07
+2018,,Nationality,,,,0.43
+2018,,Age,,,,0.32
 2018,,Race,,,,0.0
-2018,,Trade-union activity,,,,0.1
-2018,,Pensioner status,,,,0.0
-2018,,Other,,,,0.1
-2018,,,Discrimination on the labour market,,,1.1
-2018,,,Access to education,,,0.1
-2018,,,Access to goods and services available to the public,,,0.8
-2018,,,Access to justice,,,0.8
+2018,,Trade-union activity,,,,0.07
+2018,,Pensioner status,,,,0.03
+2018,,Other,,,,0.07
+2018,,,Discrimination on the labour market,,,1.06
+2018,,,Access to education,,,0.14
+2018,,,Access to goods and services available to the public,,,0.84
+2018,,,Access to justice,,,0.84
 2018,,,Hate speech,,,0.0
-2018,,,Injured human dignity,,,0.2
+2018,,,Injured human dignity,,,0.18
 2018,,,Exercing parental rights,,,0.0
 2018,,,Other,,,0.0
 2018,,,,Direct,,1.9
 2018,,,,Indirect,,0.1
-2018,,,,By association,,0.0
-2018,,,,Instigation to discrimination,,0.2
-2018,,,,Harassment,,0.4
+2018,,,,By association,,0.03
+2018,,,,Instigation to discrimination,,0.21
+2018,,,,Harassment,,0.36
 2018,,,,Victimization,,0.1
-2018,,,,Refuse of reasonable accommodation,,0.3
+2018,,,,Refuse of reasonable accommodation,,0.29
 2018,,,,Racial segregation,,0.0
-2018,,,,,Urban,2.3
-2018,,,,,Rural,0.7
-2019,,,,,,2.9
+2018,,,,,Urban,2.34
+2018,,,,,Rural,0.73
+2019,,,,,,2.86
 2019,Men,,,,,1.3
-2019,Women,,,,,1.1
-2019,,Opinion,,,,0.1
-2019,,Disability,,,,0.3
-2019,,Social origin,,,,0.0
-2019,,Language,,,,0.7
-2019,,Sex/gender,,,,0.6
-2019,,HIV status,,,,0.1
+2019,Women,,,,,1.11
+2019,,Opinion,,,,0.14
+2019,,Disability,,,,0.33
+2019,,Social origin,,,,0.03
+2019,,Language,,,,0.74
+2019,,Sex/gender,,,,0.55
+2019,,HIV status,,,,0.07
 2019,,Sexual orientation,,,,0.0
-2019,,Religion/belief,,,,0.1
-2019,,Professional status,,,,0.1
+2019,,Religion/belief,,,,0.14
+2019,,Professional status,,,,0.07
 2019,,Civil status,,,,0.0
 2019,,Political affiliation,,,,0.0
-2019,,Place of residence,,,,0.0
-2019,,Ethnical affiliation,,,,0.1
-2019,,Maternity,,,,0.0
+2019,,Place of residence,,,,0.03
+2019,,Ethnical affiliation,,,,0.07
+2019,,Maternity,,,,0.03
 2019,,Nationality,,,,0.0
-2019,,Age,,,,0.1
+2019,,Age,,,,0.14
 2019,,Race,,,,0.0
 2019,,Trade-union activity,,,,0.0
-2019,,Pensioner status,,,,0.1
-2019,,Other,,,,0.0
-2019,,,Discrimination on the labour market,,,0.5
-2019,,,Access to education,,,0.2
-2019,,,Access to goods and services available to the public,,,0.9
-2019,,,Access to justice,,,0.6
+2019,,Pensioner status,,,,0.14
+2019,,Other,,,,0.03
+2019,,,Discrimination on the labour market,,,0.48
+2019,,,Access to education,,,0.22
+2019,,,Access to goods and services available to the public,,,0.93
+2019,,,Access to justice,,,0.63
 2019,,,Hate speech,,,0.0
-2019,,,Injured human dignity,,,0.6
+2019,,,Injured human dignity,,,0.55
 2019,,,Exercing parental rights,,,0.0
-2019,,,Other,,,0.0
-2019,,,,Direct,,0.6
-2019,,,,Indirect,,0.5
+2019,,,Other,,,0.03
+2019,,,,Direct,,0.55
+2019,,,,Indirect,,0.48
 2019,,,,By association,,0.0
-2019,,,,Instigation to discrimination,,0.4
+2019,,,,Instigation to discrimination,,0.37
 2019,,,,Harassment,,0.4
-2019,,,,Victimization,,0.1
-2019,,,,Refuse of reasonable accommodation,,0.9
+2019,,,,Victimization,,0.07
+2019,,,,Refuse of reasonable accommodation,,0.89
 2019,,,,Racial segregation,,0.0
-2019,,,,,Urban,2.3
-2019,,,,,Rural,0.6
-2020,,,,,,3.1
-2020,Men,,,,,1.4
-2020,Women,,,,,1.2
-2020,,Opinion,,,,0.2
-2020,,Disability,,,,0.5
-2020,,Social origin,,,,0.1
-2020,,Language,,,,0.5
-2020,,Sex/gender,,,,0.5
-2020,,HIV status,,,,0.0
-2020,,Sexual orientation,,,,0.1
-2020,,Religion/belief,,,,0.0
-2020,,Professional status,,,,0.0
+2019,,,,,Urban,2.27
+2019,,,,,Rural,0.59
+2020,,,,,,3.13
+2020,Men,,,,,1.36
+2020,Women,,,,,1.21
+2020,,Opinion,,,,0.18
+2020,,Disability,,,,0.49
+2020,,Social origin,,,,0.07
+2020,,Language,,,,0.52
+2020,,Sex/gender,,,,0.49
+2020,,HIV status,,,,0.03
+2020,,Sexual orientation,,,,0.07
+2020,,Religion/belief,,,,0.03
+2020,,Professional status,,,,0.03
 2020,,Civil status,,,,0.0
 2020,,Political affiliation,,,,0.0
 2020,,Place of residence,,,,0.0
-2020,,Ethnical affiliation,,,,0.1
-2020,,Maternity,,,,0.1
+2020,,Ethnical affiliation,,,,0.07
+2020,,Maternity,,,,0.07
 2020,,Nationality,,,,0.0
-2020,,Age,,,,0.2
+2020,,Age,,,,0.18
 2020,,Race,,,,0.0
 2020,,Trade-union activity,,,,0.0
-2020,,Pensioner status,,,,0.1
-2020,,Other,,,,0.2
+2020,,Pensioner status,,,,0.07
+2020,,Other,,,,0.18
 2020,,,Discrimination on the labour market,,,0.9
-2020,,,Access to education,,,0.2
-2020,,,Access to goods and services available to the public,,,0.7
-2020,,,Access to justice,,,0.4
+2020,,,Access to education,,,0.22
+2020,,,Access to goods and services available to the public,,,0.68
+2020,,,Access to justice,,,0.41
 2020,,,Hate speech,,,0.0
-2020,,,Injured human dignity,,,0.6
+2020,,,Injured human dignity,,,0.64
 2020,,,Exercing parental rights,,,0.0
-2020,,,Other,,,0.3
-2020,,,,Direct,,0.8
-2020,,,,Indirect,,0.2
-2020,,,,By association,,0.0
-2020,,,,Instigation to discrimination,,0.5
-2020,,,,Harassment,,0.4
-2020,,,,Victimization,,0.0
-2020,,,,Refuse of reasonable accommodation,,0.8
+2020,,,Other,,,0.26
+2020,,,,Direct,,0.79
+2020,,,,Indirect,,0.22
+2020,,,,By association,,0.03
+2020,,,,Instigation to discrimination,,0.49
+2020,,,,Harassment,,0.45
+2020,,,,Victimization,,0.03
+2020,,,,Refuse of reasonable accommodation,,0.83
 2020,,,,Racial segregation,,0.0
-2020,,,,,Urban,2.7
-2020,,,,,Rural,0.4
-2021,,,,,,1.5
-2021,Men,,,,,0.7
-2021,Women,,,,,0.4
-2021,,Opinion,,,,0.1
-2021,,Disability,,,,0.1
+2020,,,,,Urban,2.68
+2020,,,,,Rural,0.45
+2021,,,,,,1.52
+2021,Men,,,,,0.72
+2021,Women,,,,,0.45
+2021,,Opinion,,,,0.11
+2021,,Disability,,,,0.11
 2021,,Social origin,,,,0.0
-2021,,Language,,,,0.2
-2021,,Sex/gender,,,,0.1
+2021,,Language,,,,0.22
+2021,,Sex/gender,,,,0.11
 2021,,HIV status,,,,0.0
-2021,,Sexual orientation,,,,0.1
+2021,,Sexual orientation,,,,0.11
 2021,,Religion/belief,,,,0.0
 2021,,Professional status,,,,0.0
 2021,,Civil status,,,,0.0
-2021,,Political affiliation,,,,0.1
+2021,,Political affiliation,,,,0.07
 2021,,Place of residence,,,,0.0
-2021,,Ethnical affiliation,,,,0.3
-2021,,Maternity,,,,0.0
+2021,,Ethnical affiliation,,,,0.26
+2021,,Maternity,,,,0.03
 2021,,Nationality,,,,0.0
-2021,,Age,,,,0.0
+2021,,Age,,,,0.03
 2021,,Race,,,,0.0
-2021,,Trade-union activity,,,,0.0
+2021,,Trade-union activity,,,,0.03
 2021,,Pensioner status,,,,0.0
-2021,,Other,,,,0.3
-2021,,,Discrimination on the labour market,,,0.4
-2021,,,Access to education,,,0.1
-2021,,,Access to goods and services available to the public,,,0.3
-2021,,,Access to justice,,,0.1
+2021,,Other,,,,0.26
+2021,,,Discrimination on the labour market,,,0.41
+2021,,,Access to education,,,0.11
+2021,,,Access to goods and services available to the public,,,0.34
+2021,,,Access to justice,,,0.15
 2021,,,Hate speech,,,0.0
-2021,,,Injured human dignity,,,0.4
+2021,,,Injured human dignity,,,0.38
 2021,,,Exercing parental rights,,,0.0
-2021,,,Other,,,0.1
+2021,,,Other,,,0.11
 2021,,,,Direct,,0.3
-2021,,,,Indirect,,0.0
-2021,,,,By association,,0.0
-2021,,,,Instigation to discrimination,,0.3
-2021,,,,Harassment,,0.2
-2021,,,,Victimization,,0.1
-2021,,,,Refuse of reasonable accommodation,,0.1
+2021,,,,Indirect,,0.03
+2021,,,,By association,,0.03
+2021,,,,Instigation to discrimination,,0.34
+2021,,,,Harassment,,0.19
+2021,,,,Victimization,,0.07
+2021,,,,Refuse of reasonable accommodation,,0.07
 2021,,,,Racial segregation,,0.0
-2021,,,,,Urban,1.2
-2021,,,,,Rural,0.3
-2022,,,,,,1.1
-2022,Men,,,,,0.5
+2021,,,,,Urban,1.18
+2021,,,,,Rural,0.34
+2022,,,,,,1.15
+2022,Men,,,,,0.46
 2022,Women,,,,,0.3
-2022,,Opinion,,,,0.0
-2022,,Disability,,,,0.1
+2022,,Opinion,,,,0.03
+2022,,Disability,,,,0.07
 2022,,Social origin,,,,0.0
-2022,,Language,,,,0.3
-2022,,Sex/gender,,,,0.0
+2022,,Language,,,,0.34
+2022,,Sex/gender,,,,0.03
 2022,,HIV status,,,,0.0
-2022,,Sexual orientation,,,,0.3
-2022,,Religion/belief,,,,0.1
-2022,,Professional status,,,,0.0
+2022,,Sexual orientation,,,,0.26
+2022,,Religion/belief,,,,0.07
+2022,,Professional status,,,,0.03
 2022,,Civil status,,,,0.0
-2022,,Political affiliation,,,,0.0
+2022,,Political affiliation,,,,0.03
 2022,,Place of residence,,,,0.0
-2022,,Ethnical affiliation,,,,0.1
+2022,,Ethnical affiliation,,,,0.07
 2022,,Maternity,,,,0.0
 2022,,Nationality,,,,0.0
 2022,,Age,,,,0.0
 2022,,Race,,,,0.0
 2022,,Trade-union activity,,,,0.0
-2022,,Pensioner status,,,,0.1
-2022,,Other,,,,0.0
-2022,,,Discrimination on the labour market,,,0.2
+2022,,Pensioner status,,,,0.07
+2022,,Other,,,,0.03
+2022,,,Discrimination on the labour market,,,0.19
 2022,,,Access to education,,,0.0
 2022,,,Access to goods and services available to the public,,,0.3
-2022,,,Access to justice,,,0.2
+2022,,,Access to justice,,,0.23
 2022,,,Hate speech,,,0.0
-2022,,,Injured human dignity,,,0.3
+2022,,,Injured human dignity,,,0.26
 2022,,,Exercing parental rights,,,0.0
-2022,,,Other,,,0.1
-2022,,,,Direct,,0.6
-2022,,,,Indirect,,0.1
-2022,,,,By association,,0.1
+2022,,,Other,,,0.07
+2022,,,,Direct,,0.61
+2022,,,,Indirect,,0.07
+2022,,,,By association,,0.11
 2022,,,,Instigation to discrimination,,0.3
-2022,,,,Harassment,,0.0
+2022,,,,Harassment,,0.03
 2022,,,,Victimization,,0.0
 2022,,,,Refuse of reasonable accommodation,,0.0
 2022,,,,Racial segregation,,0.0
-2022,,,,,Urban,0.9
-2022,,,,,Rural,0.2
+2022,,,,,Urban,0.92
+2022,,,,,Rural,0.23
+2023,,,,,,1.0
+2023,Men,,,,,0.6
+2023,Women,,,,,0.3
+2023,,Opinion,,,,0.0
+2023,,Disability,,,,0.39
+2023,,Social origin,,,,0.0
+2023,,Language,,,,0.39
+2023,,Sex/gender,,,,0.11
+2023,,HIV status,,,,0.0
+2023,,Sexual orientation,,,,0.03
+2023,,Religion/belief,,,,0.0
+2023,,Professional status,,,,0.03
+2023,,Civil status,,,,0.0
+2023,,Political affiliation,,,,0.0
+2023,,Place of residence,,,,0.0
+2023,,Ethnical affiliation,,,,0.03
+2023,,Maternity,,,,0.03
+2023,,Nationality,,,,0.03
+2023,,Age,,,,0.0
+2023,,Race,,,,0.0
+2023,,Trade-union activity,,,,0.03
+2023,,Pensioner status,,,,0.03
+2023,,Other,,,,0.07
+2023,,,Discrimination on the labour market,,,0.39
+2023,,,Access to education,,,0.0
+2023,,,Access to goods and services available to the public,,,0.79
+2023,,,Access to justice,,,0.07
+2023,,,Hate speech,,,0.0
+2023,,,Injured human dignity,,,0.15
+2023,,,Exercing parental rights,,,0.0
+2023,,,Other,,,0.07
+2023,,,,Direct,,0.59
+2023,,,,Indirect,,0.15
+2023,,,,By association,,0.0
+2023,,,,Instigation to discrimination,,0.15
+2023,,,,Harassment,,0.11
+2023,,,,Victimization,,0.0
+2023,,,,Refuse of reasonable accommodation,,0.03
+2023,,,,Racial segregation,,0.0
+2023,,,,,Urban,1.27
+2023,,,,,Rural,0.19

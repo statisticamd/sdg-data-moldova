@@ -15,6 +15,25 @@
             "type": "integer"
           },
           {
+            "name": "Genetic resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cattle, heads",
+                "Pigs, heads",
+                "Sheep, heads",
+                "Goats, heads",
+                "Horses, heads",
+                "Rabbits, heads",
+                "Birds, heads",
+                "Fish, heads",
+                "Bees, families",
+                "Plant genetic resources (samples)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

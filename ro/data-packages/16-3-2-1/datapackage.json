@@ -59,7 +59,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " ",
                 "Mintală",
                 "Intelectuală",
                 "Senzorială",

@@ -661,7 +661,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
                 "15-24",
                 "25-34",
                 "35-44",
@@ -1326,6 +1325,26 @@
             "title": "Year"
           },
           {
+            "name": "Genetic resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cattle, heads",
+                "Pigs, heads",
+                "Sheep, heads",
+                "Goats, heads",
+                "Horses, heads",
+                "Rabbits, heads",
+                "Birds, heads",
+                "Fish, heads",
+                "Bees, families",
+                "Plant genetic resources (samples)",
+                ""
+              ]
+            },
+            "title": "Genetic resources"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1433,18 +1452,18 @@
             "title": "Year"
           },
           {
-            "name": "Tipuri SE",
+            "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tehnogen",
-                "Natural (pe genuri)",
-                "Biologico-social",
-                "Incendii",
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
                 ""
               ]
             },
-            "title": "Tipuri SE"
+            "title": "Classes of disasters"
           },
           {
             "name": "Value",
@@ -3550,39 +3569,27 @@
             "title": "Year"
           },
           {
-            "name": "Rare species ",
+            "name": "Cattle",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
+                "Baltata with Black Moldavian type",
                 ""
               ]
             },
-            "title": "Rare species "
+            "title": "Cattle"
           },
           {
-            "name": "Local species",
+            "name": "Sheep",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
+                "Caracul",
+                "Tigaie",
                 ""
               ]
             },
-            "title": "Local species"
-          },
-          {
-            "name": "Disappearance risk categories",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Disappearance risk categories"
+            "title": "Sheep"
           },
           {
             "name": "Value",
@@ -8525,7 +8532,6 @@
             "constraints": {
               "enum": [
                 "Mun. Chisinau",
-                "North",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -8538,7 +8544,6 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -8552,7 +8557,6 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -9492,18 +9496,6 @@
             "title": "Age group"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Area of residence"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9616,26 +9608,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0-15",
                 "15-24",
                 "25-34",
                 "35-44",
                 "45-54",
+                "16-55",
                 "55+",
                 ""
               ]
             },
             "title": "Age group"
-          },
-          {
-            "name": "Diseases",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxx",
-                ""
-              ]
-            },
-            "title": "Diseases"
           },
           {
             "name": "Value",
@@ -10513,7 +10496,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " ",
                 "Mental",
                 "Intellectual",
                 "Sensory",
@@ -10794,7 +10776,7 @@
           }
         ]
       },
-      "title": "national_indicators.14-4-1-1--title"
+      "title": "Number of violations registered on illegal fishing"
     },
     {
       "path": "11-5-1-a/data.csv",
@@ -12181,7 +12163,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Industry",
+                "Industry and constructions",
                 "Transport",
                 "Residential sector (population)",
                 "Services",
@@ -12216,38 +12198,38 @@
             "title": "Year"
           },
           {
-            "name": "Classes of disasters",
+            "name": "Clase situațiilor excepționale",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             },
-            "title": "Classes of disasters"
+            "title": "Clase situațiilor excepționale"
           },
           {
-            "name": "Age group",
+            "name": "Grupa de vârstă",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -13262,6 +13244,19 @@
             "title": "Age group"
           },
           {
+            "name": "Forms of violence ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological violence",
+                "Physical violence",
+                "Sexual violence",
+                ""
+              ]
+            },
+            "title": "Forms of violence "
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -13564,7 +13559,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Including children (0-17 years)",
+                "0-17 years",
                 "18 years and over",
                 ""
               ]
@@ -14759,18 +14754,6 @@
               ]
             },
             "title": "Status"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Area of residence"
           },
           {
             "name": "Value",

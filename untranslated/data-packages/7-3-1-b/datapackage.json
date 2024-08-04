@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Industry",
+                "Industry and constructions",
                 "Transport",
                 "Residential sector (population)",
                 "Services",

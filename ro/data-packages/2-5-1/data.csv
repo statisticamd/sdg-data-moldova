@@ -1,14 +1,144 @@
-Year,Value
-2010,
-2011,
-2012,
-2013,
-2014,
-2015,
-2016,
-2017,
-2018,
-2019,
-2020,
-2021,
-2022,
+Year,Resurse genetice,Value
+2010,,
+2010,"Bovine, capete",
+2010,"Porcine, capete",
+2010,"Ovine, capete",
+2010,"Caprine, capete",
+2010,"Cabaline, capete",
+2010,"Iepuri, capete",
+2010,"Păsări, capete",
+2010,"Piscicole (pești), capete",
+2010,"Apicole (albini), familii",
+2010,Resurse genetice vegetale (mostre),6415.0
+2011,,
+2011,"Bovine, capete",
+2011,"Porcine, capete",
+2011,"Ovine, capete",
+2011,"Caprine, capete",
+2011,"Cabaline, capete",
+2011,"Iepuri, capete",
+2011,"Păsări, capete",
+2011,"Piscicole (pești), capete",
+2011,"Apicole (albini), familii",
+2011,Resurse genetice vegetale (mostre),6415.0
+2012,,
+2012,"Bovine, capete",
+2012,"Porcine, capete",
+2012,"Ovine, capete",
+2012,"Caprine, capete",
+2012,"Cabaline, capete",
+2012,"Iepuri, capete",
+2012,"Păsări, capete",
+2012,"Piscicole (pești), capete",
+2012,"Apicole (albini), familii",
+2012,Resurse genetice vegetale (mostre),
+2013,,
+2013,"Bovine, capete",
+2013,"Porcine, capete",
+2013,"Ovine, capete",
+2013,"Caprine, capete",
+2013,"Cabaline, capete",
+2013,"Iepuri, capete",
+2013,"Păsări, capete",
+2013,"Piscicole (pești), capete",
+2013,"Apicole (albini), familii",
+2013,Resurse genetice vegetale (mostre),
+2014,,
+2014,"Bovine, capete",
+2014,"Porcine, capete",
+2014,"Ovine, capete",
+2014,"Caprine, capete",
+2014,"Cabaline, capete",
+2014,"Iepuri, capete",
+2014,"Păsări, capete",
+2014,"Piscicole (pești), capete",
+2014,"Apicole (albini), familii",
+2014,Resurse genetice vegetale (mostre),
+2015,,
+2015,"Bovine, capete",
+2015,"Porcine, capete",
+2015,"Ovine, capete",
+2015,"Caprine, capete",
+2015,"Cabaline, capete",
+2015,"Iepuri, capete",
+2015,"Păsări, capete",
+2015,"Piscicole (pești), capete",
+2015,"Apicole (albini), familii",
+2015,Resurse genetice vegetale (mostre),
+2016,,
+2016,"Bovine, capete",3522.0
+2016,"Porcine, capete",2671.0
+2016,"Ovine, capete",14132.0
+2016,"Caprine, capete",180.0
+2016,"Cabaline, capete",162.0
+2016,"Iepuri, capete",486.0
+2016,"Păsări, capete",129997.0
+2016,"Piscicole (pești), capete",2316.0
+2016,"Apicole (albini), familii",240.0
+2016,Resurse genetice vegetale (mostre),6415.0
+2017,,
+2017,"Bovine, capete",3558.0
+2017,"Porcine, capete",6138.0
+2017,"Ovine, capete",10231.0
+2017,"Caprine, capete",269.0
+2017,"Cabaline, capete",170.0
+2017,"Iepuri, capete",74.0
+2017,"Păsări, capete",150982.0
+2017,"Piscicole (pești), capete",2580.0
+2017,"Apicole (albini), familii",100.0
+2017,Resurse genetice vegetale (mostre),6415.0
+2018,,
+2018,"Bovine, capete",2948.0
+2018,"Porcine, capete",4497.0
+2018,"Ovine, capete",7519.0
+2018,"Caprine, capete",216.0
+2018,"Cabaline, capete",60.0
+2018,"Iepuri, capete",77.0
+2018,"Păsări, capete",
+2018,"Piscicole (pești), capete",946.0
+2018,"Apicole (albini), familii",120.0
+2018,Resurse genetice vegetale (mostre),6415.0
+2019,,
+2019,"Bovine, capete",2781.0
+2019,"Porcine, capete",5377.0
+2019,"Ovine, capete",6427.0
+2019,"Caprine, capete",118.0
+2019,"Cabaline, capete",56.0
+2019,"Iepuri, capete",
+2019,"Păsări, capete",
+2019,"Piscicole (pești), capete",796.0
+2019,"Apicole (albini), familii",210.0
+2019,Resurse genetice vegetale (mostre),6012.0
+2020,,
+2020,"Bovine, capete",4358.0
+2020,"Porcine, capete",5055.0
+2020,"Ovine, capete",4592.0
+2020,"Caprine, capete",84.0
+2020,"Cabaline, capete",
+2020,"Iepuri, capete",
+2020,"Păsări, capete",
+2020,"Piscicole (pești), capete",1473.0
+2020,"Apicole (albini), familii",405.0
+2020,Resurse genetice vegetale (mostre),6012.0
+2021,,
+2021,"Bovine, capete",4997.0
+2021,"Porcine, capete",4265.0
+2021,"Ovine, capete",4111.0
+2021,"Caprine, capete",77.0
+2021,"Cabaline, capete",49.0
+2021,"Iepuri, capete",
+2021,"Păsări, capete",
+2021,"Piscicole (pești), capete",1279.0
+2021,"Apicole (albini), familii",665.0
+2021,Resurse genetice vegetale (mostre),6012.0
+2022,,
+2022,"Bovine, capete",5108.0
+2022,"Porcine, capete",3904.0
+2022,"Ovine, capete",3194.0
+2022,"Caprine, capete",55.0
+2022,"Cabaline, capete",49.0
+2022,"Iepuri, capete",
+2022,"Păsări, capete",15564.0
+2022,"Piscicole (pești), capete",
+2022,"Apicole (albini), familii",1934.0
+2022,Resurse genetice vegetale (mostre),6012.0

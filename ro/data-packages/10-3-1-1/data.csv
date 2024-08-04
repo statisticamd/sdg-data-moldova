@@ -163,37 +163,37 @@ Year,Sexul petiționarului,Criterii de discriminare,Domeniul de discriminare,For
 2013,,,,Segregare rasială,,
 2013,,,,,Urban,
 2013,,,,,Rural,
-2014,,,,,,2.3
+2014,,,,,,2.27
 2014,Bărbați,,,,,
 2014,Femei,,,,,
 2014,,Opinie,,,,0.0
-2014,,Dizabilitate,,,,0.5
-2014,,Origine socială,,,,0.1
+2014,,Dizabilitate,,,,0.49
+2014,,Origine socială,,,,0.07
 2014,,Limbă,,,,0.0
-2014,,Sex/gen,,,,0.4
+2014,,Sex/gen,,,,0.45
 2014,,Statutul HIV,,,,0.0
-2014,,Orientarea sexuală,,,,0.2
-2014,,Religie/convingeri,,,,0.2
+2014,,Orientarea sexuală,,,,0.17
+2014,,Religie/convingeri,,,,0.17
 2014,,Statut profesional,,,,0.1
 2014,,Statut matrimonial,,,,0.1
-2014,,Apartenență politică,,,,0.1
-2014,,Loc de trai,,,,0.1
-2014,,Apartenență etnică,,,,0.0
-2014,,Maternitate,,,,0.0
-2014,,Naționalitate,,,,0.0
+2014,,Apartenență politică,,,,0.07
+2014,,Loc de trai,,,,0.07
+2014,,Apartenență etnică,,,,0.03
+2014,,Maternitate,,,,0.03
+2014,,Naționalitate,,,,0.03
 2014,,Vârsta,,,,0.0
 2014,,Rasă,,,,0.0
 2014,,Activitate sindicală,,,,0.0
 2014,,Statut de pensionar,,,,0.0
 2014,,Alte,,,,0.0
-2014,,,Discriminare în câmpul muncii,,,0.3
+2014,,,Discriminare în câmpul muncii,,,0.31
 2014,,,Acces la învățământ,,,0.1
 2014,,,Acces la bunuri și servicii disponibile publicului,,,0.7
-2014,,,Acces la justiție,,,0.2
+2014,,,Acces la justiție,,,0.21
 2014,,,Discurs de ură,,,0.0
-2014,,,Lezarea demnității umane,,,0.2
+2014,,,Lezarea demnității umane,,,0.21
 2014,,,Exercitarea drepturilor părintești,,,0.1
-2014,,,Alte,,,0.0
+2014,,,Alte,,,0.03
 2014,,,,Discriminare directă,,0.0
 2014,,,,Discriminare indirectă,,0.0
 2014,,,,Discriminare prin asociere,,0.0
@@ -204,331 +204,372 @@ Year,Sexul petiționarului,Criterii de discriminare,Domeniul de discriminare,For
 2014,,,,Segregare rasială,,0.0
 2014,,,,,Urban,
 2014,,,,,Rural,
-2015,,,,,,1.3
+2015,,,,,,1.27
 2015,Bărbați,,,,,
 2015,Femei,,,,,
-2015,,Opinie,,,,0.1
-2015,,Dizabilitate,,,,0.3
+2015,,Opinie,,,,0.14
+2015,,Dizabilitate,,,,0.28
 2015,,Origine socială,,,,0.0
-2015,,Limbă,,,,0.1
-2015,,Sex/gen,,,,0.3
+2015,,Limbă,,,,0.14
+2015,,Sex/gen,,,,0.28
 2015,,Statutul HIV,,,,0.0
-2015,,Orientarea sexuală,,,,0.1
+2015,,Orientarea sexuală,,,,0.07
 2015,,Religie/convingeri,,,,0.0
 2015,,Statut profesional,,,,0.0
 2015,,Statut matrimonial,,,,0.0
 2015,,Apartenență politică,,,,0.0
-2015,,Loc de trai,,,,0.1
-2015,,Apartenență etnică,,,,0.1
-2015,,Maternitate,,,,0.0
-2015,,Naționalitate,,,,0.0
-2015,,Vârsta,,,,0.1
-2015,,Rasă,,,,0.1
+2015,,Loc de trai,,,,0.07
+2015,,Apartenență etnică,,,,0.14
+2015,,Maternitate,,,,0.04
+2015,,Naționalitate,,,,0.04
+2015,,Vârsta,,,,0.11
+2015,,Rasă,,,,0.14
 2015,,Activitate sindicală,,,,0.0
 2015,,Statut de pensionar,,,,0.0
 2015,,Alte,,,,0.0
-2015,,,Discriminare în câmpul muncii,,,0.3
-2015,,,Acces la învățământ,,,0.0
-2015,,,Acces la bunuri și servicii disponibile publicului,,,0.6
+2015,,,Discriminare în câmpul muncii,,,0.35
+2015,,,Acces la învățământ,,,0.04
+2015,,,Acces la bunuri și servicii disponibile publicului,,,0.56
 2015,,,Acces la justiție,,,0.0
 2015,,,Discurs de ură,,,0.0
-2015,,,Lezarea demnității umane,,,0.1
-2015,,,Exercitarea drepturilor părintești,,,0.1
-2015,,,Alte,,,0.0
-2015,,,,Discriminare directă,,0.9
-2015,,,,Discriminare indirectă,,0.0
-2015,,,,Discriminare prin asociere,,0.0
-2015,,,,Instigare la discriminare,,0.1
-2015,,,,Hărțuire,,0.1
-2015,,,,Victimizare,,0.0
-2015,,,,Refuz în acomodare rezonabilă,,0.2
+2015,,,Lezarea demnității umane,,,0.14
+2015,,,Exercitarea drepturilor părintești,,,0.07
+2015,,,Alte,,,0.04
+2015,,,,Discriminare directă,,0.91
+2015,,,,Discriminare indirectă,,0.04
+2015,,,,Discriminare prin asociere,,0.04
+2015,,,,Instigare la discriminare,,0.11
+2015,,,,Hărțuire,,0.07
+2015,,,,Victimizare,,0.04
+2015,,,,Refuz în acomodare rezonabilă,,0.25
 2015,,,,Segregare rasială,,0.0
 2015,,,,,Urban,
 2015,,,,,Rural,
-2016,,,,,,1.5
-2016,Bărbați,,,,,1.6
-2016,Femei,,,,,1.0
+2016,,,,,,1.49
+2016,Bărbați,,,,,1.55
+2016,Femei,,,,,1.02
 2016,,Opinie,,,,0.0
-2016,,Dizabilitate,,,,0.8
-2016,,Origine socială,,,,0.0
-2016,,Limbă,,,,0.1
-2016,,Sex/gen,,,,0.3
-2016,,Statutul HIV,,,,0.0
+2016,,Dizabilitate,,,,0.78
+2016,,Origine socială,,,,0.04
+2016,,Limbă,,,,0.11
+2016,,Sex/gen,,,,0.28
+2016,,Statutul HIV,,,,0.04
 2016,,Orientarea sexuală,,,,0.0
 2016,,Religie/convingeri,,,,0.0
 2016,,Statut profesional,,,,0.0
 2016,,Statut matrimonial,,,,0.0
 2016,,Apartenență politică,,,,0.0
 2016,,Loc de trai,,,,0.0
-2016,,Apartenență etnică,,,,0.0
-2016,,Maternitate,,,,0.0
-2016,,Naționalitate,,,,0.0
-2016,,Vârsta,,,,0.1
+2016,,Apartenență etnică,,,,0.04
+2016,,Maternitate,,,,0.04
+2016,,Naționalitate,,,,0.04
+2016,,Vârsta,,,,0.07
 2016,,Rasă,,,,0.0
 2016,,Activitate sindicală,,,,0.0
 2016,,Statut de pensionar,,,,0.0
-2016,,Alte,,,,0.0
-2016,,,Discriminare în câmpul muncii,,,0.1
-2016,,,Acces la învățământ,,,0.0
-2016,,,Acces la bunuri și servicii disponibile publicului,,,0.4
-2016,,,Acces la justiție,,,0.2
+2016,,Alte,,,,0.04
+2016,,,Discriminare în câmpul muncii,,,0.11
+2016,,,Acces la învățământ,,,0.04
+2016,,,Acces la bunuri și servicii disponibile publicului,,,0.39
+2016,,,Acces la justiție,,,0.18
 2016,,,Discurs de ură,,,0.0
 2016,,,Lezarea demnității umane,,,0.0
 2016,,,Exercitarea drepturilor părintești,,,0.0
 2016,,,Alte,,,0.0
-2016,,,,Discriminare directă,,0.1
-2016,,,,Discriminare indirectă,,0.1
-2016,,,,Discriminare prin asociere,,0.0
+2016,,,,Discriminare directă,,0.14
+2016,,,,Discriminare indirectă,,0.11
+2016,,,,Discriminare prin asociere,,0.04
 2016,,,,Instigare la discriminare,,0.0
-2016,,,,Hărțuire,,0.1
+2016,,,,Hărțuire,,0.07
 2016,,,,Victimizare,,0.0
 2016,,,,Refuz în acomodare rezonabilă,,0.0
 2016,,,,Segregare rasială,,0.0
-2016,,,,,Urban,1.2
-2016,,,,,Rural,0.2
-2017,,,,,,2.0
+2016,,,,,Urban,1.23
+2016,,,,,Rural,0.17
+2017,,,,,,1.98
 2017,Bărbați,,,,,1.8
-2017,Femei,,,,,1.0
+2017,Femei,,,,,1.04
 2017,,Opinie,,,,0.0
-2017,,Dizabilitate,,,,1.0
-2017,,Origine socială,,,,0.1
-2017,,Limbă,,,,0.2
-2017,,Sex/gen,,,,0.3
-2017,,Statutul HIV,,,,0.0
-2017,,Orientarea sexuală,,,,0.0
-2017,,Religie/convingeri,,,,0.1
-2017,,Statut profesional,,,,0.1
+2017,,Dizabilitate,,,,1.01
+2017,,Origine socială,,,,0.14
+2017,,Limbă,,,,0.22
+2017,,Sex/gen,,,,0.32
+2017,,Statutul HIV,,,,0.04
+2017,,Orientarea sexuală,,,,0.04
+2017,,Religie/convingeri,,,,0.07
+2017,,Statut profesional,,,,0.14
 2017,,Statut matrimonial,,,,0.0
 2017,,Apartenență politică,,,,0.0
-2017,,Loc de trai,,,,0.0
+2017,,Loc de trai,,,,0.04
 2017,,Apartenență etnică,,,,0.0
 2017,,Maternitate,,,,0.0
 2017,,Naționalitate,,,,0.0
-2017,,Vârsta,,,,0.4
-2017,,Rasă,,,,0.1
+2017,,Vârsta,,,,0.36
+2017,,Rasă,,,,0.14
 2017,,Activitate sindicală,,,,0.0
 2017,,Statut de pensionar,,,,0.0
 2017,,Alte,,,,0.0
-2017,,,Discriminare în câmpul muncii,,,0.4
-2017,,,Acces la învățământ,,,0.0
-2017,,,Acces la bunuri și servicii disponibile publicului,,,1.3
-2017,,,Acces la justiție,,,0.2
+2017,,,Discriminare în câmpul muncii,,,0.36
+2017,,,Acces la învățământ,,,0.04
+2017,,,Acces la bunuri și servicii disponibile publicului,,,1.26
+2017,,,Acces la justiție,,,0.22
 2017,,,Discurs de ură,,,0.0
-2017,,,Lezarea demnității umane,,,0.4
+2017,,,Lezarea demnității umane,,,0.36
 2017,,,Exercitarea drepturilor părintești,,,0.0
 2017,,,Alte,,,0.0
-2017,,,,Discriminare directă,,1.0
-2017,,,,Discriminare indirectă,,0.3
-2017,,,,Discriminare prin asociere,,0.1
-2017,,,,Instigare la discriminare,,0.2
-2017,,,,Hărțuire,,0.0
-2017,,,,Victimizare,,0.1
-2017,,,,Refuz în acomodare rezonabilă,,0.2
+2017,,,,Discriminare directă,,1.04
+2017,,,,Discriminare indirectă,,0.32
+2017,,,,Discriminare prin asociere,,0.07
+2017,,,,Instigare la discriminare,,0.18
+2017,,,,Hărțuire,,0.04
+2017,,,,Victimizare,,0.11
+2017,,,,Refuz în acomodare rezonabilă,,0.22
 2017,,,,Segregare rasială,,0.0
-2017,,,,,Urban,1.3
-2017,,,,,Rural,0.3
-2018,,,,,,3.1
-2018,Bărbați,,,,,1.8
-2018,Femei,,,,,1.0
-2018,,Opinie,,,,0.2
-2018,,Dizabilitate,,,,0.3
-2018,,Origine socială,,,,0.0
-2018,,Limbă,,,,0.9
+2017,,,,,Urban,1.33
+2017,,,,,Rural,0.32
+2018,,,,,,3.07
+2018,Bărbați,,,,,1.75
+2018,Femei,,,,,1.02
+2018,,Opinie,,,,0.21
+2018,,Dizabilitate,,,,0.32
+2018,,Origine socială,,,,0.03
+2018,,Limbă,,,,0.95
 2018,,Sex/gen,,,,0.4
 2018,,Statutul HIV,,,,0.0
 2018,,Orientarea sexuală,,,,0.0
-2018,,Religie/convingeri,,,,0.2
+2018,,Religie/convingeri,,,,0.18
 2018,,Statut profesional,,,,0.0
-2018,,Statut matrimonial,,,,0.0
-2018,,Apartenență politică,,,,0.2
-2018,,Loc de trai,,,,0.0
-2018,,Apartenență etnică,,,,0.1
-2018,,Maternitate,,,,0.1
-2018,,Naționalitate,,,,0.4
-2018,,Vârsta,,,,0.3
+2018,,Statut matrimonial,,,,0.03
+2018,,Apartenență politică,,,,0.18
+2018,,Loc de trai,,,,0.03
+2018,,Apartenență etnică,,,,0.14
+2018,,Maternitate,,,,0.07
+2018,,Naționalitate,,,,0.43
+2018,,Vârsta,,,,0.32
 2018,,Rasă,,,,0.0
-2018,,Activitate sindicală,,,,0.1
-2018,,Statut de pensionar,,,,0.0
-2018,,Alte,,,,0.1
-2018,,,Discriminare în câmpul muncii,,,1.1
-2018,,,Acces la învățământ,,,0.1
-2018,,,Acces la bunuri și servicii disponibile publicului,,,0.8
-2018,,,Acces la justiție,,,0.8
+2018,,Activitate sindicală,,,,0.07
+2018,,Statut de pensionar,,,,0.03
+2018,,Alte,,,,0.07
+2018,,,Discriminare în câmpul muncii,,,1.06
+2018,,,Acces la învățământ,,,0.14
+2018,,,Acces la bunuri și servicii disponibile publicului,,,0.84
+2018,,,Acces la justiție,,,0.84
 2018,,,Discurs de ură,,,0.0
-2018,,,Lezarea demnității umane,,,0.2
+2018,,,Lezarea demnității umane,,,0.18
 2018,,,Exercitarea drepturilor părintești,,,0.0
 2018,,,Alte,,,0.0
 2018,,,,Discriminare directă,,1.9
 2018,,,,Discriminare indirectă,,0.1
-2018,,,,Discriminare prin asociere,,0.0
-2018,,,,Instigare la discriminare,,0.2
-2018,,,,Hărțuire,,0.4
+2018,,,,Discriminare prin asociere,,0.03
+2018,,,,Instigare la discriminare,,0.21
+2018,,,,Hărțuire,,0.36
 2018,,,,Victimizare,,0.1
-2018,,,,Refuz în acomodare rezonabilă,,0.3
+2018,,,,Refuz în acomodare rezonabilă,,0.29
 2018,,,,Segregare rasială,,0.0
-2018,,,,,Urban,2.3
-2018,,,,,Rural,0.7
-2019,,,,,,2.9
+2018,,,,,Urban,2.34
+2018,,,,,Rural,0.73
+2019,,,,,,2.86
 2019,Bărbați,,,,,1.3
-2019,Femei,,,,,1.1
-2019,,Opinie,,,,0.1
-2019,,Dizabilitate,,,,0.3
-2019,,Origine socială,,,,0.0
-2019,,Limbă,,,,0.7
-2019,,Sex/gen,,,,0.6
-2019,,Statutul HIV,,,,0.1
+2019,Femei,,,,,1.11
+2019,,Opinie,,,,0.14
+2019,,Dizabilitate,,,,0.33
+2019,,Origine socială,,,,0.03
+2019,,Limbă,,,,0.74
+2019,,Sex/gen,,,,0.55
+2019,,Statutul HIV,,,,0.07
 2019,,Orientarea sexuală,,,,0.0
-2019,,Religie/convingeri,,,,0.1
-2019,,Statut profesional,,,,0.1
+2019,,Religie/convingeri,,,,0.14
+2019,,Statut profesional,,,,0.07
 2019,,Statut matrimonial,,,,0.0
 2019,,Apartenență politică,,,,0.0
-2019,,Loc de trai,,,,0.0
-2019,,Apartenență etnică,,,,0.1
-2019,,Maternitate,,,,0.0
+2019,,Loc de trai,,,,0.03
+2019,,Apartenență etnică,,,,0.07
+2019,,Maternitate,,,,0.03
 2019,,Naționalitate,,,,0.0
-2019,,Vârsta,,,,0.1
+2019,,Vârsta,,,,0.14
 2019,,Rasă,,,,0.0
 2019,,Activitate sindicală,,,,0.0
-2019,,Statut de pensionar,,,,0.1
-2019,,Alte,,,,0.0
-2019,,,Discriminare în câmpul muncii,,,0.5
-2019,,,Acces la învățământ,,,0.2
-2019,,,Acces la bunuri și servicii disponibile publicului,,,0.9
-2019,,,Acces la justiție,,,0.6
+2019,,Statut de pensionar,,,,0.14
+2019,,Alte,,,,0.03
+2019,,,Discriminare în câmpul muncii,,,0.48
+2019,,,Acces la învățământ,,,0.22
+2019,,,Acces la bunuri și servicii disponibile publicului,,,0.93
+2019,,,Acces la justiție,,,0.63
 2019,,,Discurs de ură,,,0.0
-2019,,,Lezarea demnității umane,,,0.6
+2019,,,Lezarea demnității umane,,,0.55
 2019,,,Exercitarea drepturilor părintești,,,0.0
-2019,,,Alte,,,0.0
-2019,,,,Discriminare directă,,0.6
-2019,,,,Discriminare indirectă,,0.5
+2019,,,Alte,,,0.03
+2019,,,,Discriminare directă,,0.55
+2019,,,,Discriminare indirectă,,0.48
 2019,,,,Discriminare prin asociere,,0.0
-2019,,,,Instigare la discriminare,,0.4
+2019,,,,Instigare la discriminare,,0.37
 2019,,,,Hărțuire,,0.4
-2019,,,,Victimizare,,0.1
-2019,,,,Refuz în acomodare rezonabilă,,0.9
+2019,,,,Victimizare,,0.07
+2019,,,,Refuz în acomodare rezonabilă,,0.89
 2019,,,,Segregare rasială,,0.0
-2019,,,,,Urban,2.3
-2019,,,,,Rural,0.6
-2020,,,,,,3.1
-2020,Bărbați,,,,,1.4
-2020,Femei,,,,,1.2
-2020,,Opinie,,,,0.2
-2020,,Dizabilitate,,,,0.5
-2020,,Origine socială,,,,0.1
-2020,,Limbă,,,,0.5
-2020,,Sex/gen,,,,0.5
-2020,,Statutul HIV,,,,0.0
-2020,,Orientarea sexuală,,,,0.1
-2020,,Religie/convingeri,,,,0.0
-2020,,Statut profesional,,,,0.0
+2019,,,,,Urban,2.27
+2019,,,,,Rural,0.59
+2020,,,,,,3.13
+2020,Bărbați,,,,,1.36
+2020,Femei,,,,,1.21
+2020,,Opinie,,,,0.18
+2020,,Dizabilitate,,,,0.49
+2020,,Origine socială,,,,0.07
+2020,,Limbă,,,,0.52
+2020,,Sex/gen,,,,0.49
+2020,,Statutul HIV,,,,0.03
+2020,,Orientarea sexuală,,,,0.07
+2020,,Religie/convingeri,,,,0.03
+2020,,Statut profesional,,,,0.03
 2020,,Statut matrimonial,,,,0.0
 2020,,Apartenență politică,,,,0.0
 2020,,Loc de trai,,,,0.0
-2020,,Apartenență etnică,,,,0.1
-2020,,Maternitate,,,,0.1
+2020,,Apartenență etnică,,,,0.07
+2020,,Maternitate,,,,0.07
 2020,,Naționalitate,,,,0.0
-2020,,Vârsta,,,,0.2
+2020,,Vârsta,,,,0.18
 2020,,Rasă,,,,0.0
 2020,,Activitate sindicală,,,,0.0
-2020,,Statut de pensionar,,,,0.1
-2020,,Alte,,,,0.2
+2020,,Statut de pensionar,,,,0.07
+2020,,Alte,,,,0.18
 2020,,,Discriminare în câmpul muncii,,,0.9
-2020,,,Acces la învățământ,,,0.2
-2020,,,Acces la bunuri și servicii disponibile publicului,,,0.7
-2020,,,Acces la justiție,,,0.4
+2020,,,Acces la învățământ,,,0.22
+2020,,,Acces la bunuri și servicii disponibile publicului,,,0.68
+2020,,,Acces la justiție,,,0.41
 2020,,,Discurs de ură,,,0.0
-2020,,,Lezarea demnității umane,,,0.6
+2020,,,Lezarea demnității umane,,,0.64
 2020,,,Exercitarea drepturilor părintești,,,0.0
-2020,,,Alte,,,0.3
-2020,,,,Discriminare directă,,0.8
-2020,,,,Discriminare indirectă,,0.2
-2020,,,,Discriminare prin asociere,,0.0
-2020,,,,Instigare la discriminare,,0.5
-2020,,,,Hărțuire,,0.4
-2020,,,,Victimizare,,0.0
-2020,,,,Refuz în acomodare rezonabilă,,0.8
+2020,,,Alte,,,0.26
+2020,,,,Discriminare directă,,0.79
+2020,,,,Discriminare indirectă,,0.22
+2020,,,,Discriminare prin asociere,,0.03
+2020,,,,Instigare la discriminare,,0.49
+2020,,,,Hărțuire,,0.45
+2020,,,,Victimizare,,0.03
+2020,,,,Refuz în acomodare rezonabilă,,0.83
 2020,,,,Segregare rasială,,0.0
-2020,,,,,Urban,2.7
-2020,,,,,Rural,0.4
-2021,,,,,,1.5
-2021,Bărbați,,,,,0.7
-2021,Femei,,,,,0.4
-2021,,Opinie,,,,0.1
-2021,,Dizabilitate,,,,0.1
+2020,,,,,Urban,2.68
+2020,,,,,Rural,0.45
+2021,,,,,,1.52
+2021,Bărbați,,,,,0.72
+2021,Femei,,,,,0.45
+2021,,Opinie,,,,0.11
+2021,,Dizabilitate,,,,0.11
 2021,,Origine socială,,,,0.0
-2021,,Limbă,,,,0.2
-2021,,Sex/gen,,,,0.1
+2021,,Limbă,,,,0.22
+2021,,Sex/gen,,,,0.11
 2021,,Statutul HIV,,,,0.0
-2021,,Orientarea sexuală,,,,0.1
+2021,,Orientarea sexuală,,,,0.11
 2021,,Religie/convingeri,,,,0.0
 2021,,Statut profesional,,,,0.0
 2021,,Statut matrimonial,,,,0.0
-2021,,Apartenență politică,,,,0.1
+2021,,Apartenență politică,,,,0.07
 2021,,Loc de trai,,,,0.0
-2021,,Apartenență etnică,,,,0.3
-2021,,Maternitate,,,,0.0
+2021,,Apartenență etnică,,,,0.26
+2021,,Maternitate,,,,0.03
 2021,,Naționalitate,,,,0.0
-2021,,Vârsta,,,,0.0
+2021,,Vârsta,,,,0.03
 2021,,Rasă,,,,0.0
-2021,,Activitate sindicală,,,,0.0
+2021,,Activitate sindicală,,,,0.03
 2021,,Statut de pensionar,,,,0.0
-2021,,Alte,,,,0.3
-2021,,,Discriminare în câmpul muncii,,,0.4
-2021,,,Acces la învățământ,,,0.1
-2021,,,Acces la bunuri și servicii disponibile publicului,,,0.3
-2021,,,Acces la justiție,,,0.1
+2021,,Alte,,,,0.26
+2021,,,Discriminare în câmpul muncii,,,0.41
+2021,,,Acces la învățământ,,,0.11
+2021,,,Acces la bunuri și servicii disponibile publicului,,,0.34
+2021,,,Acces la justiție,,,0.15
 2021,,,Discurs de ură,,,0.0
-2021,,,Lezarea demnității umane,,,0.4
+2021,,,Lezarea demnității umane,,,0.38
 2021,,,Exercitarea drepturilor părintești,,,0.0
-2021,,,Alte,,,0.1
+2021,,,Alte,,,0.11
 2021,,,,Discriminare directă,,0.3
-2021,,,,Discriminare indirectă,,0.0
-2021,,,,Discriminare prin asociere,,0.0
-2021,,,,Instigare la discriminare,,0.3
-2021,,,,Hărțuire,,0.2
-2021,,,,Victimizare,,0.1
-2021,,,,Refuz în acomodare rezonabilă,,0.1
+2021,,,,Discriminare indirectă,,0.03
+2021,,,,Discriminare prin asociere,,0.03
+2021,,,,Instigare la discriminare,,0.34
+2021,,,,Hărțuire,,0.19
+2021,,,,Victimizare,,0.07
+2021,,,,Refuz în acomodare rezonabilă,,0.07
 2021,,,,Segregare rasială,,0.0
-2021,,,,,Urban,1.2
-2021,,,,,Rural,0.3
-2022,,,,,,1.1
-2022,Bărbați,,,,,0.5
+2021,,,,,Urban,1.18
+2021,,,,,Rural,0.34
+2022,,,,,,1.15
+2022,Bărbați,,,,,0.46
 2022,Femei,,,,,0.3
-2022,,Opinie,,,,0.0
-2022,,Dizabilitate,,,,0.1
+2022,,Opinie,,,,0.03
+2022,,Dizabilitate,,,,0.07
 2022,,Origine socială,,,,0.0
-2022,,Limbă,,,,0.3
-2022,,Sex/gen,,,,0.0
+2022,,Limbă,,,,0.34
+2022,,Sex/gen,,,,0.03
 2022,,Statutul HIV,,,,0.0
-2022,,Orientarea sexuală,,,,0.3
-2022,,Religie/convingeri,,,,0.1
-2022,,Statut profesional,,,,0.0
+2022,,Orientarea sexuală,,,,0.26
+2022,,Religie/convingeri,,,,0.07
+2022,,Statut profesional,,,,0.03
 2022,,Statut matrimonial,,,,0.0
-2022,,Apartenență politică,,,,0.0
+2022,,Apartenență politică,,,,0.03
 2022,,Loc de trai,,,,0.0
-2022,,Apartenență etnică,,,,0.1
+2022,,Apartenență etnică,,,,0.07
 2022,,Maternitate,,,,0.0
 2022,,Naționalitate,,,,0.0
 2022,,Vârsta,,,,0.0
 2022,,Rasă,,,,0.0
 2022,,Activitate sindicală,,,,0.0
-2022,,Statut de pensionar,,,,0.1
-2022,,Alte,,,,0.0
-2022,,,Discriminare în câmpul muncii,,,0.2
+2022,,Statut de pensionar,,,,0.07
+2022,,Alte,,,,0.03
+2022,,,Discriminare în câmpul muncii,,,0.19
 2022,,,Acces la învățământ,,,0.0
 2022,,,Acces la bunuri și servicii disponibile publicului,,,0.3
-2022,,,Acces la justiție,,,0.2
+2022,,,Acces la justiție,,,0.23
 2022,,,Discurs de ură,,,0.0
-2022,,,Lezarea demnității umane,,,0.3
+2022,,,Lezarea demnității umane,,,0.26
 2022,,,Exercitarea drepturilor părintești,,,0.0
-2022,,,Alte,,,0.1
-2022,,,,Discriminare directă,,0.6
-2022,,,,Discriminare indirectă,,0.1
-2022,,,,Discriminare prin asociere,,0.1
+2022,,,Alte,,,0.07
+2022,,,,Discriminare directă,,0.61
+2022,,,,Discriminare indirectă,,0.07
+2022,,,,Discriminare prin asociere,,0.11
 2022,,,,Instigare la discriminare,,0.3
-2022,,,,Hărțuire,,0.0
+2022,,,,Hărțuire,,0.03
 2022,,,,Victimizare,,0.0
 2022,,,,Refuz în acomodare rezonabilă,,0.0
 2022,,,,Segregare rasială,,0.0
-2022,,,,,Urban,0.9
-2022,,,,,Rural,0.2
+2022,,,,,Urban,0.92
+2022,,,,,Rural,0.23
+2023,,,,,,1.0
+2023,Bărbați,,,,,0.6
+2023,Femei,,,,,0.3
+2023,,Opinie,,,,0.0
+2023,,Dizabilitate,,,,0.39
+2023,,Origine socială,,,,0.0
+2023,,Limbă,,,,0.39
+2023,,Sex/gen,,,,0.11
+2023,,Statutul HIV,,,,0.0
+2023,,Orientarea sexuală,,,,0.03
+2023,,Religie/convingeri,,,,0.0
+2023,,Statut profesional,,,,0.03
+2023,,Statut matrimonial,,,,0.0
+2023,,Apartenență politică,,,,0.0
+2023,,Loc de trai,,,,0.0
+2023,,Apartenență etnică,,,,0.03
+2023,,Maternitate,,,,0.03
+2023,,Naționalitate,,,,0.03
+2023,,Vârsta,,,,0.0
+2023,,Rasă,,,,0.0
+2023,,Activitate sindicală,,,,0.03
+2023,,Statut de pensionar,,,,0.03
+2023,,Alte,,,,0.07
+2023,,,Discriminare în câmpul muncii,,,0.39
+2023,,,Acces la învățământ,,,0.0
+2023,,,Acces la bunuri și servicii disponibile publicului,,,0.79
+2023,,,Acces la justiție,,,0.07
+2023,,,Discurs de ură,,,0.0
+2023,,,Lezarea demnității umane,,,0.15
+2023,,,Exercitarea drepturilor părintești,,,0.0
+2023,,,Alte,,,0.07
+2023,,,,Discriminare directă,,0.59
+2023,,,,Discriminare indirectă,,0.15
+2023,,,,Discriminare prin asociere,,0.0
+2023,,,,Instigare la discriminare,,0.15
+2023,,,,Hărțuire,,0.11
+2023,,,,Victimizare,,0.0
+2023,,,,Refuz în acomodare rezonabilă,,0.03
+2023,,,,Segregare rasială,,0.0
+2023,,,,,Urban,1.27
+2023,,,,,Rural,0.19

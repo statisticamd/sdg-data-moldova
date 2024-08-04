@@ -22,8 +22,8 @@ Year,Clase Situații excepționale,Grupa de vârstă,Value
 2012,,18 ani și peste,
 2013,,,4.8
 2013,Tehnogen,,0.6
-2013,Natural (pe genuri),,0.0
-2013,Biologico-social,,0.0
+2013,Natural (pe genuri),,0.03
+2013,Biologico-social,,0.03
 2013,Incendii,,4.2
 2013,,0-17 ani,0.4
 2013,,18 ani și peste,4.4
@@ -90,3 +90,10 @@ Year,Clase Situații excepționale,Grupa de vârstă,Value
 2022,Incendii,,4.6
 2022,,0-17 ani,0.1
 2022,,18 ani și peste,50.8
+2023,,,5.1
+2023,Tehnogen,,0.2
+2023,Natural (pe genuri),,0.1
+2023,Biologico-social,,0.0
+2023,Incendii,,4.7
+2023,,0-17 ani,0.4
+2023,,18 ani și peste,6.3

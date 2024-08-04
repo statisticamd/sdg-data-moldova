@@ -661,7 +661,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
                 "15-24",
                 "25-34",
                 "35-44",
@@ -1326,6 +1325,26 @@
             "title": "Anul"
           },
           {
+            "name": "Genetic resources",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bovine, capete",
+                "Porcine, capete",
+                "Ovine, capete",
+                "Caprine, capete",
+                "Cabaline, capete",
+                "Iepuri, capete",
+                "Păsări, capete",
+                "Piscicole (pești), capete",
+                "Apicole (albini), familii",
+                "Resurse genetice vegetale (mostre)",
+                ""
+              ]
+            },
+            "title": "Resurse genetice"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1433,7 +1452,7 @@
             "title": "Anul"
           },
           {
-            "name": "Tipuri SE",
+            "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1444,7 +1463,7 @@
                 ""
               ]
             },
-            "title": "Tipuri SE"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Value",
@@ -3550,39 +3569,27 @@
             "title": "Anul"
           },
           {
-            "name": "Rare species ",
+            "name": "Cattle",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animale",
+                "Bălțata cu Negru de tip Moldovenesc",
                 ""
               ]
             },
-            "title": "Rare species "
+            "title": "Bovine"
           },
           {
-            "name": "Local species",
+            "name": "Sheep",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animale",
+                "Caracul",
+                "Țigaie",
                 ""
               ]
             },
-            "title": "Local species"
-          },
-          {
-            "name": "Disappearance risk categories",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Disappearance risk categories"
+            "title": "Ovine"
           },
           {
             "name": "Value",
@@ -8525,7 +8532,6 @@
             "constraints": {
               "enum": [
                 "Mun. Chișinău",
-                "Nord",
                 "mun. Bălți",
                 "Briceni",
                 "Dondușeni",
@@ -8538,7 +8544,6 @@
                 "Râșcani",
                 "Sângerei",
                 "Soroca",
-                "Centru",
                 "Anenii Noi",
                 "Călărași",
                 "Criuleni",
@@ -8552,7 +8557,6 @@
                 "Șoldănești",
                 "Telenești",
                 "Ungheni",
-                "Sud",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",
@@ -9492,18 +9496,6 @@
             "title": "Grupa de vârstă"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediul de reședință"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9616,26 +9608,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0-15",
                 "15-24",
                 "25-34",
                 "35-44",
                 "45-54",
+                "16-55",
                 "55+",
                 ""
               ]
             },
             "title": "Grupa de vârstă"
-          },
-          {
-            "name": "Diseases",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxx",
-                ""
-              ]
-            },
-            "title": "Diseases"
           },
           {
             "name": "Value",
@@ -10513,7 +10496,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " ",
                 "Mintală",
                 "Intelectuală",
                 "Senzorială",
@@ -10794,7 +10776,7 @@
           }
         ]
       },
-      "title": "national_indicators.14-4-1-1--title"
+      "title": "Numărul de contravenții înregistrate privind pescuitul ilegal"
     },
     {
       "path": "11-5-1-a/data.csv",
@@ -12181,7 +12163,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Industrie",
+                "Industrie și construcții",
                 "Transport",
                 "Sector rezidențial",
                 "Servicii",
@@ -12216,7 +12198,7 @@
             "title": "Anul"
           },
           {
-            "name": "Classes of disasters",
+            "name": "Clase situațiilor excepționale",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12227,10 +12209,10 @@
                 ""
               ]
             },
-            "title": "Clase Situații excepționale"
+            "title": "Clase situațiilor excepționale"
           },
           {
-            "name": "Age group",
+            "name": "Grupa de vârstă",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13262,6 +13244,19 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Forms of violence ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Violență psihologică",
+                "Violență fizică",
+                "Violență sexuală",
+                ""
+              ]
+            },
+            "title": "Forms of violence "
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -13564,7 +13559,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Inclusiv copii (0-17 ani)",
+                "0-17 ani",
                 "18 ani și peste",
                 ""
               ]
@@ -14759,18 +14754,6 @@
               ]
             },
             "title": "Statut"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediul de reședință"
           },
           {
             "name": "Value",

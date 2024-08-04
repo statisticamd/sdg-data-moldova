@@ -22,8 +22,8 @@ Year,Classes of disasters,Age group,Value
 2012,,18 years and over,
 2013,,,4.8
 2013,Technogenic,,0.6
-2013,Natural  (by genres),,0.0
-2013,Social and biological,,0.0
+2013,Natural  (by genres),,0.03
+2013,Social and biological,,0.03
 2013,Fires,,4.2
 2013,,0-17 years,0.4
 2013,,18 years and over,4.4
@@ -90,3 +90,10 @@ Year,Classes of disasters,Age group,Value
 2022,Fires,,4.6
 2022,,0-17 years,0.1
 2022,,18 years and over,50.8
+2023,,,5.1
+2023,Technogenic,,0.2
+2023,Natural  (by genres),,0.1
+2023,Social and biological,,0.0
+2023,Fires,,4.7
+2023,,0-17 years,0.4
+2023,,18 years and over,6.3

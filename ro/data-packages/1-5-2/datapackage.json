@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "Tipuri SE",
+            "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Tipuri SE"
+            "title": "Clase Situații excepționale"
           },
           {
             "name": "Value",

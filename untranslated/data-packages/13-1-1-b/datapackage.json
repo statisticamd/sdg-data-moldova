@@ -15,25 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Classes of disasters",
+            "name": "Clase situațiilor excepționale",
             "type": "string",
             "constraints": {
               "enum": [
-                "Technogenic",
-                "Natural  (by genres)",
-                "Social and biological",
-                "Fires",
+                "Tehnogen",
+                "Natural (pe genuri)",
+                "Biologico-social",
+                "Incendii",
                 ""
               ]
             }
           },
           {
-            "name": "Age group",
+            "name": "Grupa de vârstă",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years",
-                "18 years and over",
+                "0-17 ani",
+                "18 ani și peste",
                 ""
               ]
             }
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             }

@@ -54,6 +54,18 @@
             }
           },
           {
+            "name": "Forms of violence ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological violence",
+                "Physical violence",
+                "Sexual violence",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

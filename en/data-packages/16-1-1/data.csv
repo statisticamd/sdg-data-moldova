@@ -59,138 +59,153 @@ Year,Sex,Age group of the victim,Means of committing,Context/reason,Value
 2013,,,,Reason related to family relationships,
 2013,,,,Ordered,
 2013,,,,Other reasons,
-2014,,,,,5.6
-2014,Men,,,,10.5
-2014,Women,,,,1.1
+2014,,,,,5.656
+2014,Men,,,,10.524
+2014,Women,,,,1.15
 2014,,0-17 years,,,0.0
-2014,,18 years and over,,,7.2
-2014,,,Firearms and explosive substances,,0.2
-2014,,,"White weapons (knife, sharp objects)",,1.2
-2014,,,"Tools (row, axe, hammer etc.)",,0.3
-2014,,,Other means,,4.4
-2014,,,,Revenge,0.2
+2014,,18 years and over,,,7.206
+2014,,,Firearms and explosive substances,,0.246
+2014,,,"White weapons (knife, sharp objects)",,1.23
+2014,,,"Tools (row, axe, hammer etc.)",,0.281
+2014,,,Other means,,4.392
+2014,,,,Revenge,0.211
 2014,,,,Jealousy,
-2014,,,,Quarrel,1.4
-2014,,,,Reason related to family relationships,0.4
+2014,,,,Quarrel,1.405
+2014,,,,Reason related to family relationships,0.386
 2014,,,,Ordered,
-2014,,,,Other reasons,4.2
-2015,,,,,6.7
-2015,Men,,,,10.4
-2015,Women,,,,3.2
-2015,,0-17 years,,,0.5
-2015,,18 years and over,,,8.4
-2015,,,Firearms and explosive substances,,0.3
-2015,,,"White weapons (knife, sharp objects)",,1.0
-2015,,,"Tools (row, axe, hammer etc.)",,0.3
-2015,,,Other means,,5.1
-2015,,,,Revenge,0.1
-2015,,,,Jealousy,0.2
-2015,,,,Quarrel,1.2
-2015,,,,Reason related to family relationships,0.4
-2015,,,,Ordered,0.0
-2015,,,,Other reasons,4.8
-2016,,,,,7.1
-2016,Men,,,,11.3
-2016,Women,,,,3.3
-2016,,0-17 years,,,0.2
-2016,,18 years and over,,,9.0
-2016,,,Firearms and explosive substances,,0.3
-2016,,,"White weapons (knife, sharp objects)",,1.3
-2016,,,"Tools (row, axe, hammer etc.)",,0.2
-2016,,,Other means,,5.5
-2016,,,,Revenge,0.1
-2016,,,,Jealousy,0.1
-2016,,,,Quarrel,0.9
-2016,,,,Reason related to family relationships,0.4
+2014,,,,Other reasons,4.181
+2015,,,,,6.689
+2015,Men,,,,10.441
+2015,Women,,,,3.207
+2015,,0-17 years,,,0.495
+2015,,18 years and over,,,8.38
+2015,,,Firearms and explosive substances,,0.283
+2015,,,"White weapons (knife, sharp objects)",,0.991
+2015,,,"Tools (row, axe, hammer etc.)",,0.283
+2015,,,Other means,,5.132
+2015,,,,Revenge,0.106
+2015,,,,Jealousy,0.177
+2015,,,,Quarrel,1.203
+2015,,,,Reason related to family relationships,0.354
+2015,,,,Ordered,0.035
+2015,,,,Other reasons,4.813
+2016,,,,,7.192
+2016,Men,,,,11.39
+2016,Women,,,,3.319
+2016,,0-17 years,,,0.166
+2016,,18 years and over,,,9.133
+2016,,,Firearms and explosive substances,,0.252
+2016,,,"White weapons (knife, sharp objects)",,1.295
+2016,,,"Tools (row, axe, hammer etc.)",,0.18
+2016,,,Other means,,5.466
+2016,,,,Revenge,0.108
+2016,,,,Jealousy,0.108
+2016,,,,Quarrel,0.935
+2016,,,,Reason related to family relationships,0.36
 2016,,,,Ordered,
-2016,,,,Other reasons,5.7
-2017,,,,,5.1
-2017,Men,,,,8.0
-2017,Women,,,,2.5
-2017,,0-17 years,,,0.8
-2017,,18 years and over,,,6.3
-2017,,,Firearms and explosive substances,,0.5
-2017,,,"White weapons (knife, sharp objects)",,1.6
-2017,,,"Tools (row, axe, hammer etc.)",,0.5
-2017,,,Other means,,2.6
-2017,,,,Revenge,0.2
-2017,,,,Jealousy,0.2
-2017,,,,Quarrel,1.6
-2017,,,,Reason related to family relationships,0.4
-2017,,,,Ordered,0.0
-2017,,,,Other reasons,2.7
-2018,,,,,6.1
-2018,Men,,,,9.7
-2018,Women,,,,2.9
-2018,,0-17 years,,,0.8
-2018,,18 years and over,,,7.4
-2018,,,Firearms and explosive substances,,0.5
-2018,,,"White weapons (knife, sharp objects)",,1.6
-2018,,,"Tools (row, axe, hammer etc.)",,0.6
-2018,,,Other means,,3.5
-2018,,,,Revenge,0.2
-2018,,,,Jealousy,0.1
-2018,,,,Quarrel,1.5
-2018,,,,Reason related to family relationships,0.5
+2016,,,,Other reasons,5.682
+2017,,,,,5.166
+2017,Men,,,,8.047
+2017,Women,,,,2.527
+2017,,0-17 years,,,0.839
+2017,,18 years and over,,,6.375
+2017,,,Firearms and explosive substances,,0.513
+2017,,,"White weapons (knife, sharp objects)",,1.612
+2017,,,"Tools (row, axe, hammer etc.)",,0.476
+2017,,,Other means,,2.564
+2017,,,,Revenge,0.22
+2017,,,,Jealousy,0.22
+2017,,,,Quarrel,1.612
+2017,,,,Reason related to family relationships,0.403
+2017,,,,Ordered,0.037
+2017,,,,Other reasons,2.674
+2018,,,,,6.183
+2018,Men,,,,9.75
+2018,Women,,,,2.923
+2018,,0-17 years,,,0.856
+2018,,18 years and over,,,7.427
+2018,,,Firearms and explosive substances,,0.484
+2018,,,"White weapons (knife, sharp objects)",,1.639
+2018,,,"Tools (row, axe, hammer etc.)",,0.559
+2018,,,Other means,,3.501
+2018,,,,Revenge,0.186
+2018,,,,Jealousy,0.074
+2018,,,,Quarrel,1.527
+2018,,,,Reason related to family relationships,0.521
 2018,,,,Ordered,0.0
-2018,,,,Other reasons,3.9
-2019,,,,,6.5
-2019,Men,,,,9.8
-2019,Women,,,,3.4
-2019,,0-17 years,,,1.4
-2019,,18 years and over,,,7.9
-2019,,,Firearms and explosive substances,,0.6
-2019,,,"White weapons (knife, sharp objects)",,2.0
-2019,,,"Tools (row, axe, hammer etc.)",,0.3
-2019,,,Other means,,3.6
-2019,,,,Revenge,0.5
-2019,,,,Jealousy,0.4
-2019,,,,Quarrel,1.5
-2019,,,,Reason related to family relationships,0.6
+2018,,,,Other reasons,3.874
+2019,,,,,6.506
+2019,Men,,,,9.903
+2019,Women,,,,3.402
+2019,,0-17 years,,,1.398
+2019,,18 years and over,,,7.917
+2019,,,Firearms and explosive substances,,0.605
+2019,,,"White weapons (knife, sharp objects)",,2.005
+2019,,,"Tools (row, axe, hammer etc.)",,0.34
+2019,,,Other means,,3.556
+2019,,,,Revenge,0.454
+2019,,,,Jealousy,0.416
+2019,,,,Quarrel,1.513
+2019,,,,Reason related to family relationships,0.567
 2019,,,,Ordered,0.0
-2019,,,,Other reasons,3.6
-2020,,,,,4.7
-2020,Men,,,,7.1
-2020,Women,,,,2.5
-2020,,0-17 years,,,1.2
-2020,,18 years and over,,,5.7
-2020,,,Firearms and explosive substances,,0.5
-2020,,,"White weapons (knife, sharp objects)",,1.5
-2020,,,"Tools (row, axe, hammer etc.)",,0.3
-2020,,,Other means,,2.4
-2020,,,,Revenge,0.1
-2020,,,,Jealousy,0.2
-2020,,,,Quarrel,1.5
-2020,,,,Reason related to family relationships,0.4
+2019,,,,Other reasons,3.556
+2020,,,,,4.721
+2020,Men,,,,7.102
+2020,Women,,,,2.548
+2020,,0-17 years,,,1.237
+2020,,18 years and over,,,5.677
+2020,,,Firearms and explosive substances,,0.495
+2020,,,"White weapons (knife, sharp objects)",,1.523
+2020,,,"Tools (row, axe, hammer etc.)",,0.267
+2020,,,Other means,,2.437
+2020,,,,Revenge,0.076
+2020,,,,Jealousy,0.228
+2020,,,,Quarrel,1.523
+2020,,,,Reason related to family relationships,0.381
 2020,,,,Ordered,0.0
-2020,,,,Other reasons,2.5
-2021,,,,,4.1
-2021,Men,,,,7.1
-2021,Women,,,,1.3
-2021,,0-17 years,,,0.5
-2021,,18 years and over,,,5.0
-2021,,,Firearms and explosive substances,,0.6
-2021,,,"White weapons (knife, sharp objects)",,1.7
-2021,,,"Tools (row, axe, hammer etc.)",,0.4
-2021,,,Other means,,1.4
-2021,,,,Revenge,0.2
-2021,,,,Jealousy,0.3
-2021,,,,Quarrel,1.3
-2021,,,,Reason related to family relationships,0.3
+2020,,,,Other reasons,2.513
+2021,,,,,4.133
+2021,Men,,,,7.224
+2021,Women,,,,1.336
+2021,,0-17 years,,,0.542
+2021,,18 years and over,,,5.12
+2021,,,Firearms and explosive substances,,0.585
+2021,,,"White weapons (knife, sharp objects)",,1.715
+2021,,,"Tools (row, axe, hammer etc.)",,0.429
+2021,,,Other means,,1.403
+2021,,,,Revenge,0.156
+2021,,,,Jealousy,0.312
+2021,,,,Quarrel,1.287
+2021,,,,Reason related to family relationships,0.273
 2021,,,,Ordered,0.0
-2021,,,,Other reasons,2.1
-2022,,,,,4.4
-2022,Men,,,,6.7
-2022,Women,,,,2.3
-2022,,0-17 years,,,0.7
-2022,,18 years and over,,,5.4
-2022,,,Firearms and explosive substances,,0.2
-2022,,,"White weapons (knife, sharp objects)",,1.6
-2022,,,"Tools (row, axe, hammer etc.)",,0.5
-2022,,,Other means,,2.1
-2022,,,,Revenge,0.1
-2022,,,,Jealousy,0.3
-2022,,,,Quarrel,1.4
-2022,,,,Reason related to family relationships,0.2
+2021,,,,Other reasons,2.105
+2022,,,,,4.537
+2022,Men,,,,6.989
+2022,Women,,,,2.339
+2022,,0-17 years,,,0.743
+2022,,18 years and over,,,5.572
+2022,,,Firearms and explosive substances,,0.239
+2022,,,"White weapons (knife, sharp objects)",,1.632
+2022,,,"Tools (row, axe, hammer etc.)",,0.478
+2022,,,Other means,,2.189
+2022,,,,Revenge,0.08
+2022,,,,Jealousy,0.318
+2022,,,,Quarrel,1.472
+2022,,,,Reason related to family relationships,0.239
 2022,,,,Ordered,0.0
-2022,,,,Other reasons,2.3
+2022,,,,Other reasons,2.428
+2023,,,,,3.104
+2023,Men,,,,4.8
+2023,Women,,,,1.585
+2023,,0-17 years,,,0.557
+2023,,18 years and over,,,3.799
+2023,,,Firearms and explosive substances,,0.199
+2023,,,"White weapons (knife, sharp objects)",,1.194
+2023,,,"Tools (row, axe, hammer etc.)",,0.199
+2023,,,Other means,,0.119
+2023,,,,Revenge,0.04
+2023,,,,Jealousy,0.04
+2023,,,,Quarrel,0.995
+2023,,,,Reason related to family relationships,0.239
+2023,,,,Ordered,0.0
+2023,,,,Other reasons,1.791

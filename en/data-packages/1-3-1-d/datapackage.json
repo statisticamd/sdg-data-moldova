@@ -48,7 +48,6 @@
             "constraints": {
               "enum": [
                 "Mun. Chisinau",
-                "North",
                 "mun. Balti",
                 "Briceni",
                 "Donduseni",
@@ -61,7 +60,6 @@
                 "Rascani",
                 "Sangerei",
                 "Soroca",
-                "Centre",
                 "Anenii Noi",
                 "Calarasi",
                 "Criuleni",
@@ -75,7 +73,6 @@
                 "Soldanesti",
                 "Telenesti",
                 "Ungheni",
-                "South",
                 "Basarabeasca",
                 "Cahul",
                 "Cantemir",

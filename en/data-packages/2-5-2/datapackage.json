@@ -16,39 +16,27 @@
             "title": "Year"
           },
           {
-            "name": "Rare species ",
+            "name": "Cattle",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
+                "Baltata with Black Moldavian type",
                 ""
               ]
             },
-            "title": "Rare species "
+            "title": "Cattle"
           },
           {
-            "name": "Local species",
+            "name": "Sheep",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
+                "Caracul",
+                "Tigaie",
                 ""
               ]
             },
-            "title": "Local species"
-          },
-          {
-            "name": "Disappearance risk categories",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Disappearance risk categories"
+            "title": "Sheep"
           },
           {
             "name": "Value",

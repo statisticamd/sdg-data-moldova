@@ -28,18 +28,6 @@
             "title": "Status"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Area of residence"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

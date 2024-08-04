@@ -40,17 +40,6 @@
             }
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

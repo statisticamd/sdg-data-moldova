@@ -15,14 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Tipuri SE",
+            "name": "Classes of disasters",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tehnogen",
-                "Natural (pe genuri)",
-                "Biologico-social",
-                "Incendii",
+                "Technogenic",
+                "Natural  (by genres)",
+                "Social and biological",
+                "Fires",
                 ""
               ]
             }

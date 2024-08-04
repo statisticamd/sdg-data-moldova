@@ -16,39 +16,27 @@
             "title": "Anul"
           },
           {
-            "name": "Rare species ",
+            "name": "Cattle",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animale",
+                "Bălțata cu Negru de tip Moldovenesc",
                 ""
               ]
             },
-            "title": "Rare species "
+            "title": "Bovine"
           },
           {
-            "name": "Local species",
+            "name": "Sheep",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animale",
+                "Caracul",
+                "Țigaie",
                 ""
               ]
             },
-            "title": "Local species"
-          },
-          {
-            "name": "Disappearance risk categories",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Disappearance risk categories"
+            "title": "Ovine"
           },
           {
             "name": "Value",

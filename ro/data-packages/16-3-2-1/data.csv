@@ -5,11 +5,11 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2010,Ruși,,,,,,,,,,
 2010,Evrei,,,,,,,,,,
 2010,Ucraineni,,,,,,,,,,
-2010,,Bărbați,,,,,,,,,20526.0
+2010,,Bărbați,,,,,,,,,0.0
 2010,,Femei,,,,,,,,,2481.0
 2010,,,0-17,,,,,,,,1487.0
 2010,,,18+,,,,,,,,21520.0
-2010,,,, ,,,,,,,
+2010,,,,,,,,,,,
 2010,,,,Mintală,,,,,,,
 2010,,,,Intelectuală,,,,,,,
 2010,,,,Senzorială,,,,,,,
@@ -44,7 +44,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2011,,Femei,,,,,,,,,2549.0
 2011,,,0-17,,,,,,,,1344.0
 2011,,,18+,,,,,,,,26203.0
-2011,,,, ,,,,,,,
+2011,,,,,,,,,,,
 2011,,,,Mintală,,,,,,,
 2011,,,,Intelectuală,,,,,,,
 2011,,,,Senzorială,,,,,,,
@@ -79,7 +79,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2012,,Femei,,,,,,,,,3236.0
 2012,,,0-17,,,,,,,,2021.0
 2012,,,18+,,,,,,,,32169.0
-2012,,,, ,,,,,,,
+2012,,,,,,,,,,,
 2012,,,,Mintală,,,,,,,
 2012,,,,Intelectuală,,,,,,,
 2012,,,,Senzorială,,,,,,,
@@ -114,7 +114,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2013,,Femei,,,,,,,,,4102.0
 2013,,,0-17,,,,,,,,2310.0
 2013,,,18+,,,,,,,,34697.0
-2013,,,, ,,,,,,,4.0
+2013,,,,,,,,,,,4.0
 2013,,,,Mintală,,,,,,,3.0
 2013,,,,Intelectuală,,,,,,,3.0
 2013,,,,Senzorială,,,,,,,1.0
@@ -149,7 +149,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2014,,Femei,,,,,,,,,5060.0
 2014,,,0-17,,,,,,,,2679.0
 2014,,,18+,,,,,,,,40468.0
-2014,,,, ,,,,,,,5.0
+2014,,,,,,,,,,,5.0
 2014,,,,Mintală,,,,,,,3.0
 2014,,,,Intelectuală,,,,,,,2.0
 2014,,,,Senzorială,,,,,,,0.0
@@ -184,7 +184,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2015,,Femei,,,,,,,,,5033.0
 2015,,,0-17,,,,,,,,2472.0
 2015,,,18+,,,,,,,,41508.0
-2015,,,, ,,,,,,,1.0
+2015,,,,,,,,,,,1.0
 2015,,,,Mintală,,,,,,,2.0
 2015,,,,Intelectuală,,,,,,,2.0
 2015,,,,Senzorială,,,,,,,0.0
@@ -219,7 +219,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2016,,Femei,,,,,,,,,5620.0
 2016,,,0-17,,,,,,,,2801.0
 2016,,,18+,,,,,,,,46759.0
-2016,,,, ,,,,,,,0.0
+2016,,,,,,,,,,,0.0
 2016,,,,Mintală,,,,,,,21.0
 2016,,,,Intelectuală,,,,,,,1.0
 2016,,,,Senzorială,,,,,,,0.0
@@ -237,7 +237,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2016,,,,,,,Curtea Supremă de Justuție,,,,72.0
 2016,,,,,,,Alte autorități,,,,2703.0
 2016,,,,,,,,Indiferent de nivelul de venit (art. 20 legea 198),,,37535.0
-2016,,,,,,,,În dependența de nivelul de venit (art. 21 Legea 198),,,17066.0
+2016,,,,,,,,În dependența de nivelul de venit (art. 21 Legea 198),,,12025.0
 2016,,,,,,,,,Calificată cauze penale,,40366.0
 2016,,,,,,,,,Calificată cauze contravenționale,,1086.0
 2016,,,,,,,,,Calificată cauze civile,,2910.0
@@ -254,7 +254,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2017,,Femei,,,,,,,,,6613.0
 2017,,,0-17,,,,,,,,2864.0
 2017,,,18+,,,,,,,,51737.0
-2017,,,, ,,,,,,,1.0
+2017,,,,,,,,,,,1.0
 2017,,,,Mintală,,,,,,,0.0
 2017,,,,Intelectuală,,,,,,,2.0
 2017,,,,Senzorială,,,,,,,1.0
@@ -289,7 +289,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2018,,Femei,,,,,,,,,5615.0
 2018,,,0-17,,,,,,,,2605.0
 2018,,,18+,,,,,,,,47090.0
-2018,,,, ,,,,,,,8.0
+2018,,,,,,,,,,,8.0
 2018,,,,Mintală,,,,,,,7.0
 2018,,,,Intelectuală,,,,,,,0.0
 2018,,,,Senzorială,,,,,,,1.0
@@ -324,7 +324,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2019,,Femei,,,,,,,,,5631.0
 2019,,,0-17,,,,,,,,2403.0
 2019,,,18+,,,,,,,,46112.0
-2019,,,, ,,,,,,,52.0
+2019,,,,,,,,,,,52.0
 2019,,,,Mintală,,,,,,,21.0
 2019,,,,Intelectuală,,,,,,,1.0
 2019,,,,Senzorială,,,,,,,3.0
@@ -359,7 +359,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2020,,Femei,,,,,,,,,5603.0
 2020,,,0-17,,,,,,,,2323.0
 2020,,,18+,,,,,,,,41942.0
-2020,,,, ,,,,,,,317.0
+2020,,,,,,,,,,,317.0
 2020,,,,Mintală,,,,,,,232.0
 2020,,,,Intelectuală,,,,,,,57.0
 2020,,,,Senzorială,,,,,,,15.0
@@ -394,7 +394,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2021,,Femei,,,,,,,,,6512.0
 2021,,,0-17,,,,,,,,2213.0
 2021,,,18+,,,,,,,,45777.0
-2021,,,, ,,,,,,,279.0
+2021,,,,,,,,,,,279.0
 2021,,,,Mintală,,,,,,,579.0
 2021,,,,Intelectuală,,,,,,,115.0
 2021,,,,Senzorială,,,,,,,26.0
@@ -429,7 +429,7 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2022,,Femei,,,,,,,,,6794.0
 2022,,,0-17,,,,,,,,2513.0
 2022,,,18+,,,,,,,,47847.0
-2022,,,, ,,,,,,,239.0
+2022,,,,,,,,,,,239.0
 2022,,,,Mintală,,,,,,,682.0
 2022,,,,Intelectuală,,,,,,,138.0
 2022,,,,Senzorială,,,,,,,19.0
@@ -454,3 +454,38 @@ Year,Etnie,Sex,Grupa de vârstă,Dizabilitate,Cetățenie,Statut de beneficiar -
 2022,,,,,,,,,Urgență cauze penale,,3922.0
 2022,,,,,,,,,Urgență cauze contravenționale,,79.0
 2022,,,,,,,,,,Total,13772.0
+2023,,,,,,,,,,,44695.0
+2023,Bulgari,,,,,,,,,,126.0
+2023,Romi,,,,,,,,,,245.0
+2023,Ruși,,,,,,,,,,730.0
+2023,Evrei,,,,,,,,,,22.0
+2023,Ucraineni,,,,,,,,,,512.0
+2023,,Bărbați,,,,,,,,,37358.0
+2023,,Femei,,,,,,,,,7337.0
+2023,,,0-17,,,,,,,,2428.0
+2023,,,18+,,,,,,,,42267.0
+2023,,,,,,,,,,,195.0
+2023,,,,Mintală,,,,,,,864.0
+2023,,,,Intelectuală,,,,,,,157.0
+2023,,,,Senzorială,,,,,,,80.0
+2023,,,,,Republica Moldova,,,,,,43070.0
+2023,,,,,Cetățeni străini,,,,,,1625.0
+2023,,,,,Apatrizi,,,,,,0.0
+2023,,,,,,Protecție temporă,,,,,3659.0
+2023,,,,,,Protecție umanitară,,,,,54.0
+2023,,,,,,Refugiați,,,,,61.0
+2023,,,,,,Solicitanți azil,,,,,108.0
+2023,,,,,,,Procuratura,,,,993.0
+2023,,,,,,,Inspectoratul de poliție,,,,18323.0
+2023,,,,,,,Judecătoria,,,,17838.0
+2023,,,,,,,Curtea de Apel,,,,5725.0
+2023,,,,,,,Curtea Supremă de Justuție,,,,27.0
+2023,,,,,,,Alte autorități,,,,1789.0
+2023,,,,,,,,Indiferent de nivelul de venit (art. 20 legea 198),,,31287.0
+2023,,,,,,,,În dependența de nivelul de venit (art. 21 Legea 198),,,13408.0
+2023,,,,,,,,,Calificată cauze penale,,32884.0
+2023,,,,,,,,,Calificată cauze contravenționale,,3910.0
+2023,,,,,,,,,Calificată cauze civile,,4340.0
+2023,,,,,,,,,Urgență cauze penale,,3486.0
+2023,,,,,,,,,Urgență cauze contravenționale,,75.0
+2023,,,,,,,,,,Total,15010.0

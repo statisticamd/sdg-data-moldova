@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "Classes of disasters",
+            "name": "Clase situațiilor excepționale",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,10 +27,10 @@
                 ""
               ]
             },
-            "title": "Clase Situații excepționale"
+            "title": "Clase situațiilor excepționale"
           },
           {
-            "name": "Age group",
+            "name": "Grupa de vârstă",
             "type": "string",
             "constraints": {
               "enum": [

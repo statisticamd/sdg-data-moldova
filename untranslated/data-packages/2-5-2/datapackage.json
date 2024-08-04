@@ -15,33 +15,22 @@
             "type": "integer"
           },
           {
-            "name": "Rare species ",
+            "name": "Cattle",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
+                "Baltata with Black Moldavian type",
                 ""
               ]
             }
           },
           {
-            "name": "Local species",
+            "name": "Sheep",
             "type": "string",
             "constraints": {
               "enum": [
-                " Plants",
-                "Animals",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disappearance risk categories",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
+                "Caracul",
+                "Tigaie",
                 ""
               ]
             }
