@@ -37,17 +37,17 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) number of beneficiaries with maternity allowances, NSIH  - information  regarding maternity allowances </p> 
-  <p>2) total number of women who have given  birth during the year of reference - NBS </p>
+  <p> 1) number of beneficiaries with maternity allowances, NSIH  - information  regarding maternity allowances (F.648)</p> 
+  <p>  2) total number of women who have given  birth during the year of reference - NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. National Social Insurance House</p> 
-  <p>2. National Bureau of Statistics </p>
+  <p>  2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
+  Ministry of Health, Labour and Social Protection
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -68,7 +68,7 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1. National Social Insurance House</p> 
-  <p>2. National Bureau of Statistics </p>
+  <p>  2. National Bureau of Statistics </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-

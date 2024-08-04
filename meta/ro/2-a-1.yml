@@ -36,7 +36,7 @@ STAT_CONC_DEF: >-
   <p>   Termenul "Agricultura" se referă la sectorul agricol, forestier, pescuit și vânătoare sau diviziunea A din Clasificatorul Activităților din Economia Moldovei (CAEM rev.2 .</p> 
   <p>   Cheltuieli publice  - cheltuielile conform sistemului clasificației bugetare a Republicii Moldova care din anul 2015 este în corespundere  cu Clasificația funcțiilor guvernului (COFOG) elaborată de către ONU și Clasificația statisticilor financiare guvernamentale (GFS) elaborată de FMI. </p>
 UNIT_MEASURE: >-
-  Indice
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -81,5 +81,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Elena Cojocaru, Consultant principal, Direcția analiză, monitorizare și evaluare a politicilor, Ministerul Agriculturii și Industriei Alimentare, tel. 022 204 519, e-mail: elena.cojocaru@maia.gov.md
+  Marian Soroceanu, Consultant superior, Direcția coordonare politici publice și inegrarea europeană, Ministerul Agriculturii și Industriei Alimentare, tel. 022 204 518, e-mail: marian.soroceanu@maia.gov.md
 source_other_info_1: >-

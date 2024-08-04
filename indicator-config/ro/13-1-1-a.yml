@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: persoane la 100.000 locuitori
+computation_units: pers. la 100.000
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global divizat
+tags: []
 x_axis_label: ''

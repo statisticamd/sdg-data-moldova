@@ -34,7 +34,7 @@ STAT_CONC_DEF: >-
   <p> Indicatorul Persoane decedate in urma situațiilor excepționale măsoară numărul  de persoane care au decedat în timpul producerii situației excepționale sau  imediat după acesta, ca rezultat direct al evenimentului produs. </p> 
   <p>Situații  excepționale se vor considera: cu caracter tehnogen, natural și  biologico-social. Situațiile excepționale se împart în următoarele tipuri: de  obiect, locale, teritoriale, naționale și transfrontaliere (HG  1076/16.11.2010). </p>
 UNIT_MEASURE: >-
-  persoane la 100.000 locuitori
+  pers. la 100.000
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -48,7 +48,7 @@ DATA_SOURCE: >-
   <p>  2) Biroul Național  de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Afacerilor Interne
+  Ministerului Afacerilor Interne
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -75,6 +75,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

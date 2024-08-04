@@ -44,6 +44,5 @@ reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global divizat
+tags: []
 x_axis_label: ''

@@ -1,17 +1,16 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.2.2: Number of victims of human trafficking per 100,000 population, by sex, age and  form of exploitation</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16.2: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
+  <p>Target 16: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNODC
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 SDG_GOAL: ''
 target_id: >-
-  16.2
+  16
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
@@ -34,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Trafficking in human beings - recruitment,  transportation,  transfer,   harbouring  or  receipt  of  a  person,  by  means  of  threat  of  force  or   use  of  force  or  other  forms  of  coercion,  of  abduction, fraud,  deception, of abuse of authority or a situation of vulnerability, or by means  of offering or receiving payments or benefits of any kind in order to obtain  the consent of a person who has control over another person for the purpose of  exploitation of the latter. Victim  of  trafficking  in  human  beings  –  a   natural  person  presumed  or  found  to  be  subjected to mentioned acts of  trafficking. (art. 2, para. 1 and 11 of the Law No. 241 of 20.10.2005 on  Preventing and Combating Trafficking in Human Beings)
 UNIT_MEASURE: >-
-  per 100.000 population
+  Number
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

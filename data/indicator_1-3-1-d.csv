@@ -8,7 +8,6 @@ Year,Sex,Age group,Districts,Value
 2010,,45-54,,
 2010,,55+,,
 2010,,,Mun. Chisinau,
-2010,,,North,
 2010,,,mun. Balti,
 2010,,,Briceni,
 2010,,,Donduseni,
@@ -21,7 +20,6 @@ Year,Sex,Age group,Districts,Value
 2010,,,Rascani,
 2010,,,Sangerei,
 2010,,,Soroca,
-2010,,,Centre,
 2010,,,Anenii Noi,
 2010,,,Calarasi,
 2010,,,Criuleni,
@@ -35,7 +33,6 @@ Year,Sex,Age group,Districts,Value
 2010,,,Soldanesti,
 2010,,,Telenesti,
 2010,,,Ungheni,
-2010,,,South,
 2010,,,Basarabeasca,
 2010,,,Cahul,
 2010,,,Cantemir,
@@ -54,7 +51,6 @@ Year,Sex,Age group,Districts,Value
 2011,,45-54,,
 2011,,55+,,
 2011,,,Mun. Chisinau,
-2011,,,North,
 2011,,,mun. Balti,
 2011,,,Briceni,
 2011,,,Donduseni,
@@ -67,7 +63,6 @@ Year,Sex,Age group,Districts,Value
 2011,,,Rascani,
 2011,,,Sangerei,
 2011,,,Soroca,
-2011,,,Centre,
 2011,,,Anenii Noi,
 2011,,,Calarasi,
 2011,,,Criuleni,
@@ -81,7 +76,6 @@ Year,Sex,Age group,Districts,Value
 2011,,,Soldanesti,
 2011,,,Telenesti,
 2011,,,Ungheni,
-2011,,,South,
 2011,,,Basarabeasca,
 2011,,,Cahul,
 2011,,,Cantemir,
@@ -100,7 +94,6 @@ Year,Sex,Age group,Districts,Value
 2012,,45-54,,
 2012,,55+,,
 2012,,,Mun. Chisinau,
-2012,,,North,
 2012,,,mun. Balti,
 2012,,,Briceni,
 2012,,,Donduseni,
@@ -113,7 +106,6 @@ Year,Sex,Age group,Districts,Value
 2012,,,Rascani,
 2012,,,Sangerei,
 2012,,,Soroca,
-2012,,,Centre,
 2012,,,Anenii Noi,
 2012,,,Calarasi,
 2012,,,Criuleni,
@@ -127,7 +119,6 @@ Year,Sex,Age group,Districts,Value
 2012,,,Soldanesti,
 2012,,,Telenesti,
 2012,,,Ungheni,
-2012,,,South,
 2012,,,Basarabeasca,
 2012,,,Cahul,
 2012,,,Cantemir,
@@ -146,7 +137,6 @@ Year,Sex,Age group,Districts,Value
 2013,,45-54,,
 2013,,55+,,
 2013,,,Mun. Chisinau,
-2013,,,North,
 2013,,,mun. Balti,
 2013,,,Briceni,
 2013,,,Donduseni,
@@ -159,7 +149,6 @@ Year,Sex,Age group,Districts,Value
 2013,,,Rascani,
 2013,,,Sangerei,
 2013,,,Soroca,
-2013,,,Centre,
 2013,,,Anenii Noi,
 2013,,,Calarasi,
 2013,,,Criuleni,
@@ -173,7 +162,6 @@ Year,Sex,Age group,Districts,Value
 2013,,,Soldanesti,
 2013,,,Telenesti,
 2013,,,Ungheni,
-2013,,,South,
 2013,,,Basarabeasca,
 2013,,,Cahul,
 2013,,,Cantemir,
@@ -183,282 +171,264 @@ Year,Sex,Age group,Districts,Value
 2013,,,Stefan Voda,
 2013,,,Taraclia,
 2013,,,UTA Gagauzia,
-2014,,,,6.5
-2014,Men,,,7
-2014,Women,,,5.9
-2014,,15-24,,5.4
-2014,,25-34,,3.5
-2014,,35-44,,5.9
-2014,,45-54,,11.7
-2014,,55+,,11.1
-2014,,,Mun. Chisinau,4.4
-2014,,,North,
-2014,,,mun. Balti,8
-2014,,,Briceni,7.2
-2014,,,Donduseni,7.3
-2014,,,Drochia,6.9
-2014,,,Edinet,8.8
-2014,,,Falesti,6
-2014,,,Floresti,7.5
-2014,,,Glodeni,5.4
-2014,,,Ocnita,6.8
-2014,,,Rascani,7.1
-2014,,,Sangerei,7.8
-2014,,,Soroca,9
-2014,,,Centre,
-2014,,,Anenii Noi,5.9
-2014,,,Calarasi,7.9
-2014,,,Criuleni,6.2
-2014,,,Dubasari,8.4
-2014,,,Hancesti,5.6
-2014,,,Ialoveni,5.6
-2014,,,Nisporeni,6.4
-2014,,,Orhei,7
-2014,,,Rezina,7.9
-2014,,,Straseni,6.9
-2014,,,Soldanesti,13.6
-2014,,,Telenesti,9
-2014,,,Ungheni,6.2
-2014,,,South,
-2014,,,Basarabeasca,8
-2014,,,Cahul,5
-2014,,,Cantemir,6.1
-2014,,,Causeni,5
-2014,,,Cimislia,6.1
-2014,,,Leova,5.3
-2014,,,Stefan Voda,6.4
-2014,,,Taraclia,8.3
-2014,,,UTA Gagauzia,10
-2015,,,,6.5
-2015,Men,,,7
-2015,Women,,,6
-2015,,15-24,,5.4
-2015,,25-34,,3.6
-2015,,35-44,,5.9
-2015,,45-54,,11.7
-2015,,55+,,11.1
-2015,,,Mun. Chisinau,4.4
-2015,,,North,
-2015,,,mun. Balti,7.7
-2015,,,Briceni,7.3
-2015,,,Donduseni,7.2
-2015,,,Drochia,7
-2015,,,Edinet,8.9
-2015,,,Falesti,5.9
-2015,,,Floresti,7.4
-2015,,,Glodeni,5.3
-2015,,,Ocnita,6.8
-2015,,,Rascani,7
-2015,,,Sangerei,7.9
-2015,,,Soroca,8.8
-2015,,,Centre,
-2015,,,Anenii Noi,5.9
-2015,,,Calarasi,8
-2015,,,Criuleni,6.3
-2015,,,Dubasari,8.1
-2015,,,Hancesti,5.8
-2015,,,Ialoveni,5.6
-2015,,,Nisporeni,6.4
-2015,,,Orhei,7.1
-2015,,,Rezina,8.5
-2015,,,Straseni,7
-2015,,,Soldanesti,15.1
-2015,,,Telenesti,9.2
-2015,,,Ungheni,6.1
-2015,,,South,
-2015,,,Basarabeasca,8.2
-2015,,,Cahul,5.1
-2015,,,Cantemir,6.1
-2015,,,Causeni,4.9
-2015,,,Cimislia,6.3
-2015,,,Leova,5.2
-2015,,,Stefan Voda,6.3
-2015,,,Taraclia,8.3
-2015,,,UTA Gagauzia,10.2
-2016,,,,6.5
-2016,Men,,,7.1
-2016,Women,,,6
-2016,,15-24,,5.3
-2016,,25-34,,3.6
-2016,,35-44,,5.9
-2016,,45-54,,11.6
-2016,,55+,,11.3
-2016,,,Mun. Chisinau,4.4
-2016,,,North,
-2016,,,mun. Balti,7.5
-2016,,,Briceni,7.6
-2016,,,Donduseni,7.1
-2016,,,Drochia,7
-2016,,,Edinet,9
-2016,,,Falesti,5.8
-2016,,,Floresti,7.4
-2016,,,Glodeni,5.3
-2016,,,Ocnita,6.8
-2016,,,Rascani,7.1
-2016,,,Sangerei,8
-2016,,,Soroca,8.7
-2016,,,Centre,
-2016,,,Anenii Noi,6
-2016,,,Calarasi,8.2
-2016,,,Criuleni,6.2
-2016,,,Dubasari,8.1
-2016,,,Hancesti,5.8
-2016,,,Ialoveni,5.5
-2016,,,Nisporeni,6.4
-2016,,,Orhei,7.1
-2016,,,Rezina,9
-2016,,,Straseni,7.1
-2016,,,Soldanesti,16.4
-2016,,,Telenesti,9.2
-2016,,,Ungheni,6.1
-2016,,,South,
-2016,,,Basarabeasca,8
-2016,,,Cahul,5.2
-2016,,,Cantemir,6
-2016,,,Causeni,5
-2016,,,Cimislia,6.2
-2016,,,Leova,5.2
-2016,,,Stefan Voda,6.3
-2016,,,Taraclia,8.4
-2016,,,UTA Gagauzia,10.2
-2017,,,,6.6
-2017,Men,,,7.2
-2017,Women,,,6
-2017,,15-24,,5.6
-2017,,25-34,,3.7
-2017,,35-44,,5.9
-2017,,45-54,,11.4
-2017,,55+,,11.2
-2017,,,Mun. Chisinau,4.3
-2017,,,North,
-2017,,,mun. Balti,7.3
-2017,,,Briceni,7.7
-2017,,,Donduseni,7.1
-2017,,,Drochia,6.9
-2017,,,Edinet,9.2
-2017,,,Falesti,5.8
-2017,,,Floresti,7.4
-2017,,,Glodeni,5.3
-2017,,,Ocnita,6.8
-2017,,,Rascani,6.9
-2017,,,Sangerei,8.2
-2017,,,Soroca,8.7
-2017,,,Centre,
-2017,,,Anenii Noi,6.2
-2017,,,Calarasi,8.5
-2017,,,Criuleni,6.2
-2017,,,Dubasari,8.3
-2017,,,Hancesti,6
-2017,,,Ialoveni,5.6
-2017,,,Nisporeni,6.5
-2017,,,Orhei,7.2
-2017,,,Rezina,9.6
-2017,,,Straseni,7.2
-2017,,,Soldanesti,17.5
-2017,,,Telenesti,9.5
-2017,,,Ungheni,6.2
-2017,,,South,
-2017,,,Basarabeasca,7.9
-2017,,,Cahul,5.3
-2017,,,Cantemir,6.2
-2017,,,Causeni,5
-2017,,,Cimislia,6.3
-2017,,,Leova,5.6
-2017,,,Stefan Voda,6.3
-2017,,,Taraclia,8.6
-2017,,,UTA Gagauzia,10.3
-2018,,,,6.6
-2018,Men,,,7.2
-2018,Women,,,6
-2018,,15-24,,5.3
-2018,,25-34,,3.7
-2018,,35-44,,5.7
-2018,,45-54,,11.1
-2018,,55+,,11.4
-2018,,,Mun. Chisinau,4.3
-2018,,,North,
-2018,,,mun. Balti,7.2
-2018,,,Briceni,7.8
-2018,,,Donduseni,6.9
-2018,,,Drochia,6.9
-2018,,,Edinet,9.2
-2018,,,Falesti,5.8
-2018,,,Floresti,7.4
-2018,,,Glodeni,5.2
-2018,,,Ocnita,6.8
-2018,,,Rascani,6.7
+2014,,,,6.463
+2014,Men,,,7.018
+2014,Women,,,5.949
+2014,,15-24,,5.353
+2014,,25-34,,3.524
+2014,,35-44,,5.924
+2014,,45-54,,11.724
+2014,,55+,,11.088
+2014,,,Mun. Chisinau,4.421
+2014,,,mun. Balti,7.953
+2014,,,Briceni,7.163
+2014,,,Donduseni,7.304
+2014,,,Drochia,6.93
+2014,,,Edinet,8.83
+2014,,,Falesti,5.996
+2014,,,Floresti,7.507
+2014,,,Glodeni,5.386
+2014,,,Ocnita,6.752
+2014,,,Rascani,7.057
+2014,,,Sangerei,7.751
+2014,,,Soroca,8.951
+2014,,,Anenii Noi,5.908
+2014,,,Calarasi,7.851
+2014,,,Criuleni,6.248
+2014,,,Dubasari,8.371
+2014,,,Hancesti,5.648
+2014,,,Ialoveni,5.593
+2014,,,Nisporeni,6.44
+2014,,,Orhei,7.035
+2014,,,Rezina,7.94
+2014,,,Straseni,6.893
+2014,,,Soldanesti,13.567
+2014,,,Telenesti,8.968
+2014,,,Ungheni,6.235
+2014,,,Basarabeasca,8.014
+2014,,,Cahul,5.042
+2014,,,Cantemir,6.147
+2014,,,Causeni,4.963
+2014,,,Cimislia,6.122
+2014,,,Leova,5.254
+2014,,,Stefan Voda,6.428
+2014,,,Taraclia,8.284
+2014,,,UTA Gagauzia,9.995
+2015,,,,6.496
+2015,Men,,,7.047
+2015,Women,,,5.985
+2015,,15-24,,5.447
+2015,,25-34,,3.581
+2015,,35-44,,5.867
+2015,,45-54,,11.677
+2015,,55+,,11.145
+2015,,,Mun. Chisinau,4.402
+2015,,,mun. Balti,7.75
+2015,,,Briceni,7.311
+2015,,,Donduseni,7.178
+2015,,,Drochia,6.993
+2015,,,Edinet,8.863
+2015,,,Falesti,5.883
+2015,,,Floresti,7.425
+2015,,,Glodeni,5.275
+2015,,,Ocnita,6.784
+2015,,,Rascani,7.034
+2015,,,Sangerei,7.882
+2015,,,Soroca,8.798
+2015,,,Anenii Noi,5.947
+2015,,,Calarasi,8.034
+2015,,,Criuleni,6.26
+2015,,,Dubasari,8.075
+2015,,,Hancesti,5.765
+2015,,,Ialoveni,5.561
+2015,,,Nisporeni,6.366
+2015,,,Orhei,7.081
+2015,,,Rezina,8.473
+2015,,,Straseni,7.012
+2015,,,Soldanesti,15.058
+2015,,,Telenesti,9.167
+2015,,,Ungheni,6.136
+2015,,,Basarabeasca,8.191
+2015,,,Cahul,5.12
+2015,,,Cantemir,6.069
+2015,,,Causeni,4.943
+2015,,,Cimislia,6.293
+2015,,,Leova,5.176
+2015,,,Stefan Voda,6.34
+2015,,,Taraclia,8.278
+2015,,,UTA Gagauzia,10.215
+2016,,,,6.514
+2016,Men,,,7.092
+2016,Women,,,5.98
+2016,,15-24,,5.312
+2016,,25-34,,3.59
+2016,,35-44,,5.866
+2016,,45-54,,11.574
+2016,,55+,,11.259
+2016,,,Mun. Chisinau,4.364
+2016,,,mun. Balti,7.467
+2016,,,Briceni,7.562
+2016,,,Donduseni,7.083
+2016,,,Drochia,6.991
+2016,,,Edinet,9.009
+2016,,,Falesti,5.781
+2016,,,Floresti,7.36
+2016,,,Glodeni,5.272
+2016,,,Ocnita,6.792
+2016,,,Rascani,7.074
+2016,,,Sangerei,8.001
+2016,,,Soroca,8.729
+2016,,,Anenii Noi,6.03
+2016,,,Calarasi,8.235
+2016,,,Criuleni,6.15
+2016,,,Dubasari,8.07
+2016,,,Hancesti,5.791
+2016,,,Ialoveni,5.544
+2016,,,Nisporeni,6.352
+2016,,,Orhei,7.056
+2016,,,Rezina,9.043
+2016,,,Straseni,7.07
+2016,,,Soldanesti,16.394
+2016,,,Telenesti,9.207
+2016,,,Ungheni,6.093
+2016,,,Basarabeasca,7.976
+2016,,,Cahul,5.205
+2016,,,Cantemir,6.05
+2016,,,Causeni,4.99
+2016,,,Cimislia,6.224
+2016,,,Leova,5.235
+2016,,,Stefan Voda,6.306
+2016,,,Taraclia,8.419
+2016,,,UTA Gagauzia,10.242
+2017,,,,6.581
+2017,Men,,,7.181
+2017,Women,,,6.031
+2017,,15-24,,5.607
+2017,,25-34,,3.715
+2017,,35-44,,5.882
+2017,,45-54,,11.412
+2017,,55+,,11.248
+2017,,,Mun. Chisinau,4.321
+2017,,,mun. Balti,7.252
+2017,,,Briceni,7.675
+2017,,,Donduseni,7.096
+2017,,,Drochia,6.91
+2017,,,Edinet,9.247
+2017,,,Falesti,5.842
+2017,,,Floresti,7.449
+2017,,,Glodeni,5.287
+2017,,,Ocnita,6.798
+2017,,,Rascani,6.934
+2017,,,Sangerei,8.163
+2017,,,Soroca,8.725
+2017,,,Anenii Noi,6.175
+2017,,,Calarasi,8.521
+2017,,,Criuleni,6.171
+2017,,,Dubasari,8.291
+2017,,,Hancesti,5.976
+2017,,,Ialoveni,5.602
+2017,,,Nisporeni,6.48
+2017,,,Orhei,7.153
+2017,,,Rezina,9.633
+2017,,,Straseni,7.215
+2017,,,Soldanesti,17.528
+2017,,,Telenesti,9.503
+2017,,,Ungheni,6.165
+2017,,,Basarabeasca,7.906
+2017,,,Cahul,5.35
+2017,,,Cantemir,6.184
+2017,,,Causeni,5.035
+2017,,,Cimislia,6.343
+2017,,,Leova,5.585
+2017,,,Stefan Voda,6.297
+2017,,,Taraclia,8.563
+2017,,,UTA Gagauzia,10.268
+2018,,,,6.558
+2018,Men,,,7.176
+2018,Women,,,5.992
+2018,,15-24,,5.341
+2018,,25-34,,3.66
+2018,,35-44,,5.667
+2018,,45-54,,11.076
+2018,,55+,,11.383
+2018,,,Mun. Chisinau,4.304
+2018,,,mun. Balti,7.169
+2018,,,Briceni,7.794
+2018,,,Donduseni,6.904
+2018,,,Drochia,6.94
+2018,,,Edinet,9.238
+2018,,,Falesti,5.802
+2018,,,Floresti,7.437
+2018,,,Glodeni,5.164
+2018,,,Ocnita,6.84
+2018,,,Rascani,6.715
 2018,,,Sangerei,8.3
-2018,,,Soroca,8.7
-2018,,,Centre,
-2018,,,Anenii Noi,6.3
-2018,,,Calarasi,8.5
-2018,,,Criuleni,6.2
-2018,,,Dubasari,8.2
-2018,,,Hancesti,6
-2018,,,Ialoveni,5.6
-2018,,,Nisporeni,6.5
-2018,,,Orhei,7.1
-2018,,,Rezina,9.9
-2018,,,Straseni,7.3
-2018,,,Soldanesti,17.8
-2018,,,Telenesti,9.8
-2018,,,Ungheni,6.2
-2018,,,South,
-2018,,,Basarabeasca,7.8
-2018,,,Cahul,5.4
-2018,,,Cantemir,6.4
-2018,,,Causeni,4.9
-2018,,,Cimislia,6.4
-2018,,,Leova,5.7
-2018,,,Stefan Voda,6.3
-2018,,,Taraclia,8.3
-2018,,,UTA Gagauzia,9.7
-2019,,,,6.7
-2019,Men,,,7.4
-2019,Women,,,6.1
+2018,,,Soroca,8.728
+2018,,,Anenii Noi,6.285
+2018,,,Calarasi,8.524
+2018,,,Criuleni,6.16
+2018,,,Dubasari,8.215
+2018,,,Hancesti,6.039
+2018,,,Ialoveni,5.573
+2018,,,Nisporeni,6.522
+2018,,,Orhei,7.077
+2018,,,Rezina,9.92
+2018,,,Straseni,7.289
+2018,,,Soldanesti,17.771
+2018,,,Telenesti,9.777
+2018,,,Ungheni,6.191
+2018,,,Basarabeasca,7.799
+2018,,,Cahul,5.412
+2018,,,Cantemir,6.372
+2018,,,Causeni,4.945
+2018,,,Cimislia,6.366
+2018,,,Leova,5.667
+2018,,,Stefan Voda,6.28
+2018,,,Taraclia,8.328
+2018,,,UTA Gagauzia,9.749
+2019,,,,6.694
+2019,Men,,,7.361
+2019,Women,,,6.085
 2019,,15-24,,5.6
-2019,,25-34,,3.7
-2019,,35-44,,5.7
-2019,,45-54,,10.9
-2019,,55+,,11.6
-2019,,,Mun. Chisinau,4.3
-2019,,,North,
-2019,,,mun. Balti,7.1
-2019,,,Briceni,8
-2019,,,Donduseni,7.1
-2019,,,Drochia,7.1
-2019,,,Edinet,9.3
-2019,,,Falesti,6.1
-2019,,,Floresti,7.6
-2019,,,Glodeni,5.5
+2019,,25-34,,3.727
+2019,,35-44,,5.661
+2019,,45-54,,10.927
+2019,,55+,,11.594
+2019,,,Mun. Chisinau,4.327
+2019,,,mun. Balti,7.146
+2019,,,Briceni,7.986
+2019,,,Donduseni,7.12
+2019,,,Drochia,7.129
+2019,,,Edinet,9.346
+2019,,,Falesti,6.068
+2019,,,Floresti,7.583
+2019,,,Glodeni,5.521
 2019,,,Ocnita,7.2
-2019,,,Rascani,6.9
-2019,,,Sangerei,8.6
-2019,,,Soroca,9
-2019,,,Centre,
-2019,,,Anenii Noi,6.7
-2019,,,Calarasi,8.8
-2019,,,Criuleni,6.4
-2019,,,Dubasari,8.4
-2019,,,Hancesti,6.3
-2019,,,Ialoveni,5.8
-2019,,,Nisporeni,6.8
-2019,,,Orhei,7.4
-2019,,,Rezina,9.9
-2019,,,Straseni,7.4
-2019,,,Soldanesti,17.7
-2019,,,Telenesti,10.2
-2019,,,Ungheni,6.5
-2019,,,South,
-2019,,,Basarabeasca,8.3
-2019,,,Cahul,5.6
-2019,,,Cantemir,6.6
-2019,,,Causeni,5.2
-2019,,,Cimislia,6.7
-2019,,,Leova,5.9
-2019,,,Stefan Voda,6.5
-2019,,,Taraclia,8.3
-2019,,,UTA Gagauzia,9.6
+2019,,,Rascani,6.874
+2019,,,Sangerei,8.552
+2019,,,Soroca,8.993
+2019,,,Anenii Noi,6.692
+2019,,,Calarasi,8.785
+2019,,,Criuleni,6.417
+2019,,,Dubasari,8.441
+2019,,,Hancesti,6.259
+2019,,,Ialoveni,5.751
+2019,,,Nisporeni,6.836
+2019,,,Orhei,7.384
+2019,,,Rezina,9.867
+2019,,,Straseni,7.446
+2019,,,Soldanesti,17.745
+2019,,,Telenesti,10.16
+2019,,,Ungheni,6.507
+2019,,,Basarabeasca,8.29
+2019,,,Cahul,5.613
+2019,,,Cantemir,6.631
+2019,,,Causeni,5.25
+2019,,,Cimislia,6.651
+2019,,,Leova,5.913
+2019,,,Stefan Voda,6.474
+2019,,,Taraclia,8.274
+2019,,,UTA Gagauzia,9.564
 2020,,,,6.6
 2020,Men,,,7.3
 2020,Women,,,6
@@ -467,133 +437,167 @@ Year,Sex,Age group,Districts,Value
 2020,,35-44,,5.5
 2020,,45-54,,10.5
 2020,,55+,,11.6
-2020,,,Mun. Chisinau,4.2
-2020,,,North,
-2020,,,mun. Balti,7
-2020,,,Briceni,7.9
-2020,,,Donduseni,7.2
-2020,,,Drochia,7.1
-2020,,,Edinet,9.3
-2020,,,Falesti,6.1
-2020,,,Floresti,7.6
-2020,,,Glodeni,5.7
-2020,,,Ocnita,7.2
-2020,,,Rascani,7
-2020,,,Sangerei,8.7
-2020,,,Soroca,8.9
-2020,,,Centre,
-2020,,,Anenii Noi,6.8
-2020,,,Calarasi,8.9
-2020,,,Criuleni,6.4
-2020,,,Dubasari,8.3
-2020,,,Hancesti,6.3
-2020,,,Ialoveni,5.8
-2020,,,Nisporeni,6.9
-2020,,,Orhei,7.4
-2020,,,Rezina,9.9
-2020,,,Straseni,7.4
-2020,,,Soldanesti,17.6
-2020,,,Telenesti,9.9
-2020,,,Ungheni,6.6
-2020,,,South,
-2020,,,Basarabeasca,8.4
-2020,,,Cahul,5.6
-2020,,,Cantemir,6.8
-2020,,,Causeni,5.3
-2020,,,Cimislia,6.5
-2020,,,Leova,5.8
-2020,,,Stefan Voda,6.5
-2020,,,Taraclia,8.1
-2020,,,UTA Gagauzia,9.3
-2021,,,,6.5
-2021,Men,,,7.1
-2021,Women,,,5.8
-2021,,15-24,,5.7
-2021,,25-34,,3.6
-2021,,35-44,,5.3
-2021,,45-54,,10
-2021,,55+,,11.1
-2021,,,Mun. Chisinau,4
-2021,,,North,
-2021,,,mun. Balti,6.7
-2021,,,Briceni,7.7
-2021,,,Donduseni,7
-2021,,,Drochia,6.9
-2021,,,Edinet,9.2
-2021,,,Falesti,6.1
-2021,,,Floresti,7.3
-2021,,,Glodeni,5.6
-2021,,,Ocnita,7
-2021,,,Rascani,6.7
-2021,,,Sangerei,8.5
-2021,,,Soroca,8.6
-2021,,,Centre,
-2021,,,Anenii Noi,6.7
-2021,,,Calarasi,8.7
-2021,,,Criuleni,6.3
-2021,,,Dubasari,8.4
-2021,,,Hancesti,6.1
-2021,,,Ialoveni,5.8
-2021,,,Nisporeni,6.9
-2021,,,Orhei,7.3
-2021,,,Rezina,9.4
-2021,,,Straseni,7.2
-2021,,,Soldanesti,17.1
-2021,,,Telenesti,10.1
-2021,,,Ungheni,6.6
-2021,,,South,
-2021,,,Basarabeasca,8.1
-2021,,,Cahul,5.5
-2021,,,Cantemir,6.5
-2021,,,Causeni,5.2
-2021,,,Cimislia,6.4
-2021,,,Leova,5.9
-2021,,,Stefan Voda,6.5
-2021,,,Taraclia,7.5
-2021,,,UTA Gagauzia,8.9
-2022,,,,6.2
-2022,Men,,,6.9
-2022,Women,,,5.6
-2022,,15-24,,5.9
-2022,,25-34,,3.4
-2022,,35-44,,5.4
-2022,,45-54,,9.8
-2022,,55+,,10.4
-2022,,,Mun. Chisinau,4
-2022,,,North,
-2022,,,mun. Balti,6.4
-2022,,,Briceni,7.2
-2022,,,Donduseni,6.3
-2022,,,Drochia,6.6
-2022,,,Edinet,8.7
-2022,,,Falesti,6
-2022,,,Floresti,7.1
-2022,,,Glodeni,5.5
-2022,,,Ocnita,6.9
-2022,,,Rascani,6.4
-2022,,,Sangerei,8.3
-2022,,,Soroca,7.9
-2022,,,Centre,
-2022,,,Anenii Noi,6.5
-2022,,,Calarasi,8.3
-2022,,,Criuleni,6
-2022,,,Dubasari,8
-2022,,,Hancesti,6.1
-2022,,,Ialoveni,5.7
-2022,,,Nisporeni,6.8
-2022,,,Orhei,7.1
-2022,,,Rezina,9
-2022,,,Straseni,7.1
-2022,,,Soldanesti,16
-2022,,,Telenesti,9.7
-2022,,,Ungheni,6.4
-2022,,,South,
-2022,,,Basarabeasca,8
-2022,,,Cahul,5.4
-2022,,,Cantemir,6.3
-2022,,,Causeni,5.1
-2022,,,Cimislia,6.1
-2022,,,Leova,5.8
-2022,,,Stefan Voda,6.1
-2022,,,Taraclia,6.9
-2022,,,UTA Gagauzia,8.4
+2020,,,Mun. Chisinau,4.214
+2020,,,mun. Balti,6.989
+2020,,,Briceni,7.934
+2020,,,Donduseni,7.168
+2020,,,Drochia,7.079
+2020,,,Edinet,9.331
+2020,,,Falesti,6.143
+2020,,,Floresti,7.575
+2020,,,Glodeni,5.711
+2020,,,Ocnita,7.231
+2020,,,Rascani,6.962
+2020,,,Sangerei,8.685
+2020,,,Soroca,8.915
+2020,,,Anenii Noi,6.752
+2020,,,Calarasi,8.881
+2020,,,Criuleni,6.423
+2020,,,Dubasari,8.328
+2020,,,Hancesti,6.289
+2020,,,Ialoveni,5.766
+2020,,,Nisporeni,6.929
+2020,,,Orhei,7.419
+2020,,,Rezina,9.874
+2020,,,Straseni,7.383
+2020,,,Soldanesti,17.558
+2020,,,Telenesti,9.93
+2020,,,Ungheni,6.613
+2020,,,Basarabeasca,8.419
+2020,,,Cahul,5.648
+2020,,,Cantemir,6.802
+2020,,,Causeni,5.265
+2020,,,Cimislia,6.491
+2020,,,Leova,5.838
+2020,,,Stefan Voda,6.544
+2020,,,Taraclia,8.117
+2020,,,UTA Gagauzia,9.259
+2021,,,,6.551
+2021,Men,,,7.255
+2021,Women,,,5.915
+2021,,15-24,,5.93
+2021,,25-34,,3.731
+2021,,35-44,,5.382
+2021,,45-54,,10.172
+2021,,55+,,11.154
+2021,,,Mun. Chisinau,4.069
+2021,,,mun. Balti,6.79
+2021,,,Briceni,7.832
+2021,,,Donduseni,7.089
+2021,,,Drochia,7.064
+2021,,,Edinet,9.443
+2021,,,Falesti,6.277
+2021,,,Floresti,7.507
+2021,,,Glodeni,5.726
+2021,,,Ocnita,7.241
+2021,,,Rascani,6.885
+2021,,,Sangerei,8.699
+2021,,,Soroca,8.798
+2021,,,Anenii Noi,6.729
+2021,,,Calarasi,8.758
+2021,,,Criuleni,6.371
+2021,,,Dubasari,8.391
+2021,,,Hancesti,6.21
+2021,,,Ialoveni,5.843
+2021,,,Nisporeni,6.991
+2021,,,Orhei,7.45
+2021,,,Rezina,9.513
+2021,,,Straseni,7.276
+2021,,,Soldanesti,17.38
+2021,,,Telenesti,10.319
+2021,,,Ungheni,6.704
+2021,,,Basarabeasca,8.318
+2021,,,Cahul,5.647
+2021,,,Cantemir,6.685
+2021,,,Causeni,5.247
+2021,,,Cimislia,6.472
+2021,,,Leova,5.994
+2021,,,Stefan Voda,6.563
+2021,,,Taraclia,7.589
+2021,,,UTA Gagauzia,9.022
+2022,,,,6.459
+2022,Men,,,7.209
+2022,Women,,,5.786
+2022,,15-24,,6.335
+2022,,25-34,,3.773
+2022,,35-44,,5.443
+2022,,45-54,,10.074
+2022,,55+,,10.488
+2022,,,Mun. Chisinau,4.014
+2022,,,mun. Balti,6.665
+2022,,,Briceni,7.587
+2022,,,Donduseni,6.587
+2022,,,Drochia,6.992
+2022,,,Edinet,9.276
+2022,,,Falesti,6.438
+2022,,,Floresti,7.496
+2022,,,Glodeni,5.815
+2022,,,Ocnita,7.436
+2022,,,Rascani,6.795
+2022,,,Sangerei,8.681
+2022,,,Soroca,8.361
+2022,,,Anenii Noi,6.716
+2022,,,Calarasi,8.71
+2022,,,Criuleni,6.175
+2022,,,Dubasari,8.259
+2022,,,Hancesti,6.284
+2022,,,Ialoveni,5.926
+2022,,,Nisporeni,7.098
+2022,,,Orhei,7.39
+2022,,,Rezina,9.309
+2022,,,Straseni,7.307
+2022,,,Soldanesti,16.848
+2022,,,Telenesti,10.334
+2022,,,Ungheni,6.736
+2022,,,Basarabeasca,8.413
+2022,,,Cahul,5.658
+2022,,,Cantemir,6.657
+2022,,,Causeni,5.322
+2022,,,Cimislia,6.294
+2022,,,Leova,5.974
+2022,,,Stefan Voda,6.456
+2022,,,Taraclia,7.131
+2022,,,UTA Gagauzia,8.765
+2023,,,,6.442
+2023,Men,,,7.149
+2023,Women,,,5.808
+2023,,15-24,,6.501
+2023,,25-34,,3.559
+2023,,35-44,,5.516
+2023,,45-54,,9.951
+2023,,55+,,10.488
+2023,,,Mun. Chisinau,4.098
+2023,,,mun. Balti,6.68
+2023,,,Briceni,7.43
+2023,,,Donduseni,6.53
+2023,,,Drochia,6.851
+2023,,,Edinet,9.19
+2023,,,Falesti,6.464
+2023,,,Floresti,7.319
+2023,,,Glodeni,5.784
+2023,,,Ocnita,7.395
+2023,,,Rascani,6.801
+2023,,,Sangerei,8.57
+2023,,,Soroca,8.266
+2023,,,Anenii Noi,6.729
+2023,,,Calarasi,8.681
+2023,,,Criuleni,6.182
+2023,,,Dubasari,8.223
+2023,,,Hancesti,6.374
+2023,,,Ialoveni,6.018
+2023,,,Nisporeni,7.156
+2023,,,Orhei,7.322
+2023,,,Rezina,9.05
+2023,,,Straseni,7.369
+2023,,,Soldanesti,16.46
+2023,,,Telenesti,10.145
+2023,,,Ungheni,6.695
+2023,,,Basarabeasca,8.432
+2023,,,Cahul,5.639
+2023,,,Cantemir,6.542
+2023,,,Causeni,5.48
+2023,,,Cimislia,6.261
+2023,,,Leova,5.941
+2023,,,Stefan Voda,6.367
+2023,,,Taraclia,6.968
+2023,,,UTA Gagauzia,8.517

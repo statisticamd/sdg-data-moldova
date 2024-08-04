@@ -38,7 +38,7 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) numărul beneficiarilor de pensii pentru limită de vârstă, CNAS- Forma  641</p> 
-  <p>  2)  Numărul populației de vârstă pensionară - BNS </p>
+  <p>  2)  Numărul populației de vârstă pensionară-BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -73,6 +73,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

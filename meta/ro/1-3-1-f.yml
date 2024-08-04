@@ -45,7 +45,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) CNAS - Forma 670 și 672</p> 
+  <p> 1) CNAS - Forma 670 și 672. Darea de seamă cu privire la indemnizația de incapacitate temporară de muncă;</p> 
   <p>  2) numărul persoanelor ocupate-BNS (Ancheta  Forței de Muncă) </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -55,7 +55,7 @@ DATA_SOURCE: >-
   <p>  2) Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Muncii și Protecției Sociale
+  Ministerul Sănătății, Muncii și Protecției Sociale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -75,7 +75,7 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Casa Națională de Asigurări Sociale</p> 
+  <p> 1) Casa Națională de Asigurări Sociale. (Prin Legea nr.311/2018 a fost modificat art.5 la Legea nr.289/2004 privind indemnizaţiile pentru incapacitate temporară de muncă şi alte prestaţii de asigurări sociale. Respectiv, datele au fost disponibile în SI CNAS începînd cu 01.07.2019, iar indemnizațiile de incapacitate temporară de muncă pînă la 30.06.2019 au fost stabilite și plătite de către angajatori la locul de muncă).</p> 
   <p>  2) Biroul Național de Statistică </p>
 source_periodicity_1: >-
   anual

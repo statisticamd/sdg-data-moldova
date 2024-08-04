@@ -5,11 +5,11 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2010,Russians,,,,,,,,,,
 2010,Jews,,,,,,,,,,
 2010,Ukrainians,,,,,,,,,,
-2010,,Men,,,,,,,,,20526
+2010,,Men,,,,,,,,,0
 2010,,Women,,,,,,,,,2481
 2010,,,0-17,,,,,,,,1487
 2010,,,18+,,,,,,,,21520
-2010,,,, ,,,,,,,
+2010,,,,,,,,,,,
 2010,,,,Mental,,,,,,,
 2010,,,,Intellectual,,,,,,,
 2010,,,,Sensory,,,,,,,
@@ -44,7 +44,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2011,,Women,,,,,,,,,2549
 2011,,,0-17,,,,,,,,1344
 2011,,,18+,,,,,,,,26203
-2011,,,, ,,,,,,,
+2011,,,,,,,,,,,
 2011,,,,Mental,,,,,,,
 2011,,,,Intellectual,,,,,,,
 2011,,,,Sensory,,,,,,,
@@ -79,7 +79,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2012,,Women,,,,,,,,,3236
 2012,,,0-17,,,,,,,,2021
 2012,,,18+,,,,,,,,32169
-2012,,,, ,,,,,,,
+2012,,,,,,,,,,,
 2012,,,,Mental,,,,,,,
 2012,,,,Intellectual,,,,,,,
 2012,,,,Sensory,,,,,,,
@@ -114,7 +114,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2013,,Women,,,,,,,,,4102
 2013,,,0-17,,,,,,,,2310
 2013,,,18+,,,,,,,,34697
-2013,,,, ,,,,,,,4
+2013,,,,,,,,,,,4
 2013,,,,Mental,,,,,,,3
 2013,,,,Intellectual,,,,,,,3
 2013,,,,Sensory,,,,,,,1
@@ -149,7 +149,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2014,,Women,,,,,,,,,5060
 2014,,,0-17,,,,,,,,2679
 2014,,,18+,,,,,,,,40468
-2014,,,, ,,,,,,,5
+2014,,,,,,,,,,,5
 2014,,,,Mental,,,,,,,3
 2014,,,,Intellectual,,,,,,,2
 2014,,,,Sensory,,,,,,,0
@@ -184,7 +184,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2015,,Women,,,,,,,,,5033
 2015,,,0-17,,,,,,,,2472
 2015,,,18+,,,,,,,,41508
-2015,,,, ,,,,,,,1
+2015,,,,,,,,,,,1
 2015,,,,Mental,,,,,,,2
 2015,,,,Intellectual,,,,,,,2
 2015,,,,Sensory,,,,,,,0
@@ -219,7 +219,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2016,,Women,,,,,,,,,5620
 2016,,,0-17,,,,,,,,2801
 2016,,,18+,,,,,,,,46759
-2016,,,, ,,,,,,,0
+2016,,,,,,,,,,,0
 2016,,,,Mental,,,,,,,21
 2016,,,,Intellectual,,,,,,,1
 2016,,,,Sensory,,,,,,,0
@@ -237,7 +237,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2016,,,,,,,Supreme Court of Justice,,,,72
 2016,,,,,,,Other authorities,,,,2703
 2016,,,,,,,,Regardless of income level (art. 20 law 198),,,37535
-2016,,,,,,,,Depending on the income level (art. 21 law 198),,,17066
+2016,,,,,,,,Depending on the income level (art. 21 law 198),,,12025
 2016,,,,,,,,,Qualified criminal cases,,40366
 2016,,,,,,,,,Qualified contravention cases,,1086
 2016,,,,,,,,,Qualified civil cases,,2910
@@ -254,7 +254,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2017,,Women,,,,,,,,,6613
 2017,,,0-17,,,,,,,,2864
 2017,,,18+,,,,,,,,51737
-2017,,,, ,,,,,,,1
+2017,,,,,,,,,,,1
 2017,,,,Mental,,,,,,,0
 2017,,,,Intellectual,,,,,,,2
 2017,,,,Sensory,,,,,,,1
@@ -289,7 +289,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2018,,Women,,,,,,,,,5615
 2018,,,0-17,,,,,,,,2605
 2018,,,18+,,,,,,,,47090
-2018,,,, ,,,,,,,8
+2018,,,,,,,,,,,8
 2018,,,,Mental,,,,,,,7
 2018,,,,Intellectual,,,,,,,0
 2018,,,,Sensory,,,,,,,1
@@ -324,7 +324,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2019,,Women,,,,,,,,,5631
 2019,,,0-17,,,,,,,,2403
 2019,,,18+,,,,,,,,46112
-2019,,,, ,,,,,,,52
+2019,,,,,,,,,,,52
 2019,,,,Mental,,,,,,,21
 2019,,,,Intellectual,,,,,,,1
 2019,,,,Sensory,,,,,,,3
@@ -359,7 +359,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2020,,Women,,,,,,,,,5603
 2020,,,0-17,,,,,,,,2323
 2020,,,18+,,,,,,,,41942
-2020,,,, ,,,,,,,317
+2020,,,,,,,,,,,317
 2020,,,,Mental,,,,,,,232
 2020,,,,Intellectual,,,,,,,57
 2020,,,,Sensory,,,,,,,15
@@ -394,7 +394,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2021,,Women,,,,,,,,,6512
 2021,,,0-17,,,,,,,,2213
 2021,,,18+,,,,,,,,45777
-2021,,,, ,,,,,,,279
+2021,,,,,,,,,,,279
 2021,,,,Mental,,,,,,,579
 2021,,,,Intellectual,,,,,,,115
 2021,,,,Sensory,,,,,,,26
@@ -429,7 +429,7 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2022,,Women,,,,,,,,,6794
 2022,,,0-17,,,,,,,,2513
 2022,,,18+,,,,,,,,47847
-2022,,,, ,,,,,,,239
+2022,,,,,,,,,,,239
 2022,,,,Mental,,,,,,,682
 2022,,,,Intellectual,,,,,,,138
 2022,,,,Sensory,,,,,,,19
@@ -454,3 +454,38 @@ Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign
 2022,,,,,,,,,Emergency criminal cases,,3922
 2022,,,,,,,,,Emergency contravention cases,,79
 2022,,,,,,,,,,Total,13772
+2023,,,,,,,,,,,44695
+2023,Bulgarians,,,,,,,,,,126
+2023,Roma,,,,,,,,,,245
+2023,Russians,,,,,,,,,,730
+2023,Jews,,,,,,,,,,22
+2023,Ukrainians,,,,,,,,,,512
+2023,,Men,,,,,,,,,37358
+2023,,Women,,,,,,,,,7337
+2023,,,0-17,,,,,,,,2428
+2023,,,18+,,,,,,,,42267
+2023,,,,,,,,,,,195
+2023,,,,Mental,,,,,,,864
+2023,,,,Intellectual,,,,,,,157
+2023,,,,Sensory,,,,,,,80
+2023,,,,,Republic of Moldova,,,,,,43070
+2023,,,,,Foreign citizenship,,,,,,1625
+2023,,,,,Stateless,,,,,,0
+2023,,,,,,Temporary protection,,,,,3659
+2023,,,,,,Humanitarian protection,,,,,54
+2023,,,,,,Refugees,,,,,61
+2023,,,,,,Asylum seekers,,,,,108
+2023,,,,,,,Prosecution,,,,993
+2023,,,,,,,Police inspectorate,,,,18323
+2023,,,,,,,Court,,,,17838
+2023,,,,,,,Court of Appeal,,,,5725
+2023,,,,,,,Supreme Court of Justice,,,,27
+2023,,,,,,,Other authorities,,,,1789
+2023,,,,,,,,Regardless of income level (art. 20 law 198),,,31287
+2023,,,,,,,,Depending on the income level (art. 21 law 198),,,13408
+2023,,,,,,,,,Qualified criminal cases,,32884
+2023,,,,,,,,,Qualified contravention cases,,3910
+2023,,,,,,,,,Qualified civil cases,,4340
+2023,,,,,,,,,Emergency criminal cases,,3486
+2023,,,,,,,,,Emergency contravention cases,,75
+2023,,,,,,,,,,Total,15010

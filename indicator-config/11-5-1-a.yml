@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 11.5.1.a. Number of deaths attributed to disasters per 100,000 population (  the same as 1.5.1.a/13.1.1.a)11.5.1.a. Number of deaths attributed to  disasters per 100,000 population ( the same as 1.5.1.a/13.1.1.a)11.5.1.a.  Number of deaths attributed to disasters per 100,000 population ( the same as  1.5.1.a/13.1.1.a)11.5.1.a. Number of deaths attributed to disasters per  100,000 population ( the same as 1.5.1.a/13.1.1.a)
+graph_title: national_indicators.11-5-1-a-graph
 graph_titles: []
 graph_type: line
-indicator_available: Number of deaths attributed to disasters per 100,000 population (  the same as 1.5.1.a/13.1.1.a)
+indicator_available: national_indicators.11-5-1-a-title
 indicator_name: national_indicators.11-5-1-a-title
 indicator_number: 11.5.1.a
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global divided
+tags: []
 x_axis_label: ''

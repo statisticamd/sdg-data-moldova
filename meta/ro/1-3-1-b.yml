@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.3.1.b: Proporția copiilor acoperiți cu indemnizații adresate familiilor cu copii  (indemnizație lunară pentru îngrijirea copilului până la împlinirea vârstei de  2 ani persoanelor neasigurate, indemnizații pentru îngrijirea copilului  persoanelor asigurate)</p>
+  <p>Indicator 1.3.1.b: Proporția copiilor acoperiți cu indemnizații adresate familiilor cu copii  (indemnizație lunară pentru îngrijirea copilului până la împlinirea vârstei de  2 ani persoanelor neasigurate, indemnizații pentru creșterea copilului  persoanelor asigurate).Începînd cu 01.10.2022, conform HG nr.724/2022 prevede indemnizație lunară pentru îngrijirea copilului pînă la împlinirea vîrstei de 2 ani, indiferent de statutul persoanei.</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.3: Implementarea unor sisteme de protecție socială adecvate la nivel național și  a măsurilor necesare,  inclusiv pentru toate nivelurile, pentru o acoperire  substanțială a celor săraci și vulnerabili până în 2030</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -31,20 +31,20 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indemnizație lunară pentru creșterea și îngrijirea copilului  - sumă lunară  acordată pentru creșterea și îngrijirea copilului până la împlinirea vârstei  de 3 ani în cazul persoanelor asigurate, și până la împlinirea vârstei de 2  ani în cazul persoanelor neasigurate (Hotărârea Guvernului nr. 1478 din   15.11.2002  cu privire la indemnizațiile adresate familiilor cu copii)
+  Indemnizație lunară pentru creșterea și îngrijirea copilului  - sumă lunară  acordată pentru creșterea și îngrijirea copilului până la împlinirea vârstei  de 3 ani în cazul persoanelor asigurate, și până la împlinirea vârstei de 2  ani în cazul persoanelor neasigurate (Hotărârea Guvernului nr. 1478 din   15.11.2002  cu privire la indemnizațiile adresate familiilor cu copii). Începînd cu 01.10.2022, conform HG nr.724/2022 prevede indemnizație lunară pentru îngrijirea copilului pînă la împlinirea vîrstei de 2 ani, indiferent de statutul persoanei.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Numărul de copii care primesc îndemnizații pentru îngrijirea/creșterea  copiilor până la vârsta de 2/3 ani, CNAS - Forma 648 as și 648 ns</p> 
-  <p>2)  Numărul total de copii în vârstă de până la 3 ani - BNS </p>
+  <p> 1) Numărul de copii care primesc îndemnizații pentru îngrijirea/creșterea  copiilor până la vârsta de 2/3 ani, CNAS - Forma 648 as și 648 </p> 
+  <p>  2)  Numărul total de copii în vârstă de până la 3 ani -BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1) Casa Națională de Asigurări Sociale</p> 
-  <p>2) Biroul Național de Statistică </p>
+  <p>  2) Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul total al copiilor care beneficiază de indemnizații pentru îngrijirea  copilului până la 3 ani/2 ani (persoane asigurate/neasigurate),  raportat la  numărul total al copiilor în vârstă de până la 3 ani.
+  Numărul total al copiilor care beneficiază de indemnizații pentru îngrijirea/ creșterea copilului până la 2 ani/3 ani (persoane asigurate/neasigurate),  raportat la  numărul total al copiilor în vârstă de până la 3 ani.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -60,7 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Sunt considerate doar indemnizațiile pentru creșterea și îngrijirea copiilor  până la 3/2 ani, pentru persoanele asigurate și neasigurate
+  Sunt considerate doar indemnizațiile pentru creșterea și îngrijirea copiilor  până la 3/2 ani, pentru persoanele asigurate și neasigurate. Începînd cu 01.10.2022, conform HG nr.724/2022 prevede indemnizație lunară pentru îngrijirea copilului pînă la împlinirea vîrstei de 2 ani, indiferent de statutul persoanei.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -69,11 +69,11 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Casa Națională de Asigurări Sociale</p> 
-  <p>2) Biroul Național de Statistică </p>
+  <p>  2) Biroul Național de Statistică </p>
 source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

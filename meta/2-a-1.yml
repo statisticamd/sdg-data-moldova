@@ -36,7 +36,7 @@ STAT_CONC_DEF: >-
   <p>  The term "Agriculture" refers to  the agricultural, forestry, fishing and hunting sector or division A of the  Classifier of Activities in Moldova's Economy (CAEM,  rev.2).</p> 
   <p>  Public expenditures -  expenditures according to the budgetary classification system of the Republic  of  Moldova which since 2015 is in line with the Classification of Functions of Government  (COFOG) developed by UN and the Classification of Governmental Financial  Statistics (GFS) developed by IMF. </p>
 UNIT_MEASURE: >-
-  Index
+  Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -81,5 +81,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  Elena Cojocaru, Senior advisor, Policy Analysis, Monitoring and Evaluation Directorate, Ministry of Agriculture and Food Industr, tel. 022 204 519, e-mail: elena.cojocaru@maia.gov.md
+  Marian Soroceanu, Senior Consultant, Public Policy Coordination and European Integration Department, Ministry of Agriculture and Food Industry, tel. 022 204 518, e-mail: marian.soroceanu@maia.gov.md
 source_other_info_1: >-

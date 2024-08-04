@@ -1,13 +1,14 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 9.b.1: Proportion of medium and high-tech industry value added in total value added</p>
+  <p>Indicator 9.b.1: Proportion of medium and high-tech industry value added in total value added in manufacturing industry</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 9.b: Support domestic technology development, research and innovation in developing  countries, including by ensuring a conducive policy environment for, inter  alia, industrial diversification and value addition to commodities</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Industrial Development Organization (UNIDO)
+  United Nations Industrial Development Organization (UNIDO), Competitive Industrial Performance (CIP) database
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
+  The share of the added value of medium and high-tech industry in the total added value of production
 SDG_GOAL: ''
 target_id: >-
   9.b
@@ -17,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 9.b.1: Proportion of medium and high-tech industry gross value added in total value  added of manufacturing industry</p>
+  <p>Indicator 9.b.1: tion of medium and high-tech industry gross value added in total value  added of manufacturing industry</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -76,3 +77,6 @@ source_url_text_1: >-
   Link to data source
 source_contact_1: >-
 source_other_info_1: >-
+  <p> https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__92-SDG__01-sdgover/009_en_sdGoal9_r.px</p> 
+  <p>https://data.worldbank.org/indicator/NV.MNF.TECH.ZS.UN?end=2021&locations=MD&start=1990&view=chart</p> 
+  <p>https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=NV.MNF.TECH.ZS.UN </p>

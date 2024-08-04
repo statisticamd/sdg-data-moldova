@@ -39,8 +39,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Number of beneficiaries who receive disability pensions and social allowances,  NSIH - Form 641 & 652</p> 
-  <p>  2) Number of persons with severe disabilities -  NSIH (same source), NBS (based on PHC/other relevant source) </p>
+  <p> 1) no. of beneficiaries who receive disability pensions and social allowances,  NSIH - Form 641 & 652</p> 
+  <p>  2) number of persons with severe disabilities -  NSIH (same source), NBS (based on PHC/other relevant source) </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

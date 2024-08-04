@@ -38,13 +38,13 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) No. of children receiving childcare allowances until the age of 2/3 years  old, NSIC - Form 648 as & 648 ns</p> 
-  <p>2) Total number of children/families  with children - NBS </p>
+  <p>  2) Total number of children/families  with children - NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. National Social Insurance House</p> 
-  <p>2. National Bureau of Statistics </p>
+  <p>  2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Labour and Social Protection
@@ -69,7 +69,7 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1. National Social Insurance House</p> 
-  <p>2. National Bureau of Statistics </p>
+  <p>  2. National Bureau of Statistics </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-

@@ -48,7 +48,7 @@ DATA_SOURCE: >-
   <p>  2) Biroul Național  de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Afacerilor Interne
+  Ministerului Afacerilor Interne
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -75,6 +75,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

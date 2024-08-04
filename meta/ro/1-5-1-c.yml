@@ -33,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Situații excepționale se vor considera: cu caracter tehnogen, natural și  biologico-social. Situațiile excepționale se împart în următoarele tipuri: de  obiect, locale, teritoriale, naționale și transfrontaliere (HG  1076/16.11.2010).
 UNIT_MEASURE: >-
-  Persoane la 100.000 locuitori
+  pers. la 100.000
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -81,6 +81,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

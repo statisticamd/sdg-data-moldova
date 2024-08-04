@@ -41,12 +41,12 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Ministry of Foreign Affairs and European Integration</p> 
+  <p> 1.Ministry of Foreign Affairs </p> 
   <p>  2.United Nations  General Assembly (UNGA), United Nations Security Council (UNSC), United  Nations Economic and Social Council (ECOSOC), International Monetary Fund,  International Bank for Reconstruction and Development (IBRD), Institute of  Continuing Education (ICE), African Development Bank (AfDB),  </p> 
   <p>  Asian  Development Bank (ADB), Inter-American Development Bank (IADB), World Trade  Organization (WTO), Federal Security Service (FSB) </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Foreign Affairs and European Integration
+  Ministry of Foreign Affairs
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -66,12 +66,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.Ministry of Foreign Affairs and European Integration</p> 
+  <p> 1.Ministry of Foreign Affairs</p> 
   <p>  2.FFD/United  Nations Department of Economic and Social Affairs (UNDESA) </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to source: https://unstats.un.org/sdgs/dataportal/database
 source_contact_1: >-
 source_other_info_1: >-
