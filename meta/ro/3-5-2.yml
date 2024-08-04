@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 3.5.2: Consumul  de alcool per capita (15+ ani) în decurs de un an calendaristic în  litri de alcool pur</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Consolidarea prevenirii și tratamentului abuzului de substanțe, inclusiv  abuzul de droguri și substanțe narcotice și a consumului nociv de alcool</p>
+  <p>Target 3.5: Consolidarea prevenirii și tratamentului abuzului de substanțe, inclusiv  abuzul de droguri și substanțe narcotice și a consumului nociv de alcool</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organisation (WHO)
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf
@@ -32,7 +33,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Consumul total de alcool per locuitor (APC) este definit ca cantitatea totală  (suma consumului de alcool per locuitor înregistrat în medie pe trei ani și  consumul neînregistrat de alcool per persoană ca procent din total) de alcool  consumată de către adulți (15+ ani) în timpul anului calendaristic, în litri  de alcool pur, ajustată la consumul turistic.
 UNIT_MEASURE: >-
-  litri
+  Litri
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -59,7 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  -
+  Indicatorul este în totalitate comparabil cu indicatorul global
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

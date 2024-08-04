@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
@@ -57,6 +58,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  The indicator is not directly comparable with the global indicator, which lists treatment interventions. The national indicator focuses on psychotropic substance users, while the global indicator refers to substance use disorders.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

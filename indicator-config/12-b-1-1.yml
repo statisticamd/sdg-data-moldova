@@ -36,12 +36,15 @@ national_geographical_coverage: Republic of Moldova
 page_content: >-
   <p> ***Non-statistical indicator***</p> 
   <p>For 2022:</p> 
-  <p>1.National Regional Development Strategy (NRDS) for the years 2022-2028, 
-  HG no.40 of 26.01.2022;</p> 
+  <p>1.
+National Regional Development Strategy (NRDS) for the years 2022-2028, HG no.
+40 of 26.01.2022;</p> 
   <p>2. The Government's action plan for the years 2021-2022;</p>
+
   <p>3. The national development strategy "European Moldova 2030";</p>
-  <p>4. The re-technological and energy efficiency program of small and medium-sized 
-  enterprises;</p> 
+
+  <p>4. The re-technological and energy efficiency program of small and medium-sized
+enterprises;</p> 
   <p>5. The European Village Program. </p>
 permalink: ''
 placeholder: ''
@@ -53,6 +56,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

@@ -41,16 +41,11 @@ page_content: >-
   <p>2013 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
   <p>2014 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
   <p>2015 - Strategia Națională a Sănătății Reproducerii 2005-2015</p> 
-  <p>2018 - Programul național privind sănătatea și drepturile sexuale și reproductive 
-  pentru anii 2018-2022 (HG 681/2018)</p> 
-  <p>2019 - Programul național privind sănătatea și drepturile sexuale și reproductive 
-  pentru anii 2018-2022 (HG 681/2018)</p> 
-  <p>2020 - Programul național privind sănătatea și drepturile sexuale și reproductive 
-  pentru anii 2018-2022 (HG 681/2018)</p> 
-  <p>2021 - Programul național privind sănătatea și drepturile sexuale și reproductive 
-  pentru anii 2018-2022 (HG 681/2018)</p> 
-  <p>2022 - Programul național privind sănătatea și drepturile sexuale și reproductive 
-  pentru anii 2018-2022 (HG 681/2018) </p>
+  <p>2018 - Programul național privind sănătatea și drepturile sexuale și reproductive pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2019 - Programul național privind sănătatea și drepturile sexuale și reproductive pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2020 - Programul național privind sănătatea și drepturile sexuale și reproductive pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2021 - Programul național privind sănătatea și drepturile sexuale și reproductive pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2022 - Programul național privind sănătatea și drepturile sexuale și reproductive pentru anii 2018-2022 (HG 681/2018) </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -61,6 +56,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Național proxy
+tags: []
 x_axis_label: ''

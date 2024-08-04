@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 3.5.1: Gradul de acoperire cu intervenții de tratare (servicii farmacologice,  psiho-sociale și de reabilitare, cât și servicii după acordarea de asistență)  pentru tulburările cauzate de consumul de substanțe</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Consolidarea prevenirii și tratamentului abuzului de substanțe, inclusiv  abuzul de droguri și substanțe narcotice și a consumului nociv de alcool</p>
+  <p>Target 3.5: Consolidarea prevenirii și tratamentului abuzului de substanțe, inclusiv  abuzul de droguri și substanțe narcotice și a consumului nociv de alcool</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   WHO,UNODC
@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
@@ -57,6 +58,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Indicatorul nu este comparabil direct cu indicatorul global, care enumeră intervențiile de tratare. Indicatorul național se concentrează pe consumatorii de substanțe psihotropice, în timp ce indicatorul global se referă la tulburările cauzate de consumul de substanțe.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -66,7 +68,7 @@ source_active_1: true
 source_organisation_1: >-
   Ministerul Sănătății/Dispensarul Republican de Narcologie
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

@@ -36,13 +36,15 @@ national_geographical_coverage: Republica Moldova
 page_content: >-
   <p> ***Indicator non-statistic***</p> 
   <p>Pentru anul 2022:</p>
-  <p>1.Strategia Națională de Dezvoltare Regională (SNDR) pentru anii 2022-2028, 
-  HG nr.40 
-  din 26.01.2022;</p> 
-  <p>2. Planul de acţiuni al Guvernului pentru anii 2021-2022;</p> 
-  <p>3. Strategia națională de dezvoltare „Moldova Europeană 2030”;</p> 
-  <p>4. Programul de retehnologizare și eficiență energetică a întreprinderilor mici și 
-  mijlocii;</p> 
+
+  <p>1.Strategia Națională de Dezvoltare Regională (SNDR) pentru anii 2022-2028,
+HG nr.40 din 26.01.2022;</p> 
+  <p>2. Planul de acţiuni al Guvernului pentru
+anii 2021-2022;</p> 
+  <p>3. Strategia națională de dezvoltare „Moldova Europeană
+2030”;</p> 
+  <p>4. Programul de retehnologizare și eficiență energetică a întreprinderilor
+mici și mijlocii;</p> 
   <p>5. Programul Satul European. </p>
 permalink: ''
 placeholder: ''
@@ -54,6 +56,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Național proxy
+tags: []
 x_axis_label: ''

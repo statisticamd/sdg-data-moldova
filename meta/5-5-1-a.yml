@@ -46,8 +46,8 @@ DATA_SOURCE: >-
   <p>  2. Central Electoral Commission </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p>State Chancellery</p>
-  <p>Ministry of Labour and Social Protection</p>
+  <p> State Cancellary</p> 
+  <p>Ministry of Labour and Social Protection </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

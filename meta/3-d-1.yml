@@ -62,6 +62,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Comparability between the national and global indicator is partial. The national indicator is more detailed, including additional sub-indicators
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -75,6 +76,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://extranet.who.int/e-spar
 source_url_text_1: >-
-  Link to source
+  Electronic State Parties Self-Assessment Annual Reporting Tool (e-SPAR)
 source_contact_1: >-
 source_other_info_1: >-

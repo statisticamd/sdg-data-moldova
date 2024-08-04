@@ -10,8 +10,10 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-0B-03.pdf
 GOAL_META_LINK_TEXT: >-
   UN Metadata
 SDG_INDICATOR: >-
@@ -58,6 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  The indicator is fully comparable with the global indicator
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

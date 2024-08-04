@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 16.3.2.4. Level of public satisfaction  regarding on the quality of services  in the judicial system
+graph_title: national_indicators.16-3-2-4-graph
 graph_titles: []
 graph_type: line
-indicator_available: Level of public satisfaction  regarding on the quality of services  in the judicial system
+indicator_available: national_indicators.16-3-2-4-title
 indicator_name: national_indicators.16-3-2-4-title
 indicator_number: 16.3.2.4
 indicator_tabs:: 
@@ -40,10 +40,9 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - National proxy
+tags: []
 x_axis_label: ''

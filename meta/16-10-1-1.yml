@@ -45,7 +45,7 @@ DATA_SOURCE: >-
   Reporters Without Borders (RSF) is an independent NGO with consultative status  with the United Nations, United Nations Educational, Scientific and Cultural  Organization (UNESCO), the Council of Europe and the International  Organization of the Francophonie (OIF)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. National Council for Human Rights</p> 
+  1. National Council for Human Rights
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
