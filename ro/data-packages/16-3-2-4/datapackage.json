@@ -59,11 +59,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Scăzut",
+                "Mediu",
+                "Înalt",
                 ""
               ]
             },
-            "title": "Socioeconomic status"
+            "title": "Statut socioeconomic"
           },
           {
             "name": "Value",
