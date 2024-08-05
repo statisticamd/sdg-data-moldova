@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "13-15 years / Total",
-                "13-15 years / Urban",
-                "13-15 years / Rural",
-                "13-15 years / Men",
-                "13-15 years / Women",
+                "13-15 ani / Total",
+                "13-15 ani / Urban",
+                "13-15 ani / Rural",
+                "13-15 ani / Băieți",
+                "13-15 ani / Fete",
                 ""
               ]
             },
@@ -35,11 +35,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18-20 years / Total",
-                "18-20 years / Urban",
-                "18-20 years / Rural",
-                "18-20 years / Men",
-                "18-20 years / Women",
+                "21-23 ani / Total",
+                "18-20 ani / Urban",
+                "18-20 ani / Rural",
+                "18-20 ani / Bărbați",
+                "18-20 ani / Femei",
                 ""
               ]
             },
@@ -50,11 +50,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18-20 years / Total",
-                "21-23 years / Urban",
-                "21-23 years / Rural",
-                "21-23 years / Men",
-                "21-23 years / Women",
+                "21-23 ani / Total",
+                "21-23 ani / Urban",
+                "21-23 ani / Rural",
+                "21-23 ani / Bărbați",
+                "21-23 ani / Femei",
                 ""
               ]
             },

@@ -21,14 +21,14 @@
             "constraints": {
               "enum": [
                 "15-24 ani / Ambele sexe",
-                "15-24   years / Men",
-                "15-24  years  / Women",
-                "15-29  years  / Both sexes",
-                "15-29  years  / Men",
-                "15-29   years / Women",
-                "15-34   years / Both sexes",
-                "15-34  years  / Men",
-                "15-34   years / Women",
+                "15-24  ani / Bărbați",
+                "15-24 ani  / Femei",
+                "15-29 ani  / Ambele sexe",
+                "15-29 ani  / Bărbați",
+                "15-29  ani / Femei",
+                "15-34 ani  / Ambele sexe",
+                "15-34 ani  / Bărbați",
+                "15-34 ani  / Femei",
                 ""
               ]
             },
