@@ -23,10 +23,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 4.1.2 Completion rate (primary education, lower secondary education, upper secondary education)
+graph_title: national_indicators.4-1-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: Completion rate (primary education, lower secondary education, upper secondary education)
+indicator_available: national_indicators.4-1-2-title
 indicator_name: global_indicators.4-1-2-title
 indicator_number: 4.1.2
 indicator_tabs:: 
@@ -47,6 +47,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
+tags: []
 x_axis_label: ''

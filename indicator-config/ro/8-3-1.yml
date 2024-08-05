@@ -47,6 +47,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global ajustat
+tags: []
 x_axis_label: ''

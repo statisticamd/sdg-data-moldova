@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 8.7.1: Ponderea șI numărul copiilor cu vârsta între 5-17 ani, care se află în situația de  „munca copiilor” pe sexe și vârstă</p>
+  <p>Indicator 8.7.1.a: Ponderea șI numărul copiilor cu vârsta între 5-17 ani, care se află în situația de  „munca copiilor” pe sexe și vârstă</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 8.7: Măsuri imediate și eficiente pentru eradicarea muncii forțate, eliminarea  sclaviei moderne și a traficului de ființe umane, și asigurarea interzicerii  și eliminării celor mai grave forme ale muncii copiilor, inclusiv recrutarea  și utilizarea copiilor soldați, iar până în 2025, eliminarea muncii copiilor  în toate formele sale.</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -73,7 +73,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  II
+  I
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
@@ -84,5 +84,5 @@ source_url_1: >-
 source_url_text_1: >-
   Munca Copiilor,  ediția 2010
 source_contact_1: >-
-  ALERGUȘ-SOLOVIOV Mariana, șef Direcția statistica ocupării, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
+  ALERGUȘ-SOLOVIOV Mariana, șefa Direcția statistica forței de muncă, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
 source_other_info_1: >-

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 8.7.1.b Number of children aged 5–17 years engaged in child labour
+graph_title: national_indicators.8-7-1-b-graph
 graph_titles: []
 graph_type: line
-indicator_available: Number of children aged 5–17 years engaged in child labour
+indicator_available: national_indicators.8-7-1-b-title
 indicator_name: national_indicators.8-7-1-b-title
 indicator_number: 8.7.1.b
 indicator_tabs:: 
@@ -44,6 +44,5 @@ reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global divided
+tags: []
 x_axis_label: ''
