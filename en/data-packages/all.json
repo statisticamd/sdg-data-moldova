@@ -1580,15 +1580,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "15-29 / Both sexes",
-                "15-29 / Men",
-                "15-29 / Women",
-                "15-34 / Both sexes",
-                "15-34 / Men",
-                "15-34 / Women",
+                "15-24 years / Both sexes",
+                "15-24   years / Men",
+                "15-24  years  / Women",
+                "15-29  years  / Both sexes",
+                "15-29  years  / Men",
+                "15-29   years / Women",
+                "15-34   years / Both sexes",
+                "15-34  years  / Men",
+                "15-34   years / Women",
                 ""
               ]
             },
@@ -8894,12 +8894,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "25-64 / Both sexes",
-                "25-64 / Men",
-                "25-64 / Women",
+                "15-24 years / Both sexes",
+                "15-24 years / Men",
+                "15-24 years / Women",
+                "25-64 years / Both sexes",
+                "25-64 years / Men",
+                "25-64 years / Women",
                 ""
               ]
             },
@@ -8994,11 +8994,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
+                "15-24 years",
+                "25-34 years",
+                "35-44 years",
+                "45-54 years",
+                "55-64 years",
                 ""
               ]
             },
@@ -9163,8 +9163,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25 and over",
+                "15-24 years",
+                "25 years +",
                 ""
               ]
             },
@@ -10184,68 +10184,48 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Managerial positions held by women",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Total - Proportion of managerial positions held by women",
+                "Urban - Proportion of managerial positions held by women",
+                "Rural - Proportion of managerial positions held by women",
+                "Agriculture - Proportion of managerial positions held by women",
+                "Industry - Proportion of managerial positions held by women",
+                "Construction - Proportion of managerial positions held by women",
+                "Wholesale and retail trade; accomodation and food service activities - Proportion of managerial positions held by women",
+                "Transportation and storage; information and communication - Proportion of managerial positions held by women",
+                "Public administration; education; health and social work - Proportion of managerial positions held by women",
+                "Other activities - Proportion of managerial positions held by women",
+                "Public property - Proportion of managerial positions held by women",
+                "Other forms of property - Proportion of managerial positions held by women",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Managerial positions held by women"
           },
           {
-            "name": "Series",
+            "name": "Women in senior and middle management positions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of managerial positions held by women",
-                "Proportion of women in senior and middle management positions",
+                "Total - Proportion of women in senior and middle management positions",
+                "Urban - Proportion of women in senior and middle management positions",
+                "Rural - Proportion of women in senior and middle management positions",
+                "Agriculture - Proportion of women in senior and middle management positions",
+                "Industry - Proportion of women in senior and middle management positions",
+                "Construction - Proportion of women in senior and middle management positions",
+                "Wholesale and retail trade; accomodation and food service activities - Proportion of women in senior and middle management positions",
+                "Transportation and storage; information and communication - Proportion of women in senior and middle management positions",
+                "Public administration; education; health and social work - Proportion of women in senior and middle management positions",
+                "Other activities - Proportion of women in senior and middle management positions",
+                "Public property - Proportion of women in senior and middle management positions",
+                "Other forms of property - Proportion of women in senior and middle management positions",
                 ""
               ]
             },
-            "title": "Series"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Area of residence"
-          },
-          {
-            "name": "Economic activities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Agriculture",
-                "Industry",
-                "Construction",
-                "Wholesale and retail trade; accomodation and food service activities",
-                "Transportation and storage; information and communication",
-                "Public administration; education; health and social work",
-                "Other activities",
-                ""
-              ]
-            },
-            "title": "Economic activities"
-          },
-          {
-            "name": "Forms of ownership",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Public",
-                "Other forms",
-                ""
-              ]
-            },
-            "title": "Forms of ownership"
+            "title": "Women in senior and middle management positions"
           },
           {
             "name": "Value",
@@ -13450,9 +13430,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-64",
-                "65+",
+                "15-24 years",
+                "25-64 years",
+                "65 years+",
                 ""
               ]
             },
@@ -14204,53 +14184,49 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Proportion of persons aged of 13-15 years who have completed primary education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "13-15 years / Total",
+                "13-15 years / Urban",
+                "13-15 years / Rural",
+                "13-15 years / Men",
+                "13-15 years / Women",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Proportion of persons aged of 13-15 years who have completed primary education"
           },
           {
-            "name": "Series",
+            "name": "Proportion of persons aged of 18-20 years who have completed lower secondary education (gimnasium)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of persons aged of 13-15 year who have completed primary education",
-                "Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium)",
-                "Proportion of persons aged of 21-23 year who have completed upper secondary education",
+                "18-20 years / Total",
+                "18-20 years / Urban",
+                "18-20 years / Rural",
+                "18-20 years / Men",
+                "18-20 years / Women",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Proportion of persons aged of 18-20 years who have completed lower secondary education (gimnasium)"
           },
           {
-            "name": "Area of residence",
+            "name": "Proportion of persons aged of 21-23 years who have completed upper secondary education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "18-20 years / Total",
+                "21-23 years / Urban",
+                "21-23 years / Rural",
+                "21-23 years / Men",
+                "21-23 years / Women",
                 ""
               ]
             },
-            "title": "Area of residence"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Proportion of persons aged of 21-23 years who have completed upper secondary education"
           },
           {
             "name": "Value",

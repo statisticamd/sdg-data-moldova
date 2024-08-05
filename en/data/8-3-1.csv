@@ -35,84 +35,93 @@ Year,Sex,Agricultural sector,Non-agricultural sector,Value
 2013,,,Total non-agricultural sector,
 2013,,,Men - non-agricultural sector,
 2013,,,Women - non-agricultural sector,
-2014,,,,33.5
-2014,Men,,,37.8
-2014,Women,,,29.2
-2014,,Total - agricultural sector,,77.4
-2014,,Men - agricultural sector,,72.5
-2014,,Women - agricultural sector,,83.9
-2014,,,Total non-agricultural sector,12.5
-2014,,,Men - non-agricultural sector,18.0
-2014,,,Women - non-agricultural sector,7.6
-2015,,,,36.6
-2015,Men,,,41.2
-2015,Women,,,31.9
-2015,,Total - agricultural sector,,82.5
-2015,,Men - agricultural sector,,76.7
-2015,,Women - agricultural sector,,90.3
-2015,,,Total non-agricultural sector,12.7
-2015,,,Men - non-agricultural sector,18.7
-2015,,,Women - non-agricultural sector,7.4
-2016,,,,38.3
-2016,Men,,,41.7
-2016,Women,,,34.8
-2016,,Total - agricultural sector,,82.3
-2016,,Men - agricultural sector,,75.9
-2016,,Women - agricultural sector,,90.2
-2016,,,Total non-agricultural sector,12.9
-2016,,,Men - non-agricultural sector,18.9
-2016,,,Women - non-agricultural sector,7.6
-2017,,,,37.0
-2017,Men,,,41.0
-2017,Women,,,32.8
-2017,,Total - agricultural sector,,82.5
-2017,,Men - agricultural sector,,76.7
-2017,,Women - agricultural sector,,90.4
-2017,,,Total non-agricultural sector,11.9
-2017,,,Men - non-agricultural sector,17.2
-2017,,,Women - non-agricultural sector,7.1
-2018,,,,39.7
-2018,Men,,,42.7
-2018,Women,,,36.7
-2018,,Total - agricultural sector,,82.9
-2018,,Men - agricultural sector,,76.7
-2018,,Women - agricultural sector,,90.3
-2018,,,Total non-agricultural sector,11.8
-2018,,,Men - non-agricultural sector,17.4
-2018,,,Women - non-agricultural sector,6.6
-2019,,,,23.1
-2019,Men,,,27.9
-2019,Women,,,18.1
-2019,,Total - agricultural sector,,64.3
-2019,,Men - agricultural sector,,55.3
-2019,,Women - agricultural sector,,78.3
-2019,,,Total non-agricultural sector,12.2
-2019,,,Men - non-agricultural sector,18.8
-2019,,,Women - non-agricultural sector,5.9
-2020,,,,22.4
-2020,Men,,,28.1
-2020,Women,,,16.1
-2020,,Total - agricultural sector,,65.7
-2020,,Men - agricultural sector,,57.4
-2020,,Women - agricultural sector,,79.7
-2020,,,Total non-agricultural sector,10.8
-2020,,,Men - non-agricultural sector,18.2
-2020,,,Women - non-agricultural sector,3.7
-2021,,,,22.8
-2021,Men,,,27.9
-2021,Women,,,17.1
-2021,,Total - agricultural sector,,65.0
-2021,,Men - agricultural sector,,56.7
-2021,,Women - agricultural sector,,78.4
-2021,,,Total non-agricultural sector,11.3
-2021,,,Men - non-agricultural sector,18.1
-2021,,,Women - non-agricultural sector,4.4
-2022,,,,22.0
-2022,Men,,,27.1
-2022,Women,,,16.5
-2022,,Total - agricultural sector,,63.4
-2022,,Men - agricultural sector,,53.6
-2022,,Women - agricultural sector,,80.0
-2022,,,Total non-agricultural sector,11.1
-2022,,,Men - non-agricultural sector,18.1
-2022,,,Women - non-agricultural sector,4.4
+2014,,,,33.545
+2014,Men,,,37.824
+2014,Women,,,29.165
+2014,,Total - agricultural sector,,77.401
+2014,,Men - agricultural sector,,72.492
+2014,,Women - agricultural sector,,83.867
+2014,,,Total non-agricultural sector,12.502
+2014,,,Men - non-agricultural sector,17.95
+2014,,,Women - non-agricultural sector,7.556
+2015,,,,36.585
+2015,Men,,,41.203
+2015,Women,,,31.882
+2015,,Total - agricultural sector,,82.519
+2015,,Men - agricultural sector,,76.667
+2015,,Women - agricultural sector,,90.34
+2015,,,Total non-agricultural sector,12.71
+2015,,,Men - non-agricultural sector,18.747
+2015,,,Women - non-agricultural sector,7.367
+2016,,,,38.298
+2016,Men,,,41.74
+2016,Women,,,34.798
+2016,,Total - agricultural sector,,82.287
+2016,,Men - agricultural sector,,75.912
+2016,,Women - agricultural sector,,90.175
+2016,,,Total non-agricultural sector,12.94
+2016,,,Men - non-agricultural sector,18.856
+2016,,,Women - non-agricultural sector,7.566
+2017,,,,37.006
+2017,Men,,,41.043
+2017,Women,,,32.789
+2017,,Total - agricultural sector,,82.532
+2017,,Men - agricultural sector,,76.717
+2017,,Women - agricultural sector,,90.427
+2017,,,Total non-agricultural sector,11.913
+2017,,,Men - non-agricultural sector,17.218
+2017,,,Women - non-agricultural sector,7.108
+2018,,,,39.718
+2018,Men,,,42.659
+2018,Women,,,36.735
+2018,,Total - agricultural sector,,82.865
+2018,,Men - agricultural sector,,76.674
+2018,,Women - agricultural sector,,90.293
+2018,,,Total non-agricultural sector,11.768
+2018,,,Men - non-agricultural sector,17.431
+2018,,,Women - non-agricultural sector,6.615
+2019,,,,23.128
+2019,Men,,,27.921
+2019,Women,,,18.083
+2019,,Total - agricultural sector,,64.297
+2019,,Men - agricultural sector,,55.348
+2019,,Women - agricultural sector,,78.278
+2019,,,Total non-agricultural sector,12.211
+2019,,,Men - non-agricultural sector,18.816
+2019,,,Women - non-agricultural sector,5.939
+2020,,,,22.381
+2020,Men,,,28.139
+2020,Women,,,16.122
+2020,,Total - agricultural sector,,65.668
+2020,,Men - agricultural sector,,57.352
+2020,,Women - agricultural sector,,79.731
+2020,,,Total non-agricultural sector,10.818
+2020,,,Men - non-agricultural sector,18.175
+2020,,,Women - non-agricultural sector,3.691
+2021,,,,22.791
+2021,Men,,,27.927
+2021,Women,,,17.11
+2021,,Total - agricultural sector,,64.963
+2021,,Men - agricultural sector,,56.749
+2021,,Women - agricultural sector,,78.438
+2021,,,Total non-agricultural sector,11.254
+2021,,,Men - non-agricultural sector,18.109
+2021,,,Women - non-agricultural sector,4.427
+2022,,,,21.97
+2022,Men,,,27.137
+2022,Women,,,16.493
+2022,,Total - agricultural sector,,63.431
+2022,,Men - agricultural sector,,53.603
+2022,,Women - agricultural sector,,80.007
+2022,,,Total non-agricultural sector,11.086
+2022,,,Men - non-agricultural sector,18.141
+2022,,,Women - non-agricultural sector,4.446
+2023,,,,22.952
+2023,Men,,,27.96
+2023,Women,,,17.905
+2023,,Total - agricultural sector,,66.566
+2023,,Men - agricultural sector,,56.244
+2023,,Women - agricultural sector,,82.614
+2023,,,Total non-agricultural sector,11.43
+2023,,,Men - non-agricultural sector,18.362
+2023,,,Women - non-agricultural sector,5.19

@@ -2,8 +2,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2010,,,,,
 2010,Men,,,,
 2010,Women,,,,
-2010,,15-24,,,
-2010,,25 and over,,,
+2010,,15-24 years,,,
+2010,,25 years +,,,
 2010,,,Mun. Chisinau,,
 2010,,,North,,
 2010,,,Center,,
@@ -19,8 +19,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2011,,,,,
 2011,Men,,,,
 2011,Women,,,,
-2011,,15-24,,,
-2011,,25 and over,,,
+2011,,15-24 years,,,
+2011,,25 years +,,,
 2011,,,Mun. Chisinau,,
 2011,,,North,,
 2011,,,Center,,
@@ -36,8 +36,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2012,,,,,
 2012,Men,,,,
 2012,Women,,,,
-2012,,15-24,,,
-2012,,25 and over,,,
+2012,,15-24 years,,,
+2012,,25 years +,,,
 2012,,,Mun. Chisinau,,
 2012,,,North,,
 2012,,,Center,,
@@ -53,8 +53,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2013,,,,,
 2013,Men,,,,
 2013,Women,,,,
-2013,,15-24,,,
-2013,,25 and over,,,
+2013,,15-24 years,,,
+2013,,25 years +,,,
 2013,,,Mun. Chisinau,,
 2013,,,North,,
 2013,,,Center,,
@@ -70,8 +70,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2014,,,,,9.7
 2014,Men,,,,9.3
 2014,Women,,,,10.1
-2014,,15-24,,,11.0
-2014,,25 and over,,,9.6
+2014,,15-24 years,,,11.0
+2014,,25 years +,,,9.6
 2014,,,Mun. Chisinau,,14.2
 2014,,,North,,7.6
 2014,,,Center,,7.4
@@ -87,8 +87,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2015,,,,,9.6
 2015,Men,,,,9.6
 2015,Women,,,,9.6
-2015,,15-24,,,10.4
-2015,,25 and over,,,9.5
+2015,,15-24 years,,,10.4
+2015,,25 years +,,,9.5
 2015,,,Mun. Chisinau,,14.5
 2015,,,North,,7.1
 2015,,,Center,,6.9
@@ -104,8 +104,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2016,,,,,9.5
 2016,Men,,,,9.5
 2016,Women,,,,9.5
-2016,,15-24,,,12.4
-2016,,25 and over,,,9.3
+2016,,15-24 years,,,12.4
+2016,,25 years +,,,9.3
 2016,,,Mun. Chisinau,,14.4
 2016,,,North,,7.0
 2016,,,Center,,7.3
@@ -121,8 +121,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2017,,,,,8.9
 2017,Men,,,,8.1
 2017,Women,,,,9.8
-2017,,15-24,,,13.5
-2017,,25 and over,,,8.6
+2017,,15-24 years,,,13.5
+2017,,25 years +,,,8.6
 2017,,,Mun. Chisinau,,11.7
 2017,,,North,,9.0
 2017,,,Center,,7.4
@@ -138,8 +138,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2018,,,,,9.0
 2018,Men,,,,9.0
 2018,Women,,,,9.0
-2018,,15-24,,,13.0
-2018,,25 and over,,,8.7
+2018,,15-24 years,,,13.0
+2018,,25 years +,,,8.7
 2018,,,Mun. Chisinau,,12.0
 2018,,,North,,8.8
 2018,,,Center,,7.5
@@ -155,8 +155,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2019,,,,,12.1
 2019,Men,,,,11.2
 2019,Women,,,,13.0
-2019,,15-24,,,17.7
-2019,,25 and over,,,11.7
+2019,,15-24 years,,,17.7
+2019,,25 years +,,,11.7
 2019,,,Mun. Chisinau,,12.3
 2019,,,North,,10.8
 2019,,,Center,,15.2
@@ -172,8 +172,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2020,,,,,11.726
 2020,Men,,,,10.291
 2020,Women,,,,13.287
-2020,,15-24,,,17.518
-2020,,25 and over,,,11.391
+2020,,15-24 years,,,17.518
+2020,,25 years +,,,11.391
 2020,,,Mun. Chisinau,,12.297
 2020,,,North,,10.079
 2020,,,Center,,14.559
@@ -189,8 +189,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2021,,,,,11.947
 2021,Men,,,,10.634
 2021,Women,,,,13.399
-2021,,15-24,,,17.448
-2021,,25 and over,,,11.644
+2021,,15-24 years,,,17.448
+2021,,25 years +,,,11.644
 2021,,,Mun. Chisinau,,14.061
 2021,,,North,,10.701
 2021,,,Center,,13.262
@@ -206,8 +206,8 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2022,,,,,12.356
 2022,Men,,,,11.356
 2022,Women,,,,13.415
-2022,,15-24,,,14.65
-2022,,25 and over,,,12.237
+2022,,15-24 years,,,14.65
+2022,,25 years +,,,12.237
 2022,,,Mun. Chisinau,,12.8
 2022,,,North,,11.4
 2022,,,Center,,14.534
@@ -220,3 +220,20 @@ Year,Sex,Age group,Statistical regions,Occupations,Value
 2022,,,,Craft and related trades workers,38.247
 2022,,,,Plant and machine operators and assemblers,31.66
 2022,,,,Elementary occupations,8.461
+2023,,,,,12.226
+2023,Men,,,,11.928
+2023,Women,,,,12.527
+2023,,15-24 years,,,12.434
+2023,,25 years +,,,12.215
+2023,,,Mun. Chisinau,,12.567
+2023,,,North,,10.437
+2023,,,Center,,15.388
+2023,,,South,,9.915
+2023,,,,"Legislators, senior officials and managers",9.735
+2023,,,,Professionals,4.263
+2023,,,,Technicians and associate professionals,8.946
+2023,,,,Clerical support workers,8.324
+2023,,,,Service and shop and Sales Workers,0.771
+2023,,,,Craft and related trades workers,41.187
+2023,,,,Plant and machine operators and assemblers,27.58
+2023,,,,Elementary occupations,10.699

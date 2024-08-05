@@ -44,9 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-64",
-                "65+",
+                "15-24 years",
+                "25-64 years",
+                "65 years+",
                 ""
               ]
             },

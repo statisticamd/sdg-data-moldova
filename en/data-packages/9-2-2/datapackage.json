@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25 and over",
+                "15-24 years",
+                "25 years +",
                 ""
               ]
             },

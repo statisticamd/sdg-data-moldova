@@ -1580,15 +1580,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 ani/Ambele sexe",
-                "15-24 ani/Bărbați",
-                "15-24 ani/Femei",
-                "15-29 / Both sexes",
-                "15-29 / Men",
-                "15-29 / Women",
-                "15-34 / Both sexes",
-                "15-34 / Men",
-                "15-34 / Women",
+                "15-24 ani / Ambele sexe",
+                "15-24   years / Men",
+                "15-24  years  / Women",
+                "15-29  years  / Both sexes",
+                "15-29  years  / Men",
+                "15-29   years / Women",
+                "15-34   years / Both sexes",
+                "15-34  years  / Men",
+                "15-34   years / Women",
                 ""
               ]
             },
@@ -8894,12 +8894,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 ani/Ambele sexe",
-                "15-24 ani/Bărbați",
-                "15-24 ani/Femei",
-                "25-64 / Ambele sexe",
-                "25-64 ani/Bărbați",
-                "25-64 ani/Femei",
+                "15-24 ani / Ambele sexe",
+                "15-24 ani / Bărbați",
+                "15-24 ani / Femei",
+                "25-64 ani / Ambele sexe",
+                "25-64 ani / Bărbați",
+                "25-64 ani / Femei",
                 ""
               ]
             },
@@ -8994,11 +8994,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
+                "15-24 ani",
+                "25-34 ani",
+                "35-44 ani",
+                "45-54 ani",
+                "55-64 ani",
                 ""
               ]
             },
@@ -9163,8 +9163,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25 și peste",
+                "15-24 ani",
+                "25 ani +",
                 ""
               ]
             },
@@ -10184,68 +10184,48 @@
             "title": "Anul"
           },
           {
-            "name": "Units",
+            "name": "Managerial positions held by women",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                null,
+                "Urban - Proporția posturilor de conducere ocupate de femei",
+                "Rural - Proporția posturilor de conducere ocupate de femei",
+                "Agricultură - Proporția posturilor de conducere ocupate de femei",
+                "Industrie - Proporția posturilor de conducere ocupate de femei",
+                "Construcții - Proporția posturilor de conducere ocupate de femei",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică - Proporția posturilor de conducere ocupate de femei",
+                "Transport și depozitare; informații și comunicații - Proporția posturilor de conducere ocupate de femei",
+                "Administrație publică; învățământ; sănătate și asistență socială - Proporția posturilor de conducere ocupate de femei",
+                "Alte activități - Proporția posturilor de conducere ocupate de femei",
+                "Proprietate publică - Proporția posturilor de conducere ocupate de femei",
+                "Alte forme de proprietate - Proporția posturilor de conducere ocupate de femei",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Posturi de conducere ocupate de femei"
           },
           {
-            "name": "Series",
+            "name": "Women in senior and middle management positions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporția posturilor de conducere ocupate de femei",
-                "Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Total - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Urban - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Rural - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Agricultură - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Industrie - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Construcții - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Transport și depozitare; informații și comunicații - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Administrație publică; învățământ; sănătate și asistență socială - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Alte activități - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Proprietate publică - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Alte forme de proprietate - Proporția femeilor în funcții de conducere de nivel superior și mediu",
                 ""
               ]
             },
-            "title": "Indicatori"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediul de reședință"
-          },
-          {
-            "name": "Economic activities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Agricultură",
-                "Industrie",
-                "Construcții",
-                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
-                "Transport și depozitare; informații și comunicații",
-                "Administrație publică; învățământ; sănătate și asistență socială",
-                "Alte activități",
-                ""
-              ]
-            },
-            "title": "Activități economice"
-          },
-          {
-            "name": "Forms of ownership",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Publică",
-                "Alte forme",
-                ""
-              ]
-            },
-            "title": "Forme de proprietate"
+            "title": "Femei în funcții de conducere de nivel superior și mediu"
           },
           {
             "name": "Value",
@@ -13450,9 +13430,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-64",
-                "65+",
+                "15-24 ani",
+                "25-64 ani",
+                "65 ani +",
                 ""
               ]
             },
@@ -14204,53 +14184,49 @@
             "title": "Anul"
           },
           {
-            "name": "Units",
+            "name": "Proportion of persons aged of 13-15 years who have completed primary education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "13-15 years / Total",
+                "13-15 years / Urban",
+                "13-15 years / Rural",
+                "13-15 years / Men",
+                "13-15 years / Women",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Ponderea copiilor de 13-15 ani care au absolvit cel puțin învățământul primar"
           },
           {
-            "name": "Series",
+            "name": "Proportion of persons aged of 18-20 years who have completed lower secondary education (gimnasium)",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of persons aged of 13-15 year who have completed primary education",
-                "Proportion of persons aged of 18-20 year who have completed lower secondary education (gimnasium)",
-                "Proportion of persons aged of 21-23 year who have completed upper secondary education",
+                "18-20 years / Total",
+                "18-20 years / Urban",
+                "18-20 years / Rural",
+                "18-20 years / Men",
+                "18-20 years / Women",
                 ""
               ]
             },
-            "title": "Indicatori"
+            "title": "Ponderea tinerilor de 18-20 ani care au absolvit cel puțin învățământul gimnazial"
           },
           {
-            "name": "Area of residence",
+            "name": "Proportion of persons aged of 21-23 years who have completed upper secondary education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Urban",
-                "Rural",
+                "18-20 years / Total",
+                "21-23 years / Urban",
+                "21-23 years / Rural",
+                "21-23 years / Men",
+                "21-23 years / Women",
                 ""
               ]
             },
-            "title": "Mediul de reședință"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bărbați",
-                "Femei",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Ponderea tinerilor de 21-23 ani care au absolvit cel puțin învățământul liceal / mediu general,  profesional tehnic secundar"
           },
           {
             "name": "Value",

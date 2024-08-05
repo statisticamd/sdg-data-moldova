@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "15-29 / Both sexes",
-                "15-29 / Men",
-                "15-29 / Women",
-                "15-34 / Both sexes",
-                "15-34 / Men",
-                "15-34 / Women",
+                "15-24 years / Both sexes",
+                "15-24   years / Men",
+                "15-24  years  / Women",
+                "15-29  years  / Both sexes",
+                "15-29  years  / Men",
+                "15-29   years / Women",
+                "15-34   years / Both sexes",
+                "15-34  years  / Men",
+                "15-34   years / Women",
                 ""
               ]
             },

@@ -2,8 +2,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2010,,,,,
 2010,Bărbați,,,,
 2010,Femei,,,,
-2010,,15-24,,,
-2010,,25 și peste,,,
+2010,,15-24 ani,,,
+2010,,25 ani +,,,
 2010,,,Mun. Chișinău,,
 2010,,,Nord,,
 2010,,,Centru,,
@@ -19,8 +19,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2011,,,,,
 2011,Bărbați,,,,
 2011,Femei,,,,
-2011,,15-24,,,
-2011,,25 și peste,,,
+2011,,15-24 ani,,,
+2011,,25 ani +,,,
 2011,,,Mun. Chișinău,,
 2011,,,Nord,,
 2011,,,Centru,,
@@ -36,8 +36,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2012,,,,,
 2012,Bărbați,,,,
 2012,Femei,,,,
-2012,,15-24,,,
-2012,,25 și peste,,,
+2012,,15-24 ani,,,
+2012,,25 ani +,,,
 2012,,,Mun. Chișinău,,
 2012,,,Nord,,
 2012,,,Centru,,
@@ -53,8 +53,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2013,,,,,
 2013,Bărbați,,,,
 2013,Femei,,,,
-2013,,15-24,,,
-2013,,25 și peste,,,
+2013,,15-24 ani,,,
+2013,,25 ani +,,,
 2013,,,Mun. Chișinău,,
 2013,,,Nord,,
 2013,,,Centru,,
@@ -70,8 +70,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2014,,,,,9.7
 2014,Bărbați,,,,9.3
 2014,Femei,,,,10.1
-2014,,15-24,,,11.0
-2014,,25 și peste,,,9.6
+2014,,15-24 ani,,,11.0
+2014,,25 ani +,,,9.6
 2014,,,Mun. Chișinău,,14.2
 2014,,,Nord,,7.6
 2014,,,Centru,,7.4
@@ -87,8 +87,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2015,,,,,9.6
 2015,Bărbați,,,,9.6
 2015,Femei,,,,9.6
-2015,,15-24,,,10.4
-2015,,25 și peste,,,9.5
+2015,,15-24 ani,,,10.4
+2015,,25 ani +,,,9.5
 2015,,,Mun. Chișinău,,14.5
 2015,,,Nord,,7.1
 2015,,,Centru,,6.9
@@ -104,8 +104,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2016,,,,,9.5
 2016,Bărbați,,,,9.5
 2016,Femei,,,,9.5
-2016,,15-24,,,12.4
-2016,,25 și peste,,,9.3
+2016,,15-24 ani,,,12.4
+2016,,25 ani +,,,9.3
 2016,,,Mun. Chișinău,,14.4
 2016,,,Nord,,7.0
 2016,,,Centru,,7.3
@@ -121,8 +121,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2017,,,,,8.9
 2017,Bărbați,,,,8.1
 2017,Femei,,,,9.8
-2017,,15-24,,,13.5
-2017,,25 și peste,,,8.6
+2017,,15-24 ani,,,13.5
+2017,,25 ani +,,,8.6
 2017,,,Mun. Chișinău,,11.7
 2017,,,Nord,,9.0
 2017,,,Centru,,7.4
@@ -138,8 +138,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2018,,,,,9.0
 2018,Bărbați,,,,9.0
 2018,Femei,,,,9.0
-2018,,15-24,,,13.0
-2018,,25 și peste,,,8.7
+2018,,15-24 ani,,,13.0
+2018,,25 ani +,,,8.7
 2018,,,Mun. Chișinău,,12.0
 2018,,,Nord,,8.8
 2018,,,Centru,,7.5
@@ -155,8 +155,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2019,,,,,12.1
 2019,Bărbați,,,,11.2
 2019,Femei,,,,13.0
-2019,,15-24,,,17.7
-2019,,25 și peste,,,11.7
+2019,,15-24 ani,,,17.7
+2019,,25 ani +,,,11.7
 2019,,,Mun. Chișinău,,12.3
 2019,,,Nord,,10.8
 2019,,,Centru,,15.2
@@ -172,8 +172,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2020,,,,,11.726
 2020,Bărbați,,,,10.291
 2020,Femei,,,,13.287
-2020,,15-24,,,17.518
-2020,,25 și peste,,,11.391
+2020,,15-24 ani,,,17.518
+2020,,25 ani +,,,11.391
 2020,,,Mun. Chișinău,,12.297
 2020,,,Nord,,10.079
 2020,,,Centru,,14.559
@@ -189,8 +189,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2021,,,,,11.947
 2021,Bărbați,,,,10.634
 2021,Femei,,,,13.399
-2021,,15-24,,,17.448
-2021,,25 și peste,,,11.644
+2021,,15-24 ani,,,17.448
+2021,,25 ani +,,,11.644
 2021,,,Mun. Chișinău,,14.061
 2021,,,Nord,,10.701
 2021,,,Centru,,13.262
@@ -206,8 +206,8 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2022,,,,,12.356
 2022,Bărbați,,,,11.356
 2022,Femei,,,,13.415
-2022,,15-24,,,14.65
-2022,,25 și peste,,,12.237
+2022,,15-24 ani,,,14.65
+2022,,25 ani +,,,12.237
 2022,,,Mun. Chișinău,,12.8
 2022,,,Nord,,11.4
 2022,,,Centru,,14.534
@@ -220,3 +220,20 @@ Year,Sex,Grupa de vârstă,Regiuni statistice,Ocupaţii,Value
 2022,,,,Muncitori calificați și asimilați,38.247
 2022,,,,Operatori la maşini și instalaţii; asamblori de maşini şi echipamente,31.66
 2022,,,,Ocupații elementare,8.461
+2023,,,,,12.226
+2023,Bărbați,,,,11.928
+2023,Femei,,,,12.527
+2023,,15-24 ani,,,12.434
+2023,,25 ani +,,,12.215
+2023,,,Mun. Chișinău,,12.567
+2023,,,Nord,,10.437
+2023,,,Centru,,15.388
+2023,,,Sud,,9.915
+2023,,,,"Legislatori, membri ai executivului, alți înalți demnitari și conducători ai administrației publice, conducători şi funcţionari superiori din unităţ",9.735
+2023,,,,Specialişti în diverse domenii de activitate,4.263
+2023,,,,Tehnicieni și alți specialişti cu nivel mediu de calificare,8.946
+2023,,,,Funcţionari administrativi,8.324
+2023,,,,Lucrători în domeniul serviciilor și în comerț,0.771
+2023,,,,Muncitori calificați și asimilați,41.187
+2023,,,,Operatori la maşini și instalaţii; asamblori de maşini şi echipamente,27.58
+2023,,,,Ocupații elementare,10.699

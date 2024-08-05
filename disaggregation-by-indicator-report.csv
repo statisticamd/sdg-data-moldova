@@ -103,7 +103,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-d-1,Capabilities of the health sector,1
 #4-1-1-c-i,"Area of residence, Sex, Socio-economic status of pupils",3
 #4-1-1-c-ii,"Area of residence, Sex, Socio-economic status of pupils",3
-#4-1-2,"Area of residence, Sex",2
+#4-1-2,"Proportion of persons aged of 13-15 years who have completed primary education, Proportion of persons aged of 18-20 years who have completed lower secondary education (gimnasium), Proportion of persons aged of 21-23 years who have completed upper secondary education",3
 #4-1-2-1,"Area of residence, Sex",2
 #4-2-2,"Area of residence, Sex",2
 #4-3-1,"Area of residence, Sex, Age group / Sex",3
@@ -127,7 +127,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"Area of residence, Age group, Sex",3
 #5-4-1-2,Area of residence,1
 #5-5-1-b,Levels,1
-#5-5-2,"Area of residence, Forms of ownership, Economic activities",3
+#5-5-2,"Managerial positions held by women, Women in senior and middle management positions",2
 #5-5-2-2,"Level of government, Function type",2
 #5-6-2-2,Sub-indicators,1
 #5-a-1-b,Age group,1

@@ -44,12 +44,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 / Both sexes",
-                "15-24 / Men",
-                "15-24 / Women",
-                "25-64 / Both sexes",
-                "25-64 / Men",
-                "25-64 / Women",
+                "15-24 years / Both sexes",
+                "15-24 years / Men",
+                "15-24 years / Women",
+                "25-64 years / Both sexes",
+                "25-64 years / Men",
+                "25-64 years / Women",
                 ""
               ]
             },

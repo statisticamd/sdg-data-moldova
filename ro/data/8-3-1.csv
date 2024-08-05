@@ -35,84 +35,93 @@ Year,Sex,Sectorul Agricultura,Sectorul non-agricol,Value
 2013,,,Total non-agricultural sector,
 2013,,,Bărbați - sectorul non-agricol,
 2013,,,Femei - sectorul non-agricol,
-2014,,,,33.5
-2014,Bărbați,,,37.8
-2014,Femei,,,29.2
-2014,,Total - sectorul agricol,,77.4
-2014,,Bărbați - sectorul agricol,,72.5
-2014,,Femei - sectorul agricol,,83.9
-2014,,,Total non-agricultural sector,12.5
-2014,,,Bărbați - sectorul non-agricol,18.0
-2014,,,Femei - sectorul non-agricol,7.6
-2015,,,,36.6
-2015,Bărbați,,,41.2
-2015,Femei,,,31.9
-2015,,Total - sectorul agricol,,82.5
-2015,,Bărbați - sectorul agricol,,76.7
-2015,,Femei - sectorul agricol,,90.3
-2015,,,Total non-agricultural sector,12.7
-2015,,,Bărbați - sectorul non-agricol,18.7
-2015,,,Femei - sectorul non-agricol,7.4
-2016,,,,38.3
-2016,Bărbați,,,41.7
-2016,Femei,,,34.8
-2016,,Total - sectorul agricol,,82.3
-2016,,Bărbați - sectorul agricol,,75.9
-2016,,Femei - sectorul agricol,,90.2
-2016,,,Total non-agricultural sector,12.9
-2016,,,Bărbați - sectorul non-agricol,18.9
-2016,,,Femei - sectorul non-agricol,7.6
-2017,,,,37.0
-2017,Bărbați,,,41.0
-2017,Femei,,,32.8
-2017,,Total - sectorul agricol,,82.5
-2017,,Bărbați - sectorul agricol,,76.7
-2017,,Femei - sectorul agricol,,90.4
-2017,,,Total non-agricultural sector,11.9
-2017,,,Bărbați - sectorul non-agricol,17.2
-2017,,,Femei - sectorul non-agricol,7.1
-2018,,,,39.7
-2018,Bărbați,,,42.7
-2018,Femei,,,36.7
-2018,,Total - sectorul agricol,,82.9
-2018,,Bărbați - sectorul agricol,,76.7
-2018,,Femei - sectorul agricol,,90.3
-2018,,,Total non-agricultural sector,11.8
-2018,,,Bărbați - sectorul non-agricol,17.4
-2018,,,Femei - sectorul non-agricol,6.6
-2019,,,,23.1
-2019,Bărbați,,,27.9
-2019,Femei,,,18.1
-2019,,Total - sectorul agricol,,64.3
-2019,,Bărbați - sectorul agricol,,55.3
-2019,,Femei - sectorul agricol,,78.3
-2019,,,Total non-agricultural sector,12.2
-2019,,,Bărbați - sectorul non-agricol,18.8
-2019,,,Femei - sectorul non-agricol,5.9
-2020,,,,22.4
-2020,Bărbați,,,28.1
-2020,Femei,,,16.1
-2020,,Total - sectorul agricol,,65.7
-2020,,Bărbați - sectorul agricol,,57.4
-2020,,Femei - sectorul agricol,,79.7
-2020,,,Total non-agricultural sector,10.8
-2020,,,Bărbați - sectorul non-agricol,18.2
-2020,,,Femei - sectorul non-agricol,3.7
-2021,,,,22.8
-2021,Bărbați,,,27.9
-2021,Femei,,,17.1
-2021,,Total - sectorul agricol,,65.0
-2021,,Bărbați - sectorul agricol,,56.7
-2021,,Femei - sectorul agricol,,78.4
-2021,,,Total non-agricultural sector,11.3
-2021,,,Bărbați - sectorul non-agricol,18.1
-2021,,,Femei - sectorul non-agricol,4.4
-2022,,,,22.0
-2022,Bărbați,,,27.1
-2022,Femei,,,16.5
-2022,,Total - sectorul agricol,,63.4
-2022,,Bărbați - sectorul agricol,,53.6
-2022,,Femei - sectorul agricol,,80.0
-2022,,,Total non-agricultural sector,11.1
-2022,,,Bărbați - sectorul non-agricol,18.1
-2022,,,Femei - sectorul non-agricol,4.4
+2014,,,,33.545
+2014,Bărbați,,,37.824
+2014,Femei,,,29.165
+2014,,Total - sectorul agricol,,77.401
+2014,,Bărbați - sectorul agricol,,72.492
+2014,,Femei - sectorul agricol,,83.867
+2014,,,Total non-agricultural sector,12.502
+2014,,,Bărbați - sectorul non-agricol,17.95
+2014,,,Femei - sectorul non-agricol,7.556
+2015,,,,36.585
+2015,Bărbați,,,41.203
+2015,Femei,,,31.882
+2015,,Total - sectorul agricol,,82.519
+2015,,Bărbați - sectorul agricol,,76.667
+2015,,Femei - sectorul agricol,,90.34
+2015,,,Total non-agricultural sector,12.71
+2015,,,Bărbați - sectorul non-agricol,18.747
+2015,,,Femei - sectorul non-agricol,7.367
+2016,,,,38.298
+2016,Bărbați,,,41.74
+2016,Femei,,,34.798
+2016,,Total - sectorul agricol,,82.287
+2016,,Bărbați - sectorul agricol,,75.912
+2016,,Femei - sectorul agricol,,90.175
+2016,,,Total non-agricultural sector,12.94
+2016,,,Bărbați - sectorul non-agricol,18.856
+2016,,,Femei - sectorul non-agricol,7.566
+2017,,,,37.006
+2017,Bărbați,,,41.043
+2017,Femei,,,32.789
+2017,,Total - sectorul agricol,,82.532
+2017,,Bărbați - sectorul agricol,,76.717
+2017,,Femei - sectorul agricol,,90.427
+2017,,,Total non-agricultural sector,11.913
+2017,,,Bărbați - sectorul non-agricol,17.218
+2017,,,Femei - sectorul non-agricol,7.108
+2018,,,,39.718
+2018,Bărbați,,,42.659
+2018,Femei,,,36.735
+2018,,Total - sectorul agricol,,82.865
+2018,,Bărbați - sectorul agricol,,76.674
+2018,,Femei - sectorul agricol,,90.293
+2018,,,Total non-agricultural sector,11.768
+2018,,,Bărbați - sectorul non-agricol,17.431
+2018,,,Femei - sectorul non-agricol,6.615
+2019,,,,23.128
+2019,Bărbați,,,27.921
+2019,Femei,,,18.083
+2019,,Total - sectorul agricol,,64.297
+2019,,Bărbați - sectorul agricol,,55.348
+2019,,Femei - sectorul agricol,,78.278
+2019,,,Total non-agricultural sector,12.211
+2019,,,Bărbați - sectorul non-agricol,18.816
+2019,,,Femei - sectorul non-agricol,5.939
+2020,,,,22.381
+2020,Bărbați,,,28.139
+2020,Femei,,,16.122
+2020,,Total - sectorul agricol,,65.668
+2020,,Bărbați - sectorul agricol,,57.352
+2020,,Femei - sectorul agricol,,79.731
+2020,,,Total non-agricultural sector,10.818
+2020,,,Bărbați - sectorul non-agricol,18.175
+2020,,,Femei - sectorul non-agricol,3.691
+2021,,,,22.791
+2021,Bărbați,,,27.927
+2021,Femei,,,17.11
+2021,,Total - sectorul agricol,,64.963
+2021,,Bărbați - sectorul agricol,,56.749
+2021,,Femei - sectorul agricol,,78.438
+2021,,,Total non-agricultural sector,11.254
+2021,,,Bărbați - sectorul non-agricol,18.109
+2021,,,Femei - sectorul non-agricol,4.427
+2022,,,,21.97
+2022,Bărbați,,,27.137
+2022,Femei,,,16.493
+2022,,Total - sectorul agricol,,63.431
+2022,,Bărbați - sectorul agricol,,53.603
+2022,,Femei - sectorul agricol,,80.007
+2022,,,Total non-agricultural sector,11.086
+2022,,,Bărbați - sectorul non-agricol,18.141
+2022,,,Femei - sectorul non-agricol,4.446
+2023,,,,22.952
+2023,Bărbați,,,27.96
+2023,Femei,,,17.905
+2023,,Total - sectorul agricol,,66.566
+2023,,Bărbați - sectorul agricol,,56.244
+2023,,Femei - sectorul agricol,,82.614
+2023,,,Total non-agricultural sector,11.43
+2023,,,Bărbați - sectorul non-agricol,18.362
+2023,,,Femei - sectorul non-agricol,5.19

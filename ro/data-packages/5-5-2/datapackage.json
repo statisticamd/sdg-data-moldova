@@ -16,68 +16,48 @@
             "title": "Anul"
           },
           {
-            "name": "Units",
+            "name": "Managerial positions held by women",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                null,
+                "Urban - Proporția posturilor de conducere ocupate de femei",
+                "Rural - Proporția posturilor de conducere ocupate de femei",
+                "Agricultură - Proporția posturilor de conducere ocupate de femei",
+                "Industrie - Proporția posturilor de conducere ocupate de femei",
+                "Construcții - Proporția posturilor de conducere ocupate de femei",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică - Proporția posturilor de conducere ocupate de femei",
+                "Transport și depozitare; informații și comunicații - Proporția posturilor de conducere ocupate de femei",
+                "Administrație publică; învățământ; sănătate și asistență socială - Proporția posturilor de conducere ocupate de femei",
+                "Alte activități - Proporția posturilor de conducere ocupate de femei",
+                "Proprietate publică - Proporția posturilor de conducere ocupate de femei",
+                "Alte forme de proprietate - Proporția posturilor de conducere ocupate de femei",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Posturi de conducere ocupate de femei"
           },
           {
-            "name": "Series",
+            "name": "Women in senior and middle management positions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporția posturilor de conducere ocupate de femei",
-                "Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Total - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Urban - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Rural - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Agricultură - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Industrie - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Construcții - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Transport și depozitare; informații și comunicații - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Administrație publică; învățământ; sănătate și asistență socială - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Alte activități - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Proprietate publică - Proporția femeilor în funcții de conducere de nivel superior și mediu",
+                "Alte forme de proprietate - Proporția femeilor în funcții de conducere de nivel superior și mediu",
                 ""
               ]
             },
-            "title": "Indicatori"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediul de reședință"
-          },
-          {
-            "name": "Economic activities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Agricultură",
-                "Industrie",
-                "Construcții",
-                "Comerț cu ridicata și amănuntul; activități de cazare și alimentație publică",
-                "Transport și depozitare; informații și comunicații",
-                "Administrație publică; învățământ; sănătate și asistență socială",
-                "Alte activități",
-                ""
-              ]
-            },
-            "title": "Activități economice"
-          },
-          {
-            "name": "Forms of ownership",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Publică",
-                "Alte forme",
-                ""
-              ]
-            },
-            "title": "Forme de proprietate"
+            "title": "Femei în funcții de conducere de nivel superior și mediu"
           },
           {
             "name": "Value",
