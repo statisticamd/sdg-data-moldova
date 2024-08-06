@@ -51,7 +51,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-2-1,"Area of residence, Age group, Sex, Level of education of the head of the household, Ethnicity of the head of the household, Wellbeing quintile",6
 #16-2-1-1,"Area of residence (subjected to violence), Sex (subjected to violence), Age group (subjected to violence), Disability (subjected to violence), Number of neglected children, at the end of the year, Area of residence (neglected), Sex (neglected), Age group (neglected), Disability (neglected)",9
 #16-2-2,"Sex, Groups of persons, Countries of destination, Forms of exploitation",4
-#16-3-2,"Sex, Duration of arrest",2
+#16-3-2,"Age group, Sex, Duration of arrest",3
 #16-3-2-1,"Age group, Sex, Disability, Ethnicity, Citizenship, Beneficiary status - foreign citizen, Requested authority, Legal basis, Type of qualified assistance, Primary care",10
 #16-3-2-2,Children's rights,1
 #16-3-2-4,"Area of residence, Age group, Sex, Socioeconomic status",4

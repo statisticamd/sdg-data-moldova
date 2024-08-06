@@ -11728,6 +11728,22 @@
             "title": "Sex"
           },
           {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55+",
+                "60+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
