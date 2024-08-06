@@ -16,7 +16,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF 209 KB)
 SDG_INDICATOR: >-
-  <p>Indicator 16.3.2: Unsentenced detainees as a proportion of overall prison population</p>
+  <p>Indicator 16.3.2: nced detainees as a proportion of overall prison population</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -36,7 +36,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Administrative data from  NAP
+  [Administrative data from  NAP](http://www.anp.gov.md/randomrapoarte-de-bilant-simestriale-anualerapoarte-de-bilant-simestriale-anualerapoarte-de-bilant)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -57,6 +57,13 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  <p> Age groups are different:</p> 
+  <p>National 15-24, Global  (15-20)</p> 
+  <p>25-34 (21-29)</p> 
+  <p>35-44 (30-39)</p> 
+  <p>45-54 (40-49)</p> 
+  <p>55+  (50-59)</p> 
+  <p>60+ (60+) </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -68,7 +75,6 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  http://www.anp.gov.md/randomrapoarte-de-bilant-simestriale-anualerapoarte-de-bilant-simestriale-anualerapoarte-de-bilant
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
