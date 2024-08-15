@@ -40,7 +40,7 @@ STAT_CONC_DEF: >-
   <p>  Sectorul de generare și furnizare a  energiei este definit în conformitate cu standardele DAC/OECD și cuprinde  toate codurile sectoriale conform clasificării CRS din secțiunile 230, care  includ următoarele coduri privind cercetare și dezvoltare în domeniul energiei  curate și producției de energie regenerabilă, inclusiv în sistemele hibride:  1) 23065 Centrale hidroelectrice - inclusiv energia generatoare de baraje  fluviale, 2) 23067 Energie solară - Inclusiv celule fotovoltaice, aplicații  solare termice și încălzire solară, 3) 23068 Energia eoliană - Energia eoliană  pentru ridicarea apei și generarea energiei electrice, 4) 23069 Energia  valurilor și mareelor marină - Inclusiv conversia energiei termice oceanice,  energia mareelor și valurilor, 5) 23066 Energie geotermală - Utilizarea  energiei geotermale pentru generarea energiei electrice sau direct ca căldură  pentru agricultură etc, 6) 23070 Biomasa, 7) 23082  Cercetare în domeniul  energetic</p> 
   <p>  Agenția Internațională pentru Energii Regenerabile (IRENA):  fluxurile acoperite de IRENA sunt definite ca toate creditele suplimentare,  granturile și investițiile de capital primite de la țările donatoare,  agențiile multilaterale și instituțiile  de finanțare suplimentare (inclusiv  creditele la export, dacă sunt disponibile)  a dezvoltării în scopul  cercetării și dezvoltării energiei curate și a producției de energie  regenerabilă, inclusiv în sistemele hibride. </p>
 UNIT_MEASURE: >-
-  Milioane Dolari SUA
+  Milioane dolari SUA, Prețuri constante 2021 (Dolari SUA)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

@@ -41,7 +41,7 @@ STAT_CONC_DEF: >-
   <p>  Area of conservation and sustainable use of  biodiversity and ecosystems –  is defined in line with the DAC/OECD standards  and covers all the sector codes according to the CRS classification in section  410 "General protection of environment”, code 41030 „Biodiversity”</p> 
   <p>  It is  repeated in 15.b.1. </p>
 UNIT_MEASURE: >-
-  Million USD
+  Million USD, Constant Prices 2022 (USD)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

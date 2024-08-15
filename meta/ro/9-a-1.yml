@@ -40,7 +40,7 @@ STAT_CONC_DEF: >-
   <p>  [Platforma pentru gestionarea asistenței  externe  (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) –  sistem informațional automatizat accesibil on-line, în cadrul căruia este  încărcată și stocată informația privind proiectele/programele de asistență  externă din Republica Moldova.</p> 
   <p>  Infrastructura - este definită în  conformitate cu standardele DAC/OECD și cuprinde toate codurile sectoriale  conform clasificării CRS din secțiunea 200, sub-secțiunile : 210 „Transport și  depozitare”, 220 „Comunicațiile”, 230 „Generarea și furnizarea energiei”, 240  „Serviciile financiare și bancare” și 250 „Afaceri și alte servicii”  ( [a se  vedea  aici](http://www.oecd.org/dac/stats/purposecodessectorclassification.htm) ) </p>
 UNIT_MEASURE: >-
-  Milioane Dolari SUA
+  Milioane dolari SUA, Prețuri constante 2022 (Dolari SUA)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-

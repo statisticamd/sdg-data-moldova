@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 4.b.1: Volumul fluxurilor de asistență oficială pentru dezvoltare pentru burse de studii,  în funcție de sector și tip de studii</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Extinderea substanțială la nivel global, până în 2020, a numărului de burse  disponibile pentru țările în curs de dezvoltare, în special pentru cele cel mai puțin dezvoltate, statele insulare mici în curs de dezvoltare și țările  africane, pentru încadrare în învățământul superior, inclusiv formare profesională, instruire în domeniul tehnologilor informaționale și comunicații,  programe tehnice, științifice și inginerești, în țări dezvoltate și în alte țări în curs de dezvoltare.</p>
+  <p>Target 4.b: Extinderea substanțială la nivel global, până în 2020, a numărului de burse  disponibile pentru țările în curs de dezvoltare, în special pentru cele cel mai puțin dezvoltate, statele insulare mici în curs de dezvoltare și țările  africane, pentru încadrare în învățământul superior, inclusiv formare profesională, instruire în domeniul tehnologilor informaționale și comunicații,  programe tehnice, științifice și inginerești, în țări dezvoltate și în alte țări în curs de dezvoltare.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Organisation for Economic Co-operation and Development (OECD)
@@ -12,6 +12,7 @@ SDG_INDICATOR_INFO__GLOBAL: >-
   <p> Asistența oficială pentru dezvoltare (ODA) este definită ca ajutor guvernamental care promovează și vizează în mod specific dezvoltarea economică și bunăstarea țărilor în curs de dezvoltare (OECD Development Assistance Committee). </p>
 SDG_GOAL: ''
 target_id: >-
+  4.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-04-0B-01.pdf
@@ -34,12 +35,11 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Bursele sunt ajutoarele financiare acordate fiecărui student în parte și contribuții pentru stagiari. Studenții și cursanții beneficiari sunt cetățeni ai țărilor în curs de dezvoltare. Ajutoarele financiare acordate includ granturi bilaterale pentru studenții din instituțiile de învățământ superior care urmează studii cu frecvență sau cursuri de formare în țara donatoare.
 UNIT_MEASURE: >-
-  <p> mln. Dolari SUA</p> 
-  <p>Prețuri constante 2021 (Dolari SUA) </p>
+  Milioane dolari SUA, Prețuri constante 2022 (Dolari SUA)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistici OECD/DAC prin Sistemul de raportare a creditorilor
+  Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,9 +70,9 @@ source_organisation_1: >-
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  https://unstats.un.org/sdgs/dataportal/countryprofiles/mda#goal-4
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
-  Link la sursa de date
+  Baza de date UNSTATS
 source_contact_1: >-
 source_other_info_1: >-
   <p> Statisticile DAC sunt standardizate pe o bază de an calendaristic pentru toți </p> 

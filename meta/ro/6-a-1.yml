@@ -39,7 +39,7 @@ STAT_CONC_DEF: >-
   <p>  [Platforma pentru gestionarea asistenței externe  (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) –  sistem informațional automatizat accesibil on-line, în cadrul căruia este  încărcată și stocată informația privind proiectele/programele de asistență  externă din Republica Moldova.</p> 
   <p>  Sectorul aprovizionare cu apă și  canalizare - este definit în conformitate cu standardele DAC/OECD și cuprinde  toate codurile sectoriale conform clasificării CRS din secțiunile 140 pentru  sectorul de apă și canalizare, și 31140 pentru resurse de apă pentru  agricultură. </p>
 UNIT_MEASURE: >-
-  Milioane Dolari SUA, prețuri constante
+  Milioane dolari SUA, Prețuri constante 2022 (Dolari SUA)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
