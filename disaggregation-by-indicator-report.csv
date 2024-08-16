@@ -3,6 +3,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-1-1,"Area of residence, Sex, Age group, Age group 1 and Sex, Age group 2 and Sex, Employment status",6
 #1-2-1,"Area of residence, Sex, Age group",3
 #1-3-1-a,"Sex, Age group",2
+#1-3-1-b,Status,1
 #1-3-1-e,"Sex, Age group",2
 #1-3-1-f,"Sex, Age group",2
 #1-3-1-h,"Area of residence, Quintile I, by area of residence",2
