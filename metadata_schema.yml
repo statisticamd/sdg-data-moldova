@@ -38,8 +38,14 @@ prose:
         field:
             element: text
             label: Global metadata link
-            translation_key: metadata_fields.goal_meta_link
-            value: GOAL_META_LINK_TEXT            
+            translation_key: metadata_fields.goal_meta_link         
+            scope: global
+      - name: "GOAL_META_LINK_TEXT"
+        field:
+            element: text
+            label: "Link to data source text"
+            translation_key: metadata_fields.goal_meta_link_text
+            value: "Link to source"
             scope: global
       - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
@@ -518,7 +524,7 @@ prose:
             element: text
             label: Data sources
             translation_key: metadata_fields.SOURCE_TYPE
-            scope: national
+            scope: source_1
       - name: source_organisation_1
         field:
             element: text
@@ -530,13 +536,13 @@ prose:
             element: text
             label: Data providers
             translation_key: metadata_fields.DATA_SOURCE
-            scope: national
+            scope: source_1
       - name: INST_MANDATE
         field:
             element: text
             label: Institutional mandate
             translation_key: metadata_fields.INST_MANDATE
-            scope: national
+            scope: source_1
       - name: source_active_1
         field:
             element: checkbox
