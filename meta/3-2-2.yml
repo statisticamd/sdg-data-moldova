@@ -32,7 +32,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Neonatal mortality is part of infant mortality, which expresses the intensity  of infant deaths during the first 27 days of birth.
+  Neonatal mortality is part of infant mortality, which expresses the intensity  of infant deaths during the first 28 days of birth.
 UNIT_MEASURE: >-
   Per 1000 live births
 CLASS_SYSTEM: ''

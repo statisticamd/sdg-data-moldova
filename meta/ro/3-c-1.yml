@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-0C-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 207 KB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.c.1: Densitatea și distribuția lucrătorilor medicali</p>
 SDG_SERIES_DESCR: ''
@@ -42,7 +42,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) ASNSP - Nr.17 “Raport statistic privind statele de funcții și cadrele  instituției medico – sanitare”;</p> 
+  <p> 1) ASNSP - Nr.17 “Raport statistic privind statele de funcții și cadrele  instituției medico – sanitare”; </p> 
   <p>  2) BNS - numărul populației </p>
 COLL_METHOD: ''
 FREQ_COLL: ''

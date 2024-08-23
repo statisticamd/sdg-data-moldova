@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 6.1.1.1: Ponderea populației cu acces la servicii de alimentare cu apă  potabilă gestionate în siguranță</p>
 SDG_SERIES_DESCR: ''
@@ -70,7 +70,6 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Anual
 source_url_1: >-
-  www.ansp.md
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

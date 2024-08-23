@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 61 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.3.2: Tuberculosis incidence, per 100,000 population</p>
 SDG_SERIES_DESCR: ''
@@ -37,12 +37,12 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) National Agency for Public Health-Statistical report No. 8 - on new cases of tuberculosis </p> 
-  <p>  2) National Bureau of Statistics, number of population number of population with usual residence </p>
+  <p>2) National Bureau of Statistics, number of population number of population with usual residence </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  1.Institute of Phthisiopneumology
+  Institute of Phthisiopneumology
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Health
@@ -71,6 +71,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele ODD ale ONU (PDF)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.1.1: Rata mortalității materne, la 100.000 născuți vii</p>
 SDG_SERIES_DESCR: ''
@@ -49,7 +49,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul femeilor care au decedat în urma complicațiilor din timpul sarcinii  sau nașterii în anul de referință, care revin la 100000 de născuți vii din  același an. Datele se bazează pe înregistrarea copiilor nou-născuți cu  masa de la 500 gr și de la 22 săptămâni gestație.
+  <p> Numărul femeilor care au decedat în urma complicațiilor din timpul sarcinii  sau nașterii în anul de referință, care revin la 100000 de născuți vii* din  același an.</p> 
+  <p>  * Datele se bazează pe înregistrarea copiilor nou-născuți cu  masa de la 500 gr și de la 22 săptămâni gestație. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
