@@ -36,16 +36,10 @@ prose:
             scope: global
       - name: GOAL_META_LINK
         field:
-            element: text
+            element: url
             label: Global metadata link
-            translation_key: metadata_fields.goal_meta_link         
-            scope: global
-      - name: "GOAL_META_LINK_TEXT"
-        field:
-            element: text
-            label: "Link to data source text"
-            translation_key: metadata_fields.goal_meta_link_text
-            value: "Link to source"
+            translation_key: metadata_fields.goal_meta_link    
+            value: GOAL_META_LINK_TEXT
             scope: global
       - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
@@ -504,6 +498,12 @@ prose:
             label: References and Documentation
             translation_key: metadata_fields.OTHER_DOC
             scope: national
+      - name: "source_periodicity_1"
+        field:
+            element: text
+            label: "Periodicity"
+            translation_key: metadata_fields.source_periodicity_1
+            scope: national
       ######### Last updated dates #########
       - name: "national_data_updated_date"
         field:
@@ -550,12 +550,6 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: true
-      - name: "source_periodicity_1"
-        field:
-            element: text
-            label: "Periodicity"
-            translation_key: metadata_fields.source_periodicity_1
-            scope: source_1
       - name: "source_earliest_available_1"
         field:
             element: text
