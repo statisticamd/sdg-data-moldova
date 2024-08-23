@@ -28,19 +28,19 @@ prose:
             label: Target (global)
             translation_key: metadata_fields.SDG_TARGET
             scope: global
-#      - name: SDG_SERIES_DESCR__GLOBAL
-#        field:
-#            element: text
-#            label: Series (global)
-#           translation_key: metadata_fields.SDG_SERIES_DESCR
-#            scope: global
-      - name: META_LAST_UPDATE__GLOBAL
+      - name: un_designated_tier
         field:
             element: text
-            label: Metadata update (global)
-            translation_key: metadata_fields.META_LAST_UPDATE
+            label: UN designated tier
+            translation_key: metadata_fields.un_designated_tier
             scope: global
-
+      - name: GOAL_META_LINK
+        field:
+            element: text
+            label: Global metadata link
+            translation_key: metadata_fields.goal_meta_link
+            value: GOAL_META_LINK_TEXT            
+            scope: global
       - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
             element: text
@@ -53,6 +53,18 @@ prose:
             label: Related indicators (global)
             translation_key: metadata_fields.SDG_RELATED_INDICATORS
             scope: global
+      - name: META_LAST_UPDATE__GLOBAL
+        field:
+            element: text
+            label: Metadata update (global)
+            translation_key: metadata_fields.META_LAST_UPDATE
+            scope: global
+#      - name: SDG_SERIES_DESCR__GLOBAL
+#        field:
+#            element: text
+#            label: Series (global)
+#           translation_key: metadata_fields.SDG_SERIES_DESCR
+#            scope: global
 #      - name: CONTACT__GLOBAL
 #        field:
 #            element: text
@@ -264,12 +276,6 @@ prose:
 #           translation_key: metadata_fields.OTHER_DOC
 #           scope: global
       ######### National Metadata #########
-      - name: SDG_INDICATOR_INFO
-        field:
-            element: text
-            label: Indicator information
-            translation_key: metadata_fields.SDG_INDICATOR_INFO
-            scope: national
       - name: SDG_GOAL
         field:
             element: text
@@ -287,6 +293,12 @@ prose:
             element: text
             label: Indicator
             translation_key: metadata_fields.SDG_INDICATOR
+            scope: national
+      - name: SDG_INDICATOR_INFO
+        field:
+            element: text
+            label: Indicator information
+            translation_key: metadata_fields.SDG_INDICATOR_INFO
             scope: national
       - name: SDG_SERIES_DESCR
         field:
@@ -390,12 +402,6 @@ prose:
             label: Data source type and collection method
             translation_key: metadata_fields.SRC_TYPE_COLL_METHOD
             scope: national
-      - name: SOURCE_TYPE
-        field:
-            element: text
-            label: Data sources
-            translation_key: metadata_fields.SOURCE_TYPE
-            scope: national
       - name: COLL_METHOD
         field:
             element: text
@@ -414,23 +420,11 @@ prose:
             label: Data release calendar
             translation_key: metadata_fields.REL_CAL_POLICY
             scope: national
-      - name: DATA_SOURCE
-        field:
-            element: text
-            label: Data providers
-            translation_key: metadata_fields.DATA_SOURCE
-            scope: national
       - name: COMPILING_ORG
         field:
             element: text
             label: Data compilers
             translation_key: metadata_fields.COMPILING_ORG
-            scope: national
-      - name: INST_MANDATE
-        field:
-            element: text
-            label: Institutional mandate
-            translation_key: metadata_fields.INST_MANDATE
             scope: national
       - name: OTHER_METHOD
         field:
@@ -519,6 +513,30 @@ prose:
             scope: national
       ######### National Sources #########
       ## Source 1
+      - name: SOURCE_TYPE
+        field:
+            element: text
+            label: Data sources
+            translation_key: metadata_fields.SOURCE_TYPE
+            scope: national
+      - name: source_organisation_1
+        field:
+            element: text
+            label: "Data producers"
+            translation_key: metadata_fields.source_organisation_1
+            scope: source_1
+      - name: DATA_SOURCE
+        field:
+            element: text
+            label: Data providers
+            translation_key: metadata_fields.DATA_SOURCE
+            scope: national
+      - name: INST_MANDATE
+        field:
+            element: text
+            label: Institutional mandate
+            translation_key: metadata_fields.INST_MANDATE
+            scope: national
       - name: source_active_1
         field:
             element: checkbox
@@ -526,12 +544,6 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: true
-      - name: source_organisation_1
-        field:
-            element: text
-            label: "Organisation"
-            translation_key: metadata_fields.source_organisation_1
-            scope: source_1
       - name: "source_periodicity_1"
         field:
             element: text
@@ -993,10 +1005,4 @@ prose:
             translation_key: metadata_fields.source_other_info_1
             scope: source_6
       ######### Other fields #########
-      - name: un_designated_tier
-        field:
-            element: text
-            label: UN designated tier
-            translation_key: metadata_fields.un_designated_tier
-            scope: global
   ignore: ['/scripts', '/.github']
