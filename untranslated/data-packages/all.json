@@ -7097,7 +7097,7 @@
             "type": "integer"
           },
           {
-            "name": "Types of sources",
+            "name": "Types of sources ",
             "type": "string",
             "constraints": {
               "enum": [
