@@ -36,11 +36,17 @@ prose:
             scope: global
       - name: GOAL_META_LINK
         field:
-            element: url
+            element: text
             label: Global metadata link
-            translation_key: metadata_fields.goal_meta_link    
-            value: GOAL_META_LINK_TEXT
+            translation_key: metadata_fields.goal_meta_link
             scope: global
+      - name: GOAL_META_LINK_TEXT
+        field:
+            element: text
+            label: Global metadata link text
+            translation_key: metadata_fields.goal_meta_link_text
+            value: "Link to source"
+            scope: global           
       - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
             element: text
