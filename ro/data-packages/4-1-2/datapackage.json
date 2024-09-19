@@ -35,7 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "21-23 ani / Total",
+                "18-20 ani / Total",
                 "18-20 ani / Urban",
                 "18-20 ani / Rural",
                 "18-20 ani / Bărbați",
@@ -50,7 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "21-23 ani / Total",
+                "18-20 ani / Total",
                 "21-23 ani / Urban",
                 "21-23 ani / Rural",
                 "21-23 ani / Bărbați",
