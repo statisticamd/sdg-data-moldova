@@ -13,9 +13,9 @@ target_id: >-
   16.6
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.6.2: Proportion of population satisfied with the quality of public services  accessed (health services, education, population documentation)</p>
 SDG_SERIES_DESCR: ''
@@ -75,6 +75,6 @@ source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

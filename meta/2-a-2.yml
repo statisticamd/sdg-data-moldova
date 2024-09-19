@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 210 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.a.2: Value of external financial and technical assistance to strengthen the  national statistical system</p>
 SDG_SERIES_DESCR: ''
@@ -51,7 +51,7 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Ministry of Agriculture, Regional Development and Environment </p> 
+  <p> 1.Ministry of Agriculture and Food Industry </p> 
   <p>  2.Ministry of Finance </p>
 OTHER_METHOD: >-
 RATIONALE: ''

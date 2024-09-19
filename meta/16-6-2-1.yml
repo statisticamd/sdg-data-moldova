@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.6.2.1: Proportion of population accessing public services electronically out of total  beneficiaries of public services</p>
+  <p>Indicator 16.6.2.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.6: Develop effective, accountable and transparent institutions at all levels</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,9 +13,9 @@ target_id: >-
   16.6
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.6.2.1: Proportion of population accessing public services electronically out  of total beneficiaries of public services</p>
 SDG_SERIES_DESCR: ''
@@ -66,6 +66,6 @@ source_organisation_1: >-
 source_periodicity_1: >-
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

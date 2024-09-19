@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.10.2.1: Existența și gradul de implementare a cadrul normativ cu privire la  accesul la informație</p>
+  <p>Indicator 16.10.2.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.10: Asigurarea accesului public la informații și protejarea libertăților  fundamentale,  în conformitate cu legislația națională și acordurile  internaționale</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.10.2.1: Existența și gradul de implementare a cadrul normativ cu  privire la accesul la informație</p>
 SDG_SERIES_DESCR: ''
@@ -69,7 +69,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1)  Consiliul Coordonator al Audiovizualului</p> 

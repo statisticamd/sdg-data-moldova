@@ -13,9 +13,9 @@ target_id: >-
   11.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.3.2: Proportion of cities with a direct participation structure of civil  society in urban planning and management that operate regularly and  democratically</p>
 SDG_SERIES_DESCR: ''
@@ -36,6 +36,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Data on population - NBS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -43,7 +44,7 @@ DATA_SOURCE: >-
   United Nations Human Settlement Programme (UN HABITAT)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Agriculture, Regional Development and Environment
+  Ministry of Infrastructure and Regional Development
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -69,15 +70,17 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.Ministry of Agriculture, Regional Development and Environment </p> 
-  <p>  2.United  Nations Human Settlement Programme (UN HABITAT) </p>
+  <p> 1) Local Public Administration</p> 
+  <p> 2) Ministry of Infrastructure and Regional Development </p> 
+  <p> 3) National  Bureau of Statistics</p> 
+  <p> 4) United  Nations Human Settlement Programme (UN HABITAT) </p>
 source_periodicity_1: >-
-  Once every 3/4 years
+  Once every 3/5 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

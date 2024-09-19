@@ -14,9 +14,9 @@ target_id: >-
   15.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-15-0a-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 15.a.1: Value of external financial and technical development assistance for  the conservation and sustainable use of biodiversity and ecosystems</p>
 SDG_SERIES_DESCR: ''
@@ -52,8 +52,8 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Ministry of Agriculture, Regional Development and Environment </p> 
-  <p>   2.Ministry of Finance </p>
+  <p> 1. Ministry of Agriculture and Food Industry </p> 
+  <p>2. Ministry of Finance </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -71,7 +71,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1/3
+  1
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-

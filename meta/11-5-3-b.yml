@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.5.3.b: Number of interruptions of basic services due to exceptional situations</p>
+  <p>Indicator 11.5.3.b: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 11.5: NA</p>
+  <p>Target 11.5: By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -12,7 +12,9 @@ target_id: >-
   11.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-03.pdf
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.5.3.b: Number of interruptions of basic services due to exceptional situations</p>
 SDG_SERIES_DESCR: ''
@@ -59,6 +61,6 @@ source_organisation_1: >-
 source_periodicity_1: >-
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

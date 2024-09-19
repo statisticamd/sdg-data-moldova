@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 7.b.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 7.b: NA</p>
+  <p>Target 7.b: Până în 2030, extinderea infrastructurii și modernizarea tehnologiei pentru furnizarea de servicii energetice moderne și durabile pentru toate țările în curs de dezvoltare, în special țările cel mai puțin dezvoltate, statele insulare mici în curs de dezvoltare și țările în curs de dezvoltare fără ieșire la mare, în conformitate cu programele de sprijin specifice</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -13,6 +13,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 7.b.1.1: Volumul investițiilor în sectorul de eficiență energetică raportat la PIB</p>
 SDG_SERIES_DESCR: ''
@@ -29,18 +30,19 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Procente
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Cancelaria de Stat a Republicii Moldova
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Ministerul Finanțelor</p> 
-  <p>Biroul Național de Statistică </p>
+  Cancelaria de Stat a Republicii Moldova
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministerul Energiei
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -56,11 +58,17 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  1
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
+  Anual
 source_url_1: >-
+  https://cancelaria.gov.md/sites/default/files/raport_de_progres_odd_2023_vf_15_09_2023_final.pdf
 source_url_text_1: >-
-  Link la sursa de date
+  Volumul investițiilor în sectorul de eficiență energetică raportat la PIB
 source_contact_1: >-
+  <p> Centrul Național pentru Energie Durabilă</p> 
+  <p>office@cned.gov.md</p> 
+  <p>022-499-444 </p>
 source_other_info_1: >-

@@ -13,9 +13,9 @@ target_id: >-
   9.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 663kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.1.1: Ponderea populației rurale care locuiește în raza de 2 km față de un  drum funcțional</p>
 SDG_SERIES_DESCR: ''
@@ -54,7 +54,7 @@ DATA_SOURCE: >-
   <p>  Î.S. Administrația de Stat a Drumurilor si  consiliile raionale </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Dezvoltării Economice și Digitalizării
+  Ministerul Infrastructurii și Dezvoltării Regionale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -72,7 +72,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

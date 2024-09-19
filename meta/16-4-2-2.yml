@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.4.2.2: Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments</p>
+  <p>Indicator 16.4.2.2: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.4: By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,9 +13,9 @@ target_id: >-
   16.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/dataContacts/?selectIndicator=16.4.2+Proportion+of+seized%2C+found+or+surrendered+arms+whose+illicit+origin+or+context+has+been+traced+or+established+by+a+competent+authority+in+line+with+international+instruments&selectAgency=
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-04-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.4.2.2: Number of confiscated illegally owned arms</p>
 SDG_SERIES_DESCR: ''
@@ -63,7 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  II
+  2
 source_active_1: true
 source_organisation_1: >-
   General Police Inspectorate of the Ministry of Internal Affairs
@@ -71,7 +71,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Head of the Weapons Movement Supervision Section of the Directorate for Weapons Supervision and Licensed Activities of the National Public Security Inspectorate, Chief Commissioner Țurcan Ion email- ion.turcan_dgsp@igp.gov.md number 076745660
 source_other_info_1: >-

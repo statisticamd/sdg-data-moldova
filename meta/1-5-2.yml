@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  1.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 894kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 1.5.2: Value of direct economic loss attributed to disasters in relation to GDP</p>
 SDG_SERIES_DESCR: ''
@@ -30,6 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  The indicator includes: - Direct economic losses in agriculture as a result of  the disaster; - Direct economic losses in productive assets; - Direct economic  losses in social sector; - Direct economic losses in damaged or destroyed  critical infrastructure; - Direct economic losses in damaged or destroyed  cultural patrimony.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -45,7 +47,7 @@ DATA_SOURCE: >-
   <p>  2.National Bureau of  Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Infrastructure
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -62,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1.General Inspectorate for Emergency Situations</p> 
@@ -71,6 +73,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

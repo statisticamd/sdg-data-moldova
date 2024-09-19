@@ -17,7 +17,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.2.2: Manufacturing employment as a proportion of total employment</p>
 SDG_SERIES_DESCR: ''
@@ -48,7 +48,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of of Economic Development and Digitalization
+  Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
   This indicator conveys the contribution of manufacturing in total employment. It measures the ability of the manufacturing sector to absorb surplus labour from agricultural and other traditional sectors.
 RATIONALE: ''
@@ -67,7 +67,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  I
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

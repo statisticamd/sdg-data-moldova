@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.2.1.3: Asigurarea unei vieți sănătoase și promovarea bunăstării tuturor la orice vârstă</p>
+  <p>Indicator 11.2.1.3: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 3.6: Până în  2020, reducerea cu 50% a numărului de decese și leziuni din cauza accidentelor rutiere</p>
+  <p>Target 11.2: Până în  2020, reducerea cu 50% a numărului de decese și leziuni din cauza accidentelor rutiere</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   OMS
@@ -10,12 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  3.6
+  11.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/?Text=&Goal=&Target=3.6
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metodatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.2.1.3: Rata accidentelor rutiere la 100.000 populație</p>
 SDG_SERIES_DESCR: ''
@@ -64,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  I
+  1
 source_active_1: true
 source_organisation_1: >-
   Inspectoratul General al Poliției al MAI

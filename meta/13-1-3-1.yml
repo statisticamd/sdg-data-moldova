@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-03.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 13.1.3.1: Proportion of irrigated land for soil drought mitigation in total irrigable land area</p>
 SDG_SERIES_DESCR: ''
@@ -71,7 +71,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Eugeniu Belii, National Land Improvement Agency, eugen.belii@anif.gov.md, 022820823
 source_other_info_1: >-

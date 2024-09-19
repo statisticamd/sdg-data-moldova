@@ -13,9 +13,9 @@ target_id: >-
   9.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-9.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 663kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 9.1.1: Proportion of the rural population who live within 2 km of a functional  road</p>
 SDG_SERIES_DESCR: ''
@@ -54,7 +54,7 @@ DATA_SOURCE: >-
   <p>  2.The State Road Administration and  District Councils </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economic Development and Digitization
+  Ministry of  Infrastructure and Regional Development
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -72,7 +72,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
@@ -80,6 +80,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

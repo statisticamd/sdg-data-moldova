@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.b.1: Ponderea populației care a comunicat că în ultimele 12 luni s-a simțit   vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul  internațional al drepturilor omului</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Promovarea și implementarea legislației și politicilor non-discriminatorii  pentru dezvoltare durabilă</p>
+  <p>Target 16.b: Promovarea și implementarea legislației și politicilor non-discriminatorii  pentru dezvoltare durabilă</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Office of the United Nations High Commissioner for Human Rights (OHCHR)
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  16.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-0b-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.b.1: Ponderea populației care a comunicat că în ultimele 12 luni s-a simțit   vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul  internațional al drepturilor omului</p>
 SDG_SERIES_DESCR: ''
@@ -44,8 +45,8 @@ DATA_SOURCE: >-
   Consiliul pentru egalitate
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Consiliul pentru egalitate </p> 
-  <p>  Alte APC (Ministerul Muncii și Protecției Sociale,  Ministerul Afacerilor Interne, Ministerul Justiției) </p>
+  <p> 1. Consiliul pentru egalitate </p> 
+  <p>2. Alte APC (Ministerul Muncii și Protecției Sociale,  Ministerul Afacerilor Interne, Ministerul Justiției) </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -62,7 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Consiliul pentru egalitate

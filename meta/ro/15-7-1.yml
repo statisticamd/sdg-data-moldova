@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 15.7.1: Proporția comerțului ilicit cu animale sălbatice, care au fost braconate sau  traficate ilicit</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Luarea unor măsuri urgente pentru a stopa braconajul și traficul de specii de  floră și faună protejate și abordarea cererii și ofertei de produse ilegale de  specii sălbatice</p>
+  <p>Target 15.7: Luarea unor măsuri urgente pentru a stopa braconajul și traficul de specii de  floră și faună protejate și abordarea cererii și ofertei de produse ilegale de  specii sălbatice</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Office on Drugs and Crime (UNODC), CITIES
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  15.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-15-07-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 15.7.1: Proporția comerțului ilicit cu animale sălbatice (inclusiv, produse  derivate, părți ale acestora) care au fost braconate sau traficate prin  contrabandă</p>
 SDG_SERIES_DESCR: ''

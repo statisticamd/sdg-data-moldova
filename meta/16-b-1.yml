@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  16.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-0b-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.b.1: Proportion of population reporting having personally felt discriminated  against or harassed in the previous 12 months on the basis of a ground of  discrimination prohibited under international human rights law</p>
 SDG_SERIES_DESCR: ''
@@ -44,8 +45,8 @@ DATA_SOURCE: >-
   Equality council
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.  Equality council</p> 
-  <p>  2.Other APC (Ministry Labour and Social Protection,  Ministry of Internal Affairs, Ministry of Justice) </p>
+  <p> 1. Equality council</p> 
+  <p>2. Other APC (Ministry Labour and Social Protection,  Ministry of Internal Affairs, Ministry of Justice) </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -62,7 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Equality council
@@ -70,6 +71,6 @@ source_periodicity_1: >-
   Once every few  (4) years (the survey was conducted in 2010, 2014, 2018)
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-15-03-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 15.3.1.1: Cota-parte a terenurilor din categoria terenurilor cu destinație agricolă ameliorate din suprafața totală de terenuri degradate din categoria respectivă</p>
 SDG_SERIES_DESCR: ''
@@ -67,7 +67,7 @@ source_organisation_1: >-
   Ministerul Agriculturii și Industriei Alimentare
 source_periodicity_1: >-
 source_url_1: >-
-  Link la suras de date
+  Link la sursa de date
 source_url_text_1: >-
 source_contact_1: >-
   Oleg Botnari, Agenția Națională de Îmbunătățiri Funciare, oleg.botnari@anif.gov.md, 022-82-08-28

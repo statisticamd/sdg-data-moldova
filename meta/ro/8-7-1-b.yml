@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 8.7.1.b: Ponderea șI numărul copiilor cu vârsta între 5-17 ani, care se află în situația de  „munca copiilor” pe sexe și vârstă</p>
+  <p>Indicator 8.7.1.b: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 8.7: Măsuri imediate și eficiente pentru eradicarea muncii forțate, eliminarea  sclaviei moderne și a traficului de ființe umane, și asigurarea interzicerii  și eliminării celor mai grave forme ale muncii copiilor, inclusiv recrutarea  și utilizarea copiilor soldați, iar până în 2025, eliminarea muncii copiilor  în toate formele sale.</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -25,7 +25,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.7.1.b: Numărul copiilor cu vârsta între 5-17 ani, care se află în situația  de „munca copiilor”</p>
 SDG_SERIES_DESCR: ''
@@ -73,7 +73,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  I
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

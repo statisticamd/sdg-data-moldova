@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 10.7.2.3: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 10.7: NA</p>
+  <p>Target 10.7: Facilitarea migrației și mobilității ordonate, sigure, reglementate și  responsabile a persoanelor, inclusiv prin implementarea unor politici de  migrație planificate și bine gestionate</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   DESA Population Division, IOM
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-02.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.7.2.3: Numărul acordurilor bilaterale în domeniul securității sociale  semnate și intrate în vigoare</p>
 SDG_SERIES_DESCR: ''
@@ -43,7 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministerul Sănătății, Muncii și Protecției Sociale
+  Ministerul  Muncii și Protecției Sociale
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> Ministerul Muncii și Protecției Sociale</p> 
@@ -65,10 +65,10 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  I
+  1
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Sănătății, Muncii și Protecției Sociale
+  Ministerul  Muncii și Protecției Sociale
 source_periodicity_1: >-
   Anual
 source_url_1: >-

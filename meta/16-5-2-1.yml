@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.5.2.1: „Corruption control” indicator  (between -2,5 and 2,5)</p>
+  <p>Indicator 16.5.2.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.5: Substantially reduce corruption and bribery in all their forms</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.5.2.1: „Corruption control” indicator  (between -2,5 and 2,5)</p>
 SDG_SERIES_DESCR: ''
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   World Bank
@@ -70,6 +70,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://databank.worldbank.org/data/reports.aspx?dsid=3&series=CC.EST
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

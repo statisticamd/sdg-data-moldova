@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 1.5.2: Valoarea pierderilor economice directe în urma situațiilor excepționale   raportate la PIB</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2030, crearea rezilienței celor săraci și a celor aflați în situații  vulnerabile și reducerea expunerii și vulnerabilității acestora la evenimente  extreme legate de climă și alte șocuri și dezastre economice, sociale și de  mediu</p>
+  <p>Target 1.5: Până în 2030, crearea rezilienței celor săraci și a celor aflați în situații  vulnerabile și reducerea expunerii și vulnerabilității acestora la evenimente  extreme legate de climă și alte șocuri și dezastre economice, sociale și de  mediu</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNISDR
@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  1.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 894kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 1.5.2: Valoarea pierderilor economice directe în urma situațiilor excepționale   raportate la PIB</p>
 SDG_SERIES_DESCR: ''
@@ -30,6 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  Indicatorul include: - Pierderi economice directe in agriculturii in urma SE;  - Pierderi economice directe la activele productive; - Pierderi economice  directe în sectorul social; - Pierderi economice directe la infrastructura  critică deteriorată sau distrusă; - Pierderi economice directe la patrimoniul  cultural deteriorate sau distruse.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -45,13 +47,12 @@ DATA_SOURCE: >-
   <p>  2) Biroul Național  de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei și Infrastructurii
+  Ministerul Dezvoltării Economice și Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Acest indicator este calculat ca  suma indicatorilor aferenți din bazele  naționale privind pierderile în caz de SE, împărțit la PIB*100.</p> 
-  <p>   Indicatorul include: - Pierderi economice directe in agriculturii in urma SE;  - Pierderi economice directe la activele productive; - Pierderi economice  directe în sectorul social; - Pierderi economice directe la infrastructura  critică deteriorată sau distrusă; - Pierderi economice directe la patrimoniul  cultural deteriorate sau distruse. </p>
+  Acest indicator este calculat ca  suma indicatorilor aferenți din bazele  naționale privind pierderile în caz de SE, împărțit la PIB*100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -63,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Inspectoratul General pentru Situații de Urgență</p> 
@@ -72,6 +73,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

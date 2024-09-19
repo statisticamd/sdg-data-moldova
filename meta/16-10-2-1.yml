@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.10.2.1: Existence and level of implementation of the  regulatory  framework on access to information</p>
+  <p>Indicator 16.10.2.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.10: Ensure public access to information and protect fundamental freedoms, in  accordance with national legislation and international agreements</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.10.2.1: Existence and level of implementation regulatory framework on access to information</p>
 SDG_SERIES_DESCR: ''
@@ -69,7 +69,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1. Audio-visual Coordination Council</p> 
@@ -78,6 +78,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

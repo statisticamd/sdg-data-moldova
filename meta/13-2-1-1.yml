@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-13-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 759kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 13.2.1.1: Actions for establishment and operationalization of policies,  strategies and action plans on climate change adaptation and resilience,   reduction of greenhouse gas emissions</p>
 SDG_SERIES_DESCR: ''
@@ -74,7 +74,7 @@ source_periodicity_1: >-
 source_url_1: >-
   http://clima.md/lib.php?l=ro&idc=250&
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Marina Lungu - Senior Consultant, Climate Change Policy Section, Ministry of Environment, tel. 022-204-581, email: marina.lungu@mediu.gov.md;                           Andrei Cucoș - Head of the Air Quality Protection Policy Department, Ministry of Environment, tel: 022-204-580, e-mail: andrei.cucos@mediu.gov.md.
 source_other_info_1: >-

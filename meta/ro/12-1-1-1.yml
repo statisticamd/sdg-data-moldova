@@ -13,9 +13,9 @@ target_id: >-
   12.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-12-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 12.1.1.1: Număr de politici naționale care integrează aspectele economiei  „verzi”, producției și consumului durabil (PCD)</p>
 SDG_SERIES_DESCR: ''

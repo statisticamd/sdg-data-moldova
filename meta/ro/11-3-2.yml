@@ -13,9 +13,9 @@ target_id: >-
   11.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.3.2: Proporția orașelor în care structurile funcționează în mod regulat și  pe o bază democratică, asigurând participarea directă a societății civile la  planificarea urbană și managementul urban</p>
 SDG_SERIES_DESCR: ''
@@ -36,6 +36,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Date cu privire la populație -BNS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -43,7 +44,7 @@ DATA_SOURCE: >-
   Programul ONU pentru Așezări Umane (UN HABITAT)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Agriculturii, Dezvoltării Regionale și Mediului
+  Ministerul Infrastructurii și Dezvoltării Regionale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -69,13 +70,15 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Ministerul Agriculturii, Dezvoltării Regionale și Mediului </p> 
-  <p>  2)  Programul ONU pentru Așezări Umane (UN HABITAT) </p>
+  <p> 1) Administrația Publică Locală</p> 
+  <p>2) Ministerul Infrastructurii și Dezvoltării Regionale</p> 
+  <p>3) Biroul Național de Statistică </p> 
+  <p>4) Programul ONU pentru Așezări Umane (UN HABITAT) </p>
 source_periodicity_1: >-
-  O dată la 3/4 ani
+  O dată la 3/5 ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

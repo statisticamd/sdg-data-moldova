@@ -12,9 +12,9 @@ SDG_GOAL: ''
 target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.5.1: Proportion of persons who made unofficial payments (paid a bribe) during the  previous 12 months</p>
 SDG_SERIES_DESCR: ''
@@ -67,7 +67,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Transparency International Moldova
@@ -75,6 +75,6 @@ source_periodicity_1: >-
   Once every few years (2015, 2017)
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

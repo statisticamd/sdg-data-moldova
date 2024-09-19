@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.1.3.1: Number of victims of violent crime per 100,000 population</p>
+  <p>Indicator 16.1.3.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.1: 16.1 Significantly reduce all forms of violence and related death rates  everywhere</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-03.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 217 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.1.3.1: Number of victims of violent crime per 100,000 population</p>
 SDG_SERIES_DESCR: ''
@@ -75,6 +75,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

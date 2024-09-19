@@ -13,9 +13,9 @@ target_id: >-
   12.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-12-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 782kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 12.1.1.1: Number of national policies integrating "green" economy aspects,  sustainable production and consumption (SPC)</p>
 SDG_SERIES_DESCR: ''
@@ -77,7 +77,7 @@ source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Daniel Tentiuc, Senior Consultant, Circular Economy Policies and Economic Instruments Section, Ministry of Environment, tel. 022 204 578, email: daniel.tentiuc@mediu.gov.md
 source_other_info_1: >-

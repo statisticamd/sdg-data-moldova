@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-08-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 208 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 8.a.1: Value of external financial and technical assistance to support trade  sector development</p>
 SDG_SERIES_DESCR: ''
@@ -50,7 +50,7 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Ministry of Economy and Infrastructure </p> 
+  <p> 1.Ministry of Economic Development and Digitalization </p> 
   <p>  2.Ministry of Finance </p>
 OTHER_METHOD: >-
 RATIONALE: ''

@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 10.7.2.1: Existence of efficient national policies on migration</p>
+  <p>Indicator 10.7.2.1: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 10.7: Facilitate orderly, safe, regular and responsible migration and mobility of  people, including through the implementation of planned and well-managed  migration policies</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,7 +13,7 @@ target_id: >-
   10.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-02.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1.Permanent Mission of the Republic of Moldova to the United Nations Office in  Geneva </p> 
@@ -69,6 +69,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
+  Link to data source
 source_url_text_1: >-
 source_contact_1: >-
   migratie.mai@gov.md

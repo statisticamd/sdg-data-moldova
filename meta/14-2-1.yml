@@ -13,9 +13,9 @@ target_id: >-
   14.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-14.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-14-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 288 kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 14.2.1: Proportion of national exclusive economic zones managed using  ecosystem-based approaches</p>
 SDG_SERIES_DESCR: ''

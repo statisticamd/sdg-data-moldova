@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-15-06-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 15.6.1.1: Existența actelor normative întru asigurarea distribuirii corecte și  echitabile a resurselor genetice</p>
 SDG_SERIES_DESCR: ''
@@ -45,8 +45,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) The Access and Benefit-Sharing Clearing-House - Republic of Moldova  country profile</p> 
-  <p>2) The  International Treaty on Plant Genetic Resources for Food and Agriculture  (ITPGRFA) Online Reporting  System </p> 
+  <p> 1) Centrul de informare privind accesul și partajarea beneficiilor - Profilul de țară al Republicii Moldova</p> 
+  <p>2) Sistemul de raportare online al Tratatului internațional privind resursele fitogenetice pentru alimentație și agricultură (ITPGRFA) </p> 
   <p>3) Easy-SMTA </p>
 COLL_METHOD: ''
 FREQ_COLL: ''

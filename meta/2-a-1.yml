@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 223 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.a.1: The agriculture orientation index for government expenditures</p>
 SDG_SERIES_DESCR: ''
@@ -79,7 +79,7 @@ source_periodicity_1: >-
 source_url_1: >-
   NA
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Marian Soroceanu, Senior Consultant, Public Policy Coordination and European Integration Department, Ministry of Agriculture and Food Industry, tel. 022 204 518, e-mail: marian.soroceanu@maia.gov.md
 source_other_info_1: >-

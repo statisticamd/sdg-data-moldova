@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.7.1.a: Raportul dintre proporția pozițiilor ocupate în Parlament de către persoanele  din anumite grupuri ale populației și proporția grupului respectiv în total  populație</p>
+  <p>Indicator 16.7.1.a: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.7: Asigurarea procesului decizional receptiv, incluziv, participativ și  reprezentativ la toate nivelurile</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -14,9 +14,9 @@ target_id: >-
   16.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-16.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01A.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.7.1.a: Raportul dintre proporția pozițiilor ocupate în Parlament de către  persoanele din anumite grupuri ale populației și proporția grupului respectiv  în total populație</p>
 SDG_SERIES_DESCR: ''
@@ -44,7 +44,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Parlament</p> 
+  <p> 1) Parlamentul</p> 
   <p>  2) Comisia Electorală Centrală </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
@@ -76,7 +76,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Parlamentul</p> 

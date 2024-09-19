@@ -13,9 +13,9 @@ target_id: >-
   3.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 865kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.5.1: Gradul de acoperire cu intervenții/servicii a consumatorilor de  substanțe psihotropice, indice</p>
 SDG_SERIES_DESCR: ''
@@ -63,7 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Ministerul Sănătății/Dispensarul Republican de Narcologie

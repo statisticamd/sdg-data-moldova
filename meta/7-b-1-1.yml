@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 7.b.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 7.b: NA</p>
+  <p>Target 7.b: By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -13,6 +13,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 7.b.1.1: Volume of investment in the energy efficiency sector relative to GDP</p>
 SDG_SERIES_DESCR: ''
@@ -29,18 +30,21 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Percent
+  Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  <p> The Government of the Republic of Moldova</p> 
+  <p>State Chancellery </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Ministry of Finance</p> 
-  <p>National Bureau of Statistics </p>
+  <p> The Government of the Republic of Moldova</p> 
+  <p>State Chancellery </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministry of Energy
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -56,11 +60,17 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  1
 source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
+  Annual
 source_url_1: >-
+  https://cancelaria.gov.md/sites/default/files/raport_de_progres_odd_2023_vf_15_09_2023_final.pdf
 source_url_text_1: >-
-  Link to source
+  Volume of investment in the energy efficiency sector relative to GDP
 source_contact_1: >-
+  <p> National Center for Sustainable Energy</p> 
+  <p>office@cned.gov.md</p> 
+  <p>022-499-444 </p>
 source_other_info_1: >-

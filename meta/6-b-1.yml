@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 6.b.1: Proportion of local administrative units with established and operational  policies and procedures for participation of local communities in water and  sanitation management</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 6.b: Support and strengthen the participation of local communities in improving  water and sanitation management</p>
+  <p>Target 6.b: Coherent and staged planning and programming of the development of an improved water supply and sanitation infrastructure for all communities, based on well-defined and transparent selection criteria, including the involvement of beneficiary communities</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   WHO,UNEP, OECD
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 428kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 6.b.1: Proportion of local public authorities  with established and operational  policies and procedures for participation of local communities in water and  sanitation management</p>
 SDG_SERIES_DESCR: ''
@@ -37,11 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Local public administration authorities
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministry of Infrastructure and Regional Development
+  National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Infrastructure and Regional Development
@@ -63,11 +64,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Ministry of Infrastructure and Regional Development
+  The State Road Administration and  District Councils; National Bureau of Statistics
 source_periodicity_1: >-
-  Once every 2 years
+  Once every 3/5 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

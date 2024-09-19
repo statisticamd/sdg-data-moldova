@@ -13,9 +13,9 @@ target_id: >-
   5.6
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-05-06-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 634kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.6.2.2: Implementation in the country of the legislative-normative  framework, which guarantees women and men aged 15-49 years old access to  sexual and reproductive health, information and education</p>
 SDG_SERIES_DESCR: ''
@@ -70,7 +70,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Ministry of Health
@@ -78,6 +78,6 @@ source_periodicity_1: >-
   Modern contraception - once every few years, for the rest of the indicators -  annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

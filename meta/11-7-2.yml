@@ -10,11 +10,12 @@ SDG_INDICATOR_INFO__GLOBAL: >-
   Proportion of persons victim of physical or sexual harassment, by sex, age,  disability status and place of occurrence, in the previous 12 months
 SDG_GOAL: ''
 target_id: >-
+  11.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.7.2: Proportion of persons victim of physical or sexual harassment, in the  previous 12 month</p>
 SDG_SERIES_DESCR: ''
@@ -74,6 +75,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  2
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
@@ -81,6 +83,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

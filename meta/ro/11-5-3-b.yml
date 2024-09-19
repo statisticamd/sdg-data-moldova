@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.5.3.b: Numărul de întreruperi ale serviciilor de bază în urma situațiilor excepționale</p>
+  <p>Indicator 11.5.3.b: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 11.5: NA</p>
+  <p>Target 11.5: Până în 2030, reducerea semnificativă a numărului de decese și numărului de persoane afectate și reducerea substanțială a pierderilor economice directe în raport cu produsul intern brut global cauzate de dezastre naturale, inclusiv dezastrele legate de apă, cu accent pe protejarea celor săraci și persoanele aflate în situații vulnerabile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -12,7 +12,9 @@ target_id: >-
   11.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-03.pdf
 GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.5.3.b: Numărul de întreruperi ale serviciilor de bază în urma situațiilor excepționale</p>
 SDG_SERIES_DESCR: ''

@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-05-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 220 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.5.2: Proportion of local breeds and forms classified as being at risk, not at  risk or at unknown risk of extinction</p>
 SDG_SERIES_DESCR: ''
@@ -74,7 +74,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Valentin Roșca, Head of the Animal Husbandry Sector Policy Division, Ministry of Agriculture and Food Industry, tel. 0 22 204 506, e-mail: valentin.rosca@maia.gov.md
 source_other_info_1: >-

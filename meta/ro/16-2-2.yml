@@ -1,21 +1,22 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.2.2: Numărul victimelor traficului de ființe umane la 100 mii populație, pe   sexe, vârstă și forme de exploatare</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 44973: Stoparea abuzului, exploatării, traficului și a tuturor formelor de violență  și  torturii copiilor</p>
+  <p>Target 16: Stoparea abuzului, exploatării, traficului și a tuturor formelor de violență  și  torturii copiilor</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNODC
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
+  Promovarea societăților pașnice și favorabile incluziunii în vederea dezvoltării durabile, asigurarea accesului la justiție pentru toți și crearea de instituții eficiente, responsabile și favorabile incluziunii la toate nivelurile
 SDG_GOAL: ''
 target_id: >-
-  44973
+  16
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 1361kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.2.2: Numărul victimelor traficului de ființe umane la 100.000 populație</p>
 SDG_SERIES_DESCR: ''
@@ -66,7 +67,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Inspectoratul General al Poliției al MAI
@@ -74,6 +75,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 14.4.1.1: NA</p>
+  <p>Indicator 14.4.1.1.: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 14.4: By 2020, effectively regulate harvesting and end overfishing, illegal,  unreported and unregulated fishing and destructive fishing practices and  implement science-based management plans, in order to restore fish stocks in  the shortest time feasible, at least to levels that can produce maximum  sustainable yield as determined by their biological characteristics</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -17,9 +17,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-14-04-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 370 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 14.4.1.1: Number of registered contraventions on illegal fishing</p>
+  <p>Indicator 14.4.1.1.: umber of registered contraventions on illegal fishing</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -73,7 +73,7 @@ source_periodicity_1: >-
 source_url_1: >-
   https://ipm.gov.md/sites/default/files/2022-10/A%20N%20U%20A%20R%20U%20L%20-%202021%2C%20IPM.pdf
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Bajureanu Viorel, head of Hunting and Fishing Resources Control Division, tel. 060225541, e-mail: bajureanuv8@gmail.com
 source_other_info_1: >-

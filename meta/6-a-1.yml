@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-06-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 398 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 6.a.1: Value of external financial and technical assistance for water supply  and sanitation sector development</p>
 SDG_SERIES_DESCR: ''
@@ -51,8 +51,8 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Ministry of Agriculture, Regional Development and Environment</p> 
-  <p>   2.Ministry of Finance </p>
+  <p> 1. Ministry of Agriculture and Food Industry </p> 
+  <p>2.Ministry of Finance </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

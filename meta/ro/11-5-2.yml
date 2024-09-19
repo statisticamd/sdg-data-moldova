@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.5.2: Pierderile economice directe la infrastructura critica în urma  situațiilor excepționale, raportat la PIB global și numărul de întreruperi ale  serviciilor de bază în urma situațiilor excepționale</p>
 SDG_SERIES_DESCR: ''
@@ -62,6 +62,6 @@ source_organisation_1: >-
 source_periodicity_1: >-
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

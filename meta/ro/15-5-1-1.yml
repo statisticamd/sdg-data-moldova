@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 15.5.1.1: Numărul total de specii în Cartea Roșie</p>
 SDG_SERIES_DESCR: ''
@@ -39,7 +39,7 @@ STAT_CONC_DEF: >-
   <p>   Specie rară - specie care în prezent nu este amenințată cu dispariția, dar  care se află sub risc din cauza arealului redus;</p> 
   <p>  Specie nedeterminată -  specie care aparține uneia dintre categoriile de raritate, dar pentru care nu  există suficientă informație pentru a preciza exact categoria căreia îi  aparține;</p> 
   <p>  Specie endemică - specie răspândită în stare sălbatică numai  într-o anumită regiune;</p> 
-  <p>  Specie relictă - specie izolată, datorită  modificărilor geografice, pe o suprafață restrânsă din vechiul său areal </p>
+  <p>  Specie relictă - specie izolată, datorită  modificărilor geografice, pe o suprafață restrânsă din vechiul său areal. </p>
 UNIT_MEASURE: >-
   Număr
 CLASS_SYSTEM: ''
@@ -85,4 +85,4 @@ source_url_text_1: >-
 source_contact_1: >-
   Veronica Josu, consultant principal, Direcția politici în domeniul conservării naturii și biosecurității, Ministerul Mediului, tel. 022-204-574, e-mail: veronica.josu@mediu.gov.md
 source_other_info_1: >-
-  Conform art. 20 alin. (4) din Legea 325/2005 cu privire la Cartea Roșie a Republicii Moldova autoritatea centrală abilitată cu gestiunea resurselor naturale şi cu protecţia mediului înconjurător va asigura editarea şi distribuirea Cărţii Roşii nu mai rar decât o dată la 10 ani . Ediția a III-ea a Cărții  Roșii a Republicii Moldova a fost publicată în anul 2015.
+  Conform art. 20 alin. (4) din Legea 325/2005 cu privire la Cartea Roșie a Republicii Moldova autoritatea centrală abilitată cu gestiunea resurselor naturale şi cu protecţia mediului înconjurător va asigura editarea şi distribuirea Cărţii Roşii nu mai rar decât o dată la 10 ani. Ediția a III-ea a Cărții  Roșii a Republicii Moldova a fost publicată în anul 2015.

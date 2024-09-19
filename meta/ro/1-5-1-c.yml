@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.5.1.c: Numărul de persoane direct afectate în urma situațiilor excepționale, la  100000 de locuitori</p>
+  <p>Indicator 1.5.1.c: NA</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.5: Până în 2030, crearea rezilienței celor săraci și a celor aflați în situații  vulnerabile și reducerea expunerii și vulnerabilității acestora la evenimente  extreme legate de climă și alte șocuri și dezastre economice, sociale și de  mediu</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 224 KB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 1.5.1.c: Numărul de persoane direct afectate în urma situațiilor excepționale,  la 100.000 de locuitori</p>
 SDG_SERIES_DESCR: ''
@@ -38,13 +38,13 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) date administrative ale Inspectoratului General pentru Situații de  Urgenta</p> 
-  <p>  2) statistica populației produsa de BNS </p>
+  <p>2) statistica populației produsa de BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1)  Inspectoratul General pentru Situații de Urgență</p> 
-  <p>  2) Biroul Național  de Statistică </p>
+  <p> 1) Inspectoratul General pentru Situații de Urgență</p> 
+  <p>2) Biroul Național  de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerului Afacerilor Interne
@@ -72,15 +72,15 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Inspectoratul General pentru Situații de Urgență</p> 
-  <p>  2) Biroul Național de  Statistică </p>
+  <p>2) Biroul Național de  Statistică </p>
 source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

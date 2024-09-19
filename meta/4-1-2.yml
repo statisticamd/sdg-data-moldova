@@ -18,7 +18,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.1.2: Completion rate (primary education, lower secondary education, upper secondary education)</p>
 SDG_SERIES_DESCR: ''
@@ -70,7 +70,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  I
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics
@@ -78,7 +78,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   ALERGUS-SOLOVIOV Mariana, head, Labour Force Statistics Division, National Bureau of Statistics, mariana.alergus@statistica.gov.md , +373 67770786
 source_other_info_1: >-

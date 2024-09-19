@@ -13,9 +13,9 @@ target_id: >-
   11.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-0b-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 2066kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.b.2: Share of local public authorities adopting and implementing local  strategies to reduce the risks of exceptional situations in line with national  strategies to reduce the risks of exceptional situations (same as  1.5.4/13.1.3)</p>
 SDG_SERIES_DESCR: ''

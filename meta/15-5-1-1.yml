@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 440 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 15.5.1.1: Total number of species included in the Red Book</p>
 SDG_SERIES_DESCR: ''
@@ -39,7 +39,7 @@ STAT_CONC_DEF: >-
   <p>  Rare species  - species which presently is not facing extinction, but which is under the  risk because of reduced areal;</p> 
   <p>  Undetermined species - species which  belong to one of the rare categories, but for which there is no sufficient  information so as to clarify exactly the category it belongs to;</p> 
   <p>  Endemic  species - species spread in the wild but only in a certain region;</p> 
-  <p>  Relict  species - isolated species, due to geographical changes, on a restricted area  from its old areal </p>
+  <p>  Relict  species - isolated species, due to geographical changes, on a restricted area  from its old areal. </p>
 UNIT_MEASURE: >-
   Number
 CLASS_SYSTEM: ''
@@ -81,7 +81,7 @@ source_periodicity_1: >-
   Once every 10 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Veronica Josu, Senior Consultant, Department of Nature Conservation and Biosecurity Policies, Ministry of Environment, tel. 022-204-574, email: veronica.josu@mediu.gov.md
 source_other_info_1: >-
