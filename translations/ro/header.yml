@@ -1,4 +1,7 @@
-skip_link: Sari la conținutul principal
+skip_link: Treci la conținutul principal
+# This word identifies a software or web project as being in the early stages of development
+alpha: 
+disclaimer: Salutăm <a href="mailto:%email_contacts.suggestions">sugestiile Dvs</a>.
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: 17 Obiective pentru a transforma lumea
 high_contrast: Contrast înalt
