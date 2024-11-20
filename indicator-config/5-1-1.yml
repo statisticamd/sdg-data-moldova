@@ -54,5 +54,6 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags: []
+tags:
+  - Global
 x_axis_label: ''
