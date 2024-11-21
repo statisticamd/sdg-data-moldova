@@ -56,4 +56,5 @@ sources: []
 standalone: false
 tags:
   - Global
+  - Non-statistical indicator
 x_axis_label: ''

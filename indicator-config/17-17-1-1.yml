@@ -46,4 +46,5 @@ sources: []
 standalone: false
 tags:
   - National proxy
+  - Non-statistical indicator
 x_axis_label: ''

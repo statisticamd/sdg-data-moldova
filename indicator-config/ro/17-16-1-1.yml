@@ -55,4 +55,5 @@ sources: []
 standalone: false
 tags:
   - Național proxy
+  - Indicator non-statistic
 x_axis_label: ''

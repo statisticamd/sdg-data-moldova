@@ -60,4 +60,5 @@ sources: []
 standalone: false
 tags:
   - Global ajustat
+  - Indicator non-statistic
 x_axis_label: ''

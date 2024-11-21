@@ -48,4 +48,5 @@ sources: []
 standalone: false
 tags:
   - Global divizat
+  - Indicator non-statistic
 x_axis_label: ''

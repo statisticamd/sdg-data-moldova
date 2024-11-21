@@ -48,4 +48,5 @@ sources: []
 standalone: false
 tags:
   - Global divided
+  - Non-statistical indicator
 x_axis_label: ''
