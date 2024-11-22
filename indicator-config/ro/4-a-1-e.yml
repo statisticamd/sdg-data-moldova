@@ -19,7 +19,10 @@ graph_annotations: []
 graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_target_lines: []
+graph_target_lines:
+  - series: valoarea țintă 2030
+  - unit: '%'
+  - value: 100
 graph_title: national_indicators.4-a-1-e-graph
 graph_titles: []
 graph_type: line
