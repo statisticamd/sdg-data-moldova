@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 209 KB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.3.2.2: Ponderea recomandărilor Avocatului Poporului (inclusiv Avocatul  Poporului pentru drepturile copilului) și Consiliului pentru egalitate, implementate de către  autoritățile și instituțiile sesizate (care rezultă din acțiunile procesuale)</p>
 SDG_SERIES_DESCR: ''
@@ -46,8 +46,8 @@ DATA_SOURCE: >-
   Oficiul Avocatul Poporului
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Oficiul Avocatul Poporului</p> 
-  <p>  Parlamentul </p>
+  <p> 1. Oficiul Avocatul Poporului</p> 
+  <p>2. Parlamentul Republicii Moldova </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -75,5 +75,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  dumitru.darea@ombudsman.md
+  catalina.graur@ombudsman.md
 source_other_info_1: >-

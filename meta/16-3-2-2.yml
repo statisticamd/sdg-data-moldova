@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 209 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.3.2.2: Proportion of recommendations made by the Ombudsman (including the  Ombudsman for the Rights of the Child) and the  Equality council implemented by the  authorities and institutions referred to (of the procedural actions)16.3.2.2.  Proportion of recommendations made by the Ombudsman (including the Ombudsman  for the Rights of the Child) and the Council for the Prevention and  Elimination of Discrimination and for Ensuring Equality implemented by the  authorities and institutions referred to (of the procedural actions)</p>
 SDG_SERIES_DESCR: ''
@@ -75,5 +75,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  dumitru.darea@ombudsman.md
+  catalina.graur@ombudsman.md
 source_other_info_1: >-
