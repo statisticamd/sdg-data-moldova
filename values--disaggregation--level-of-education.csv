@@ -1,6 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Gymnasium,2,2
 Higher,3,3
+Primary and below,1,1
+Secondary and above,1,1
 Secondary incomplete,1,1
 Secondary school,2,2
 Secondary specialized,3,3

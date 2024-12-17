@@ -7859,30 +7859,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
                 "Women",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Level of education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary and below",
-                "Secondary and above",
+                "Men",
                 ""
               ]
             }
@@ -7905,6 +7883,28 @@
               "enum": [
                 "Rural",
                 "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary and below",
+                "Secondary and above",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25+",
                 ""
               ]
             }

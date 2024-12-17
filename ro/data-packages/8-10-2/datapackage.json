@@ -20,36 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
                 "Femei",
+                "Bărbați",
                 ""
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25+",
-                ""
-              ]
-            },
-            "title": "Grupa de vârstă"
-          },
-          {
-            "name": "Level of education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primare și mai jos",
-                "Secundar și mai sus",
-                ""
-              ]
-            },
-            "title": "Nivelul de studii"
           },
           {
             "name": "Incomes",
@@ -74,6 +50,30 @@
               ]
             },
             "title": "Mediu"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primare și mai jos",
+                "Secundar și mai sus",
+                ""
+              ]
+            },
+            "title": "Nivelul de studii"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25+",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
           },
           {
             "name": "Value",
