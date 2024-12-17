@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Anul"
           },
           {
@@ -29,11 +29,9 @@
           },
           {
             "name": "Incomes",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Poors, 40%",
-                "Wealthy, 60%",
                 ""
               ]
             },

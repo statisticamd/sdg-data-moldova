@@ -8515,7 +8515,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -8532,11 +8532,9 @@
           },
           {
             "name": "Incomes",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Poors, 40%",
-                "Wealthy, 60%",
                 ""
               ]
             },
