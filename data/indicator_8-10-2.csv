@@ -2,8 +2,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2010,,,,,,
 2010,Women,,,,,
 2010,Men,,,,,
-2010,,"Poors, 40%",,,,
-2010,,"Wealthy, 60%",,,,
+"2010,,""Poors, 40 percent"",,,,"
+"2010,,""Wealthy, 60 percent"",,,,"
 2010,,,Rural,,,
 2010,,,Urban,,,
 2010,,,,Primary and below,,
@@ -13,8 +13,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2011,,,,,,
 2011,Women,,,,,
 2011,Men,,,,,
-2011,,"Poors, 40%",,,,
-2011,,"Wealthy, 60%",,,,
+"2011,,""Poors, 40 percent"",,,,"
+"2011,,""Wealthy, 60 percent"",,,,"
 2011,,,Rural,,,
 2011,,,Urban,,,
 2011,,,,Primary and below,,
@@ -24,8 +24,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2012,,,,,,
 2012,Women,,,,,
 2012,Men,,,,,
-2012,,"Poors, 40%",,,,
-2012,,"Wealthy, 60%",,,,
+"2012,,""Poors, 40 percent"",,,,"
+"2012,,""Wealthy, 60 percent"",,,,"
 2012,,,Rural,,,
 2012,,,Urban,,,
 2012,,,,Primary and below,,
@@ -35,8 +35,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2013,,,,,,
 2013,Women,,,,,
 2013,Men,,,,,
-2013,,"Poors, 40%",,,,
-2013,,"Wealthy, 60%",,,,
+"2013,,""Poors, 40 percent"",,,,"
+"2013,,""Wealthy, 60 percent"",,,,"
 2013,,,Rural,,,
 2013,,,Urban,,,
 2013,,,,Primary and below,,
@@ -46,8 +46,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2014,,,,,,
 2014,Women,,,,,
 2014,Men,,,,,
-2014,,"Poors, 40%",,,,
-2014,,"Wealthy, 60%",,,,
+"2014,,""Poors, 40 percent"",,,,"
+"2014,,""Wealthy, 60 percent"",,,,"
 2014,,,Rural,,,
 2014,,,Urban,,,
 2014,,,,Primary and below,,
@@ -57,8 +57,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2015,,,,,,
 2015,Women,,,,,
 2015,Men,,,,,
-2015,,"Poors, 40%",,,,
-2015,,"Wealthy, 60%",,,,
+"2015,,""Poors, 40 percent"",,,,"
+"2015,,""Wealthy, 60 percent"",,,,"
 2015,,,Rural,,,
 2015,,,Urban,,,
 2015,,,,Primary and below,,
@@ -68,8 +68,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2016,,,,,,
 2016,Women,,,,,
 2016,Men,,,,,
-2016,,"Poors, 40%",,,,
-2016,,"Wealthy, 60%",,,,
+"2016,,""Poors, 40 percent"",,,,"
+"2016,,""Wealthy, 60 percent"",,,,"
 2016,,,Rural,,,
 2016,,,Urban,,,
 2016,,,,Primary and below,,
@@ -79,8 +79,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2017,,,,,,
 2017,Women,,,,,
 2017,Men,,,,,
-2017,,"Poors, 40%",,,,
-2017,,"Wealthy, 60%",,,,
+"2017,,""Poors, 40 percent"",,,,"
+"2017,,""Wealthy, 60 percent"",,,,"
 2017,,,Rural,,,
 2017,,,Urban,,,
 2017,,,,Primary and below,,
@@ -90,8 +90,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2018,,,,,,
 2018,Women,,,,,
 2018,Men,,,,,
-2018,,"Poors, 40%",,,,
-2018,,"Wealthy, 60%",,,,
+"2018,,""Poors, 40 percent"",,,,"
+"2018,,""Wealthy, 60 percent"",,,,"
 2018,,,Rural,,,
 2018,,,Urban,,,
 2018,,,,Primary and below,,
@@ -101,8 +101,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2019,,,,,,
 2019,Women,,,,,
 2019,Men,,,,,
-2019,,"Poors, 40%",,,,
-2019,,"Wealthy, 60%",,,,
+"2019,,""Poors, 40 percent"",,,,"
+"2019,,""Wealthy, 60 percent"",,,,"
 2019,,,Rural,,,
 2019,,,Urban,,,
 2019,,,,Primary and below,,
@@ -112,8 +112,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2020,,,,,,
 2020,Women,,,,,
 2020,Men,,,,,
-2020,,"Poors, 40%",,,,
-2020,,"Wealthy, 60%",,,,
+"2020,,""Poors, 40 percent"",,,,"
+"2020,,""Wealthy, 60 percent"",,,,"
 2020,,,Rural,,,
 2020,,,Urban,,,
 2020,,,,Primary and below,,
@@ -123,8 +123,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2021,,,,,,64.2
 2021,Women,,,,,62.9
 2021,Men,,,,,65.7
-2021,,"Poors, 40%",,,,54.4
-2021,,"Wealthy, 60%",,,,70.8
+"2021,,""Poors, 40 percent"",,,,54.4"
+"2021,,""Wealthy, 60 percent"",,,,70.8"
 2021,,,Rural,,,56.9
 2021,,,Urban,,,71.5
 2021,,,,Primary and below,,40
@@ -134,8 +134,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2022,,,,,,
 2022,Women,,,,,
 2022,Men,,,,,
-2022,,"Poors, 40%",,,,
-2022,,"Wealthy, 60%",,,,
+"2022,,""Poors, 40 percent"",,,,"
+"2022,,""Wealthy, 60 percent"",,,,"
 2022,,,Rural,,,
 2022,,,Urban,,,
 2022,,,,Primary and below,,
@@ -145,8 +145,8 @@ Year,Sex,Incomes,Area,Level of education,Age group,Value
 2023,,,,,,
 2023,Women,,,,,
 2023,Men,,,,,
-2023,,"Poors, 40%",,,,
-2023,,"Wealthy, 60%",,,,
+"2023,,""Poors, 40 percent"",,,,"
+"2023,,""Wealthy, 60 percent"",,,,"
 2023,,,Rural,,,
 2023,,,Urban,,,
 2023,,,,Primary and below,,
