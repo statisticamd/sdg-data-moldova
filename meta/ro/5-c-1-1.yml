@@ -13,9 +13,9 @@ target_id: >-
   5.c
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-05-0c-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 634kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.c.1.1: Disponibilitatea sistemelor de monitorizare și alocare a resurselor  publice pentru egalitatea de gen și abilitarea femeilor</p>
 SDG_SERIES_DESCR: ''
