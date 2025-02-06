@@ -95,9 +95,9 @@ Year,Sex,Grupa de vârstă,Categorii de populație cu risc sporit,Value
 2018,,35-44,,44.4
 2018,,45-54,,29.8
 2018,,55+,,9.3
-2018,,,Utilizatori de droguri injectabile,1484.0
-2018,,,Lucrători ale sexului comercial,267.1
-2018,,,Bărbaţi care practică sex cu bărbaţii,1162.4
+2018,,,Utilizatori de droguri injectabile,1484.018
+2018,,,Lucrători ale sexului comercial,267.064
+2018,,,Bărbaţi care practică sex cu bărbaţii,1162.407
 2019,,,,27.4
 2019,Bărbați,,,39.6
 2019,Femei,,,16.3
@@ -106,9 +106,9 @@ Year,Sex,Grupa de vârstă,Categorii de populație cu risc sporit,Value
 2019,,35-44,,43.0
 2019,,45-54,,27.2
 2019,,55+,,9.0
-2019,,,Utilizatori de droguri injectabile,1389.5
-2019,,,Lucrători ale sexului comercial,211.5
-2019,,,Bărbaţi care practică sex cu bărbaţii,1048.9
+2019,,,Utilizatori de droguri injectabile,1389.498
+2019,,,Lucrători ale sexului comercial,211.548
+2019,,,Bărbaţi care practică sex cu bărbaţii,1048.922
 2020,,,,26.2
 2020,Bărbați,,,38.1
 2020,Femei,,,15.4
@@ -117,9 +117,9 @@ Year,Sex,Grupa de vârstă,Categorii de populație cu risc sporit,Value
 2020,,35-44,,43.6
 2020,,45-54,,25.1
 2020,,55+,,8.9
-2020,,,Utilizatori de droguri injectabile,1582.9
-2020,,,Lucrători ale sexului comercial,239.3
-2020,,,Bărbaţi care practică sex cu bărbaţii,972.2
+2020,,,Utilizatori de droguri injectabile,1582.911
+2020,,,Lucrători ale sexului comercial,239.255
+2020,,,Bărbaţi care practică sex cu bărbaţii,972.222
 2021,,,,26.7
 2021,Bărbați,,,38.8
 2021,Femei,,,15.8
@@ -128,17 +128,28 @@ Year,Sex,Grupa de vârstă,Categorii de populație cu risc sporit,Value
 2021,,35-44,,45.5
 2021,,45-54,,24.7
 2021,,55+,,9.1
-2021,,,Utilizatori de droguri injectabile,1606.8
-2021,,,Lucrători ale sexului comercial,222.3
-2021,,,Bărbaţi care practică sex cu bărbaţii,959.0
-2022,,,,
-2022,Bărbați,,,
-2022,Femei,,,
-2022,,15-24,,
-2022,,25-34,,
-2022,,35-44,,
-2022,,45-54,,
-2022,,55+,,
-2022,,,Utilizatori de droguri injectabile,
-2022,,,Lucrători ale sexului comercial,
-2022,,,Bărbaţi care practică sex cu bărbaţii,
+2021,,,Utilizatori de droguri injectabile,1606.796
+2021,,,Lucrători ale sexului comercial,222.317
+2021,,,Bărbaţi care practică sex cu bărbaţii,958.96
+2022,,,,33.02
+2022,Bărbați,,,48.161
+2022,Femei,,,19.367
+2022,,15-24,,42.014
+2022,,25-34,,86.012
+2022,,35-44,,58.717
+2022,,45-54,,30.852
+2022,,55+,,11.313
+2022,,,Utilizatori de droguri injectabile,1631.046
+2022,,,Lucrători ale sexului comercial,69.073
+2022,,,Bărbaţi care practică sex cu bărbaţii,1430.753
+2023,,,,27.419
+2023,Bărbați,,,40.174
+2023,Femei,,,16.045
+2023,,15-24,,35.522
+2023,,25-34,,72.267
+2023,,35-44,,49.526
+2023,,45-54,,24.965
+2023,,55+,,9.178
+2023,,,Utilizatori de droguri injectabile,729.708
+2023,,,Lucrători ale sexului comercial,61.676
+2023,,,Bărbaţi care practică sex cu bărbaţii,1710.802

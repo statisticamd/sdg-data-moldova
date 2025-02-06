@@ -95,9 +95,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2018,,35-44,,44.4
 2018,,45-54,,29.8
 2018,,55+,,9.3
-2018,,,Injecting drug users,1484.0
-2018,,,Commercial sex worker,267.1
-2018,,,Men who have sex with men,1162.4
+2018,,,Injecting drug users,1484.018
+2018,,,Commercial sex worker,267.064
+2018,,,Men who have sex with men,1162.407
 2019,,,,27.4
 2019,Men,,,39.6
 2019,Women,,,16.3
@@ -106,9 +106,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2019,,35-44,,43.0
 2019,,45-54,,27.2
 2019,,55+,,9.0
-2019,,,Injecting drug users,1389.5
-2019,,,Commercial sex worker,211.5
-2019,,,Men who have sex with men,1048.9
+2019,,,Injecting drug users,1389.498
+2019,,,Commercial sex worker,211.548
+2019,,,Men who have sex with men,1048.922
 2020,,,,26.2
 2020,Men,,,38.1
 2020,Women,,,15.4
@@ -117,9 +117,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2020,,35-44,,43.6
 2020,,45-54,,25.1
 2020,,55+,,8.9
-2020,,,Injecting drug users,1582.9
-2020,,,Commercial sex worker,239.3
-2020,,,Men who have sex with men,972.2
+2020,,,Injecting drug users,1582.911
+2020,,,Commercial sex worker,239.255
+2020,,,Men who have sex with men,972.222
 2021,,,,26.7
 2021,Men,,,38.8
 2021,Women,,,15.8
@@ -128,17 +128,28 @@ Year,Sex,Age group,High-risk population categories,Value
 2021,,35-44,,45.5
 2021,,45-54,,24.7
 2021,,55+,,9.1
-2021,,,Injecting drug users,1606.8
-2021,,,Commercial sex worker,222.3
-2021,,,Men who have sex with men,959.0
-2022,,,,
-2022,Men,,,
-2022,Women,,,
-2022,,15-24,,
-2022,,25-34,,
-2022,,35-44,,
-2022,,45-54,,
-2022,,55+,,
-2022,,,Injecting drug users,
-2022,,,Commercial sex worker,
-2022,,,Men who have sex with men,
+2021,,,Injecting drug users,1606.796
+2021,,,Commercial sex worker,222.317
+2021,,,Men who have sex with men,958.96
+2022,,,,33.02
+2022,Men,,,48.161
+2022,Women,,,19.367
+2022,,15-24,,42.014
+2022,,25-34,,86.012
+2022,,35-44,,58.717
+2022,,45-54,,30.852
+2022,,55+,,11.313
+2022,,,Injecting drug users,1631.046
+2022,,,Commercial sex worker,69.073
+2022,,,Men who have sex with men,1430.753
+2023,,,,27.419
+2023,Men,,,40.174
+2023,Women,,,16.045
+2023,,15-24,,35.522
+2023,,25-34,,72.267
+2023,,35-44,,49.526
+2023,,45-54,,24.965
+2023,,55+,,9.178
+2023,,,Injecting drug users,729.708
+2023,,,Commercial sex worker,61.676
+2023,,,Men who have sex with men,1710.802
