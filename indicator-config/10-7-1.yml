@@ -45,6 +45,5 @@ reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global adjusted
+tags: []
 x_axis_label: ''

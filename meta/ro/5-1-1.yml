@@ -32,7 +32,6 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  scor
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -42,29 +41,26 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>  Ministerul  Justiției</p> 
-  <p>  Ministerul Afacerilor Interne</p> 
-  <p>  Consiliul pentru Egalitate</p> 
-  <p>  Agenția Servicii  Publice </p> 
-  <p> Agenția de administrare a instanțelor judecătorești</p> 
-  <p>  APC  (grupurile coordonatoare în domeniul gender) </p>
+  <p>Ministerul  Justiției</p> 
+  <p>Ministerul Afacerilor Interne</p> 
+  <p>Consiliul pentru Egalitate</p> 
+  <p>Agenția Servicii  Publice </p> 
+  <p>Agenția de administrare a instanțelor judecătorești</p> 
+  <p> APC  (grupurile coordonatoare în domeniul gender) </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>  Ministerul  Justiției</p> 
-  <p>  Ministerul Afacerilor Interne</p> 
-  <p>  Consiliul pentru Prevenirea  și Eliminarea Discriminării și Asigurarea Egalității,</p> 
-  <p>  Agenția Servicii  Publice </p> 
-  <p> Agenția de administrare a instanțelor judecătorești</p> 
-  <p>  APC  (grupurile coordonatoare în domeniul gender) </p>
+  <p>Ministerul  Justiției</p> 
+  <p>Ministerul Afacerilor Interne</p> 
+  <p>Consiliul pentru Egalitate </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
   <p> 4 domenii ale egalității sunt evaluate: Cadrul legal și viața publică,  Violența împotriva femeilor, Ocuparea și beneficiile economice,  Căsătoria și  familia. </p> 
-  <p>  Indicatorul este calculat în baza evaluării cadrului legal care  promovează, susține și monitorizează egalitatea de gen utilizând un chestionar  din 45 întrebări. </p> 
-  <p>  Răspunsul la întrebări este codificat cu DA-1 sau  NU-0. </p> 
-  <p>  Pentru întrebările 1 și 2, în țările în care nu se aplică legea  cutumiară și legea personală acestea sunt marcate ca N/A și nu sunt incluse în  calcularea scorului general. </p>
+  <p>Indicatorul este calculat în baza evaluării cadrului legal care  promovează, susține și monitorizează egalitatea de gen utilizând un chestionar din 45 întrebări. </p> 
+  <p>Răspunsul la întrebări este codificat cu DA-1 sau  NU-0. </p> 
+  <p>Pentru întrebările 1 și 2, în țările în care nu se aplică legea cutumiară și legea personală acestea sunt marcate ca N/A și nu sunt incluse în calcularea scorului general. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -80,12 +76,12 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>  Ministerul  Justiției</p> 
-  <p>  Ministerul Afacerilor Interne</p> 
-  <p>  Consiliul pentru Egalitate</p> 
-  <p>  Agenția Servicii  Publice</p> 
-  <p> Agenția de administrare a instanțelor judecătorești</p> 
-  <p>  APC  (grupurile coordonatoare în domeniul gender) </p>
+  <p>Ministerul  Justiției</p> 
+  <p>Ministerul Afacerilor Interne</p> 
+  <p>Consiliul pentru Egalitate</p> 
+  <p>Agenția Servicii  Publice</p> 
+  <p>Agenția de administrare a instanțelor judecătorești</p> 
+  <p>APC  (grupurile coordonatoare în domeniul gender) </p>
 source_periodicity_1: >-
   O dată la 2 ani
 source_url_1: >-

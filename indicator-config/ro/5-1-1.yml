@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: scor
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -43,8 +43,10 @@ page_content: >-
   <p>Legea nr.367/2022   cu privire la serviciile alternative de îngrijire a copiilor</p> 
   <p>Legea 107/2022 pentru modificarea unor acte normative (plata egală pentru muncă de valoare egală)</p> 
   <p>Legea nr.195/2022 pentru modificarea unor acte normative (concediul paternal, programe flexibile de muncă)</p> 
+  <p>Legea nr. 74/2023 pentru modificarea unor acte normative</p> 
   <p>HG nr.203/2023 cu privire la aprobarea Programului de Promovare și Asigurare a Egalității între femei și bărbați în RM pentru anii 2023-2027</p> 
-  <p>HG nr. 332/2023 cu privire la aprobarea Programului național privind prevenirea și combaterea violenței împotriva femeilor și violenței în familie pentru anii 2023-2027 </p>
+  <p>HG nr. 332/2023 cu privire la aprobarea Programului național privind prevenirea și combaterea violenței împotriva femeilor și violenței în familie pentru anii 2023-2027;</p> 
+  <p>Legea nr. 180/2024 pentru modificarea unor acte normative (accesul egal la bunuri și servicii pentru femei și bărbați) </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -55,7 +57,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
-  - Indicator non-statistic
+tags: []
 x_axis_label: ''

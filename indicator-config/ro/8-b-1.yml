@@ -60,7 +60,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
-  - Indicator non-statistic
+tags: []
 x_axis_label: ''

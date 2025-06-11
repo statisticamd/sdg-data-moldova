@@ -32,7 +32,6 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Score
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -53,18 +52,15 @@ INST_MANDATE: >-
   <p> 1. Ministry of Labour and Social Protection</p> 
   <p>  2. Ministry of  Justice</p> 
   <p>  3. Ministry of Internal Affairs</p> 
-  <p>  4. Council for Preventing  and Eliminating Discrimination and Ensuring Equality</p> 
-  <p>  5. Public Services  Agency </p> 
-  <p>  6. Agency for Court Administration</p> 
-  <p>  7. Central public  authorities (gender coordinating groups) </p>
+  <p>  4. Council for Equality </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
   <p> 4 areas of activity are assessed: Legal framework and public life, Violence  against women, Employment and economic benefits, Marriage and family.  </p> 
-  <p>   The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  with 45 questions.  </p> 
-  <p>  Answers to questions are coded YES-1 or NO-0. </p> 
-  <p>   Questions 1 and 2 are marked with N/A and are not included in calculating the  general score in countries in which customary law and personal law are not  applied. </p>
+  <p>The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  with 45 questions.  </p> 
+  <p>Answers to questions are coded YES-1 or NO-0. </p> 
+  <p>Questions 1 and 2 are marked with N/A and are not included in calculating the  general score in countries in which customary law and personal law are not  applied. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -31,21 +31,19 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Serviciul de Asistență Personală este destinat pentru persoanele cu  dizabilități severe care necesită îngrijire, însoțire și supraveghere  permanentă din partea unei alte persoane în procesul integrării lor în  societate în domeniile protecției sociale, muncii, asistenței medicale,  instructiv-educativ, informațional, al accesului la infrastructură și altele.  Serviciul social „Asistența Personală” a fost instituit prin Hotărârea  Guvernului nr. 314 din 23 mai 2012 pentru aprobarea Regulamentului-cadru  privind organizarea și funcționarea Serviciului social „Asistenta personală”  și a Standardelor minime de calitate. </p> 
-  <p>  Funcția de organizare, finanțare  și prestare a serviciului social „Asistența personală” este atribuită în  competența APLl II, fiind o funcție descentralizată. Responsabilitatea de  prestare a serviciului „Asistența personală” este atribuită structurilor  teritoriale de asistență socială. </p>
+  Prin Hotărârea Guvernului nr. 314/2012 a fost aprobat Regulamentul-cadru privind organizarea și funcționarea serviciului social „Asistență personală” și Standardele minime de calitate. Scopul Serviciului este de a oferi asistență și îngrijire copiilor și adulților cu dizabilități severe, în vederea favorizării independenței și integrării lor în societate. Cheltuielile ce țin de organizarea și funcționarea serviciului social „Asistență personală” sunt suportate de către prestatorii serviciului și sunt efectuate în limita alocațiilor prevăzute anual în bugetele respective, precum și a mijloacelor provenite din donații, granturi și alte surse, conform legislației. Conform prevederilor Legii nr. 256/2023 pentru modificarea unor acte normative și Hotărîrii Guvernului nr. 957/2023 cu privire la constituirea, organizarea și funcționarea agențiilor teritoriale de asistență socială, competențele de dezvoltare și gestionare a sistemului de asistență socială de la nivelul autorităților publice locale de nivelul doi (APL II), din data de 01.01.2024, sunt implementate de către Ministerul Muncii și Protecției Sociale, prin intermediul ATAS-lor.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p> 
-  <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă </p>
+  Serviciul social „Asistență personală” și Standardele minime de calitate.
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p> 
-  <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă </p>
+  <p>2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
@@ -69,7 +67,7 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p> 
-  <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă </p>
+  <p>2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă </p>
 source_periodicity_1: >-
   anual
 source_url_1: >-

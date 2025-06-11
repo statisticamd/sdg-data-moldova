@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Score
+computation_units: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -43,7 +43,9 @@ page_content: >-
   <p>Law no. 367/2022 regarding alternative childcare services</p> 
   <p>Law 107/2022 for the amendment of some normative acts (equal pay for work of equal value)</p> 
   <p>Law no. 195/2022 for the amendment of some normative acts (paternal leave, flexible work schedules)</p> 
-  <p>GD no. 203/2023 regarding the approval of the Program for Promoting and Ensuring Equality between women and men in the Republic of Moldova for the years 2023-2027 </p>
+  <p>Law nr. 74/2023 for the amendment of some normative acts</p> 
+  <p>GD no. 203/2023 regarding the approval of the Program for Promoting and Ensuring Equality between women and men in the Republic of Moldova for the years 2023-2027</p> 
+  <p>Law no. 180/2024 amending some normative acts (equal access to goods and services for women and men) </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -54,7 +56,5 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global
-  - Non-statistical indicator
+tags: []
 x_axis_label: ''
