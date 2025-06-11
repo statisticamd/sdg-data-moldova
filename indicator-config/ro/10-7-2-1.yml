@@ -2,7 +2,7 @@ composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -33,7 +33,11 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
-page_content: ''
+page_content: >-
+  <p> Migrația legală cu scop de munca este asigurata de Agenția Națională de Ocuparea Forței de Muncă în baza acordurilor în domeniul migrației forței de muncă. La moment sunt active 3 acorduri: </p> 
+  <p>1. Acordul între Guvernul Republicii Moldova și Guvernul Statului Israel cu privire la angajarea temporară a lucrătorilor din Republica Moldova în anumite sectoare din Statul Israel, 16 octombrie 2012 ; </p> 
+  <p>2. Acordul între Guvernul Republicii Moldova și Guvernul Republicii Bulgaria privind reglementarea migrației de muncă, 18 iunie 2018;</p> 
+  <p>3. Memorandum de cooperare între Agenția Federală pentru Oucparea Forței de Muncă din Germania și Ministerul Muncii și Protecției Sociale din Republica Moldova privind selectarea lucrătorilor pentu a fi plasați la munci sezoniere în Republica Federală germană, 01 iulie 2021 </p>
 permalink: ''
 placeholder: ''
 precision: []

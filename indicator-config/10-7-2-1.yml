@@ -2,7 +2,7 @@ composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -33,7 +33,11 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
-page_content: ''
+page_content: >-
+  <p> Legal migration for employment purposes is facilitated by the National Employment Agency based on agreements in the field of labor migration. Currently, there are three active agreements:</p> 
+  <p>1.The Agreement between the Government of the Republic of Moldova and the Government of the State of Israel regarding the temporary employment of workers from the Republic of Moldova in certain sectors in the State of Israel, signed on October 16, 2012;</p> 
+  <p>2.The Agreement between the Government of the Republic of Moldova and the Government of the Republic of Bulgaria on regulating labor migration, signed on June 18, 2018;</p> 
+  <p>3.The Memorandum of Cooperation between the Federal Employment Agency of Germany and the Ministry of Labor and Social Protection of the Republic of Moldova regarding the selection of workers to be placed in seasonal employment in the Federal Republic of Germany, signed on July 1, 2021. </p>
 permalink: ''
 placeholder: ''
 precision: []
