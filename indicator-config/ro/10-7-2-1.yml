@@ -48,5 +48,7 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags: []
+tags:
+  - Național proxy
+  - Indicator non-statistic
 x_axis_label: ''

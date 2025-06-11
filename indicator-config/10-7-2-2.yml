@@ -51,5 +51,7 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags: []
+tags:
+  - National proxy
+  - Indicator non-statistic
 x_axis_label: ''
