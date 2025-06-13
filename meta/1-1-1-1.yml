@@ -33,7 +33,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Share of population with income under $4.3 per person, per day, PPP (Purchasing Power Parity). </p> 
+  <p> Share of population with expenditures under $4.3 per person, per day, PPP (Purchasing Power Parity). </p> 
   <p> Purchasing Power Parity (PPP) is a method used to calculate an alternative exchange rate between the currencies of two countries. PPP measures the purchasing power of one currency in an international unit of measurement (usually, dollars), because goods and   services have different prices in some countries as compared to other countries.</p> 
   <p> The poverty line of $4.3 has been regulated in the RM Government Decision No.288 (http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=300778) dated 15.03.2005 approving the Millennium Development Goals in the Republic of Moldova for 2015 and The First National Report "Millennium Development Goals in the Republic of Moldova" (http://md.one.un.org/content/dam/unct/moldova/docs/pub/mdg/first%20mdg%20rom.pdf)</p> 
   <p>  Annually NBS provides the World Bank the HBS database for additional calculations at the global level (global poverty). </p>
@@ -68,7 +68,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  As compared with the global indicator, for the national indicator is used the line of $4.3 per day and PPS for 2011
+  As compared with the global indicator, for the national indicator is used the line of $4.3 per day and PPP for 2011
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
