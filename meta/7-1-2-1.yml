@@ -38,7 +38,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Household survey on energy use, carried out in 2016
+  <p> Household survey on energy use, carried out in 2016</p> 
+  <p>Household survey on energy use, carried out in 2022 </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -46,7 +47,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Infrastructure
+  Ministry of Infrastructure and Regional Development
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

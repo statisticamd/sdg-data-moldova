@@ -38,7 +38,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Metadata-Transport](http://www.statistica.md/public/files/Metadate/en/Transport_en.pdf)
+  Exhaustive statistical surveys specific for every transportation type: railway, road, river, air.
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,6 +70,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Infraannual-monthly
 source_url_1: >-
+  https://statistica.gov.md/en/statistic_domain_details/21
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-

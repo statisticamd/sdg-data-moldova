@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  The installed capacity of power plants that generate electricity from renewable energy sources divided by the total population
+  The installed capacity of power plants that generate electricity from renewable energy sources divided by the total population.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

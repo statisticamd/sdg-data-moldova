@@ -34,11 +34,11 @@ STAT_CONC_DEF: >-
   <p> Parcursul pasagerilor exprimă volumul transportului de pasageri (în  pasageri-km) și se determină pe baza numărului de pasageri transportați și a  distanței efective în km parcurse de fiecare pasager pe tipuri de  vehicule.</p> 
   <p>Notă: metadatele globale recomandă raportarea indicatorului  privind transportul feroviar doar pe teritoriul țării. Indicatorul național  privind transportul feroviar poate fi raportat atât pe teritoriul țării, cât  și în afara țării. </p>
 UNIT_MEASURE: >-
-  mil. pasageri-km
+  Milioane pasageri-km
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Metadate-Transporturi](http://www.statistica.md/public/files/Metadate/Transport.pdf)
+  Cercetările statistice exhaustive specifice pentru fiecare mod de transport: feroviar, rutier, fluvial, aerian
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,6 +70,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   infraanual-lunar
 source_url_1: >-
+  https://statistica.gov.md/ro/statistic_domain_details/21
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

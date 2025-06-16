@@ -31,13 +31,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Freight record is determined depending on the weight of the transported  freight and the distances travelled by the vehicles transporting the freight,  from the loading place (expedition) until the unloading place (destination).
+  <p> Freight record is determined depending on the weight of the transported  freight and the distances travelled by the vehicles transporting the freight,  from the loading place (expedition) until the unloading place (destination).</p> 
+  <p>  Note: global  metadata recommend reporting the indicator regarding the railroad transport  only on the territory of the country. The national indicator on railroad  transportation may be reported both for the territory of the country, as well  as for the territory outside the country. </p>
 UNIT_MEASURE: >-
   million ton-km
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Metadata-Transport](http://www.statistica.md/public/files/Metadate/en/Transport_en.pdf)
+  Exhaustive statistical surveys specific for every transportation type: railway, road, river, air.
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,8 +51,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Freight record = amount obtained by multiplying the weight in tons of the  transported freight by modes of transport (air, road, railroad, river) *  distance in km travelled by the respective freight/cargo. </p> 
-  <p>  Note: global  metadata recommend reporting the indicator regarding the railroad transport  only on the territory of the country. The national indicator on railroad  transportation may be reported both for the territory of the country, as well  as for the territory outside the country. </p>
+  Freight record = amount obtained by multiplying the weight in tons of the  transported freight by modes of transport (air, road, railroad, river) *  distance in km travelled by the respective freight/cargo.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,6 +70,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   infraannual-monthly
 source_url_1: >-
+  https://statistica.gov.md/en/statistic_domain_details/21
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-

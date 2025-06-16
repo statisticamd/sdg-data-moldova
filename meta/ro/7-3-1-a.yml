@@ -45,7 +45,7 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Energiei
+  Ministerul Infrastructurii și Dezvoltării Regionale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -65,7 +65,7 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agenția pentru Eficiență Energetică
+  Biroul Național de Statistică
 source_periodicity_1: >-
   anual
 source_url_1: >-
@@ -73,7 +73,4 @@ source_url_1: >-
 source_url_text_1: >-
   Consumul intern brut pe ani și tipuri de produse energetice
 source_contact_1: >-
-  <p> Agenția pentru Eficiență Energetică</p> 
-  <p>office@aee.md</p> 
-  <p>022-499-444 </p>
 source_other_info_1: >-

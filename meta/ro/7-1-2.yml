@@ -33,23 +33,22 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> Drept surse primare de energie se vor considera: gaze naturale, gaze  petroliere (lichefiate), energie electrică, lemne de foc, deșeuri agricole,  biomasă, altele. Combustibilii solizi sunt considerați poluanți și ne-moderni,  în timp ce combustibilii non-solizi sunt considerați "curați". Combustibili  solizi (cum ar fi lemnul, cărbunele, deșeurile agricole) sau kerosenul asociat  cu tehnologii / dispozitive ineficiente (foc deschis, sobe individuale,  încălzitoare de spațiu sau lămpi) - sunt considerate surse de energie  ineficiente pentru gătit, încălzire și iluminat și sunt asociate cu niveluri  ridicate de poluare în interiorul gospodăriei.</p> 
-  <p> Alte: Sursa de energie  "curata" este definită in dependență de rata emisiilor acestei surse de  energii - [a se vedea Ghidul OMS privind calitatea aerului interior: arderea  combustibililor  casnici](https://www.who.int/airpollution/guidelines/household-fuel-combustion/en/).  [Baza de date OMS](http://apps.who.int/gho/data/node.main.SDGFUELS712?lang=en) </p>
+  <p>Alte: Sursa de energie  "curata" este definită in dependență de rata emisiilor acestei surse de  energii - [a se vedea Ghidul OMS privind calitatea aerului interior: arderea  combustibililor  casnici](https://www.who.int/airpollution/guidelines/household-fuel-combustion/en/).  [Baza de date OMS](http://apps.who.int/gho/data/node.main.SDGFUELS712?lang=en) </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Cercetare în gospodării privind consumul de energie 2016 - module  "Utilizarea gazelor naturale", "Plită electrică", "Tipul încălzirii" </p> 
-  <p>  2.  MICS 2012 - modulele "Utilizarea combustibilului solid", "Utilizarea  combustibilului solid și locul de prepararea bucatelor" </p>
+  <p> 1. Cercetare în gospodării privind consumul de energie 2016 - modulele  "Utilizarea gazelor naturale", "Plită electrică", "Tipul încălzirii"</p> 
+  <p>2. Cercetare în gospodării privind consumul de energie 2022 - modulele  "Utilizarea gazelor naturale", "Plită electrică", "Tipul încălzirii" </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Biroul Național de Statistică </p> 
-  <p> 2. Agenția Națională  pentru Sănătate  Publică </p>
+  Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Economiei și Infrastructurii
+  Ministerul Infrastructurii și Dezvoltării Regionale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -63,7 +62,7 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
   <p> IG - ponderea populației care utilizează în diferite scopuri sursele „curate”  de energie: pregătirea alimentelor, încălzirea locuințelor, iluminat; </p> 
-  <p>  IN  -  ponderea populației care utilizează surse energetice pentru necesități  casnice pregătirea alimentelor si/sau încălzirea locuințelor, fără a face  delimitare pe sursele ”curate” de energie (dată fiind lipsa definiției  naționale în legislația în vigoare) </p>
+  <p>IN  -  ponderea populației care utilizează surse energetice pentru necesități  casnice pregătirea alimentelor si/sau încălzirea locuințelor, fără a face  delimitare pe sursele ”curate” de energie (dată fiind lipsa definiției  naționale în legislația în vigoare) </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -71,10 +70,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Biroul Național de Statistică </p> 
-  <p> 2.  Agenția Națională  pentru Sănătate  Publică </p>
+  Biroul Național de Statistică
 source_periodicity_1: >-
-  O dată la 4/6 ani
+  O dată la 5 ani
 source_url_1: >-
   https://statistica.gov.md/ro/consumul-de-energie-in-gospodariile-casnice-editiile-2016-2022-9668_3753.html
 source_url_text_1: >-

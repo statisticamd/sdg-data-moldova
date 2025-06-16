@@ -45,12 +45,12 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Energy
+  Ministry of Infrastructure and Regional Development
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total volume of energy supplied to the industry, transportation, residential  sector, services and agriculture, except for energy supplied to energy  transformation sector and energy sectors
+  Total volume of energy supplied to the industry, transportation, residential  sector, services and agriculture, except for energy supplied to energy  transformation sector and energy sectors.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -65,15 +65,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agency for Energy Efficiency
+  National Bureau of Statistics
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  https://statbank.statistica.md/PxWeb/pxweb/ro/40%20Statistica%20economica/40%20Statistica%20economica__15%20ENE__serii%20anuale/ENE020100.px/table/tableViewLayout1/?rxid=9a62a0d7-86c4-45da-b7e4-fecc26003802
+  https://statbank.statistica.md/PxWeb/pxweb/en/40%20Statistica%20economica/40%20Statistica%20economica__15%20ENE__serii%20anuale/ENE020100.px/table/tableViewLayout1/?rxid=9a62a0d7-86c4-45da-b7e4-fecc26003802
 source_url_text_1: >-
   Final consumption of energy resources by years and types of energy products
 source_contact_1: >-
-  <p> Agency for Energy Efficiency</p> 
-  <p>office@aee.md</p> 
-  <p>022-499-444 </p>
 source_other_info_1: >-

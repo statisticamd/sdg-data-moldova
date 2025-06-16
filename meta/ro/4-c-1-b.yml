@@ -31,13 +31,13 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Studii în domeniul pedagogiei se vor considera studii pedagogice, înainte de a  intra in serviciu sau pe parcursul activității didactice, sau in lipsa   acestora - cursuri de psihopedagogie de un an inainte de a intra in serviciu sau pe  parcursul activității didactice, sau in lipsa acestora - cursuri de  psihopedagogie de un an.
+  Studii în domeniul pedagogiei se vor considera studii pedagogice, înainte de a  intra in serviciu sau pe parcursul activității didactice, sau in lipsa acestora - cursuri de psihopedagogie de un an.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Cercetarea staistică nr. 83-edu (Personalul încadrat în instituțiile de  învățământ primar și secundar general)
+  Cercetarea staistică nr. 83-edu „Personalul încadrat în instituțiile de  învățământ primar și secundar general”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul personalului pedagogic cu studii în domeniul pedagogiei în nivelul  primar raportat la numărul total al personalului pedagogic în nivelul primar
+  Numărul personalului pedagogic cu studii în domeniul pedagogiei în nivelul  primar raportat la numărul total al personalului pedagogic în nivelul primar.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,8 +58,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: personal pedagogic cu nivel minim de instruire pentru a preda conform  cerințelor naționale</p> 
-  <p>Național: personal pedagogic cu studii în domeniul  pedagogiei sau cursuri de psihopedagogie de un an </p>
+  <p> Global: personal pedagogic cu nivel minim de instruire pentru a preda conform  cerințelor naționale.</p> 
+  <p>Național: personal pedagogic cu studii în domeniul  pedagogiei sau cursuri de psihopedagogie de un an. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

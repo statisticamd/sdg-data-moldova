@@ -46,7 +46,7 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  1.National Bureau of Statistics
+  National Bureau of Statistics
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -70,7 +70,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Once every 10 years
 source_url_1: >-
-  https://statistica.gov.md/RPL2024
+  https://statistica.gov.md/en/population-and-housing-census-2024-9940.html
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-

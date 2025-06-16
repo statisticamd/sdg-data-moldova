@@ -33,23 +33,22 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> The following shall be considered as primary sources of energy: natural gas, petroleum (liquid) gas, electricity, fire wood, agricultural waste, biomass, other. Solid fuels are considered to be polluting and non modern, while the non-solid fuels are considered to be "clean". Solid fuels (such as wood, coal, agricultural waste) or kerosene associated with inefficient technologies / devices (open fire, individual ovens, space heaters or lamps) - are considered inefficient energy sources for cooking, heating and lighting and are associated with high levels of pollution within the household.</p> 
-  <p>   Other: The "clean" energy source is defined depending on the emission rate of the respective energy sources - [see WHO Guide on quality of indoor air: burning of domestic fuel](https://www.who.int/airpollution/guidelines/household-fuel-combustion/en/). [WHO database](http://apps.who.int/gho/data/node.main.SDGFUELS712?lang=en) </p>
+  <p>Other: The "clean" energy source is defined depending on the emission rate of the respective energy sources - [see WHO Guide on quality of indoor air: burning of domestic fuel](https://www.who.int/airpollution/guidelines/household-fuel-combustion/en/). [WHO database](http://apps.who.int/gho/data/node.main.SDGFUELS712?lang=en) </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1. Households' survey on energy use 2016 - modules "Use of natural gas", "Electrical oven", "Heating type"</p> 
-  <p>   2. MICS 2012 - modules "Use of solid fuel", "Use of solid fuel and place for cooking" </p>
+  <p>2. Households' survey on energy use 2022 - modules "Use of natural gas", "Electrical oven", "Heating type" </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Bureau of Statistics </p> 
-  <p>2.National Agency for Public Health </p>
+  National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Economy and Infrastructure
+  Ministry of Infrastructure and Regional Development
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -63,7 +62,7 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
   <p> IG - the share of population using "clean" energy source for different purpose: cooking, heating, lighting; </p> 
-  <p>   IN -  the share of population using energy sources for domestic needs, like cooking and/or heating the dwelling, without making a difference between "clean" energy sources (as there is no national definition in the legislation in force) </p>
+  <p>IN -  the share of population using energy sources for domestic needs, like cooking and/or heating the dwelling, without making a difference between "clean" energy sources (as there is no national definition in the legislation in force) </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -71,10 +70,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.National Bureau of Statistics </p> 
-  <p>2.National Agency for Public Health </p>
+  National Bureau of Statistics
 source_periodicity_1: >-
-  Once every 4/6 years
+  Once every 5 years
 source_url_1: >-
   https://statistica.gov.md/en/energy-consumption-in-households-9668_3753.html
 source_url_text_1: >-
