@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 4.5.1.c: Indicele parității în învățământul secundar general (liceal) și profesional  tehnic(nivelul 3)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.5: Până în 2030, eliminarea disparităților între sexe în educație și asigurarea  accesului egal la toate   nivelurile de învățământ și formare profesională a  persoanelor vulnerabile, inclusiv a persoanelor cu dizabilități, a  populațiilor indigene și a copiilor aflați în situații vulnerabile</p>
+  <p>Target 4.5: Până în 2030, eliminarea disparităților între sexe în educație și asigurarea  accesului egal la toate   nivelurile de învățământ și formare profesională a  persoanelor vulnerabile, inclusiv a persoanelor cu dizabilități, a populațiilor indigene și a copiilor aflați în situații vulnerabile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Educational, Scientific and Cultural Organization (UNESCO)
@@ -38,9 +38,7 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) Cercetarea statistcă nr 1-edu Activitatea instituțiilor de învățământ primar  și secundar general</p> 
-  <p> 2)  Cercetarea statistcă nr 2-edu Activitatea  instituțiilor de învățământ profesional tehnic secundar</p> 
-  <p> </p> 
-  <p> </p> 
+  <p> 2)  Cercetarea statistcă nr 2-edu Activitatea  instituțiilor de învățământ profesional tehnic secundar </p> 
   <p> 3) Statistica populației </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -54,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Rata brută de cuprindere a fetelor în învățământul secundar de treapta II  raportată la rata brută de cuprindere a băieților în învățământul secundar de  treapta II
+  Rata brută de cuprindere a fetelor în învățământul secundar de treapta II  raportată la rata brută de cuprindere a băieților în învățământul secundar de  treapta II.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,8 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Indicatorul global se calculează și pe quintile, statut de dizabilitate,  persoane afectate de conflict</p> 
-  <p>  Indicatorul național se va estima doar pe  sexe </p>
+  Indicatorul global se calculează și pe quintile, statut de dizabilitate,  persoane afectate de conflict. Indicatorul național se va estima doar pe  sexe.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

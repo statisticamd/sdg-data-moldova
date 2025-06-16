@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of implemented actions from the Annual Statistical Work Program out of  the total number of actions planned within it *100.
+  Number of implemented actions from the Annual Statistical Work Program out of  the total number of actions planned within it * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

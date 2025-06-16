@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul acțiunilor din cadrul Planului de acțiuni al Strategiei naționale de  dezvoltare implementate raportat la numărul total de acțiuni planificate în  cadrul acestuia *100.
+  Numărul acțiunilor din cadrul Planului de acțiuni al Strategiei naționale de  dezvoltare implementate raportat la numărul total de acțiuni planificate în  cadrul acestuia * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://statistica.gov.md/ro/programul-de-dezvoltare-a-sistemului-statistic-national-pentru-perioada-31_59784.html
 source_url_text_1: >-
-  Programul de dezvoltare a Sistemului Statistic Național pentru perioada 2023-2026
+  Programul de dezvoltare a Sistemului Statistic Național pentru anii 2023-2026
 source_contact_1: >-
 source_other_info_1: >-

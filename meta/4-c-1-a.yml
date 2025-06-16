@@ -31,13 +31,13 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Pedagogical education will be considered pedagogical studies, before getting   the job or during the teaching activity, or if such studies are missing -  psychopedagogy courses for one year Pedagogical education will be considered  pedagogical studies, before getting the job or during the teaching activity,  or if such studies are missing - psychopedagogy courses for one year .
+  Pedagogical education will be considered pedagogical studies, before getting   the job or during the teaching activity, or if such studies are missing -  psychopedagogy courses for one year Pedagogical education will be considered  pedagogical studies, before getting the job or during the teaching activity,  or if such studies are missing - psychopedagogy courses for one year.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistical report No. 85-edu "Activity of early education institutions"
+  Statistical survey No. 85-edu "Activity of early education institutions"
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of teachers with pedagogical education in pre-primary education out of   total number of teachers in pre-primary education level
+  Number of teachers with pedagogical education in pre-primary education out of   total number of teachers in pre-primary education level.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,8 +58,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements                     </p> 
-  <p>National: teaching  personnel with education in pedagogical in pre-primary  education </p>
+  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements.</p> 
+  <p>National: teaching  personnel with education in pedagogical in pre-primary  education. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

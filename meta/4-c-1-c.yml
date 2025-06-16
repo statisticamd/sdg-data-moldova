@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 4.c.1.c: Proportion of teachers with pedagogical education in general secondary  education (5-12 grades)</p>
+  <p>Indicator 4.c.1.c: Proportion of teachers with the minimum required qualifications, by education level</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.c: By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States</p>
+  <p>Target 4.c: By 2030, substantially increase the supply of qualified teachers, including   through international cooperation for teacher training in developing   countries, especially least developed countries and small island developing  States</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Education and Scientific Cultural Organisation - Institute of  Statistics (UNESCO-UIS)
@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistical report no. 83-edu Personnel working in primary and secondary  general education institutions
+  Statistical survey no. 83-edu „Personnel working in primary and secondary  general education institutions”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of teachers with pedagogical education teaching in the 5-12 grades out  of total number of teachers teaching in the 5-12 grades
+  Number of teachers with pedagogical education teaching in the 5-12 grades out  of total number of teachers teaching in the 5-12 grades.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,8 +58,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements</p> 
-  <p>National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year Global: teaching personnel with minimum level of education to teach  according to national requirements </p>
+  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements                     </p> 
+  <p>National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -72,7 +72,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to data source
+  Link to source
 source_contact_1: >-
-  angela.bezu@mec.gov.md
 source_other_info_1: >-

@@ -45,7 +45,8 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Educației și Cercetării, Ministerul Muncii și Protecției Sociale
+  <p> Ministerul Educației și Cercetării</p> 
+  <p>Ministerul Muncii și Protecției Sociale </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

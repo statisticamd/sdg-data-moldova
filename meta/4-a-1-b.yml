@@ -36,7 +36,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistical report no 1-edu Activity of primary and secondary general  education institutions
+  Statistical survey no 1-edu Activity of primary and secondary general  education institutions
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of general primary and secondary education institutions with access to the Internet for pedagogical purposes in relation to the total number of education institutions, by education level
+  Number of general primary and secondary education institutions with access to the Internet for pedagogical purposes in relation to the total number of education institutions, by education level.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

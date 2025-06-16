@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul copiilor în vârstă de 6 ani cuprinși în învățământul formal (educație timpurie și învățământ primar) raportat la numărul total al copiilor în vârstă de 6 ani *100.
+  Numărul copiilor în vârstă de 6 ani cuprinși în învățământul formal (educație timpurie și învățământ primar) raportat la numărul total al copiilor în vârstă de 6 ani * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

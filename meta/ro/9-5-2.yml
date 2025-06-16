@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 9.5.2: Cercetători (în echivalent normă întreagă) la 1 000 000 locuitori</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Fortificarea cercetării științifice, modernizarea capacităților tehnologice ale sectoarelor industriale  în toate țările, în special țările în curs de  dezvoltare, până în 2030; încurajarea inovațiilor și creșterea semnificativă a numărului de angajați în cercetare-dezvoltare la 1 milion de locuitori și a cheltuielilor publice și private pentru cercetare-dezvoltare</p>
+  <p>Target 9.5: Fortificarea cercetării științifice, modernizarea capacităților tehnologice ale sectoarelor industriale  în toate țările, în special țările în curs de  dezvoltare, până în 2030; încurajarea inovațiilor și creșterea semnificativă a numărului de angajați în cercetare-dezvoltare la 1 milion de locuitori și a cheltuielilor publice și private pentru cercetare-dezvoltare</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Educational Scientific and Cultural Organization (UNESCO)
@@ -12,6 +12,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  9.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-05-02.pdf

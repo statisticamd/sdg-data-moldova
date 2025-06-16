@@ -51,7 +51,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Volumul exporturilor de mărfuri din Republica Moldova (în dolari SUA) raportat  la valoarea totală a comerțului exterior al țării*100
+  Volumul exporturilor de mărfuri din Republica Moldova (în dolari SUA) raportat  la valoarea totală a comerțului exterior al țării * 100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,7 +70,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Anual
 source_url_1: >-
-  https://statistica.gov.md/ro/statistic_indicator_details/19
+  https://statbank.statistica.md/PxWeb/pxweb/ro/40%20Statistica%20economica/40%20Statistica%20economica__21%20EXT__EXT010__serii%20anuale/EXT010100.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

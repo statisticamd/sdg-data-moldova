@@ -45,7 +45,8 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Education and Research, Ministry of Labor and Social Protection
+  <p> Ministry of Education and Research</p> 
+  <p>Ministry of Labor and Social Protection </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

@@ -31,15 +31,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Rata brută de cuprindere școlară în nivelul de învățământ X reprezintă numărul  total al copiilor/elevilor/studenților cuprinși in acest nivel de învățământ,  indiferent de vârstă, ca raport procentual din totalul populației din grupa de  vârsta oficială corespunzătoare acestui nivel de învățământ total  al   copiilor/elevilor/studenților  cuprinși  in  acest  nivel de învățământ,   indiferent  de  vârstă,  ca  raport procentual  din  totalul populației  din   grupa  oficială  de  vârsta  corespunzătoare  acestui nivel de învățăminte.
+  Rata brută de cuprindere școlară în nivelul de învățământ X reprezintă numărul  total al copiilor/elevilor/studenților cuprinși în acest nivel de învățământ,  indiferent de vârstă, ca raport procentual din totalul populației din grupa de  vârsta oficială corespunzătoare acestui nivel de învățământ.
 UNIT_MEASURE: >-
   indice
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1)Cercetarea statistică nr 1-edu "Activitatea instituțiilor de învățământ  primar  și secundar general"</p> 
-  <p>  </p> 
-  <p> 2)Statistica populației </p>
+  <p>2)Statistica populației </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

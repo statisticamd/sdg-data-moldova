@@ -34,7 +34,7 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Indicele Parității de Gen în baza ratei brute de cuprindere în învățământul terțiar este raportul dintre femei și bărbați cuprinși în nivelul terțiar
 UNIT_MEASURE: >-
-  indice
+  Indice
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -62,7 +62,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Indicator UIS UNESCO din Lista oficială a indicatorilor SDG 4. Indicator național
+  Indicator UIS UNESCO din Lista oficială a indicatorilor SDG 4.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

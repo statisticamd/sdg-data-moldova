@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Statistical report no. 85-edu Activity of early education institutions</p> 
+  <p> 1) Statistical survey no. 85-edu „Activity of early education institutions”</p> 
   <p> 2) Population statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -64,7 +64,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

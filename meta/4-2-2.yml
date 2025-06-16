@@ -36,7 +36,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) statistical report No. 85-edu "Activity of early education institutions" </p> 
+  <p> 1) Statistical survey No. 85-edu "Activity of early education institutions" </p> 
   <p> Statistical report No. 1-edu "Activity of primary and secondary general education at the beginning of the school year"</p> 
   <p>     </p> 
   <p> 2) Population statistics </p>
@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of children aged 6 years old covered by formal education (early education and primary education) out of the total number of children aged 6 years old *100.
+  Number of children aged 6 years old covered by formal education (early education and primary education) out of the total number of children aged 6 years old * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

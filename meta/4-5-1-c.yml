@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 4.5.1.c: Parity index in general secondary (lyceums) and technical vocational education  (level 3)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 4.5: By 2030, eliminate gender disparities in education and ensure equal access to   all levels of education and vocational training for the vulnerable, including   persons with disabilities, indigenous peoples and children in vulnerable   situations to all levels of education and vocational training for the  vulnerable, including persons with disabilities, indigenous peoples and  children in vulnerable situations</p>
+  <p>Target 4.5: By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Educational, Scientific and Cultural Organization (UNESCO)
@@ -31,16 +31,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Gross enrolment ratio in the X level of education represents the total number  of children/pupils/students enrolled in the respective level of education,  regardless of age, as a share of the total population in the official age  group corresponding to this level of education. Gross rate of school coverage  at the education level X represents the total number of  children/pupils/students covered by the respective education level, regardless  of age, as a share of total population of the official group of age  corresponding to this level of education.
+  Gross enrolment ratio in the X level of education represents the total number  of children/pupils/students enrolled in the respective level of education,  regardless of age, as a share of the total population in the official age  group corresponding to this level of education.
 UNIT_MEASURE: >-
   Index
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) Statistical report no 1-edu Activity of primary and secondary general  education </p> 
-  <p>  2) Statistical report no 2-edu Activity of secondary  vocational education institutions </p> 
-  <p>   </p> 
-  <p> </p> 
+  <p>  2) Statistical report no 2-edu Activity of secondary  vocational education institutions  </p> 
   <p>3)  Population statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
@@ -54,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Gross enrolment ratio of girls in upper secondary education compared to the  gross  enrolment ratio of boys in upper secondary education Gross coverage  rate for girls in secondary education, stage II compared to the gross coverage  rate for boys in secondary education, stage II.
+  Gross enrolment ratio of girls in upper secondary education compared to the  gross  enrolment ratio of boys in upper secondary education.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,8 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> The global indicator is calculated by quintiles, disability status, persons  affected by conflict</p> 
-  <p>  The national indicator will be estimated only by  sex  The global indicator is calculated by quintiles, disability status,  persons affected by conflict. The national indicator will be estimated only by  sex and areas. </p>
+  The global indicator is calculated by quintiles, disability status, persons  affected by conflict. The national indicator will be estimated only by  sex
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -31,14 +31,13 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Gross enrolment ratio in the X level of education represents the total number  of children/pupils/students enrolled in the respective level of education,  regardless of age, as a share of the total population in the official age  group corresponding to this level of education Gross rate of school coverage  at the education level X represents the total number of  children/pupils/students covered by the respective education level, regardless  of age, as a share of total population of the official group of age  corresponding to this level of education.
+  Gross enrolment ratio in the X level of education represents the total number  of children/pupils/students enrolled in the respective level of education,  regardless of age, as a share of the total population in the official age  group corresponding to this level of education.
 UNIT_MEASURE: >-
   Index
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)Statistical report no 1-edu "Activity of primary and secondary general   education institutions"</p> 
-  <p>    </p> 
+  <p> 1)Statistical report no 1-edu "Activity of primary and secondary general   education institutions" </p> 
   <p>2)Population statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''

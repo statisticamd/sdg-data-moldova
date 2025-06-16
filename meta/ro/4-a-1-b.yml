@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul instituțiilor de învățământ primar și secundar general cu acces la Internet în scopuri pedagogice  raportat la numărul total de instituții de învățământ, pe nivele de educație
+  Numărul instituțiilor de învățământ primar și secundar general cu acces la Internet în scopuri pedagogice  raportat la numărul total de instituții de învățământ, pe nivele de educație.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,7 +61,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
@@ -69,6 +69,6 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-
