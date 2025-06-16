@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Area of residence"
-          },
-          {
             "name": "Home heating systems - total",
             "type": "string",
             "constraints": {

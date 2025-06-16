@@ -146,7 +146,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-5-2,River,1
 #6-6-1,"Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections, The quantity of groundwater in aquifers, thousand m3/24h",2
 #7-1-1,Area of residence,1
-#7-1-2,"Area of residence, Home heating systems - total, Home heating systems - urban, Home heating systems - rural, Food preparation - total, Food preparation - urban, Food preparation - rural",7
+#7-1-2,"Home heating systems - total, Home heating systems - urban, Home heating systems - rural, Food preparation - total, Food preparation - urban, Food preparation - rural",6
 #7-1-2-1,"Bio-fuel and waste, Petrol products, Coal, Natural gas, Thermal energy, Electricity",6
 #7-3-1-a,Types of energy,1
 #7-3-1-b,Sectors,1

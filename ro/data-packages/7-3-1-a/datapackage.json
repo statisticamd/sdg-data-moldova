@@ -25,7 +25,6 @@
                 "Produse petroliere",
                 "Biocombustibili și deșeuri",
                 "Energie electrică",
-                "Energie termică",
                 ""
               ]
             },
@@ -33,7 +32,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

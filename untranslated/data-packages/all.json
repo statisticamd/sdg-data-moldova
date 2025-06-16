@@ -3641,17 +3641,6 @@
             "type": "integer"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Home heating systems - total",
             "type": "string",
             "constraints": {
@@ -4258,14 +4247,13 @@
                 "Petrol products",
                 "Bio-fuel and waste",
                 "Electricity",
-                "Thermal energy",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

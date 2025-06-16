@@ -3946,18 +3946,6 @@
             "title": "Anul"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediul de reședință"
-          },
-          {
             "name": "Home heating systems - total",
             "type": "string",
             "constraints": {
@@ -4617,7 +4605,6 @@
                 "Produse petroliere",
                 "Biocombustibili și deșeuri",
                 "Energie electrică",
-                "Energie termică",
                 ""
               ]
             },
@@ -4625,7 +4612,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

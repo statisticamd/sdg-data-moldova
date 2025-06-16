@@ -24,14 +24,13 @@
                 "Petrol products",
                 "Bio-fuel and waste",
                 "Electricity",
-                "Thermal energy",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

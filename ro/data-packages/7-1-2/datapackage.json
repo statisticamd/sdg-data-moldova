@@ -16,18 +16,6 @@
             "title": "Anul"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediul de reședință"
-          },
-          {
             "name": "Home heating systems - total",
             "type": "string",
             "constraints": {
