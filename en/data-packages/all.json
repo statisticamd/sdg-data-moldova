@@ -233,7 +233,7 @@
             "title": "Year"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -241,7 +241,7 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Indicator"
           },
           {
             "name": "Value",
@@ -4100,8 +4100,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Strategy on development with reduced emissions until 2030",
-                "Climate change adaptation strategy until 2020",
+                "The Low Emissions Development Programme of the Republic of Moldova until 2030",
+                "The National Climate Change Adaptation Programme of the Republic of Moldova until 2030",
                 ""
               ]
             },
@@ -13150,7 +13150,7 @@
             "title": "Year"
           },
           {
-            "name": "Genetic resources",
+            "name": "Animal genetic resources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13163,11 +13163,31 @@
                 "Birds, heads",
                 "Fish, heads",
                 "Bees, families",
-                "Plant genetic resources (samples)",
                 ""
               ]
             },
-            "title": "Genetic resources"
+            "title": "Animal genetic resources"
+          },
+          {
+            "name": "Plant genetic resources (samples)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Corn",
+                "Sorghum crops",
+                "Aromatic and medicinal plants",
+                "Cereal crops",
+                "Leguminous crops for grains",
+                "Viticulture",
+                "Pomology (Fruit growing)",
+                "Berry crops",
+                "Vegetable growing (Vegetable crops)",
+                "Potato",
+                ""
+              ]
+            },
+            "title": "Plant genetic resources (samples)"
           },
           {
             "name": "Value",

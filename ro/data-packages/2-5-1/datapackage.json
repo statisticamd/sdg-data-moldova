@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "Genetic resources",
+            "name": "Animal genetic resources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,11 +29,31 @@
                 "Păsări, capete",
                 "Piscicole (pești), capete",
                 "Apicole (albini), familii",
-                "Resurse genetice vegetale (mostre)",
                 ""
               ]
             },
-            "title": "Resurse genetice"
+            "title": "Resurse genetice animaliere"
+          },
+          {
+            "name": "Plant genetic resources (samples)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Corn",
+                "Sorghum crops",
+                "Aromatic and medicinal plants",
+                "Cereal crops",
+                "Leguminous crops for grains",
+                "Viticulture",
+                "Pomology (Fruit growing)",
+                "Berry crops",
+                "Vegetable growing (Vegetable crops)",
+                "Potato",
+                ""
+              ]
+            },
+            "title": "Resurse genetice vegetale (mostre)"
           },
           {
             "name": "Value",

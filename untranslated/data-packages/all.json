@@ -215,7 +215,7 @@
             "type": "integer"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3783,8 +3783,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Strategy on development with reduced emissions until 2030",
-                "Climate change adaptation strategy until 2020",
+                "The Low Emissions Development Programme of the Republic of Moldova until 2030",
+                "The National Climate Change Adaptation Programme of the Republic of Moldova until 2030",
                 ""
               ]
             }
@@ -12120,7 +12120,7 @@
             "type": "integer"
           },
           {
-            "name": "Genetic resources",
+            "name": "Animal genetic resources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12133,7 +12133,26 @@
                 "Birds, heads",
                 "Fish, heads",
                 "Bees, families",
-                "Plant genetic resources (samples)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Plant genetic resources (samples)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Corn",
+                "Sorghum crops",
+                "Aromatic and medicinal plants",
+                "Cereal crops",
+                "Leguminous crops for grains",
+                "Viticulture",
+                "Pomology (Fruit growing)",
+                "Berry crops",
+                "Vegetable growing (Vegetable crops)",
+                "Potato",
                 ""
               ]
             }

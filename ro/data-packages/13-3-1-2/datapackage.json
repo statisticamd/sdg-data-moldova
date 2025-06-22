@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Strategia de Dezvoltare cu emisii reduse pană în 2030",
-                "Srategia de adaptare la schimbările climatice până în 2020",
+                "The Low Emissions Development Programme of the Republic of Moldova until 2030",
+                "The National Climate Change Adaptation Programme of the Republic of Moldova until 2030",
                 ""
               ]
             },

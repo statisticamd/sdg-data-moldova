@@ -71,11 +71,11 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-1-1,Availability,1
 #17-18-3-2,Level of implementation,1
 #17-19-2-b,Births/Deaths,1
-#17-3-2,Indicators,1
+#17-3-2,Indicator,1
 #17-6-1,"Area of residence, Regions, Speeds",3
 #2-1-2,Age group / Sex,1
 #2-2-3,"Age group, Regions",2
-#2-5-1,Genetic resources,1
+#2-5-1,"Animal genetic resources, Plant genetic resources (samples)",2
 #2-5-2,"Cattle, Sheep",2
 #3-1-1,"Area of residence, Districts",2
 #3-2-1,"Area of residence, Sex",2
@@ -143,6 +143,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-4-1,Economic activities,1
 #6-4-1-1,"Economic activities, Consumption needs",2
 #6-4-2,Economic activities,1
+#6-5-1,Components of integrated water resources management (iwrm),1
 #6-5-2,River,1
 #6-6-1,"Water quality (rivers, lakes and artificial water bodies), percent of the total number of monitored sections, The quantity of groundwater in aquifers, thousand m3/24h",2
 #7-1-1,Area of residence,1

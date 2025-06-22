@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "Indicators",
+            "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Indicatori"
+            "title": "Indicator"
           },
           {
             "name": "Value",

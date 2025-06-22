@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Strategy on development with reduced emissions until 2030",
-                "Climate change adaptation strategy until 2020",
+                "The Low Emissions Development Programme of the Republic of Moldova until 2030",
+                "The National Climate Change Adaptation Programme of the Republic of Moldova until 2030",
                 ""
               ]
             }
