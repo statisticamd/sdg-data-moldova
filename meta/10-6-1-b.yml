@@ -41,9 +41,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Ministry of Foreign Affairs</p> 
-  <p>2. United Nations  General Assembly (UNGA), United Nations Security Council (UNSC), United  Nations Economic and Social Council (ECOSOC), International Monetary Fund,  International Bank for Reconstruction and Development (IBRD), Institute of  Continuing Education (ICE), African Development Bank (AfDB),  </p> 
-  <p>Asian  Development Bank (ADB), Inter-American Development Bank (IADB), World Trade  Organization (WTO), Federal Security Service (FSB) </p>
+  Ministry of Foreign Affairs
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Foreign Affairs

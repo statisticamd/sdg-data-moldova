@@ -31,13 +31,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Strategia privind diversitatea biologică a Republicii Moldova pentru anii  2015-2020 (în continuare – Strategie) reflectă starea actuală a diversității  biologice a Republicii Moldova, tendințele modificării componentelor  biodiversității, scopul și obiectivele activităților destinate protecției  biodiversității.  Prin implementarea Strategiei vor fi   realizate, la nivel  național, prevederile tratatelor internaționale la care Republica Moldova este  parte, în special recomandările stipulate în Planul Strategic pentru  Biodiversitate 2011-2020, inclusiv Obiectivele Aichi privind biodiversitatea,  aprobate la Nagoya (Japonia) la Conferința Părților la CDB (2010), în Planul  Strategic al Uniunii Europene pentru CDB până în anul 2020, etc.</p> 
-  <p>   Obiectivul general al Strategiei urmărește reducerea ratei actuale de pierdere  a biodiversității, ca o contribuție la reducerea sărăciei și ca beneficiu  tuturor formelor de viață de pe pământ. </p> 
-  <p>  • Obiectivul specific A.  Asigurarea, până în 2020, a managementului durabil și a cadrului instituțional  eficient în domeniul conservării diversității biologice;</p> 
-  <p>  • Obiectivul  specific B. Reducerea, până în anul 2020, a presiunii asupra diversității  biologice, pentru asigurarea dezvoltării durabile;</p> 
-  <p>  • Obiectivul specific  C. Implementarea, până în anul 2020, a măsurilor de stopare a amenințărilor  pentru biodiversitate;        </p> 
-  <p>  • Obiectivul specific D. Asigurarea, până  în anul 2020, a măsurilor de sporire a beneficiilor în urma utilizării  resurselor naturale și a serviciilor ecosistemele;</p> 
-  <p>  • Obiectivul specific  E. Asigurarea, până în anul 2020, a suportului științific în domeniul  conservării biodiversității, a accesului la informație și promovarea educației  pentru dezvoltarea durabilă. </p>
+  <p> Începând cu anul 2024, va fi monitorizată Strategia de mediu pentru anii 2024–2030, aprobată prin Hotărârea Guvernului nr. 409/2024.</p> 
+  <p>Strategia de mediu pentru anii 2024-2030 (în continuare – Strategie) se propune a fi una sectorială pentru protecţia mediului, schimbările climatice şi resursele naturale, care include obiectivele şi priorităţile naţionale până anul 2030 în următoarele subdomenii de mediu: buna guvernanţă de mediu, prevenirea poluării mediului, protecţia aerului atmosferic, gestionarea durabilă şi protecţia resurselor de apă, a resurselor de sol, a resurselor minerale utile, a biodiversităţii şi a ecosistemelor naturale (păduri, zone umede, arii naturale protejate de stat etc.), gestionarea integrată a deşeurilor şi a substanţelor chimice, biosecuritatea, asigurarea unui monitoring integrat al mediului, atenuarea şi adaptarea la efectele schimbărilor climatice etc.</p> 
+  <p>Obiectivele generale ale Strategiei: </p> 
+  <p>OG 1. Dezvoltarea unui sistem de guvernanță de mediu transparent, eficient, incluziv și durabil, care să asigure conformitatea cu cerințele în domeniul protecției mediului;</p> 
+  <p>OG 2. Îmbunătățirea calității apelor de suprafață și subterane, protecţia și gestionarea durabilă a resurselor de apă;</p> 
+  <p>OG 3. Îmbunătățirea calității şi protecţia aerului;</p> 
+  <p>OG 4. Îmbunătățirea calității solului, protecția și utilizarea durabilă a resurselor de sol și a resurselor minerale utile;</p> 
+  <p>OG 5. Protejarea, restaurarea şi promovarea utilizării durabile a biodiversității și a ecosistemelor naturale;</p> 
+  <p>OG 6. Asigurarea dezvoltării sistemului de management integrat al deșeurilor și al substanțelor chimice;</p> 
+  <p>OG 7. Reducerea emisiilor de gaze cu efect de seră până în anul 2030 cu 70% comparativ cu 1990 după scenariul necondiționat (sau cu 88% după cel condiționat) asigurând contribuția Republicii Moldova la obținerea neutralității climatice până în anul 2050 la nivel european și creșterea rezilienței sectoarelor economice la schimbările climatice;</p> 
+  <p>OG 8. Promovarea economiei verzi, eficientizarea utilizării resurselor și dezvoltarea economiei circulare. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -56,7 +60,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Proporția acțiunilor realizate din cadrul  Planului Strategiei  privind diversitatea biologică a Republicii Moldova pentru anii 2015-2020.
+  Progresul general privind realizarea Strategiei va fi apreciat în baza indicatori stabiliți.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -75,9 +79,9 @@ source_organisation_1: >-
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=352740
+  https://www.legis.md/cautare/getResults?doc_id=144295&lang=ro
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Raisa Leon - Șef al Direcției coordonare politicilor publice și integrare europeană, tel: 022-204-567, e-mail: raisa.leon@mediu.gov.md.
+  Angela Panciuc - Consultantă principală, Direcția prevenire a poluării, Ministerul Mediului, tel: 022 204-572, e-mail: angela.panciuc@mediu.gov.md
 source_other_info_1: >-

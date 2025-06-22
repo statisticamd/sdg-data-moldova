@@ -8,6 +8,12 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
+  <p> Stakeholder participation is essential to ensure the sustainability of water and sanitation management options over time, e.g. the choice of appropriate solutions for a given social and economic context, and the full understanding of the impacts of a certain development decision. </p> 
+  <p>Defining the procedures in policy or law for the participation of local communities is vital to ensure needs of all the community is met, including the most vulnerable and also encourages ownership of schemes which in turn contributes to their sustainability.</p> 
+  <p>Local administrative units refers to non-overlapping sub-districts, municipalities, communes, or other local community-level units covering both urban and rural areas to be defined by the government.</p> 
+  <p>Policies and procedures for participation of local communities in water and sanitation management would define a formal mechanism to ensure participation of users in planning water and sanitation activities.</p> 
+  <p>A policy or procedure is considered to be established if the mechanism for participation of local communities is defined in law or has been formally approved and published. It is considered to be operational if the policy or procedure is being implemented, with appropriate funding in place and with means for verifying that participation took place.</p> 
+  <p>‘Water and sanitation’ includes all areas of management related to each of the targets under SDG 6, namely: water supply (6.1), sanitation and hygiene (6.2), wastewater treatment and ambient water quality (6.3), efficiency and sustainable use (6.4), integrated water resources management (6.5) and water-related ecosystems (6.6). </p>
 SDG_GOAL: ''
 target_id: >-
   6.b
@@ -31,7 +37,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Data of the indicator are collected based on a questionnaire under the UN  Survey - Global Analysis and Assessment of Sanitation and Drinking-water  (GLAAS). The collected data refer to: governance, monitoring, human resources,  and financial resources in the WASH area - water, sanitation and hygiene.
+  <p> Data of the indicator are collected based on a questionnaire under the UN  Survey - Global Analysis and Assessment of Sanitation and Drinking-water  (GLAAS). The collected data refer to: governance, monitoring, human resources,  and financial resources in the WASH area - water, sanitation and hygiene.</p> 
+  <p>Definition:</p> 
+  <p>The indicator assesses the percentage of local administrative units (as defined by the national government) that have an established and operational mechanism by which individuals and communities can meaningfully contribute to decisions and directions about water and sanitation management.</p> 
+  <p>The indicator Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management is currently being measured by the Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water and sanitation management, and hygiene promotion and the Proportion of countries with high level of users/communities participating in planning programs in water and sanitation management, and hygiene promotion. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -42,7 +51,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Bureau of Statistics
+  Ministry of Infrastructure and Regional Development
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Infrastructure and Regional Development
@@ -64,11 +73,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  The State Road Administration and  District Councils; National Bureau of Statistics
 source_periodicity_1: >-
   Once every 3/5 years
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  Tăbăcaru Sergiu, Head of the Water Supply and Sanitation Policy Directorate, tel: 022 250-655, email:sergiu.tabacaru@midr.gov.md
 source_other_info_1: >-

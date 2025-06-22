@@ -8,6 +8,12 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
+  <p> Participarea părților interesate este esențială pentru a asigura durabilitatea opțiunilor de gestionare a apei și a canalizării în timp, de ex. alegerea soluțiilor adecvate pentru un context social și economic dat și înțelegerea deplină a impactului unei anumite decizii de dezvoltare. </p> 
+  <p>Definirea procedurilor în politică sau în lege pentru participarea comunităților locale este vitală pentru a asigura satisfacerea nevoilor întregii comunități, inclusiv a celor mai vulnerabile și, de asemenea, încurajează asumarea schemelor care, la rândul lor, contribuie la sustenabilitatea acestora.</p> 
+  <p>Unitățile administrative locale se referă la subdistricte, municipalități, comune sau alte unități locale la nivel de comunitate care nu se suprapun, care acoperă atât zonele urbane, cât și cele rurale, care urmează să fie definite de guvern.</p> 
+  <p>Politicile și procedurile de participare a comunităților locale la managementul apei și canalizării ar defini un mecanism formal care să asigure participarea utilizatorilor la planificarea activităților de apă și canalizare.</p> 
+  <p>O politică sau o procedură este considerată a fi stabilită dacă mecanismul de participare a comunităților locale este definit prin lege sau a fost aprobat și publicat în mod oficial. Este considerat a fi operațional dacă politica sau procedura este în curs de implementare, cu finanțare adecvată și cu mijloace pentru a verifica dacă a avut loc participarea.</p> 
+  <p>„Apă și salubritate” include toate domeniile de management legate de fiecare dintre țintele ODD 6, și anume: alimentarea cu apă (6.1), salubritatea și igiena (6.2), tratarea apelor uzate și calitatea apei ambientale (6.3), eficiența și utilizarea durabilă (6.4), managementul integrat al resurselor de apă (6.5) și ecosistemele legate de apă (6.6). </p>
 SDG_GOAL: ''
 target_id: >-
   6.b
@@ -31,7 +37,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Datele indicatorului sunt colectate în baza unui chestionar în cadrul  Cercetării UN-Water Evaluarea și Analiza Globală a Sanitației și Apei-Potabile  (GLASS). Datele colectate sunt despre: guvernare, monitorizare, resurse umane,  și financiare în domeniul (WASH) apă, sanitație și igienă .
+  <p> Datele indicatorului sunt colectate în baza unui chestionar în cadrul  Cercetării UN-Water Evaluarea și Analiza Globală a Sanitației și Apei-Potabile  (GLASS). Datele colectate sunt despre: guvernare, monitorizare, resurse umane,  și financiare în domeniul (WASH) apă, sanitație și igienă .</p> 
+  <p>Definiţie:</p> 
+  <p>Indicatorul evaluează procentul de unități administrative locale (așa cum sunt definite de guvernul național) care au un mecanism stabilit și operațional prin care indivizii și comunitățile pot contribui semnificativ la deciziile și direcțiile privind managementul apei și canalizării.</p> 
+  <p>Indicatorul Ponderea autorităților publice locale care dispun de programe/strategii,  proceduri de implicare a comunității în managementul apei și a sanitației este în prezent măsurat de Proporția țărilor cu proceduri clar definite în lege sau în politică de participare a utilizatorilor/comunităților de servicii la programul de planificare în managementul apei și canalizării și promovarea igienei și Proporția țărilor cu nivel ridicat de utilizatori/comunități de promovare a apei și promovarea igienei și a comunităților. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -42,7 +51,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Biroul Național de Statistică
+  Ministerul Infrastructurii și Dezvoltării Regionale
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Infrastructurii și Dezvoltării Regionale
@@ -64,11 +73,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Administrația Publică Locală; Biroul Național de Statistică
 source_periodicity_1: >-
   O dată la 3/5 ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  Tăbăcaru Sergiu, Şef direcţie politici în domeniul aprovizionării cu apă și sanitație, tel: 022 250-655, email:sergiu.tabacaru@midr.gov.md
 source_other_info_1: >-

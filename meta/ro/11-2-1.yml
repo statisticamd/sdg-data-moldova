@@ -31,6 +31,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> Acest indicator va fi monitorizat de proporția populației care are acces convenabil la transportul public. Accesul la transportul public este considerat convenabil atunci când o stație este accesibilă la o distanță de mers pe jos de-a lungul rețelei stradale de 500 m de la un punct de referință cum ar fi o casă, școală, loc de muncă, piață etc. la un sistem de transport public de capacitate redusă (de exemplu, autobuz, Autobuz Rapid Transit) și/sau 1 km la un sistem de mare capacitate (de exemplu, cale ferată, metrou, feribot). Criteriile suplimentare pentru definirea transportului public care este convenabil includ:</p> 
+  <p>o. Transport public accesibil tuturor clienților cu nevoi speciale, inclusiv celor cu deficiențe fizice, vizuale și/sau auditive, precum și celor cu dizabilități temporare, vârstnici, copii și alte persoane aflate în situații vulnerabile.</p> 
+  <p>b. Transport public cu servicii frecvente în perioadele de vârf</p> 
+  <p>c. Opririle prezintă un mediu de stație sigur și confortabil </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -52,13 +56,14 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Infrastructurii şi Dezvoltării Regionale
 OTHER_METHOD: >-
+  c. Opririle prezintă un mediu de stație sigur și confortabil
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Acest indicator va fi monitorizat drept proporție a populației care are acces  convenabil la transportul public. Accesul la transportul public este  considerat ca fiind convenabil atunci când o stație recunoscută oficial este  accesibilă la o distanță de 0,5 km de un punct de referință, cum ar fi casă,  școală, loc de muncă, piață, etc. Criterii suplimentare pentru definirea  transportului public care este convenabil includ: </p> 
-  <p>  a. Transportul public  accesibil tuturor persoanelor cu nevoi speciale, inclusiv celor cu deficiențe  fizice, vizuale și / sau cu deficiențe de auz, precum și celor cu dizabilități  temporare, persoanelor în vârstă, copiilor și altor persoane aflate în  situații vulnerabile.</p> 
-  <p>  b. Transportul public cu servicii frecvente în  timpul orelor de vârf ale călătoriei</p> 
-  <p>  c. Stația prezintă un mediu sigur și  confortabil </p>
+  <p> Acest indicator va fi monitorizat ca ponderea populației cu acces convenabil la transportul public. Accesul la transportul public este considerat a fi convenabil atunci când o stație recunoscută oficial este accesibilă la o distanță de 0,5 km de punctul de referință, cum ar fi casa, școala, locul de muncă, piața etc. Criteriile suplimentare pentru definirea transportului public convenabil includ: </p> 
+  <p>  a. Transport în comun accesibil tuturor persoanelor cu nevoi speciale, inclusiv celor cu deficiențe fizice, vizuale și/sau auditive, precum și celor cu dizabilități temporare, vârstnici, copii și alte persoane aflate în situații vulnerabile.</p> 
+  <p>  b. Transport public cu servicii frecvente în timpul orelor de călătorie </p> 
+  <p>  c. Stațiile sunt un mediu sigur și confortabil </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -66,6 +71,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  b. Transport public cu servicii frecvente în perioadele de vârf
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -75,9 +81,10 @@ source_active_1: true
 source_organisation_1: >-
   Ministerul Infrastructurii şi Dezvoltării Regionale
 source_periodicity_1: >-
-  Recomandată 2-5 ani în funcție de sursa de date identificată
+  Recomandată- o dată la 3-5 ani în funcție de sursa de date identificată
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+   Slanina Andrei, Şef direcţie politici în domeniul transportului rutier, tel: 022 250 539, email: andrei.slanina@midr.gov.md
 source_other_info_1: >-

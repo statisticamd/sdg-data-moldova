@@ -50,8 +50,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Biroul Național de Statistică</p> 
-  <p>  Î.S. Administrația de Stat a Drumurilor si  consiliile raionale </p>
+  Ministerul Infrastructurii și Dezvoltării Regionale
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Infrastructurii și Dezvoltării Regionale
@@ -75,11 +74,11 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  Biroul Național de Statistică
 source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  Eremia Ion, Șef Direcție politici în domeniul întreținerii drumurilor, tel: 022 250-674, email:ion.eremia@midr.gov.md
 source_other_info_1: >-

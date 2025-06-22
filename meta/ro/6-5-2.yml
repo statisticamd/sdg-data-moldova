@@ -43,9 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Agenția "Apele Moldovei";</p> 
-  <p>2. Serviciului Hidrometeorologic de Stat;</p> 
-  <p>3. Agenția de Mediu. </p>
+  Ministerul  Mediului
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul  Mediului
@@ -69,14 +67,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Agenția "Apele Moldovei";</p> 
-  <p>2. Serviciului Hidrometeorologic de Stat;</p> 
-  <p>3. Agenția de Mediu. </p>
+  Ministerul  Mediului
 source_periodicity_1: >-
 source_url_1: >-
   http://www.geoportal.md/
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Victoria Gratii, șef interimar Direcția politici de management integrat al resurselor de apă, Ministerul Mediului, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
+  Victoria Gratii, Șefa Direcția politici de management integrat al resurselor de apă, Ministerul Mediului, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
 source_other_info_1: >-

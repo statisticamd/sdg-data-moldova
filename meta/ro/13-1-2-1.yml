@@ -42,10 +42,10 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministerul Mediului/Serviciul Hidrometeorologic de Stat
+  Ministerul Mediului
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Mediului/Serviciul Hidrometeorologic de Stat
+  Ministerul Mediului
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -64,12 +64,13 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Mediului/Serviciul Hidrometeorologic de Stat
+  Ministerul Mediului
 source_periodicity_1: >-
   anual
 source_url_1: >-
+  https://www.legis.md/cautare/getResults?doc_id=146236&lang=ro
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Mihail Grigoraș, Director adjunct, Serviciul Hidrometeorologic de Stat, tel. 022-77-35-00, e-mail. mihail.grigoras@meteo.gov.md
+  Marina Lungu – Șef interimar al Secției politici în domeniul schimbării climei, Ministerul Mediului, tel: 022 204-581, e-mail: marina.lungu@mediu.gov.md
 source_other_info_1: >-

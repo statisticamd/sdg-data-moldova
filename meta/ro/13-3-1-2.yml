@@ -42,13 +42,13 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. Agenti economici, </p> 
-  <p>2. Institutii de stat, </p> 
-  <p>3. APL </p>
+  <p>2. Instituții de stat, </p> 
+  <p>3. Autoritățile publice locale </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Mediului
 OTHER_METHOD: >-
-  La sfârșitul anului 2023, a fost aprobat  Programul național de adaptare la schimbările climatice până în anul 2030 și Planul de acțiuni pentru implementarea acestuia (HG nr. 624/2023) și Programul de dezvoltare cu emisii reduse al Republicii Moldova până în anul 2030 (nr.659/202), care urmează să fie implememntate.
+  La sfârșitul anului 2023, a fost aprobat  Programul național de adaptare la schimbările climatice până în anul 2030 și Planul de acțiuni pentru implementarea acestuia (HG nr. 624/2023) și Programul de dezvoltare cu emisii reduse al Republicii Moldova până în anul 2030 (nr.659/2023), care urmează să fie implememntate.
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -71,10 +71,10 @@ source_organisation_1: >-
   <p> 1.Ministerul Mediului,</p> 
   <p>2. Oficiul National pentru Implementarea Proiectelor de Mediu </p>
 source_periodicity_1: >-
-  O dată la 2 si 4 ani
+  O dată la 2 și 4 ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Marina Lungu - Consultant principal, Secția politici în domeniul schimbării climei, Ministerul Mediului, tel. 022-204-581, e-mail: marina.lungu@mediu.gov.md; Andrei Cucoș - Șef al Direcției politici în domeniul protecției aerului atmosferic, Ministerul Mediului, tel: 022-204-580, e-mail: andrei.cucos@mediu.gov.md.
+  Marina Lungu – Șef interimar al Secției politici în domeniul schimbării climei, Ministerul Mediului, tel: 022 204-581, e-mail: marina.lungu@mediu.gov.md
 source_other_info_1: >-

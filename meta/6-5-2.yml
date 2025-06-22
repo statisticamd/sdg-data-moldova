@@ -43,9 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Agency "Apele Moldovei";</p> 
-  <p>2. State Hydrometeorological Service;</p> 
-  <p>3. Environment Agency </p>
+  Ministry of Environment
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment
@@ -69,14 +67,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Agency "Apele Moldovei";</p> 
-  <p>2. State Hydrometeorological Service;</p> 
-  <p>3. Environment Agency </p>
+  Ministry of Environment
 source_periodicity_1: >-
 source_url_1: >-
   http://www.geoportal.md/
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  Victoria Gratii, interim head of Division of Policy for Water Resources Integrated Management, Ministry of Environment, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
+  Victoria Gratii, head of Division of Policy for Water Resources Integrated Management, Ministry of Environment, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
 source_other_info_1: >-

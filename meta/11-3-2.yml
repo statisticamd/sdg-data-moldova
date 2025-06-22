@@ -31,17 +31,43 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> The development of sustainable human settlements calls for the active engagement of all key stakeholders with</p> 
+  <p>particular attention to project/programme beneficiaries and vulnerable groups. Therefore local and national</p> 
+  <p>governments should strive to: </p> 
+  <p>a) facilitate and protect people’s participation and civic engagement through independent civil society organizations that can be from diverse backgrounds - local, national, and international;</p> 
+  <p>b) promote civic and human rights education and training programmes to make urban residents aware of their</p> 
+  <p>rights and the changing roles of diverse women, men, and young women and men in urban settings; </p> 
+  <p>c) remove the barriers that block participation of socially marginalized groups and promote non-discrimination and the full and equal participation of women, young men and women and marginalized groups.</p> 
+  <p>Democratic participation: Structures allow and encourage participation of civil society representing a cross-section of society that allows for equal representation of all members of the community.</p> 
+  <p>Direct participation: Structures allow and encourage civil society accessing and actively engaging in decisionmaking, without intermediaries, at every stage of the urban planning and management process.</p> 
+  <p>Regular participation: Structures allow and encourage civil society participation at every stage of the urban</p> 
+  <p>planning and management process, and at least every six months.</p> 
+  <p>Marginalized groups: Groups of people that are not traditionally given equal voice in governance processes.</p> 
+  <p>These include, but are not limited to, women, young men and women, low-income communities, ethnic minorities, religious minorities, people with disabilities, the elderly, sexual and gender identity minorities and migrants.</p> 
+  <p>Structures: Any formal structure that allows for participation of civil society. This can include, but is not</p> 
+  <p>limited to: national or local legislation, policy, town council meetings, websites, elections, suggestion boxes, appeals processes, notice period for planning proposals etc.</p> 
+  <p>Civil Society: The combination of non-governmental organizations, community groups, community-based</p> 
+  <p>organizations, regional representative groups, unions, research institutes, think tanks, professional bodies, nonprofit sports and cultural groups, and any other groups that represent the interests and wills of the members and wider community.</p> 
+  <p>Urban Management: The officials, including elected officials and public servants, that are responsible for citymanagement, across all sectors, such as roads, water, sanitation, energy, public space, land title etc.</p> 
+  <p>Urban Budget decision making: The process by which money is allocated to various sectors of urban</p> 
+  <p>management, including roads, water, sanitation, energy, public space, land title etc.</p> 
+  <p>Urban Planning, including Design and Agreements: The technical and political process that concerns</p> 
+  <p>the development and use of land, how the natural environment is used etc. Design includes over-arching and</p> 
+  <p>specific design of public space, as well as zoning and land use definitions. Agreements refer to specific contract/</p> 
+  <p>arrangements made with various groups in regard to their land, e.g. Indigenous groups, protected natural</p> 
+  <p>environments etc. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Data on population - NBS
+  <p> Evaluators examine structures at the city and country level, including, for example, legislation, rules and regulations, policies and practice. Data is collected from Evaluators reports and scores who are attached to local urban observatories in various cities.</p> 
+  <p>Data on population - National Bureau of Statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  United Nations Human Settlement Programme (UN HABITAT)
+  Ministry of Infrastructure and Regional Development
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Infrastructure and Regional Development
@@ -83,4 +109,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  Aliona Cucerca, senior consultant, Directorate of Policies and Regulations in the Field of Territorial Planning, Urbanism, Constructions and Housing, tel.022/250-659, e-mail: aliona.cucerca@midr.gov.md
 source_other_info_1: >-

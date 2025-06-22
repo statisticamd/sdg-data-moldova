@@ -47,10 +47,10 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agency “Apele Moldovei” (Moldovan Water)
+  National Administration “Apele Moldovei” (Moldovan Water)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Agriculture, Regional Development and Environment
+  Ministry of Environment
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -80,11 +80,13 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agency “Apele Moldovei” (Moldovan Water)
+  National Administration „Apele Moldovei” (Moldovan Water)
 source_periodicity_1: >-
   Once every 3 years
 source_url_1: >-
+  https://iwrmdataportal.unepdhi.org/country-reports
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  Victoria Gratii, head of Division of Policy for Water Resources Integrated Management, Ministry of Environment, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
 source_other_info_1: >-

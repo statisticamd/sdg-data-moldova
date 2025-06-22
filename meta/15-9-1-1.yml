@@ -31,13 +31,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The Strategy on Biodiversity of the Republic of Moldova for 2015-2020  (hereinafter called as Strategy) reflects the current situation of  biodiversity in the Republic of Moldova, the trends for change of biodiversity  components, purpose and objectives of activities meant for biodiversity  protection.  By implementing the Strategy, the provisions of international  treaties to which the Republic of Moldova is a part, will be carried out at  the national level, especially the recommendations stipulated in the Strategic  Plan for Biodiversity 2011-2020, including the Aichi Objectives for  Biodiversity, approved in  Nagoya (Japan) at the CBD Parties Conference  (2010), in the Strategic Plan of the EU for CBD until 2020, etc.</p> 
-  <p>  The  general objective of the Strategy is to reduce the current rate of  biodiversity loss, as a contribution to reducing poverty and as a benefit for  all the life forms on the Earth. </p> 
-  <p>  • Specific objective A. Ensuring by   2020 sustainable management and efficient institutional framework  in the area  of biological diversity;</p> 
-  <p>  • Specific objective B. Reducing by 2020 the  pressure on biological diversity to ensure sustainable development;</p> 
-  <p>  •  Specific objective C. Implementation by 2020 of measures to stop threats for  biodiversity;        </p> 
-  <p>  • Specific objective D. Ensuring by 2020 measure to  increase the benefits as a result of use of natural resources and ecosystem  services;</p> 
-  <p>  • Specific objective E. Ensuring by 2020 scientific support in  the area of biodiversity conservation, access to information and promotion of  education for sustainable development. </p>
+  <p> Starting  2024, the Environmental Strategy for the years 2024–2030, approved by Government Decision No. 409/2024 will be monitored.</p> 
+  <p>The Environmental Strategy for the years 2024–2030 (hereinafter referred to as "the Strategy") is proposed as a sectoral strategy focused on environmental protection, climate change, and natural resources. It outlines national objectives and priorities up to the year 2030 in the following environmental sub-sectors: good environmental governance, prevention of environmental pollution, protection of atmospheric air, sustainable management and protection of water resources, soil resources, mineral resources, biodiversity and natural ecosystems (forests, wetlands, state-protected natural areas, etc.), integrated waste and chemical management, biosafety, ensuring integrated environmental monitoring, climate change mitigation and adaptation, among others.</p> 
+  <p>The general objectives of the Strategy are:</p> 
+  <p>GO 1. Development of a transparent, efficient, inclusive, and sustainable environmental governance system that ensures compliance with environmental protection requirements;</p> 
+  <p>GO 2. Improvement of the quality of surface and groundwater, and the protection and sustainable management of water resources;</p> 
+  <p>GO 3. Improvement of air quality and air protection;</p> 
+  <p>GO 4. Improvement of soil quality, protection and sustainable use of soil resources and mineral resources;</p> 
+  <p>GO 5. Protection, restoration, and promotion of the sustainable use of biodiversity and natural ecosystems;</p> 
+  <p>GO 6. Ensuring the development of an integrated waste and chemical management system;</p> 
+  <p>GO 7. Reduction of greenhouse gas emissions by 70% by 2030 compared to 1990 under the unconditional scenario (or by 88% under the conditional one), ensuring the Republic of Moldova’s contribution to achieving climate neutrality at the European level by 2050 and increasing the resilience of economic sectors to climate change;</p> 
+  <p>GO 8. Promotion of the green economy, improvement of resource efficiency, and development of the circular economy. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -56,7 +60,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Proportion of actions carried out within the Strategic Plan on Biodiversity of  the Republic of Moldova for 2015-2020.
+  The overall progress in the implementation of the Strategy will be assessed based on the established indicators.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -75,9 +79,9 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=352741
+  https://www.legis.md/cautare/getResults?doc_id=144295&lang=ro
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  Raisa Leon - Head of the Department for Coordinating Public Policies and European Integration, tel: 022-204-567, e-mail: raisa.leon@mediu.gov.md.
+  Angela Panciuc – Senior Consultant, Pollution Prevention Directorate, Ministry of Environment, tel: +373 22 204-572, e-mail: angela.panciuc@mediu.gov.md
 source_other_info_1: >-

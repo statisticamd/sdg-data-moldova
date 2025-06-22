@@ -47,10 +47,10 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția „Apele Moldovei”
+  Administrația Națională „Apele Moldovei”
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Agriculturii, Dezvoltării Regionale și Mediului
+  Ministerul Mediului
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -80,11 +80,13 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agenția „Apele Moldovei”
+  Administrația Națională „Apele Moldovei”
 source_periodicity_1: >-
   o dată la 3 ani
 source_url_1: >-
+  https://iwrmdataportal.unepdhi.org/country-reports
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  Victoria Gratii, Șefa Direcția politici de management integrat al resurselor de apă, Ministerul Mediului, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
 source_other_info_1: >-

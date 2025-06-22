@@ -50,8 +50,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.The State Road Administration and  District Councils </p>
+  Ministry of  Infrastructure and Regional Development
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of  Infrastructure and Regional Development
@@ -75,11 +74,11 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  Eremia Ion, Head of the Road Maintenance Policies Directorate, tel: 022 250-674, email:ion.eremia@midr.gov.md
 source_other_info_1: >-

@@ -31,6 +31,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> This indicator will be monitored by the proportion of the population that has convenient access to public transport. The access to public transport is considered convenient when a stop is accessible within a walking distance along the street network of 500 m from a reference point such as a home, school, work place, market, etc. to a low-capacity public transport system (e.g. bus, Bus Rapid Transit) and/or 1 km to a high-capacity system (e.g. rail, metro, ferry). Additional criteria for defining public transport that is convenient include:</p> 
+  <p>a. Public transport accessible to all special-needs customers, including those who are physically, visually, and/or hearing-impaired, as well as those with temporary disabilities, the elderly, children and other people in vulnerable situations.</p> 
+  <p>b. Public transport with frequent service during peak travel times</p> 
+  <p>c. Stops present a safe and comfortable station environment </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -52,6 +56,7 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Infrastructure and Regional Development
 OTHER_METHOD: >-
+  NA
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -66,6 +71,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  NA
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -75,9 +81,10 @@ source_active_1: true
 source_organisation_1: >-
   Ministry of Infrastructure and Regional Development
 source_periodicity_1: >-
-  Recommended once every 2-5 years depending on the identified data source
+  Recommended - once every 3-5 years depending on the identified data source
 source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  Slanina Andrei, Head of the Road Transport Policy Directorate, tel: 022 250 539, email: andrei.slanina@midr.gov.md
 source_other_info_1: >-

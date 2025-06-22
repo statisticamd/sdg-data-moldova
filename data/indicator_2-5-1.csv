@@ -1,144 +1,316 @@
-Year,Genetic resources,Value
-2010,,
-2010,"Cattle, heads",
-2010,"Pigs, heads",
-2010,"Sheep, heads",
-2010,"Goats, heads",
-2010,"Horses, heads",
-2010,"Rabbits, heads",
-2010,"Birds, heads",
-2010,"Fish, heads",
-2010,"Bees, families",
-2010,Plant genetic resources (samples),6415
-2011,,
-2011,"Cattle, heads",
-2011,"Pigs, heads",
-2011,"Sheep, heads",
-2011,"Goats, heads",
-2011,"Horses, heads",
-2011,"Rabbits, heads",
-2011,"Birds, heads",
-2011,"Fish, heads",
-2011,"Bees, families",
-2011,Plant genetic resources (samples),6415
-2012,,
-2012,"Cattle, heads",
-2012,"Pigs, heads",
-2012,"Sheep, heads",
-2012,"Goats, heads",
-2012,"Horses, heads",
-2012,"Rabbits, heads",
-2012,"Birds, heads",
-2012,"Fish, heads",
-2012,"Bees, families",
-2012,Plant genetic resources (samples),
-2013,,
-2013,"Cattle, heads",
-2013,"Pigs, heads",
-2013,"Sheep, heads",
-2013,"Goats, heads",
-2013,"Horses, heads",
-2013,"Rabbits, heads",
-2013,"Birds, heads",
-2013,"Fish, heads",
-2013,"Bees, families",
-2013,Plant genetic resources (samples),
-2014,,
-2014,"Cattle, heads",
-2014,"Pigs, heads",
-2014,"Sheep, heads",
-2014,"Goats, heads",
-2014,"Horses, heads",
-2014,"Rabbits, heads",
-2014,"Birds, heads",
-2014,"Fish, heads",
-2014,"Bees, families",
-2014,Plant genetic resources (samples),
-2015,,
-2015,"Cattle, heads",
-2015,"Pigs, heads",
-2015,"Sheep, heads",
-2015,"Goats, heads",
-2015,"Horses, heads",
-2015,"Rabbits, heads",
-2015,"Birds, heads",
-2015,"Fish, heads",
-2015,"Bees, families",
-2015,Plant genetic resources (samples),
-2016,,
-2016,"Cattle, heads",3522
-2016,"Pigs, heads",2671
-2016,"Sheep, heads",14132
-2016,"Goats, heads",180
-2016,"Horses, heads",162
-2016,"Rabbits, heads",486
-2016,"Birds, heads",129997
-2016,"Fish, heads",2316
-2016,"Bees, families",240
-2016,Plant genetic resources (samples),6415
-2017,,
-2017,"Cattle, heads",3558
-2017,"Pigs, heads",6138
-2017,"Sheep, heads",10231
-2017,"Goats, heads",269
-2017,"Horses, heads",170
-2017,"Rabbits, heads",74
-2017,"Birds, heads",150982
-2017,"Fish, heads",2580
-2017,"Bees, families",100
-2017,Plant genetic resources (samples),6415
-2018,,
-2018,"Cattle, heads",2948
-2018,"Pigs, heads",4497
-2018,"Sheep, heads",7519
-2018,"Goats, heads",216
-2018,"Horses, heads",60
-2018,"Rabbits, heads",77
-2018,"Birds, heads",
-2018,"Fish, heads",946
-2018,"Bees, families",120
-2018,Plant genetic resources (samples),6415
-2019,,
-2019,"Cattle, heads",2781
-2019,"Pigs, heads",5377
-2019,"Sheep, heads",6427
-2019,"Goats, heads",118
-2019,"Horses, heads",56
-2019,"Rabbits, heads",
-2019,"Birds, heads",
-2019,"Fish, heads",796
-2019,"Bees, families",210
-2019,Plant genetic resources (samples),6012
-2020,,
-2020,"Cattle, heads",4358
-2020,"Pigs, heads",5055
-2020,"Sheep, heads",4592
-2020,"Goats, heads",84
-2020,"Horses, heads",
-2020,"Rabbits, heads",
-2020,"Birds, heads",
-2020,"Fish, heads",1473
-2020,"Bees, families",405
-2020,Plant genetic resources (samples),6012
-2021,,
-2021,"Cattle, heads",4997
-2021,"Pigs, heads",4265
-2021,"Sheep, heads",4111
-2021,"Goats, heads",77
-2021,"Horses, heads",49
-2021,"Rabbits, heads",
-2021,"Birds, heads",
-2021,"Fish, heads",1279
-2021,"Bees, families",665
-2021,Plant genetic resources (samples),6012
-2022,,
-2022,"Cattle, heads",5108
-2022,"Pigs, heads",3904
-2022,"Sheep, heads",3194
-2022,"Goats, heads",55
-2022,"Horses, heads",49
-2022,"Rabbits, heads",
-2022,"Birds, heads",15564
-2022,"Fish, heads",
-2022,"Bees, families",1934
-2022,Plant genetic resources (samples),6012
+Year,Animal genetic resources,Plant genetic resources (samples),Value
+2010,,,
+2010,"Cattle, heads",,
+2010,"Pigs, heads",,
+2010,"Sheep, heads",,
+2010,"Goats, heads",,
+2010,"Horses, heads",,
+2010,"Rabbits, heads",,
+2010,"Birds, heads",,
+2010,"Fish, heads",,
+2010,"Bees, families",,
+2010,,Total,6415
+2010,,Corn,
+2010,,Sorghum crops,
+2010,,Aromatic and medicinal plants,
+2010,,Cereal crops,
+2010,,Leguminous crops for grains,
+2010,,Viticulture,
+2010,,Pomology (Fruit growing),
+2010,,Berry crops,
+2010,,Vegetable growing (Vegetable crops),
+2010,,Potato,
+2011,,,
+2011,"Cattle, heads",,
+2011,"Pigs, heads",,
+2011,"Sheep, heads",,
+2011,"Goats, heads",,
+2011,"Horses, heads",,
+2011,"Rabbits, heads",,
+2011,"Birds, heads",,
+2011,"Fish, heads",,
+2011,"Bees, families",,
+2011,,Total,6415
+2011,,Corn,
+2011,,Sorghum crops,
+2011,,Aromatic and medicinal plants,
+2011,,Cereal crops,
+2011,,Leguminous crops for grains,
+2011,,Viticulture,
+2011,,Pomology (Fruit growing),
+2011,,Berry crops,
+2011,,Vegetable growing (Vegetable crops),
+2011,,Potato,
+2012,,,
+2012,"Cattle, heads",,
+2012,"Pigs, heads",,
+2012,"Sheep, heads",,
+2012,"Goats, heads",,
+2012,"Horses, heads",,
+2012,"Rabbits, heads",,
+2012,"Birds, heads",,
+2012,"Fish, heads",,
+2012,"Bees, families",,
+2012,,Total,
+2012,,Corn,
+2012,,Sorghum crops,
+2012,,Aromatic and medicinal plants,
+2012,,Cereal crops,
+2012,,Leguminous crops for grains,
+2012,,Viticulture,
+2012,,Pomology (Fruit growing),
+2012,,Berry crops,
+2012,,Vegetable growing (Vegetable crops),
+2012,,Potato,
+2013,,,
+2013,"Cattle, heads",,
+2013,"Pigs, heads",,
+2013,"Sheep, heads",,
+2013,"Goats, heads",,
+2013,"Horses, heads",,
+2013,"Rabbits, heads",,
+2013,"Birds, heads",,
+2013,"Fish, heads",,
+2013,"Bees, families",,
+2013,,Total,
+2013,,Corn,
+2013,,Sorghum crops,
+2013,,Aromatic and medicinal plants,
+2013,,Cereal crops,
+2013,,Leguminous crops for grains,
+2013,,Viticulture,
+2013,,Pomology (Fruit growing),
+2013,,Berry crops,
+2013,,Vegetable growing (Vegetable crops),
+2013,,Potato,
+2014,,,
+2014,"Cattle, heads",,
+2014,"Pigs, heads",,
+2014,"Sheep, heads",,
+2014,"Goats, heads",,
+2014,"Horses, heads",,
+2014,"Rabbits, heads",,
+2014,"Birds, heads",,
+2014,"Fish, heads",,
+2014,"Bees, families",,
+2014,,Total,
+2014,,Corn,
+2014,,Sorghum crops,
+2014,,Aromatic and medicinal plants,
+2014,,Cereal crops,
+2014,,Leguminous crops for grains,
+2014,,Viticulture,
+2014,,Pomology (Fruit growing),
+2014,,Berry crops,
+2014,,Vegetable growing (Vegetable crops),
+2014,,Potato,
+2015,,,
+2015,"Cattle, heads",,
+2015,"Pigs, heads",,
+2015,"Sheep, heads",,
+2015,"Goats, heads",,
+2015,"Horses, heads",,
+2015,"Rabbits, heads",,
+2015,"Birds, heads",,
+2015,"Fish, heads",,
+2015,"Bees, families",,
+2015,,Total,
+2015,,Corn,
+2015,,Sorghum crops,
+2015,,Aromatic and medicinal plants,
+2015,,Cereal crops,
+2015,,Leguminous crops for grains,
+2015,,Viticulture,
+2015,,Pomology (Fruit growing),
+2015,,Berry crops,
+2015,,Vegetable growing (Vegetable crops),
+2015,,Potato,
+2016,,,
+2016,"Cattle, heads",,3522
+2016,"Pigs, heads",,2671
+2016,"Sheep, heads",,14132
+2016,"Goats, heads",,180
+2016,"Horses, heads",,162
+2016,"Rabbits, heads",,486
+2016,"Birds, heads",,129997
+2016,"Fish, heads",,2316
+2016,"Bees, families",,240
+2016,,Total,6415
+2016,,Corn,
+2016,,Sorghum crops,
+2016,,Aromatic and medicinal plants,
+2016,,Cereal crops,
+2016,,Leguminous crops for grains,
+2016,,Viticulture,
+2016,,Pomology (Fruit growing),
+2016,,Berry crops,
+2016,,Vegetable growing (Vegetable crops),
+2016,,Potato,
+2017,,,
+2017,"Cattle, heads",,3558
+2017,"Pigs, heads",,6138
+2017,"Sheep, heads",,10231
+2017,"Goats, heads",,269
+2017,"Horses, heads",,170
+2017,"Rabbits, heads",,74
+2017,"Birds, heads",,150982
+2017,"Fish, heads",,2580
+2017,"Bees, families",,100
+2017,,Total,6415
+2017,,Corn,
+2017,,Sorghum crops,
+2017,,Aromatic and medicinal plants,
+2017,,Cereal crops,
+2017,,Leguminous crops for grains,
+2017,,Viticulture,
+2017,,Pomology (Fruit growing),
+2017,,Berry crops,
+2017,,Vegetable growing (Vegetable crops),
+2017,,Potato,
+2018,,,
+2018,"Cattle, heads",,2948
+2018,"Pigs, heads",,4497
+2018,"Sheep, heads",,7519
+2018,"Goats, heads",,216
+2018,"Horses, heads",,60
+2018,"Rabbits, heads",,77
+2018,"Birds, heads",,
+2018,"Fish, heads",,946
+2018,"Bees, families",,120
+2018,,Total,6415
+2018,,Corn,
+2018,,Sorghum crops,
+2018,,Aromatic and medicinal plants,
+2018,,Cereal crops,
+2018,,Leguminous crops for grains,
+2018,,Viticulture,
+2018,,Pomology (Fruit growing),
+2018,,Berry crops,
+2018,,Vegetable growing (Vegetable crops),
+2018,,Potato,
+2019,,,
+2019,"Cattle, heads",,2781
+2019,"Pigs, heads",,5377
+2019,"Sheep, heads",,6427
+2019,"Goats, heads",,118
+2019,"Horses, heads",,56
+2019,"Rabbits, heads",,
+2019,"Birds, heads",,
+2019,"Fish, heads",,796
+2019,"Bees, families",,210
+2019,,Total,6012
+2019,,Corn,
+2019,,Sorghum crops,
+2019,,Aromatic and medicinal plants,
+2019,,Cereal crops,
+2019,,Leguminous crops for grains,
+2019,,Viticulture,
+2019,,Pomology (Fruit growing),
+2019,,Berry crops,
+2019,,Vegetable growing (Vegetable crops),
+2019,,Potato,
+2020,,,
+2020,"Cattle, heads",,4358
+2020,"Pigs, heads",,5055
+2020,"Sheep, heads",,4592
+2020,"Goats, heads",,84
+2020,"Horses, heads",,
+2020,"Rabbits, heads",,
+2020,"Birds, heads",,
+2020,"Fish, heads",,1473
+2020,"Bees, families",,405
+2020,,Total,6012
+2020,,Corn,
+2020,,Sorghum crops,
+2020,,Aromatic and medicinal plants,
+2020,,Cereal crops,
+2020,,Leguminous crops for grains,
+2020,,Viticulture,
+2020,,Pomology (Fruit growing),
+2020,,Berry crops,
+2020,,Vegetable growing (Vegetable crops),
+2020,,Potato,
+2021,,,
+2021,"Cattle, heads",,4997
+2021,"Pigs, heads",,4265
+2021,"Sheep, heads",,4111
+2021,"Goats, heads",,77
+2021,"Horses, heads",,49
+2021,"Rabbits, heads",,
+2021,"Birds, heads",,
+2021,"Fish, heads",,1279
+2021,"Bees, families",,665
+2021,,Total,6012
+2021,,Corn,
+2021,,Sorghum crops,
+2021,,Aromatic and medicinal plants,
+2021,,Cereal crops,
+2021,,Leguminous crops for grains,
+2021,,Viticulture,
+2021,,Pomology (Fruit growing),
+2021,,Berry crops,
+2021,,Vegetable growing (Vegetable crops),
+2021,,Potato,
+2022,,,
+2022,"Cattle, heads",,5108
+2022,"Pigs, heads",,3904
+2022,"Sheep, heads",,3194
+2022,"Goats, heads",,55
+2022,"Horses, heads",,49
+2022,"Rabbits, heads",,
+2022,"Birds, heads",,15564
+2022,"Fish, heads",,
+2022,"Bees, families",,1934
+2022,,Total,6012
+2022,,Corn,
+2022,,Sorghum crops,
+2022,,Aromatic and medicinal plants,
+2022,,Cereal crops,
+2022,,Leguminous crops for grains,
+2022,,Viticulture,
+2022,,Pomology (Fruit growing),
+2022,,Berry crops,
+2022,,Vegetable growing (Vegetable crops),
+2022,,Potato,
+2023,,,
+2023,"Cattle, heads",,
+2023,"Pigs, heads",,
+2023,"Sheep, heads",,
+2023,"Goats, heads",,
+2023,"Horses, heads",,
+2023,"Rabbits, heads",,
+2023,"Birds, heads",,
+2023,"Fish, heads",,
+2023,"Bees, families",,
+2023,,Total,
+2023,,Corn,1071
+2023,,Sorghum crops,73
+2023,,Aromatic and medicinal plants,9
+2023,,Cereal crops,9938
+2023,,Leguminous crops for grains,4052
+2023,,Viticulture,
+2023,,Pomology (Fruit growing),
+2023,,Berry crops,
+2023,,Vegetable growing (Vegetable crops),
+2023,,Potato,
+2024,,,
+2024,"Cattle, heads",,
+2024,"Pigs, heads",,
+2024,"Sheep, heads",,
+2024,"Goats, heads",,
+2024,"Horses, heads",,
+2024,"Rabbits, heads",,
+2024,"Birds, heads",,
+2024,"Fish, heads",,
+2024,"Bees, families",,
+2024,,Total,
+2024,,Corn,1073
+2024,,Sorghum crops,70
+2024,,Aromatic and medicinal plants,9
+2024,,Cereal crops,10800
+2024,,Leguminous crops for grains,3447
+2024,,Viticulture,1393
+2024,,Pomology (Fruit growing),2154
+2024,,Berry crops,49
+2024,,Vegetable growing (Vegetable crops),421
+2024,,Potato,15

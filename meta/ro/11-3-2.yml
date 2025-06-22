@@ -31,17 +31,26 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> Dezvoltarea așezărilor umane durabile necesită implicarea activă a tuturor părților interesate cheie cu o atenție deosebită acordată beneficiarilor proiectelor/programelor și grupurilor vulnerabile. Prin urmare local și național</p> 
+  <p>guvernele ar trebui să se străduiască să: </p> 
+  <p>a) faciliteze și să protejeze participarea oamenilor și angajamentul civic prin organizații independente ale societății civile care pot fi din medii diverse - locale, naționale și internaționale;</p> 
+  <p>b) promoveze programe de educație și formare civică și în domeniul drepturilor omului pentru ca  locuitorii din mediul urban să conștientizeze drepturile și rolurile  femeelor, bărbaților și tinerilor  în mediile urbane; </p> 
+  <p>c) înlăture barierele care blochează participarea grupurilor marginalizate social și să promoveze nediscriminarea și participarea deplină și egală a femeilor, tinerilor bărbați și femei și a grupurilor marginalizate.                                                          Participarea democratică: Entitățile permit și încurajează participarea societății civile reprezentând o secțiune transversală a societății care permite reprezentarea egală a tuturor membrilor comunității.</p> 
+  <p>Participare directă: Entitățile permit și încurajează societatea civilă să acceseze și să se implice activ în luarea deciziilor, fără intermediari, în fiecare etapă a procesului de planificare și management urban.</p> 
+  <p>Participare regulată: Entitățile permit și încurajează participarea societății civile în fiecare etapă a urbanului, în procesul de planificare și management cel puțin o dată la șase luni.</p> 
+  <p>Grupuri marginalizate: Grupuri de oameni cărora în mod tradițional nu li se acordă voce egală în procesele de guvernare. Acestea includ, dar nu se limitează la, femei, bărbați și femei tineri, comunități cu venituri mici, minorități etnice, minorități  religioase, persoane cu dizabilități, vârstnici, minorități sexuale și de identitate de      gen și migranți.                                                                                                                          Structuri: Orice entitate formală care permite participarea societății civile. Aceasta poate include, dar nu este limitată la: legislație națională sau locală, politică, ședințe de consiliu local, site-uri web, alegeri, căsuțe de sugestii, procese de contestație, perioadă de notificare pentru propunerile de planificare etc.   Societatea civilă: Combinația de organizații neguvernamentale, grupuri comunitare, bazate pe comunitate organizații, grupuri reprezentative regionale, sindicate, institute de cercetare, think tank-uri, organisme profesionale, grupuri sportive și culturale nonprofit și orice alte grupuri care reprezintă interesele și voința membrilor și a comunității mai largi. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Date cu privire la populație -BNS
+  <p> Evaluatorii examinează structurile la nivel de oraș și țară, inclusiv, de exemplu, legislația, regulile și reglementările, politicile și practicile. Datele sunt colectate din rapoartele și calculele evaluatorilor care sunt atașate la documentația urbană locală din diferite orașe.</p> 
+  <p>Date cu privire la populație - Biroul Național de Statistică </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Programul ONU pentru Așezări Umane (UN HABITAT)
+  Ministerul Infrastructurii şi Dezvoltării Regionale
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Infrastructurii și Dezvoltării Regionale
@@ -83,4 +92,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  Aliona Cucerca, consultant principal, Direcția politici șI reglementări în domeniul amenajării teritoriului, urbanismului, construcțiilor șI locuințelor, tel. 022/250-659, e-mail: aliona.cucerca@midr.gov.md
 source_other_info_1: >-

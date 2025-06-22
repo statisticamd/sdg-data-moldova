@@ -41,8 +41,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Ministerul Afacerilor Externe </p> 
-  <p>2) UNGA, UNSC,  ECOSOC, Fondul Monetar Internațional, IBRD, IFC, AfDB, ADB, IADB, Organizația  Mondială a Comerțului (WTO), FSB </p>
+  Ministerul Afacerilor Externe
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Afacerilor Externe
@@ -70,7 +69,8 @@ source_organisation_1: >-
 source_periodicity_1: >-
   anual
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
-  Link la sursa de date: https://unstats.un.org/sdgs/dataportal/database
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-
