@@ -33,14 +33,14 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Cadrul național privind libera asociere și protecția dreptului la organizare  și negocieri colective în format tripartit.
 UNIT_MEASURE: >-
-  număr
+  Număr
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Datele de referință ale țărilor, în conformitate cu revizuirea anuală a  Declarației ILO;</p> 
-  <p>2) Rapoartele Comitetelor de Experți privind Aplicarea  Convențiilor și Recomandărilor</p> 
-  <p>3) Reprezentări în conformitate cu  articolul 24 din Constituția ILO;</p> 
-  <p>4) Datele privind Reclamațiile în  conformitate cu articolul 26 din Constituția ILO și raportul Comisiei pentru  libertatea de asociere. </p>
+  <p> 1. Datele de referință ale țărilor, în conformitate cu revizuirea anuală a  Declarației ILO;</p> 
+  <p>2. Rapoartele Comitetelor de Experți privind Aplicarea  Convențiilor și Recomandărilor</p> 
+  <p>3. Reprezentări în conformitate cu  articolul 24 din Constituția ILO;</p> 
+  <p>4. Datele privind Reclamațiile în  conformitate cu articolul 26 din Constituția ILO și raportul Comisiei pentru  libertatea de asociere. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -62,7 +62,7 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
   <p> Indicatorul Global  reprezintă un scor atribuit țării privind  respectarea/implementarea prevederilor Convențiilor ILO nr. 87 și nr. 98  privind libertatea de asociere și protecția dreptului de organizare și privind  dreptul la organizare și negocierea colectivă în baza a 6 surse textuale ale  organelor de supraveghere ILO: 1) Rapoartele Comitetelor de Experți asupra  aplicării Convențiilor și Recomandărilor; 2) Rapoartele Comitetului  Conferinței asupra a Aplicării Standardelor; 3) Liniile de referință ale țării  în baza revizuirii anuale  a Declarației ILO; 4) Reprezentarea în conformitate  cu art. 24 a constituției ILO; 5) Reclamațiile în conformitate cu art. 26 a  Constituției ILO și 6) Rapoartele Comitetului pentru Libertatea Asocierii.  </p> 
-  <p>  Pe când indicatorul național este exprimat doar ca număr al convențiilor  colective la nivel instituțional încheiate. </p>
+  <p>Indicatorul național reprezintă numărul convențiilor colective la nivel instituțional încheiate. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -70,14 +70,15 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Ministerul Muncii și Protecției Sociale </p> 
-  <p>2) Confederația  Națională a Sindicatelor </p> 
-  <p>3) Confederația Națională a Patronatelor </p>
+  <p> 1. Ministerul Muncii și Protecției Sociale </p> 
+  <p>2. Confederația  Națională a Sindicatelor </p> 
+  <p>3. Confederația Națională a Patronatelor </p>
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Țurcanu Snejana, e-mail: snejana.turcanu@social.gov.md, tel. 022804422
+  <p> Țurcanu Snejana, Șefă Direcție, Direcția Raporturi de Muncă și Dialog Social,</p> 
+  <p>e-mail: snejana.turcanu@social.gov.md, tel. 022804422 </p>
 source_other_info_1: >-

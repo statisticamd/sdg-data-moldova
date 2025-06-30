@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percent, %
 copyright: ''
 data_footnote: ''
-data_non_statistical: true
+data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -33,19 +33,7 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
-page_content: >-
-  <p> ***Non-statistical indicator***</p> 
-  <p>GD no. 933/2009 regarding the approval of the National Program for ensuring gender equality for the years 2010-2015</p> 
-  <p>Law no. 71/2016 for the amendment and completion of some legislative acts (paternal leave, sexist advertising, non-sexist language)</p> 
-  <p>GD no. 259/2017 regarding the approval of the Strategy for ensuring equality between women and men in the Republic of Moldova for the years 2017-2021 and the Action Plan regarding its implementation</p> 
-  <p>GD no. 281/2018 regarding the approval of the National Strategy to prevent and combat violence against women and family violence for the years 2018-2023 and the Action Plans regarding its implementation</p> 
-  <p>Law no. 144/2021 on the ratification of the Council of Europe Convention on preventing and combating violence against women and domestic violence</p> 
-  <p>Law no. 367/2022 regarding alternative childcare services</p> 
-  <p>Law 107/2022 for the amendment of some normative acts (equal pay for work of equal value)</p> 
-  <p>Law no. 195/2022 for the amendment of some normative acts (paternal leave, flexible work schedules)</p> 
-  <p>Law nr. 74/2023 for the amendment of some normative acts</p> 
-  <p>GD no. 203/2023 regarding the approval of the Program for Promoting and Ensuring Equality between women and men in the Republic of Moldova for the years 2023-2027</p> 
-  <p>Law no. 180/2024 amending some normative acts (equal access to goods and services for women and men) </p>
+page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
@@ -58,5 +46,4 @@ sources: []
 standalone: false
 tags:
   - Global
-  - Non-statistical indicator
 x_axis_label: ''

@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 5.2.2 Prevalence of sexual violence against women and girls aged 15-65 years  old by persons other than an intimate partner / husband, over the last 12  months, by age
+graph_title: national_indicators.5-2-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: Prevalence of sexual violence against women and girls aged 15-65 years  old by persons other than an intimate partner / husband, over the last 12  months, by age
+indicator_available: national_indicators.5-2-2-title
 indicator_name: global_indicators.5-2-2-title
 indicator_number: 5.2.2
 indicator_tabs:: 
@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republic of Moldova
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
 placeholder: ''

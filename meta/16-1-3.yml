@@ -31,18 +31,27 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Family violence – any  deliberate  action  or  inaction,  except  actions   taken  in  self-defence  or  in defence  of  other  persons,  whether    physical  or  verbal,  that  is  manifested  through  physical,  sexual,   psychological, spiritual or economic abuse or by causing material or moral   damage, committed by a  family  member  against  other  family  members,    including  against  minors,  or  against  common  or personal property.</p> 
-  <p>  Physical violence - deliberate infliction of bodily injuries or damage to   health by hitting, pushing, tossing, pulling  by  the  hair,  stinging,    cutting,  burning,  strangling,  biting,  in  any  form  and  of  any   intensity; by poisoning, intoxicating, or other similar actions;</p> 
-  <p> Sexual   violence  - any violence of a sexual character or any illegal sexual conduct   within the family or   within   other   interpersonal   relationships,     such   as   marital   rape;   prohibiting   the   use   of contraception;   sexual harassment; any unwanted, imposed sexual conduct; forced prostitution;   any illegal  sexual  conduct  with  a  minor  family  member, including    fondling,  kissing,  setting  the  child into poses or other unwanted  touching  with sexual connotations; or other similar actions. (art. 2 of the  Law No. 45  dated 01.03.2007 on Preventing and Combating Family Violence)</p> 
-  <p>  Family violence – any  deliberate  action  or  inaction,  except  actions  taken  in  self-defence  or  in defence  of  other  persons,  whether  physical  or  verbal,  that  is  manifested  through  physical,  sexual,  psychological, spiritual or economic abuse or by causing material or moral  damage, committed by a  family  member  against  other  family  members,  including  against  minors,  or  against  common  or personal property.</p> 
-  <p>  Physical violence - deliberate infliction of bodily injuries or damage to  health by hitting, pushing, tossing, pulling  by  the  hair,  stinging,  cutting,  burning,  strangling,  biting,  in  any  form  and  of  any  intensity; by poisoning, intoxicating, or other similar actions;</p> 
-  <p>  Sexual  violence  - any violence of a sexual character or any illegal sexual conduct  within the family or   within   other   interpersonal   relationships, such    as   marital   rape;   prohibiting   the   use   of contraception; sexual  harassment; any unwanted, imposed sexual conduct; forced prostitution; any  illegal  sexual  conduct  with  a  minor  family  member, including fondling,   kissing,  setting  the  child into poses or other unwanted touching with  sexual connotations; or other similar actions. (art. 2 of the Law No. 45 dated  01.03.2007 on Preventing and Combating Family Violence) </p>
+  <p> Physical violence committed by husband/partner implied the occurrence of at least one of the following situations:</p> 
+  <p>- slapping or throwing things to hit the woman; </p> 
+  <p>- pushing, shoving or pulling the woman by hair; </p> 
+  <p>- hitting with fists or with anything else that could hurt the woman; </p> 
+  <p>- kicking, dragging or beating the woman; </p> 
+  <p>- choking or burning on purpose; </p> 
+  <p>- threatening or actually using a weapon or other dangerous objects/weapons (knife, ax, lawn mower, etc.).</p> 
+  <p>Physical violence committed by other persons than husband/partner: </p> 
+  <p>- the woman was at least once pushed, pulled by her hair, slapped, kicked, beaten or had to suffer because of the physical violence acts from other persons than husband/partner.</p> 
+  <p>Sexual violence committed by husband/partner implied  the occurrence of at least one of the following situations:</p> 
+  <p>- forcing the woman to have sex without  her consent; </p> 
+  <p>- forcing the woman to have sex with degrading or humiliating practices; </p> 
+  <p>- forcing the woman to have sex by using fear.</p> 
+  <p>Sexual violence committee by other persons than husband/partner: </p> 
+  <p>- the woman was at least once in the situation to be forced to have unwanted sexual intercourse under threat or by creating situations where she could not refuse. The forced attempts not resulting in a sexual intercourse were not taken into consideration. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Survey "Violence against Women in Family"
+  Survey "Violence against Women in the Family"
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,13 +59,12 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
+  Ministry of Internal Affairs
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of women (aged between 15 and 65 years old) who have reported at least   one case of physical or sexual case (from their partner/husband or other   persons) over the last 12 months before the reported period out of the total   number of women (aged between 15 and 65 years old), multiplied by 100.</p> 
-  <p>  Number of women (aged between 15 and 65 years old) who have reported at least  one case of physical or sexual case (from their partner/husband or other  persons) over the last 12 months before the reported period out of the total  number of women (aged between 15 and 65 years old), multiplied by 100. </p>
+  Number of women (aged between 15 and 65 years old) who have reported at least   one case of physical or sexual case (from their partner/husband or other   persons) over the last 12 months before the reported period out of the total  number of interviewed women (aged between 15 and 65 years old), multiplied by 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -64,7 +72,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The global indicator refers to the entire population, while the national iIndicator refers only to women.
+  The global indicator also includes pshycological violence and refers to the entire population, while the national iIndicator refers only to physical and sexual violence and covers only women.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -79,4 +87,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  <p> Nadejda Cojocari, Head of Division, Social services statistics Division,</p> 
+  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. 067770652 </p>
 source_other_info_1: >-

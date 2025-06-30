@@ -4,7 +4,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 17.17: Încurajarea și promovarea parteneriatelor publice, publice-private și cu  societatea civilă eficiente, în baza experienței și strategiilor de resurse  ale parteneriatelor</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  World Bank
+  Banca Mondială
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -13,6 +13,7 @@ target_id: >-
   17.17
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-17-01.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
@@ -30,8 +31,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Strategia de dezvoltare a societății civile pentru perioada 2018–2020 (HG.  51/2018)  reflectă angajamentul Republicii Moldova de a consolida în mod  sistematic condițiile pentru dezvoltarea dinamică a societății civile. Fiind  edificată pe principiile încrederii reciproce, parteneriatului, transparenței,  participării, nonpartizanatului politic, Strategia continuă eforturile  demarate în cadrul realizării strategiilor precedente de dezvoltare a  societății civile și se axează pe aceleași priorități. Monitorizarea și  evaluarea implementării Strategiei se realizează prin intermediul  instrumentelor prevăzute de către aceasta în secțiunea a 5-a „Monitorizarea și  evaluarea Strategiei”. Guvernul, în cooperare cu organizațiile societății  civile, prezentă anual Parlamentului, până la data de 31 martie, un raport  privind implementarea strategiei și realizarea planului de acțiuni, indicate .</p> 
-  <p>Având în vedere că Strategia de dezvoltare a societății civile pentru perioada 2018–2020 a expirat în anul 2020, pentru următorii ani pentru monitorizarea situației în domeniu se va considera următorul document de politici în domeniu: Programul de dezvoltare a organizațiilor societății civile pentru perioada 2024-2027(HG nr. 845/2023). Datele pentru acest indicator vor fi disponibileîn anul 2025. </p>
+  <p> Programul de dezvoltare a organizațiilor societății civile pentru</p> 
+  <p>perioada 2024-2027, aprobat prin Hotărârea Guvernului nr. 845/2023, reprezintă o continuitate a Strategiei de dezvoltare a societății civile pentru perioada 2018-2020, având drept scop susținerea și promovarea dezvoltării organizațiilor societății civile prin consolidarea mecanismelor de colaborare cu statul. Programul este axat pe 3 obiective generale, care vor contribui la transparentizarea procesului de luare a deciziilor, fortificarea capacităților funcționarilor publici și a reprezentanților organizațiilor societății civile, sporirea implicării organizațiilor societății civile în procesul decizional, creșterea stabilității finaciare a OSC ș.a. </p> 
+  <p>Monitorizarea implementării programului este asigurată de Cancelaria de Stat, în modul descris în capitolul IX al documentului Procedurile de raportare. Rapoartele de monitorizare sunt elaborate semestrial. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -43,7 +45,7 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1) Cancelaria de stat</p> 
-  <p>  2) Ministerele și autoritățile publice centrale </p>
+  <p>2) Ministerele și autoritățile publice centrale </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Cancelaria de Stat
@@ -51,7 +53,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul acțiunilor realizate din cadrul Planului de acțiuni pentru  implementarea Strategiei de dezvoltare a societății civile pentru perioada  2018–2020 raportate la numărul total al acțiunilor planificate *100
+  <p> Numărul acțiunilor realizate din cadrul Planului de acțiuni pentru implementarea Programului de dezvoltare a organizațiilor societății civile pentru</p> 
+  <p>perioada 2024-2027 raportate la numărul total al acțiunilor planificate pentru perioada de raportare *100 </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,23 +62,22 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  În lipsa metodologiilor global, indicatorul național reprezintă unul  complementar menit să răspundă țintei globale stabilite
+  Indicatorul național reprezintă unul  complementar menit să răspundă țintei globale stabilite
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Cancelaria de stat
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  <p> Angela Zagaiciuc, Cancelaria de Stat</p> 
-  <p>tel. 022-250-634 </p>
+  <p> Daniela Știrbu, Cancelaria de Stat</p> 
+  <p>tel. 022-250-136 </p>
 source_other_info_1: >-
-  Link la sursa de date https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf https://cancelaria.gov.md/sites/default/files/document/attachments/raport_integral_sdsc_2018-2020.pdf             https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf
+  Link la sursa de date: https://cancelaria.gov.md/sites/default/files/document/attachments/raport2018pasocietateacivila_final_1.pdf https://cancelaria.gov.md/sites/default/files/document/attachments/raport_integral_sdsc_2018-2020.pdf             https://cancelaria.gov.md/sites/default/files/document/attachments/raport_strategie_dsc_2018-2020_iii_anexe.pdf

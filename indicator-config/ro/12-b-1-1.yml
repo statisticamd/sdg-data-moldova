@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
-computation_units: ''
+computation_units: număr
 copyright: ''
 data_footnote: ''
-data_non_statistical: true
+data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -33,14 +33,7 @@ indicator_tabs::
   tab_3: ''
   tab_4: ''
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
-page_content: >-
-  <p> ***Indicator non-statistic***</p> 
-  <p>Pentru anul 2022:</p> 
-  <p>1.Strategia Națională de Dezvoltare Regională (SNDR) pentru anii 2022-2028, HG nr.40 din 26.01.2022;</p> 
-  <p>2. Planul de acţiuni al Guvernului pentru anii 2021-2022;</p> 
-  <p>3. Strategia națională de dezvoltare „Moldova Europeană 2030”;</p> 
-  <p>4. Programul de retehnologizare și eficiență energetică a întreprinderilor mici și mijlocii;</p> 
-  <p>5. Programul Satul European. </p>
+page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
@@ -53,5 +46,4 @@ sources: []
 standalone: false
 tags:
   - Național proxy
-  - Indicator non-statistic
 x_axis_label: ''

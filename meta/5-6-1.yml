@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 5.6.1: Proportion of women aged 15-49 years who make their own informed decisions  regarding sexual relations, contraceptive use and reproductive health care</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 5.6: Ensure universal access to sexual and reproductive health and reproductive  rights as agreed in accordance with the Programme of Action of the  International Conference on Population and Development and the Beijing  Platform for Action and the outcome documents of their review conferences</p>
+  <p>Target 5.6: Ensure universal access to sexual and reproductive health and reproductive  rights as agreed in accordance with the Programme of Action of the  International Conference on Population and Development and the Beijing  Platform for Action and the outcome documents of their review conferences.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNFPA
@@ -31,34 +31,33 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indicator reflects the observance of the right of women of reproductive age to  decision-making autonomy on their sexual life, reproductive and sexual health.
+  Proportion of women aged 15-49 years (married or in union) who make their own decision on all three selected areas: decide on their own health care; decide on use of contraception; and can say no to sexual intercourse with their husband or partner if they do not want. Only women who provide a “yes” answer to all three components are considered as women who make their own decisions regarding sexual and reproductive health. A union involves a man and a woman regularly cohabiting in a marriagelike relationship.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Demography and Health Study  (DHS) or</p> 
-  <p>  Multiple Indicator Cluster Survey  (MICS) </p>
+  Generations and Gender Survey  (GGS)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Agency for Public Health
+  Minsitry of Labour and Social Protection
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
+  Ministry of Health
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of women aged 15-49 years old, married or in a union, who take  independent decisions regarding sexual relations, contraceptive use and  reproductive health care out of the total number of women aged 15-49 years  old, married or in a union X 100</p> 
-  <p>  Where:</p> 
-  <p>  Numerator: Number of women  aged 15-49 years old, married or in a union, who meet the following criteria:  </p> 
+  <p> Number of women aged 15-49 years old, married or in a union, who take  independent decisions regarding sexual relations, contraceptive use and  reproductive health care out of the total number of women aged 15-49 years  old, married or in a union * 100,</p> 
+  <p>Where:</p> 
+  <p>Numerator: Number of women  aged 15-49 years old, married or in a union, who meet the following criteria:  </p> 
   <p>  - may say „no” to sex;</p> 
   <p>  - for whom the decision about contraception  is not taken mainly by the husband/partner;</p> 
-  <p>  - for whom the decision about  her own health is not taken usually by her husband/partner or somebody else  </p> 
-  <p>  Denominator: Total number of women aged 15-49 years old, married or in a  union </p> 
-  <p>  Proportion: (Numerator /Denominator) X100 </p>
+  <p>  - for whom the decision about  her own health is not taken usually by her husband/partner or somebody else ;</p> 
+  <p>Denominator: Total number of women aged 15-49 years old, married or in a  union </p> 
+  <p>Proportion: (Numerator /Denominator) *100 </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -73,13 +72,14 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.National Agency for Public Health</p> 
-  <p>  2.United Nations Population Fund  (UNFPA)</p> 
-  <p>  3.United Nations Children's Fund (UNICEF) </p>
+  Minsitry of Labour and Social Protection
 source_periodicity_1: >-
   Once every few years
 source_url_1: >-
+  https://social.gov.md/wp-content/uploads/2024/08/raport-GGS_English.pdf
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  <p> Aliona Crețu, Head of unit, Demographic policies Service,</p> 
+  <p>e-mail: aliona.cretu@social.gov.md, tel. 022 804 431 </p>
 source_other_info_1: >-

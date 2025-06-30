@@ -31,19 +31,19 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  By Government Decision no. 314/2012 was approved the Framework Regulation on the organization and functioning of the social service “Personal Assistance” and the Minimum Quality Standards. The purpose of the Service is to provide assistance and care to children and adults with severe disabilities, with a view to favoring their independence and integration into society. The expenses related to the organization and operation of the social service “Personal Assistance” are borne by the service providers and are incurred within the limit of the allocations provided annually in the respective budgets, as well as funds from donations, grants and other sources, according to the legislation. According to the provisions of Law no. 256/2023 on the amendment of some normative acts and Government Decision no. 957/2023 on the establishment, organization and functioning of territorial social assistance agencies, the competences for the development and management of the social assistance system at the second-level local public authorities (LPA II), as of 01.01.2024, are implemented by the Ministry of Labour and Social Protection, through the Territorial Social Assistance Agencies.
+  “Personal Assistance” Service is a specialized social service established by the decision of the local public authorities of the second level and the municipality of Bălți, with the purpose of providing assistance and care to children and adults with severe disabilities, in order to promote their independence and integration into society (in the areas of social protection, employment, medical assistance, education, information, access to infrastructure, etc.). By Government Decision no. 314/2012 was approved the Framework Regulation on the organization and functioning of the social service “Personal Assistance” and the Minimum Quality Standards. The expenses related to the organization and operation of the social service “Personal Assistance” are covered by the service providers and are incurred within the limit of the allocations provided annually in the respective budgets, as well as funds from donations, grants and other sources, according to the legislation. According to the provisions of Law no. 256/2023 on the amendment of some normative acts and Government Decision no. 957/2023 on the establishment, organization and functioning of territorial social assistance agencies, the competences for the development and management of the social assistance system at the second-level local public authorities (LPA II), as of 01.01.2024, are implemented by the Ministry of Labour and Social Protection, through the Territorial Social Assistance Agencies.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  social service “Personal Assistance” and the Minimum Quality Standards
+  Personal Assistants Registry
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Territorial Social Assistance Agencies / Territorial Structures of  Social Assistance </p> 
-  <p>2) Agency for the management of highly specialized social services </p>
+  <p> 1. Territorial Social Assistance Agencies / Territorial Structures of  Social Assistance, TAU Gagauzia</p> 
+  <p>2. Agency for the Management of Highly Sppecialized Social Services </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Labour and Social Protection
@@ -51,7 +51,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of female personal assistants who take care of persons with severe  disabilities out of the total number of personal assistants taking care of  persons with severe disabilities*100
+  Number of female personal assistants caring for persons with severe  disabilities out of the total number of personal assistants caring for persons with severe disabilities*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,6 +59,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  National indicator, not comparable with the global indicator.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -66,12 +67,13 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Territorial Social Assistance Agencies / Territorial Structures of  Social Assistance </p> 
-  <p>2) Agency for the management of highly specialized social services </p>
+  Ministry of Labour and Social Protection
 source_periodicity_1: >-
   annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Mariana Tocan, Deputy Head, Protection of the rights of persons with disabilities policies Department, </p> 
+  <p>e-mail: mariana.tocan@social.gov.md, tel. 022 804 439 </p>
 source_other_info_1: >-

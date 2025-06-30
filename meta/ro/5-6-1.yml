@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 5.6.1: Ponderea femeilor în vârsta de 15-49 de ani care iau decizii independente cu  privire la relații sexuale, utilizarea contracepției și sănătatea sexuală și  reproductivă</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 5.6: Asigurarea accesului universal la sănătatea sexuală și reproductivă și a  drepturilor reproductive, în conformitate cu prevederile Programului de  acțiuni al Conferinței Internaționale pentru Populație și Dezvoltare și ale  Platformei de acțiune de la Beijing și a documentelor finale ale conferințelor  de revizuire ale acestora</p>
+  <p>Target 5.6: Asigurarea accesului universal la sănătatea sexuală și reproductivă și a  drepturilor reproductive, în conformitate cu prevederile Programului de  acțiuni al Conferinței Internaționale pentru Populație și Dezvoltare și ale  Platformei de acțiune de la Beijing și a documentelor finale ale conferințelor  de revizuire ale acestora.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNFPA
@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (pdf 634kB)
 SDG_INDICATOR: >-
-  <p>Indicator 5.6.1: Ponderea femeilor în vârsta de 15-49 de ani care iau decizii independente cu  privire la relații sexuale, utilizarea contracepției și sănătatea sexuala și  reproductiva</p>
+  <p>Indicator 5.6.1: Ponderea femeilor în vârstă de 15-49 de ani care iau decizii independente cu  privire la relații sexuale, utilizarea contracepției și sănătatea sexuală și  reproductivă</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,34 +31,33 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indicatorul reflectă respectarea dreptului femeilor în vârstă  reproductivă la autonomia decizională privind viața sexuală, reproducere și  sănătatea sexuală.
+  Proporția femeilor cu vârsta între 15 - 49 de ani (căsătorite sau aflate într-o uniune) care iau propriile decizii în toate cele trei domenii selectate: decid singure cu privire la îngrijirea propriei sănătăți; decid asupra utilizării contracepției; și pot refuza raporturi sexuale cu soțul sau partenerul dacă nu doresc acest lucru. Sunt considerate ca luând propriile decizii privind sănătatea sexuală și reproductivă doar femeile care răspund „da” la toate cele trei componente. O uniune presupune un bărbat și o femeie care coabitează în mod regulat într-o relație similară căsătoriei.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Studiul Demografic și de Sănătate (DHS) ori</p> 
-  <p>  Studiul de Indicatori  Multipli în Cuiburi (MICS) </p>
+  Studiul Generații și Gen (GGS)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția Națională pentru Sănătate Publică
+  Ministerul Muncii și Protecției Sociale
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Muncii și Protecției Sociale
+  Ministerul Sănătății
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Numărul femeilor în vârstă de 15-49 ani căsătorite sau într-o uniune care iau  decizii independente cu privire la relațiile sexuale, utilizarea  contracepției, sănătatea sexuală și reproductiva raportat la numărul total al  femeilor în vârstă de 15-49 ani căsătorite sau într-o uniune X 100</p> 
-  <p>   Unde:</p> 
-  <p>  Numărătorul: Numărul femeilor în vârstă de 15-49 ani căsătorite sau  într-o uniune care îndeplinesc următoarele criterii: </p> 
+  <p> Numărul femeilor în vârstă de 15-49 ani căsătorite sau într-o uniune care iau  decizii independente cu privire la relațiile sexuale, utilizarea  contracepției, sănătatea sexuală și reproductivă raportat la numărul total al  femeilor în vârstă de 15-49 ani căsătorite sau într-o uniune * 100,</p> 
+  <p>Unde:</p> 
+  <p>Numărătorul: Numărul femeilor în vârstă de 15-49 ani căsătorite sau  într-o uniune care îndeplinesc următoarele criterii: </p> 
   <p>  - pot spune „nu”  sexului;</p> 
-  <p>  - pentru cine decizia privind contracepția nu este luată în  principal de soț/partener;</p> 
-  <p>  - pentru cine decizia privind îngrijirea  propriei sănătăți nu este luată de obicei de către soț/partener sau  altcineva</p> 
-  <p>  Numitorul: Numărul total al femeilor în vârstă de 15-49 ani  căsătorite sau într-o uniune</p> 
-  <p>  Proporția: (Numărătorul /Numitor) X100 </p>
+  <p>  - decizia privind utilizarea contracepției nu este luată în principal de soț/partener;</p> 
+  <p>  - decizia privind propria sănătate nu este luată, de obicei, de soț/partener sau de o altă persoană; </p> 
+  <p>Numitorul: Numărul total al femeilor în vârstă de 15-49 ani  căsătorite sau într-o uniune.</p> 
+  <p>Proporția: (Numărătorul /Numitor) * 100. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -73,13 +72,14 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
-  <p>  2) UNFPA</p> 
-  <p>  3) UNICEF </p>
+  Ministerul Muncii și Protecției Sociale
 source_periodicity_1: >-
   O dată la câțiva ani
 source_url_1: >-
+  https://social.gov.md/wp-content/uploads/2022/05/raportul_studiului_generatii_si_gen_Republica-Moldova.pdf
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  <p> Aliona Crețu, Șefă serviciu, Serviciul Politici Demografice,</p> 
+  <p>e-mail: aliona.cretu@social.gov.md, tel. 022 804 430 </p>
 source_other_info_1: >-

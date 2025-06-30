@@ -31,27 +31,28 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Violence against children – forms of ill-treatment applied by parents / legal  representatives / caregiver of the child or any other persons, that produce  real or potential  damage to the child's health and endanger child's life,  development, dignity or morality, including the following types of violence:  physical, sexual, psychological, spiritual, economic, negligence and  exploitation (through work and traffic) (p.5 of Annex 1 of the Government  Decision No. 270 of 08.04.2014 approving the Instructions for the  intersectoral cooperation mechanism to identify, assess, refer, assist and  monitor children who are victims or potential victims of violence, negligence,  exploitation and traffic).</p> 
-  <p> Neglect of the child - the willful or  involuntary omission or ignorance of responsibilities regarding the upbringing  and education of the child, which endangers his physical, mental, spiritual,  moral or social development, his bodily integrity, his physical or mental  health. Neglect can take many forms of: food, clothing, neglect of hygiene,  medical, educational, emotional, neglect in supervision. </p>
+  <p> Violence against children – forms of ill-treatment applied by parents / legal  representatives / caregiver of the child or any other persons, that produce  real or potential  damage to the child's health and endanger child's life,  development, dignity or morality, including the following types of violence:  physical, sexual, psychological, spiritual, economic (p.5 of Annex 1 of the Government  Decision No. 270 of 08.04.2014).</p> 
+  <p>Neglect of the child - the willful or  involuntary omission or ignorance of responsibilities regarding the upbringing  and education of the child, which endangers his physical, mental, spiritual,  moral or social development, his bodily integrity, his physical or mental  health. Neglect can take many forms of: food, clothing, neglect of hygiene,  medical, educational, emotional, neglect in supervision. </p>
 UNIT_MEASURE: >-
   Number
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistical survey No. 103 „Children at risk and children separated from  parents”
+  The Register of children at risk maintained by the local guardianship authority, Statistical report  No. 103 „Children at risk and children separated from  parents”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministry Labour and Social Protection
+  District and municipal social assistance and family protection departments/directorates, and the Child Rights Protection Directorates in the municipality of Chişinău.
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry Labour and Social Protection
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. Ministry Labour and Social Protection </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number if children aged 0-17 years old victims of violence, negligence,  taken on the records of the guardianship authority in the year of reference.
+  Total number of children aged 0–17 who were victims of violence or neglect and were registered by the guardianship authority in the reference year.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,7 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Unlike the global indicator, the data for which are collected within MICS once  per several years, the data for the national indicator are collected and  presented annually by NBS. The aim of the indicator is to monitor continuously  at the national level the evolution of the phenomenon of child abuse for  children aged 0-17 years old.
+  National indicator, not comparable with the global indicator.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -74,4 +75,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Ursachi Cristina, Main adviser, Child rights and family protection policies Department, </p> 
+  <p>e-mail: cristina.ursachi@social.gov.md, tel. 022 804 457 </p>
 source_other_info_1: >-

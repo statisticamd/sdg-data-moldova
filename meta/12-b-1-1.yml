@@ -1,9 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 12.b.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 12.b: NA</p>
+  <p>Target 12.b: Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  World Tourism Organization (UNWTO)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -31,6 +32,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
+  number
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -38,9 +40,16 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Ministry of Culture
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministry of Culture
 OTHER_METHOD: >-
+  <p> 1. National Regional Development Strategy (NRDS) for the years 2022-2028, HG no. 40 of 26.01.2022;</p> 
+  <p>2. The Government's action plan for the years 2021-2022;</p> 
+  <p>3. The national development strategy "European Moldova 2030";</p> 
+  <p>4. The re-technological and energy efficiency program of small and medium-sized enterprises;</p> 
+  <p>5. The European Village Program. </p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -51,6 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  National indicator
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -58,9 +68,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
+  Ministry of Culture
 source_periodicity_1: >-
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  Ana MURA, main consultant, Directorate for Tourism, e-mail: ana.mura@mc.gov.md; tel.: 022 823 809
 source_other_info_1: >-

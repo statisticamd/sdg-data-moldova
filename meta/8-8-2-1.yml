@@ -37,10 +37,10 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Reference data of the countries, in line with the annual revision of the  ILO Declaration;</p> 
-  <p>2) Reports of the Experts' Committees for Applying  Conventions and Recommendations </p> 
-  <p>3) Representations in line with article  24 from ILO Constitution;</p> 
-  <p>4) Data on Reclamations in line with article 26  of the ILO Constitution and report of the Commission for Freedom of  Association. </p>
+  <p> 1. Reference data of the countries, in line with the annual revision of the  ILO Declaration;</p> 
+  <p>2. Reports of the Experts' Committees for Applying  Conventions and Recommendations </p> 
+  <p>3. Representations in line with article  24 from ILO Constitution;</p> 
+  <p>4. Data on Reclamations in line with article 26  of the ILO Constitution and report of the Commission for Freedom of  Association. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -62,7 +62,7 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
   <p> The Global Indicator represents a score attributed to the country regarding  the observance/implementation of provisions of ILO Convention no. 87 and no.  98  on freedom of association and protection of the right for organization and  collective bargaining based on 6 text sources of ILO supervision bodies: 1)  Report of Experts' Committees on enforcement of Conventions and  Recommendations; 2) Reports of the Conference Committee on Enforcement of  Standards; 3) The reference lines of the country based on the annual revision  of the ILO Declaration; 4) Representation in line with art. 24 of ILO  Constitution; 5) Reclamations in line with art. 26 of ILO Constitution and 6)  Reports of the Committee for Free Association. </p> 
-  <p>  While the national  indicator is expressed only as number of collective agreements concluded at  the institutional level. </p>
+  <p>The national  indicator represent the number of collective agreements concluded at  the institutional level. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -79,5 +79,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  Țurcanu Snejana, e-mail: snejana.turcanu@social.gov.md, tel. 022804422
+  <p> Țurcanu Snejana, Head of Department, Employment relations and social dialogue policies Department,</p> 
+  <p>e-mail: snejana.turcanu@social.gov.md, tel. 022804422 </p>
 source_other_info_1: >-

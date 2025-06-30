@@ -31,6 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> For the purpose of this methodology ‘policy coherence of sustainable development’ has been interpreted as the coherence between policies in general that cover the dimensions of sustainable development. This indicator is a composite indicator which covers mechanisms related to:</p> 
+  <p>1. Institutionalization of Political Commitment</p> 
+  <p>2. Long-term considerations in decision-making</p> 
+  <p>3. Inter-ministerial and cross-sectoral coordination</p> 
+  <p>4. Participatory processes</p> 
+  <p>5. Policy linkages</p> 
+  <p>6. Alignment across government levels</p> 
+  <p>7. Monitoring and reporting for policy coherence</p> 
+  <p>8. Financing for policy coherence </p>
 UNIT_MEASURE: >-
   Policy documents
 CLASS_SYSTEM: ''
@@ -48,10 +57,17 @@ INST_MANDATE: >-
   <p> 1.State Chancellery</p> 
   <p>  2.National Bureau of Statistics </p>
 OTHER_METHOD: >-
+  <p> The national mechanisms that ensure the coordination and monitoring the  process of enhancing the coherence of sustainable development policies are the  following: </p> 
+  <p>- The Interministerial Committee for Strategic Planning (GD. 1070/2023);</p> 
+  <p>- National Coordination Council for Sustainable Development (GD.  912/2016);</p> 
+  <p>- Coordinating Councils for SDG in sector policies;  </p> 
+  <p>- the National framework for monitoring the implementation of the 2030 Sustainable Development Agenda approved (HG 953/2022).</p> 
+  <p>- Government Decision No. 386/2020 on Strategic Planning </p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Existence of national mechanisms ensuring coordination, monitoring and  evaluation of enhanced coherence of national policies for sustainable  development in line with the Sustainable Development Goals.
+  <p> This indicator includes 8 domains. Each domain is scored on a scale from 0 to 10, where 0 means none of the requested mechanisms are implemented, 10 means all the requested mechanisms are in place.</p> 
+  <p>The percentage of points out of the total 80 points is then computed for each country. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,7 +75,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  With missing global methodologies, the national indicator is a complementary  one, meant to meet the established global target
+  The national indicator is a complementary  one, meant to meet the established global target
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

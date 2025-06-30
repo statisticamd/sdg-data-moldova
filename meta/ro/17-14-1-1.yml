@@ -31,6 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> În sensul acestei metodologii, „coerența politicilor dezvoltării durabile” a fost interpretată ca fiind coerența dintre politicile în general care acoperă dimensiunile dezvoltării durabile. Acest indicator este un indicator compozit care acoperă mecanisme legate de:</p> 
+  <p>1. Instituționalizarea angajamentului politic</p> 
+  <p>2. Considerații pe termen lung în procesul decizional</p> 
+  <p>3. Coordonare interministerială și intersectorială</p> 
+  <p>4. Procese participative</p> 
+  <p>5. Legături de politici</p> 
+  <p>6. Aliniere între nivelurile guvernamentale</p> 
+  <p>7. Monitorizarea și raportarea pentru coerența politicilor</p> 
+  <p>8. Finanțarea pentru coerența politicilor </p>
 UNIT_MEASURE: >-
   Documente de politici
 CLASS_SYSTEM: ''
@@ -46,12 +55,19 @@ DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> Cancelaria de stat</p> 
-  <p>  Biroul Național de Statistică </p>
+  <p>Biroul Național de Statistică </p>
 OTHER_METHOD: >-
+  <p> În calitate de mecanisme naționale care asigură coordonarea și monitorizarea  procesului de consolidare a coerenței politicilor de dezvoltare durabilă sunt  considerate: </p> 
+  <p>- Comitetul interministerial pentru planificare strategică (HG 1070/2023);</p> 
+  <p>- Consiliul Național  de Coordonare pentru Dezvoltare Durabilă (HG.  912/2016);</p> 
+  <p>- Consiliile Coordonatoare pentru ODD-uri  în politicile sectoriale;  </p> 
+  <p>-Cadrul naţional de monitorizare a implementării Agendei de Dezvoltare Durabilă 2030 aprobat (HG 953/2022).</p> 
+  <p>- Hotărârea Guvernului nr. 386/2020 cu privire la planificarea strategică </p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Existența mecanismelor naționale care asigură coordonarea, monitorizarea și  evaluarea consolidării coerenței politicilor naționale de dezvoltare durabilă  în conformitate cu Obiectivele de Dezvoltare Durabilă.
+  <p> Acest indicator include 8 domenii. Fiecare domeniu este evaluat pe o scală de la 0 la 10, unde 0 înseamnă că niciunul dintre mecanismele solicitate nu este implementat, iar 10 înseamnă că toate mecanismele solicitate sunt implementate.</p> 
+  <p>Procentul de puncte din totalul de 80 de puncte este apoi calculat pentru fiecare țară. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,7 +75,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  În lipsa metodologiilor globale, indicatorul național reprezintă unul  complementar menit să răspundă țintei globale stabilite
+  Indicatorul național reprezintă unul  complementar menit să răspundă țintei globale stabilite
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

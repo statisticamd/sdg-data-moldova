@@ -8,7 +8,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  This indicator provides the proportion of young women and men aged 18-24 years  who report having experienced any sexual violence by age 18. It is calculated  by dividing the number of young women and men aged 18-24 years who report  having experienced any sexual violence by age 18 by the total number of young  women and men aged 18-24 years, respectively, in the population
+  This indicator is collected in national populational surveys and provides the proportion of young women and men aged 18-29 years  who report having experienced any sexual violence by age 18. It is calculated  by dividing the number of young women and men aged 18-29 years who report  having experienced any sexual violence by age 18 by the total number of young  women and men aged 18-29 years, respectively, in the population.
 SDG_GOAL: ''
 target_id: >-
   16.2
@@ -32,7 +32,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Sexual violence – any violence of a sexual character or any illegal sexual  conduct within the family or   within   other   interpersonal    relationships,   such   as   marital   rape;   prohibiting   the   use   of  contraception; sexual harassment; any unwanted, imposed sexual conduct; forced  prostitution; any illegal  sexual  conduct  with  a  minor  family  member,  including  fondling,  kissing,  setting  the  child into poses or other  unwanted touching with sexual connotations; or other similar actions. (art. 2  of the Law No. 45 dated 01.03.2007 on Preventing and Combating Family  Violence)
+  Sexual violence is defined as any deliberate, unwanted and non-essential act of a sexual nature, either completed or attempted, that is perpetrated against a child, including for exploitative purposes, and that results in or has a high likelihood of resulting in injury, pain or psychological suffering. Sexual violence against a child can take many forms including rape, sexual assault or non-contact sexual violence.
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -42,17 +42,17 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Ministry of Labour and Social Protection</p> 
-  <p>National Agency for Public Health </p>
+  <p> 1. Ministry of Labour and Social Protection</p> 
+  <p>2. National Agency for Public Health </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Internal Affairs</p> 
-  <p>Ministry of Labour and Social Protection </p>
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. Ministry of Labour and Social Protection </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of young women and men aged 18-29 years old who reported that they had  experienced sexual violence by age 18, divided to the total number of women  and men aged 18-29 years old *100, disaggregate by sex.
+  Number of young women and men aged 18-29 years old who reported that they had  experienced sexual violence by age 18, divided to the total number of women  and men aged 18-29 years old *100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -67,10 +67,10 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> Ministry of Labour and Social Protection</p> 
-  <p>National Agency for Public Health </p>
+  <p> 1. Ministry of Labour and Social Protection</p> 
+  <p>2. National Agency for Public Health </p>
 source_periodicity_1: >-
-  Annual
+  Once every few years
 source_url_1: >-
 source_url_text_1: >-
   Link to source

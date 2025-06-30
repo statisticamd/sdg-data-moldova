@@ -31,34 +31,35 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> Termenul „cadru legal” este definit în sens larg și  cuprinde legi, mecanisme și politici/planuri care „promovează, aplică și monitorizează” egalitatea de gen.</p> 
+  <p>Cadrul legal care „promovează” este legislația care consacră drepturi egale pentru femei și bărbați și interzice discriminarea pe bază de sex. Cadrul legal care „aplică și monitorizează” este orientat spre realizarea egalității și nediscriminării și punerea în aplicare a legilor, prin politici/planuri, crearea de mecanisme de aplicare și monitorizare, precum și alocarea de resurse financiare. </p>
 UNIT_MEASURE: >-
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Evaluarea cadrului legal în baza unui chestionar standard propus de UN Women,  BM, OECD cu 45 întrebări.
+  Sursele primare de informație relevante pentru indicatorul 5.1.1 sunt legislația națională și planurile de politici/acțiuni. Evaluarea cadrului legal în baza unui chestionar standard propus de UN Women,  BM, OECD cu 42 întrebări.
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>Ministerul  Justiției</p> 
-  <p>Ministerul Afacerilor Interne</p> 
-  <p>Consiliul pentru Egalitate</p> 
-  <p>Agenția Servicii  Publice </p> 
-  <p>Agenția de administrare a instanțelor judecătorești</p> 
-  <p> APC  (grupurile coordonatoare în domeniul gender) </p>
+  <p> 1. Ministerul Muncii și Protecției Sociale</p> 
+  <p>2. Ministerul  Justiției</p> 
+  <p>3. Ministerul Afacerilor Interne</p> 
+  <p>4. Consiliul pentru Egalitate</p> 
+  <p>5. Agenția Servicii  Publice</p> 
+  <p>6. Agenția Digitalizare în Justiție și Administrare Judecătorească</p> 
+  <p>7. APC  (grupurile coordonatoare în domeniul gender) </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>Ministerul  Justiției</p> 
-  <p>Ministerul Afacerilor Interne</p> 
-  <p>Consiliul pentru Egalitate </p>
+  <p> 1. Ministerul Muncii și Protecției Sociale</p> 
+  <p>2. Ministerul  Justiției</p> 
+  <p>3. Consiliul pentru Egalitate </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> 4 domenii ale egalității sunt evaluate: Cadrul legal și viața publică,  Violența împotriva femeilor, Ocuparea și beneficiile economice,  Căsătoria și  familia. </p> 
-  <p>Indicatorul este calculat în baza evaluării cadrului legal care  promovează, susține și monitorizează egalitatea de gen utilizând un chestionar din 45 întrebări. </p> 
+  <p> Indicatorul este calculat în baza evaluării cadrului legal care  promovează, susține și monitorizează egalitatea de gen, prin intermediul unui chestionar completat de către țări din 42 întrebări, în cadrul căruia 4 domenii ale egalității sunt evaluate: Cadrul legal și viața publică,  Violența împotriva femeilor, Ocuparea și beneficiile economice,  Căsătoria și  familia. </p> 
   <p>Răspunsul la întrebări este codificat cu DA-1 sau  NU-0. </p> 
   <p>Pentru întrebările 1 și 2, în țările în care nu se aplică legea cutumiară și legea personală acestea sunt marcate ca N/A și nu sunt incluse în calcularea scorului general. </p>
 DATA_VALIDATION: ''
@@ -68,6 +69,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Indicatorul corespunde cu indicatorul global.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -75,18 +77,33 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>Ministerul  Justiției</p> 
-  <p>Ministerul Afacerilor Interne</p> 
-  <p>Consiliul pentru Egalitate</p> 
-  <p>Agenția Servicii  Publice</p> 
-  <p>Agenția de administrare a instanțelor judecătorești</p> 
-  <p>APC  (grupurile coordonatoare în domeniul gender) </p>
+  <p> 1. Ministerul Muncii și Protecției Sociale</p> 
+  <p>2. Ministerul  Justiției</p> 
+  <p>3. Ministerul Afacerilor Interne</p> 
+  <p>4. Consiliul pentru Egalitate</p> 
+  <p>5. Agenția Servicii  Publice</p> 
+  <p>6. Agenția Digitalizare în Justiție și Administrare Judecătorească</p> 
+  <p>7. APC  (grupurile coordonatoare în domeniul gender) </p>
 source_periodicity_1: >-
   O dată la 2 ani
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Aurelia Bulat, șefa Direcției politici de asigurare a egalității de gen
+  <p> Aurelia Bulat, Șefa Direcției politici de asigurare a egalității de gen, </p> 
+  <p>e-mail: aurelia.bulat@social.gov.md, tel. 022 804 436 </p>
 source_other_info_1: >-
+  <p> Cadrul legal național include:</p> 
+  <p>HG nr. 933/2009 cu privire la aprobarea Programul național de asigurare a egalității de gen pe anii 2010-2015</p> 
+  <p>Legea nr. 71/2016 pentru modificarea şi completarea unor acte legislative (concediu paternal, publicitate sexistă, limbaj non-sexist)</p> 
+  <p>HG nr. 259/2017 cu privire la aprobarea Strategiei pentru asigurarea egalității între femei și bărbați în Republica Moldova pe anii 2017-2021 și a Planului de acțiuni privind implementarea acesteia</p> 
+  <p>HG nr. 281/2018 cu privire la aprobarea Strategiei naţionale de prevenire și combatere a violenţei faţă de  femei și a violenţei în familie pe anii 2018-2023 și a Planurilor de acțiuni privind implementarea acesteia</p> 
+  <p>Legea nr. 144/2021 cu privire la ratificarea Convenției Consiliului Europei privind prevenirea și combaterea violenței împotriva femeilor și a violenței domestice</p> 
+  <p>Legea nr.367/2022   cu privire la serviciile alternative de îngrijire a copiilor</p> 
+  <p>Legea 107/2022 pentru modificarea unor acte normative (plata egală pentru muncă de valoare egală)</p> 
+  <p>Legea nr.195/2022 pentru modificarea unor acte normative (concediul paternal, programe flexibile de muncă)</p> 
+  <p>Legea nr. 74/2023 pentru modificarea unor acte normative</p> 
+  <p>HG nr.203/2023 cu privire la aprobarea Programului de Promovare și Asigurare a Egalității între femei și bărbați în RM pentru anii 2023-2027</p> 
+  <p>HG nr. 332/2023 cu privire la aprobarea Programului național privind prevenirea și combaterea violenței împotriva femeilor și violenței în familie pentru anii 2023-2027;</p> 
+  <p>Legea nr. 180/2024 pentru modificarea unor acte normative (accesul egal la bunuri și servicii pentru femei și bărbați) </p>

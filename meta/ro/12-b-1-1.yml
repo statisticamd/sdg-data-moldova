@@ -1,9 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 12.b.1.1: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 12.b: NA</p>
+  <p>Target 12.b: Elaborarea și implementarea instrumentelor pentru monitorizarea impactului dezvoltării durabile asupra turismului durabil care creează locuri de muncă și promovează cultura și produsele locale</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  Organizația Mondială a Turismului (OMT)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -31,6 +32,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
+  număr
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -38,9 +40,16 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Ministerul Culturii
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministerul Culturii
 OTHER_METHOD: >-
+  <p> 1.Strategia Națională de Dezvoltare Regională (SNDR) pentru anii 2022-2028, HG nr.40 din 26.01.2022;</p> 
+  <p>2. Planul de acţiuni al Guvernului pentru anii 2021-2022;</p> 
+  <p>3. Strategia națională de dezvoltare „Moldova Europeană 2030”;</p> 
+  <p>4. Programul de retehnologizare și eficiență energetică a întreprinderilor mici și mijlocii;</p> 
+  <p>5. Programul Satul European. </p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -51,6 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Indicator național
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -58,9 +68,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
+  Ministerul Culturii
 source_periodicity_1: >-
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  Ana MURA, consultant principal în cadrul Direcției turism, e-mail: ana.mura@mc.gov.md; tel.: 022 823 809
 source_other_info_1: >-

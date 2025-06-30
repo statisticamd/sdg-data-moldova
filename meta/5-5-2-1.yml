@@ -37,18 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Administrative data</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=17907&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=561&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=7434&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=10045&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=51825&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=84165&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=90407&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=114762&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=118799&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=127271&lang=ro</p> 
-  <p>https://www.legis.md/cautare/getResults?doc_id=135609&lang=ro </p>
+  Administrative data
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -92,3 +81,15 @@ source_contact_1: >-
   <p>tel.: 022 250-298</p> 
   <p>e-mail: irina.ghirghilijiu@gov.md </p>
 source_other_info_1: >-
+  <p> Administrative data</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=17907&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=561&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=7434&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=10045&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=51825&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=84165&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=90407&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=114762&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=118799&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=127271&lang=ro</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=135609&lang=ro </p>
