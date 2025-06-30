@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Number of children subjected to violence, at the end of the year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Number of children subjected to violence, at the end of the year"
+          },
+          {
             "name": "Area of residence (subjected to violence)",
             "type": "string",
             "constraints": {
@@ -126,7 +137,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

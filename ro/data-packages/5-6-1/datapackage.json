@@ -25,14 +25,19 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Mediu de reședință"
           },
           {
             "name": "Educational level",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Primar",
+                "Gimnazial",
+                "Secundar general",
+                "Secundar profesional",
+                "Postsecundar profesional",
+                "Superior",
                 ""
               ]
             },
@@ -58,37 +63,44 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55+",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
                 ""
               ]
             },
             "title": "Grupa de vârstă"
           },
           {
-            "name": "Socioeconomic status",
+            "name": "Occupational status",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Salariată",
+                "Self-employed ",
+                "Pensionară",
+                "Șomeră",
+                "Alt statut",
                 ""
               ]
             },
-            "title": "Statut socioeconomic"
+            "title": "Statut ocupațional"
           },
           {
-            "name": "Ethnicity",
+            "name": "Marital status",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Căsătorită",
+                "Concubinaj",
                 ""
               ]
             },
-            "title": "Etnie"
+            "title": "Starea civilă"
           },
           {
             "name": "Value",

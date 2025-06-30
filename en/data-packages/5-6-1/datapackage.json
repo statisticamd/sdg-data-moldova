@@ -32,7 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Primary",
+                "Lower secondary",
+                "General secondary",
+                "Vocational secondary",
+                "Post-secondary vocational",
+                "Higher",
                 ""
               ]
             },
@@ -58,37 +63,44 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55+",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
                 ""
               ]
             },
             "title": "Age group"
           },
           {
-            "name": "Socioeconomic status",
+            "name": "Occupational status",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Employed",
+                "Self-employed ",
+                "Retiree",
+                "Unemployed",
+                "Other status",
                 ""
               ]
             },
-            "title": "Socioeconomic status"
+            "title": "Occupational status"
           },
           {
-            "name": "Ethnicity",
+            "name": "Marital status",
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Married",
+                "Cohabiting",
                 ""
               ]
             },
-            "title": "Ethnicity"
+            "title": "Marital status"
           },
           {
             "name": "Value",

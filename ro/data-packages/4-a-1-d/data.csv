@@ -1,4 +1,4 @@
-Year,Nivele de educație,Mediul de reședință,Value
+Year,Nivele de educație,Mediu de reședință,Value
 2010,Educație timpurie,,
 2010,Învățământ primar și secundar general,,
 2010,învățământ primar,,
@@ -97,3 +97,10 @@ Year,Nivele de educație,Mediul de reședință,Value
 2023,liceal,,36.8
 2023,,Rural,25.0
 2023,,Urban,34.7
+2024,Educație timpurie,,14.0
+2024,Învățământ primar și secundar general,,47.1
+2024,învățământ primar,,28.7
+2024,mediu general,,42.7
+2024,liceal,,62.8
+2024,,Rural,42.5
+2024,,Urban,59.8

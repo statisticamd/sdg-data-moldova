@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință"
+            "title": "Mediu de reședință"
           },
           {
             "name": "Age group",
@@ -36,7 +36,7 @@
                 "25-34",
                 "35-44",
                 "45-54",
-                "55+",
+                "55-65",
                 ""
               ]
             },
@@ -55,7 +55,7 @@
                 ""
               ]
             },
-            "title": "Nivelul de studii"
+            "title": "Nivel de studii"
           },
           {
             "name": "Value",

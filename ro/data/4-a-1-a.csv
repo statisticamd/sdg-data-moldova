@@ -1,4 +1,4 @@
-Year,Mediul de reședință,Nivele de educație,Value
+Year,Mediu de reședință,Nivele de educație,Value
 2010,,,100
 2010,Urban,,100
 2010,Rural,,100
@@ -97,3 +97,10 @@ Year,Mediul de reședință,Nivele de educație,Value
 2023,,învățământ primar,100
 2023,,mediu general,100
 2023,,liceal,100
+2024,,,100
+2024,Urban,,100
+2024,Rural,,100
+2024,,Educație timpurie,100
+2024,,învățământ primar,100
+2024,,mediu general,100
+2024,,liceal,100

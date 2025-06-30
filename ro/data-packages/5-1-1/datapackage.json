@@ -16,6 +16,20 @@
             "title": "Anul"
           },
           {
+            "name": "Domains",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cadru legal și viață publică",
+                "Violența împotriva femeilor",
+                "Ocupare și beneficii economice",
+                "Căsătorie și familie",
+                ""
+              ]
+            },
+            "title": "Domenii"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

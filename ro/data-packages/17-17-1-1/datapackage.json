@@ -16,13 +16,37 @@
             "title": "Anul"
           },
           {
+            "name": "Civil Society Organizations Development Program 2024-2027",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obiectiv general 1. Îmbunătățirea accesului la procesele decizionale la nivelul autorităților administrației publice centrale și locale",
+                "Obiectiv general 2. Asigurarea unei finanțări sustenabile pentru organizațiile societății civile, atât din surse publice, cât și din surse alternative",
+                "Obiectiv general 3. Consolidarea mediului de activitate al organizațiilor societății civile pentru a-și atinge, în mod eficient și sustenabil, misiunea propusă",
+                ""
+              ]
+            },
+            "title": "Civil Society Organizations Development Program 2024-2027"
+          },
+          {
+            "name": "Civil Society Development Strategy 2018-2020",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Civil Society Development Strategy 2018-2020"
+          },
+          {
             "name": "General objectives",
             "type": "string",
             "constraints": {
               "enum": [
-                "OG1. Consolidarea cadrului normativ și a celui instituțional privind participarea societății civile la elaborarea și monitorizarea implementării politicilor publice",
-                "OG2. Promovarea și consolidarea sustenabilității financiare a societății civile",
-                "OG3. Dezvoltarea spiritului civic activ și a voluntariatului",
+                "Obiectiv general 1. Consolidarea cadrului normativ și a celui instituțional privind participarea societății civile la elaborarea și monitorizarea implementării politicilor publice",
+                "Obiectiv general 2. Promovarea și consolidarea sustenabilității financiare a societății civile",
+                "Obiectiv general 3. Dezvoltarea spiritului civic activ și a voluntariatului",
                 ""
               ]
             },

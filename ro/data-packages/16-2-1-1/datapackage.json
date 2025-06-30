@@ -16,6 +16,17 @@
             "title": "Anul"
           },
           {
+            "name": "Number of children subjected to violence, at the end of the year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Numărul copiilor supuși violenței, la sfârșitul anului"
+          },
+          {
             "name": "Area of residence (subjected to violence)",
             "type": "string",
             "constraints": {
@@ -25,7 +36,7 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință (supuși violenței)"
+            "title": "Mediu de reședință (supuși violenței)"
           },
           {
             "name": "Sex (subjected to violence)",
@@ -85,7 +96,7 @@
                 ""
               ]
             },
-            "title": "Mediul de reședință (neglijați)"
+            "title": "Mediu de reședință (neglijați)"
           },
           {
             "name": "Sex (neglected)",
@@ -126,7 +137,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

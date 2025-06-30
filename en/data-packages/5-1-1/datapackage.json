@@ -16,6 +16,20 @@
             "title": "Year"
           },
           {
+            "name": "Domains",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legal framework and public life",
+                "Violence  against women",
+                "Employment and economic benefits",
+                "Marriage and family",
+                ""
+              ]
+            },
+            "title": "Domains"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
