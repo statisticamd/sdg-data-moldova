@@ -1,29 +1,46 @@
-Year,Access,Value
+Year,Access mode,Value
 2010,,
-2010,At the counter,
+2010,At the headquarters of the institution,
+2010,Electronic,
 2011,,
-2011,At the counter,
+2011,At the headquarters of the institution,
+2011,Electronic,
 2012,,
-2012,At the counter,91.43
+2012,At the headquarters of the institution,
+2012,Electronic,
 2013,,
-2013,At the counter,86.14
+2013,At the headquarters of the institution,
+2013,Electronic,
 2014,,
-2014,At the counter,
+2014,At the headquarters of the institution,
+2014,Electronic,
 2015,,
-2015,At the counter,83.57
+2015,At the headquarters of the institution,
+2015,Electronic,
 2016,,
-2016,At the counter,87.86
+2016,At the headquarters of the institution,
+2016,Electronic,
 2017,,
-2017,At the counter,88.57
+2017,At the headquarters of the institution,
+2017,Electronic,
 2018,,
-2018,At the counter,97.5
+2018,At the headquarters of the institution,
+2018,Electronic,
 2019,,
-2019,At the counter,97.4
-2020,,
-2020,At the counter,96.2
-2021,,
-2021,At the counter,32.82
-2022,,
-2022,At the counter,64.0
-2023,,
-2023,At the counter,90.92
+2019,At the headquarters of the institution,
+2019,Electronic,73.1
+2020,,81.8
+2020,At the headquarters of the institution,72.1
+2020,Electronic,86.7
+2021,,66.233
+2021,At the headquarters of the institution,65.1
+2021,Electronic,66.8
+2022,,66.367
+2022,At the headquarters of the institution,67.5
+2022,Electronic,65.8
+2023,,72.7
+2023,At the headquarters of the institution,67.4
+2023,Electronic,75.4
+2024,,74.4
+2024,At the headquarters of the institution,69.0
+2024,Electronic,77.1

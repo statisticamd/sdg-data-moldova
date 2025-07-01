@@ -16,15 +16,16 @@
             "title": "Anul"
           },
           {
-            "name": "Access",
+            "name": "Access mode",
             "type": "string",
             "constraints": {
               "enum": [
-                "La ghișeu",
+                "La sediul instituției",
+                "Electronic",
                 ""
               ]
             },
-            "title": "Access"
+            "title": "Mod de accesare"
           },
           {
             "name": "Value",

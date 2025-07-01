@@ -16,16 +16,68 @@
             "title": "Year"
           },
           {
-            "name": "Access mode",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Electronic",
-                "At the counter",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Access mode"
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60-74",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
+            "name": "Educational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incomplete secondary education",
+                "General secondary education",
+                "Vocational secondary education",
+                "Higher education",
+                ""
+              ]
+            },
+            "title": "Educational level"
+          },
+          {
+            "name": "Income level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poors, 40 percent",
+                "Wealthy, 60 percent",
+                ""
+              ]
+            },
+            "title": "Income level"
           },
           {
             "name": "Value",

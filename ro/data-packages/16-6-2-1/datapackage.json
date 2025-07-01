@@ -16,16 +16,68 @@
             "title": "Anul"
           },
           {
-            "name": "Access mode",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Electronic",
-                "La ghișeu",
+                "Bărbați",
+                "Femei",
                 ""
               ]
             },
-            "title": "Mod de accesare"
+            "title": "Sex"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60-74",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediu de reședință"
+          },
+          {
+            "name": "Educational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incomplete secondary education",
+                "General secondary education",
+                "Vocational secondary education",
+                "Higher education",
+                ""
+              ]
+            },
+            "title": "Nivel de educație"
+          },
+          {
+            "name": "Income level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Săraci, 40 procente",
+                "Înstăriți, 60 procente",
+                ""
+              ]
+            },
+            "title": "Grup de venituri"
           },
           {
             "name": "Value",

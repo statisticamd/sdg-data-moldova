@@ -16,15 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Access",
+            "name": "Access mode",
             "type": "string",
             "constraints": {
               "enum": [
-                "At the counter",
+                "At the headquarters of the institution",
+                "Electronic",
                 ""
               ]
             },
-            "title": "Access"
+            "title": "Access mode"
           },
           {
             "name": "Value",

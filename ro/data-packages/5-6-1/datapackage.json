@@ -41,10 +41,10 @@
                 ""
               ]
             },
-            "title": "Educational level"
+            "title": "Nivel de educație"
           },
           {
-            "name": "Wealth quintiles ",
+            "name": "Wealth quintiles",
             "type": "string",
             "constraints": {
               "enum": [
@@ -56,7 +56,7 @@
                 ""
               ]
             },
-            "title": "Wealth quintiles "
+            "title": "Quintile de bunăstare"
           },
           {
             "name": "Age group",

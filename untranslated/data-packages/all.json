@@ -2090,11 +2090,12 @@
             "type": "integer"
           },
           {
-            "name": "Access",
+            "name": "Access mode",
             "type": "string",
             "constraints": {
               "enum": [
-                "At the counter",
+                "At the headquarters of the institution",
+                "Electronic",
                 ""
               ]
             }
@@ -3871,7 +3872,7 @@
             }
           },
           {
-            "name": "Wealth quintiles ",
+            "name": "Wealth quintiles",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5521,12 +5522,60 @@
             "type": "integer"
           },
           {
-            "name": "Access mode",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Electronic",
-                "At the counter",
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "30-44",
+                "45-59",
+                "60-74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Educational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incomplete secondary education",
+                "General secondary education",
+                "Vocational secondary education",
+                "Higher education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poors, 40 percent",
+                "Wealthy, 60 percent",
                 ""
               ]
             }

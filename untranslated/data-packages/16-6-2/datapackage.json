@@ -15,11 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Access",
+            "name": "Access mode",
             "type": "string",
             "constraints": {
               "enum": [
-                "At the counter",
+                "At the headquarters of the institution",
+                "Electronic",
                 ""
               ]
             }

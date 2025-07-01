@@ -58,8 +58,8 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-2-4,"Age group, Sex, Area of residence, Socioeconomic status",4
 #16-5-1,"Sex, Level of education, Institutions where have been made payments",3
 #16-5-2,"Sex, Institutions where have been made payments, Nivel de instruire",3
-#16-6-2,Access,1
-#16-6-2-1,Access mode,1
+#16-6-2,Access mode,1
+#16-6-2-1,"Age group, Sex, Area of residence, Educational level, Income level",5
 #16-7-1-a,"Age group, Sex",2
 #16-7-1-b,"Sex, Disability",2
 #16-7-1-c,"Proportion of female judges to Proportion of women in the working-age population, Proportion of female registrars to Proportion of women in the working-age population, Proportion of young judges aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of young registrars aged 44 and below to Proportion of the working-age population aged above the eligibility age and below 45, Proportion of judges with a disability to Proportion of persons with a disability in the working-age population, Proportion of registrars with a disability to Proportion of persons with a disability in the working-age population",6
@@ -131,7 +131,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-1-b,Levels,1
 #5-5-2,"Managerial positions held by women, Women in senior and middle management positions",2
 #5-5-2-2,"Level of government, Function type",2
-#5-6-1,"Age group, Area of residence, Educational level, Wealth quintiles , Occupational status, Marital status",6
+#5-6-1,"Age group, Area of residence, Wealth quintiles, Educational level, Occupational status, Marital status",6
 #5-6-2-2,Sub-indicators,1
 #5-a-1-b,Age group,1
 #5-b-1-1,"Area of residence, Sex of the head of the household",2
