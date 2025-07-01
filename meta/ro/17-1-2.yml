@@ -4,7 +4,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 17.1: Consolidarea mobilizării resurselor interne, inclusiv prin suportul  internațional pentru țările în curs de dezvoltare, pentru a îmbunătăți  capacitatea naționala de impozitare și colectarea altor venituri</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  International Monetary Fund (IMF)
+  Fonul Monetar Internațional (FMI)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -31,7 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Conform metadatelor globale definiția exactă a acestui indicator este  „Proporția cheltuielilor interne ale Guvernului bugetar central finanțate din  taxe”. Guvernul bugetar central este descris în paragraful 2.81 din  [Clasificația statisticilor financiare guvernamentale  (GFS)”](https://www.imf.org/external/Pubs/FT/GFS/Manual/2014/gfsfinal.pdf)  elaborată de către FMI în 2014 și include entitățile puterii executive,  legislative și judecătorești. Această componentă a administrației publice este  de obicei acoperită de bugetul principal (sau general), veniturile și  cheltuielile căreia sunt reglementate și controlate de către MF în baza legii  bugetului adoptate. Veniturile sunt definite în capitulul 4, paragraful 4.21  din GFS, iar clasificarea asociată corespunzătoare în Capitolul 5. La rândul  său cheltuielile sunt definite în capitolul 4 (paragraful 4.23) din GFS în  timp clasificările asociate detaliate și  conceptele utilizate pentru  calcularea acestui indicator sunt expuse în Capitolele 6-8.</p> 
+  <p> Conform metadatelor globale definiția exactă a acestui indicator este  „Proporția cheltuielilor interne ale Guvernului bugetar central finanțate din  taxe”. Guvernul bugetar central este descris în paragraful 2.81 din  Clasificația statisticilor financiare guvernamentale  (GFS)” (https://www.imf.org/external/Pubs/FT/GFS/Manual/2014/gfsfinal.pdf)  elaborată de către FMI în 2014 și include entitățile puterii executive,  legislative și judecătorești. Această componentă a administrației publice este  de obicei acoperită de bugetul principal (sau general), veniturile și  cheltuielile căreia sunt reglementate și controlate de către MF în baza legii  bugetului adoptate. Veniturile sunt definite în capitulul 4, paragraful 4.21  din GFS, iar clasificarea asociată corespunzătoare în Capitolul 5. La rândul  său cheltuielile sunt definite în capitolul 4 (paragraful 4.23) din GFS în  timp clasificările asociate detaliate și  conceptele utilizate pentru  calcularea acestui indicator sunt expuse în Capitolele 6-8.</p> 
   <p>  Datele pentru  acest indicator sunt colectate anual de către Departamentul Statistic al FMI,  în cadrul Tabelului 1 al chestionarului standardizat. Seriile de cheltuieli  GFS sunt raportate prin clasificarea economică din tabelele 2 și 3 (elemente  de la codul 31). Alternativ, pentru țările care raportează cheltuielile totale  în conformitate cu clasificarea funcțională (COFOG), din Tabelul GFS 7 poate  fi efectuat un calcul similar al indicatorului. </p>
 UNIT_MEASURE: >-
   Procent, %

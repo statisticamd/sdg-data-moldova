@@ -4,7 +4,6 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 16.6: Dezvoltarea instituțiilor eficiente, responsabile și transparente la toate  nivelurile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNDP
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -36,11 +35,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Agenția Servicii Publice
+  Sondaj „Percepția, asimilarea și susținerea de către populație a eGuvernării și Modernizării serviciilor guvernamentale”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Agenția Guvernare Electronică
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Cancelaria de Stat
@@ -48,6 +48,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Accesarea serviciilor publice electronice pe parcursul ultimelor 12 luni (din totalul utilizatorilor de servicii publice)
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -55,16 +56,17 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Indicatorul este în totalitate comparabil cu indicatorul global
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
+  Agenția Guvernare Electronică
 source_periodicity_1: >-
 source_url_1: >-
+  https://www.egov.md/ro/node/40718
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

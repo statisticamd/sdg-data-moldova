@@ -4,7 +4,6 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 16.6: Develop effective, accountable and transparent institutions at all levels</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNDP
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -36,11 +35,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Public Services Agency
+  Survey "Perception, assimilation and support by the population of eGovernment and Modernization of government services"
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Government Electronic Agency
 COMPILING_ORG: ''
 INST_MANDATE: >-
   State Chancellery
@@ -48,6 +48,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Access to electronic public services during the last 12 months (out of total users of public services)
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -55,16 +56,17 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The indicator is fully comparable with the global indicator
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
+  Government Electronic Agency
 source_periodicity_1: >-
 source_url_1: >-
+  https://www.egov.md/ro/node/40718
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-

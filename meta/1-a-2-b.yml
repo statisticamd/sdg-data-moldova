@@ -4,7 +4,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 1.a: Ensure significant mobilization of resources from a variety of sources,  including through enhanced development cooperation, in order to provide  adequate and predictable means for developing countries, in particular least  developed countries, to implement programmes and policies to end poverty in  all its dimensions</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  Discussions are occurring between the following organisations International  Labour Organization (ILO) United Nations Educational Scientific and Cultural  Organization - Institute for Statistics (UNESCO-UIS) and World Health  Organization (WHO)
+  United Nations Educational Scientific and Cultural  Organization - Institute for Statistics (UNESCO-UIS)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -31,8 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Functional classification of budgetary expenditures - grouping the budgetary  expenditures by functions and social-economic objectives, which are exercised  within the budgetary sector. A major role of the functional classification is  to ensure the comparability of the budgetary sector by different countries,  respectively the international standards should be observed strictly. The  functional classification of the budgetary expenditures in the Republic of  Moldova is in line with the Classification of Functions of Government  developed by the OECD and used globally as standard ( [Annex 6 to the MF Order  No.  208](https://mf.gov.md/ro/buget/informa%C8%9Bii-cu-caracter-metodologic/clasifica%C8%9Bia-bugetar%C4%83)  dated 24.12.2015 on Budgetary Classification ).</p> 
-  <p>  National Public Budget –  synthesis of budgets established in the budgetary system, excluding the  interbudgetary transfers. The NPB covers: state budget, state social insurance  budget, compulsory health insurance funds, local budgets ( [art. 26 of the Law  No. 181](http://lex.justice.md/md/354213/) dated 25.07.2014 on Public Finance  and Budgetary - Fiscal Responsibility ). </p> 
+  <p> Functional classification of budgetary expenditures - grouping the budgetary  expenditures by functions and social-economic objectives, which are exercised  within the budgetary sector. A major role of the functional classification is  to ensure the comparability of the budgetary sector by different countries,  respectively the international standards should be observed strictly. The  functional classification of the budgetary expenditures in the Republic of  Moldova is in line with the Classification of Functions of Government  developed by the OECD and used globally as standard ( Annex 6 to the MF Order  No.  208 (https://mf.gov.md/ro/buget/informa%C8%9Bii-cu-caracter-metodologic/clasifica%C8%9Bia-bugetar%C4%83)  dated 24.12.2015 on Budgetary Classification ).</p> 
+  <p>  National Public Budget –  synthesis of budgets established in the budgetary system, excluding the  interbudgetary transfers. The NPB covers: state budget, state social insurance  budget, compulsory health insurance funds, local budgets ( art. 26 of the Law  No. 181 (http://lex.justice.md/md/354213/) dated 25.07.2014 on Public Finance  and Budgetary - Fiscal Responsibility ). </p> 
   <p>  Expenditures - totality of  payments approved in the budget / made to the budget, except for those related  to operations with financial assets and budget debts (Law No.181 dated  25.07.2014 on Public Finances and Budgetary-Fiscal Responsibility) </p>
 UNIT_MEASURE: >-
   Percent, %
@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Amount of public expenditures for health in line with the functional  classification of budgetary expenditures by types (main group 07), as related  to the total expenditures of the National Public Budget, in line with the  "Classification of governmental financial statistics (GFS)” developed by the  IMF. ( [MF Order No.  208](https://mf.gov.md/ro/buget/informa%C8%9Bii-cu-caracter-metodologic/clasifica%C8%9Bia-bugetar%C4%83)  dated 24.12.2015 on Budgetary Classification )
+  Amount of public expenditures for health in line with the functional  classification of budgetary expenditures by types (main group 07), as related  to the total expenditures of the National Public Budget, in line with the  "Classification of governmental financial statistics (GFS)” developed by the  IMF. ( MF Order No.  208 (https://mf.gov.md/ro/buget/informa%C8%9Bii-cu-caracter-metodologic/clasifica%C8%9Bia-bugetar%C4%83)  dated 24.12.2015 on Budgetary Classification )
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -60,7 +60,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Specific definition of the national indicator is similar to the one of the  global indicator, but it will be reviewed after finishing the metadata for the  global indicator
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

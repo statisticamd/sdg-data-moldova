@@ -56,7 +56,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  As the metadata for the global indicator are missing, the national indicator  represents an alternative for it. The description of the indicator will be  reviewed after finishing the metadata for the global indicator.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
