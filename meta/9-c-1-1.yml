@@ -12,6 +12,7 @@ target_id: >-
   9.c
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-09-0c-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
@@ -62,6 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  1
 source_active_1: true
 source_organisation_1: >-
   National Regulatory Agency for Electronic Communications and Information  Technology

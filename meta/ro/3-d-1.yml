@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-0D-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global (PDF)
+  United Nations Sustainable Development Goals Metadata (pdf 865kB)
 SDG_INDICATOR: >-
   <p>Indicator 3.d.1: Indicele capacității sectorului de sănătate ((1) legislația, politicile  și finanțarea națională; (2) coordonarea și legătura cu punctele focale  naționale; (3) supravegherea; (4) răspunsul; (5) pregătirea; (6) comunicarea  riscurilor; (7) resursele umane; (8) laboratorul; (9) punctele de intrare;  (10) evenimente zoonotice; (11) siguranța alimentelor; (12) evenimente  chimice; (13) urgențe radionucleare)Indicatorii dupa 2021 - legislația, politicile naționale; coordonarea și legătura cu punctele focale  naționale; Finanțarea; laboratorul; supravegherea; resursele umane; pregătirea și răspunsul; asigurarea asistenței medicale; profilaxia și controlul infecțiilor; comunicarea  riscurilor; punctele de intrare;  evenimente zoonotice; siguranța alimentelor; evenimente  chimice; urgențe radionucleare</p>
 SDG_SERIES_DESCR: ''
@@ -62,7 +62,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Comparabilitatea dintre indicatorul național și cel global este parțială. Indicatorul național este mai detaliat, incluzând subindicatori suplimentari
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -76,6 +75,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://extranet.who.int/e-spar
 source_url_text_1: >-
-  Instrument electronic de raportare anuală de autoevaluare a statelor părți (e-SPAR)
+  Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-

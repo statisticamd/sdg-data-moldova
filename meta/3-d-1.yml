@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-0D-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF)
+  United Nations Sustainable Development Goals Metadata (pdf 865kB)
 SDG_INDICATOR: >-
   <p>Indicator 3.d.1: Health Sector Capacity Index ((1) national legislation, policies and  funding; (2) coordination and liaison with national focal points; (3)  surveillance; (4) response; (5) preparedness; (6) risk communication; (7)  human resources; (8) laboratory; (9) entry points; (10) zoonotic events; (11)  food safety; (12) chemical events; (13) radionuclear emergencies)Indicators after 2021 - legislation, national policies; coordination and liaison with national focal points; Financing; the laboratory; supervision; human resources; preparedness and response; providing medical assistance; infection prevention and control; risk communication; entry points; zoonotic events; food safety; chemical events; radionuclear emergencies</p>
 SDG_SERIES_DESCR: ''
@@ -62,7 +62,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Comparability between the national and global indicator is partial. The national indicator is more detailed, including additional sub-indicators
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -76,6 +75,6 @@ source_periodicity_1: >-
 source_url_1: >-
   https://extranet.who.int/e-spar
 source_url_text_1: >-
-  Electronic State Parties Self-Assessment Annual Reporting Tool (e-SPAR)
+  Link to source
 source_contact_1: >-
 source_other_info_1: >-

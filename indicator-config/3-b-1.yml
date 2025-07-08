@@ -20,10 +20,10 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: 3.b.1 Proportion of population covered by vaccines under national immunisation  programmes (of the number of persons registered at the family doctor)
+graph_title: national_indicators.3-b-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of population covered by vaccines under national immunisation  programmes (of the number of persons registered at the family doctor)
+indicator_available: national_indicators.3-b-1-title
 indicator_name: global_indicators.3-b-1-title
 indicator_number: 3.b.1
 indicator_tabs:: 

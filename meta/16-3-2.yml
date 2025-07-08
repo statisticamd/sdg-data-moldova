@@ -10,6 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  16.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-02.pdf
@@ -36,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Administrative data from  NAP](http://www.anp.gov.md/randomrapoarte-de-bilant-simestriale-anualerapoarte-de-bilant-simestriale-anualerapoarte-de-bilant)
+  Administrative data from  NAP http://www.anp.gov.md/randomrapoarte-de-bilant-simestriale-anualerapoarte-de-bilant-simestriale-anualerapoarte-de-bilant
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

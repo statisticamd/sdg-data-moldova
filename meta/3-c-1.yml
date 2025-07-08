@@ -45,7 +45,8 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) National Agency for Public Health - No.17 “Statistical report on functions  and personnel of medical-sanitary institutions”;</p> 
-  <p>  2) National Bureau of  Statistics - number of population </p>
+  <p>  2) National Bureau of  Statistics - number of population</p> 
+  <p>3) Agency for Medicines and Medical Devices - data on pharmaceutical staff </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
