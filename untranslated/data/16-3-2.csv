@@ -172,7 +172,7 @@ Year,Duration of arrest,Sex,Age group,Value
 2023,Up to 3 months,,,2.81
 2023,From 3 to 6 months,,,1.81
 2023,From 6 to 12 months,,,1.09
-2023,More than 12 months,,,
+2023,More than 12 months,,,0.0
 2023,,Men,,5.39
 2023,,Women,,0.32
 2023,,,15-24,0.95
@@ -181,3 +181,16 @@ Year,Duration of arrest,Sex,Age group,Value
 2023,,,45-54,0.77
 2023,,,55+,0.28
 2023,,,60+,0.18
+2024,,,,7.46
+2024,Up to 3 months,,,5.08
+2024,From 3 to 6 months,,,1.69
+2024,From 6 to 12 months,,,0.68
+2024,More than 12 months,,,0.0
+2024,,Men,,7.07
+2024,,Women,,0.39
+2024,,,15-24,0.58
+2024,,,25-34,2.63
+2024,,,35-44,2.38
+2024,,,45-54,1.09
+2024,,,55+,0.53
+2024,,,60+,0.22

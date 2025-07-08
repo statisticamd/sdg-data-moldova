@@ -172,7 +172,7 @@ Year,Durata aflării în arest,Sex,Grupa de vârstă,Value
 2023,Până la 3 luni,,,2.81
 2023,De la 3 la 6 luni,,,1.81
 2023,De la 6 luni până la 12 luni,,,1.09
-2023,Mai mult de 12 luni,,,
+2023,Mai mult de 12 luni,,,0.0
 2023,,Bărbați,,5.39
 2023,,Femei,,0.32
 2023,,,15-24,0.95
@@ -181,3 +181,16 @@ Year,Durata aflării în arest,Sex,Grupa de vârstă,Value
 2023,,,45-54,0.77
 2023,,,55+,0.28
 2023,,,60+,0.18
+2024,,,,7.46
+2024,Până la 3 luni,,,5.08
+2024,De la 3 la 6 luni,,,1.69
+2024,De la 6 luni până la 12 luni,,,0.68
+2024,Mai mult de 12 luni,,,0.0
+2024,,Bărbați,,7.07
+2024,,Femei,,0.39
+2024,,,15-24,0.58
+2024,,,25-34,2.63
+2024,,,35-44,2.38
+2024,,,45-54,1.09
+2024,,,55+,0.53
+2024,,,60+,0.22
