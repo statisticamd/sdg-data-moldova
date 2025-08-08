@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 6.4.2: Nivelul stresului hidric: ponderea apei captate din totalul resurselor de apă  disponibile</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 6.4.: Până în 2030, creșterea substanțială a eficienței de utilizare a apei în toate  sectoarele și asigurarea unui proces durabil de captare și furnizare a apei  potabile, pentru a face față deficitului de apă și pentru a reduce substanțial  numărul de persoane care suferă de deficit de apă</p>
+  <p>Target 6.4: Până în 2030, creșterea substanțială a eficienței de utilizare a apei în toate  sectoarele și asigurarea unui proces durabil de captare și furnizare a apei  potabile, pentru a face față deficitului de apă și pentru a reduce substanțial  numărul de persoane care suferă de deficit de apă</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   FAO
@@ -10,7 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  6.4.
+  6.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-02.pdf
@@ -43,7 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția „Apele Moldovei”
+  Administrația Națională „Apele Moldovei”
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Mediului
@@ -51,7 +51,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Raportul dintre volumului total de apă captată de către sectoarele economiei  și resursele totale de apă *100. Numitorul include: intrări de apă + precipitații -  evapotranspirații - ieșirile de apă.
+  Raportul dintre volumul total de apă captată de către sectoarele economiei  și resursele totale de apă *100. Numitorul include: datele din raportul generalizator statistic anual privind utilizarea apei în Republica Moldova. Numărătorul constituie 13,2 miliarde m3 de apă - resursele de apă disponibile (râul Nistru, râul Prut și apele subterane) conform datelor din Cadastrul de Stat al Apelor.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -66,12 +66,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agenția „Apele Moldovei”
+  Administrația Națională „Apele Moldovei”
 source_periodicity_1: >-
   Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Dumitru Proca, specialist principal, Direcția Managementul Resurselor de Ape, Agenția "Apele Moldovei", tel.022-280752, email: dima.proca@apele. gov.md
+  Dumitru Proca, specialist principal, Secția Managementul Resurselor de Apă a Direcției Bazinale Dunăre-Prut-Mare Neagră, Administrația Națională "Apele Moldovei", tel.022-280700, email: dima.proca@apele. gov.md
 source_other_info_1: >-

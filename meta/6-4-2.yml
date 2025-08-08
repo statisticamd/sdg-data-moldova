@@ -43,7 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agency “Apele Moldovei” (Waters of Moldova)
+  National Administration “Apele Moldovei” (Waters of Moldova)
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment
@@ -51,7 +51,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Ratio between the total volume of water withdrawal by economy sectors and the  total water resources *100. Denominator includes: water entries + precipitations -  evapotranspiration - exits of water.
+  Ratio between the total volume of water withdrawal by economy sectors and the  total water resources *100. The denominator includes: data from the annual statistical generalization report on water use in the Republic of Moldova. The numerator is 13.2 billion m3 of water - available water resources (Dniester River, Prut River and groundwater) according to data from the State Water Cadastre.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -66,12 +66,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agency “Apele Moldovei” (Waters of Moldova)
+  National Administration “Apele Moldovei” (Waters of Moldova)
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
-  Dumitru Proca, main specialist, Water Resources Management Division, Agency "Apele Moldovei", tel.022-280752, email: dima.proca@apele. gov.md
+  Dumitru Proca, main specialist, Water Resources Management Division, National Administration "Apele Moldovei", tel.022-280700, email: dima.proca@apele. gov.md
 source_other_info_1: >-

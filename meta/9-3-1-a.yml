@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 9.3.1.a: Proportion of small-scale industries in total industry value added</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 9.3000000000000007: Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets</p>
+  <p>Target 9.3: Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Industrial Development Organization (UNIDO)
@@ -10,7 +10,7 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  9.3000000000000007
+  9.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf

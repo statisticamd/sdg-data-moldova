@@ -42,7 +42,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția „Apele Moldovei”
+  Administrația Națională „Apele Moldovei”
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Mediului
@@ -50,6 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Datele privind consumul de apă se preiau din raportul generalizator statistic anual privind utilizarea apei în Republica Moldova.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -65,12 +66,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agenția „Apele Moldovei”
+  Administrația Națională „Apele Moldovei”
 source_periodicity_1: >-
   Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Dumitru Proca, specialist principal, Direcfia Managementul Resurselor de Ape, Agenția "Apele Moldovei", tel.022-280752, email: dima.proca@apele. gov.md
+  Dumitru Proca, specialist principal, Secția Managementul Resurselor de Apă a Direcției Bazinale Dunăre-Prut-Mare Neagră, Administrația Națională "Apele Moldovei", tel.022-280700, email: dima.proca@apele. gov.md
 source_other_info_1: >-

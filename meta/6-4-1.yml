@@ -45,7 +45,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Agency “Apele Moldovei” (Waters of Moldova)</p> 
+  <p> 1. National Administration “Apele Moldovei” (Waters of Moldova)</p> 
   <p>2. National Buresu of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
@@ -79,12 +79,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agency “Apele Moldovei” (Waters of Moldova)
+  National Administration “Apele Moldovei” (Waters of Moldova)
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  Dumitru Proca, main specialist, Water Resources Management Division, Agency "Apele Moldovei", tel.022-280752, email: dima.proca@apele. gov.md
+  Dumitru Proca, main specialist, Water Resources Management Division, National Administration "Apele Moldovei", tel.022-280700, email: dima.proca@apele. gov.md
 source_other_info_1: >-

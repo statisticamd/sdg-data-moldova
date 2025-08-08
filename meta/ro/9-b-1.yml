@@ -1,14 +1,13 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 9.b.1: Ponderea valorii adăugate a industriei cu tehnologii avansate și  medii-avansate în total valoarea adăugată în industrie prelucrătoare</p>
+  <p>Indicator 9.b.1: Ponderea valorii adăugate a industriei cu tehnologii avansate și  medii-avansate în total valoarea adăugată</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 9.b: Susținerea domeniului național de dezvoltare a tehnologiilor, cercetare și  inovații în țările în curs de dezvoltare, inclusiv prin asigurarea unui mediu  propice de politici pentru, inter alia, diversificarea industrială și  adăugarea de valoare pentru mărfuri</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  United Nations Industrial Development Organization (UNIDO), Competitive Industrial Performance (CIP) database
+  United Nations Industrial Development Organization (UNIDO)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  Ponderea valorii adăugate a industriei medii și de înaltă tehnologie în valoarea adăugată totală a producției
 SDG_GOAL: ''
 target_id: >-
   9.b
@@ -16,9 +15,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global (PDF)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 9.b.1: ea valorii adăugate brute a industriei cu tehnologii avansate si  medii-avansate  în total valoarea adăugată in industrie prelucrătoare</p>
+  <p>Indicator 9.b.1: Ponderea valorii adăugate brute a industriei cu tehnologii avansate si  medii-avansate  în total valoarea adăugată in industrie prelucrătoare</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -71,12 +70,9 @@ source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
 source_periodicity_1: >-
-  Anual
+  anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
 source_other_info_1: >-
-  <p> https://w3.unece.org/SDG/en/Indicator?id=125 https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__92-SDG__01-sdgover/009_en_sdGoal9_r.px</p> 
-  <p>https://data.worldbank.org/indicator/NV.MNF.TECH.ZS.UN?end=2021&locations=MD&start=1990&view=chart</p> 
-  <p>https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=NV.MNF.TECH.ZS.UN </p>
