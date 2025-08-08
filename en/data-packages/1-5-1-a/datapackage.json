@@ -42,6 +42,18 @@
             "title": "Age group"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

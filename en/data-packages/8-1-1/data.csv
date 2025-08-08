@@ -71,9 +71,21 @@ Year,Regions,Value
 2021,Center,18.697
 2021,South,23.393
 2021,ATU Gagauzia,17.971
-2022,,
-2022,Mun. Chișinău,
-2022,North,
-2022,Center,
-2022,South,
-2022,ATU Gagauzia,
+2022,,-2.116
+2022,Mun. Chișinău,-2.474
+2022,North,-4.851
+2022,Center,-3.833
+2022,South,-6.244
+2022,ATU Gagauzia,-3.77
+2023,,4.1
+2023,Mun. Chișinău,
+2023,North,
+2023,Center,
+2023,South,
+2023,ATU Gagauzia,
+2024,,2.4
+2024,Mun. Chișinău,
+2024,North,
+2024,Center,
+2024,South,
+2024,ATU Gagauzia,
