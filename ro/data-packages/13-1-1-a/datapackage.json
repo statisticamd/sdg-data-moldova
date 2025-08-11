@@ -42,6 +42,18 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bărbați",
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
