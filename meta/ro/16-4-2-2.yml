@@ -4,7 +4,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 16.4: Până în 2030, reducerea semnificativă a fluxurilor ilicite financiare și de  armament, consolidarea  recuperării și returnării bunurilor furate și  combaterea tuturor formelor de crimă organizată</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNODC,UNODA
+  UNODC, UNODA
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-04-02.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global (PDF)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.4.2.2: Numărul armelor deținute ilegal confiscate</p>
 SDG_SERIES_DESCR: ''
@@ -63,7 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   Inspectoratul General al Poliției al MAI
@@ -71,7 +71,7 @@ source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
-  Șef al Secției supraveghere circulație armament  a Direcției supraveghere armament și activități licențiate a Inspectoratului național de securitate publică, comisar principal Ion Țurcan, email ion.turcan_dgsp@igp.gov.md , nr. telefon 076745660
+  Șef al Secției supraveghere circulație armament  a Direcției supraveghere armament și activități licențiate a Inspectoratului național de securitate publică, comisar principal Ion Țurcan, email ion.turcan_dgsp@igp.gov.md, tel. 076745660
 source_other_info_1: >-

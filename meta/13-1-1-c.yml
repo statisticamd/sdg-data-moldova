@@ -52,7 +52,13 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  It is repeated from indicator 1.5.1.3. where the calculation formula and  definition are presented
+  <p> B1=(B2+B3+B4+B5+B6)/total population*100.000. </p> 
+  <p>  where:  the persons  affected by disasters (B1) will include: </p> 
+  <p>  (B2) Number of INJURED persons  or sick persons because of some disasters  - AVAILABLE; </p> 
+  <p>  (B3)  Number of  persons who were evicted / saved / transferred after/because of disaster -  AVAILABLE;  </p> 
+  <p>  (B4) Number of persons whose houses / dwellings were damaged  because of disaster - IT IS PLANNED TO COLLECT DATA </p> 
+  <p>  (B5)  Number of  persons whose houses / dwellings were destroyed because of disasters - IT IS  PLANNED; ADDITIONALLY TO COLLECT the Number of persons who vital activity  conditions were impacted. </p> 
+  <p>  B4=(B4.1) number of damaged houses *(total  population/total no. of households) - AVAILABLE, B5=(B5.1) number of destroyed  houses *(total population/total no. of households) - AVAILABLE. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

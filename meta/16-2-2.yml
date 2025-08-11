@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.2.2: Number of victims of human trafficking per 100,000 population, by sex, age and  form of exploitation</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
+  <p>Target 16.2: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNODC
@@ -11,7 +11,7 @@ SDG_INDICATOR_INFO__GLOBAL: >-
   Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 SDG_GOAL: ''
 target_id: >-
-  16
+  16.2
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
@@ -77,4 +77,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  Rebeja Olesea , e-mail: cctp_ini@igp.gov.md, tel. 069461033
 source_other_info_1: >-

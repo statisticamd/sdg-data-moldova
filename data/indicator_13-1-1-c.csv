@@ -62,34 +62,34 @@ Year,Classes of disasters,Age group,Value
 2018,Fires,,20.9
 2018,,0-17 years,4.7
 2018,,18 years and over,32
-2019,,,18.9
-2019,Technogenic,,0.2
+2019,,,25.2
+2019,Technogenic,,2
 2019,Natural  (by genres),,0
-2019,Social and biological,,0.1
+2019,Social and biological,,4.6
 2019,Fires,,18.6
-2019,,0-17 years,0.04
-2019,,18 years and over,19
-2020,,,5515.4
+2019,,0-17 years,0.7
+2019,,18 years and over,24.5
+2020,,,14.5
 2020,Technogenic,,0.2
 2020,Natural  (by genres),,0
-2020,Social and biological,,5515.2
-2020,Fires,,12.8
-2020,,0-17 years,294.2
-2020,,18 years and over,5221.2
-2021,,,8884.9
-2021,Technogenic,,0.35
+2020,Social and biological,,1.6
+2020,Fires,,12.7
+2020,,0-17 years,7.9
+2020,,18 years and over,16.4
+2021,,,22.7
+2021,Technogenic,,1.6
 2021,Natural  (by genres),,0
-2021,Social and biological,,8884.5
-2021,Fires,,13.1
-2021,,0-17 years,73.5
-2021,,18 years and over,8811.4
-2022,,,5383.1
+2021,Social and biological,,8.1
+2021,Fires,,13
+2021,,0-17 years,9.9
+2021,,18 years and over,26.2
+2022,,,12.1
 2022,Technogenic,,0.2
 2022,Natural  (by genres),,0
-2022,Social and biological,,5382.9
-2022,Fires,,11.8
-2022,,0-17 years,126.7
-2022,,18 years and over,5256.4
+2022,Social and biological,,0
+2022,Fires,,11.9
+2022,,0-17 years,0
+2022,,18 years and over,15.5
 2023,,,30.8
 2023,Technogenic,,0.5
 2023,Natural  (by genres),,14.1
@@ -97,3 +97,10 @@ Year,Classes of disasters,Age group,Value
 2023,Fires,,15
 2023,,0-17 years,8.9
 2023,,18 years and over,39.8
+2024,,,22.6
+2024,Technogenic,,0.5
+2024,Natural  (by genres),,0
+2024,Social and biological,,0.1
+2024,Fires,,21.1
+2024,,0-17 years,1.3
+2024,,18 years and over,21.3

@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.4.2.2: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16.4: By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime</p>
+  <p>Target 16.4: 16.4 By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNODC,UNODA
+  UNODC, UNODA
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -63,7 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   General Police Inspectorate of the Ministry of Internal Affairs
@@ -71,7 +71,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to data source
+  Link to source
 source_contact_1: >-
-  Head of the Weapons Movement Supervision Section of the Directorate for Weapons Supervision and Licensed Activities of the National Public Security Inspectorate, Chief Commissioner Țurcan Ion email- ion.turcan_dgsp@igp.gov.md number 076745660
+  Head of the Weapons Movement Supervision Section of the Directorate for Weapons Supervision and Licensed Activities of the National Public Security Inspectorate, Chief Commissioner Țurcan, Ion email- ion.turcan_dgsp@igp.gov.md, tel. 076745660
 source_other_info_1: >-
