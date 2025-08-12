@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: Milioane Dolari SUA
+computation_units: Milioane Dolari SUA, prețuri curente
 copyright: ''
-data_footnote: ''
+data_footnote: Debursări nete, bazate pe baza de date OCDE, Baza de date DAC
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republica Moldova
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: ''
 permalink: ''
 placeholder: ''

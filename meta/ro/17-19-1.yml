@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 17.19.1: Volumul asistenței externe acordate pentru consolidarea sistemului statistic  în țările în curs de dezvoltare, echivalent în dolari SUA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 17.190000000000001: Până în 2030, dezvoltarea, în baza inițiativelor existente, a măsurătorilor  progresului privind dezvoltarea durabilă care complementează produsul intern  brut, și oferă suport pentru dezvoltarea capacităților statistice în țările în  curs de dezvoltare</p>
+  <p>Target 17.19: Până în 2030, dezvoltarea, în baza inițiativelor existente, a măsurătorilor  progresului privind dezvoltarea durabilă care complementează produsul intern  brut, și oferă suport pentru dezvoltarea capacităților statistice în țările în  curs de dezvoltare</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   PARIS21
@@ -10,12 +10,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  17.190000000000001
+  17.19
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 17.19.1: Valoarea asistenței financiare și tehnice externe pentru consolidarea  sistemului statistic național</p>
 SDG_SERIES_DESCR: ''
@@ -33,19 +33,19 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Indicatorul se bazează pe datele Raportului partenerului de asistență la  statistică (PRESS), care este proiectat și administrat de PARIS21 pentru a  oferi o imagine a valorii în dolari SUA a sprijinului statistic în proces de  acordare țărilor în curs de dezvoltare. Datele sunt colectate în baza  chestionarului on-line PARIS21 și din sistemul de Raportare a Creditorilor.
 UNIT_MEASURE: >-
-  Dolari SUA
+  Dolari SUA, prețuri curente
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Baza de date UNSTATS](https://unstats.un.org/sdgs/indicators/database/)
+  Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Biroul Național de Statistică</p> 
-  <p>  PARIS21 </p>
+  <p> 1. Biroul Național de Statistică</p> 
+  <p>2. Ministerul Finanțelor </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

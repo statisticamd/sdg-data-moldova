@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-10-0B-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 202
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 10.b.1: asistenței externe pentru dezvoltare de care a beneficiat țara</p>
 SDG_SERIES_DESCR: ''
@@ -40,17 +40,15 @@ STAT_CONC_DEF: >-
   <p>   Asistență (cooperare) tehnică – suport sub formă de transfer de cunoștințe, inclusiv tehnologii, metodologii și tehnici în cadrul proiectelor/programelor;</p> 
   <p>   [Platforma pentru gestionarea asistenței externe (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) – sistem informațional automatizat accesibil on-line, în cadrul căruia este încărcată și stocată informația privind proiectele/programele de asistență externă din Republica Moldova. </p>
 UNIT_MEASURE: >-
-  Milioane Dolari SUA
+  Milioane Dolari SUA, prețuri curente
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) [Platforma pentru gestionarea asistenței externe (AMP)](http://amp.gov.md/portal/sites/default/files/inline/amp-planul_de_gestiune_a_datelor_0.pdf)  </p> 
-  <p>   2) Rapoarte anuale privind asistența externă al MinFin </p>
+  Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministerul Finanțelor
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Finanțelor
@@ -74,11 +72,11 @@ un_designated_tier: >-
   1 (ODA) / 2 (FDI)
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Finanțelor
 source_periodicity_1: >-
-  Anual
+  anual
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
-  Link la sursa de date
+  Baza de date UNSTATS
 source_contact_1: >-
 source_other_info_1: >-

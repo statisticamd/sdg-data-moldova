@@ -40,11 +40,11 @@ STAT_CONC_DEF: >-
   <p>  [Platforma pentru gestionarea asistenței  externe  (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) –  sistem informațional automatizat accesibil on-line, în cadrul căruia este  încărcată și stocată informația privind proiectele/programele de asistență  externă din Republica Moldova.</p> 
   <p>  Sectorul Agricol - este definit în  conformitate cu standardele DAC/OECD și cuprinde toate codurile sectoriale  conform clasificării CRS din secțiunea 311 'Agricultura'  ( [a se  vedea](http://www.oecd.org/dac/stats/purposecodessectorclassification.htm) ) </p>
 UNIT_MEASURE: >-
-  Milioane dolari SUA, Prețuri constante 2022 (Dolari SUA)
+  Milioane dolari SUA, Prețuri constante 2023
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [Baza de date UNSTATS](https://unstats.un.org/sdgs/indicators/database/)
+  Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

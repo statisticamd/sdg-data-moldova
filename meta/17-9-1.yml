@@ -39,11 +39,11 @@ STAT_CONC_DEF: >-
   <p>  Technical assistance (cooperation) –  support under the form of transfer of knowledge, including technologies,  methodologies and techniques within projects/programs;</p> 
   <p>  [Platform for  managing foreign assistance  (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) –  information automated system accessible online, which is covering and storing  the information regarding the projects/programs of foreign assistance in the  Republic of Moldova. </p>
 UNIT_MEASURE: >-
-  Million USD, Constant Prices 2022 (USD)
+  Million USD, Constant Prices 2023 (USD)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [UNSTATS Database](https://unstats.un.org/sdgs/indicators/database/)
+  UNSTATS Database
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
