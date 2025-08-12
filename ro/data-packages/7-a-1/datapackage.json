@@ -16,6 +16,22 @@
             "title": "Anul"
           },
           {
+            "name": "Type of renewable technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bioenergie",
+                "Geotermală",
+                "Hidroelectrică",
+                "Multiplă",
+                "Solară",
+                "Eoliană",
+                ""
+              ]
+            },
+            "title": "Type of renewable technology"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

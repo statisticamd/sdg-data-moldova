@@ -16,18 +16,6 @@
             "title": "Anul"
           },
           {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Platforma pentru gestionarea asistenței externe (AMP)",
-                "Rapoarte anuale privind asistența externă a Ministerului Finanțelor",
-                ""
-              ]
-            },
-            "title": "Source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

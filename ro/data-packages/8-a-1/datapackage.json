@@ -16,6 +16,18 @@
             "title": "Anul"
           },
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements",
+                "Angajamente",
+                ""
+              ]
+            },
+            "title": "Tip"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

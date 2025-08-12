@@ -1,14 +1,29 @@
-Year,Value
-2010,75.5
-2011,126.8
-2012,191.5
-2013,171.5
-2014,246.1
-2015,183.1
-2016,130.9
-2017,90.1
-2018,135.4
-2019,138.7
-2020,165.4
-2021,146.5
-2022,242.1
+Year,Tip,Value
+2010,Gross disbursements,78.8
+2010,Angajamente,470.05
+2011,Gross disbursements,135.02
+2011,Angajamente,125.56
+2012,Gross disbursements,204.02
+2012,Angajamente,316.49
+2013,Gross disbursements,181.71
+2013,Angajamente,135.99
+2014,Gross disbursements,260.22
+2014,Angajamente,383.48
+2015,Gross disbursements,193.13
+2015,Angajamente,89.23
+2016,Gross disbursements,140.88
+2016,Angajamente,323.33
+2017,Gross disbursements,97.1
+2017,Angajamente,122.74
+2018,Gross disbursements,145.55
+2018,Angajamente,128.04
+2019,Gross disbursements,149.93
+2019,Angajamente,144.61
+2020,Gross disbursements,178.49
+2020,Angajamente,126.83
+2021,Gross disbursements,158.61
+2021,Angajamente,82.44
+2022,Gross disbursements,258.05
+2022,Angajamente,228.33
+2023,Gross disbursements,200.06
+2023,Angajamente,197.96

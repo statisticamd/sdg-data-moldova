@@ -15,6 +15,21 @@
             "type": "integer"
           },
           {
+            "name": "Type of renewable technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bioenergy",
+                "Geothermal",
+                "Hydropower",
+                "Multiple",
+                "Solar",
+                "Wind",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -1422,6 +1422,22 @@
             "title": "Anul"
           },
           {
+            "name": "Type of renewable technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bioenergie",
+                "Geotermală",
+                "Hidroelectrică",
+                "Multiplă",
+                "Solară",
+                "Eoliană",
+                ""
+              ]
+            },
+            "title": "Type of renewable technology"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7533,7 +7549,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -8652,18 +8668,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Anul"
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Platforma pentru gestionarea asistenței externe (AMP)",
-                "Rapoarte anuale privind asistența externă a Ministerului Finanțelor",
-                ""
-              ]
-            },
-            "title": "Source"
           },
           {
             "name": "Value",
@@ -13566,6 +13570,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements",
+                "Angajamente",
+                ""
+              ]
+            },
+            "title": "Tip"
           },
           {
             "name": "Value",

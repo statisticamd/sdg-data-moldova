@@ -22,7 +22,6 @@ Indicator,Disaggregations,Number of disaggregations
 #10-6-1-a,International organisations,1
 #10-6-1-b,International organisations,1
 #10-7-4,"Sex, Origin country",2
-#10-b-1,Source,1
 #11-1-1-a,"Age group, Sex, Area of residence, Quintiles on consumption expenditures, Existence of disability",5
 #11-1-1-b,"Age group, Sex, Area of residence, Quintiles on consumption expenditures, Existence of disability",5
 #11-5-1-a,"Classes of disasters, Age group, Sex",3
@@ -153,6 +152,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-2-1,"Bio-fuel and waste, Petrol products, Coal, Natural gas, Thermal energy, Electricity",6
 #7-3-1-a,Types of energy,1
 #7-3-1-b,Sectors,1
+#7-a-1,Type of renewable technology,1
 #8-1-1,Regions,1
 #8-10-2,"Age group, Sex, Level of education, Area",4
 #8-3-1,"Sex, Agricultural sector, Non-agricultural sector",3
@@ -163,6 +163,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-6-1,Age group / Sex,1
 #8-8-1,"Fatal accidents, by sex, Fatal accidents, by economic activities, Non-fatal accidents, by sex, Non-fatal accidents, by economic activities",4
 #8-9-1-2,Sex,1
+#8-a-1,Type,1
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1
 #9-2-2,"Age group, Sex, Statistical regions, Occupations",4

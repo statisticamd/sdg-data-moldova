@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements",
+                "Commitments",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements",
+                "Commitments",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

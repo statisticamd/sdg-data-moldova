@@ -1314,6 +1314,21 @@
             "type": "integer"
           },
           {
+            "name": "Type of renewable technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bioenergy",
+                "Geothermal",
+                "Hydropower",
+                "Multiple",
+                "Solar",
+                "Wind",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -6955,7 +6970,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -7990,17 +8005,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Foreign assistance management platform (AMP)",
-                "Annual reports on foreign assistance of the Ministry of Finance",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -12510,6 +12514,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements",
+                "Commitments",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
