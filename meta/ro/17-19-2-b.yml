@@ -13,7 +13,7 @@ target_id: >-
   17.19
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02b.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02a.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
@@ -37,8 +37,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Date  administrative privind înregistrările de starea civilă - ASP</p> 
-  <p>  2) Date statistice privind statisticile vitale -BNS </p>
+  <p> 1) Date  administrative privind înregistrările de starea civilă - Agenția Servicii Publice</p> 
+  <p>  2) Date statistice privind statisticile vitale -Biroul Național de Statistică </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

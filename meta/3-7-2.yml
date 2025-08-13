@@ -46,12 +46,12 @@ DATA_SOURCE: >-
   National Agency for Public Health
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  National Bureau of Statistics
+  Minsitry of Health
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of live births in women aged 15-19 years old out of 1000 women of the  respective age
+  Number of live births for women aged 15-19 years old divided by number of  women of the  respective age * 1000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

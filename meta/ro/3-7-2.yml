@@ -46,12 +46,12 @@ DATA_SOURCE: >-
   Agenția Națională pentru Sănătate Publică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Biroul Național de Statistică
+  Miniserul Sănătății
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul născuților-vii de femeile cu vârsta de 15-19 ani raportat la 1000  femei de vârstă respectivă
+  Numărul născuților-vii de femeile cu vârsta de 15-19 ani raportat la numărul femeilor de vârstă respectivă * 1000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

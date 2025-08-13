@@ -37,22 +37,36 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  National legislative-normative framework in force
+  UNSTATS database
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Agency for Public Health
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministry of Health</p> 
-  <p>  2. United Nations  Population Fund (UNFPA) </p>
+  Ministry of Health
 OTHER_METHOD: >-
+  <p> Legislative-normative framework in the Republic of Moldova:</p> 
+  <p>2010 - National Reproductive Health Strategy 2005-2015</p> 
+  <p>2011 - National Reproductive Health Strategy 2005-2015</p> 
+  <p>2012 - Law No. 128 on reproductive health from 06/05/2012</p> 
+  <p>2013 - National Reproductive Health Strategy 2005-2015</p> 
+  <p>2014 - National Reproductive Health Strategy 2005-2015</p> 
+  <p>2015 - National Reproductive Health Strategy 2005-2015</p> 
+  <p>2018 - Programul național privind sănătatea și drepturile sexuale și reproductive pentru anii 2018-2022 (HG 681/2018)</p> 
+  <p>2019 - National program on sexual and reproductive health and rights for the years 2018-2022 (HG 681/2018)</p> 
+  <p>2020 - National program on sexual and reproductive health and rights for the years 2018-2022 (HG 681/2018)</p> 
+  <p>2021 - National program on sexual and reproductive health and rights for the years 2018-2022 (HG 681/2018)</p> 
+  <p>2022 - National program on sexual and reproductive health and rights for the years 2018-2022 (HG 681/2018)</p> 
+  <p>2024:</p> 
+  <p>- National Program for the Prevention and Control of HIV/AIDS and STIs for the Years 2022-2025 (GD No. 134/2022);</p> 
+  <p>- GD No. 913 26.08.2005 On the Approval of the National Strategy for Reproductive Health;</p> 
+  <p>- LAW No. 138 of 15-06-2012 on Reproductive Health;</p> 
+  <p>- National Program for Combating Viral Hepatitis B, C and D for the Years 2024-2028 GD No. 863 of 18.12.2024. </p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The indicator reflects the existence of national legislative-normative  framework guaranteeing women and men aged 15-49 years old access to services  under 4 thematic areas: (i) Services for maternity protection; (ii)  Contraception and family planning; (iii) Information and comprehensive  education; (iv) Sexual health and wellbeing </p> 
-  <p>  Indicator is a qualitative  one of "Yes/No" type.</p> 
+  <p> Indicator is a qualitative  one of "Yes/No" type.</p> 
   <p>  At the global level, the indicator is produced once  per 2-3 years under a survey based on an electronic questionnaire and measures  specific legal rights and barriers related to 13 components under 4 thematic  areas: (i) Services for maternity protection; (ii) Contraception and family  planning; (iii) Information and comprehensive education; (iv) Sexual health  and wellbeing. The 13 components are placed on the same scale with a score  from 0% to 100% . Every component is calculated separately and weighted in  equal way. The score for each component is calculated as follows: ((Number of  existing rights/Total number of rights) - (Total number of existing barriers /  Total number of barriers))*100</p> 
   <p>  Total score for the indicator is  calculated as an arithmetic average of the 13 component scores. The score for  each thematic area is calculated in a similar way, meaning as an arithmetic  average of the scores of its constitutive components.</p> 
   <p>  The global  indicator is compiled by UNFPA, based on the data of UNFPA offices by the  country which coordinates the carrying out of the survey and the process of  data validation. </p>
@@ -63,7 +77,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The national indicator is a narrative one and represents a part of the global  indicator which is calculated as a score.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -71,11 +84,10 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Ministry of Health</p> 
-  <p>  2. United Nations  Population Fund (UNFPA) </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
