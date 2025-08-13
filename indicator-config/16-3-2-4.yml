@@ -32,7 +32,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
 placeholder: ''
@@ -40,7 +40,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false

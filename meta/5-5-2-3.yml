@@ -12,7 +12,9 @@ target_id: >-
   5.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf
 GOAL_META_LINK_TEXT: >-
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.5.2.3: Share of female judges</p>
 SDG_SERIES_DESCR: ''
@@ -33,16 +35,20 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  The Agency for the Administration of Courts
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  The Agency for the Administration of Courts
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministry of Justice
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Number of female judges divided by total number of judges * 100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -50,6 +56,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  National indicator
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
