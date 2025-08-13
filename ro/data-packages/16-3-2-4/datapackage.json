@@ -59,9 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Scăzut",
-                "Mediu",
-                "Înalt",
+                "xx",
                 ""
               ]
             },
