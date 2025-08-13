@@ -15,14 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Thematic areas",
+            "name": "Componente",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternity care services",
-                "Contraception and family planning",
-                "Information and comprehensive sex education",
-                "HIV and HPV ",
+                "1.Maternity Care",
+                "2. Life Saving Commodities",
+                "3. Abortion",
+                "4. Post-Abortion Care",
+                "5. Contraceptive Services",
+                "6. Contraceptive Consent",
+                "7. Emergency Contraception",
+                "8. Sexuality Education Curriculum Laws",
+                "9. Sexuality Education Curriculum Topics",
+                "10. HIV Counselling and Test Services",
+                "11. HIV Treatment and Care Services",
+                "12. HIV Confidentiality",
+                "13. HPV Vaccine",
                 ""
               ]
             }

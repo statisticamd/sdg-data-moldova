@@ -16,18 +16,27 @@
             "title": "Anul"
           },
           {
-            "name": "Thematic areas",
+            "name": "Componente",
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternity care services",
-                "Contraception and family planning",
-                "Information and comprehensive sex education",
-                "HIV and HPV ",
+                "1. Îngrijire maternă",
+                "2. Produse care salvează vieți",
+                "3. Avort",
+                "4. Îngrijire post-avort",
+                "5. Servicii contraceptive",
+                "6. Consimțământ contraceptiv",
+                "7. Contracepție de urgență",
+                "8. Legislație privind curriculumul de educație sexuală",
+                "9. Subiecte din curriculumul de educație sexuală",
+                "10. Servicii de consiliere și testare HIV",
+                "11. Servicii de tratament și îngrijire HIV",
+                "12. Confidențialitate HIV",
+                "13. Vaccin HPV",
                 ""
               ]
             },
-            "title": "Thematic areas"
+            "title": "Componente"
           },
           {
             "name": "Value",
