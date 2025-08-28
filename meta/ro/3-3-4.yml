@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 3.3.4: Incidența prin hepatita B, la 100 mii populație</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Până în 2030, eliminarea epidemiilor de SIDA, tuberculoză, malarie și boli  tropicale neglijate, precum și combaterea hepatitei, bolilor condiționate de  apă și a altor boli transmisibile</p>
+  <p>Target 3.3: Până în 2030, eliminarea epidemiilor de SIDA, tuberculoză, malarie și boli  tropicale neglijate, precum și combaterea hepatitei, bolilor condiționate de  apă și a altor boli transmisibile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organisation (WHO)
@@ -11,11 +11,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
+  3.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-04.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 865kB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.3.4: Incidența prin hepatita B, la 100 mii populație cu reședință obișnuită</p>
 SDG_SERIES_DESCR: ''
@@ -36,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Raport statistic Nr. 2 privind bolile infecțioase si parazitare</p> 
+  <p> 1) Raport statistic Nr. 2 privind bolile infecțioase și parazitare</p> 
   <p>2)  Statistica demografiei, numărul populației </p>
 COLL_METHOD: ''
 FREQ_COLL: ''

@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 232kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.1.1: Prevalence of undernourishment</p>
 SDG_SERIES_DESCR: ''
@@ -31,21 +31,30 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> Undernourishment is defined as the condition by which a person has access, on a regular basis, to the amount of food that are insufficient to provide the energy required for conducting a normal, healthy and active life, given his or her own dietary energy requirements.</p> 
+  <p>Though strictly related, “undernourishment” as defined here is different from the physical conditions of “malnutrition” and “undernutrition” as it refers to the condition of insufficient intake of food, rather than to the outcome in terms of nutritional status. In French, Spanish and Italian the difference is marked by the use of the terms alimentation, alimentación, or alimentazione, instead of nutrition, nutrición or nutrizione, in the name of the indicator. A more appropriate expression in English that would render the precise meaning of the indicator might have been “prevalence of under-feeding” but by now the term “undernourishment” has long been associated with the indicator.</p> 
+  <p>While the undernourishment condition applies to individuals, due to conceptual and data-related considerations, the indicator can only be referred to a population, or group of individuals. The prevalence of undernourishment is thus an estimate of the percentage of individuals in a group that are in that condition, but it does not allow for the identification of which individuals in the group are, in fact, undernourished. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  UNSTATS databse
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Food and Agriculture Organization of the United Nations - FAO
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  <p> Ministry of Health</p> 
+  <p>Ministry of Agriculture and Food Industry </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  <p> To compute an estimate of the prevalence of undernourishment in a population, the probability distribution of habitual dietary energy intake levels (expressed in kcal per person per day) for the average individual is modelled as a parametric probability density function (pdf), f(x).</p> 
+  <p>The indicator is obtained as the cumulative probability that the habitual dietary energy intake (x) is below the minimum dietary energy requirements (MDER) (i.e. the lowest limit of the range of energy requirements for the population’s representative average individual). </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,7 +71,8 @@ source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

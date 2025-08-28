@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 1.5.1.c: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations  and reduce their exposure and vulnerability to climate-related extreme events  and other economic, social and environmental shocks and disasters</p>
+  <p>Target 1.5: By 2030, significantly reduce the number of deaths and the number of people  affected and substantially decrease the direct economic losses relative to  global gross domestic product caused by disasters, including water-related  disasters, with a focus on protecting the poor and people in vulnerable  situations</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Office for Disaster Reduction (UNISDR)
@@ -13,11 +13,11 @@ target_id: >-
   1.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-1-05-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 1.5.1.c: Number of persons directly affected as a result of disasters, per  100.000 population</p>
+  <p>Indicator 1.5.1.c: Number of directly affected persons attributed to disasters, per  100,000 population  (the same as 11.5.1.c/13.1.1.c)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -38,13 +38,13 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) administrative data of the General Inspectorate for Emergency Situations  </p> 
-  <p>2) population statistics produced by NBS </p>
+  <p>  2) population statistics produced by NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1.General Inspectorate for Emergency Situations</p> 
-  <p>2.National Bureau of  Statistics </p>
+  <p>  2.National Bureau of  Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Internal Affairs
@@ -76,7 +76,7 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1.General Inspectorate for Emergency Situations</p> 
-  <p>2.National Bureau of  Statistics </p>
+  <p>  2.National Bureau of  Statistics </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-

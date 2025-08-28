@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 1.5.1.c: NA</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 1.5: Până în 2030, crearea rezilienței celor săraci și a celor aflați în situații  vulnerabile și reducerea expunerii și vulnerabilității acestora la evenimente  extreme legate de climă și alte șocuri și dezastre economice, sociale și de  mediu</p>
+  <p>Target 1.5: Până în 2030, reducerea semnificativă a numărului de decese și a numărului de  persoane afectate și scăderea substanțială a pierderilor economice directe în  raport cu Produsul Intern Brut la nivel global, cauzate de dezastre, inclusiv  dezastrele legate de apă, cu un accent pe protecția celor săraci și a  persoanelor aflate în situații vulnerabile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Office for Disaster Reduction (UNISDR)
@@ -13,11 +13,11 @@ target_id: >-
   1.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-1-05-01.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 1.5.1.c: Numărul de persoane direct afectate în urma situațiilor excepționale,  la 100.000 de locuitori</p>
+  <p>Indicator 1.5.1.c: Numărul de persoane direct afectate în urma situațiilor excepționale  , la 100.000 populație (identic cu 11.5.1.c/13.1.1.c)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -33,21 +33,21 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Situații excepționale se vor considera: cu caracter tehnogen, natural și  biologico-social. Situațiile excepționale se împart în următoarele tipuri: de  obiect, locale, teritoriale, naționale și transfrontaliere (HG  1076/16.11.2010).
 UNIT_MEASURE: >-
-  pers. la 100.000
+  la 100 000 populație
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) date administrative ale Inspectoratului General pentru Situații de  Urgenta</p> 
-  <p>2) statistica populației produsa de BNS </p>
+  <p>  2) statistica populației produsa de BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Inspectoratul General pentru Situații de Urgență</p> 
-  <p>2) Biroul Național  de Statistică </p>
+  <p> 1)  Inspectoratul General pentru Situații de Urgență</p> 
+  <p>  2) Biroul Național  de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerului Afacerilor Interne
+  Ministerul Afacerilor Interne
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -76,7 +76,7 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Inspectoratul General pentru Situații de Urgență</p> 
-  <p>2) Biroul Național de  Statistică </p>
+  <p>  2) Biroul Național de  Statistică </p>
 source_periodicity_1: >-
   anual
 source_url_1: >-

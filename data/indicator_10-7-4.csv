@@ -3,16 +3,17 @@ Year,Sex,Origin country,Value
 2010,Men,,0.058
 2010,Women,,0
 2010,,Afghanistan,
-2010,,Egypt,
 2010,,Armenia,0.033
 2010,,Azerbaijan,
 2010,,Belarus,
 2010,,Comoro Islands,
+2010,,Egypt,
 2010,,Eritrea,
 2010,,Iraq,
 2010,,Iran,
 2010,,Jordan,
 2010,,Kyrgyzstan,
+2010,,Leban,
 2010,,Nigeria,
 2010,,Russia,
 2010,,Sudan,
@@ -27,16 +28,17 @@ Year,Sex,Origin country,Value
 2011,Men,,0.175
 2011,Women,,0
 2011,,Afghanistan,
-2011,,Egypt,
 2011,,Armenia,
 2011,,Azerbaijan,
 2011,,Belarus,
 2011,,Comoro Islands,
+2011,,Egypt,
 2011,,Eritrea,
 2011,,Iraq,
 2011,,Iran,
 2011,,Jordan,0.014
 2011,,Kyrgyzstan,
+2011,,Leban,
 2011,,Nigeria,
 2011,,Russia,
 2011,,Sudan,
@@ -51,16 +53,17 @@ Year,Sex,Origin country,Value
 2012,Men,,0.818
 2012,Women,,0.271
 2012,,Afghanistan,
-2012,,Egypt,0.002
 2012,,Armenia,0.033
 2012,,Azerbaijan,0.011
 2012,,Belarus,
 2012,,Comoro Islands,
+2012,,Egypt,0.002
 2012,,Eritrea,
 2012,,Iraq,
 2012,,Iran,0.001
 2012,,Jordan,
 2012,,Kyrgyzstan,
+2012,,Leban,
 2012,,Nigeria,0.016
 2012,,Russia,
 2012,,Sudan,0.003
@@ -75,16 +78,17 @@ Year,Sex,Origin country,Value
 2013,Men,,0.584
 2013,Women,,0.108
 2013,,Afghanistan,
-2013,,Egypt,
 2013,,Armenia,
 2013,,Azerbaijan,
 2013,,Belarus,
 2013,,Comoro Islands,
+2013,,Egypt,
 2013,,Eritrea,
 2013,,Iraq,0.003
 2013,,Iran,
 2013,,Jordan,
 2013,,Kyrgyzstan,
+2013,,Leban,
 2013,,Nigeria,0.016
 2013,,Russia,
 2013,,Sudan,
@@ -99,16 +103,17 @@ Year,Sex,Origin country,Value
 2014,Men,,2.181
 2014,Women,,1.071
 2014,,Afghanistan,0.031
-2014,,Egypt,
 2014,,Armenia,
 2014,,Azerbaijan,
 2014,,Belarus,0.011
 2014,,Comoro Islands,
+2014,,Egypt,
 2014,,Eritrea,0.034
 2014,,Iraq,0.008
 2014,,Iran,
 2014,,Jordan,
 2014,,Kyrgyzstan,
+2014,,Leban,
 2014,,Nigeria,
 2014,,Russia,
 2014,,Sudan,
@@ -123,16 +128,17 @@ Year,Sex,Origin country,Value
 2015,Men,,1.242
 2015,Women,,0.474
 2015,,Afghanistan,0.009
-2015,,Egypt,
 2015,,Armenia,
 2015,,Azerbaijan,
 2015,,Belarus,
 2015,,Comoro Islands,
+2015,,Egypt,
 2015,,Eritrea,
 2015,,Iraq,
 2015,,Iran,
 2015,,Jordan,0.01
 2015,,Kyrgyzstan,
+2015,,Leban,
 2015,,Nigeria,
 2015,,Russia,
 2015,,Sudan,
@@ -147,16 +153,17 @@ Year,Sex,Origin country,Value
 2016,Men,,0.368
 2016,Women,,0.478
 2016,,Afghanistan,0.007
-2016,,Egypt,
 2016,,Armenia,
 2016,,Azerbaijan,
 2016,,Belarus,
 2016,,Comoro Islands,
+2016,,Egypt,
 2016,,Eritrea,
 2016,,Iraq,
 2016,,Iran,
 2016,,Jordan,0.01
 2016,,Kyrgyzstan,0.082
+2016,,Leban,
 2016,,Nigeria,0.016
 2016,,Russia,
 2016,,Sudan,
@@ -171,16 +178,17 @@ Year,Sex,Origin country,Value
 2017,Men,,0.15
 2017,Women,,0.069
 2017,,Afghanistan,
-2017,,Egypt,
 2017,,Armenia,
 2017,,Azerbaijan,
 2017,,Belarus,
 2017,,Comoro Islands,
+2017,,Egypt,
 2017,,Eritrea,
 2017,,Iraq,
 2017,,Iran,
 2017,,Jordan,
 2017,,Kyrgyzstan,0.032
+2017,,Leban,
 2017,,Nigeria,
 2017,,Russia,
 2017,,Sudan,
@@ -195,16 +203,17 @@ Year,Sex,Origin country,Value
 2018,Men,,0.766
 2018,Women,,0.14
 2018,,Afghanistan,
-2018,,Egypt,
 2018,,Armenia,
 2018,,Azerbaijan,
 2018,,Belarus,
 2018,,Comoro Islands,
+2018,,Egypt,
 2018,,Eritrea,
 2018,,Iraq,
 2018,,Iran,
 2018,,Jordan,
 2018,,Kyrgyzstan,
+2018,,Leban,
 2018,,Nigeria,
 2018,,Russia,
 2018,,Sudan,
@@ -219,16 +228,17 @@ Year,Sex,Origin country,Value
 2019,Men,,0.546
 2019,Women,,0.642
 2019,,Afghanistan,
-2019,,Egypt,
 2019,,Armenia,
 2019,,Azerbaijan,
 2019,,Belarus,
 2019,,Comoro Islands,
+2019,,Egypt,
 2019,,Eritrea,
 2019,,Iraq,
 2019,,Iran,
 2019,,Jordan,
 2019,,Kyrgyzstan,
+2019,,Leban,
 2019,,Nigeria,
 2019,,Russia,
 2019,,Sudan,
@@ -243,16 +253,17 @@ Year,Sex,Origin country,Value
 2020,Men,,2.694
 2020,Women,,1.158
 2020,,Afghanistan,
-2020,,Egypt,
 2020,,Armenia,
 2020,,Azerbaijan,
 2020,,Belarus,
 2020,,Comoro Islands,0.004
+2020,,Egypt,
 2020,,Eritrea,
 2020,,Iraq,
 2020,,Iran,
 2020,,Jordan,
 2020,,Kyrgyzstan,
+2020,,Leban,
 2020,,Nigeria,
 2020,,Russia,0.001
 2020,,Sudan,
@@ -267,16 +278,17 @@ Year,Sex,Origin country,Value
 2021,Men,,0.638
 2021,Women,,0.364
 2021,,Afghanistan,
-2021,,Egypt,
 2021,,Armenia,
 2021,,Azerbaijan,
 2021,,Belarus,0.011
 2021,,Comoro Islands,
+2021,,Egypt,
 2021,,Eritrea,
 2021,,Iraq,
 2021,,Iran,
 2021,,Jordan,
 2021,,Kyrgyzstan,
+2021,,Leban,
 2021,,Nigeria,
 2021,,Russia,
 2021,,Sudan,
@@ -291,16 +303,17 @@ Year,Sex,Origin country,Value
 2022,Men,,1.081
 2022,Women,,0.299
 2022,,Afghanistan,0.007
-2022,,Egypt,
 2022,,Armenia,
 2022,,Azerbaijan,
 2022,,Belarus,0.011
 2022,,Comoro Islands,
+2022,,Egypt,
 2022,,Eritrea,
 2022,,Iraq,
 2022,,Iran,
 2022,,Jordan,
 2022,,Kyrgyzstan,0.011
+2022,,Leban,
 2022,,Nigeria,
 2022,,Russia,
 2022,,Sudan,
@@ -311,3 +324,53 @@ Year,Sex,Origin country,Value
 2022,,Turkey,0.007
 2022,,Ukraine ,
 2022,,Uzbekistan,
+2023,,,0.743
+2023,Men,,1.151
+2023,Women,,0.386
+2023,,Afghanistan,
+2023,,Armenia,
+2023,,Azerbaijan,
+2023,,Belarus,
+2023,,Comoro Islands,
+2023,,Egypt,
+2023,,Eritrea,
+2023,,Iraq,
+2023,,Iran,
+2023,,Jordan,
+2023,,Kyrgyzstan,
+2023,,Leban,
+2023,,Nigeria,
+2023,,Russia,
+2023,,Sudan,
+2023,,Syria,
+2023,,Tajikistan,
+2023,,Turkmenistan,
+2023,,Togo,
+2023,,Turkey,
+2023,,Ukraine ,
+2023,,Uzbekistan,
+2024,,,0.504
+2024,Men,,0.814
+2024,Women,,0.235
+2024,,Afghanistan,0.002
+2024,,Armenia,
+2024,,Azerbaijan,
+2024,,Belarus,0.011
+2024,,Comoro Islands,
+2024,,Egypt,
+2024,,Eritrea,
+2024,,Iraq,
+2024,,Iran,
+2024,,Jordan,
+2024,,Kyrgyzstan,
+2024,,Leban,0.017
+2024,,Nigeria,
+2024,,Russia,
+2024,,Sudan,
+2024,,Syria,
+2024,,Tajikistan,
+2024,,Turkmenistan,
+2024,,Togo,
+2024,,Turkey,0.011
+2024,,Ukraine ,
+2024,,Uzbekistan,

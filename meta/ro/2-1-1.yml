@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 232kB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.1.1: Prevalența malnutriției</p>
 SDG_SERIES_DESCR: ''
@@ -31,21 +31,33 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  <p> „Subnutriția este definită ca fiind starea prin care o persoană are acces, în mod regulat, la o cantitate de alimente insuficientă pentru a-i asigura energia necesară pentru a duce o viață normală, sănătoasă și activă, având în vedere propriile nevoi energetice alimentare.</p> 
+  <p></p> 
+  <p>Deși strict legată, «subnutriția», așa cum este definită aici, este diferită de condițiile fizice de «malnutriție» și «subnutriție», deoarece se referă la starea de aport insuficient de alimente, mai degrabă decât la rezultatul în ceea ce privește starea nutrițională. În franceză, spaniolă și italiană, diferența este marcată de utilizarea termenilor «alimentación», «alimentación» sau «alimentazione», în loc de «nutrition», «nutrición» sau «nutrizione» în numele indicatorului. O expresie mai potrivită în limba engleză, care ar reda sensul precis al indicatorului, ar fi putut fi «prevalența subalimentării», dar până acum termenul «subnutriție» este de mult timp asociat cu indicatorul.</p> 
+  <p></p> 
+  <p>Deși starea de subnutriție se aplică indivizilor, din cauza unor considerații conceptuale și legate de date, indicatorul poate fi referit doar la o populație sau un grup de persoane.” indivizi. Prevalența subnutriției este, așadar, o estimare a procentului de indivizi dintr-un grup care se află în acea condiție, dar nu permite identificarea indivizilor din grup care sunt, de fapt, subnutriți. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  Organizația pentru Alimentație și Agricultură a Națiunilor Unite - FAO
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  <p> Ministerul Sănătății</p> 
+  <p>Ministerul Agriculturii și Industriei Alimentare </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  <p> Pentru a calcula o estimare a prevalenței subnutriției într-o populație, distribuția probabilității nivelurilor de aport energetic alimentar obișnuit (exprimate în kcal pe persoană pe zi) pentru individul mediu este modelată ca o funcție parametrică a densității de probabilitate (pdf), f(x).</p> 
+  <p></p> 
+  <p>Indicatorul se obține ca probabilitatea cumulativă ca aportul energetic alimentar obișnuit (x) să fie sub necesarul minim de energie alimentară (MDER) (adică limita inferioară a intervalului de necesar energetic pentru individul mediu reprezentativ al populației). </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,6 +74,7 @@ source_active_1: true
 source_organisation_1: >-
 source_periodicity_1: >-
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
