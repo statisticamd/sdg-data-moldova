@@ -1,436 +1,271 @@
-Year,Capabilities of the health sector,Capabilities of the health sector (2010-2020),Value
-2010,,,
-2010,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2010,(2) RSI Coordination and National RSI Focal Point,,
-2010,(3) Funding,,
-2010,(4) The laboratory,,
-2010,(5) Supervision,,
-2010,(6) Human resources,,
-2010,(7) Management of health emergencies,,
-2010,(8) Provision of health services,,
-2010,(9) Infection Prevention and Control (IPC),,
-2010,(10) Risk communication and community involvement (RCCE),,
-2010,(11) Points of Entry (PoE) and Border Health,,
-2010,(12) Zoonotic diseases,,
-2010,(13) Food safety,,
-2010,(14) Chemical events,,
-2010,(15) Radiological emergencies,,
-2010,,"(01) national legislation, policies and funding",100.0
-2010,,(02) coordination and liaison with national focal points,75.0
-2010,,(03) supervision,80.0
-2010,,(04) the answer,73.0
-2010,,(05) training,51.0
-2010,,(06) risk communication,50.0
-2010,,(07) human resources,0.0
-2010,,(08) the laboratory,54.0
-2010,,(09) entry points,42.0
-2010,,(10) zoonotic events,92.0
-2010,,(11) food safety,93.0
-2010,,(12) chemical events,50.0
-2010,,(13) radionuclear emergencies,100.0
-2011,,,
-2011,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2011,(2) RSI Coordination and National RSI Focal Point,,
-2011,(3) Funding,,
-2011,(4) The laboratory,,
-2011,(5) Supervision,,
-2011,(6) Human resources,,
-2011,(7) Management of health emergencies,,
-2011,(8) Provision of health services,,
-2011,(9) Infection Prevention and Control (IPC),,
-2011,(10) Risk communication and community involvement (RCCE),,
-2011,(11) Points of Entry (PoE) and Border Health,,
-2011,(12) Zoonotic diseases,,
-2011,(13) Food safety,,
-2011,(14) Chemical events,,
-2011,(15) Radiological emergencies,,
-2011,,"(01) national legislation, policies and funding",100.0
-2011,,(02) coordination and liaison with national focal points,83.0
-2011,,(03) supervision,90.0
-2011,,(04) the answer,93.0
-2011,,(05) training,52.0
-2011,,(06) risk communication,57.0
-2011,,(07) human resources,25.0
-2011,,(08) the laboratory,60.0
-2011,,(09) entry points,77.0
-2011,,(10) zoonotic events,89.0
-2011,,(11) food safety,75.0
-2011,,(12) chemical events,75.0
-2011,,(13) radionuclear emergencies,100.0
-2012,,,
-2012,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2012,(2) RSI Coordination and National RSI Focal Point,,
-2012,(3) Funding,,
-2012,(4) The laboratory,,
-2012,(5) Supervision,,
-2012,(6) Human resources,,
-2012,(7) Management of health emergencies,,
-2012,(8) Provision of health services,,
-2012,(9) Infection Prevention and Control (IPC),,
-2012,(10) Risk communication and community involvement (RCCE),,
-2012,(11) Points of Entry (PoE) and Border Health,,
-2012,(12) Zoonotic diseases,,
-2012,(13) Food safety,,
-2012,(14) Chemical events,,
-2012,(15) Radiological emergencies,,
-2012,,"(01) national legislation, policies and funding",100.0
-2012,,(02) coordination and liaison with national focal points,83.0
-2012,,(03) supervision,95.0
-2012,,(04) the answer,88.0
-2012,,(05) training,40.0
-2012,,(06) risk communication,57.0
-2012,,(07) human resources,20.0
-2012,,(08) the laboratory,66.0
-2012,,(09) entry points,85.0
-2012,,(10) zoonotic events,89.0
-2012,,(11) food safety,67.0
-2012,,(12) chemical events,69.0
-2012,,(13) radionuclear emergencies,100.0
-2013,,,
-2013,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2013,(2) RSI Coordination and National RSI Focal Point,,
-2013,(3) Funding,,
-2013,(4) The laboratory,,
-2013,(5) Supervision,,
-2013,(6) Human resources,,
-2013,(7) Management of health emergencies,,
-2013,(8) Provision of health services,,
-2013,(9) Infection Prevention and Control (IPC),,
-2013,(10) Risk communication and community involvement (RCCE),,
-2013,(11) Points of Entry (PoE) and Border Health,,
-2013,(12) Zoonotic diseases,,
-2013,(13) Food safety,,
-2013,(14) Chemical events,,
-2013,(15) Radiological emergencies,,
-2013,,"(01) national legislation, policies and funding",
-2013,,(02) coordination and liaison with national focal points,
-2013,,(03) supervision,
-2013,,(04) the answer,
-2013,,(05) training,
-2013,,(06) risk communication,
-2013,,(07) human resources,
-2013,,(08) the laboratory,
-2013,,(09) entry points,
-2013,,(10) zoonotic events,
-2013,,(11) food safety,
-2013,,(12) chemical events,
-2013,,(13) radionuclear emergencies,
-2014,,,
-2014,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2014,(2) RSI Coordination and National RSI Focal Point,,
-2014,(3) Funding,,
-2014,(4) The laboratory,,
-2014,(5) Supervision,,
-2014,(6) Human resources,,
-2014,(7) Management of health emergencies,,
-2014,(8) Provision of health services,,
-2014,(9) Infection Prevention and Control (IPC),,
-2014,(10) Risk communication and community involvement (RCCE),,
-2014,(11) Points of Entry (PoE) and Border Health,,
-2014,(12) Zoonotic diseases,,
-2014,(13) Food safety,,
-2014,(14) Chemical events,,
-2014,(15) Radiological emergencies,,
-2014,,"(01) national legislation, policies and funding",100.0
-2014,,(02) coordination and liaison with national focal points,90.0
-2014,,(03) supervision,100.0
-2014,,(04) the answer,88.0
-2014,,(05) training,35.0
-2014,,(06) risk communication,57.0
-2014,,(07) human resources,20.0
-2014,,(08) the laboratory,96.0
-2014,,(09) entry points,64.0
-2014,,(10) zoonotic events,100.0
-2014,,(11) food safety,80.0
-2014,,(12) chemical events,77.0
-2014,,(13) radionuclear emergencies,100.0
-2015,,,
-2015,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2015,(2) RSI Coordination and National RSI Focal Point,,
-2015,(3) Funding,,
-2015,(4) The laboratory,,
-2015,(5) Supervision,,
-2015,(6) Human resources,,
-2015,(7) Management of health emergencies,,
-2015,(8) Provision of health services,,
-2015,(9) Infection Prevention and Control (IPC),,
-2015,(10) Risk communication and community involvement (RCCE),,
-2015,(11) Points of Entry (PoE) and Border Health,,
-2015,(12) Zoonotic diseases,,
-2015,(13) Food safety,,
-2015,(14) Chemical events,,
-2015,(15) Radiological emergencies,,
-2015,,"(01) national legislation, policies and funding",100.0
-2015,,(02) coordination and liaison with national focal points,90.0
-2015,,(03) supervision,100.0
-2015,,(04) the answer,88.0
-2015,,(05) training,35.0
-2015,,(06) risk communication,57.0
-2015,,(07) human resources,20.0
-2015,,(08) the laboratory,96.0
-2015,,(09) entry points,69.0
-2015,,(10) zoonotic events,100.0
-2015,,(11) food safety,80.0
-2015,,(12) chemical events,77.0
-2015,,(13) radionuclear emergencies,100.0
-2016,,,
-2016,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2016,(2) RSI Coordination and National RSI Focal Point,,
-2016,(3) Funding,,
-2016,(4) The laboratory,,
-2016,(5) Supervision,,
-2016,(6) Human resources,,
-2016,(7) Management of health emergencies,,
-2016,(8) Provision of health services,,
-2016,(9) Infection Prevention and Control (IPC),,
-2016,(10) Risk communication and community involvement (RCCE),,
-2016,(11) Points of Entry (PoE) and Border Health,,
-2016,(12) Zoonotic diseases,,
-2016,(13) Food safety,,
-2016,(14) Chemical events,,
-2016,(15) Radiological emergencies,,
-2016,,"(01) national legislation, policies and funding",100.0
-2016,,(02) coordination and liaison with national focal points,100.0
-2016,,(03) supervision,95.0
-2016,,(04) the answer,94.0
-2016,,(05) training,53.0
-2016,,(06) risk communication,57.0
-2016,,(07) human resources,0.0
-2016,,(08) the laboratory,96.0
-2016,,(09) entry points,69.0
-2016,,(10) zoonotic events,100.0
-2016,,(11) food safety,100.0
-2016,,(12) chemical events,92.0
-2016,,(13) radionuclear emergencies,92.0
-2017,,,
-2017,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2017,(2) RSI Coordination and National RSI Focal Point,,
-2017,(3) Funding,,
-2017,(4) The laboratory,,
-2017,(5) Supervision,,
-2017,(6) Human resources,,
-2017,(7) Management of health emergencies,,
-2017,(8) Provision of health services,,
-2017,(9) Infection Prevention and Control (IPC),,
-2017,(10) Risk communication and community involvement (RCCE),,
-2017,(11) Points of Entry (PoE) and Border Health,,
-2017,(12) Zoonotic diseases,,
-2017,(13) Food safety,,
-2017,(14) Chemical events,,
-2017,(15) Radiological emergencies,,
-2017,,"(01) national legislation, policies and funding",
-2017,,(02) coordination and liaison with national focal points,
-2017,,(03) supervision,
-2017,,(04) the answer,
-2017,,(05) training,
-2017,,(06) risk communication,
-2017,,(07) human resources,
-2017,,(08) the laboratory,
-2017,,(09) entry points,
-2017,,(10) zoonotic events,
-2017,,(11) food safety,
-2017,,(12) chemical events,
-2017,,(13) radionuclear emergencies,
-2018,,,
-2018,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2018,(2) RSI Coordination and National RSI Focal Point,,
-2018,(3) Funding,,
-2018,(4) The laboratory,,
-2018,(5) Supervision,,
-2018,(6) Human resources,,
-2018,(7) Management of health emergencies,,
-2018,(8) Provision of health services,,
-2018,(9) Infection Prevention and Control (IPC),,
-2018,(10) Risk communication and community involvement (RCCE),,
-2018,(11) Points of Entry (PoE) and Border Health,,
-2018,(12) Zoonotic diseases,,
-2018,(13) Food safety,,
-2018,(14) Chemical events,,
-2018,(15) Radiological emergencies,,
-2018,,"(01) national legislation, policies and funding",80.0
-2018,,(02) coordination and liaison with national focal points,70.0
-2018,,(03) supervision,60.0
-2018,,(04) the answer,80.0
-2018,,(05) training,53.0
-2018,,(06) risk communication,80.0
-2018,,(07) human resources,40.0
-2018,,(08) the laboratory,53.0
-2018,,(09) entry points,60.0
-2018,,(10) zoonotic events,60.0
-2018,,(11) food safety,60.0
-2018,,(12) chemical events,40.0
-2018,,(13) radionuclear emergencies,40.0
-2019,,,
-2019,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2019,(2) RSI Coordination and National RSI Focal Point,,
-2019,(3) Funding,,
-2019,(4) The laboratory,,
-2019,(5) Supervision,,
-2019,(6) Human resources,,
-2019,(7) Management of health emergencies,,
-2019,(8) Provision of health services,,
-2019,(9) Infection Prevention and Control (IPC),,
-2019,(10) Risk communication and community involvement (RCCE),,
-2019,(11) Points of Entry (PoE) and Border Health,,
-2019,(12) Zoonotic diseases,,
-2019,(13) Food safety,,
-2019,(14) Chemical events,,
-2019,(15) Radiological emergencies,,
-2019,,"(01) national legislation, policies and funding",72.0
-2019,,(02) coordination and liaison with national focal points,70.0
-2019,,(03) supervision,60.0
-2019,,(04) the answer,80.0
-2019,,(05) training,53.0
-2019,,(06) risk communication,80.0
-2019,,(07) human resources,40.0
-2019,,(08) the laboratory,53.0
-2019,,(09) entry points,60.0
-2019,,(10) zoonotic events,60.0
-2019,,(11) food safety,70.0
-2019,,(12) chemical events,40.0
-2019,,(13) radionuclear emergencies,40.0
-2020,,,
-2020,"(1) Political, legal and normative instruments for the implementation of CSR",,
-2020,(2) RSI Coordination and National RSI Focal Point,,
-2020,(3) Funding,,
-2020,(4) The laboratory,,
-2020,(5) Supervision,,
-2020,(6) Human resources,,
-2020,(7) Management of health emergencies,,
-2020,(8) Provision of health services,,
-2020,(9) Infection Prevention and Control (IPC),,
-2020,(10) Risk communication and community involvement (RCCE),,
-2020,(11) Points of Entry (PoE) and Border Health,,
-2020,(12) Zoonotic diseases,,
-2020,(13) Food safety,,
-2020,(14) Chemical events,,
-2020,(15) Radiological emergencies,,
-2020,,"(01) national legislation, policies and funding",73.0
-2020,,(02) coordination and liaison with national focal points,70.0
-2020,,(03) supervision,60.0
-2020,,(04) the answer,80.0
-2020,,(05) training,53.0
-2020,,(06) risk communication,80.0
-2020,,(07) human resources,40.0
-2020,,(08) the laboratory,60.0
-2020,,(09) entry points,60.0
-2020,,(10) zoonotic events,80.0
-2020,,(11) food safety,70.0
-2020,,(12) chemical events,40.0
-2020,,(13) radionuclear emergencies,40.0
-2021,,,
-2021,"(1) Political, legal and normative instruments for the implementation of CSR",,70.0
-2021,(2) RSI Coordination and National RSI Focal Point,,80.0
-2021,(3) Funding,,70.0
-2021,(4) The laboratory,,56.0
-2021,(5) Supervision,,80.0
-2021,(6) Human resources,,30.0
-2021,(7) Management of health emergencies,,73.0
-2021,(8) Provision of health services,,73.0
-2021,(9) Infection Prevention and Control (IPC),,67.0
-2021,(10) Risk communication and community involvement (RCCE),,60.0
-2021,(11) Points of Entry (PoE) and Border Health,,60.0
-2021,(12) Zoonotic diseases,,60.0
-2021,(13) Food safety,,40.0
-2021,(14) Chemical events,,40.0
-2021,(15) Radiological emergencies,,40.0
-2021,,"(01) national legislation, policies and funding",
-2021,,(02) coordination and liaison with national focal points,
-2021,,(03) supervision,
-2021,,(04) the answer,
-2021,,(05) training,
-2021,,(06) risk communication,
-2021,,(07) human resources,
-2021,,(08) the laboratory,
-2021,,(09) entry points,
-2021,,(10) zoonotic events,
-2021,,(11) food safety,
-2021,,(12) chemical events,
-2021,,(13) radionuclear emergencies,
-2022,,,
-2022,"(1) Political, legal and normative instruments for the implementation of CSR",,60.0
-2022,(2) RSI Coordination and National RSI Focal Point,,73.0
-2022,(3) Funding,,80.0
-2022,(4) The laboratory,,68.0
-2022,(5) Supervision,,80.0
-2022,(6) Human resources,,30.0
-2022,(7) Management of health emergencies,,60.0
-2022,(8) Provision of health services,,67.0
-2022,(9) Infection Prevention and Control (IPC),,60.0
-2022,(10) Risk communication and community involvement (RCCE),,67.0
-2022,(11) Points of Entry (PoE) and Border Health,,67.0
-2022,(12) Zoonotic diseases,,60.0
-2022,(13) Food safety,,80.0
-2022,(14) Chemical events,,40.0
-2022,(15) Radiological emergencies,,40.0
-2022,,"(01) national legislation, policies and funding",
-2022,,(02) coordination and liaison with national focal points,
-2022,,(03) supervision,
-2022,,(04) the answer,
-2022,,(05) training,
-2022,,(06) risk communication,
-2022,,(07) human resources,
-2022,,(08) the laboratory,
-2022,,(09) entry points,
-2022,,(10) zoonotic events,
-2022,,(11) food safety,
-2022,,(12) chemical events,
-2022,,(13) radionuclear emergencies,
-2023,,,
-2023,"(1) Political, legal and normative instruments for the implementation of CSR",,50.0
-2023,(2) RSI Coordination and National RSI Focal Point,,73.0
-2023,(3) Funding,,70.0
-2023,(4) The laboratory,,56.0
-2023,(5) Supervision,,80.0
-2023,(6) Human resources,,30.0
-2023,(7) Management of health emergencies,,80.0
-2023,(8) Provision of health services,,80.0
-2023,(9) Infection Prevention and Control (IPC),,60.0
-2023,(10) Risk communication and community involvement (RCCE),,60.0
-2023,(11) Points of Entry (PoE) and Border Health,,73.0
-2023,(12) Zoonotic diseases,,60.0
-2023,(13) Food safety,,60.0
-2023,(14) Chemical events,,40.0
-2023,(15) Radiological emergencies,,60.0
-2023,,"(01) national legislation, policies and funding",
-2023,,(02) coordination and liaison with national focal points,
-2023,,(03) supervision,
-2023,,(04) the answer,
-2023,,(05) training,
-2023,,(06) risk communication,
-2023,,(07) human resources,
-2023,,(08) the laboratory,
-2023,,(09) entry points,
-2023,,(10) zoonotic events,
-2023,,(11) food safety,
-2023,,(12) chemical events,
-2023,,(13) radionuclear emergencies,
-2024,,,
-2024,"(1) Political, legal and normative instruments for the implementation of CSR",,50.0
-2024,(2) RSI Coordination and National RSI Focal Point,,67.0
-2024,(3) Funding,,70.0
-2024,(4) The laboratory,,68.0
-2024,(5) Supervision,,80.0
-2024,(6) Human resources,,40.0
-2024,(7) Management of health emergencies,,73.0
-2024,(8) Provision of health services,,73.0
-2024,(9) Infection Prevention and Control (IPC),,60.0
-2024,(10) Risk communication and community involvement (RCCE),,60.0
-2024,(11) Points of Entry (PoE) and Border Health,,73.0
-2024,(12) Zoonotic diseases,,60.0
-2024,(13) Food safety,,60.0
-2024,(14) Chemical events,,40.0
-2024,(15) Radiological emergencies,,60.0
-2024,,"(01) national legislation, policies and funding",
-2024,,(02) coordination and liaison with national focal points,
-2024,,(03) supervision,
-2024,,(04) the answer,
-2024,,(05) training,
-2024,,(06) risk communication,
-2024,,(07) human resources,
-2024,,(08) the laboratory,
-2024,,(09) entry points,
-2024,,(10) zoonotic events,
-2024,,(11) food safety,
-2024,,(12) chemical events,
-2024,,(13) radionuclear emergencies,
+Year,Capabilities of the health sector,Value
+2010,,
+2010,"(01) national legislation, policies and funding",100.0
+2010,(02) coordination and liaison with national focal points,75.0
+2010,(03) supervision,80.0
+2010,(04) the answer,73.0
+2010,(05) training,51.0
+2010,(06) risk communication,50.0
+2010,(07) human resources,0.0
+2010,(08) the laboratory,54.0
+2010,(09) entry points,42.0
+2010,(10) zoonotic events,92.0
+2010,(11) food safety,93.0
+2010,(12) chemical events,50.0
+2010,(13) radionuclear emergencies,100.0
+2010,funding,
+2010,preparation and response,
+2010,providing medical assistance,
+2010,infection prevention and control,
+2011,,
+2011,"(01) national legislation, policies and funding",100.0
+2011,(02) coordination and liaison with national focal points,83.0
+2011,(03) supervision,90.0
+2011,(04) the answer,93.0
+2011,(05) training,52.0
+2011,(06) risk communication,57.0
+2011,(07) human resources,25.0
+2011,(08) the laboratory,60.0
+2011,(09) entry points,77.0
+2011,(10) zoonotic events,89.0
+2011,(11) food safety,75.0
+2011,(12) chemical events,75.0
+2011,(13) radionuclear emergencies,100.0
+2011,funding,
+2011,preparation and response,
+2011,providing medical assistance,
+2011,infection prevention and control,
+2012,,
+2012,"(01) national legislation, policies and funding",100.0
+2012,(02) coordination and liaison with national focal points,83.0
+2012,(03) supervision,95.0
+2012,(04) the answer,88.0
+2012,(05) training,40.0
+2012,(06) risk communication,57.0
+2012,(07) human resources,20.0
+2012,(08) the laboratory,66.0
+2012,(09) entry points,85.0
+2012,(10) zoonotic events,89.0
+2012,(11) food safety,67.0
+2012,(12) chemical events,69.0
+2012,(13) radionuclear emergencies,100.0
+2012,funding,
+2012,preparation and response,
+2012,providing medical assistance,
+2012,infection prevention and control,
+2013,,
+2013,"(01) national legislation, policies and funding",
+2013,(02) coordination and liaison with national focal points,
+2013,(03) supervision,
+2013,(04) the answer,
+2013,(05) training,
+2013,(06) risk communication,
+2013,(07) human resources,
+2013,(08) the laboratory,
+2013,(09) entry points,
+2013,(10) zoonotic events,
+2013,(11) food safety,
+2013,(12) chemical events,
+2013,(13) radionuclear emergencies,
+2013,funding,
+2013,preparation and response,
+2013,providing medical assistance,
+2013,infection prevention and control,
+2014,,
+2014,"(01) national legislation, policies and funding",100.0
+2014,(02) coordination and liaison with national focal points,90.0
+2014,(03) supervision,100.0
+2014,(04) the answer,88.0
+2014,(05) training,35.0
+2014,(06) risk communication,57.0
+2014,(07) human resources,20.0
+2014,(08) the laboratory,96.0
+2014,(09) entry points,64.0
+2014,(10) zoonotic events,100.0
+2014,(11) food safety,80.0
+2014,(12) chemical events,77.0
+2014,(13) radionuclear emergencies,100.0
+2014,funding,
+2014,preparation and response,
+2014,providing medical assistance,
+2014,infection prevention and control,
+2015,,
+2015,"(01) national legislation, policies and funding",100.0
+2015,(02) coordination and liaison with national focal points,90.0
+2015,(03) supervision,100.0
+2015,(04) the answer,88.0
+2015,(05) training,35.0
+2015,(06) risk communication,57.0
+2015,(07) human resources,20.0
+2015,(08) the laboratory,96.0
+2015,(09) entry points,69.0
+2015,(10) zoonotic events,100.0
+2015,(11) food safety,80.0
+2015,(12) chemical events,77.0
+2015,(13) radionuclear emergencies,100.0
+2015,funding,
+2015,preparation and response,
+2015,providing medical assistance,
+2015,infection prevention and control,
+2016,,
+2016,"(01) national legislation, policies and funding",100.0
+2016,(02) coordination and liaison with national focal points,100.0
+2016,(03) supervision,95.0
+2016,(04) the answer,94.0
+2016,(05) training,53.0
+2016,(06) risk communication,57.0
+2016,(07) human resources,0.0
+2016,(08) the laboratory,96.0
+2016,(09) entry points,69.0
+2016,(10) zoonotic events,100.0
+2016,(11) food safety,100.0
+2016,(12) chemical events,92.0
+2016,(13) radionuclear emergencies,92.0
+2016,funding,
+2016,preparation and response,
+2016,providing medical assistance,
+2016,infection prevention and control,
+2017,,
+2017,"(01) national legislation, policies and funding",
+2017,(02) coordination and liaison with national focal points,
+2017,(03) supervision,
+2017,(04) the answer,
+2017,(05) training,
+2017,(06) risk communication,
+2017,(07) human resources,
+2017,(08) the laboratory,
+2017,(09) entry points,
+2017,(10) zoonotic events,
+2017,(11) food safety,
+2017,(12) chemical events,
+2017,(13) radionuclear emergencies,
+2017,funding,
+2017,preparation and response,
+2017,providing medical assistance,
+2017,infection prevention and control,
+2018,,
+2018,"(01) national legislation, policies and funding",80.0
+2018,(02) coordination and liaison with national focal points,70.0
+2018,(03) supervision,60.0
+2018,(04) the answer,80.0
+2018,(05) training,53.0
+2018,(06) risk communication,80.0
+2018,(07) human resources,40.0
+2018,(08) the laboratory,53.0
+2018,(09) entry points,60.0
+2018,(10) zoonotic events,60.0
+2018,(11) food safety,60.0
+2018,(12) chemical events,40.0
+2018,(13) radionuclear emergencies,40.0
+2018,funding,
+2018,preparation and response,
+2018,providing medical assistance,
+2018,infection prevention and control,
+2019,,
+2019,"(01) national legislation, policies and funding",72.0
+2019,(02) coordination and liaison with national focal points,70.0
+2019,(03) supervision,60.0
+2019,(04) the answer,80.0
+2019,(05) training,53.0
+2019,(06) risk communication,80.0
+2019,(07) human resources,40.0
+2019,(08) the laboratory,53.0
+2019,(09) entry points,60.0
+2019,(10) zoonotic events,60.0
+2019,(11) food safety,70.0
+2019,(12) chemical events,40.0
+2019,(13) radionuclear emergencies,40.0
+2019,funding,
+2019,preparation and response,
+2019,providing medical assistance,
+2019,infection prevention and control,
+2020,,
+2020,"(01) national legislation, policies and funding",73.0
+2020,(02) coordination and liaison with national focal points,70.0
+2020,(03) supervision,60.0
+2020,(04) the answer,80.0
+2020,(05) training,53.0
+2020,(06) risk communication,80.0
+2020,(07) human resources,40.0
+2020,(08) the laboratory,60.0
+2020,(09) entry points,60.0
+2020,(10) zoonotic events,80.0
+2020,(11) food safety,70.0
+2020,(12) chemical events,40.0
+2020,(13) radionuclear emergencies,40.0
+2020,funding,
+2020,preparation and response,
+2020,providing medical assistance,
+2020,infection prevention and control,
+2021,,
+2021,"(01) national legislation, policies and funding",70.0
+2021,(02) coordination and liaison with national focal points,80.0
+2021,(03) supervision,80.0
+2021,(04) the answer,
+2021,(05) training,
+2021,(06) risk communication,60.0
+2021,(07) human resources,30.0
+2021,(08) the laboratory,56.0
+2021,(09) entry points,60.0
+2021,(10) zoonotic events,60.0
+2021,(11) food safety,40.0
+2021,(12) chemical events,40.0
+2021,(13) radionuclear emergencies,40.0
+2021,funding,70.0
+2021,preparation and response,73.0
+2021,providing medical assistance,73.0
+2021,infection prevention and control,67.0
+2022,,
+2022,"(01) national legislation, policies and funding",60.0
+2022,(02) coordination and liaison with national focal points,73.0
+2022,(03) supervision,80.0
+2022,(04) the answer,
+2022,(05) training,
+2022,(06) risk communication,67.0
+2022,(07) human resources,30.0
+2022,(08) the laboratory,68.0
+2022,(09) entry points,67.0
+2022,(10) zoonotic events,60.0
+2022,(11) food safety,80.0
+2022,(12) chemical events,40.0
+2022,(13) radionuclear emergencies,40.0
+2022,funding,80.0
+2022,preparation and response,60.0
+2022,providing medical assistance,67.0
+2022,infection prevention and control,60.0
+2023,,
+2023,"(01) national legislation, policies and funding",
+2023,(02) coordination and liaison with national focal points,
+2023,(03) supervision,
+2023,(04) the answer,
+2023,(05) training,
+2023,(06) risk communication,
+2023,(07) human resources,
+2023,(08) the laboratory,
+2023,(09) entry points,
+2023,(10) zoonotic events,
+2023,(11) food safety,
+2023,(12) chemical events,
+2023,(13) radionuclear emergencies,
+2023,funding,
+2023,preparation and response,
+2023,providing medical assistance,
+2023,infection prevention and control,
+2024,,
+2024,"(01) national legislation, policies and funding",
+2024,(02) coordination and liaison with national focal points,
+2024,(03) supervision,
+2024,(04) the answer,
+2024,(05) training,
+2024,(06) risk communication,
+2024,(07) human resources,
+2024,(08) the laboratory,
+2024,(09) entry points,
+2024,(10) zoonotic events,
+2024,(11) food safety,
+2024,(12) chemical events,
+2024,(13) radionuclear emergencies,
+2024,funding,
+2024,preparation and response,
+2024,providing medical assistance,
+2024,infection prevention and control,

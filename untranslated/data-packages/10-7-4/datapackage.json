@@ -31,16 +31,17 @@
             "constraints": {
               "enum": [
                 "Afghanistan",
-                "Egypt",
                 "Armenia",
                 "Azerbaijan",
                 "Belarus",
                 "Comoro Islands",
+                "Egypt",
                 "Eritrea",
                 "Iraq",
                 "Iran",
                 "Jordan",
                 "Kyrgyzstan",
+                "Leban",
                 "Nigeria",
                 "Russia",
                 "Sudan",
