@@ -13,7 +13,7 @@ target_id: >-
   16.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-02.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
@@ -31,21 +31,28 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  Conflict-related deaths refers to direct and indirect deaths associated to armed conflict (Art.135-144 of the Criminal Code).
 UNIT_MEASURE: >-
   per 100 000 population
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  <p> 1. Automated Information System “Register of Criminalistic and Criminological Information” of the Ministry of Internal Affairs</p> 
+  <p>2. Demographic data on the number of the usually resident population, National Bureau of Statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
+  Ministry of Internal Affairs
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  Number of conflict related deaths per total population *100000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -53,6 +60,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  In the Republic of Moldova, the International Classification of Crimes for Statistical Purposes (ICCS) is not implemented, which ensures the comparability of crimes at international level according to the standards of the United Nations Office for Drugs and Crime (UNDOC).
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -60,9 +68,14 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. National Bureau of Statistics </p>
 source_periodicity_1: >-
+  Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Serghei Nasîpov, Senior Specialist, Information Technology Service of the Ministry of Internal Affairs</p> 
+  <p>e-mail: serghei.nasipov@mai.gov.md, tel. (022) 255-985, (+373) 690-700-44 </p>
 source_other_info_1: >-

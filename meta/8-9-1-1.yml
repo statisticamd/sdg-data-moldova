@@ -30,8 +30,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> It is possible to estimate the share of VAB of the activity "79 Activities of  touristic agencies and of tour-operators; other services of booking and  touristic assistance" in GDP. </p> 
-  <p> The following activities from CAEM will be  considered: I.55 Hotels and other accommodation facilities, N79. Activities of  touristic agencies and those of tour-operators other booking services and  touristic assistance. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -57,12 +55,12 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The methodology for the global indicator is not known, no satellite accounts  are produced for tourism, which would allow estimating the indicator according  to the international standard (estimation for the entire tourism sector)
+  Indicator național
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

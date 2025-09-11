@@ -14,7 +14,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global (PDF)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.3.1: Ponderea victimelor violenței în ultimele 12 luni care au raportat  violența autorităților competente</p>
 SDG_SERIES_DESCR: ''
@@ -36,21 +36,22 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Studiul privind victimizarea UNODC cu colectare a datelor prin sistemul UN-CTS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Inspectoratul General al Poliției al MAI
+  <p> 1. Ministerul Afacerilor Interne</p> 
+  <p>2. Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Afacerilor Interne
+  <p> 1. Ministerul Afacerilor Interne</p> 
+  <p>2. Ministerul Justiției </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Numărul victimelor infracțiunilor de violență care, în ultimele 12 luni, au  depus o plângere la autoritățile competente sau la alte mecanisme de  soluționare a conflictelor recunoscute oficial, raportat la numărul total de  victime a infracțiunilor de violență declarate *100.</p> 
-  <p>  Numărul victimelor  infracțiunii de violență, cât și numărul total al victimelor infracțiunilor de  violență sunt estimării baza sondajelor asupra populației generale, cel mai  adesea sondaje specializate ce vizează victimizarea infracțiunilor. </p>
+  <p> Numărul victimelor infracțiunilor de violență care, în ultimele 12 luni, au  depus o plângere la autoritățile competente sau la alte mecanisme de  soluționare a conflictelor recunoscute oficial, raportat la numărul total de  victime a infracțiunilor de violență declarate în cadrul unei cercetări statistice populaționale*100.</p> 
+  <p>Numărul victimelor  infracțiunilor de violență, cât și numărul total al victimelor infracțiunilor de  violență sunt estimări în baza cercetărilor populaționale prin eșantion, cel mai  adesea cercetări specializate pe victimizare. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -67,7 +68,7 @@ source_active_1: true
 source_organisation_1: >-
   Inspectoratul General al Poliției al MAI
 source_periodicity_1: >-
-  Odată la câțiva ani
+  O dată la câțiva ani
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

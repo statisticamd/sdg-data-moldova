@@ -36,21 +36,22 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  UNODC study on victimization with data collection through UN-CTS system
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  General Police Inspectorate of the Ministry of Internal Affairs
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. National Bureau of Statisticss </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Internal Affairs
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. Ministry of Justice </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of victims of violence, over the last 12 months, who lodged a compliant  with the competent authorities or other officially recognised mechanisms for  conflict settlement, out of the total number of declared victims of violence  *100.</p> 
-  <p>  The number of violence victims, as well as the total number of  victims of violence crime are estimated based on general population surveys,  most frequently specialised surveys related to victimization. </p>
+  <p> The number of victims of violent crimes who, in the past 12 months, have filed a complaint with the competent authorities or with other officially recognized conflict resolution mechanisms, relative to the total number of victims of violent crimes reported in a population-based statistical survey 100.</p> 
+  <p>Both the number of victims of violent crimes and the total number of victims of violent crimes are estimates based on population sample surveys, most often specialized victimization surveys. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
