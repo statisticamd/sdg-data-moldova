@@ -20,6 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "(1) Politici, instrumente legale și normative pentru implementarea RSI",
+                "(2) Coordonare RSI, Punct focal național RSI, funcții și advocacy",
+                "(3) Finanțare",
+                "(4) Laboratorul",
+                "5) Supravegherea",
+                "(6) Resursele umane",
+                "(7) Managementul urgențelor de sănătate",
+                "(8) Asigurarea serviciilor de asistență medicală",
+                "(9) Profilaxia și controlul infecțiilor",
+                "(10) Comunicarea riscurilor și implicarea comunității (RCCE)",
+                "(11) Punctele de intrare (PoE) și sănătatea la frontiere",
+                "(12) Evenimente zoonotice",
+                "(13) Siguranța alimentelor",
+                "(14) Evenimente  chimice",
+                "(15) Urgențe radionucleare",
+                ""
+              ]
+            },
+            "title": "Capacități ale sectorului de sănătate"
+          },
+          {
+            "name": "Capabilities of the health sector (2010-2020)",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "(01) legislația, politicile  și finanțarea națională",
                 "(02) coordonarea și legătura cu punctele focale  naționale",
                 "(03) supravegherea",
@@ -33,14 +58,10 @@
                 "(11) siguranța alimentelor",
                 "(12) evenimente  chimice",
                 "(13) urgențe radionucleare",
-                "finanțare",
-                "pregătirea și răspunsul",
-                "asigurarea asistenței medicale",
-                "profilaxia și controlul infecțiilor",
                 ""
               ]
             },
-            "title": "Capacități ale sectorului de sănătate"
+            "title": "Capacitățile sectorului medical (2010-2020)"
           },
           {
             "name": "Value",
