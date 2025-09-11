@@ -4,6 +4,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 4.1: Până în 2030, asigurarea finalizează învățământul primar și secundar gratuit, echitabil și de calitate, care să conducă la rezultate relevante și eficiente ale învățării pentru fete și băieți</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Educational, Scientific and Cultural Organization (UNESCO)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -12,7 +13,9 @@ target_id: >-
   4.1
 SDG_TARGET: ''
 GOAL_META_LINK: >-
+  https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-02.pdf
 GOAL_META_LINK_TEXT: >-
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 4.1.2.1: Rata brută de admisie în ultimul an de studiu al învățământului primar și al învățământului gimnazial</p>
 SDG_SERIES_DESCR: ''
@@ -60,6 +63,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
