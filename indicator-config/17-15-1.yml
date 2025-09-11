@@ -40,10 +40,9 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
 sources: []
 standalone: false
-tags:
-  - Global adjusted
+tags: []
 x_axis_label: ''

@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.4.2.1: NA</p>
+  <p>Indicator 16.4.2.1: Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16.4: 16.4 By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organizedcrime</p>
+  <p>Target 16.4: By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNODC, UNODA
+  UNODC,UNODA
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -37,14 +37,14 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) administrative statistical data on record-keeping of arms and munitions  with civil destination - Ministry of Internal Affairs</p> 
-  <p>  2) demographic data on number of population  - National Bureau of Statistics </p>
+  <p> 1. Automated Information System “State Register of Firearms”, General Police Inspectorate of the MIA</p> 
+  <p> 2. Demographic data on number of population, NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1.General Police Inspectorate of the Ministry of Internal Affairs</p> 
-  <p>   2.National Bureau of Statistics </p>
+  <p>2.National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Internal Affairs
@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number of persons holding an arm permit out of the total number of  population *100000.
+  The total number of legally owned firearms (with a valid firearm permit) relative to the total population 100,000.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -65,7 +65,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
+  2
 source_active_1: true
 source_organisation_1: >-
   General Police Inspectorate of the Ministry of Internal Affairs
@@ -75,5 +75,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  Head of the Weapons Movement Supervision Section of the Directorate for Weapons Supervision and Licensed Activities of the National Public Security Inspectorate, Chief Commissioner Țurcan, Ion email- ion.turcan_dgsp@igp.gov.md, tel. 076745660
+  <p> Ion Țurcan, Head of the Firearms Circulation Supervision Section, Directorate for Supervision of Firearms and Licensed Activities, National Inspectorate for Public Security</p> 
+  <p>e-mail: ion.turcan_dgsp@igp.gov.md, tel. 076745660 </p>
 source_other_info_1: >-

@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.4.2.2: NA</p>
+  <p>Indicator 16.4.2.2: Ponderea armelor confiscate, depistate sau predate, originea sau contextul ilegal al căror a fost urmărită sau stabilită de către o autoritate competentă în conformitate cu instrumentele internaționale</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.4: Până în 2030, reducerea semnificativă a fluxurilor ilicite financiare și de  armament, consolidarea  recuperării și returnării bunurilor furate și  combaterea tuturor formelor de crimă organizată</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNODC, UNODA
+  UNODC,UNODA
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,11 +33,11 @@ IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Armă -obiect sau dispozitiv, conceput sau adaptat, prin care un plumb, un  glonț ori un alt proiectil sau o substanță nocivă gazoasă, lichidă ori în altă  stare, pot fi descărcate cu ajutorul unei presiuni explozive, gazoase sau  atmosferice ori prin intermediul unor alți agenți propulsori, în măsura în  care se regăsește în una din categoriile prevăzute la anexa nr. 1 din Legea   nr. 130 nr.130 din  08.06.2012 privind regimul armelor și al munițiilor cu  destinație civilă. Deținere ilegală a unei arme de foc - deținerea fără  autorizația corespunzătoare emisă de către autoritatea competentă a unei arme  de foc. Ministerul Afacerilor Interne este autoritatea competentă care  exercită autorizarea, evidența, controlul și supravegherea privind deținerea,  portul și folosirea armelor și a munițiilor, precum și privind operațiunile cu  acestea, fiind unica autoritate competentă care reprezintă Republica Moldova  în cadrul transferurilor și notificărilor privind armele și munițiile.
 UNIT_MEASURE: >-
-  număr
+  Număr
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  date statistice administrative privind evidența armelor și munițiilor cu  destinație civilă
+  Sistemul informaţional automatizat„Registrul de stat al armelor”, Inspectoratul General al Poliției, MAI
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -58,20 +58,21 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Indicatorul global este definit ca proporție a doi indicatori diferiți de cel  național. Cel național este doar o parte a numărătorului indicatorului global  și este definit ca număr absolut
+  Indicatorul global este definit ca proporție a doi indicatori diferiți de cel  național. Cel național este doar o parte a numărătorului indicatorului global  și este definit ca număr absolut.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
+  2
 source_active_1: true
 source_organisation_1: >-
   Inspectoratul General al Poliției al MAI
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
-  Șef al Secției supraveghere circulație armament  a Direcției supraveghere armament și activități licențiate a Inspectoratului național de securitate publică, comisar principal Ion Țurcan, email ion.turcan_dgsp@igp.gov.md, tel. 076745660
+  <p> Ion Țurcan, Șef al Secției supraveghere circulație armament  a Direcției supraveghere armament și activități licențiate, Inspectoratului Național de Securitate Publică</p> 
+  <p>email ion.turcan_dgsp@igp.gov.md , tel. 076745660 </p>
 source_other_info_1: >-
