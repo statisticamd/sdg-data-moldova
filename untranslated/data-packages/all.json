@@ -1599,7 +1599,7 @@
             }
           },
           {
-            "name": "Types of offences",
+            "name": "Type of offence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1630,9 +1630,10 @@
           },
           {
             "name": "Citizenship",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "xx",
                 ""
               ]
             }

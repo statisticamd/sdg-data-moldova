@@ -1735,7 +1735,7 @@
             "title": "Sex"
           },
           {
-            "name": "Types of offences",
+            "name": "Type of offence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1743,7 +1743,7 @@
                 ""
               ]
             },
-            "title": "Types of offences"
+            "title": "Type of offence"
           },
           {
             "name": "Ethnicity",
@@ -1769,9 +1769,10 @@
           },
           {
             "name": "Citizenship",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "xx",
                 ""
               ]
             },

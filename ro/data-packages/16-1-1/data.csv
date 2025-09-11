@@ -110,7 +110,7 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2017,,0-17 ani,,,0.839
 2017,,18 ani și peste,,,6.375
 2017,,,Arme de foc şi substanţe explozive,,0.513
-2017,,,"Arme albe (cuţit, obiect înţepător)",,1.612
+2017,,,"Arme albe (cuţit, obiect înţepător)",,1.5
 2017,,,"Instrumente (rangă, topor, ciocan etc.)",,0.476
 2017,,,Alte mijloace,,2.564
 2017,,,,Răzbunare,0.22
@@ -125,7 +125,7 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2018,,0-17 ani,,,0.856
 2018,,18 ani și peste,,,7.427
 2018,,,Arme de foc şi substanţe explozive,,0.484
-2018,,,"Arme albe (cuţit, obiect înţepător)",,1.639
+2018,,,"Arme albe (cuţit, obiect înţepător)",,1.5
 2018,,,"Instrumente (rangă, topor, ciocan etc.)",,0.559
 2018,,,Alte mijloace,,3.501
 2018,,,,Răzbunare,0.186
@@ -140,7 +140,7 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2019,,0-17 ani,,,1.398
 2019,,18 ani și peste,,,7.917
 2019,,,Arme de foc şi substanţe explozive,,0.605
-2019,,,"Arme albe (cuţit, obiect înţepător)",,2.005
+2019,,,"Arme albe (cuţit, obiect înţepător)",,1.8
 2019,,,"Instrumente (rangă, topor, ciocan etc.)",,0.34
 2019,,,Alte mijloace,,3.556
 2019,,,,Răzbunare,0.454
@@ -149,13 +149,13 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2019,,,,Motiv legat de relaţii familiare,0.567
 2019,,,,La comandă,0.0
 2019,,,,Alte motive,3.556
-2020,,,,,4.721
-2020,Bărbați,,,,7.102
+2020,,,,,4.6
+2020,Bărbați,,,,6.9
 2020,Femei,,,,2.548
-2020,,0-17 ani,,,1.237
-2020,,18 ani și peste,,,5.677
+2020,,0-17 ani,,,1.1
+2020,,18 ani și peste,,,5.6
 2020,,,Arme de foc şi substanţe explozive,,0.495
-2020,,,"Arme albe (cuţit, obiect înţepător)",,1.523
+2020,,,"Arme albe (cuţit, obiect înţepător)",,1.4
 2020,,,"Instrumente (rangă, topor, ciocan etc.)",,0.267
 2020,,,Alte mijloace,,2.437
 2020,,,,Răzbunare,0.076
@@ -163,14 +163,14 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2020,,,,Ceartă,1.523
 2020,,,,Motiv legat de relaţii familiare,0.381
 2020,,,,La comandă,0.0
-2020,,,,Alte motive,2.513
+2020,,,,Alte motive,2.4
 2021,,,,,4.133
 2021,Bărbați,,,,7.224
 2021,Femei,,,,1.336
 2021,,0-17 ani,,,0.542
 2021,,18 ani și peste,,,5.12
 2021,,,Arme de foc şi substanţe explozive,,0.585
-2021,,,"Arme albe (cuţit, obiect înţepător)",,1.715
+2021,,,"Arme albe (cuţit, obiect înţepător)",,1.5
 2021,,,"Instrumente (rangă, topor, ciocan etc.)",,0.429
 2021,,,Alte mijloace,,1.403
 2021,,,,Răzbunare,0.156
@@ -182,10 +182,10 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2022,,,,,4.537
 2022,Bărbați,,,,6.989
 2022,Femei,,,,2.339
-2022,,0-17 ani,,,0.743
+2022,,0-17 ani,,,0.8
 2022,,18 ani și peste,,,5.572
 2022,,,Arme de foc şi substanţe explozive,,0.239
-2022,,,"Arme albe (cuţit, obiect înţepător)",,1.632
+2022,,,"Arme albe (cuţit, obiect înţepător)",,1.4
 2022,,,"Instrumente (rangă, topor, ciocan etc.)",,0.478
 2022,,,Alte mijloace,,2.189
 2022,,,,Răzbunare,0.08
@@ -194,18 +194,33 @@ Year,Sex,Grupa de vârstă  a victimei,Mijloace de săvîrșire,Contextul/motivu
 2022,,,,Motiv legat de relaţii familiare,0.239
 2022,,,,La comandă,0.0
 2022,,,,Alte motive,2.428
-2023,,,,,3.104
-2023,Bărbați,,,,4.8
-2023,Femei,,,,1.585
-2023,,0-17 ani,,,0.557
-2023,,18 ani și peste,,,3.799
+2023,,,,,5.0
+2023,Bărbați,,,,7.9
+2023,Femei,,,,2.6
+2023,,0-17 ani,,,0.4
+2023,,18 ani și peste,,,6.3
 2023,,,Arme de foc şi substanţe explozive,,0.199
-2023,,,"Arme albe (cuţit, obiect înţepător)",,1.194
-2023,,,"Instrumente (rangă, topor, ciocan etc.)",,0.199
-2023,,,Alte mijloace,,0.119
-2023,,,,Răzbunare,0.04
-2023,,,,Gelozie,0.04
-2023,,,,Ceartă,0.995
-2023,,,,Motiv legat de relaţii familiare,0.239
+2023,,,"Arme albe (cuţit, obiect înţepător)",,2.1
+2023,,,"Instrumente (rangă, topor, ciocan etc.)",,0.3
+2023,,,Alte mijloace,,2.0
+2023,,,,Răzbunare,0.3
+2023,,,,Gelozie,0.0
+2023,,,,Ceartă,0.0
+2023,,,,Motiv legat de relaţii familiare,0.2
 2023,,,,La comandă,0.0
-2023,,,,Alte motive,1.791
+2023,,,,Alte motive,3.7
+2024,,,,,4.5
+2024,Bărbați,,,,6.2
+2024,Femei,,,,2.9
+2024,,0-17 ani,,,1.012
+2024,,18 ani și peste,,,5.4
+2024,,,Arme de foc şi substanţe explozive,,0.168
+2024,,,"Arme albe (cuţit, obiect înţepător)",,1.394
+2024,,,"Instrumente (rangă, topor, ciocan etc.)",,0.252
+2024,,,Alte mijloace,,2.352
+2024,,,,Răzbunare,0.168
+2024,,,,Gelozie,0.168
+2024,,,,Ceartă,1.554
+2024,,,,Motiv legat de relaţii familiare,0.378
+2024,,,,La comandă,0.0
+2024,,,,Alte motive,2.184
