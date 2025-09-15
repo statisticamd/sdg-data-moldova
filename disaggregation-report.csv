@@ -6,7 +6,7 @@ Age group (neglected),1,4
 Age group of the victim,1,2
 Age group / Sex,3,16
 Age group (subjected to violence),1,4
-Age group,41,58
+Age group,43,59
 "Age groups of head of household, years",3,6
 Age group/sex,1,8
 Agricultural sector,1,3
@@ -34,7 +34,8 @@ Cities,1,6
 Citizenship,1,3
 Civil Society Development Strategy 2018-2020,1,1
 Civil Society Organizations Development Program 2024-2027,1,3
-Classes of disasters,7,4
+Clase situațiilor excepționale,1,4
+Classes of disasters,9,4
 Coal,1,4
 Componente,1,13
 Components of integrated water resources management (iwrm),1,4
@@ -48,7 +49,7 @@ Disability (subjected to violence),1,1
 Disability,2,4
 Disbursement,1,2
 Discrimination criteria,2,12
-Districts,1,38
+Districts,2,39
 Domains,1,4
 Duration of arrest,1,4
 Economic activities,4,8
@@ -75,6 +76,7 @@ Forms of violence ,1,3
 Function type,1,3
 General objectives,1,3
 Groups of persons,1,2
+Grupa de vârstă,1,2
 "Health workers per 10.000 population, in teritorial aspect",1,39
 High-risk population categories,1,3
 Home heating systems - rural,1,3
@@ -140,7 +142,7 @@ Sex (neglected),1,2
 Sex of the head of the household,7,2
 Sex of the petitioner,1,2
 Sex (subjected to violence),1,2
-Sex,65,4
+Sex,68,6
 Sheep,1,2
 Socio-economic status of pupils,2,2
 Speeds,1,5
