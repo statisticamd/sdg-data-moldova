@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.3.1.f: NA</p>
+  <p>Indicator 1.3.1.f: Proporția populației ocupate acoperite în caz de accident de muncă</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.3: Implementarea unor sisteme de protecție socială adecvate la nivel național și  a măsurilor necesare,  inclusiv pentru toate nivelurile, pentru o acoperire  substanțială a celor săraci și vulnerabili până în 2030</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -45,22 +45,22 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) CNAS - Forma 670 și 672. Darea de seamă cu privire la indemnizația de incapacitate temporară de muncă;</p> 
-  <p>  2) numărul persoanelor ocupate-BNS (Ancheta  Forței de Muncă) </p>
+  <p> 1. Sistemul Informațional „Protecția Socială” (Forma 670 și 672: Darea de seamă cu privire la indemnizația de incapacitate temporară de muncă), CNAS;</p> 
+  <p>2. Ancheta  Forței de Muncă (Numărul persoanelor ocupate), BNS. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Casa Națională de Asigurări Sociale</p> 
-  <p>2) Biroul Național de Statistică </p>
+  <p> 1. Casa Națională de Asigurări Sociale</p> 
+  <p>2. Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Sănătății, Muncii și Protecției Sociale
+  Ministerul Muncii și Protecției Sociale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul persoanelor care beneficiază de indemnizații pentru incapacitate  temporară de muncă cauzată de accidente de muncă și boli profesionale raportat  la numărul total al populației ocupate X 100.
+  Numărul persoanelor care beneficiază de indemnizații pentru incapacitate  temporară de muncă cauzată de accidente de muncă și boli profesionale, indemnizații de dizabilitate și de deces raportat  la numărul total al populației ocupate X 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -75,12 +75,16 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Casa Națională de Asigurări Sociale. (Prin Legea nr.311/2018 a fost modificat art.5 la Legea nr.289/2004 privind indemnizaţiile pentru incapacitate temporară de muncă şi alte prestaţii de asigurări sociale. Respectiv, datele au fost disponibile în SI CNAS începînd cu 01.07.2019, iar indemnizațiile de incapacitate temporară de muncă pînă la 30.06.2019 au fost stabilite și plătite de către angajatori la locul de muncă).</p> 
-  <p>2) Biroul Național de Statistică </p>
+  <p> 1. Casa Națională de Asigurări Sociale (Prin Legea nr.311/2018 a fost modificat art.5 la Legea nr.289/2004 privind indemnizaţiile pentru incapacitate temporară de muncă şi alte prestaţii de asigurări sociale. Respectiv, datele sunt  disponibile în SI CNAS începînd cu 01.07.2019, până la 30.06.2019 indemnizațiile pentru incapacitatea de muncă au fost stabilite și plătite de către angajatori la locul de muncă).</p> 
+  <p>2. Biroul Național de Statistică </p>
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  <p> 1. Liliana Vinteniuc, Șefă interimară direcția statistică și cheltuieli de organizare, Casa Națională de Asigurări Sociale,</p> 
+  <p>e-mail: liliana.vinteniuc@cnas.gov.md, tel. 022-257-674.</p> 
+  <p>2. Nadejda Cojocari, Șefa direcției statistica serviciilor sociale, Biroul Național de Statistică</p> 
+  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. 067770651. </p>
 source_other_info_1: >-

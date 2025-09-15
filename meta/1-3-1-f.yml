@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.3.1.f: NA</p>
+  <p>Indicator 1.3.1.f: Proportion of employed population covered in the event of work injury</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.3: Implement nationally appropriate social protection systems and measures for  all, including floors, and by 2030 achieve substantial coverage of the poor  and the vulnerable</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -45,22 +45,22 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) NSIH - Form 670 and 672.  Report on temporary incapacity benefit,</p> 
-  <p>2) number of employed persons - NBS (Labour  Force Survey) </p>
+  <p> 1. Information System “Social Protection” (Forms 670 and 672: Report on Temporary Work Incapacity Allowance), NOSI;</p> 
+  <p>2. Labour Force Survey (Number of employed persons), NBS. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. National Social Insurance House</p> 
+  <p> 1. National Office of Social Insurance </p> 
   <p>2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Health, Labour and Social Protection
+  Ministry of Labour and Social Protection
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of persons who benefit from allowances for temporary work incapacity,  cause by work accidents and occupational diseases out of the total number of  employed population X 100.
+  The number of persons receiving benefits for temporary incapacity to work caused by occupational accidents and diseases, disability benefits, and death benefits, relative to the total employed population × 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -75,12 +75,16 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) National Social Insurance House (Law no.311/2018 amended art.5 of Law no.289/2004 on allowances for temporary incapacity for work and other social security benefits. Respectively, data were available in the NSIH IS starting from 01.07.2019, and temporary incapacity benefits until 30.06.2019 were established and paid by employers at the workplace).</p> 
-  <p>2) National Bureau of Statistics </p>
+  <p> 1. National Office of Social Insurance (Law no.311/2018 amended art.5 of Law no.289/2004 on allowances for temporary incapacity for work and other social security benefits. Respectively, data are available in the NOSI informational system starting from 01.07.2019, until 30.06.2019 the allowances for temporary incapacity for work were established and paid by employers at the workplace).</p> 
+  <p>2. National Bureau of Statistics </p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Liliana Vinteniuc, Acting Head of the Statistics and Organizational Expenditure Division, National Office of Social Insurance,</p> 
+  <p>e-mail: liliana.vinteniuc@cnas.gov.md, tel. +373 22 257 674.</p> 
+  <p>Nadejda Cojocari, Head of the Social Services Statistics Division, National Bureau of Statistics</p> 
+  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. +373 67 770 651. </p>
 source_other_info_1: >-
