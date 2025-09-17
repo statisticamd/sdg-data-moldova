@@ -6798,9 +6798,21 @@
             "constraints": {
               "enum": [
                 "Biomass",
+                "Coal",
+                "Crop residues",
+                "Crops",
+                "Ferrous ores",
                 "Fossil fuels",
+                "Natural gas",
+                "Grazed biomass and fodder crops",
                 "Metal ores",
                 "Non-ferrous ores",
+                "Non-metallic minerals - industrial or agricultural dominant",
+                "Non-metallic minerals - construction dominant",
+                "Non-metallic minerals",
+                "Petroleum",
+                "Wild catch and harvest",
+                "Wood",
                 ""
               ]
             }
@@ -12807,9 +12819,21 @@
             "constraints": {
               "enum": [
                 "Biomass",
+                "Coal",
+                "Crop residues",
+                "Crops",
+                "Ferrous ores",
                 "Fossil fuels",
+                "Natural gas",
+                "Grazed biomass and fodder crops",
                 "Metal ores",
                 "Non-ferrous ores",
+                "Non-metallic minerals - industrial or agricultural dominant",
+                "Non-metallic minerals - construction dominant",
+                "Non-metallic minerals",
+                "Petroleum",
+                "Wild catch and harvest",
+                "Wood",
                 ""
               ]
             }

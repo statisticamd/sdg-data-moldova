@@ -7361,9 +7361,21 @@
             "constraints": {
               "enum": [
                 "Biomasă",
+                "Cărbune",
+                "Resturi de culturi agricole (reziduuri vegetale)",
+                "Culturi agricole",
+                "Ferrous ores",
                 "Combustibili fosili",
+                "Gaze naturale",
+                "Biomasă pășunată și culturi furajere",
                 "Minereuri metalice",
-                "Non-ferrous ores",
+                "Minereuri neferoase",
+                "Minerale nemetalice – cu utilizare industrială/agricolă dominantă",
+                "Minerale nemetalice – cu utilizare în construcții dominantă",
+                "Minerale nemetalice",
+                "Petrol brut",
+                "Capturi și produse din recoltă sălbatică",
+                "Lemn",
                 ""
               ]
             },
@@ -13884,9 +13896,21 @@
             "constraints": {
               "enum": [
                 "Biomasă",
+                "Cărbune",
+                "Resturi de culturi agricole (reziduuri vegetale)",
+                "Culturi agricole",
+                "Ferrous ores",
                 "Combustibili fosili",
+                "Gaze naturale",
+                "Biomasă pășunată și culturi furajere",
                 "Minereuri metalice",
-                "Non-ferrous ores",
+                "Minereuri neferoase",
+                "Minerale nemetalice – cu utilizare industrială/agricolă dominantă",
+                "Minerale nemetalice – cu utilizare în construcții dominantă",
+                "Minerale nemetalice",
+                "Petrol brut",
+                "Capturi și produse din recoltă sălbatică",
+                "Lemn",
                 ""
               ]
             },
