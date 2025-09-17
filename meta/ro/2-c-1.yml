@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.c.1: Indicele prețurilor pentru produse agroalimentare (anomalii sezoniere)</p>
 SDG_SERIES_DESCR: ''
@@ -38,7 +38,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  FAO
+  FAO, Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -70,7 +70,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Anual
 source_url_1: >-
-  https://www.fao.org/sustainable-development-goals-data-portal/data/indicators/2c1---indicator-of-(food)-price-anomalies/en
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

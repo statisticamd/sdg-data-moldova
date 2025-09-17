@@ -1,76 +1,239 @@
 Year,Types of resources,Value
-2010,,7.253
-2010,Biomass,3.799
-2010,Fossil fuels,0.245
-2010,Metal ores,0.037
-2010,Non-ferrous ores,0.002
-2011,,7.69
-2011,Biomass,3.898
-2011,Fossil fuels,0.252
-2011,Metal ores,0.04
-2011,Non-ferrous ores,0.001
-2012,,8.69
-2012,Biomass,3.515
-2012,Fossil fuels,0.242
-2012,Metal ores,0.046
-2012,Non-ferrous ores,0.004
-2013,,9.308
-2013,Biomass,4.424
-2013,Fossil fuels,0.259
-2013,Metal ores,0.051
-2013,Non-ferrous ores,0.002
+2010,,
+2010,Biomass,
+2010,Coal,
+2010,Crop residues,
+2010,Crops,
+2010,Ferrous ores,
+2010,Fossil fuels,
+2010,Natural gas,
+2010,Grazed biomass and fodder crops,
+2010,Metal ores,
+2010,Non-ferrous ores,
+2010,Non-metallic minerals - industrial or agricultural dominant,
+2010,Non-metallic minerals - construction dominant,
+2010,Non-metallic minerals,
+2010,Petroleum,
+2010,Wild catch and harvest,
+2010,Wood,
+2011,,
+2011,Biomass,
+2011,Coal,
+2011,Crop residues,
+2011,Crops,
+2011,Ferrous ores,
+2011,Fossil fuels,
+2011,Natural gas,
+2011,Grazed biomass and fodder crops,
+2011,Metal ores,
+2011,Non-ferrous ores,
+2011,Non-metallic minerals - industrial or agricultural dominant,
+2011,Non-metallic minerals - construction dominant,
+2011,Non-metallic minerals,
+2011,Petroleum,
+2011,Wild catch and harvest,
+2011,Wood,
+2012,,
+2012,Biomass,
+2012,Coal,
+2012,Crop residues,
+2012,Crops,
+2012,Ferrous ores,
+2012,Fossil fuels,
+2012,Natural gas,
+2012,Grazed biomass and fodder crops,
+2012,Metal ores,
+2012,Non-ferrous ores,
+2012,Non-metallic minerals - industrial or agricultural dominant,
+2012,Non-metallic minerals - construction dominant,
+2012,Non-metallic minerals,
+2012,Petroleum,
+2012,Wild catch and harvest,
+2012,Wood,
+2013,,
+2013,Biomass,
+2013,Coal,
+2013,Crop residues,
+2013,Crops,
+2013,Ferrous ores,
+2013,Fossil fuels,
+2013,Natural gas,
+2013,Grazed biomass and fodder crops,
+2013,Metal ores,
+2013,Non-ferrous ores,
+2013,Non-metallic minerals - industrial or agricultural dominant,
+2013,Non-metallic minerals - construction dominant,
+2013,Non-metallic minerals,
+2013,Petroleum,
+2013,Wild catch and harvest,
+2013,Wood,
 2014,,10.085
 2014,Biomass,4.902
+2014,Coal,0.044
+2014,Crop residues,2.62
+2014,Crops,1.485
+2014,Ferrous ores,0.054
 2014,Fossil fuels,0.234
+2014,Natural gas,0.188
+2014,Grazed biomass and fodder crops,0.467
 2014,Metal ores,0.056
 2014,Non-ferrous ores,0.003
+2014,Non-metallic minerals - industrial or agricultural dominant,1.101
+2014,Non-metallic minerals - construction dominant,3.178
+2014,Non-metallic minerals,4.279
+2014,Petroleum,0.002
+2014,Wild catch and harvest,0.007
+2014,Wood,0.323
 2015,,7.553
 2015,Biomass,3.64
+2015,Coal,0.051
+2015,Crop residues,1.874
+2015,Crops,1.006
+2015,Ferrous ores,0.053
 2015,Fossil fuels,0.236
+2015,Natural gas,0.184
+2015,Grazed biomass and fodder crops,0.44
 2015,Metal ores,0.056
 2015,Non-ferrous ores,0.003
+2015,Non-metallic minerals - industrial or agricultural dominant,0.058
+2015,Non-metallic minerals - construction dominant,2.923
+2015,Non-metallic minerals,2.982
+2015,Petroleum,0.002
+2015,Wild catch and harvest,0.006
+2015,Wood,0.314
 2016,,8.321
 2016,Biomass,4.628
+2016,Coal,0.031
+2016,Crop residues,2.546
+2016,Crops,1.318
+2016,Ferrous ores,0.057
 2016,Fossil fuels,0.225
-2016,Metal ores,0.062
+2016,Natural gas,0.192
+2016,Grazed biomass and fodder crops,0.434
+2016,Metal ores,0.061
 2016,Non-ferrous ores,0.004
+2016,Non-metallic minerals - industrial or agricultural dominant,0.071
+2016,Non-metallic minerals - construction dominant,2.676
+2016,Non-metallic minerals,2.746
+2016,Petroleum,0.002
+2016,Wild catch and harvest,0.007
+2016,Wood,0.323
 2017,,9.477
 2017,Biomass,5.328
-2017,Fossil fuels,0.258
+2017,Coal,0.063
+2017,Crop residues,3.031
+2017,Crops,1.501
+2017,Ferrous ores,0.057
+2017,Fossil fuels,0.259
+2017,Natural gas,0.194
+2017,Grazed biomass and fodder crops,0.47
 2017,Metal ores,0.063
-2017,Non-ferrous ores,0
-2018,,10.48
+2017,Non-ferrous ores,0.007
+2017,Non-metallic minerals - industrial or agricultural dominant,0.088
+2017,Non-metallic minerals - construction dominant,2.913
+2017,Non-metallic minerals,3.001
+2017,Petroleum,0.002
+2017,Wild catch and harvest,0.007
+2017,Wood,0.319
+2018,,10.484
 2018,Biomass,5.595
+2018,Coal,0.046
+2018,Crop residues,3.26
+2018,Crops,1.559
+2018,Ferrous ores,0.06
 2018,Fossil fuels,0.262
+2018,Natural gas,0.215
+2018,Grazed biomass and fodder crops,0.447
 2018,Metal ores,0.066
-2018,Non-ferrous ores,0.005
+2018,Non-ferrous ores,0.006
+2018,Non-metallic minerals - industrial or agricultural dominant,0.111
+2018,Non-metallic minerals - construction dominant,3.586
+2018,Non-metallic minerals,3.697
+2018,Petroleum,0.002
+2018,Wild catch and harvest,0.007
+2018,Wood,0.323
 2019,,10.4
 2019,Biomass,5.56
+2019,Coal,0.047
+2019,Crop residues,3.375
+2019,Crops,1.451
+2019,Ferrous ores,0.069
 2019,Fossil fuels,0.248
+2019,Natural gas,0.2
+2019,Grazed biomass and fodder crops,0.399
 2019,Metal ores,0.076
 2019,Non-ferrous ores,0.006
+2019,Non-metallic minerals - industrial or agricultural dominant,0.117
+2019,Non-metallic minerals - construction dominant,3.526
+2019,Non-metallic minerals,3.643
+2019,Petroleum,0.002
+2019,Wild catch and harvest,0.007
+2019,Wood,0.327
 2020,,8.022
-2020,Biomass,3.022
+2020,Biomass,3.021
+2020,Coal,0.043
+2020,Crop residues,1.491
+2020,Crops,0.816
+2020,Ferrous ores,0.072
 2020,Fossil fuels,0.248
+2020,Natural gas,0.204
+2020,Grazed biomass and fodder crops,0.375
 2020,Metal ores,0.079
 2020,Non-ferrous ores,0.007
+2020,Non-metallic minerals - industrial or agricultural dominant,0.116
+2020,Non-metallic minerals - construction dominant,3.703
+2020,Non-metallic minerals,3.819
+2020,Petroleum,0
+2020,Wild catch and harvest,0.008
+2020,Wood,0.331
 2021,,12.335
 2021,Biomass,7.058
+2021,Coal,0.044
+2021,Crop residues,4.435
+2021,Crops,1.972
+2021,Ferrous ores,0.075
 2021,Fossil fuels,0.252
+2021,Natural gas,0.207
+2021,Grazed biomass and fodder crops,0.311
 2021,Metal ores,0.082
 2021,Non-ferrous ores,0.007
+2021,Non-metallic minerals - industrial or agricultural dominant,0.122
+2021,Non-metallic minerals - construction dominant,3.933
+2021,Non-metallic minerals,4.055
+2021,Petroleum,0
+2021,Wild catch and harvest,0.008
+2021,Wood,0.332
 2022,,11.073
 2022,Biomass,6.414
+2022,Coal,0.039
+2022,Crop residues,4.108
+2022,Crops,1.747
+2022,Ferrous ores,0.069
 2022,Fossil fuels,0.218
+2022,Natural gas,0.179
+2022,Grazed biomass and fodder crops,0.266
 2022,Metal ores,0.075
 2022,Non-ferrous ores,0.006
-2023,,12.02
-2023,Biomass,7.1
-2023,Fossil fuels,0.23
-2023,Metal ores,0.08
-2023,Non-ferrous ores,0.01
-2024,,
-2024,Biomass,
-2024,Fossil fuels,
-2024,Metal ores,
-2024,Non-ferrous ores,
+2022,Non-metallic minerals - industrial or agricultural dominant,0.109
+2022,Non-metallic minerals - construction dominant,3.47
+2022,Non-metallic minerals,3.579
+2022,Petroleum,0
+2022,Wild catch and harvest,0.007
+2022,Wood,0.286
+2023,,9.89
+2023,Biomass,5.838
+2023,Coal,0.035
+2023,Crop residues,3.845
+2023,Crops,1.526
+2023,Ferrous ores,0.063
+2023,Fossil fuels,0.19
+2023,Natural gas,0.155
+2023,Grazed biomass and fodder crops,0.222
+2023,Metal ores,0.068
+2023,Non-ferrous ores,0.005
+2023,Non-metallic minerals - industrial or agricultural dominant,0.096
+2023,Non-metallic minerals - construction dominant,3.013
+2023,Non-metallic minerals,3.109
+2023,Petroleum,0
+2023,Wild catch and harvest,0.006
+2023,Wood,0.239
