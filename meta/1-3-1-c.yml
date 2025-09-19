@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.3.1.c: NA</p>
+  <p>Indicator 1.3.1.c: Proportion of mothers with newborns receiving maternity cash benefit</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.3: Implement nationally appropriate social protection systems and measures for  all, including floors, and by 2030 achieve substantial coverage of the poor  and the vulnerable</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -31,28 +31,30 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Maternity allowance - monetary benefit provided fully from the 30th week of  pregnancy to insured women, wives maintained by their employed spouses,  unemployed, who have been under the records of medical-sanitary institutions  and who are entitled to maternity leaves (which includes the prenatal and  postnatal leave), for a period of 126 calendar days/140 calendar days in case  of complicated births or in case of delivery of two children. In case of  pregnancies with 3 or more foetuses, the maternity allowance is provided at 24  weeks of pregnancy for a period of 182 calendar days. (Art. 16 of the Law no.  289 dated 22.07.2004, on allowances for temporary incapacity to work and other  social insurance benefits).
+  <p> Maternity allowance – a cash benefit granted in full from the 30th week of pregnancy to insured women, to wives dependent on employed husbands, and to unemployed women who have been registered with medical institutions and are entitled to maternity leave (which includes prenatal and postnatal leave) for a period of 126 calendar days / 140 calendar days in the case of complicated births or the birth of two children.</p> 
+  <p>In the case of pregnancies with three or more fetuses, the maternity allowance is granted from the 24th week of pregnancy for a period of 182 calendar days.</p> 
+  <p>(Article 16 of Law No. 289 of 22.07.2004 on temporary incapacity benefits and other social insurance benefits.) </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) number of beneficiaries with maternity allowances, NSIH  - information  regarding maternity allowances (F.648)</p> 
-  <p>2) total number of women who have given  birth during the year of reference - NBS </p>
+  <p> 1. Information System “Social Protection” (Form 648: Information on maternity allowances), National Social Insurance House (NOSI);</p> 
+  <p>2. Number of women who gave birth in the reference year, NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. National Social Insurance House</p> 
+  <p> 1. National Office of Social Insurance </p> 
   <p>2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Health, Labour and Social Protection
+  Ministry of Labour and Social Protection
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of women receiving maternity allowance out of the total number of women  who have delivered in the year of reference X 100%
+  Number of women receiving maternity allowance out of the total number of women  giving birth (live births) in the reference year x 100%
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -67,7 +69,7 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. National Social Insurance House</p> 
+  <p> 1. National Office of Social Insurance </p> 
   <p>2. National Bureau of Statistics </p>
 source_periodicity_1: >-
   Annual
@@ -75,4 +77,8 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Liliana Vinteniuc, Acting Head of the Statistics and Organizational Expenditure Division, National Office of Social Insurance,</p> 
+  <p>e-mail: liliana.vinteniuc@cnas.gov.md, tel. +373 22 257 674.</p> 
+  <p>Nadejda Cojocari, Head of the Social Services Statistics Division, National Bureau of Statistics</p> 
+  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. +373 67 770 651. </p>
 source_other_info_1: >-

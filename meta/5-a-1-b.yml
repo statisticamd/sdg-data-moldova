@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 5.a.1.b: Proportion of women with ownership or other property rights over agricultural land</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 5.a: Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws</p>
+  <p>Target 5.a: Undertake reforms to give women equal rights to economic resources, as well</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Entity for Gender Equality and the Empowerment
@@ -13,9 +13,9 @@ target_id: >-
   5.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.a.1.b: Proportion of women with ownership or other property rights over agricultural land</p>
 SDG_SERIES_DESCR: ''
@@ -39,16 +39,17 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Household surveys (like HBS, MICS, or survey with agricultural subjects) or census
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  1.Public Services Agency
+  <p> 1.Public Services Agency</p> 
+  <p>   2.National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labor and Social Protection_x000D_</p> 
-  <p>Ministry of Justice_x000D_</p> 
-  <p>Land Relations and Cadastre Agency </p>
+  <p> 1.Ministry of Agriculture, Regional Development and Environment</p> 
+  <p>   2.Ministry of Health, Labour and Social Protection </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -69,11 +70,12 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  1.Public Services Agency
+  <p> 1.Public Services Agency</p> 
+  <p>   2.National Bureau of Statistics </p>
 source_periodicity_1: >-
-  Annual
+  Once every few (3/10)years
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

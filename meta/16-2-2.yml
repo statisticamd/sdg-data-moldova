@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 16.2.2: Number of victims of human trafficking per 100,000 population, by sex, age and  form of exploitation</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16.2: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
+  <p>Target 16: End abuse, exploitation, trafficking and all forms of violence against and  torture of children</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNODC
@@ -11,7 +11,7 @@ SDG_INDICATOR_INFO__GLOBAL: >-
   Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 SDG_GOAL: ''
 target_id: >-
-  16.2
+  16
 SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
@@ -32,23 +32,25 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Trafficking in human beings - recruitment,  transportation,  transfer,   harbouring  or  receipt  of  a  person,  by  means  of  threat  of  force  or   use  of  force  or  other  forms  of  coercion,  of  abduction, fraud,  deception, of abuse of authority or a situation of vulnerability, or by means  of offering or receiving payments or benefits of any kind in order to obtain  the consent of a person who has control over another person for the purpose of  exploitation of the latter. Victim  of  trafficking  in  human  beings  –  a   natural  person  presumed  or  found  to  be  subjected to mentioned acts of  trafficking. (art. 2, para. 1 and 11 of the Law No. 241 of 20.10.2005 on  Preventing and Combating Trafficking in Human Beings)
+  <p> Trafficking in human beings (trafficking in adults or trafficking in children, Articles 165 and 206 of the Criminal Code) – the recruitment, transportation, transfer, harboring or receipt of an adult person, with or without his/her consent, for the purpose of commercial or non-commercial sexual exploitation, labor or forced services, begging, appropriation of aid, allowances or social benefits, illegal use in medical or scientific testing or experiments, exploitation in slavery or slavery-like conditions, use in armed conflicts or criminal activities, organ, tissue and/or human cell removal, as well as the use of a woman as a surrogate mother or for reproductive purposes, committed by means of: applying violence not endangering life or health or threatening such violence, abduction, concealment, degradation or destruction of documents, keeping in servitude for the purpose of debt repayment, threat of disclosing confidential information to the victim’s family or to other natural or legal persons, fraud, abuse of a position of vulnerability or abuse of power, giving or receiving payments or benefits to obtain the consent of a person having control over another person.</p> 
+  <p>Victim of trafficking in human beings – a natural person established as having been subjected to the trafficking actions mentioned above. (Article 2, paragraphs 1 and 11 of Law No. 241 of 20.10.2005 on the prevention and combating of trafficking in human beings). </p>
 UNIT_MEASURE: >-
   Number
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Administrative statistical data of the MIA</p> 
-  <p>  2. Demographic data  regarding the number of population NBS </p>
+  <p> 1. Administrative data, General Police Inspectorate of the Ministry of Internal Affairs</p> 
+  <p>2. Demographic data on the number of the usually resident population, National Bureau of Statistics </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. General Police Inspectorate of the Ministry of Internal Affairs</p> 
-  <p>  2.  National Bureau of Statistics </p>
+  <p>2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Internal Affairs
+  <p> 1. Ministry of Internal Affairs</p> 
+  <p>2. Ministry of Labour and Social Protection </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -61,8 +63,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> The numerator of the indicator is composed of two parts: identified and  unidentified victims of THB. There are no data regarding the unidentified  victims, and they work at the global level on a methodology for estimation.  </p> 
-  <p>  Some methods were already identified, but additional tests are necessary  to develop an enhanced and coordinated approach. The method for estimating the  unidentified victims of THB should allow assessing the characteristics of  victims (sex and age) and of the exploitation forms they were exposed to. </p>
+  The numerator of the global indicator consists of two parts: identified and unidentified victims of human trafficking. At the national level, there are no data on unidentified victims.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -77,5 +78,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  Rebeja Olesea , e-mail: cctp_ini@igp.gov.md, tel. 069461033
+  Olesea Rebeja, Senior Investigation Officer, National Investigation Inspectorate of the of the General Police Inspectorate, Ministry of Internal Affairs, e-mail: cctp_ini@igp.gov.md, tel. +373 69461033
 source_other_info_1: >-

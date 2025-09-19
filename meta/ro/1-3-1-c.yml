@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 1.3.1.c: NA</p>
+  <p>Indicator 1.3.1.c: Proporția mamelor care au născut și au beneficiat de indemnizația de maternitate</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.3: Implementarea unor sisteme de protecție socială adecvate la nivel național și  a măsurilor necesare,  inclusiv pentru toate nivelurile, pentru o acoperire  substanțială a celor săraci și vulnerabili până în 2030</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -31,28 +31,28 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indemnizație de maternitate - prestație bănească acordată integral de la a  30-a săptămână de sarcină femeilor asigurate, soțiilor aflate la întreținerea  soților salariați, șomerelor, care au fost la evidența instituțiilor  medico-sanitare și care au dreptul la concediu de maternitate (ce include  concediul prenatal și postnatal), pe o perioadă de 126 de zile  calendaristice/140 de zile calendaristice în cazul nașterilor complicate ori  al nașterii a doi copii. În cazul sarcinilor cu 3 și mai mulți feți,  îndemnizația de maternitate se acordă la termenul de 24 de săptămâni de  sarcină pe o perioadă de 182 de zile calendaristic. (Art. 16 din Legea nr. 289  din 22.07.2004, privind indemnizațiile de incapacitate temporară de muncă și  alte prestații de asigurări sociale).
+  Indemnizație de maternitate - prestație bănească acordată integral de la a  30-a săptămână de sarcină femeilor asigurate, soțiilor aflate la întreținerea  soților salariați, șomerelor, care au fost la evidența instituțiilor  medico-sanitare și care au dreptul la concediu de maternitate (ce include  concediul prenatal și postnatal), pe o perioadă de 126 de zile  calendaristice/140 de zile calendaristice în cazul nașterilor complicate ori  al nașterii a doi copii. În cazul sarcinilor cu 3 și mai mulți feți,  îndemnizația de maternitate se acordă la termenul de 24 de săptămâni de  sarcină pe o perioadă de 182 de zile calendaristice. (Art. 16 din Legea nr. 289  din 22.07.2004, privind indemnizațiile de incapacitate temporară de muncă și  alte prestații de asigurări sociale).
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) numărul de beneficiari de îndemnizații de maternitate, CNAS - Informație  privind îndemnizațiile de maternitate (F.648)</p> 
-  <p>2) numărul total de femei care au  născut în anul de referință - BNS </p>
+  <p> 1. Sistemul Informațional „Protecția Socială” (Forma 648: Informația cu privire la indemnizațiile de maternitate), CNAS</p> 
+  <p>2. Numărul total de femei care au  născut în anul de referință, BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Casa Națională de Asigurări Sociale</p> 
-  <p>2) Biroul Național de Statistică </p>
+  <p> 1. Casa Națională de Asigurări Sociale</p> 
+  <p>2. Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Sănătății, Muncii și Protecției Sociale
+  Ministerul Muncii și Protecției Sociale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul femeilor care primesc indemnizație de maternitate raportat la numărul  total de femei care au născut în anul de referință X100%
+  Numărul femeilor care primesc indemnizație de maternitate raportat la numărul  total de femei care au născut (născuți-vii) în anul de referință x 100%
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -67,12 +67,16 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Casa Națională de Asigurări Sociale</p> 
-  <p>2) Biroul Național de Statistică </p>
+  <p> 1. Casa Națională de Asigurări Sociale</p> 
+  <p>2. Biroul Național de Statistică </p>
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  <p> 1. Liliana Vinteniuc, Șefă interimară direcția statistică și cheltuieli de organizare, Casa Națională de Asigurări Sociale,</p> 
+  <p>e-mail: liliana.vinteniuc@cnas.gov.md, tel. 022-257-674.</p> 
+  <p>2. Nadejda Cojocari, Șefa direcției statistica serviciilor sociale, Biroul Național de Statistică</p> 
+  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. 067770651. </p>
 source_other_info_1: >-
