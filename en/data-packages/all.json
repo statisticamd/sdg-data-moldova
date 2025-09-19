@@ -237,8 +237,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
                 "Men",
+                "Women",
                 ""
               ]
             },
@@ -3443,11 +3443,23 @@
             "title": "Year"
           },
           {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area of residence"
+          },
+          {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "18-24",
+                "15-24",
                 "25-34",
                 "35-44",
                 "45-54",
@@ -3456,6 +3468,39 @@
               ]
             },
             "title": "Age group"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Ethnicity"
+          },
+          {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of property right"
+          },
+          {
+            "name": "Type of legal document justifying the right ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of legal document justifying the right "
           },
           {
             "name": "Value",
@@ -6355,6 +6400,28 @@
               ]
             },
             "title": "Age group"
+          },
+          {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of property right"
+          },
+          {
+            "name": "Type of legal document justifying the right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of legal document justifying the right"
           },
           {
             "name": "Value",
@@ -14489,7 +14556,7 @@
           }
         ]
       },
-      "title": "Proportion of women - beneficiaries of maternity allowances"
+      "title": "Proportion of mothers with newborns receiving maternity cash benefit"
     },
     {
       "path": "11-7-2/data.csv",

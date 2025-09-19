@@ -51,6 +51,26 @@
             }
           },
           {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of legal document justifying the right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

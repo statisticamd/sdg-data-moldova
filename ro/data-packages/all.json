@@ -237,8 +237,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Femei",
                 "Bărbați",
+                "Femei",
                 ""
               ]
             },
@@ -3443,11 +3443,23 @@
             "title": "Anul"
           },
           {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediu de reședință"
+          },
+          {
             "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "18-24",
+                "15-24",
                 "25-34",
                 "35-44",
                 "45-54",
@@ -3456,6 +3468,39 @@
               ]
             },
             "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Etnie"
+          },
+          {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipul de drept patrimonial"
+          },
+          {
+            "name": "Type of legal document justifying the right ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of legal document justifying the right "
           },
           {
             "name": "Value",
@@ -6355,6 +6400,28 @@
               ]
             },
             "title": "Grupa de vârstă"
+          },
+          {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipul de drept patrimonial"
+          },
+          {
+            "name": "Type of legal document justifying the right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipul documentul legal justificator al dreptului"
           },
           {
             "name": "Value",

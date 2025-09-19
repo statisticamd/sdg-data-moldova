@@ -55,6 +55,28 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipul de drept patrimonial"
+          },
+          {
+            "name": "Type of legal document justifying the right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Tipul documentul legal justificator al dreptului"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

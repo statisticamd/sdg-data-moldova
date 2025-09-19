@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Femei",
                 "Bărbați",
+                "Femei",
                 ""
               ]
             },

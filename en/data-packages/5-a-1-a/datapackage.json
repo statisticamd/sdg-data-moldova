@@ -55,6 +55,28 @@
             "title": "Age group"
           },
           {
+            "name": "Type of property right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of property right"
+          },
+          {
+            "name": "Type of legal document justifying the right",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xx",
+                ""
+              ]
+            },
+            "title": "Type of legal document justifying the right"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
