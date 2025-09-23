@@ -2746,6 +2746,74 @@
             "title": "Anul"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediu de reședință"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Quintiles"
+          },
+          {
+            "name": "Mother's education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundare",
+                "Profesional",
+                "Superior",
+                ""
+              ]
+            },
+            "title": "Mother's education"
+          },
+          {
+            "name": "Mother's ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moldovean/Român",
+                "Rus",
+                "Ukrainian",
+                "Roma (Gypsy)",
+                "Găgăuz",
+                "Altă etnie",
+                ""
+              ]
+            },
+            "title": "Mother's ethnicity"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3381,6 +3449,74 @@
             "name": "Year",
             "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediu de reședință"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Quintiles"
+          },
+          {
+            "name": "Mother's education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundare",
+                "Profesional",
+                "Superior",
+                ""
+              ]
+            },
+            "title": "Mother's education"
+          },
+          {
+            "name": "Mother's ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moldovean/Român",
+                "Rus",
+                "Ukrainian",
+                "Roma (Gypsy)",
+                "Găgăuz",
+                "Altă etnie",
+                ""
+              ]
+            },
+            "title": "Mother's ethnicity"
           },
           {
             "name": "Value",
@@ -13494,6 +13630,74 @@
             "name": "Year",
             "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediu de reședință"
+          },
+          {
+            "name": "Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Quintiles"
+          },
+          {
+            "name": "Mother's education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Secundare",
+                "Profesional",
+                "Superior",
+                ""
+              ]
+            },
+            "title": "Mother's education"
+          },
+          {
+            "name": "Mother's ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moldovean/Român",
+                "Rus",
+                "Ukrainian",
+                "Roma (Gypsy)",
+                "Găgăuz",
+                "Altă etnie",
+                ""
+              ]
+            },
+            "title": "Mother's ethnicity"
           },
           {
             "name": "Value",

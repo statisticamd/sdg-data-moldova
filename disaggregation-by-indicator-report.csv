@@ -76,6 +76,9 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3-2,Indicator,1
 #17-6-1,"Area of residence, Regions, Speeds",3
 #2-1-2,Age group / Sex,1
+#2-2-1,"Area of residence, Sex, Quintiles, Mother's education, Mother's ethnicity",5
+#2-2-2-a,"Area of residence, Sex, Quintiles, Mother's education, Mother's ethnicity",5
+#2-2-2-b,"Area of residence, Sex, Quintiles, Mother's education, Mother's ethnicity",5
 #2-2-3,"Age group, Regions",2
 #2-5-1,"Animal genetic resources, Plant genetic resources (samples)",2
 #2-5-2,"Cattle, Sheep",2
