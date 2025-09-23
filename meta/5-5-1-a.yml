@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 5.5.1.a: NA</p>
+  <p>Indicator 5.5.1.a: Proportion of seats held by women in national parliaments</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 5.5: Ensure women’s full and effective participation and equal opportunities for  leadership at all levels of decision-making in political, economic and public  life</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -37,13 +37,13 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Administrative data
+  Administrative data, Parliament of the Republic of Moldova
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. Parliament of the Republic of Moldova</p> 
-  <p>  2. Central Electoral Commission </p>
+  <p>2. Central Electoral Commission </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> State Cancellary</p> 
@@ -67,11 +67,13 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
+  Parliament of the Republic of Moldova
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Rodica Zadnipru, Senior Consultant, Assistance and Development Directorate, Parliament Secretariat,</p> 
+  <p>e-mail: rodica.zadnipru@parlament.md, tel. +373 22 820 207 </p>
 source_other_info_1: >-

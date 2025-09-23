@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 5.5.1.a: NA</p>
+  <p>Indicator 5.5.1.a: Proporția de locuri deținute de femei în Parlament</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 5.5: Asigurarea participării depline și eficiente a femeilor și a egalității de  șanse la ocuparea de posturi de conducere la toate nivelurile de luare a  deciziilor în viața politică, economică și publică</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Date administrative
+  Date administrative, Parlamentul Republicii Moldova
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -52,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul mandate de deputat obținute de femei în Parlament raportat la numărul  total de deputați*100
+  Numărul de mandate de deputat obținute de femei în Parlament raportat la numărul  total de deputați*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -69,9 +69,11 @@ source_active_1: true
 source_organisation_1: >-
   Parlamentul Republicii Moldova
 source_periodicity_1: >-
-  anual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  <p> Rodica Zadnipru, consultantă principală, Direcția asistență și dezvoltare, Secretariatul Parlamentului</p> 
+  <p>e-mail: rodica.zadnipru@parlament.md, tel. 022 820 207 </p>
 source_other_info_1: >-
