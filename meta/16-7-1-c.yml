@@ -38,14 +38,13 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Administrative data - AAIJ
+  Administrative data - Agency for Digitalization in Justice and Court Administration
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Agency for Court Administration, Ministry of Justice</p> 
-  <p>2.Superior Council  of Magistracy</p> 
-  <p>3. National Bureau of Statistics </p>
+  <p> 1. Agency for Digitalization in Justice and Court Administration</p> 
+  <p>2. National Bureau of Statistics </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   State Chancellary
@@ -54,19 +53,19 @@ RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
   <p> The indicator is calculated in 2 steps:</p> 
-  <p>  Step 1: Reporting simple  proportions of: (a) female judges, (b) young judges aged 44 years old and  younger, (c) judges with disabilities and (d) judges from the relevant  national groups of population (e.g. ethnic groups) in the: (i) Constitutional  Court / Supreme Court of Justice; (ii) Courts of Appeal and (iii) court  houses.</p> 
-  <p>  Step 2: Generation of ratios to compare the proportion of (a)  female judges, (b) young judges aged 44 years old and younger, (c) judges with  disabilities and (d) judges from the relevant groups of population at the  national level in the judicial system at the level of all courts as compared  to the proportion of the same target groups in the working-age population. The  ratios should be calculated for all the levels of the courts, and namely:</p> 
-  <p>   1. for female judges;</p> 
-  <p>  2. for young judges aged 44 years old and  younger;</p> 
-  <p>  3. for judges with disabilities; and </p> 
-  <p>  4. for judges  belonging to the relevant groups of population (1 or more ratios, depending on  the national relevance).</p> 
+  <p>  Step 1: Reporting simple  proportions of: (a) female judges, (b) young judges aged 44 years old and  younger, (c) judges with disabilities and (d) judges from other relevant  national groups of population (e.g. ethnic groups) in the: (i) Constitutional  Court / Supreme Court of Justice; (ii) Higher-level courts (Courts of Appeal) and (iii) Lower-level courts.</p> 
+  <p>  Step 2: Generation of ratios to compare the proportion of (a) female judges, (b) young judges aged 44 years old and younger, (c) judges with  disabilities and (d) judges from other relevant groups of population at the  national level in the judicial system at the level of all courts as compared  to the proportion of the same target groups in the working-age population. The  ratios should be calculated for all the levels of the courts, and namely for:</p> 
+  <p>   1. Female judges;</p> 
+  <p>  2. Young judges aged 44 years old and  younger;</p> 
+  <p>  3. Judges with disabilities; </p> 
+  <p>  4. Judges  belonging to the relevant groups of population (depending on  the national relevance).</p> 
   <p>  The same approach is used for generating the  ratios for court clerks:</p> 
-  <p>  Step 1: Reporting simple proportions of: (a)  female court clerks, (b) young court clerks aged 44 years old and younger, (c)  court clerks with disabilities  (d) court clerks from relevant national groups  of population (e.g. ethnic groups) in: (i) the Constitutional Court / Supreme  Court of Justice; (ii) Courts of Appeal  (iii) court houses.</p> 
-  <p>  Step 2:  Generating ratios that compare the proportion of (a) female court clerks, (b)  young court clerks aged 44 years old and younger, (c) court clerks with  disabilities  (d) court clerks from relevant national groups of population  from the judicial system of all court levels as compared to proportion of the  same target groups in the working-age population. The ratios should be  calculated for all the court levels, and namely:</p> 
-  <p>  1. for female court  clerks;</p> 
-  <p>  2. for young court clerks aged 44 years old and younger;</p> 
-  <p>  3.  for court clerks with disabilities; and</p> 
-  <p>  4. for court clerks belonging to  relevant groups of population  (1 or more ratios, depending on the national  relevance). </p>
+  <p>  Step 1: Reporting simple proportions of: (a) female court clerks, (b) young court clerks aged 44 years old and younger, (c) court clerks with disabilities  (d) court clerks from other relevant national groups  of population (e.g. ethnic groups) in: (i) the Constitutional Court / Supreme  Court of Justice; (ii) Courts of Appeal  (iii)  Lower-level courts.</p> 
+  <p>  Step 2:  Generating ratios that compare the proportion of (a) female court clerks, (b)  young court clerks aged 44 years old and younger, (c) court clerks with  disabilities  (d) court clerks from other relevant national groups of population  from the judicial system of all court levels as compared to proportion of the  same target groups in the working-age population. The ratios should be  calculated for all the court levels, and namely for:</p> 
+  <p>  1. Female court clerks;</p> 
+  <p>  2. Young court clerks aged 44 years old and younger;</p> 
+  <p>  3.  Court clerks with disabilities; </p> 
+  <p>  4. Court clerks belonging to other relevant groups of population  ( depending on the national  relevance). </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -74,7 +73,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The indicator represents a part of the global indicator, the national version  of the indicator covers only partially the mentioned groups
+  At the national level, disability refers to the existence of a disability certificate (official status of a person recognized as having a disability). The number of registrars also includes the number of judicial assistants. At the national level, data are not available for some population groups, for example: ethnic groups.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -89,4 +88,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  <p> Ana Cheptănaru, Judicial Legislation and Statistics Section, Agency for Digitalization in Justice and Court Administration,</p> 
+  <p>e-mail: ana.cheptanaru@justice.gov.md, tel.: 0 22 820 867 </p>
 source_other_info_1: >-
