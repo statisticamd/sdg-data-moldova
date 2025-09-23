@@ -37,7 +37,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  MICS 2012
+  <p> Year 2012 - Multiple Indicator Cluster Survey (MICS 2012)</p> 
+  <p>Years 2013-2024 - Modeled estimates, source - UNSTATS Database </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,7 +51,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of children, aged under 5 years old, whose height for the respective  age is smaller by two standard deviation from the median reference population, out of the total number of children aged under 5 years old * 100.
+  Number of children under 5 years of age whose height-for-age is below two standard deviations from the median height-for-age according to WHO standards, divided by the total number of children under 5 years of age * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,6 +59,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  For 2012, the data source for data is the 2012 MICS Survey carried out at the national level, and starting from 2013 the data refer to the globally generated modelled estimates by UNICEF/WHO.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -67,9 +69,13 @@ source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
 source_periodicity_1: >-
-  Once every few years
+  <p> Once every few years (surveys among the population’s households).</p> 
+  <p>At the global level, modelled estimates are generated annually. </p>
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  <p> Liliana Buzdugan, Head of the General Directorate for Data and Resource Analysis and Evaluation in Health, National Agency for Public Health,</p> 
+  <p>e-mail: liliana.buzdugan@ansp.gov.md, tel.: 022725292 </p>
 source_other_info_1: >-

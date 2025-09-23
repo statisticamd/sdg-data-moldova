@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  MICS 2012
+  Multiple Indicator Cluster Survey (MICS 2012)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,4 +72,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  <p> Liliana Buzdugan, Head of the General Directorate for Data and Resource Analysis and Evaluation in Health, National Agency for Public Health,</p> 
+  <p>e-mail: liliana.buzdugan@ansp.gov.md, tel.:  022725292 </p>
 source_other_info_1: >-
