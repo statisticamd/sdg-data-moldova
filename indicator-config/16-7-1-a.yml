@@ -1,7 +1,21 @@
 composite_breakdown_label: ''
 computation_units: Percent, %
 copyright: ''
-data_footnote: ''
+data_footnote: >-
+  <p> 2024:</p> 
+  <p>President of the Parliament: 52 years old, male</p> 
+  <p>Presidents of the standing parliamentary committees:</p> 
+  <p>1. Committee on Legal Affairs, Appointments and Immunities – 42 years old, female</p> 
+  <p>2. Committee on Economy, Budget and Finance – 34 years old, male</p> 
+  <p>3. Committee on National Security, Defense and Public Order – 46 years old, male</p> 
+  <p>4. Committee on Foreign Policy and European Integration – 49 years old, female</p> 
+  <p>5. Committee on Human Rights and Interethnic Relations – 41 years old, male</p> 
+  <p>6. Committee on Public Administration and Regional Development – 53 years old, female</p> 
+  <p>7. Committee on Environment, Climate and Green Transition – 65 years old, male</p> 
+  <p>8. Committee on Culture, Education, Research, Youth, Sports and Mass Media – 56 years old, female</p> 
+  <p>9. Committee on Agriculture and Food Industry – 36 years old, male</p> 
+  <p>10. Committee on Social Protection, Health and Family – 49 years old, male</p> 
+  <p>11. Committee on Public Finance Control – 60 years old, female </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
