@@ -1,13 +1,13 @@
 Year,Types of crimes,Sex,Age group,Forms of violence ,Value
 2010,,,,,
-2010,Premeditated severe injuries,,,,
-2010,Kidnapping a person,,,,
-2010,Sexual assault,,,,
-2010,Robbery,,,,
-2010,Brigandage,,,,
-2010,Blackmail,,,,
-2010,Domestic violence,,,,
-2010,Hooliganism,,,,
+2010,Intentional serious bodily harm (art.151),,,,
+2010,Kidnapping a person (art.164),,,,
+2010,Sexual assault (art. 171-1751),,,,
+2010,Robbery (art. 187),,,,
+2010,Brigandage (art. 189),,,,
+2010,Blackmail (art 189),,,,
+2010,Domestic violence (art.2011),,,,
+2010,Hooliganism (art.287),,,,
 2010,,Men,,,
 2010,,Women,,,
 2010,,,0-17 years,,
@@ -16,14 +16,14 @@ Year,Types of crimes,Sex,Age group,Forms of violence ,Value
 2010,,,,Physical violence,
 2010,,,,Sexual violence,
 2011,,,,,
-2011,Premeditated severe injuries,,,,
-2011,Kidnapping a person,,,,
-2011,Sexual assault,,,,
-2011,Robbery,,,,
-2011,Brigandage,,,,
-2011,Blackmail,,,,
-2011,Domestic violence,,,,
-2011,Hooliganism,,,,
+2011,Intentional serious bodily harm (art.151),,,,
+2011,Kidnapping a person (art.164),,,,
+2011,Sexual assault (art. 171-1751),,,,
+2011,Robbery (art. 187),,,,
+2011,Brigandage (art. 189),,,,
+2011,Blackmail (art 189),,,,
+2011,Domestic violence (art.2011),,,,
+2011,Hooliganism (art.287),,,,
 2011,,Men,,,
 2011,,Women,,,
 2011,,,0-17 years,,
@@ -32,14 +32,14 @@ Year,Types of crimes,Sex,Age group,Forms of violence ,Value
 2011,,,,Physical violence,
 2011,,,,Sexual violence,
 2012,,,,,
-2012,Premeditated severe injuries,,,,
-2012,Kidnapping a person,,,,
-2012,Sexual assault,,,,
-2012,Robbery,,,,
-2012,Brigandage,,,,
-2012,Blackmail,,,,
-2012,Domestic violence,,,,
-2012,Hooliganism,,,,
+2012,Intentional serious bodily harm (art.151),,,,
+2012,Kidnapping a person (art.164),,,,
+2012,Sexual assault (art. 171-1751),,,,
+2012,Robbery (art. 187),,,,
+2012,Brigandage (art. 189),,,,
+2012,Blackmail (art 189),,,,
+2012,Domestic violence (art.2011),,,,
+2012,Hooliganism (art.287),,,,
 2012,,Men,,,
 2012,,Women,,,
 2012,,,0-17 years,,
@@ -48,14 +48,14 @@ Year,Types of crimes,Sex,Age group,Forms of violence ,Value
 2012,,,,Physical violence,
 2012,,,,Sexual violence,
 2013,,,,,
-2013,Premeditated severe injuries,,,,
-2013,Kidnapping a person,,,,
-2013,Sexual assault,,,,
-2013,Robbery,,,,
-2013,Brigandage,,,,
-2013,Blackmail,,,,
-2013,Domestic violence,,,,
-2013,Hooliganism,,,,
+2013,Intentional serious bodily harm (art.151),,,,
+2013,Kidnapping a person (art.164),,,,
+2013,Sexual assault (art. 171-1751),,,,
+2013,Robbery (art. 187),,,,
+2013,Brigandage (art. 189),,,,
+2013,Blackmail (art 189),,,,
+2013,Domestic violence (art.2011),,,,
+2013,Hooliganism (art.287),,,,
 2013,,Men,,,
 2013,,Women,,,
 2013,,,0-17 years,,
@@ -64,162 +64,178 @@ Year,Types of crimes,Sex,Age group,Forms of violence ,Value
 2013,,,,Physical violence,
 2013,,,,Sexual violence,
 2014,,,,,98.267
-2014,Premeditated severe injuries,,,,4.638
-2014,Kidnapping a person,,,,1.476
-2014,Sexual assault,,,,9.591
-2014,Robbery,,,,22.907
-2014,Brigandage,,,,2.249
-2014,Blackmail,,,,1.23
-2014,Domestic violence,,,,30.566
-2014,Hooliganism,,,,25.612
+2014,Intentional serious bodily harm (art.151),,,,4.638
+2014,Kidnapping a person (art.164),,,,1.476
+2014,Sexual assault (art. 171-1751),,,,9.5
+2014,Robbery (art. 187),,,,22.723
+2014,Brigandage (art. 189),,,,2.231
+2014,Blackmail (art 189),,,,1.23
+2014,Domestic violence (art.2011),,,,30.321
+2014,Hooliganism (art.287),,,,25.407
 2014,,Men,,,96.905
 2014,,Women,,,99.528
 2014,,,0-17 years,,41.825
 2014,,,18 years and over,,113.73
 2014,,,,Psychological violence,7.273
-2014,,,,Physical violence,32.006
-2014,,,,Sexual violence,9.591
+2014,,,,Physical violence,31.75
+2014,,,,Sexual violence,9.515
 2015,,,,,116.08
-2015,Premeditated severe injuries,,,,4.778
-2015,Kidnapping a person,,,,1.451
-2015,Sexual assault,,,,11.113
-2015,Robbery,,,,25.163
-2015,Brigandage,,,,2.654
-2015,Blackmail,,,,0.602
-2015,Domestic violence,,,,40.027
-2015,Hooliganism,,,,30.294
+2015,Intentional serious bodily harm (art.151),,,,4.7
+2015,Kidnapping a person (art.164),,,,1.4
+2015,Sexual assault (art. 171-1751),,,,10.9
+2015,Robbery (art. 187),,,,24.78
+2015,Brigandage (art. 189),,,,2.614
+2015,Blackmail (art 189),,,,0.602
+2015,Domestic violence (art.2011),,,,39.417
+2015,Hooliganism (art.287),,,,29.833
 2015,,Men,,,112.646
 2015,,Women,,,119.267
 2015,,,0-17 years,,52.971
 2015,,,18 years and over,,133.31
 2015,,,,Psychological violence,11.537
-2015,,,,Physical violence,39.885
-2015,,,,Sexual violence,11.113
+2015,,,,Physical violence,39.278
+2015,,,,Sexual violence,10.943
 2016,,,,,133.525
-2016,Premeditated severe injuries,,,,5.898
-2016,Kidnapping a person,,,,1.403
-2016,Sexual assault,,,,13.701
-2016,Robbery,,,,27.654
-2016,Brigandage,,,,2.913
-2016,Blackmail,,,,1.223
-2016,Domestic violence,,,,39.881
-2016,Hooliganism,,,,40.852
+2016,Intentional serious bodily harm (art.151),,,,5.7
+2016,Kidnapping a person (art.164),,,,1.403
+2016,Sexual assault (art. 171-1751),,,,13.3
+2016,Robbery (art. 187),,,,26.801
+2016,Brigandage (art. 189),,,,2.823
+2016,Blackmail (art 189),,,,1.223
+2016,Domestic violence (art.2011),,,,38.651
+2016,Hooliganism (art.287),,,,39.592
 2016,,Men,,,139.526
 2016,,Women,,,127.988
 2016,,,0-17 years,,51.836
 2016,,,18 years and over,,156.091
 2016,,,,Psychological violence,20.606
-2016,,,,Physical violence,58.689
-2016,,,,Sexual violence,13.701
+2016,,,,Physical violence,56.878
+2016,,,,Sexual violence,13.278
 2017,,,,,118.477
-2017,Premeditated severe injuries,,,,5.898
-2017,Kidnapping a person,,,,1.246
-2017,Sexual assault,,,,18.061
-2017,Robbery,,,,25.351
-2017,Brigandage,,,,2.601
-2017,Blackmail,,,,1.282
-2017,Domestic violence,,,,21.248
-2017,Hooliganism,,,,42.79
+2017,Intentional serious bodily harm (art.151),,,,5.6
+2017,Kidnapping a person (art.164),,,,1.246
+2017,Sexual assault (art. 171-1751),,,,17.2
+2017,Robbery (art. 187),,,,24.117
+2017,Brigandage (art. 189),,,,2.474
+2017,Blackmail (art 189),,,,1.22
+2017,Domestic violence (art.2011),,,,20.214
+2017,Hooliganism (art.287),,,,40.707
 2017,,Men,,,137.252
 2017,,Women,,,101.282
 2017,,,0-17 years,,79.659
 2017,,,18 years and over,,129.328
 2017,,,,Psychological violence,26.817
-2017,,,,Physical violence,68.104
-2017,,,,Sexual violence,18.061
+2017,,,,Physical violence,64.789
+2017,,,,Sexual violence,17.182
 2018,,,,,120.569
-2018,Premeditated severe injuries,,,,6.779
-2018,Kidnapping a person,,,,1.602
-2018,Sexual assault,,,,20.635
-2018,Robbery,,,,22.013
-2018,Brigandage,,,,2.421
-2018,Blackmail,,,,2.943
-2018,Domestic violence,,,,25.179
-2018,Hooliganism,,,,38.998
+2018,Intentional serious bodily harm (art.151),,,,6.3
+2018,Kidnapping a person (art.164),,,,1.5
+2018,Sexual assault (art. 171-1751),,,,19.3
+2018,Robbery (art. 187),,,,20.597
+2018,Brigandage (art. 189),,,,2.265
+2018,Blackmail (art 189),,,,2.753
+2018,Domestic violence (art.2011),,,,23.56
+2018,Hooliganism (art.287),,,,36.49
 2018,,Men,,,135.251
 2018,,Women,,,107.15
 2018,,,0-17 years,,99.619
 2018,,,18 years and over,,126.396
 2018,,,,Psychological violence,32.033
-2018,,,,Physical violence,69.093
-2018,,,,Sexual violence,20.635
+2018,,,,Physical violence,64.65
+2018,,,,Sexual violence,19.308
 2019,,,,,114.046
-2019,Premeditated severe injuries,,,,6.241
-2019,Kidnapping a person,,,,1.021
-2019,Sexual assault,,,,21.031
-2019,Robbery,,,,19.934
-2019,Brigandage,,,,2.913
-2019,Blackmail,,,,2.005
-2019,Domestic violence,,,,24.209
-2019,Hooliganism,,,,36.691
+2019,Intentional serious bodily harm (art.151),,,,5.8
+2019,Kidnapping a person (art.164),,,,0.9
+2019,Sexual assault (art. 171-1751),,,,19.378
+2019,Robbery (art. 187),,,,18.367
+2019,Brigandage (art. 189),,,,2.684
+2019,Blackmail (art 189),,,,1.847
+2019,Domestic violence (art.2011),,,,22.305
+2019,Hooliganism (art.287),,,,33.806
 2019,,Men,,,129.694
 2019,,Women,,,99.748
 2019,,,0-17 years,,91.24
 2019,,,18 years and over,,120.344
 2019,,,,Psychological violence,28.937
-2019,,,,Physical violence,66.082
-2019,,,,Sexual violence,21.031
+2019,,,,Physical violence,60.886
+2019,,,,Sexual violence,19.378
 2020,,,,,87.109
-2020,Premeditated severe injuries,,,,4.302
-2020,Kidnapping a person,,,,0.99
-2020,Sexual assault,,,,17.437
-2020,Robbery,,,,15.381
-2020,Brigandage,,,,1.904
-2020,Blackmail,,,,1.409
-2020,Domestic violence,,,,19.988
-2020,Hooliganism,,,,25.699
+2020,Intentional serious bodily harm (art.151),,,,3.9
+2020,Kidnapping a person (art.164),,,,0.9
+2020,Sexual assault (art. 171-1751),,,,15.962
+2020,Robbery (art. 187),,,,14.08
+2020,Brigandage (art. 189),,,,1.743
+2020,Blackmail (art 189),,,,1.29
+2020,Domestic violence (art.2011),,,,18.297
+2020,Hooliganism (art.287),,,,23.525
 2020,,Men,,,96.715
 2020,,Women,,,78.344
 2020,,,0-17 years,,77.078
 2020,,,18 years and over,,89.862
 2020,,,,Psychological violence,22.196
-2020,,,,Physical violence,48.77
-2020,,,,Sexual violence,17.437
+2020,,,,Physical violence,44.645
+2020,,,,Sexual violence,15.962
 2021,,,,,103.975
-2021,Premeditated severe injuries,,,,4.366
-2021,Kidnapping a person,,,,1.326
-2021,Sexual assault,,,,20.039
-2021,Robbery,,,,16.257
-2021,Brigandage,,,,1.988
-2021,Blackmail,,,,3.197
-2021,Domestic violence,,,,25.302
-2021,Hooliganism,,,,31.501
+2021,Intentional serious bodily harm (art.151),,,,3.9
+2021,Kidnapping a person (art.164),,,,1.185
+2021,Sexual assault (art. 171-1751),,,,17.914
+2021,Robbery (art. 187),,,,14.533
+2021,Brigandage (art. 189),,,,1.777
+2021,Blackmail (art 189),,,,2.858
+2021,Domestic violence (art.2011),,,,22.619
+2021,Hooliganism (art.287),,,,28.16
 2021,,Men,,,115.419
 2021,,Women,,,93.625
 2021,,,0-17 years,,96.841
 2021,,,18 years and over,,105.938
 2021,,,,Psychological violence,26.51
-2021,,,,Physical violence,56.374
-2021,,,,Sexual violence,20.039
-2022,,,,,115.61
-2022,Premeditated severe injuries,,,,4.537
-2022,Kidnapping a person,,,,1.234
-2022,Sexual assault,,,,21.968
-2022,Robbery,,,,16.993
-2022,Brigandage,,,,2.587
-2022,Blackmail,,,,2.945
-2022,Domestic violence,,,,27.699
-2022,Hooliganism,,,,37.648
-2022,,Men,,,128.495
-2022,,Women,,,104.063
-2022,,,0-17 years,,110.675
-2022,,,18 years and over,,116.956
-2022,,,,Psychological violence,32.156
-2022,,,,Physical violence,67.456
-2022,,,,Sexual violence,21.968
-2023,,,,,116.486
-2023,Premeditated severe injuries,,,,4.577
-2023,Kidnapping a person,,,,1.114
-2023,Sexual assault,,,,20.058
-2023,Robbery,,,,12.456
-2023,Brigandage,,,,2.229
-2023,Blackmail,,,,3.98
-2023,Domestic violence,,,,32.156
-2023,Hooliganism,,,,39.916
-2023,,Men,,,125.8
-2023,,Women,,,108.138
-2023,,,0-17 years,,106.59
-2023,,,18 years and over,,119.185
-2023,,,,Psychological violence,21.53
-2023,,,,Physical violence,74.898
-2023,,,,Sexual violence,20.058
+2021,,,,Physical violence,50.396
+2021,,,,Sexual violence,17.914
+2022,,,,,116.56
+2022,Intentional serious bodily harm (art.151),,,,4
+2022,Kidnapping a person (art.164),,,,1.08
+2022,Sexual assault (art. 171-1751),,,,19.238
+2022,Robbery (art. 187),,,,14.882
+2022,Brigandage (art. 189),,,,2.265
+2022,Blackmail (art 189),,,,2.579
+2022,Domestic violence (art.2011),,,,24.257
+2022,Hooliganism (art.287),,,,32.97
+2022,,Men,,,130.133
+2022,,Women,,,104.499
+2022,,,0-17 years,,112.087
+2022,,,18 years and over,,117.773
+2022,,,,Psychological violence,32.42
+2022,,,,Physical violence,59.074
+2022,,,,Sexual violence,19.238
+2023,,,,,120.786
+2023,Intentional serious bodily harm (art.151),,,,4
+2023,Kidnapping a person (art.164),,,,0.976
+2023,Sexual assault (art. 171-1751),,,,17.565
+2023,Robbery (art. 187),,,,10.909
+2023,Brigandage (art. 189),,,,1.952
+2023,Blackmail (art 189),,,,3.485
+2023,Domestic violence (art.2011),,,,28.16
+2023,Hooliganism (art.287),,,,34.956
+2023,,Men,,,132.272
+2023,,Women,,,110.759
+2023,,,0-17 years,,112.845
+2023,,,18 years and over,,123.105
+2023,,,,Psychological violence,22.325
+2023,,,,Physical violence,65.591
+2023,,,,Sexual violence,17.565
+2024,,,,,130.4
+2024,Intentional serious bodily harm (art.151),,,,4
+2024,Kidnapping a person (art.164),,,,0.836
+2024,Sexual assault (art. 171-1751),,,,18.82
+2024,Robbery (art. 187),,,,9.689
+2024,Brigandage (art. 189),,,,1.15
+2024,Blackmail (art 189),,,,2.231
+2024,Domestic violence (art.2011),,,,32.377
+2024,Hooliganism (art.287),,,,39.1
+2024,,Men,,,150.224
+2024,,Women,,,113.217
+2024,,,0-17 years,,132.16
+2024,,,18 years and over,,128.601
+2024,,,,Psychological violence,22.928
+2024,,,,Physical violence,70.366
+2024,,,,Sexual violence,18.82
