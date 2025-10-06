@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Leziuni, corporale grave",
-                "Răpirea unei persoane",
-                "Agresiune sexuală",
-                "Jaf",
-                "Tâlhăria",
-                "Șantajul",
-                "Violenţa în familie",
-                "Huliganismul",
+                "Vătămarea intenționată gravă a integrității corporale (art. 151)",
+                "Răpirea unei persoane (art. 164)",
+                "Agresiune sexuală (art. 171-1751)",
+                "Jaf (art. 187)",
+                "Tâlhăria (art. 188)",
+                "Șantajul (art. 189)",
+                "Violenţa în familie (art.2011)",
+                "Huliganismul (art.287)",
                 ""
               ]
             },

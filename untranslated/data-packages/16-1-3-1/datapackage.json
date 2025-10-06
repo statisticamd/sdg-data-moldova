@@ -19,14 +19,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Premeditated severe injuries",
-                "Kidnapping a person",
-                "Sexual assault",
-                "Robbery",
-                "Brigandage",
-                "Blackmail",
-                "Domestic violence",
-                "Hooliganism",
+                "Intentional serious bodily harm (art.151)",
+                "Kidnapping a person (art.164)",
+                "Sexual assault (art. 171-1751)",
+                "Robbery (art. 187)",
+                "Brigandage (art. 189)",
+                "Blackmail (art 189)",
+                "Domestic violence (art.2011)",
+                "Hooliganism (art.287)",
                 ""
               ]
             }

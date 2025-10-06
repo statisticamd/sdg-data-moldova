@@ -1,13 +1,13 @@
 Year,Tipuri de infracțiuni,Sex,Grupa de vârstă,Forms of violence ,Value
 2010,,,,,
-2010,"Leziuni, corporale grave",,,,
-2010,Răpirea unei persoane,,,,
-2010,Agresiune sexuală,,,,
-2010,Jaf,,,,
-2010,Tâlhăria,,,,
-2010,Șantajul,,,,
-2010,Violenţa în familie,,,,
-2010,Huliganismul,,,,
+2010,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,
+2010,Răpirea unei persoane (art. 164),,,,
+2010,Agresiune sexuală (art. 171-1751),,,,
+2010,Jaf (art. 187),,,,
+2010,Tâlhăria (art. 188),,,,
+2010,Șantajul (art. 189),,,,
+2010,Violenţa în familie (art.2011),,,,
+2010,Huliganismul (art.287),,,,
 2010,,Bărbați,,,
 2010,,Femei,,,
 2010,,,0-17 ani,,
@@ -16,14 +16,14 @@ Year,Tipuri de infracțiuni,Sex,Grupa de vârstă,Forms of violence ,Value
 2010,,,,Violență fizică,
 2010,,,,Violență sexuală,
 2011,,,,,
-2011,"Leziuni, corporale grave",,,,
-2011,Răpirea unei persoane,,,,
-2011,Agresiune sexuală,,,,
-2011,Jaf,,,,
-2011,Tâlhăria,,,,
-2011,Șantajul,,,,
-2011,Violenţa în familie,,,,
-2011,Huliganismul,,,,
+2011,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,
+2011,Răpirea unei persoane (art. 164),,,,
+2011,Agresiune sexuală (art. 171-1751),,,,
+2011,Jaf (art. 187),,,,
+2011,Tâlhăria (art. 188),,,,
+2011,Șantajul (art. 189),,,,
+2011,Violenţa în familie (art.2011),,,,
+2011,Huliganismul (art.287),,,,
 2011,,Bărbați,,,
 2011,,Femei,,,
 2011,,,0-17 ani,,
@@ -32,14 +32,14 @@ Year,Tipuri de infracțiuni,Sex,Grupa de vârstă,Forms of violence ,Value
 2011,,,,Violență fizică,
 2011,,,,Violență sexuală,
 2012,,,,,
-2012,"Leziuni, corporale grave",,,,
-2012,Răpirea unei persoane,,,,
-2012,Agresiune sexuală,,,,
-2012,Jaf,,,,
-2012,Tâlhăria,,,,
-2012,Șantajul,,,,
-2012,Violenţa în familie,,,,
-2012,Huliganismul,,,,
+2012,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,
+2012,Răpirea unei persoane (art. 164),,,,
+2012,Agresiune sexuală (art. 171-1751),,,,
+2012,Jaf (art. 187),,,,
+2012,Tâlhăria (art. 188),,,,
+2012,Șantajul (art. 189),,,,
+2012,Violenţa în familie (art.2011),,,,
+2012,Huliganismul (art.287),,,,
 2012,,Bărbați,,,
 2012,,Femei,,,
 2012,,,0-17 ani,,
@@ -48,14 +48,14 @@ Year,Tipuri de infracțiuni,Sex,Grupa de vârstă,Forms of violence ,Value
 2012,,,,Violență fizică,
 2012,,,,Violență sexuală,
 2013,,,,,
-2013,"Leziuni, corporale grave",,,,
-2013,Răpirea unei persoane,,,,
-2013,Agresiune sexuală,,,,
-2013,Jaf,,,,
-2013,Tâlhăria,,,,
-2013,Șantajul,,,,
-2013,Violenţa în familie,,,,
-2013,Huliganismul,,,,
+2013,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,
+2013,Răpirea unei persoane (art. 164),,,,
+2013,Agresiune sexuală (art. 171-1751),,,,
+2013,Jaf (art. 187),,,,
+2013,Tâlhăria (art. 188),,,,
+2013,Șantajul (art. 189),,,,
+2013,Violenţa în familie (art.2011),,,,
+2013,Huliganismul (art.287),,,,
 2013,,Bărbați,,,
 2013,,Femei,,,
 2013,,,0-17 ani,,
@@ -64,162 +64,178 @@ Year,Tipuri de infracțiuni,Sex,Grupa de vârstă,Forms of violence ,Value
 2013,,,,Violență fizică,
 2013,,,,Violență sexuală,
 2014,,,,,98.267
-2014,"Leziuni, corporale grave",,,,4.638
-2014,Răpirea unei persoane,,,,1.476
-2014,Agresiune sexuală,,,,9.591
-2014,Jaf,,,,22.907
-2014,Tâlhăria,,,,2.249
-2014,Șantajul,,,,1.23
-2014,Violenţa în familie,,,,30.566
-2014,Huliganismul,,,,25.612
+2014,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,4.638
+2014,Răpirea unei persoane (art. 164),,,,1.476
+2014,Agresiune sexuală (art. 171-1751),,,,9.5
+2014,Jaf (art. 187),,,,22.723
+2014,Tâlhăria (art. 188),,,,2.231
+2014,Șantajul (art. 189),,,,1.23
+2014,Violenţa în familie (art.2011),,,,30.321
+2014,Huliganismul (art.287),,,,25.407
 2014,,Bărbați,,,96.905
 2014,,Femei,,,99.528
 2014,,,0-17 ani,,41.825
 2014,,,18 ani și peste,,113.73
 2014,,,,Violență psihologică,7.273
-2014,,,,Violență fizică,32.006
-2014,,,,Violență sexuală,9.591
+2014,,,,Violență fizică,31.75
+2014,,,,Violență sexuală,9.515
 2015,,,,,116.08
-2015,"Leziuni, corporale grave",,,,4.778
-2015,Răpirea unei persoane,,,,1.451
-2015,Agresiune sexuală,,,,11.113
-2015,Jaf,,,,25.163
-2015,Tâlhăria,,,,2.654
-2015,Șantajul,,,,0.602
-2015,Violenţa în familie,,,,40.027
-2015,Huliganismul,,,,30.294
+2015,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,4.7
+2015,Răpirea unei persoane (art. 164),,,,1.4
+2015,Agresiune sexuală (art. 171-1751),,,,10.9
+2015,Jaf (art. 187),,,,24.78
+2015,Tâlhăria (art. 188),,,,2.614
+2015,Șantajul (art. 189),,,,0.602
+2015,Violenţa în familie (art.2011),,,,39.417
+2015,Huliganismul (art.287),,,,29.833
 2015,,Bărbați,,,112.646
 2015,,Femei,,,119.267
 2015,,,0-17 ani,,52.971
 2015,,,18 ani și peste,,133.31
 2015,,,,Violență psihologică,11.537
-2015,,,,Violență fizică,39.885
-2015,,,,Violență sexuală,11.113
+2015,,,,Violență fizică,39.278
+2015,,,,Violență sexuală,10.943
 2016,,,,,133.525
-2016,"Leziuni, corporale grave",,,,5.898
-2016,Răpirea unei persoane,,,,1.403
-2016,Agresiune sexuală,,,,13.701
-2016,Jaf,,,,27.654
-2016,Tâlhăria,,,,2.913
-2016,Șantajul,,,,1.223
-2016,Violenţa în familie,,,,39.881
-2016,Huliganismul,,,,40.852
+2016,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,5.7
+2016,Răpirea unei persoane (art. 164),,,,1.403
+2016,Agresiune sexuală (art. 171-1751),,,,13.3
+2016,Jaf (art. 187),,,,26.801
+2016,Tâlhăria (art. 188),,,,2.823
+2016,Șantajul (art. 189),,,,1.223
+2016,Violenţa în familie (art.2011),,,,38.651
+2016,Huliganismul (art.287),,,,39.592
 2016,,Bărbați,,,139.526
 2016,,Femei,,,127.988
 2016,,,0-17 ani,,51.836
 2016,,,18 ani și peste,,156.091
 2016,,,,Violență psihologică,20.606
-2016,,,,Violență fizică,58.689
-2016,,,,Violență sexuală,13.701
+2016,,,,Violență fizică,56.878
+2016,,,,Violență sexuală,13.278
 2017,,,,,118.477
-2017,"Leziuni, corporale grave",,,,5.898
-2017,Răpirea unei persoane,,,,1.246
-2017,Agresiune sexuală,,,,18.061
-2017,Jaf,,,,25.351
-2017,Tâlhăria,,,,2.601
-2017,Șantajul,,,,1.282
-2017,Violenţa în familie,,,,21.248
-2017,Huliganismul,,,,42.79
+2017,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,5.6
+2017,Răpirea unei persoane (art. 164),,,,1.246
+2017,Agresiune sexuală (art. 171-1751),,,,17.2
+2017,Jaf (art. 187),,,,24.117
+2017,Tâlhăria (art. 188),,,,2.474
+2017,Șantajul (art. 189),,,,1.22
+2017,Violenţa în familie (art.2011),,,,20.214
+2017,Huliganismul (art.287),,,,40.707
 2017,,Bărbați,,,137.252
 2017,,Femei,,,101.282
 2017,,,0-17 ani,,79.659
 2017,,,18 ani și peste,,129.328
 2017,,,,Violență psihologică,26.817
-2017,,,,Violență fizică,68.104
-2017,,,,Violență sexuală,18.061
+2017,,,,Violență fizică,64.789
+2017,,,,Violență sexuală,17.182
 2018,,,,,120.569
-2018,"Leziuni, corporale grave",,,,6.779
-2018,Răpirea unei persoane,,,,1.602
-2018,Agresiune sexuală,,,,20.635
-2018,Jaf,,,,22.013
-2018,Tâlhăria,,,,2.421
-2018,Șantajul,,,,2.943
-2018,Violenţa în familie,,,,25.179
-2018,Huliganismul,,,,38.998
+2018,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,6.3
+2018,Răpirea unei persoane (art. 164),,,,1.5
+2018,Agresiune sexuală (art. 171-1751),,,,19.3
+2018,Jaf (art. 187),,,,20.597
+2018,Tâlhăria (art. 188),,,,2.265
+2018,Șantajul (art. 189),,,,2.753
+2018,Violenţa în familie (art.2011),,,,23.56
+2018,Huliganismul (art.287),,,,36.49
 2018,,Bărbați,,,135.251
 2018,,Femei,,,107.15
 2018,,,0-17 ani,,99.619
 2018,,,18 ani și peste,,126.396
 2018,,,,Violență psihologică,32.033
-2018,,,,Violență fizică,69.093
-2018,,,,Violență sexuală,20.635
+2018,,,,Violență fizică,64.65
+2018,,,,Violență sexuală,19.308
 2019,,,,,114.046
-2019,"Leziuni, corporale grave",,,,6.241
-2019,Răpirea unei persoane,,,,1.021
-2019,Agresiune sexuală,,,,21.031
-2019,Jaf,,,,19.934
-2019,Tâlhăria,,,,2.913
-2019,Șantajul,,,,2.005
-2019,Violenţa în familie,,,,24.209
-2019,Huliganismul,,,,36.691
+2019,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,5.8
+2019,Răpirea unei persoane (art. 164),,,,0.9
+2019,Agresiune sexuală (art. 171-1751),,,,19.378
+2019,Jaf (art. 187),,,,18.367
+2019,Tâlhăria (art. 188),,,,2.684
+2019,Șantajul (art. 189),,,,1.847
+2019,Violenţa în familie (art.2011),,,,22.305
+2019,Huliganismul (art.287),,,,33.806
 2019,,Bărbați,,,129.694
 2019,,Femei,,,99.748
 2019,,,0-17 ani,,91.24
 2019,,,18 ani și peste,,120.344
 2019,,,,Violență psihologică,28.937
-2019,,,,Violență fizică,66.082
-2019,,,,Violență sexuală,21.031
+2019,,,,Violență fizică,60.886
+2019,,,,Violență sexuală,19.378
 2020,,,,,87.109
-2020,"Leziuni, corporale grave",,,,4.302
-2020,Răpirea unei persoane,,,,0.99
-2020,Agresiune sexuală,,,,17.437
-2020,Jaf,,,,15.381
-2020,Tâlhăria,,,,1.904
-2020,Șantajul,,,,1.409
-2020,Violenţa în familie,,,,19.988
-2020,Huliganismul,,,,25.699
+2020,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,3.9
+2020,Răpirea unei persoane (art. 164),,,,0.9
+2020,Agresiune sexuală (art. 171-1751),,,,15.962
+2020,Jaf (art. 187),,,,14.08
+2020,Tâlhăria (art. 188),,,,1.743
+2020,Șantajul (art. 189),,,,1.29
+2020,Violenţa în familie (art.2011),,,,18.297
+2020,Huliganismul (art.287),,,,23.525
 2020,,Bărbați,,,96.715
 2020,,Femei,,,78.344
 2020,,,0-17 ani,,77.078
 2020,,,18 ani și peste,,89.862
 2020,,,,Violență psihologică,22.196
-2020,,,,Violență fizică,48.77
-2020,,,,Violență sexuală,17.437
+2020,,,,Violență fizică,44.645
+2020,,,,Violență sexuală,15.962
 2021,,,,,103.975
-2021,"Leziuni, corporale grave",,,,4.366
-2021,Răpirea unei persoane,,,,1.326
-2021,Agresiune sexuală,,,,20.039
-2021,Jaf,,,,16.257
-2021,Tâlhăria,,,,1.988
-2021,Șantajul,,,,3.197
-2021,Violenţa în familie,,,,25.302
-2021,Huliganismul,,,,31.501
+2021,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,3.9
+2021,Răpirea unei persoane (art. 164),,,,1.185
+2021,Agresiune sexuală (art. 171-1751),,,,17.914
+2021,Jaf (art. 187),,,,14.533
+2021,Tâlhăria (art. 188),,,,1.777
+2021,Șantajul (art. 189),,,,2.858
+2021,Violenţa în familie (art.2011),,,,22.619
+2021,Huliganismul (art.287),,,,28.16
 2021,,Bărbați,,,115.419
 2021,,Femei,,,93.625
 2021,,,0-17 ani,,96.841
 2021,,,18 ani și peste,,105.938
 2021,,,,Violență psihologică,26.51
-2021,,,,Violență fizică,56.374
-2021,,,,Violență sexuală,20.039
-2022,,,,,115.61
-2022,"Leziuni, corporale grave",,,,4.537
-2022,Răpirea unei persoane,,,,1.234
-2022,Agresiune sexuală,,,,21.968
-2022,Jaf,,,,16.993
-2022,Tâlhăria,,,,2.587
-2022,Șantajul,,,,2.945
-2022,Violenţa în familie,,,,27.699
-2022,Huliganismul,,,,37.648
-2022,,Bărbați,,,128.495
-2022,,Femei,,,104.063
-2022,,,0-17 ani,,110.675
-2022,,,18 ani și peste,,116.956
-2022,,,,Violență psihologică,32.156
-2022,,,,Violență fizică,67.456
-2022,,,,Violență sexuală,21.968
-2023,,,,,116.486
-2023,"Leziuni, corporale grave",,,,4.577
-2023,Răpirea unei persoane,,,,1.114
-2023,Agresiune sexuală,,,,20.058
-2023,Jaf,,,,12.456
-2023,Tâlhăria,,,,2.229
-2023,Șantajul,,,,3.98
-2023,Violenţa în familie,,,,32.156
-2023,Huliganismul,,,,39.916
-2023,,Bărbați,,,125.8
-2023,,Femei,,,108.138
-2023,,,0-17 ani,,106.59
-2023,,,18 ani și peste,,119.185
-2023,,,,Violență psihologică,21.53
-2023,,,,Violență fizică,74.898
-2023,,,,Violență sexuală,20.058
+2021,,,,Violență fizică,50.396
+2021,,,,Violență sexuală,17.914
+2022,,,,,116.56
+2022,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,4.0
+2022,Răpirea unei persoane (art. 164),,,,1.08
+2022,Agresiune sexuală (art. 171-1751),,,,19.238
+2022,Jaf (art. 187),,,,14.882
+2022,Tâlhăria (art. 188),,,,2.265
+2022,Șantajul (art. 189),,,,2.579
+2022,Violenţa în familie (art.2011),,,,24.257
+2022,Huliganismul (art.287),,,,32.97
+2022,,Bărbați,,,130.133
+2022,,Femei,,,104.499
+2022,,,0-17 ani,,112.087
+2022,,,18 ani și peste,,117.773
+2022,,,,Violență psihologică,32.42
+2022,,,,Violență fizică,59.074
+2022,,,,Violență sexuală,19.238
+2023,,,,,120.786
+2023,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,4.0
+2023,Răpirea unei persoane (art. 164),,,,0.976
+2023,Agresiune sexuală (art. 171-1751),,,,17.565
+2023,Jaf (art. 187),,,,10.909
+2023,Tâlhăria (art. 188),,,,1.952
+2023,Șantajul (art. 189),,,,3.485
+2023,Violenţa în familie (art.2011),,,,28.16
+2023,Huliganismul (art.287),,,,34.956
+2023,,Bărbați,,,132.272
+2023,,Femei,,,110.759
+2023,,,0-17 ani,,112.845
+2023,,,18 ani și peste,,123.105
+2023,,,,Violență psihologică,22.325
+2023,,,,Violență fizică,65.591
+2023,,,,Violență sexuală,17.565
+2024,,,,,130.4
+2024,Vătămarea intenționată gravă a integrității corporale (art. 151),,,,4.0
+2024,Răpirea unei persoane (art. 164),,,,0.836
+2024,Agresiune sexuală (art. 171-1751),,,,18.82
+2024,Jaf (art. 187),,,,9.689
+2024,Tâlhăria (art. 188),,,,1.15
+2024,Șantajul (art. 189),,,,2.231
+2024,Violenţa în familie (art.2011),,,,32.377
+2024,Huliganismul (art.287),,,,39.1
+2024,,Bărbați,,,150.224
+2024,,Femei,,,113.217
+2024,,,0-17 ani,,132.16
+2024,,,18 ani și peste,,128.601
+2024,,,,Violență psihologică,22.928
+2024,,,,Violență fizică,70.366
+2024,,,,Violență sexuală,18.82
