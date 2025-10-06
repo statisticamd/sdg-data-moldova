@@ -58,7 +58,7 @@
             "title": "Grupa de vârstă"
           },
           {
-            "name": "Forms of violence ",
+            "name": "Forms of violence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -68,7 +68,7 @@
                 ""
               ]
             },
-            "title": "Forms of violence "
+            "title": "Forme de violență"
           },
           {
             "name": "Value",

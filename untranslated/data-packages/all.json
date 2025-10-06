@@ -13063,7 +13063,7 @@
             }
           },
           {
-            "name": "Forms of violence ",
+            "name": "Forms of violence",
             "type": "string",
             "constraints": {
               "enum": [

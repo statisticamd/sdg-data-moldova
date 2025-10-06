@@ -14162,7 +14162,7 @@
             "title": "Age group"
           },
           {
-            "name": "Forms of violence ",
+            "name": "Forms of violence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -14172,7 +14172,7 @@
                 ""
               ]
             },
-            "title": "Forms of violence "
+            "title": "Forms of violence"
           },
           {
             "name": "Value",
