@@ -40,8 +40,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Time Use Survey (TUS) 2011-2012.</p> 
-  <p>In future: Labour force survey ad-hoc module </p>
+  <p> In 2012 - dedicated Time Use Survey (TUS).</p> 
+  <p>In 2025 - Time Use Survey, as an ad-hoc module to the Labour Force Survey. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -67,7 +67,11 @@ COMPARABILITY: >-
   <p> For the global  indicator 5.4.1, it is recommended to use (Classification) ICATUS 2016.</p> 
   <p>In 2012 in Moldova was used the European Classification HETUS, 2008. </p> 
   <p>There is difference in the structure of unpaid work activities between HETUS and  ICATUS.</p> 
-  <p>Data for 2012 refer to the group "Household and family care", according to HETUS-2008. </p>
+  <p>Data for 2012 refer to the group "Household and family care", according to HETUS-2008.</p> 
+  <p>The data for 2025 were compiled in accordance with the global metadata and fully correspond to the series:</p> 
+  <p>SL_DOM_TSPD - Proportion of time spent on unpaid domestic chores and care work [5.4.1]</p> 
+  <p>SL_DOM_TSPDCW - Proportion of time spent on unpaid care work [5.4.1]</p> 
+  <p>SL_DOM_TSPDDC - Proportion of time spent on unpaid domestic chores [5.4.1] </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
