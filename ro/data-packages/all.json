@@ -7933,7 +7933,9 @@
             "constraints": {
               "enum": [
                 "15-24 ani",
-                "25-64 ani",
+                "25-44 years",
+                "45-54  years",
+                "55-64 ani",
                 "65 ani +",
                 ""
               ]
