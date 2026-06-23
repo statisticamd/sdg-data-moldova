@@ -263,12 +263,12 @@
   general secondary education
 4-5-1-e-graph: 4.5.1.e. Parity index of children with disabilities enrolled in primary
   and general secondary education
-4-7-1-title: Existence in the school curriculum of modules/curricular contents on: i)
+4-7-1-title: 'Existence in the school curriculum of modules/curricular contents on: i)
   sustainable development; ii) human rights; iii) gender equality; iv)
-  health education and their multidisciplinary approach
-4-7-1-graph: 4.7.1. Existence in the school curriculum of modules/curricular contents
+  health education and their multidisciplinary approach'
+4-7-1-graph: '4.7.1. Existence in the school curriculum of modules/curricular contents
   on: i) sustainable development; ii) human rights; iii) gender equality;
-  iv) health education and their multidisciplinary approach
+  iv) health education and their multidisciplinary approach'
 4-a-1-a-title: Proportion of educational institutions with access to electricity
 4-a-1-a-graph: 4.a.1.a. Proportion of educational institutions with access to
   electricity
@@ -391,14 +391,14 @@
   non-residential sector
 6-3-1-graph: 6.3.1. Proportion of adequately treated wastewater from total discharged
   water, non-residential sector
-6-3-2-a-title: Proportion of surface water bodies that have achieved 'good quality'
-  class (according to hydrochemical parameters)
-6-3-2-a-graph: 6.3.2.a. Proportion of surface water bodies that have achieved 'good
-  quality' class (according to hydrochemical parameters)
-6-3-2-b-title: Proportion of groundwater bodies that have achieved 'good quality' class
-  (according to analytical chemical parameters)
-6-3-2-b-graph: 6.3.2.b. Proportion of groundwater bodies that have achieved 'good
-  quality' class (according to analytical chemical parameters)
+6-3-2-a-title: 'Proportion of surface water bodies that have achieved 'good quality'
+  class (according to hydrochemical parameters)'
+6-3-2-a-graph: '6.3.2.a. Proportion of surface water bodies that have achieved 'good
+  quality' class (according to hydrochemical parameters)'
+6-3-2-b-title: 'Proportion of groundwater bodies that have achieved 'good quality' class
+  (according to analytical chemical parameters)'
+6-3-2-b-graph: '6.3.2.b. Proportion of groundwater bodies that have achieved 'good
+  quality' class (according to analytical chemical parameters)'
 6-3-2-1-title: Proportion of drinking water supply sources non-compliant with sanitary
   standards for water quality (according to microbiological parameters)
 6-3-2-1-graph: 6.3.2.1. Proportion of drinking water supply sources non-compliant with
@@ -721,10 +721,10 @@
 11-b-2-graph: 11.b.2. Proportion of local public authorities that adopt and implement
   local disaster risk reduction strategies in line with national
   strategies (identical to 1.5.4/13.1.3)
-12-1-1-1-title: Number of national policies integrating aspects of the 'green' economy,
-  sustainable production and consumption
-12-1-1-1-graph: 12.1.1.1. Number of national policies integrating aspects of the 'green'
-  economy, sustainable production and consumption
+12-1-1-1-title: 'Number of national policies integrating aspects of the 'green' economy,
+  sustainable production and consumption'
+12-1-1-1-graph: '12.1.1.1. Number of national policies integrating aspects of the 'green'
+  economy, sustainable production and consumption'
 12-2-1-a-title: Volume of natural resources extracted per person (identical to 8.4.1.a)
 12-2-1-a-graph: 12.2.1.a. Volume of natural resources extracted per person (identical to
   8.4.1.a)
@@ -767,13 +767,13 @@
   innovation and performance criteria
 12-7-1-1-graph: 12.7.1.1. Share of procurement contracts including social,
   environmental, innovation and performance criteria
-12-8-1-title: Existence in the school curriculum of modules/curricular contents on: i)
+12-8-1-title: 'Existence in the school curriculum of modules/curricular contents on: i)
   sustainable development, ii) education for climate change and their
-  multidisciplinary approach for forming the graduate profile
-12-8-1-graph: 12.8.1. Existence in the school curriculum of modules/curricular
+  multidisciplinary approach for forming the graduate profile'
+12-8-1-graph: '12.8.1. Existence in the school curriculum of modules/curricular
   contents on: i) sustainable development, ii) education for climate
   change and their multidisciplinary approach for forming the graduate
-  profile
+  profile'
 12-a-1-title: Installed capacity of renewable electricity generation facilities, Watts
   per capita
 12-a-1-graph: 12.a.1. Installed capacity of renewable electricity generation
@@ -957,10 +957,10 @@
   last 12 months
 16-5-2-graph: 16.5.2. Proportion of entrepreneurs who made unofficial payments
   (bribes) in the last 12 months
-16-5-2-1-title: Indicator on 'Control of Corruption' (from '-2.5' to '2.5')
-16-5-2-1-graph: 16.5.2.1. Indicator on 'Control of Corruption' (from '-2.5' to '2.5')
-16-5-2-2-title: Indicator on 'Regulatory Quality' (from '-2.5' to '2.5')
-16-5-2-2-graph: 16.5.2.2. Indicator on 'Regulatory Quality' (from '-2.5' to '2.5')
+16-5-2-1-title: 'Indicator on 'Control of Corruption' (from '-2.5' to '2.5')'
+16-5-2-1-graph: '16.5.2.1. Indicator on 'Control of Corruption' (from '-2.5' to '2.5')'
+16-5-2-2-title: 'Indicator on 'Regulatory Quality' (from '-2.5' to '2.5')'
+16-5-2-2-graph: '16.5.2.2. Indicator on 'Regulatory Quality' (from '-2.5' to '2.5')'
 16-6-1-title: Executed state budget expenditures as a proportion of the initially
   approved budget
 16-6-1-graph: 16.6.1. Executed state budget expenditures as a proportion of the
