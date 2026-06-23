@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-7-1-1",
-  "title": "Fisheries as a proportion of GDP"
+  "title": "14-7-1-1"
 }

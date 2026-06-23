@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-1-2",
-  "title": "Proportion of public transport units accessible to people with disabilities"
+  "title": "11-2-1-2"
 }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-1-1",
-  "title": "Proportion of localities that have access to road and/or rail transport through regular services"
+  "title": "11-2-1-1"
 }

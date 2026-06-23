@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Types of accounts",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deposits, including current",
-                "Borrow",
-                ""
-              ]
-            },
-            "title": "Types of accounts"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",
@@ -50,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-10-2-1",
-  "title": "Bank accounts per 100,000 population (18+)"
+  "title": "8-10-2-1"
 }

@@ -12,66 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
-            "title": "Anul"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Femei",
-                "Bărbați",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Incomes",
             "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Venituri"
-          },
-          {
-            "name": "Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Mediu"
-          },
-          {
-            "name": "Level of education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primare și mai jos",
-                "Secundar și mai sus",
-                ""
-              ]
-            },
-            "title": "Nivel de studii"
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25+",
-                ""
-              ]
-            },
-            "title": "Grupa de vârstă"
+            "title": "Anul"
           },
           {
             "name": "Value",

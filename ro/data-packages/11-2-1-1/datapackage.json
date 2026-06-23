@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-1-1",
-  "title": "Ponderea localităților care au acces la transport rutier și/sau feroviar prin servicii regulate"
+  "title": "11-2-1-1"
 }

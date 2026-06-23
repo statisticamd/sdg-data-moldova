@@ -12,35 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediu de reședință"
-          },
-          {
-            "name": "Wealth quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            },
-            "title": "Quintile de bunăstare"
           },
           {
             "name": "Value",
@@ -53,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1-b",
-  "title": "Ponderea populației care utilizează o instalație de spălare a mâinilor cu săpun și apă"
+  "title": "6-2-1-b"
 }

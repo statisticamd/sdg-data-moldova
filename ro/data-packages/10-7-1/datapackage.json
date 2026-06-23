@@ -12,46 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bărbați",
-                "Femei",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55+",
-                ""
-              ]
-            },
-            "title": "Grupa de vârstă"
-          },
-          {
-            "name": "Destination countries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Destination countries"
           },
           {
             "name": "Value",

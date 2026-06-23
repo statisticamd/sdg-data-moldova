@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-1-2",
-  "title": "Ponderea unităților de transport public accesibile persoanelor cu dizabilități"
+  "title": "11-2-1-2"
 }

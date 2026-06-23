@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-b-1-2",
-  "title": "Volume of foreign direct investment in financial transfer for sustainable development of infrastructure and technology"
+  "title": "7-b-1-2"
 }

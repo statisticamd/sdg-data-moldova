@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-2-1",
-  "title": "Number of collective agreements concluded at the institutional level in line with ILO documentary sources and national legislation"
+  "title": "8-8-2-1"
 }

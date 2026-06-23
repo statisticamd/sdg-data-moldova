@@ -12,67 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
-          },
-          {
-            "name": "Types of critical infrastructure losses",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Tipuri de pierderi de infrastructură critică"
-          },
-          {
-            "name": "Districts",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mun. Chișinău",
-                "Nord",
-                "mun. Bălți",
-                "Briceni",
-                "Dondușeni",
-                "Drochia",
-                "Edineț",
-                "Fălești",
-                "Florești",
-                "Glodeni",
-                "Ocnița",
-                "Râșcani",
-                "Sângerei",
-                "Soroca",
-                "Centru",
-                "Anenii Noi",
-                "Călărași",
-                "Criuleni",
-                "Dubăsari",
-                "Hâncești",
-                "Ialoveni",
-                "Nisporeni",
-                "Orhei",
-                "Rezina",
-                "Strășeni",
-                "Șoldănești",
-                "Telenești",
-                "Ungheni",
-                "Sud",
-                "Basarabeasca",
-                "Cahul",
-                "Cantemir",
-                "Căușeni",
-                "Cimișlia",
-                "Leova",
-                "Ștefan Vodă",
-                "Taraclia",
-                "UTA Găgăuzia",
-                ""
-              ]
-            },
-            "title": "Raioane"
           },
           {
             "name": "Value",
@@ -85,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-3-b",
-  "title": "Numărul de întreruperi ale serviciilor de bază în urma situațiilor excepționale"
+  "title": "11-5-3-b"
 }

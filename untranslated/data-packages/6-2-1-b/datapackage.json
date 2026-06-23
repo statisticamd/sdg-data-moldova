@@ -12,32 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Wealth quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -49,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1-b",
-  "title": "national_indicators.6-2-1-b-title"
+  "title": "6-2-1-b"
 }

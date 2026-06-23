@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
-          },
-          {
-            "name": "Types of accounts",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deposits, including current",
-                "Borrow",
-                ""
-              ]
-            },
-            "title": "Tipuri de conturi"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bărbați",
-                "Femei",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",
@@ -50,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-10-2-1",
-  "title": "Conturi bancare la 100 000 populație (18+)"
+  "title": "8-10-2-1"
 }

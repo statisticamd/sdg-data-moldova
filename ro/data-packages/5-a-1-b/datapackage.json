@@ -12,68 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediu de reședință"
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55+",
-                ""
-              ]
-            },
-            "title": "Grupa de vârstă"
-          },
-          {
-            "name": "Ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Etnie"
-          },
-          {
-            "name": "Type of property right",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Tipul de drept patrimonial"
-          },
-          {
-            "name": "Type of legal document justifying the right ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xx",
-                ""
-              ]
-            },
-            "title": "Type of legal document justifying the right "
           },
           {
             "name": "Value",
@@ -86,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-1-b",
-  "title": "Ponderea femeilor  cu drepturi  de proprietate sau alte drepturi patrimoniale asupra terenurilor agricole"
+  "title": "5-a-1-b"
 }
