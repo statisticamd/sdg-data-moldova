@@ -200,7 +200,7 @@
           }
         ]
       },
-      "title": "Volumul investițiilor în sectorul de eficiență energetică raportat la PIB"
+      "title": "Volumul investițiilor în sectorul energetic raportat la PIB"
     },
     {
       "path": "9-5-1/data.csv",
@@ -475,7 +475,7 @@
           }
         ]
       },
-      "title": "Proporția corpurilor de apă subterane care au atins clasa de „calitate bună” (conform parametrilor chimici analitici, metale dizolvate, pesticide)"
+      "title": "Ponderea corpurilor de apă subterană care au atins clasa de „calitate bună” (conform parametrilor chimici analitici, metale dizolvate, pesticide)"
     },
     {
       "path": "11-b-1-1/data.csv",
@@ -773,7 +773,7 @@
           }
         ]
       },
-      "title": "Proporția șomerilor care beneficiază de ajutor de șomaj din totalul de șomeri înregistrați"
+      "title": "Proporția șomerilor care beneficiază de indemnizație de șomaj din totalul de șomeri înregistrați"
     },
     {
       "path": "5-5-1-a/data.csv",
@@ -2718,7 +2718,7 @@
           }
         ]
       },
-      "title": "Decese HIV asociate la 100 000 populație"
+      "title": "Decese HIV asociate la 100 000 de populație"
     },
     {
       "path": "17-19-1/data.csv",
@@ -3260,7 +3260,7 @@
           }
         ]
       },
-      "title": "Acțiuni privind asigurarea de achiziții publice ecologice"
+      "title": "Ponderea contractelor de achiziții care includ criterii sociale, de mediu, de inovare și de performanță"
     },
     {
       "path": "1-5-3-2/data.csv",
@@ -3508,7 +3508,7 @@
           }
         ]
       },
-      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 25% în total cheltuielile gospodăriilor"
+      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 25 % în total cheltuielile gospodăriilor"
     },
     {
       "path": "5-5-2/data.csv",
@@ -3600,7 +3600,7 @@
           }
         ]
       },
-      "title": "Proporția corpurilor de apă de suprafață care au atins clasa de „calitate bună” (conform parametrilor hidrochimici)"
+      "title": "Ponderea corpurilor de apă de suprafață care au atins clasa de „calitate bună” (conform parametrilor hidrochimici)"
     },
     {
       "path": "4-1-1-c-ii/data.csv",
@@ -3660,7 +3660,7 @@
           }
         ]
       },
-      "title": "(ii) Ponderea elevilor din ultima clasă a învățământului gimnazial cu cunoștințe minime în domeniul matematicii"
+      "title": "Ponderea elevilor din ultima clasă a învățământului gimnazial cu cunoștințe minime în domeniul matematicii"
     },
     {
       "path": "5-5-2-2/data.csv",
@@ -3794,7 +3794,7 @@
           }
         ]
       },
-      "title": "Rata mortalității infantile la 1 000 născuți vii"
+      "title": "Rata mortalității infantile la 1 000 de născuți vii"
     },
     {
       "path": "12-4-2-b/data.csv",
@@ -3936,7 +3936,7 @@
           }
         ]
       },
-      "title": "Raportarea progreselor asupra aplicării cadrului de monitorizare a eficienței dezvoltării cu participarea mai multor parteneri, care acordă suport în atingerea de către țară a Obiectivelor de Dezvoltare Durabilă"
+      "title": "Raportarea progreselor asupra aplicării cadrului de monitorizare a eficienței dezvoltării cu participarea mai multor parteneri care acordă suport în atingerea ODD de către țară"
     },
     {
       "path": "12-3-1-a/data.csv",
@@ -4131,7 +4131,7 @@
           }
         ]
       },
-      "title": "Existența în țară a cadrului normativ care garantează femeilor și bărbaților în vârstă de 15-49 ani accesul la sănătatea sexuală și reproductivă, informare și educare"
+      "title": "Existența în țară a cadrului normativ care garantează femeilor și bărbaților în vârstă de 15-49 de ani accesul la sănătatea sexuală și reproductivă, informare și educare"
     },
     {
       "path": "17-18-3-2/data.csv",
@@ -4168,7 +4168,7 @@
           }
         ]
       },
-      "title": "Gradul de implementare și gradul de finanțare a Planului anual de acțiuni pentru implementarea Strategiei Naționale de Dezvoltare a Sistemului Statistic Național"
+      "title": "Gradul de implementare și gradul de finanțare a Planului anual de acțiuni pentru implementarea Strategiei de dezvoltare a sistemului statistic național"
     },
     {
       "path": "3-8-1-1/data.csv",
@@ -4369,7 +4369,7 @@
           }
         ]
       },
-      "title": "Gradul de cuprindere a copiilor până la vârsta de 3 ani cu educație timpurie"
+      "title": "Gradul de cuprindere a copiilor până la vârsta de 3 ani în educația timpurie"
     },
     {
       "path": "7-1-1/data.csv",
@@ -5617,7 +5617,7 @@
           }
         ]
       },
-      "title": "Prevalența supraponderalilor printre copii în vârstă de până la 5 ani"
+      "title": "Prevalența supraponderalilor printre copiii în vârstă de până la 5 ani"
     },
     {
       "path": "16-7-1-c/data.csv",
@@ -5878,7 +5878,7 @@
           }
         ]
       },
-      "title": "Ponderea populației cu cheltuielile lunare pentru întreținerea locuinței care depășesc 30% din veniturile disponibile lunare ale gospodăriei (accesibilitate - locuință adecvată)"
+      "title": "Ponderea populației cu cheltuielile lunare pentru întreținerea locuinței care depășesc 30 % din veniturile disponibile lunare ale gospodăriei (accesibilitate – locuință adecvată)"
     },
     {
       "path": "12-5-1/data.csv",
@@ -6026,7 +6026,7 @@
           }
         ]
       },
-      "title": "Gradul de implementare a Strategiei de dezvoltare a societății civile"
+      "title": "Volumul resurselor financiare angajat în parteneriate public-private pentru infrastructură"
     },
     {
       "path": "16-a-1/data.csv",
@@ -6378,7 +6378,7 @@
           }
         ]
       },
-      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10% în total cheltuielile gospodăriilor"
+      "title": "Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10 % în total cheltuielile gospodăriilor"
     },
     {
       "path": "10-7-2-2/data.csv",
@@ -6426,7 +6426,7 @@
           }
         ]
       },
-      "title": "Gradul de implementare a acțiunilor din cadrul Planului al Strategiei de mediu pentru anii 2014-2023"
+      "title": "Gradul de implementare a Strategiei de mediu pentru anii 2024-2030"
     },
     {
       "path": "17-1-1/data.csv",
@@ -6502,7 +6502,7 @@
           }
         ]
       },
-      "title": "1 Emisiile totale de CO2, pe sectoare, mii tone CO2 echivalent"
+      "title": "Emisiile totale de CO2, pe sectoare, mii de tone CO2 echivalent"
     },
     {
       "path": "1-2-2/data.csv",
@@ -6616,7 +6616,7 @@
           }
         ]
       },
-      "title": "Proporția persoanelor vulnerabile beneficiare de prestații de asistență socială (ajutor social, ajutor pentru perioada rece)"
+      "title": "Proporția persoanelor vulnerabile beneficiare de cel puțin o plată sub formă monetară (ajutor social și/sau compensație pentru energie acordată în formă monetară)"
     },
     {
       "path": "13-1-3-1/data.csv",
@@ -7229,7 +7229,7 @@
           }
         ]
       },
-      "title": "Ponderea persoanelor care trăiesc în locuințe a căror suprafață este sub norma de 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră, cu excepția soților (supraaglomerarea)"
+      "title": "Ponderea populației care trăiește în locuințe a căror suprafață este sub norma de 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră, cu excepția soților (supraaglomerarea)"
     },
     {
       "path": "5-4-1/data.csv",
@@ -8139,7 +8139,7 @@
           }
         ]
       },
-      "title": "Ponderea instituțiilor de învățământ primar și secundar general cu conexiune la Internet în scopuri pedagogice"
+      "title": "Ponderea instituțiilor de învățământ primar și secundar general cu conexiune la internet în scopuri pedagogice"
     },
     {
       "path": "9-5-2/data.csv",
@@ -8315,7 +8315,7 @@
           }
         ]
       },
-      "title": "Prevalența retardului ponderal printre copii în vârstă de până la 5 ani"
+      "title": "Prevalența retardului ponderal printre copiii în vârstă de până la 5 ani"
     },
     {
       "path": "9-3-1-a/data.csv",
@@ -8432,7 +8432,7 @@
           }
         ]
       },
-      "title": "Cantitatea de emisii de substanțe poluante în aer de la sursele mobile (pe surse), kg raportate pe o persoană"
+      "title": "Cantitatea de emisii de substanțe poluante în aer de la sursele mobile (pe surse), mii de tone, raportate pe o persoană"
     },
     {
       "path": "17-9-1/data.csv",
@@ -8544,7 +8544,7 @@
           }
         ]
       },
-      "title": "Ponderea populației care au accesat serviciile publice în format electronic din totalul beneficiarilor de servicii publice"
+      "title": "Numărul de accesări al unui serviciu public în format electronic sau la ghișeu de către populație"
     },
     {
       "path": "5-6-1/data.csv",
@@ -8786,7 +8786,7 @@
           }
         ]
       },
-      "title": "Ponderea recomandărilor Avocatului Poporului (inclusiv Avocatul Poporului pentru drepturile copilului) și Consiliului pentru egalitate, implementate de către autoritățile și instituțiile sesizate"
+      "title": "Ponderea recomandărilor Avocatului Poporului (inclusiv Avocatul Poporului pentru drepturile copilului) și ale Consiliului pentru egalitate, implementate de către autoritățile și instituțiile sesizate (care rezultă din acțiunile procesuale)"
     },
     {
       "path": "11-3-1-1/data.csv",
@@ -8834,7 +8834,7 @@
           }
         ]
       },
-      "title": "Existența și gradul de implementare a cadrului normativ cu privire la accesul la informație"
+      "title": "Existența și gradul de implementare a cadrului normativ cu privire la accesul la informație inclusiv (i) rata cererilor de comunicare a informațiilor de interes public soluționate integral; (ii) ponderea furnizorilor de informații care respectă termenele legale de examinare a cererilor"
     },
     {
       "path": "15-2-1-2/data.csv",
@@ -8953,7 +8953,7 @@
           }
         ]
       },
-      "title": "Proporția pozițiilor din Parlamentul național comparativ cu distribuțiile naționale, după sex, vârstă, persoane cu dizabilități și grupuri de populație"
+      "title": "Raportul dintre proporția pozițiilor ocupate în autoritățile publice (centrale și locale) de către persoanele din anumite grupuri ale populației și proporția grupului respectiv în total populație"
     },
     {
       "path": "12-a-1/data.csv",
@@ -9268,7 +9268,7 @@
           }
         ]
       },
-      "title": "Ponderea mijloacelor alocate din bugetul public național pentru programul de ajutor social (ajutor social și ajutor pentru perioada rece a anului) în totalul cheltuielilor bugetului public național"
+      "title": "Ponderea mijloacelor alocate din bugetul public național pentru programul de ajutor social și ajutor la contor (ajutor social, compensații la energie sub formă de plată monetară) în totalul cheltuielilor bugetului public național"
     },
     {
       "path": "16-1-1/data.csv",
@@ -9569,7 +9569,7 @@
           }
         ]
       },
-      "title": "Existența Planului anual de acțiuni pentru implementarea Strategiei Naționale de Dezvoltare a Sistemului Statistic Național, care este deplin finanțat și aflat în proces de implementare"
+      "title": "Existența Planului anual de acțiuni pentru implementarea Strategiei de dezvoltare a sistemului statistic național, care este deplin finanțat și se află în proces de implementare"
     },
     {
       "path": "12-2-1-b/data.csv",
@@ -9617,7 +9617,7 @@
           }
         ]
       },
-      "title": "Existența actelor normative și a măsurilor privind prevenirea și reducerea apariției speciilor invazive pentru a controla și eradica speciile prioritare"
+      "title": "Existența actelor normative și a măsurilor privind prevenirea și reducerea apariției speciilor invazive pentru a controla și a eradica speciile prioritare"
     },
     {
       "path": "3-d-1/data.csv",
@@ -10305,7 +10305,7 @@
           }
         ]
       },
-      "title": "Ritmul de creștere a cheltuielilor pe o persoană ale 40% din populația cel mai puțin asigurate"
+      "title": "Ritmul de creștere a cheltuielilor pe o persoană ale 40 % din populația cel mai puțin asigurate"
     },
     {
       "path": "4-5-1-b/data.csv",
@@ -10351,7 +10351,7 @@
           }
         ]
       },
-      "title": "Indicele parității în învățământul gimnazial (nivelul 2)"
+      "title": "Indicele parității în învățământul gimnazial (nivelul 2)"
     },
     {
       "path": "16-5-2-2/data.csv",
@@ -10375,7 +10375,7 @@
           }
         ]
       },
-      "title": "Indicatorul privind „Calitatea regulatorie” (de la „-2,5” la „2,5”)"
+      "title": "Indicatorul privind „Calitatea regulatorie” (de la „- 2,5” la „2,5”)"
     },
     {
       "path": "4-1-1-c-i/data.csv",
@@ -10435,7 +10435,7 @@
           }
         ]
       },
-      "title": "(i) Ponderea elevilor din ultima clasă a învățământului gimnazial cu cunoștințe minime în domeniul citirii/lecturii"
+      "title": "Ponderea elevilor din ultima clasă a învățământului gimnazial cu cunoștințe minime în domeniul citirii/lecturii"
     },
     {
       "path": "13-1-1-b/data.csv",
@@ -10943,7 +10943,7 @@
           }
         ]
       },
-      "title": "Acoperirea populației celei mai sărace (quintila 1) cu prestații de ajutor pentru perioada rece a anului"
+      "title": "Acoperirea populației celei mai sărace (quintila 1) cu prestații de compensație la energie"
     },
     {
       "path": "12-1-1-1/data.csv",
@@ -13021,7 +13021,7 @@
           }
         ]
       },
-      "title": "Disponibilitatea legislației naționale în domeniul statisticii, conform Principiilor Fundamentale ale Statisticii Oficiale"
+      "title": "Disponibilitatea legislației naționale în domeniul statisticii, conform Principiilor fundamentale ale statisticii oficiale"
     },
     {
       "path": "10-4-1/data.csv",
@@ -13419,7 +13419,7 @@
           }
         ]
       },
-      "title": "Indicele Libertății Presei"
+      "title": "Indicele libertății presei"
     },
     {
       "path": "10-5-1/data.csv",
