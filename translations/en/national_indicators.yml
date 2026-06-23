@@ -609,18 +609,8 @@
   population
 10-4-1-title: Share of labour costs in GDP
 10-4-1-graph: 10.4.1. Share of labour costs in GDP
-10-5-1-title: Financial stability indicators: tier 1 capital ratio relative to total
-  assets; tier 1 capital ratio relative to risk-weighted assets; non-
-  performing loan ratio (net of provisions) relative to equity; share of
-  non-performing loans in total loans; return on assets; liquid asset
-  ratio relative to short-term liabilities; net open foreign exchange
-  position to equity
-10-5-1-graph: 10.5.1. Financial stability indicators: tier 1 capital ratio relative to
-  total assets; tier 1 capital ratio relative to risk-weighted assets;
-  non-performing loan ratio (net of provisions) relative to equity; share
-  of non-performing loans in total loans; return on assets; liquid asset
-  ratio relative to short-term liabilities; net open foreign exchange
-  position to equity
+10-5-1-title: Financial stability indicators
+10-5-1-graph: 10.5.1. Financial stability indicators
 10-6-1-a-title: Share of the Republic of Moldova's representation in international
   organizations
 10-6-1-a-graph: 10.6.1.a. Share of the Republic of Moldova's representation in
@@ -847,17 +837,8 @@
   zones that are protected, disaggregated by ecosystem type
 15-1-2-graph: 15.1.2. Proportion of important biodiversity areas in terrestrial and
   freshwater zones that are protected, disaggregated by ecosystem type
-15-2-1-title: Indicators on progress in sustainable forest management: annual net
-  change in forest area; above-ground biomass stock in forests; proportion
-  of forest area under legally protected areas; proportion of forest area
-  under long-term sustainable forest management plans; forest area
-  included in independently verified certification of forest management
-15-2-1-graph: 15.2.1. Indicators on progress in sustainable forest management: annual
-  net change in forest area; above-ground biomass stock in forests;
-  proportion of forest area under legally protected areas; proportion of
-  forest area under long-term sustainable forest management plans; forest
-  area included in independently verified certification of forest
-  management
+15-2-1-title: Indicators on progress in sustainable forest management
+15-2-1-graph: 15.2.1. Indicators on progress in sustainable forest management
 15-2-1-1-title: Area of degraded land restored through afforestation
 15-2-1-1-graph: 15.2.1.1. Area of degraded land restored through afforestation
 15-2-1-2-title: Area of restored forests
@@ -996,14 +977,14 @@
   certificate
 16-10-1-1-title: Press Freedom Index
 16-10-1-1-graph: 16.10.1.1. Press Freedom Index
-16-10-2-1-title: Existence and degree of implementation of the regulatory framework on
+16-10-2-1-title: 'Existence and degree of implementation of the regulatory framework on
   access to information including: (i) rate of fully resolved requests for
   public interest information; (ii) proportion of information providers
-  that comply with legal deadlines for processing requests
-16-10-2-1-graph: 16.10.2.1. Existence and degree of implementation of the regulatory
+  that comply with legal deadlines for processing requests'
+16-10-2-1-graph: '16.10.2.1. Existence and degree of implementation of the regulatory
   framework on access to information including: (i) rate of fully resolved
   requests for public interest information; (ii) proportion of information
-  providers that comply with legal deadlines for processing requests
+  providers that comply with legal deadlines for processing requests'
 16-a-1-title: Existence of independent national human rights institutions in
   compliance with the Paris Principles, accreditation status (A, B, C)
 16-a-1-graph: 16.a.1. Existence of independent national human rights institutions in

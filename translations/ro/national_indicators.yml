@@ -675,24 +675,8 @@
   populație
 10-4-1-title: Ponderea costului forței de muncă în PIB
 10-4-1-graph: 10.4.1. Ponderea costului forței de muncă în PIB
-10-5-1-title: Indicatori privind stabilitatea financiară: - rata fondurilor proprii de
-  nivel I în raport cu total active;  - rata fondurilor proprii de nivel I
-  în raport cu activele ponderate la risc;  - rata creditelor
-  neperformante (fără rezerve) în raport cu fondurile proprii; - ponderea
-  creditelor neperformante în totalul creditelor acordate (inclusiv în
-  domeniul agriculturii, industriei, serviciilor, credite imobiliare);  -
-  rentabilitatea activelor; - rata activelor lichide în raport cu pasivele
-  pe termen scurt; - rata poziției valutare deschise nete la fondurile
-  proprii
-10-5-1-graph: 10.5.1. Indicatori privind stabilitatea financiară: - rata fondurilor
-  proprii de nivel I în raport cu total active;  - rata fondurilor proprii
-  de nivel I în raport cu activele ponderate la risc;  - rata creditelor
-  neperformante (fără rezerve) în raport cu fondurile proprii; - ponderea
-  creditelor neperformante în totalul creditelor acordate (inclusiv în
-  domeniul agriculturii, industriei, serviciilor, credite imobiliare);  -
-  rentabilitatea activelor; - rata activelor lichide în raport cu pasivele
-  pe termen scurt; - rata poziției valutare deschise nete la fondurile
-  proprii
+10-5-1-title: Indicatori privind stabilitatea financiară
+10-5-1-graph: 10.5.1. Indicatori privind stabilitatea financiară
 10-6-1-a-title: Ponderea reprezentării  Republicii Moldova  în cadrul organizațiilor
   internaționale
 10-6-1-a-graph: 10.6.1.a. Ponderea reprezentării  Republicii Moldova  în cadrul
@@ -940,22 +924,9 @@
   apă dulce protejate, divizate pe tipuri de ecosisteme
 15-1-2-graph: 15.1.2. Proporția ariilor importante ale biodiversității zonelor
   terestre și de apă dulce protejate, divizate pe tipuri de ecosisteme
-15-2-1-title: Indicatori privind progresul managementului durabil al pădurilor: - rata
-  netă anuală de schimbare a suprafeței forestiere;  - rezervele de
-  biomasă supraterană în păduri;  - proporția de suprafață forestieră
-  situată în zonele protejate legal;   - proporția de suprafață forestieră
-  gospodărită în conformitate cu planurile de gestionare durabilă  a
-  pădurilor pe termen lung;  - suprafața forestieră inclusă în cadrul
-  sistemului de certificare a modului de gestionare a pădurilor, verificat
-  independent
+15-2-1-title: Indicatori privind progresul managementului durabil al pădurilor
 15-2-1-graph: 15.2.1. Indicatori privind progresul managementului durabil al
-  pădurilor: - rata netă anuală de schimbare a suprafeței forestiere;  -
-  rezervele de biomasă supraterană în păduri;  - proporția de suprafață
-  forestieră situată în zonele protejate legal;   - proporția de suprafață
-  forestieră gospodărită în conformitate cu planurile de gestionare
-  durabilă  a pădurilor pe termen lung;  - suprafața forestieră inclusă în
-  cadrul sistemului de certificare a modului de gestionare a pădurilor,
-  verificat independent
+  pădurilor
 15-2-1-1-title: Suprafața terenurilor degradate restabilite prin împădurire
 15-2-1-1-graph: 15.2.1.1. Suprafața terenurilor degradate restabilite prin împădurire
 15-2-1-2-title: Suprafața pădurilor restabilite
@@ -1111,16 +1082,16 @@
   certificat de naștere
 16-10-1-1-title: Indicele libertății presei
 16-10-1-1-graph: 16.10.1.1. Indicele libertății presei
-16-10-2-1-title: Existența și gradul de implementare a cadrului normativ cu privire la
+16-10-2-1-title: 'Existența și gradul de implementare a cadrului normativ cu privire la
   accesul la informație inclusiv (i) rata cererilor de comunicare a
   informațiilor de interes public soluționate integral; (ii) ponderea
   furnizorilor de informații care respectă termenele legale de examinare a
-  cererilor
-16-10-2-1-graph: 16.10.2.1. Existența și gradul de implementare a cadrului normativ cu
+  cererilor'
+16-10-2-1-graph: '16.10.2.1. Existența și gradul de implementare a cadrului normativ cu
   privire la accesul la informație inclusiv (i) rata cererilor de
   comunicare a informațiilor de interes public soluționate integral; (ii)
   ponderea furnizorilor de informații care respectă termenele legale de
-  examinare a cererilor
+  examinare a cererilor'
 16-a-1-title: Existența instituțiilor naționale independente pentru drepturile omului
   în conformitate cu Principiile de la Paris, statut de acreditare (A, B,
   C)
