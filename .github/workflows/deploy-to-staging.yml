@@ -59,3 +59,9 @@ jobs:
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
+    - name: Trigger site rebuild
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.SITE_REBUILD_TOKEN }}
+        repository: statisticamd/sdg-site-moldova
+        event-type: data-updated
