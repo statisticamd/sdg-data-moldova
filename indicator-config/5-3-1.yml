@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: 5.3.1 Proportion of women aged 20-24 who were married or in a couple  relationship for the first time before the age of 15 and before the age of 18
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of women aged 20-24 who were married or in a couple  relationship for the first time before the age of 15 and before the age of 18
-indicator_name: global_indicators.5-3-1-title
+indicator_name: national_indicators.5-3-1-title
 indicator_number: 5.3.1
 indicator_tabs:: 
   override: false

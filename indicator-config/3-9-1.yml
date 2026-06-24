@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: 3.9.1 Mortality rate attributed to household and ambient air pollution per  100,000 population
 graph_titles: []
 graph_type: line
-indicator_available: Mortality rate attributed to household and ambient air pollution per  100,000 population
-indicator_name: global_indicators.3-9-1-title
+indicator_name: national_indicators.3-9-1-title
 indicator_number: 3.9.1
 indicator_tabs:: 
   override: false

@@ -23,7 +23,6 @@ graph_target_lines: []
 graph_title: 16.2.1 Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of children aged 1–14 years who experienced any physical  punishment and/or psychological aggression by caregivers in the past month
 indicator_name: global_indicators.16-2-1-title
 indicator_number: 16.2.1
 indicator_tabs:: 
@@ -35,7 +34,7 @@ indicator_tabs::
 national_geographical_coverage: Republic of Moldova
 page_content: ''
 permalink: ''
-placeholder: ''
+placeholder: global_indicators.16-2-1-title
 precision: []
 progress_status: not_available
 publications: []

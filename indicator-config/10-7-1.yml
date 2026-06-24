@@ -23,7 +23,6 @@ graph_target_lines: []
 graph_title: national_indicators.10-7-1-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.10-7-1-title
 indicator_name: global_indicators.10-7-1-title
 indicator_number: 10.7.1
 indicator_tabs:: 
@@ -36,7 +35,7 @@ national_geographical_coverage: <p> The Republic of Moldova, without the left ba
   <p>municipality of Bender </p>
 page_content: ''
 permalink: ''
-placeholder: ''
+placeholder: global_indicators.10-7-1-title
 precision: []
 progress_status: not_available
 publications: []

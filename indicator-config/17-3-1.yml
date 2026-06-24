@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: 17.3.1 Share of foreign direct investment, external financial and technical  assistance for development in GDP
 graph_titles: []
 graph_type: line
-indicator_available: Share of foreign direct investment, external financial and technical  assistance for development in GDP
-indicator_name: global_indicators.17-3-1-title
+indicator_name: national_indicators.17-3-1-title
 indicator_number: 17.3.1
 indicator_tabs:: 
   override: false

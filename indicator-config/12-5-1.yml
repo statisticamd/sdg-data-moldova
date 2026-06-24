@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: 12.5.1. Proportion of recycled (production and consumption) waste out of total  generated waste
 graph_titles: []
 graph_type: line
-indicator_available: Proportion of recycled (production and consumption) waste out of total  generated waste
-indicator_name: global_indicators.12-5-1-title
+indicator_name: national_indicators.12-5-1-title
 indicator_number: 12.5.1
 indicator_tabs:: 
   override: false

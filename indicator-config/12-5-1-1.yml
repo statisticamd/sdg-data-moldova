@@ -23,7 +23,6 @@ graph_target_lines: []
 graph_title: 12.5.1.1 Volume of generated (production and consumption) waste
 graph_titles: []
 graph_type: line
-indicator_available: Volume of generated (production and consumption) waste
 indicator_name: national_indicators.12-5-1-1-title
 indicator_number: 12.5.1.1
 indicator_tabs:: 

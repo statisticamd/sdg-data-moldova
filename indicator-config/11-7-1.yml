@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: 11.7.1 Average share of built-up area of cities that is open space with public  access for all
 graph_titles: []
 graph_type: line
-indicator_available: Average share of built-up area of cities that is open space with public  access for all
-indicator_name: global_indicators.11-7-1-title
+indicator_name: national_indicators.11-7-1-title
 indicator_number: 11.7.1
 indicator_tabs:: 
   override: false

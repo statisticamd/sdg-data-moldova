@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.10-7-4-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.10-7-4-title
-indicator_name: global_indicators.10-7-4-title
+indicator_name: national_indicators.10-7-4-title
 indicator_number: 10.7.4
 indicator_tabs:: 
   override: false

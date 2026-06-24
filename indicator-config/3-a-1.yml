@@ -23,8 +23,7 @@ graph_target_lines: []
 graph_title: 3.a.1 Prevalence of tobacco use among persons aged 15 years and older
 graph_titles: []
 graph_type: line
-indicator_available: Prevalence of tobacco use among persons aged 15 years and older
-indicator_name: global_indicators.3-a-1-title
+indicator_name: national_indicators.3-a-1-title
 indicator_number: 3.a.1
 indicator_tabs:: 
   override: false
