@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: Procent, %
+computation_units: Percent, %
 copyright: ''
-data_footnote: Pentru anii 2017-2023, valoarea este < 2,5%
+data_footnote: For 2017-2023 years, the value is < 2.5%
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.2-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.2-1-1-title
+indicator_name: global_indicators.2-1-1-title
 indicator_number: 2.1.1
 indicator_tabs:: 
   override: false
@@ -31,10 +31,10 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: ''
 permalink: ''
-placeholder: ''
+placeholder: global_indicators.2-1-1-title
 precision: []
 progress_status: not_available
 publications: []
@@ -44,5 +44,5 @@ sort: ''
 sources: []
 standalone: false
 tags:
-  - Global ajustat
+  - Global adjusted
 x_axis_label: ''
