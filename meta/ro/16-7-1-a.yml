@@ -63,7 +63,7 @@ DATA_COMP: >-
   <p>  Numărătorul:  Numărul femeilor deputate/ bărbaților deputați  în Parlament raportat la  numărul total de deputați în Parlament *100</p> 
   <p>  Numitorul: Numărul femeilor/ bărbaților cu drept de vot în vârstă de 18 ani  și peste  în numărul total al  populației în vârstă de 18 ani și peste.</p> 
   <p>3. Președintele Parlamentului:  nu se calculează, deoarece există un singur Președinte în Parlament, fiind  înregistrate doar caracteristicile individuale acestuia, adică: grupul de  vârstă și sexul.</p> 
-  <p>4. Președinții comisiilor parlamentare permanente  (Comisia administrație publică; Comisia agricultură și industrie alimentară;  Comisia cultură, educație, cercetare, tineret, sport și mass-media; Comisia de  control al finanțelor publice; Comisia drepturile omului și relații  interetnice;  Comisia economie, buget și finanțe; Comisia juridică, numiri și  imunități; Comisia mediu și dezvoltare regională; Comisia politică externă și  integrare europeană; Comisia protecție socială, sănătate și familie și Comisia  securitate națională, apărare și ordine publică): nu se calculează, deoarece  sunt colectate pentru 11 președinți ai comisiilor. Sunt înregistrate doar  caracteristicile individuale acestora, adică: grupul de vârstă și sexul. </p>
+  <p>4. Președinții comisiilor parlamentare permanente  (Comisia administrație publică; Comisia agricultură și industrie alimentară;  Comisia cultură, educație, cercetare, tineret, sport și mass-media; Comisia de  control al finanțelor publice; Comisia drepturile omului și relații  interetnice;  Comisia economie, buget și finanțe; Comisia juridică, pentru numiri și  imunități; Comisia mediu și dezvoltare regională; Comisia politică externă; Comisia pentru integrare europeană; Comisia protecție socială, sănătate și familie și Comisia  securitate națională, apărare și ordine publică): nu se calculează, deoarece  sunt colectate pentru 12 președinți ai comisiilor. Sunt înregistrate doar  caracteristicile individuale acestora, adică: grupul de vârstă și sexul. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -71,7 +71,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Spre deosebire de indicatorul global, sub-indicatorul 3 al căruia se  calculează ca număr absolut al președinților a 5 comisii parlamentare  permanente (Afaceri Externe, Apărare, Finanțe, Drepturile Omului și Egalitate  de Gen), indicatorul național este calculat ca număr absolut al președinților  celor 11 comisii parlamentare permanente stabilite în legislatura a X-a.
+  Spre deosebire de indicatorul global, sub-indicatorul 3 al căruia se  calculează ca număr absolut al președinților a 5 comisii parlamentare  permanente (Afaceri Externe, Apărare, Finanțe, Drepturile Omului și Egalitate  de Gen), indicatorul național este calculat ca număr absolut al președinților  celor 12 comisii parlamentare permanente stabilite în legislatura a XII-a.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

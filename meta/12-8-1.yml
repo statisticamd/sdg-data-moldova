@@ -10,12 +10,11 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  12.8
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-12-08-01.pdf
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF)
+  United Nations Sustainable Development Goals Metadata (pdf 782kB)
 SDG_INDICATOR: >-
   <p>Indicator 12.8.1: e of modules/contents on  i) sustainable development, ii) education for  climate changes and their multidisciplinary approach in school curricula so as  to set up the graduate profile</p>
 SDG_SERIES_DESCR: ''
@@ -31,26 +30,27 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The indicator is estimated based on the national reports sent to UNESCO based  on the questionnaire for implementation of UNESCO 1974 Recommendation  concerning Education for International Understanding,  Cooperation  and   Peace  and  Education  relating  to  Human  Rights  and  Fundamental   Freedoms, sent once per 4 years to the member countries. UNESCO methodology  and the questionnaire are annexed to the global metadata for this indicator.
+  NA
 UNIT_MEASURE: >-
   Score
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Descriptive information of the Ministry of Education and Research,  according to the questionnaire regarding the implementation of UNESCO 1974  Recommendation (1974)
+  descriptive information of the Ministry of Education, Culture and Research,  according to the questionnaire regarding the implementation of UNESCO 1974  Recommendation (1974)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministry of Education and Research
+  Ministry of Education, Culture and Research
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Education and Research
+  Ministry of Education, Culture and Research
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Calculation method: The indicator is measured through 4 components  (policies, curricula, training of teaching personnel and students'  evaluation), each of them including a series of criteria, which are afterwards  combined so as to give a score between „0” and „1” for each separate  component.
+  <p> The indicator is estimated based on the national reports sent to UNESCO based  on the questionnaire for implementation of UNESCO 1974 Recommendation  concerning Education for International Understanding,  Cooperation  and   Peace  and  Education  relating  to  Human  Rights  and  Fundamental   Freedoms, sent once per 4 years to the member countries. UNESCO methodology  and the questionnaire are annexed to the global metadata for this indicator.  </p> 
+  <p>  Calculation method: The indicator is measured through 4 components  (policies, curricula, training of teaching personnel and students'  evaluation), each of them including a series of criteria, which are afterwards  combined so as to give a score between „0” and „1” for each separate  component. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,7 +62,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  3
 source_active_1: true
 source_organisation_1: >-
   United Nations Educational, Scientific and Cultural Organization (UNESCO)
@@ -70,7 +70,7 @@ source_periodicity_1: >-
   Once every 4 years
 source_url_1: >-
 source_url_text_1: >-
-  Link to data source
+  Link to source
 source_contact_1: >-
-  NA
 source_other_info_1: >-
+  NA

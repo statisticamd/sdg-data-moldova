@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.6.2: Ponderea populației satisfăcute de calitatea serviciilor publice accesate  (servicii de sănătate, educație, documentarea populației)</p>
+  <p>Indicator 16.6.2: Gradul de satisfacție al beneficiarilor de servicii publice (servicii de sănătate, educație, documentarea populației)</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.6: Dezvoltarea instituțiilor eficiente, responsabile și transparente la toate  nivelurile</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -16,7 +16,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 16.6.2: Ponderea populației satisfăcute de calitatea serviciilor publice  accesate (servicii de sănătate, educație, documentarea populației)</p>
+  <p>Indicator 16.6.2: de satisfacție al beneficiarilor de servicii publice (servicii de sănătate, educație, documentarea populației)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -30,7 +30,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Gradul de satisfacție (suma ponderilor notelor de 5 și 6 acordate, unde 6 reprezintă - foarte satisfăcut)
+  Gradul de satisfacție (în baza notelor acordate, unde 6 reprezintă - satisfăcut)
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Ponderea respondenților care au răspuns că sunt satisfăcuți sau foarte satisfăcuți de serviciile publice, din total respondenți
+  Suma respondenților care au răspuns că sunt satisfăcuți sau foarte satisfăcuți de serviciile publice
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -8,6 +8,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
+  Indicatorul măsoară proporția persoanelor cu tulburări asociate consumului de substanțe care beneficiază de intervenții de tratament, inclusiv servicii farmacologice, psihosociale, de reabilitare  raportată la numărul total estimat al persoanelor cu astfel de tulburări.
 SDG_GOAL: ''
 target_id: >-
   3.5

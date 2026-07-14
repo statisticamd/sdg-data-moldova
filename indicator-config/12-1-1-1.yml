@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.12-1-1-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.12-1-1-1-title
 indicator_name: national_indicators.12-1-1-1-title
 indicator_number: 12.1.1.1
 indicator_tabs:: 
@@ -60,7 +61,12 @@ page_content: >-
   <p>2024</p> 
   <p>- Environmental Strategy for the years 2024–2030, Government Decision No. 409/2024</p> 
   <p>- Programme for Promoting the Green and Circular Economy in the Republic of Moldova for the period 2024–2028, Government Decision No. 495/2024</p> 
-  <p>- National Economic Development Strategy 2030, Government Decision No. 394/2024 </p>
+  <p>- National Economic Development Strategy 2030, Government Decision No. 394/2024</p> 
+  <p>2025:</p> 
+  <p>- National Strategy for the Development of the Capital Market of the Republic of Moldova for the period 2025–2030, Low No. 197/2025;</p> 
+  <p>- Sectoral Strategy for the Long-Term Renovation of the National Building Stock for the period 2025–2050, Government Decision No. 595/2025;</p> 
+  <p>- Digital Transformation Program of the Energy Sector of the Republic of Moldova for the years 2026–2030, Government Decision No. 652/2025;</p> 
+  <p>- State Program for the Establishment and Development of Industrial Parks, Government Decision No. 493/2025. </p>
 permalink: ''
 placeholder: ''
 precision: []

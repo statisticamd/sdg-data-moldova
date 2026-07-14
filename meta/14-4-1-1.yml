@@ -33,7 +33,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Illegal fishing contraventions - an action of breaking of the established fishing rules, which does not represent an offence, and which is sanctioned with an administrative penalty, the amount of which is established in conventional units and varies for individuals and legal entities depending on how severe the contravention was (Article 114 paragraphs (1), (2), (4), and (5) of the Contravention Code No. 218 of 24.10.2008).
+  Illegal fishing contraventions - an action of  breaking of the established fishing rules, which  does not represent an offence, and which is sanctioned with an administrative penalty, the amount of which is established in conventional units and varies for individuals and legal entities depending on how severe the contravention was
 UNIT_MEASURE: >-
   Number
 CLASS_SYSTEM: ''
@@ -52,7 +52,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Total number of illegal fishing violations registered by competent authorities during the year of reference.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -72,6 +71,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
+  https://ipm.gov.md/sites/default/files/2022-10/A%20N%20U%20A%20R%20U%20L%20-%202021%2C%20IPM.pdf
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-

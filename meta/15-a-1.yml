@@ -50,10 +50,11 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  <p> Ministry of Environment</p> 
+  <p>State Chancellery </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministry of Agriculture and Food Industry </p> 
-  <p>2. Ministry of Finance </p>
+  Ministry of Environment
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -81,4 +82,5 @@ source_url_1: >-
 source_url_text_1: >-
   UNSTATS Database
 source_contact_1: >-
+  Irina Vîsoțcaia – Public Policy Coordination and European Integration Directorate (tel.: 022 204-568, e-mail: irina.visotcaia@mediu.gov.md)
 source_other_info_1: >-

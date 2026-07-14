@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.7.1.c: Ratio between the proportion of positions held in the judiciary system by  persons of certain groups of population (by sex, age, persons with  disabilities and other corresponding groups) and the proportion of the  respective group out of total population</p>
+  <p>Indicator 16.7.1.c: Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de către  persoanele din anumite grupuri ale populației (pe sexe, vârstă, persoanele cu  dizabilități și alte grupuri corespunzătoare) și proporția grupului respectiv  în total populație</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 16.7: Ensure responsive, inclusive, participatory and representative decision-making  at all levels</p>
+  <p>Target 16.7: Asigurarea procesului decizional receptiv, incluziv, participativ și  reprezentativ la toate nivelurile</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Development Programme (UNDP)
@@ -16,9 +16,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01c.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 16.7.1.c: Ratio between the proportion of positions held in the judiciary  system by persons of certain groups of population (by sex, age, persons with  disabilities and other corresponding groups) and the proportion of the  respective group out of total population</p>
+  <p>Indicator 16.7.1.c: Raportul dintre proporția pozițiilor ocupate în sistemul judiciar de  către persoanele din anumite grupuri ale populației (pe sexe, vârstă,  persoanele cu dizabilități și alte grupuri corespunzătoare) și proporția  grupului respectiv în total populație</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,40 +32,40 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The aim of the indicator is to measure the proportionality of representation  of different social-demographic groups of population (with special focus on  sex, age, disability status, and groups of population) among the persons  holding two key positions in decision-making in judiciary system: (a) judges  and (b) court clerks, as compered to the proportion of these groups in working  age population.
+  Scopul indicatorului este de a măsura proporționalitatea reprezentării  diferitelor grupuri socio-demografice ale populației (cu accent special pe  sexe, vârstă, statut de dizabilitate, și grupuri de populație) în rândul  persoanelor care ocupă două poziții cheie în luarea deciziilor în sistemul  judiciar: (a) judecători și (b) grefieri, în raport cu ponderea acestor  grupuri în populația în vârstă aptă de muncă.
 UNIT_MEASURE: >-
-  Percent, %
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Administrative data - Agency for Digitalization in Justice and Court Administration
+  Date administrative - Agenția Digitalizare în Justiție și Administrare Judecătorească
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Agency for Digitalization in Justice and Court Administration</p> 
-  <p>2. National Bureau of Statistics </p>
+  <p> 1. Agenția Digitalizare în Justiție și Administrare Judecătorească </p> 
+  <p>2. Biroul Național de Statistică </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  State Chancellary
+  Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The indicator is calculated in 2 steps:</p> 
-  <p>  Step 1: Reporting simple  proportions of: (a) female judges, (b) young judges aged 44 years old and  younger, (c) judges with disabilities and (d) judges from other relevant  national groups of population (e.g. ethnic groups) in the: (i) Constitutional  Court / Supreme Court of Justice; (ii) Higher-level courts (Courts of Appeal) and (iii) Lower-level courts.</p> 
-  <p>  Step 2: Generation of ratios to compare the proportion of (a) female judges, (b) young judges aged 44 years old and younger, (c) judges with  disabilities and (d) judges from other relevant groups of population at the  national level in the judicial system at the level of all courts as compared  to the proportion of the same target groups in the working-age population. The  ratios should be calculated for all the levels of the courts, and namely for:</p> 
-  <p>   1. Female judges;</p> 
-  <p>  2. Young judges aged 44 years old and  younger;</p> 
-  <p>  3. Judges with disabilities; </p> 
-  <p>  4. Judges  belonging to the relevant groups of population (depending on  the national relevance).</p> 
-  <p>  The same approach is used for generating the  ratios for court clerks:</p> 
-  <p>  Step 1: Reporting simple proportions of: (a) female court clerks, (b) young court clerks aged 44 years old and younger, (c) court clerks with disabilities  (d) court clerks from other relevant national groups  of population (e.g. ethnic groups) in: (i) the Constitutional Court / Supreme  Court of Justice; (ii) Courts of Appeal  (iii)  Lower-level courts.</p> 
-  <p>  Step 2:  Generating ratios that compare the proportion of (a) female court clerks, (b)  young court clerks aged 44 years old and younger, (c) court clerks with  disabilities  (d) court clerks from other relevant national groups of population  from the judicial system of all court levels as compared to proportion of the  same target groups in the working-age population. The ratios should be  calculated for all the court levels, and namely for:</p> 
-  <p>  1. Female court clerks;</p> 
-  <p>  2. Young court clerks aged 44 years old and younger;</p> 
-  <p>  3.  Court clerks with disabilities; </p> 
-  <p>  4. Court clerks belonging to other relevant groups of population  ( depending on the national  relevance). </p>
+  <p> Indicatorul este calculat în 2 pași:</p> 
+  <p>  Pasul 1: Raportarea proporțiilor  simple a: (a) femeilor judecătoare, (b) judecătorilor tineri în vârstă de 44  ani și mai jos, (c) judecătorilor cu dizabilități și (d) judecătorilor din  alte grupuri relevante național ale populației (ex. grupuri etnice) în: (i) curtea constituțională/curtea supremă de justiție; (ii) curțile de apel și (iii) judecătorii.</p> 
+  <p>  Pasul 2: Generarea raporturilor care să compare  proporția de (a) femei judecătoare, (b) judecători tineri cu vârsta de până la  44 de ani, (c) judecători cu dizabilități și (d) judecători din alte grupuri de  populație relevante la nivel național din sistemul judiciar, din toate nivelurile de instanțe în raport cu proporția acelorași grupuri țintă din populația în vârstă aptă de muncă. Raporturile trebuie să fie calculate pentru toate nivelurile instanțelor, și anume, pentru:</p> 
+  <p>  1. Femei judecători;</p> 
+  <p>  2. Judecători tineri în vârstă de 44 de ani și mai jos;</p> 
+  <p>  3. Judecători cu dizabilități; </p> 
+  <p>  4. Judecători din alte grupuri relevante de populație (în funcție de  relevanța națională).</p> 
+  <p>  La fel se procedează și în cazul generării  raporturilor pentru grefieri:</p> 
+  <p>  Pasul 1: Raportarea proporțiilor simple a: (a) femeilor grefieri, (b) tineri grefieri în vârstă de 44 ani și mai jos, (c)  grefieri cu dizabilități și (d) grefieri din alte grupuri relevante național ale  populației (ex. grupuri etnice) în: (i) curtea constituțională/curtea supremă  de justiție; (ii) curțile de apel și (iii) judecătorii.</p> 
+  <p>  Pasul 2:  Generarea raporturilor care să compare proporția de (a) femei grefieri, (b)  tineri grefieri cu vârsta de până la 44 de ani, (c) grefieri cu dizabilități  și (d) grefieri din alte grupuri de populație relevante la nivel național din  sistemul judiciar, din toate nivelurile instanțelor în raport cu proporția  acelorași grupuri țintă din populația în vârstă aptă de muncă. Raporturile trebuie  să fie calculate pentru toate nivelurile instanțelor, și anume, pentru:</p> 
+  <p>  1. Femei grefieri;</p> 
+  <p>  2. Tineri grefieri în vârstă de 44 de ani și mai  jos;</p> 
+  <p>  3. Grefieri cu dizabilități; </p> 
+  <p>  4. Grefieri  aparținând altor grupuri relevante de populație (în  funcție de relevanța națională). </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -73,7 +73,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  At the national level, disability refers to the existence of a disability certificate (official status of a person recognized as having a disability). The number of registrars also includes the number of judicial assistants. At the national level, data are not available for some population groups, for example: ethnic groups.
+  <p> La nivel național dizabilitatea se referă la existența unui certificat de dizabilitate (statut oficial de persoană recunoscută cu dizabilitate. Numărul de grefieri  include și numărul de asistenți judiciari. </p> 
+  <p>La nivel național nu sunt disponibile date pentru unele grupuri de populație, spre exemplu: grupurile etnice. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -81,13 +82,13 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
+  Biroul Național de Statistică
 source_periodicity_1: >-
-  Annual
+  Anual
 source_url_1: >-
 source_url_text_1: >-
-  Link to data source
+  Link la sursa de date
 source_contact_1: >-
-  <p> Ana Cheptănaru, Judicial Legislation and Statistics Section, Agency for Digitalization in Justice and Court Administration,</p> 
-  <p>e-mail: ana.cheptanaru@justice.gov.md, tel.: 0 22 820 867 </p>
+  <p> Andreea Șișcanu, Secția legislație și statistică judiciară, Agenția Digitalizare în Justiție și Administrare Judecătorească,</p> 
+  <p>e-mail: andreea.siscanu@justice.gov.md, tel. tel.: 0 22 220 149 </p>
 source_other_info_1: >-

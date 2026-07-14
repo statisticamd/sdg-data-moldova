@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.6.2: Proportion of population satisfied with the quality of public services  accessed (health services, education, population documentation)</p>
+  <p>Indicator 16.6.2: Degree of satisfaction of beneficiaries of public services (health services, education, population documentation)</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.6: Develop effective, accountable and transparent institutions at all levels</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -30,7 +30,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Degree of satisfaction (sum of the weights of the grades of 5 and 6, where 6 represents - very satisfied)
+  Degree of satisfaction (based on the grades awarded, where 6 represents - satisfied)
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Share of respondents who answered that they are satisfied or very satisfied with public services, out of total respondents
+  The number of respondents who answered that they are satisfied or very satisfied with public services
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

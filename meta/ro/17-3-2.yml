@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 17.3.2: Volumul remiterilor personale ca procent din PIB (recalculat în dolari  SUA)</p>
+  <p>Indicator 17.3.2: Volumul remiterilor personale (în dolari SUA) ca procent din PIB (recalculat în dolari SUA)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,17 +31,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Remiterile personale sunt suma a trei elemente = Transferuri personale +  Remunerarea netă a salariaților nerezidenți  (fără taxele și impozitele,  contribuțiile sociale, cheltuielile de transport și de ședere în țara gazdă )  + Transferuri de capital între gospodăriile casnice, recomandate de  standardele metodologice internaționale ale FMI  în Manualele “Balanța de  plăți și poziția investițională internațională”, ediția a VI-a (2009)”,  „Tranzacții internaționale cu remiteri – ghid pentru compilatori și  utilizatorii” (2009). </p> 
-  <p>  Remiterile personale în cadrul balanței de plăți.  În cadrul balanței de plăți nu există un articol separat, nici grup de  articole, a căror sumă reprezintă remiterile personale ale persoanelor fizice.  Dat fiind faptul că acest indicator este unul de interes sporit pentru  Republica Moldova, BNM a elaborat un algoritm pentru estimarea acestora.  Indicatorul remiteri personale se calculează adițional la BP și se prezintă  separat cu titlu informativ.</p> 
-  <p>Pentru estimarea resurselor  financiare transmise în țară prin alte căi decât băncile licențiate sau  oficiile poștale se analizează evoluția depozitelor persoanelor fizice  rezidente, evoluția numerarului în valută deținut de băncile licențiate,  rulajele caselor de schimb valutar, precum și evoluția piețelor de imobil și  autoturisme. Se ține cont de predispoziția spre economisire a persoanelor ce  primesc remiteri de bani de peste hotare, precum și evoluția consumului  gospodăriilor în cauză. [A se  vedea](https://bnm.md/ro/content/conturile-internationale-metodologia-de-compilare-si-baza-informationala).</p> 
-  <p>  În baza  datelor din Sistemul de Raportare a Tranzacțiilor Internaționale (SRTI) sunt  estimativ determinate pragurile valorice pentru repartiția transferurilor de  bani efectuate de persoanele fizice de peste hotare în favoarea celor din  Republica Moldova după tipul tranzacției în: remunerarea salariaților  rezidenți; transferuri curente ale persoanelor fizice; transferuri de capital  între gospodăriile populației. </p>
+  <p> Remiterile personale reprezintă suma a trei elemente: transferuri personale, remunerarea netă a salariaților nerezidenți (fără taxe și impozite,  contribuții sociale, cheltuieli de transport și de ședere în țara gazdă), și transferuri de capital între gospodăriile casnice, recomandate de  standardele metodologice internaționale ale FMI în Manualele “Balanța de  plăți și poziția investițională internațională”, ediția a VI-a (2009)”,  „Tranzacții internaționale cu remiteri – ghid pentru compilatori și  utilizatorii” (2009). </p> 
+  <p>  Remiterile personale în cadrul balanței de plăți.  În cadrul balanței de plăți nu există un articol separat, nici grup de  articole, a căror sumă reprezintă remiterile personale ale persoanelor fizice.  Deoarece acest indicator prezintă un interes sporit pentru Republica Moldova, BNM a elaborat un algoritm pentru estimarea lui.  Indicatorul remiteri personale se calculează adițional la BP și se prezintă separat cu titlu informativ.</p> 
+  <p>Pentru estimarea resurselor  financiare transmise în țară prin alte canale decât băncile licențiate, prestatorii serviciilor de plată sau oficiile poștale se analizează evoluția depozitelor persoanelor fizice  rezidente, evoluția numerarului în valută deținut de băncile licențiate,  rulajele caselor de schimb valutar, precum și evoluția piețelor de imobil și  autoturisme. Se ține cont,  de predispoziția spre economisire a persoanelor ce  primesc remiteri de bani de peste hotare, precum și evoluția consumului  gospodăriilor în cauză. [A se  vedea](https://bnm.md/ro/content/conturile-internationale-metodologia-de-compilare-si-baza-informationala).</p> 
+  <p>  În baza  datelor din Sistemul de Raportare a Tranzacțiilor Internaționale (SRTI) se estimează pragurile valorice pentru repartiția transferurilor de  bani efectuate de persoanele fizice de peste hotare în favoarea celor din  Republica Moldova după tipul tranzacției în: remunerarea salariaților  rezidenți, transferuri curente ale persoanelor fizice, transferuri de capital între gospodăriile populației. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Datele privind transferurile bănești de peste hotare în favoarea  persoanelor fizice efectuate prin intermediul bănci lor licențiate și al  oficiilor poștale - BNM</p> 
-  <p>  2) Ancheta Forței de Muncă - BNS. </p>
+  <p> 1) Datele privind transferurile bănești de peste hotare în favoarea  persoanelor fizice efectuate prin intermediul bănci lor licențiate și al oficiilor poștale - BNM</p> 
+  <p>2) Ancheta Forței de Muncă - BNS. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -56,7 +56,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Influxul de remiteri personale (în dolari SUA) raportat la Produsul Intern  Brut (PIB) recalculat în dolari SUA * 100.
+  Intrările de remiteri personale (în dolari SUA) raportat la Produsul Intern Brut (PIB) recalculat în dolari SUA * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

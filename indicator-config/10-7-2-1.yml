@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.10-7-2-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.10-7-2-1-title
 indicator_name: national_indicators.10-7-2-1-title
 indicator_number: 10.7.2.1
 indicator_tabs:: 
@@ -33,10 +34,14 @@ indicator_tabs::
   tab_4: ''
 national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: >-
-  <p> Legal migration for employment purposes is facilitated by the National Employment Agency based on agreements in the field of labor migration. Currently, there are three active agreements:</p> 
-  <p>1.The Agreement between the Government of the Republic of Moldova and the Government of the State of Israel regarding the temporary employment of workers from the Republic of Moldova in certain sectors in the State of Israel, signed on October 16, 2012;</p> 
-  <p>2.The Agreement between the Government of the Republic of Moldova and the Government of the Republic of Bulgaria on regulating labor migration, signed on June 18, 2018;</p> 
-  <p>3.The Memorandum of Cooperation between the Federal Employment Agency of Germany and the Ministry of Labor and Social Protection of the Republic of Moldova regarding the selection of workers to be placed in seasonal employment in the Federal Republic of Germany, signed on July 1, 2021. </p>
+  <p> In order to facilitate orderly, safe, regular and responsible migration and mobility of persons, including through the implementation of well-planned and effectively managed migration policies, several public policy documents have been developed and approved, as follows:</p> 
+  <p>1.	The National Program in the field of Migration and Asylum and the corresponding Action Plan for the period 2026–2030, approved by Government Decision No. 666/2025; </p> 
+  <p>2.	The National Program for the Phased Integration of Foreigners, including Displaced Persons in the Republic of Moldova, for the period 2025–2027, approved by Government Decision No. 285/2025; </p> 
+  <p>3.	Government Decision No. 720/2025 on the approval of mechanisms and methodology applicable in the asylum procedure (including the mechanism for granting material reception conditions to asylum applicants); </p> 
+  <p>4.	Law No. 200/2025 on the free movement and residence of citizens of the European Union and their family members; </p> 
+  <p>5.	Government Decision No. 21/2023 on granting temporary protection to displaced persons from Ukraine, annually extended by Government Decisions No. 141/2024, No. 93/2025 and No. 26/2026. </p> 
+  <p>Furthermore, the draft law on the admission, stay and supervision of foreigners in the Republic of Moldova was approved in the first reading in 2026. This draft law introduces a new concept and a comprehensive approach to the regulation of migration processes, its structure, principles and content being derived from the transposition of 12 European Union directives and regulations in this field. Currently, the legal regime applicable to foreigners in the Republic of Moldova is regulated by Law No. 200/2010 on the regime of foreigners in the Republic of Moldova.</p> 
+  <p>At the same time, in February 2026, the General Inspectorate for Migration and the National Employment Agency concluded a cooperation agreement aimed at strengthening the integration of foreigners, facilitating their access to the labor market and support services, preventing undeclared work, as well as reducing the risks of labor exploitation. </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -49,5 +54,4 @@ sources: []
 standalone: false
 tags:
   - National proxy
-  - Non-statistical indicator
 x_axis_label: ''

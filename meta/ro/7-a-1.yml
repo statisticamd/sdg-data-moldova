@@ -7,6 +7,9 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Organisation for Economic Co-operation and Development (OECD)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
+  <p> Fluxurile OECD sunt calculate ca totalul fluxurilor oficiale (AOD și OOF) provenite de la țările membre DAC, organizații multilaterale și alți furnizori de asistență pentru dezvoltare către sectoarele relevante. Fluxurile suplimentare IRENA sunt calculate pe baza investițiilor publice din baza de date IRENA privind investițiile în energie regenerabilă, excluzând: fluxurile financiare interne; fluxurile internaționale către țări din afara regiunilor în curs de dezvoltare; fluxurile către beneficiari multilaterali nespecificați; și fluxurile deja raportate de Organisation for Economic Co-operation and Development.</p> 
+  <p>Fluxurile sunt exprimate ca angajamente, măsurate în dolari SUA (USD) curenți, și sunt urmărite la nivel de proiect sau activitate individuală. În cazul în care există suprapuneri între bazele de date OECD și International Renewable Energy Agency, acestea sunt eliminate din setul de date IRENA pentru a evita dubla contabilizare.</p> 
+  <p>Valorile sunt convertite în USD constanți, utilizând un an de bază care, de regulă, are un decalaj de doi ani față de anul publicării. Conversia se realizează conform metodologiei deflatorului DAC, descrisă de OECD. </p>
 SDG_INDICATOR_INFO__GLOBAL: >-
   Mobilized amount of United States dollars per year starting in 2020  accountable towards the $100 billion commitment.
 SDG_GOAL: ''
@@ -40,7 +43,7 @@ STAT_CONC_DEF: >-
   <p>  Sectorul de generare și furnizare a  energiei este definit în conformitate cu standardele DAC/OECD și cuprinde  toate codurile sectoriale conform clasificării CRS din secțiunile 230, care  includ următoarele coduri privind cercetare și dezvoltare în domeniul energiei  curate și producției de energie regenerabilă, inclusiv în sistemele hibride:  1) 23065 Centrale hidroelectrice - inclusiv energia generatoare de baraje  fluviale, 2) 23067 Energie solară - Inclusiv celule fotovoltaice, aplicații  solare termice și încălzire solară, 3) 23068 Energia eoliană - Energia eoliană  pentru ridicarea apei și generarea energiei electrice, 4) 23069 Energia  valurilor și mareelor marină - Inclusiv conversia energiei termice oceanice,  energia mareelor și valurilor, 5) 23066 Energie geotermală - Utilizarea  energiei geotermale pentru generarea energiei electrice sau direct ca căldură  pentru agricultură etc, 6) 23070 Biomasa, 7) 23082  Cercetare în domeniul  energetic</p> 
   <p>  Agenția Internațională pentru Energii Regenerabile (IRENA):  fluxurile acoperite de IRENA sunt definite ca toate creditele suplimentare,  granturile și investițiile de capital primite de la țările donatoare,  agențiile multilaterale și instituțiile  de finanțare suplimentare (inclusiv  creditele la export, dacă sunt disponibile)  a dezvoltării în scopul  cercetării și dezvoltării energiei curate și a producției de energie  regenerabilă, inclusiv în sistemele hibride. </p>
 UNIT_MEASURE: >-
-  Milioane dolari SUA, Prețuri constante 2022
+  Milioane dolari SUA, Prețuri constante 2023
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -49,11 +52,15 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  <p> Organizația pentru Cooperare și Dezvoltare Economică (OCDE)</p> 
+  <p>Agenția Internațională pentru Energie Regenerabilă (IRENA) </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1) Ministerul Dezvoltării Economice și Digitalizării</p> 
-  <p>  2) Ministerul Finanțelor </p>
+  1. Ministerul Energiei
 OTHER_METHOD: >-
+  <p> Organisation for Economic Co-operation and Development / Development Assistance Committee colectează date privind fluxurile de resurse oficiale și private începând din 1960 la nivel agregat și din 1973 la nivel de activitate, prin intermediul Sistemului de Raportare a Creditorilor (CRS). Datele CRS sunt considerate complete din 1995 pentru angajamente la nivel de activitate și din 2002 pentru plăți. Datele sunt raportate anual, pe baza anului calendaristic, de către instituțiile statistice din administrațiile naționale (agenții de ajutor, ministere de externe sau finanțe etc.).</p> 
+  <p>Datele International Renewable Energy Agency privind fluxurile financiare din surse publice în sprijinul energiei regenerabile sunt disponibile în Baza de date a investițiilor publice în energie regenerabilă a IRENA. IRENA colectează aceste date dintr-o gamă largă de surse publice, inclusiv baze de date și rapoarte anuale ale principalelor instituții de finanțare a dezvoltării și ale altor 20 de agenții bilaterale și multilaterale care investesc în energie regenerabilă.</p> 
+  <p>Baza de date este actualizată anual și (la sfârșitul anului 2021) acoperă investiții publice în energie regenerabilă în 41 de țări dezvoltate și 109 țări în curs de dezvoltare, pentru perioada 2000–2020. Pe măsură ce noi instituții financiare publice încep să investească în energie regenerabilă, baza de date IRENA se va extinde pentru a include acești noi investitori în timp. </p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -73,6 +80,15 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
+  <p> Disponibilitatea datelor:</p> 
+  <p>CRS conține fluxuri către toate țările beneficiare ale DAC. Valorile globale și regionale se bazează pe suma fluxurilor de AOD (asistență oficială pentru dezvoltare) și OOF (alte fluxuri oficiale) către proiecte de energie regenerabilă.</p> 
+  <p>International Renewable Energy Agency include în prezent date despre proiecte de energie regenerabilă din 41 de țări dezvoltate și 109 țări în curs de dezvoltare (150 de țări în total).</p> 
+  <p>Serii de timp:</p> 
+  <p>Organisation for Economic Co-operation and Development: date anuale începând din 1960.</p> 
+  <p>IRENA: date anuale începând din 2000.</p> 
+  <p>Dezagregare:</p> 
+  <p>Datele din CRS conțin indicatori (markeri) care reflectă dacă un obiectiv de politică este atins printr-o anumită activitate. Evaluarea egalității de gen este inclusă în CRS. Datele sunt raportate la nivel de proiect și pot fi dezagregate după tipul fluxului (AOD sau OOF), donator, țară beneficiară, tip de finanțare și tip de ajutor (proiect, subsector agricol etc.).</p> 
+  <p>Datele IRENA sunt stocate la nivel de proiect, pe țări (sursă și beneficiar), permițând dezagregarea pe mai multe dimensiuni. De exemplu, fluxurile financiare pot fi împărțite după tehnologii (bioenergie, energie geotermală, hidroenergie, energie marină, energie solară și energie eoliană) și subtehnologii (de exemplu, eolian onshore și offshore), precum și după regiune, instrument financiar și tip de beneficiar. </p>
 source_periodicity_1: >-
   anual
 source_url_1: >-
@@ -81,3 +97,5 @@ source_url_text_1: >-
   Baza de date UNSTATS
 source_contact_1: >-
 source_other_info_1: >-
+  <p> CRS: Consultați toate linkurile aici: https://www.oecd.org/en/data/insights/data-explainers/2024/10/resources-for-reporting-development-finance-statistics.html</p> 
+  <p>Fluxuri de finanțare pentru energie regenerabilă IRENA: https://www.irena.org/Data/View-data-by-topic/Finance-and-Investment/Renewable-Energy-Finance-Flows </p>

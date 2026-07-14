@@ -8,6 +8,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
+  The indicator measures the proportion of people with substance use disorders who receive treatment interventions, including pharmacological, psychosocial, rehabilitation and aftercare services, out of the total estimated number of people with such disorders.
 SDG_GOAL: ''
 target_id: >-
   3.5

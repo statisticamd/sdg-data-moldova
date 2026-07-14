@@ -7,6 +7,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   IMF
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
+  The indicator measures the level of physical access of financial services through ATM infrastructure relative to the  population aged 18 years and over
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
@@ -38,7 +39,7 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) Indicators of activities within the system of payment with bankcards in the  Republic of Moldova, Statistical report  ORD 5.4 „Special devices and used  solutions” - NBM;</p> 
-  <p>  2) Demographic data on population - NBS </p>
+  <p> 2) Demographic data on population - NBS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -51,8 +52,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of ATM machines of commercial banks per 100 000 population aged 18  years old and over </p> 
-  <p>  Total number of ATMs will include: (a) number of ATMs  of licensed banks (collected based on the reports of banks licensed by NBM)  and (b) number of ATMs of organizations from non-banking financial sector  (include payment companies and companies issuing electronic money. </p>
+  <p> Total number of ATMs of payment service providers  per 100 000 population aged 18  years old and over </p> 
+  <p>(Total number of ATMs x 100,000) / population aged 18 and over </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,7 +71,7 @@ source_organisation_1: >-
   National Bank of Moldova
 source_periodicity_1: >-
   <p> 1) Quarterly, annual</p> 
-  <p>  2) Annual </p>
+  <p>2) Annual </p>
 source_url_1: >-
   https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml
 source_url_text_1: >-

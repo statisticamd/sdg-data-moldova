@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.11-b-1-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.11-b-1-1-title
 indicator_name: national_indicators.11-b-1-1-title
 indicator_number: 11.b.1.1
 indicator_tabs:: 
@@ -45,7 +46,10 @@ page_content: >-
   <p>- GO 2: Enhancing coordination and leadership mechanisms for disaster risk reduction and disaster management;</p> 
   <p>- GO 3: Promoting investments for risk reduction and increasing disaster resilience;</p> 
   <p>- GO 4: Strengthening preparedness and ensuring an effective response to emergencies and disasters, followed by recovery to a level higher than prior to the impact;</p> 
-  <p>- GO 5: Enhancing international and regional cooperation in the field of disaster risk reduction and disaster management. </p>
+  <p>- GO 5: Enhancing international and regional cooperation in the field of disaster risk reduction and disaster management.</p> 
+  <p>For the purpose of ensuring the reduction of disaster risks, in accordance with the established objective, as well as for the implementation of the multidisciplinary provisions of the Strategy, the relevant sectors (environment, internal affairs, health, infrastructure, economy, etc.) are to develop concrete programs and action plans.</p> 
+  <p></p> 
+  <p>In this context, draft versions of the National Program for the Reduction of Natural Disaster Risks for the years 2026–2030 and the National Program for the Development of Civil Protection for the years 2026–2030 have been prepared. These are currently in the process of approval and will serve as planning and implementation instruments for the concrete measures related to the intervention areas. </p>
 permalink: ''
 placeholder: ''
 precision: []

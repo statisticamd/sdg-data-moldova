@@ -45,8 +45,7 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. Ministerul Mediului </p> 
-  <p>2. Ministerul Dezvoltării Economice și Digitalizării</p> 
-  <p>3. Agențiile Publice </p>
+  <p>2. Ministerul Dezvoltării Economice și Digitalizării </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> 1. Ministerul Mediului</p> 
@@ -79,5 +78,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  Daniel Tentiuc, consultant principal, Secția politici în domeniul economiei circulare și instrumente economice, Ministerul Mediului, tel. 022 204 578, e-mail: daniel.tentiuc@mediu.gov.md
+  Tatiana Mihalachi, consultant principal, Secția politici în domeniul economiei circulare și instrumente economice, Ministerul Mediului, tel. 022 204 578, e-mail: tatiana.mihalachi@mediu.gov.md
 source_other_info_1: >-

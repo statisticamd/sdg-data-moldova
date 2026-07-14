@@ -42,7 +42,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  International Trade Centre (ITC)/United Nations Conference on Trade and  Development (UNCTAD)/World Trade Organization (WTO)
+  Ministry of Development of Economy and Digitalization
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Development of Economy and Digitalization
@@ -69,7 +69,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
-  https://www.wto.org/english/res_e/reser_e/trade_profiles_e.htm
+  https://www.wto.org/english/res_e/booksp_e/trade_profiles23_e.pdf
 source_url_text_1: >-
   Link to source
 source_contact_1: >-

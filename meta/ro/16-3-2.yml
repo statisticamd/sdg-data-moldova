@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Date administrative  ANP http://www.anp.gov.md/randomrapoarte-de-bilant-simestriale-anualerapoarte-de-bilant-simestriale-anualerapoarte-de-bilant
+  Date administrative  ANP
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,11 +72,13 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Justiției
+  Administrația Națională a Penitenciarelor
 source_periodicity_1: >-
   anual
 source_url_1: >-
+  https://anp.gov.md/raport-statistic-date-statistice
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  0 22 409 826 Daniela Antoci
 source_other_info_1: >-

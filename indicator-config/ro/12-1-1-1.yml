@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.12-1-1-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.12-1-1-1-title
 indicator_name: national_indicators.12-1-1-1-title
 indicator_number: 12.1.1.1
 indicator_tabs:: 
@@ -60,7 +61,12 @@ page_content: >-
   <p>2024</p> 
   <p>- Strategia de mediu pentru anii 2024–2030 , HG nr. 409/2024</p> 
   <p>- Programul de promovare a economiei verzi și circulare pentru perioada 2024–2028, HG nr. 495/2024</p> 
-  <p>- Strategia națională de dezvoltare economică 2030, HG nr. 394/2024 </p>
+  <p>- Strategia națională de dezvoltare economică 2030, HG nr. 394/2024</p> 
+  <p>2025:</p> 
+  <p>- Strategia Națională de dezvoltare a pieței de capital din Republica Moldova pentru perioada 2025 - 2030, Legea nr. 197/2025;</p> 
+  <p>- Strategia sectorială pentru renovarea fondului imobiliar național pe termen lung pentru perioada 2025 - 2050, HG nr. 595/2025;</p> 
+  <p>- Programul de transformare digitală a domeniului energetic al Republicii Moldova pentru anii 2026 - 2030, HG nr. 652/2025;</p> 
+  <p>- Programul de stat pentru constituirea și dezvoltarea parcurilor industriale, HG nr. 493/2025. </p>
 permalink: ''
 placeholder: ''
 precision: []

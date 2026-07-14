@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.15-8-1-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.15-8-1-1-title
 indicator_name: national_indicators.15-8-1-1-title
 indicator_number: 15.8.1.1
 indicator_tabs:: 
@@ -34,12 +35,13 @@ indicator_tabs::
 national_geographical_coverage: Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
 page_content: >-
   <p> ***Non-statistical indicator***</p> 
-  <p></p> 
-  <p>- The National Action Plan for the Republic of Moldova's accession to the European Union for the years 2024-2027 (NAP), approved by Government Decision no. 829/2023, foresees the approval of the Draft Law on Invasive Alien Species by octomber 2025.</p> 
   <p>- Government Decision No. 967/2018 on the approval of the Regulation on combating and preventing the spread of ragweed (Ambrosia artemisiifolia) and the Action Plan for combating and preventing the spread of ragweed (Ambrosia artemisiifolia) for the years 2019–2024.</p> 
   <p>- The Strategy for Biodiversity of the Republic of Moldova and the Action Plan for its Implementation, approved by Government Decision no. 274/2015.;</p> 
   <p>- Law on Plant Kingdom No. 239/2007;</p> 
-  <p>- Law on  Animal Kingdom No. 439/1995. </p>
+  <p>- Law on  Animal Kingdom No. 439/1995;</p> 
+  <p>- Law No. 422/2023 on measures for protection against harmful plant organisms;</p> 
+  <p>- Law No. 44/2022 on the production, marketing and use of forest reproductive material;</p> 
+  <p>- The National Programme for the Accession of the Republic of Moldova to the European Union for the years 2025–2029, approved by Government Decision No. 306/2025 and amended by Government Decision No. 818/2025, provides for the approval of the draft law on invasive alien species in December 2026. </p>
 permalink: ''
 placeholder: ''
 precision: []

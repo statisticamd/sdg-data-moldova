@@ -14,11 +14,11 @@ target_id: >-
   6.5
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-02.pdf
+  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata
+  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
 SDG_INDICATOR: >-
-  <p>Indicator 6.5.2: Proportion of cross-border river basins areas, part of international  agreements</p>
+  <p>Indicator 6.5.2: tion of cross-border river basins areas, part of international  agreements</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -70,9 +70,11 @@ source_organisation_1: >-
   Ministry of Environment
 source_periodicity_1: >-
 source_url_1: >-
-  http://www.geoportal.md/
+  <p> http://www.geoportal.md/</p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=21098&lang=ro </p> 
+  <p>https://www.legis.md/cautare/getResults?doc_id=9256&lang=ro# </p>
 source_url_text_1: >-
-  Link to data source
+  Link to source
 source_contact_1: >-
-  Victoria Gratii, head of Division of Policy for Water Resources Integrated Management, Ministry of Environment, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
+  Aurelia Donos, Acting Head of the Integrated Water Resources Management Policy Directorate, Ministry of Environment (tel.: 022 204 576, e-mail: aurelia.donos@mediu.gov.md).
 source_other_info_1: >-

@@ -43,7 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Serviciul Vamal al Ministerul Finanțelor
+  Ministerul Dezvoltării Economiei Digitalizării
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Dezvoltării Economiei Digitalizării
@@ -67,11 +67,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Finanțelor/ Serviciul Vamal al Ministerul Finanțelor
+  Organizația Mondială a Comerțului (WTO)
 source_periodicity_1: >-
   Colectare continuă
 source_url_1: >-
-  https://www.wto.org/english/res_e/reser_e/tariff_profiles_e.htm
+  https://www.wto.org/english/res_e/statis_e/daily_update_e/tariff_profiles/MD_e.pdf
 source_url_text_1: >-
   Organizația Mondială a Comerțului (WTO)
 source_contact_1: >-

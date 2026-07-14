@@ -63,7 +63,7 @@ DATA_COMP: >-
   <p>Numerator: The number of women Members of Parliament / men Members of Parliament in relation to the total number of Members of Parliament *100</p> 
   <p>Denominator: The number of women / men with the right to vote aged 18 and over in relation to the total population aged 18 and over.   </p> 
   <p>3. President of the Parliament: is not calculated, as  there is only one President in the Parliament, being registered only his/her  individual characteristics, meaning: age group and sex.</p> 
-  <p>4. Chairs of  parliamentary standing committees (Public Administration Committee;  Agriculture and Food Industry Committee; Culture, Education, Research, Youth,  Sport, and Mass-media Committee; Public Finance Control Committee; Human  Rights and Interethnic Relations Committee; Economy, Budget and Finance  Committee; Legal, Appointments and Immunities Committee; Environment and  Regional Development Committee; Foreign Policy and European Integration  Committee; Social Protection, Health and Family Committee, and National  Security, Defence and Public Order Committee): not calculated, as data are  collected for the 11 chairs of the committees. Only their individual  characteristics are registered, meaning: age group and sex. </p>
+  <p>4. Chairs of  parliamentary standing committees (Public Administration Committee;  Agriculture and Food Industry Committee; Culture, Education, Research, Youth,  Sport, and Mass-media Committee; Public Finance Control Committee; Human  Rights and Interethnic Relations Committee; Economy, Budget and Finance  Committee; Legal, Appointments and Immunities Committee; Environment and  Regional Development Committee; Foreign Policy; European Integration  Committee; Social Protection, Health and Family Committee, and National  Security, Defence and Public Order Committee): not calculated, as data are  collected for the 12 chairs of the committees. Only their individual  characteristics are registered, meaning: age group and sex. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -71,7 +71,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Unlike the global indicator, whose sub-indicator 3 is calculated as an  absolute number of chairs of 5 standing committees (Foreign Affairs, Defence,  Finance, Human Rights and Gender Equality), the national indicator is  calculated as an absolute number of 11 chairs of standing parliamentary  committees established in the X legislature.
+  Unlike the global indicator, whose sub-indicator 3 is calculated as an  absolute number of chairs of 5 standing committees (Foreign Affairs, Defence,  Finance, Human Rights and Gender Equality), the national indicator is  calculated as an absolute number of 12 chairs of standing parliamentary  committees established in the XII legislature.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

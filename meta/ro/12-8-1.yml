@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 12.8.1: Măsura în care (i) educația pentru cetățenie globală și (ii) educația pentru  dezvoltare durabilă sunt integrate în (a) politicile naționale educaționale;  (b) curriculum; (c) instruirea profesorilor și (d) evaluarea studenților</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 12.8: Până în 2030, oamenii de pretutindeni trebuie să dețină informații relevante  și să fie sensibilizați pe tema dezvoltării durabile și a unui stil de viață  în armonie cu natura</p>
+  <p>Target NA: Până în 2030, oamenii de pretutindeni trebuie să dețină informații relevante  și să fie sensibilizați pe tema dezvoltării durabile și a unui stil de viață  în armonie cu natura</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   UNESCO-UIS
@@ -10,12 +10,11 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  12.8
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-12-08-01.pdf
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global (PDF)
+  United Nations Sustainable Development Goals Metadata (pdf 782kB)
 SDG_INDICATOR: >-
   <p>Indicator 12.8.1: ța în curricula școlară a modulelor/ conținuturilor curriculare: i)  dezvoltarea durabilă, ii) educația pentru schimbările climatice și abordarea  multidisciplinară a acestora în vederea formării profilului absolventului</p>
 SDG_SERIES_DESCR: ''
@@ -37,15 +36,15 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Informația descriptiva a Ministerului Educației si Cercetării,  conform chestionarului privind implementarea Recomandării 1974 a UNESCO (1974)
+  informația descriptiva a Ministerului Educației, Culturii si Cercetării,  conform chestionarului privind implementarea Recomandării 1974 a UNESCO (1974)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Ministerul Educației și Cercetării
+  Ministerul Educației, Culturii și Cercetării
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Educației și Cercetării
+  Ministerul Educației, Culturii și Cercetării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -62,15 +61,15 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  2
+  3
 source_active_1: true
 source_organisation_1: >-
   UNESCO
 source_periodicity_1: >-
-  O dată la 4 ani
+  o dată la 4 ani
 source_url_1: >-
 source_url_text_1: >-
-  Link la sursa de date
+  Link to source
 source_contact_1: >-
-  angela.bezu@mec.gov.md
 source_other_info_1: >-
+  mariana.goras@mec.gov.md

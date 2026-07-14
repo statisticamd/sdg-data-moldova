@@ -43,7 +43,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Customs Service
+  Ministry of Economic Development and Digitalization
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Economic Development and Digitalization
@@ -67,11 +67,11 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Ministry of Finance/Customs Service
+  World Trade Organization
 source_periodicity_1: >-
   Continuous collection
 source_url_1: >-
-  https://www.wto.org/english/res_e/reser_e/tariff_profiles_e.htm
+  https://www.wto.org/english/res_e/statis_e/daily_update_e/tariff_profiles/MD_e.pdf
 source_url_text_1: >-
   World Trade Organization
 source_contact_1: >-

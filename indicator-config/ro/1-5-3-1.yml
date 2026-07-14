@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.1-5-3-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.1-5-3-1-title
 indicator_name: national_indicators.1-5-3-1-title
 indicator_number: 1.5.3.1
 indicator_tabs:: 
@@ -45,7 +46,10 @@ page_content: >-
   <p>- OG 2: Consolidarea mecanismelor de coordonare și conducere a măsurilor de reducere a riscurilor și de gestionare a dezastrelor;</p> 
   <p>- OG 3: Promovarea investițiilor pentru reducerea riscurilor și creșterea rezilienței la dezastre;</p> 
   <p>- OG 4: Consolidarea pregătirii și asigurarea unui răspuns eficient la urgențe și dezastre, urmate de restabilirea situației la un nivel mai ridicat decât cel anterior impactului;</p> 
-  <p>- OG 5: Intensificarea cooperării internaționale și regionale în domeniul reducerii riscurilor și al managementului dezastrelor. </p>
+  <p>- OG 5: Intensificarea cooperării internaționale și regionale în domeniul reducerii riscurilor și al managementului dezastrelor.                                                                               Pentru asigurarea reducerii riscurilor de dezastre, în conformitate cu scopul stabilit, precum și pentru implementarea prevederilor multidisciplinare ale Strategiei, sectoarele relevante (mediu, afaceri interne, sănătate, infrastructură, economie etc.) urmează să elaboreze programe și planuri concrete de acțiuni.</p> 
+  <p>În acest context, au fost elaborate proiectele Programului național de reducere a riscurilor de dezastre naturale pentru anii 2026–2030 și Programului</p> 
+  <p>național de dezvoltare a protecției civile</p> 
+  <p>pentru anii 2026-2030, care sunt în proces de promovare și care  vor constitui instrumentele de planificare și implementare a măsurilor concrete aferente domeniilor de intervenție. </p>
 permalink: ''
 placeholder: ''
 precision: []

@@ -40,7 +40,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistical report No. 1-SVU "On urban street infrastructure and arrangement of urban green spaces (within city limits)"
+  <p> 1. Statistical report No. 1-SVU "On urban street infrastructure and arrangement of urban green spaces (within city limits)" </p> 
+  <p>2. National Agency for Land Improvements </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -49,8 +50,8 @@ DATA_SOURCE: >-
   <p>2. National Agency for Land Reclamation </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministry of Infrastructure and Regional Development</p> 
-  <p>2. Ministry of Internal Affairs </p>
+  <p> 1. Ministry of the Environment </p> 
+  <p>2. Ministry of Infrastructure and Regional Development </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -78,6 +79,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  <p> Nadejda Cojocari, Head of Division, Social services statistics Division,</p> 
+  <p> Nadejda Cojocari, Head of Health, social protection and justice statistics Division,</p> 
   <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. 067770652 </p>
 source_other_info_1: >-

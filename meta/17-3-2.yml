@@ -17,7 +17,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 17.3.2: Volume of personal remittances as a proportion of GDP (recalculated in  US dollars)</p>
+  <p>Indicator 17.3.2: Volume of personal remittances (in US dollars) as a proportion of GDP (recalculated in US dollars)</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,17 +31,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Personal remittances represent the sum of three elements = personal transfers  + net remuneration of non-resident employees (without taxes and fees, social  contributions, transport expenses and expenses for staying in the host country) + Transfers of capital between households, recommended by  international methodological standards of the IMF “Balance of Payments and  International Investment Position Manual”, VI edition (2009)” and  „International Transactions in Remittances  – guide for compilers and users”  (2009). </p> 
-  <p>  Personal remittances in the balance of payments. There is no  separate item or group of items in the balance of payments, the amount of  which would represent personal remittances of individuals. As this indicator is of high interest for the Republic of Moldova, NBM developed an algorithm to  estimate it. The indicator of personal remittances is calculated additionally  to BP and is presented separately for information purposes.</p> 
-  <p> To estimate the financial resources sent into the  country through other ways, than those of licenced banks or post offices, they  analyse the evolution of resident individuals' deposits, the evolution of the  cash in foreign currency held by licenced banks, turnovers of the foreign  exchange offices, as well as the evolution of real estate market and cars' market. They also take into account the predisposition to saving the money by  the persons receiving remittances from abroad, as well as the evolution of  these households' consumption. [see  here](https://bnm.md/en/content/international-accounts-methodological-standards-and-data-sources).</p> 
-  <p>  Based on the  data of the International Transactions Reporting System (ITRS), they determine the  estimated value thresholds for distribution of money transfers made by  individuals from abroad in favour of those from the Republic of Moldova by  type of transactions in: remuneration of resident employees; current transfers  of individuals; transfers of capital among households. </p>
+  <p> Personal remittances represent the sum of three components: personal transfers, net compensation of non-resident employees (without taxes and fees, social  contributions, transport expenses and expenses for staying in the host country), and capital transfers between households, recommended by the international methodological standards of the IMF “Balance of Payments and International Investment Position Manual”, VI edition (2009)” and  „International Transactions in Remittances  – guide for compilers and users”  (2009). </p> 
+  <p>Personal remittances in the balance of payments. There is no  separate item or group of items in the balance of payments, that would represent personal remittances of individuals. As this indicator is of high interest for the Republic of Moldova, NBM developed an algorithm to  estimate it. The indicator of personal remittances is calculated additionally  to BP and is presented separately for information purposes.</p> 
+  <p> To estimate the financial resources sent into the  country through channels other than those of licenced banks, money transfer systems or post offices, the evolution of resident individuals' deposits is analysed, as well as the evolution of cash in foreign currency held by licenced banks, the turnovers of the foreign  exchange offices, and the evolution of real estate market and cars' market. They also take into account the propensity of individuals receiving remittances from abroad to save money, as well as the evolution of  these households' consumption. [see  here](https://bnm.md/en/content/international-accounts-methodological-standards-and-data-sources).</p> 
+  <p>  Based on the International Transactions Reporting System (ITRS) data, the NBM estimates the  thresholds for distribution of money transfers made by  individuals from abroad in favour of those from the Republic of Moldova by  type of transactions in: compensation of resident employees, current personal transfers, and capital transfers between households. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> (1) Data on money transfers from abroad to individuals made through licenced  banks or post offices - NBM</p> 
-  <p>  (2) Labour Force Survey - NBS. </p>
+  <p>(2) Labour Force Survey - NBS. </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

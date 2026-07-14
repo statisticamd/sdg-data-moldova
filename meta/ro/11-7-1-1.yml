@@ -39,7 +39,8 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Raportul statistic Nr. 1-SVU "Privind infrastructura străzilor orăşeneşti şi amenajarea spaţiilor verzi urbane (din intravilan) "
+  <p> 1. Raportul statistic Nr. 1-SVU "Privind infrastructura străzilor orăşeneşti şi amenajarea spaţiilor verzi urbane (din intravilan) "</p> 
+  <p>2. Agenția Națională de Îmbunătățiri Funciare </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -48,8 +49,8 @@ DATA_SOURCE: >-
   <p>2. Agenția Națională de Îmbunătățiri Funciare </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministerul Infrastructurii și Dezvoltării Regionale </p> 
-  <p>2. Ministerul Afacerilor Interne </p>
+  <p> 1. Ministerul Mediului</p> 
+  <p>2. Ministerul Infrastructurii și Dezvoltării Regionale </p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -77,6 +78,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  <p> Nadejda Cojocari, Șefă direcție, Direcția statistica servciilor sociale,</p> 
+  <p> Nadejda Cojocari, Șefă direcție, Direcția statistica sănătății, protecției sociale și justiției,</p> 
   <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. 067770651 </p>
 source_other_info_1: >-

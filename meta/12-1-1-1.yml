@@ -45,8 +45,7 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1. Ministry of Environment</p> 
-  <p>2. Ministry of Economic Development and Digitalization</p> 
-  <p>3. Public Agencies </p>
+  <p>2. Ministry of Economic Development and Digitalization </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   <p> 1. Ministry of Environment</p> 
@@ -79,5 +78,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  Daniel Tentiuc, Senior Consultant, Circular Economy Policies and Economic Instruments Section, Ministry of Environment, tel. 022 204 578, email: daniel.tentiuc@mediu.gov.md
+  Tatiana Mihalachi, Senior Consultant, Circular Economy Policies and Economic Instruments Section, Ministry of Environment, tel. 022 204 578, email: tatiana.mihalachi@mediu.gov.md
 source_other_info_1: >-

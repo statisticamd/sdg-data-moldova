@@ -7,6 +7,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   FMI
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
+  Indicatorul măsoară nivelul de acces fizic la servicii financiare prin infrastructura de bancomate raportată la populația în vârstă de 18 ani și peste
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
@@ -39,7 +40,7 @@ CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
   <p> 1) Indicatorii activității în cadrul sistemului de plăți cu cardurile de plată  din Republica Moldova, Raportul statistic ORD 5.4 „Dispozitive speciale și  soluții utilizate” - BNM;</p> 
-  <p>  2) Date demografice privind populația - BNS </p>
+  <p> 2) Date demografice privind populația - BNS </p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -52,8 +53,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Numărul de bancomate ale băncilor comerciale  raportat la 100.000 populație în  vârstă de 18 ani și peste</p> 
-  <p>  Numărul total de bancomate va include: (a)  numărul de bancomate ale băncilor licențiate (colectat in baza rapoartelor  băncilor licențiate către BNM) și (b) numărul de bancomate ale organizațiilor  din sectorul financiar nebancar (include societățile de plată și societățile emitente de monedă electronică. </p>
+  <p> Numărul total de bancomate ale prestatorilor de servicii de plată raportat la 100.000 populație în  vârstă de 18 ani și peste</p> 
+  <p>(Numărul total de ATM-uri x 100.000) / populația de 18 ani și peste </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -71,7 +72,7 @@ source_organisation_1: >-
   Banca Națională a Moldovei
 source_periodicity_1: >-
   <p> 1) trimestrial, anual</p> 
-  <p>  2) anual </p>
+  <p>2) anual </p>
 source_url_1: >-
   https://www.bnm.md/bdi/pages/reports/dsp/DSP2.xhtml
 source_url_text_1: >-

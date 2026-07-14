@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.10-7-2-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.10-7-2-1-title
 indicator_name: national_indicators.10-7-2-1-title
 indicator_number: 10.7.2.1
 indicator_tabs:: 
@@ -33,10 +34,14 @@ indicator_tabs::
   tab_4: ''
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
-  <p> Migrația legală cu scop de munca este asigurata de Agenția Națională de Ocuparea Forței de Muncă în baza acordurilor în domeniul migrației forței de muncă. La moment sunt active 3 acorduri: </p> 
-  <p>1. Acordul între Guvernul Republicii Moldova și Guvernul Statului Israel cu privire la angajarea temporară a lucrătorilor din Republica Moldova în anumite sectoare din Statul Israel, 16 octombrie 2012 ; </p> 
-  <p>2. Acordul între Guvernul Republicii Moldova și Guvernul Republicii Bulgaria privind reglementarea migrației de muncă, 18 iunie 2018;</p> 
-  <p>3. Memorandum de cooperare între Agenția Federală pentru Oucparea Forței de Muncă din Germania și Ministerul Muncii și Protecției Sociale din Republica Moldova privind selectarea lucrătorilor pentu a fi plasați la munci sezoniere în Republica Federală germană, 01 iulie 2021 </p>
+  <p> În vederea facilitării migrației și mobilității ordonate, sigure, reglementate și  responsabile a persoanelor, inclusiv prin implementarea unor politici de  migrație planificate și bine gestionate au fost elaborate și aprobate mai multe documente de politici publice, după cum urmează:</p> 
+  <p>1. HG nr. 21/2023 privind acordarea protecției temporare persoanelor strămutate din Ucraina, aceasta fiind prelungită anual prin HG nr. 141/2024, HG nr.93/2025, HG nr. 26/2026;</p> 
+  <p>2. Programul național în domeniul migrației și azil și Planul de acțiuni pentru, perioada 2026 - 2030, aprobat prin HG nr. 666/2025;</p> 
+  <p>3. Programul național de integrare etapizată a străinilor, inclusiv a persoanelor strămutate în Republica Moldova, pentru perioada 2025 - 2027, aprobat prin HG nr. 285/2025; </p> 
+  <p>4. HG nr. 720/2025 privind aprobarea mecanismelor și metodologiei aplicabile în procedura de azil (mecanismul de acordare a condițiilor materiale de primire acordate solicitanților de azil);</p> 
+  <p>5. Legea nr. 200/2025 privind libera circulație și ședere a cetățenilor Uniunii Europene și a membrilor de familie ai acestora.</p> 
+  <p>Totodată, proiectul de lege privind admisia, șederea și supravegherea străinilor în Republica a fost aprobat în prima lectură în anul 2026. Prezentul proiect de lege reprezintă un nou concept și o abordare complexă de reglementare a proceselor migraționale, structura, principiile și conținutul căruia derivă din transpunerea a 12 directive și regulamente ale Uniunii Europene din aceste domenii. Actualmente, regimul juridic al străinilor în Republica Moldova este reglementat de Legea nr. 200/2010 privind regimul străinilor în Republica Moldova. </p> 
+  <p>În același timp, în februarie 2026, Inspectoratul General pentru Migrație și Agenția Națională pentru Ocuparea Forței de Muncă au încheiat un acord de cooperare, orientat spre consolidarea integrării străinilor, facilitarea accesului acestora la piața muncii și la servicii de suport, prevenirea muncii nedeclarate, precum și diminuarea riscurilor de exploatare prin muncă. </p>
 permalink: ''
 placeholder: ''
 precision: []
@@ -49,5 +54,4 @@ sources: []
 standalone: false
 tags:
   - Național proxy
-  - Indicator non-statistic
 x_axis_label: ''

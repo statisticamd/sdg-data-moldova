@@ -23,7 +23,8 @@ graph_target_lines: []
 graph_title: national_indicators.16-a-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.16-a-1-title
+indicator_available: national_indicators.16-a-1-title
+indicator_name: global_indicators.16-a-1-title
 indicator_number: 16.a.1
 indicator_tabs:: 
   override: false
@@ -35,7 +36,8 @@ national_geographical_coverage: Republica Moldova
 page_content: >-
   <p> ***Indicator non-statistic***</p> 
   <p>Statut de acreditare: </p> 
-  <p>Anii 2018 - 2024: Statutul A</p> 
+  <p>Anii 2023 – 2028: Statutul A</p> 
+  <p>Anii 2018 - 2023: Statutul A</p> 
   <p>Anii 2010 -2017: Statutul B </p>
 permalink: ''
 placeholder: ''

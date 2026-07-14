@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Administrative data from  NAP http://www.anp.gov.md/randomrapoarte-de-bilant-simestriale-anualerapoarte-de-bilant-simestriale-anualerapoarte-de-bilant
+  Administrative data from  NAP
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,11 +72,13 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Ministry of Justice
+  National Administration of Penitentiaries
 source_periodicity_1: >-
   Annual
 source_url_1: >-
+  https://anp.gov.md/raport-statistic-date-statistice
 source_url_text_1: >-
-  Link to data source
+  Data source link
 source_contact_1: >-
+  0 22 409 826 Daniela Antoci
 source_other_info_1: >-

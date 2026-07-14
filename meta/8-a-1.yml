@@ -48,10 +48,11 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  <p> 1.Ministry of Economic Development and Digitalization </p> 
+  <p>2. State Chancellery </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Ministry of Economic Development and Digitalization </p> 
-  <p>  2.Ministry of Finance </p>
+  1.Ministry of Economic Development and Digitalization
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

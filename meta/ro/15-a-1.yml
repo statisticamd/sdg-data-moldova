@@ -48,10 +48,11 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  <p> Ministerul Mediului</p> 
+  <p>Cancelaria de Stat </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1) Ministerul Agriculturii și Industriei Alimentare </p> 
-  <p>2)  Ministerul Finanțelor </p>
+  Ministerul Mediului
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -79,4 +80,5 @@ source_url_1: >-
 source_url_text_1: >-
   Baza de date UNSTATS
 source_contact_1: >-
+  Irina Vîsoțcaia – consultantă principală, Direcția coordonarea politicilor publice și integrare europeană (tel.: 022 204-568, e-mail: irina.visotcaia@mediu.gov.md)
 source_other_info_1: >-

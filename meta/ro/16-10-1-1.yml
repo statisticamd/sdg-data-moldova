@@ -31,7 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indicele Libertății Presei este disponibil pentru jurnaliștii din 180 de țări  și este determinat prin compilarea răspunsurilor experților într-un chestionar  propus de către RSF (Reporteri Fără Frontiere). Chestionarul este alcătuit din  87 de întrebări și este tradus în 20 de limbi. Analiza calitativă este  combinată cu date cantitative cu privire abuzurile și actele de violență  comise asupra jurnaliștilor în perioada evaluată. Criteriile de evaluare și  indicatorii din chestionar sunt: 1) pluralismul; 2) independența mass-mediei;  3) mediul și existența ”auto-cenzurii”; 4) cadrul legislativ; 5) transparența,  și 6) calitatea infrastructurii care sprijină producerea informației. Începând  cu Indicele pentru anul 2013, țărilor le sunt atribuite scoruri cuprinse între  0 și 100, unde 0 este cel mai slab punctaj posibil și 100 este cel mai bun.  Acest lucru face ca Indicele să fie mai informativ și face mai ușoară  comparabilitatea unui an cu altul.
+  Indicele libertății presei este disponibil pentru jurnaliștii din 180 de țări  și este determinat prin compilarea răspunsurilor experților într-un chestionar  propus de către RSF (Reporteri Fără Frontiere). Chestionarul este alcătuit din  87 de întrebări și este tradus în 20 de limbi. Analiza calitativă este  combinată cu date cantitative cu privire abuzurile și actele de violență  comise asupra jurnaliștilor în perioada evaluată. Criteriile de evaluare și  indicatorii din chestionar sunt: 1) pluralismul; 2) independența mass-mediei;  3) mediul și existența ”auto-cenzurii”; 4) cadrul legislativ; 5) transparența,  și 6) calitatea infrastructurii care sprijină producerea informației. Începând  cu Indicele pentru anul 2013, țărilor le sunt atribuite scoruri cuprinse între  0 și 100, unde 0 este cel mai slab punctaj posibil și 100 este cel mai bun.  Acest lucru face ca Indicele să fie mai informativ și face mai ușoară  comparabilitatea unui an cu altul.
 UNIT_MEASURE: >-
   scor
 CLASS_SYSTEM: ''
@@ -45,7 +45,7 @@ DATA_SOURCE: >-
   Reporteri Fără Frontiere (RSF) este un ONG independent cu statut consultativ  la Națiunile Unite, UNESCO, Consiliul Europei, și organizația Internațională a  Francofoniei (OIF)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Consiliul Național pentru Drepturile Omului
+  Parlamentul Republicii Moldova                                                                                                                        Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

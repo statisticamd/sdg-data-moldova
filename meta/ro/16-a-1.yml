@@ -31,7 +31,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Șase modele de Instituții Naționale pentru Drepturile Omului  există astăzi în  regiunile lumii, și anume: Comisii pentru drepturile omului, Instituțiile  Ombudsmanului (Avocatului Poporului), Instituții hibrid, Organe consultative,  Centre și instituții multiple. O Instituție Națională pentru Drepturile Omului  considerată independentă este cea care are statutul de acreditare „nivelul A”,  în conformitate cu Principiile de la Paris. Principiile Națiunilor Unite de la  Paris (adoptate în anul 1993 de către Asambleea Generală ONU), furnizează  standardele internaționale în baza cărora instituțiile naționale pentru  drepturile omului (NHRI) pot fi acreditate de Alianța Globală a Instituțiilor  Naționale pentru Drepturile Omului (GANHR). Procesul de acreditare este  efectuat pentru evaluarea colegială de către Subcomitetul pentru Acreditare  (SCA) al (GANHR). Există trei tipuri posibile de acreditare: </p> 
+  <p> Șase modele de Instituții Naționale pentru Drepturile Omului  există astăzi în  regiunile lumii, și anume: Comisii pentru drepturile omului, Instituțiile  Ombudsmanului (Avocatului Poporului), Instituții hibrid, Organe consultative,  Centre și instituții multiple. O Instituție Națională pentru Drepturile Omului  considerată independentă este cea care are statutul de acreditare „nivelul A”,  în conformitate cu Principiile de la Paris. Principiile Națiunilor Unite de la  Paris (adoptate în anul 1993 de către Asambleea Generală ONU), furnizează  standardele internaționale în baza cărora instituțiile naționale pentru  drepturile omului (INDO) pot fi acreditate de Alianța Globală a Instituțiilor  Naționale pentru Drepturile Omului (GANHR). Procesul de acreditare este  efectuat pentru evaluarea colegială de către Subcomitetul pentru Acreditare  (SCA) al (GANHR). Există trei tipuri posibile de acreditare: </p> 
   <p>  A: În  corespundere cu Principiile de la Paris  </p> 
   <p>  B: Statut de Observator – Nu  este pe deplin în corespundere cu Principiile de la Paris, sau nu a fost  oferite suficiente informații încât să permită o apreciere </p> 
   <p>  C: Nu este în  conformitate cu Principiile de la Paris. </p> 
@@ -49,7 +49,7 @@ FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
   <p> 1) Oficiul Avocatul Poporului</p> 
-  <p>  2) Subcomitetul pentru Acreditare (SCA) al  (GANHR) </p>
+  <p> 2) Subcomitetul pentru Acreditare (SCA) al  (GANHR) </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Oficiul Avocatul Poporului
@@ -73,12 +73,12 @@ un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
   <p> 1) Oficiul Avocatul Poporului</p> 
-  <p>  2) Subcomitetul pentru Acreditare (SCA) al  (GANHR) </p>
+  <p> 2) Subcomitetul pentru Acreditare (SCA) al  (GANHR) </p>
 source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  catalina.graur@ombudsman.md
+  iuliana.cozma@ombudsman.md
 source_other_info_1: >-

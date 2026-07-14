@@ -47,7 +47,7 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Administration “Apele Moldovei” (Moldovan Water)
+  Ministry of Environment
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment
@@ -80,7 +80,7 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  National Administration „Apele Moldovei” (Moldovan Water)
+  Ministry of Environment
 source_periodicity_1: >-
   Once every 3 years
 source_url_1: >-
@@ -88,5 +88,5 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  Victoria Gratii, head of Division of Policy for Water Resources Integrated Management, Ministry of Environment, tel. 022-204-583, e-mail: victoria.gratii@mediu.gov.md
+  Aurelia Donos, Acting Head of the Integrated Water Resources Management Policy Directorate, Ministry of Environment (tel.: 022 204 576, e-mail: aurelia.donos@mediu.gov.md).
 source_other_info_1: >-

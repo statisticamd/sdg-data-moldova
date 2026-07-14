@@ -1,0 +1,79 @@
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.a.1: Numărul de țări care au politici urbane naționale sau planuri de dezvoltare  regională care (a) răspund la dinamica populației; (b) asigură o dezvoltare  teritorială echilibrată; și (c) asigură creșterea spațiului fiscal local</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.a: Susținerea conexiunilor pozitive economice, sociale și de mediu între zonele  urbane, periurbane și rurale prin consolidarea planificării naționale și  regionale pentru dezvoltare</p>
+META_LAST_UPDATE__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  UN-Habitat
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_INDICATOR_INFO: >-
+SDG_INDICATOR_INFO__GLOBAL: >-
+SDG_GOAL: ''
+target_id: >-
+  11.a
+SDG_TARGET: ''
+GOAL_META_LINK: >-
+  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+GOAL_META_LINK_TEXT: >-
+  Metadatele indicatorului global (PDF)
+SDG_INDICATOR: >-
+  <p>Indicator 11.a.1: 1. Ponderea localităților care dispun de documentație de urbanism elaborată și aprobată</p>
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Multe ODD-uri legate de urban necesită monitorizare globală cu „orașul” ca unitate de analiză. Pentru a monitoriza în special ODD-urile urbane, este necesar să se convină asupra unei definiții globale/comune a ceea ce constituie un „oraș”. O definiție standard a orașului va ajuta la monitorizarea ODD-urilor prin asigurarea faptului că ariile de studiu pentru ODD-urile urbane spațiale sunt standardizate și ușor reproducibile, și va adăuga claritate metodelor și abordărilor pentru colectarea de date care să susțină indicatorii legati de teren și zonele rurale. UN-Habitat, în colaborare cu Universitatea din New York și Centrul Comun de Cercetare al Comisiei Europene, a adoptat două definiții ale orașelor.                               Definițiile sunt:                                                                                                                                       a) Oraș definit de limita suprafeței sale construite - Universitatea din New York. Zona construită a unui oraș este definită ca zona adiacentă ocupată de clădiri și alte suprafețe construite, inclusiv zonele urbane libere din și în jurul acestora, dar excluzând zonele rurale dincolo de marginea urbană.                                                         b) Grad de urbanizare (DEGURBA) -Comisia Europeană-JRC Gradul de urbanizare este definit ca clasificarea unităților administrative locale de nivelul 2 sau a comunelor în trei tipuri: orașe (dens populate), orașe sau suburbii (densitate intermediară) și zone rurale (zone slab populate) pe baza ponderii populației locale care trăiește în clustere urbane și centre urbane.
+UNIT_MEASURE: >-
+  Număr/fără dimensiuni
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  <p> Există mai multe surse de date care ar putea fi utilizate:</p> 
+  <p>1. Documente oficiale precum Planul Urbanistic Național, Cadrele, Strategiile etc. Disponibile în administrațiile naționale sau regionale.</p> 
+  <p>2. Alte instrumente de sprijin, cum ar fi: cartografierea datelor spațiale de referință, evaluarea comparativă, anchetele la punctele de serviciu, monitorizarea și raportarea performanței, decalajul și analiza de continut.</p> 
+  <p>3. Baza de date a politicilor urbane naționale a Națiunilor Unite - și alte organizații internaționale, ONU-Habitat a dezvoltat o bază de date națională a politicilor urbane ca un depozit de documente oficiale de politici urbane și aferente; ONU-Habitat a dezvoltat, de asemenea, UrbanLex, o bază de date cu legi și politici privind problemele urbane. </p>
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  <p> Ministerul Infrastructurii și Dezvoltării Regionale</p> 
+  <p>Biroul Național de Statistică </p>
+COMPILING_ORG: ''
+INST_MANDATE: >-
+  Ministerul Infrastructurii și Dezvoltării Regionale
+OTHER_METHOD: >-
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  X (S) =100 x (X - Min(X ) /Max(X )- Min(X ))
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: >-
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: >-
+  1
+source_active_1: true
+source_organisation_1: >-
+source_periodicity_1: >-
+  O dată la 2 ani
+source_url_1: >-
+source_url_text_1: >-
+  Link la sursa de date
+source_contact_1: >-
+  Aliona Cucerca, consultant principal, Direcția politici șI reglementări în domeniul amenajării teritoriului, urbanismului, construcțiilor șI locuințelor, tel. 022/250-659, e-mail: aliona.cucerca@midr.gov.md
+source_other_info_1: >-

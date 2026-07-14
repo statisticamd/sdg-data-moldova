@@ -33,7 +33,7 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Contravenție privind pescuitul ilegal - acțiunea de încălcare a regulilor stabilite de pescuit, care nu reprezintă infracțiune, și care se secționează cu o amendă contravențională mărimea căreia se stabilește în unități convenționale și variază pentru persoanele fizice și juridice în funcție de gravitatea încălcării (art. 114 alin. (1), (2), (4) și (5) din Condul Contravențional nr. 218 din 24.10.2008).
+  Contravenție privind pescuitul ilegal - acțiunea de încălcare a regulilor  stabilite de pescuit, care nu reprezintă infracțiune, și care se secționează  cu o amendă contravențională mărimea căreia se stabilește în unități  convenționale și variază pentru persoanele fizice și juridice în funcție de  gravitatea încălcării
 UNIT_MEASURE: >-
   Număr
 CLASS_SYSTEM: ''
@@ -52,7 +52,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul total al contravențiilor privind pescuitul ilegal înregistrate de către autoritățile competente în anul de referință.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -72,6 +71,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Anual
 source_url_1: >-
+  https://ipm.gov.md/sites/default/files/2022-10/A%20N%20U%20A%20R%20U%20L%20-%202021%2C%20IPM.pdf
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-

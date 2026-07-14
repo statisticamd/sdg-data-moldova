@@ -47,10 +47,11 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
+  <p> Ministerul Dezvoltării Economice și Digitalizării; </p> 
+  <p>Cancelaria de Stat </p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1) Ministerul Dezvoltării Economice și Digitalizării </p> 
-  <p>  2) Ministerul Finanțelor </p>
+  1) Ministerul Dezvoltării Economice și Digitalizării
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
