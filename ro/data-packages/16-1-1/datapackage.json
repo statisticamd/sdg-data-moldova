@@ -16,6 +16,17 @@
             "title": "Anul"
           },
           {
+            "name": "Total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Total"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Drepturile copilului",
+                "67.0",
                 ""
               ]
             },

@@ -15,13 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Indicators",
+            "name": "Mobile Internet per 100 inhabitants",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobile Internet per 100 inhabitants",
-                "Fixed Internet per 100 inhabitants",
-                "Fixed Internet per 100 households",
+                "114.6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fixed Internet per 100 inhabitants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fixed Internet per 100 households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "83.6",
                 ""
               ]
             }

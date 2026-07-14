@@ -1,8 +1,11 @@
 Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2010,,,
 2010,"Bovine, capete",,
+2010,doses of bull semen,,
 2010,"Porcine, capete",,
+2010,doses of bull semen,,
 2010,"Ovine, capete",,
+2010,doses of bull semen,,
 2010,"Caprine, capete",,
 2010,"Cabaline, capete",,
 2010,"Iepuri, capete",,
@@ -22,8 +25,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2010,,Potato,
 2011,,,
 2011,"Bovine, capete",,
+2011,doses of bull semen,,
 2011,"Porcine, capete",,
+2011,doses of bull semen,,
 2011,"Ovine, capete",,
+2011,doses of bull semen,,
 2011,"Caprine, capete",,
 2011,"Cabaline, capete",,
 2011,"Iepuri, capete",,
@@ -31,11 +37,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2011,"Piscicole (pești), capete",,
 2011,"Apicole (albini), familii",,
 2011,,Total,6415.0
-2011,,Corn,
-2011,,Sorghum crops,
-2011,,Aromatic and medicinal plants,
-2011,,Cereal crops,
-2011,,Leguminous crops for grains,
+2011,,Corn,1120.0
+2011,,Sorghum crops,71.0
+2011,,Aromatic and medicinal plants,10.0
+2011,,Cereal crops,33634.0
+2011,,Leguminous crops for grains,6019.0
 2011,,Viticulture,
 2011,,Pomology (Fruit growing),
 2011,,Berry crops,
@@ -43,8 +49,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2011,,Potato,
 2012,,,
 2012,"Bovine, capete",,
+2012,doses of bull semen,,
 2012,"Porcine, capete",,
+2012,doses of bull semen,,
 2012,"Ovine, capete",,
+2012,doses of bull semen,,
 2012,"Caprine, capete",,
 2012,"Cabaline, capete",,
 2012,"Iepuri, capete",,
@@ -52,11 +61,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2012,"Piscicole (pești), capete",,
 2012,"Apicole (albini), familii",,
 2012,,Total,
-2012,,Corn,
-2012,,Sorghum crops,
-2012,,Aromatic and medicinal plants,
-2012,,Cereal crops,
-2012,,Leguminous crops for grains,
+2012,,Corn,1138.0
+2012,,Sorghum crops,77.0
+2012,,Aromatic and medicinal plants,11.0
+2012,,Cereal crops,26057.0
+2012,,Leguminous crops for grains,5672.0
 2012,,Viticulture,
 2012,,Pomology (Fruit growing),
 2012,,Berry crops,
@@ -64,8 +73,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2012,,Potato,
 2013,,,
 2013,"Bovine, capete",,
+2013,doses of bull semen,,
 2013,"Porcine, capete",,
+2013,doses of bull semen,,
 2013,"Ovine, capete",,
+2013,doses of bull semen,,
 2013,"Caprine, capete",,
 2013,"Cabaline, capete",,
 2013,"Iepuri, capete",,
@@ -73,11 +85,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2013,"Piscicole (pești), capete",,
 2013,"Apicole (albini), familii",,
 2013,,Total,
-2013,,Corn,
-2013,,Sorghum crops,
-2013,,Aromatic and medicinal plants,
-2013,,Cereal crops,
-2013,,Leguminous crops for grains,
+2013,,Corn,1137.0
+2013,,Sorghum crops,72.0
+2013,,Aromatic and medicinal plants,11.0
+2013,,Cereal crops,26242.0
+2013,,Leguminous crops for grains,5954.0
 2013,,Viticulture,
 2013,,Pomology (Fruit growing),
 2013,,Berry crops,
@@ -85,8 +97,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2013,,Potato,
 2014,,,
 2014,"Bovine, capete",,
+2014,doses of bull semen,,
 2014,"Porcine, capete",,
+2014,doses of bull semen,,
 2014,"Ovine, capete",,
+2014,doses of bull semen,,
 2014,"Caprine, capete",,
 2014,"Cabaline, capete",,
 2014,"Iepuri, capete",,
@@ -94,11 +109,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2014,"Piscicole (pești), capete",,
 2014,"Apicole (albini), familii",,
 2014,,Total,
-2014,,Corn,
-2014,,Sorghum crops,
-2014,,Aromatic and medicinal plants,
-2014,,Cereal crops,
-2014,,Leguminous crops for grains,
+2014,,Corn,1133.0
+2014,,Sorghum crops,67.0
+2014,,Aromatic and medicinal plants,12.0
+2014,,Cereal crops,19271.0
+2014,,Leguminous crops for grains,5751.0
 2014,,Viticulture,
 2014,,Pomology (Fruit growing),
 2014,,Berry crops,
@@ -106,8 +121,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2014,,Potato,
 2015,,,
 2015,"Bovine, capete",,
+2015,doses of bull semen,,
 2015,"Porcine, capete",,
+2015,doses of bull semen,,
 2015,"Ovine, capete",,
+2015,doses of bull semen,,
 2015,"Caprine, capete",,
 2015,"Cabaline, capete",,
 2015,"Iepuri, capete",,
@@ -115,11 +133,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2015,"Piscicole (pești), capete",,
 2015,"Apicole (albini), familii",,
 2015,,Total,
-2015,,Corn,
-2015,,Sorghum crops,
-2015,,Aromatic and medicinal plants,
-2015,,Cereal crops,
-2015,,Leguminous crops for grains,
+2015,,Corn,1131.0
+2015,,Sorghum crops,84.0
+2015,,Aromatic and medicinal plants,12.0
+2015,,Cereal crops,16591.0
+2015,,Leguminous crops for grains,4568.0
 2015,,Viticulture,
 2015,,Pomology (Fruit growing),
 2015,,Berry crops,
@@ -127,8 +145,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2015,,Potato,
 2016,,,
 2016,"Bovine, capete",,3522.0
+2016,doses of bull semen,,
 2016,"Porcine, capete",,2671.0
+2016,doses of bull semen,,
 2016,"Ovine, capete",,14132.0
+2016,doses of bull semen,,
 2016,"Caprine, capete",,180.0
 2016,"Cabaline, capete",,162.0
 2016,"Iepuri, capete",,486.0
@@ -136,11 +157,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2016,"Piscicole (pești), capete",,2316.0
 2016,"Apicole (albini), familii",,240.0
 2016,,Total,6415.0
-2016,,Corn,
-2016,,Sorghum crops,
-2016,,Aromatic and medicinal plants,
-2016,,Cereal crops,
-2016,,Leguminous crops for grains,
+2016,,Corn,1139.0
+2016,,Sorghum crops,84.0
+2016,,Aromatic and medicinal plants,10.0
+2016,,Cereal crops,16611.0
+2016,,Leguminous crops for grains,3966.0
 2016,,Viticulture,
 2016,,Pomology (Fruit growing),
 2016,,Berry crops,
@@ -148,8 +169,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2016,,Potato,
 2017,,,
 2017,"Bovine, capete",,3558.0
+2017,doses of bull semen,,
 2017,"Porcine, capete",,6138.0
+2017,doses of bull semen,,
 2017,"Ovine, capete",,10231.0
+2017,doses of bull semen,,
 2017,"Caprine, capete",,269.0
 2017,"Cabaline, capete",,170.0
 2017,"Iepuri, capete",,74.0
@@ -169,8 +193,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2017,,Potato,
 2018,,,
 2018,"Bovine, capete",,2948.0
+2018,doses of bull semen,,
 2018,"Porcine, capete",,4497.0
+2018,doses of bull semen,,
 2018,"Ovine, capete",,7519.0
+2018,doses of bull semen,,
 2018,"Caprine, capete",,216.0
 2018,"Cabaline, capete",,60.0
 2018,"Iepuri, capete",,77.0
@@ -190,8 +217,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2018,,Potato,
 2019,,,
 2019,"Bovine, capete",,2781.0
+2019,doses of bull semen,,
 2019,"Porcine, capete",,5377.0
+2019,doses of bull semen,,
 2019,"Ovine, capete",,6427.0
+2019,doses of bull semen,,
 2019,"Caprine, capete",,118.0
 2019,"Cabaline, capete",,56.0
 2019,"Iepuri, capete",,
@@ -211,8 +241,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2019,,Potato,
 2020,,,
 2020,"Bovine, capete",,4358.0
+2020,doses of bull semen,,
 2020,"Porcine, capete",,5055.0
+2020,doses of bull semen,,
 2020,"Ovine, capete",,4592.0
+2020,doses of bull semen,,
 2020,"Caprine, capete",,84.0
 2020,"Cabaline, capete",,
 2020,"Iepuri, capete",,
@@ -232,8 +265,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2020,,Potato,
 2021,,,
 2021,"Bovine, capete",,4997.0
+2021,doses of bull semen,,
 2021,"Porcine, capete",,4265.0
+2021,doses of bull semen,,
 2021,"Ovine, capete",,4111.0
+2021,doses of bull semen,,
 2021,"Caprine, capete",,77.0
 2021,"Cabaline, capete",,49.0
 2021,"Iepuri, capete",,
@@ -253,8 +289,11 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2021,,Potato,
 2022,,,
 2022,"Bovine, capete",,5108.0
+2022,doses of bull semen,,
 2022,"Porcine, capete",,3904.0
+2022,doses of bull semen,,
 2022,"Ovine, capete",,3194.0
+2022,doses of bull semen,,
 2022,"Caprine, capete",,55.0
 2022,"Cabaline, capete",,49.0
 2022,"Iepuri, capete",,
@@ -273,15 +312,18 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2022,,Vegetable growing (Vegetable crops),
 2022,,Potato,
 2023,,,
-2023,"Bovine, capete",,
-2023,"Porcine, capete",,
-2023,"Ovine, capete",,
-2023,"Caprine, capete",,
-2023,"Cabaline, capete",,
-2023,"Iepuri, capete",,
-2023,"Păsări, capete",,
+2023,"Bovine, capete",,37203.0
+2023,doses of bull semen,,
+2023,"Porcine, capete",,257674.0
+2023,doses of bull semen,,
+2023,"Ovine, capete",,74465.0
+2023,doses of bull semen,,
+2023,"Caprine, capete",,24214.0
+2023,"Cabaline, capete",,201.0
+2023,"Iepuri, capete",,9700.0
+2023,"Păsări, capete",,3446900.0
 2023,"Piscicole (pești), capete",,
-2023,"Apicole (albini), familii",,
+2023,"Apicole (albini), familii",,3000.0
 2023,,Total,
 2023,,Corn,1071.0
 2023,,Sorghum crops,73.0
@@ -294,15 +336,18 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2023,,Vegetable growing (Vegetable crops),
 2023,,Potato,
 2024,,,
-2024,"Bovine, capete",,
-2024,"Porcine, capete",,
-2024,"Ovine, capete",,
-2024,"Caprine, capete",,
-2024,"Cabaline, capete",,
-2024,"Iepuri, capete",,
-2024,"Păsări, capete",,
+2024,"Bovine, capete",,38976.0
+2024,doses of bull semen,,2628420.0
+2024,"Porcine, capete",,289090.0
+2024,doses of bull semen,,3125.0
+2024,"Ovine, capete",,80396.0
+2024,doses of bull semen,,1100.0
+2024,"Caprine, capete",,26419.0
+2024,"Cabaline, capete",,185.0
+2024,"Iepuri, capete",,2300.0
+2024,"Păsări, capete",,3972100.0
 2024,"Piscicole (pești), capete",,
-2024,"Apicole (albini), familii",,
+2024,"Apicole (albini), familii",,3200.0
 2024,,Total,
 2024,,Corn,1073.0
 2024,,Sorghum crops,70.0
@@ -314,3 +359,27 @@ Year,Resurse genetice animaliere,Resurse genetice vegetale (mostre),Value
 2024,,Berry crops,49.0
 2024,,Vegetable growing (Vegetable crops),421.0
 2024,,Potato,15.0
+2025,,,
+2025,"Bovine, capete",,30100.0
+2025,doses of bull semen,,2602810.0
+2025,"Porcine, capete",,264600.0
+2025,doses of bull semen,,4486.0
+2025,"Ovine, capete",,30900.0
+2025,doses of bull semen,,800.0
+2025,"Caprine, capete",,8800.0
+2025,"Cabaline, capete",,340.0
+2025,"Iepuri, capete",,22400.0
+2025,"Păsări, capete",,4462300.0
+2025,"Piscicole (pești), capete",,
+2025,"Apicole (albini), familii",,5100.0
+2025,,Total,
+2025,,Corn,
+2025,,Sorghum crops,
+2025,,Aromatic and medicinal plants,
+2025,,Cereal crops,
+2025,,Leguminous crops for grains,
+2025,,Viticulture,
+2025,,Pomology (Fruit growing),
+2025,,Berry crops,
+2025,,Vegetable growing (Vegetable crops),
+2025,,Potato,

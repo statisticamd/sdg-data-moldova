@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
@@ -74,6 +74,18 @@
                 "Surrogate",
                 "Engaging in criminal activities",
                 "Sampling of human organs, tissues or cells",
+                "Urban ",
+                "Rural ",
+                "Locuitor al altui stat",
+                "Persoană fără loc de trai permanent",
+                "Superioare",
+                "Superioare incomplete",
+                "Medii speciale",
+                "Medii ",
+                "Medii incomplete",
+                "Primare",
+                "Alte",
+                "Analfabet",
                 ""
               ]
             },

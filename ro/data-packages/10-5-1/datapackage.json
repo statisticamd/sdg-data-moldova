@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rata fondurilor proprii de nivel I în raport cu total active",
-                "Rata fondurilor proprii de nivel I în raport cu activele ponderate la risc",
-                "Rata creditelor neperformante (fără rezerve) in raport cu capitalul total reglementat",
+                "Ratio of Tier 1 own funds to total assets",
+                "Ratio of Tier 1 own funds to risk-weighted assets",
+                "Ratio of net non-performing loans less of provisions to own funds",
                 "Ponderea creditelor neperformante în totalul creditelor acordate",
                 "Rentabilitatea activelor",
-                "Rata activelor lichide în raport cu pasivele pe termen scurt",
-                "Rata poziției valutare deschise nete la capitalul total reglementat",
+                "The ratio of liquid assets to short-term liabilities",
+                "Ratio of net open foreign exchange position to own funds",
                 ""
               ]
             },

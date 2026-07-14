@@ -19,14 +19,14 @@ Year,Clase Situații excepționale,Value
 2013,Natural (pe genuri),
 2013,Biologico-social,
 2013,Incendii,
-2014,,0.198
-2014,Tehnogen,0.003
-2014,Natural (pe genuri),0.145
+2014,,0.2
+2014,Tehnogen,0.0
+2014,Natural (pe genuri),0.14
 2014,Biologico-social,0.0
 2014,Incendii,0.05
-2015,,0.316
-2015,Tehnogen,0.003
-2015,Natural (pe genuri),0.273
+2015,,0.32
+2015,Tehnogen,0.0
+2015,Natural (pe genuri),0.27
 2015,Biologico-social,0.0
 2015,Incendii,0.04
 2016,,0.35
@@ -70,7 +70,12 @@ Year,Clase Situații excepționale,Value
 2023,Biologico-social,0.01
 2023,Incendii,0.04
 2024,,1.49
-2024,Tehnogen,0.001
+2024,Tehnogen,0.0
 2024,Natural (pe genuri),1.44
-2024,Biologico-social,0.001
-2024,Incendii,0.049
+2024,Biologico-social,0.0
+2024,Incendii,0.05
+2025,,0.87
+2025,Tehnogen,0.0
+2025,Natural (pe genuri),1.32
+2025,Biologico-social,0.1
+2025,Incendii,0.05

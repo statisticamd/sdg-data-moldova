@@ -55,7 +55,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Low",
+                "Medium",
+                "High",
                 ""
               ]
             }

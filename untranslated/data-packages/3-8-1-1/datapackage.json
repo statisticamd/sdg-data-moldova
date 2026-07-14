@@ -42,6 +42,28 @@
             }
           },
           {
+            "name": "Disease Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circulatory system diseases",
+                "including hypertensive disease",
+                "Endocrine, nutritional and metabolic diseases",
+                "including diabetes mellitus",
+                "Respiratory system diseases",
+                "Musculoskeletal system and connective tissue diseases",
+                "Influencing factors of the health status and reasons for seeking health services",
+                "including prophylaxis of rickets and anemia in children",
+                "Digestive system diseases ",
+                "Diseases of the eye and its adnexa",
+                "Genitourinary system diseases",
+                "Mental and behavioral disorders",
+                "Nervous system diseases",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

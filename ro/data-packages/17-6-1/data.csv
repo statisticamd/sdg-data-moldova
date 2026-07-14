@@ -7,11 +7,12 @@ Year,Mediu de reședință,Regiuni,Viteze,Value
 2010,,Centru,,
 2010,,Sud,,
 2010,,UTA Găgăuzia,,
-2010,,,Sub 2 mbps,
-2010,,,2-10 mbps,
-2010,,,10-30 mbps,
-2010,,,30-100 mbps,
-2010,,,Peste 100 Mbps,
+2010,,,≤30 Mbps,
+2010,,,between 30 Mbps and 100 Mbps,
+2010,,,between 100 Mbps and 500 Mbps,
+2010,,,between 500 Mbps and 1 Gbps,
+2010,,,between 1 Gbps and 5 Gbps,
+2010,,,above 5 Gbps ,
 2011,,,,
 2011,Urban,,,
 2011,Rural,,,
@@ -20,11 +21,12 @@ Year,Mediu de reședință,Regiuni,Viteze,Value
 2011,,Centru,,
 2011,,Sud,,
 2011,,UTA Găgăuzia,,
-2011,,,Sub 2 mbps,
-2011,,,2-10 mbps,
-2011,,,10-30 mbps,
-2011,,,30-100 mbps,
-2011,,,Peste 100 Mbps,
+2011,,,≤30 Mbps,
+2011,,,between 30 Mbps and 100 Mbps,
+2011,,,between 100 Mbps and 500 Mbps,
+2011,,,between 500 Mbps and 1 Gbps,
+2011,,,between 1 Gbps and 5 Gbps,
+2011,,,above 5 Gbps ,
 2012,,,,
 2012,Urban,,,
 2012,Rural,,,
@@ -33,11 +35,12 @@ Year,Mediu de reședință,Regiuni,Viteze,Value
 2012,,Centru,,
 2012,,Sud,,
 2012,,UTA Găgăuzia,,
-2012,,,Sub 2 mbps,
-2012,,,2-10 mbps,
-2012,,,10-30 mbps,
-2012,,,30-100 mbps,
-2012,,,Peste 100 Mbps,
+2012,,,≤30 Mbps,
+2012,,,between 30 Mbps and 100 Mbps,
+2012,,,between 100 Mbps and 500 Mbps,
+2012,,,between 500 Mbps and 1 Gbps,
+2012,,,between 1 Gbps and 5 Gbps,
+2012,,,above 5 Gbps ,
 2013,,,,
 2013,Urban,,,
 2013,Rural,,,
@@ -46,151 +49,177 @@ Year,Mediu de reședință,Regiuni,Viteze,Value
 2013,,Centru,,
 2013,,Sud,,
 2013,,UTA Găgăuzia,,
-2013,,,Sub 2 mbps,
-2013,,,2-10 mbps,
-2013,,,10-30 mbps,
-2013,,,30-100 mbps,
-2013,,,Peste 100 Mbps,
-2014,,,,17.746
-2014,Urban,,,27.935
-2014,Rural,,,11.058
-2014,,Mun. Chișinău,,31.155
-2014,,Nord,,14.342
-2014,,Centru,,12.499
+2013,,,≤30 Mbps,
+2013,,,between 30 Mbps and 100 Mbps,
+2013,,,between 100 Mbps and 500 Mbps,
+2013,,,between 500 Mbps and 1 Gbps,
+2013,,,between 1 Gbps and 5 Gbps,
+2013,,,above 5 Gbps ,
+2014,,,,17.75
+2014,Urban,,,27.93
+2014,Rural,,,11.06
+2014,,Mun. Chișinău,,31.15
+2014,,Nord,,14.34
+2014,,Centru,,12.5
 2014,,Sud,,13.48
-2014,,UTA Găgăuzia,,17.118
-2014,,,Sub 2 mbps,1.423
-2014,,,2-10 mbps,5.692
-2014,,,10-30 mbps,3.302
-2014,,,30-100 mbps,6.395
-2014,,,Peste 100 Mbps,0.707
-2015,,,,18.775
-2015,Urban,,,28.592
-2015,Rural,,,12.312
-2015,,Mun. Chișinău,,32.934
+2014,,UTA Găgăuzia,,17.12
+2014,,,≤30 Mbps,1.42
+2014,,,between 30 Mbps and 100 Mbps,5.69
+2014,,,between 100 Mbps and 500 Mbps,3.3
+2014,,,between 500 Mbps and 1 Gbps,6.4
+2014,,,between 1 Gbps and 5 Gbps,0.71
+2014,,,above 5 Gbps ,
+2015,,,,18.77
+2015,Urban,,,28.59
+2015,Rural,,,12.31
+2015,,Mun. Chișinău,,32.93
 2015,,Nord,,15.24
-2015,,Centru,,13.139
-2015,,Sud,,14.178
-2015,,UTA Găgăuzia,,18.255
-2015,,,Sub 2 mbps,0.822
-2015,,,2-10 mbps,1.846
-2015,,,10-30 mbps,6.191
-2015,,,30-100 mbps,8.432
-2015,,,Peste 100 Mbps,1.055
-2016,,,,19.727
-2016,Urban,,,30.497
-2016,Rural,,,12.624
-2016,,Mun. Chișinău,,33.684
-2016,,Nord,,16.016
+2015,,Centru,,13.14
+2015,,Sud,,14.18
+2015,,UTA Găgăuzia,,18.25
+2015,,,≤30 Mbps,0.82
+2015,,,between 30 Mbps and 100 Mbps,1.85
+2015,,,between 100 Mbps and 500 Mbps,6.19
+2015,,,between 500 Mbps and 1 Gbps,8.43
+2015,,,between 1 Gbps and 5 Gbps,1.05
+2015,,,above 5 Gbps ,
+2016,,,,19.73
+2016,Urban,,,30.5
+2016,Rural,,,12.62
+2016,,Mun. Chișinău,,33.68
+2016,,Nord,,16.02
 2016,,Centru,,13.63
-2016,,Sud,,16.971
-2016,,UTA Găgăuzia,,18.425
-2016,,,Sub 2 mbps,0.823
-2016,,,2-10 mbps,1.129
-2016,,,10-30 mbps,6.794
-2016,,,30-100 mbps,9.43
-2016,,,Peste 100 Mbps,1.085
-2017,,,,21.013
-2017,Urban,,,32.014
-2017,Rural,,,13.688
+2016,,Sud,,16.97
+2016,,UTA Găgăuzia,,18.42
+2016,,,≤30 Mbps,0.82
+2016,,,between 30 Mbps and 100 Mbps,1.13
+2016,,,between 100 Mbps and 500 Mbps,6.79
+2016,,,between 500 Mbps and 1 Gbps,9.43
+2016,,,between 1 Gbps and 5 Gbps,1.08
+2016,,,above 5 Gbps ,
+2017,,,,21.01
+2017,Urban,,,32.01
+2017,Rural,,,13.69
 2017,,Mun. Chișinău,,35.01
 2017,,Nord,,17.13
-2017,,Centru,,14.991
-2017,,Sud,,18.348
-2017,,UTA Găgăuzia,,18.875
-2017,,,Sub 2 mbps,0.768
-2017,,,2-10 mbps,0.944
-2017,,,10-30 mbps,6.833
-2017,,,30-100 mbps,10.618
-2017,,,Peste 100 Mbps,1.436
-2018,,,,22.829
-2018,Urban,,,34.282
-2018,Rural,,,15.088
-2018,,Mun. Chișinău,,37.348
-2018,,Nord,,18.457
-2018,,Centru,,17.855
-2018,,Sud,,18.052
-2018,,UTA Găgăuzia,,19.581
-2018,,,Sub 2 mbps,0.691
-2018,,,2-10 mbps,0.306
-2018,,,10-30 mbps,7.123
-2018,,,30-100 mbps,12.415
-2018,,,Peste 100 Mbps,2.294
-2019,,,,24.975
-2019,Urban,,,36.851
+2017,,Centru,,14.99
+2017,,Sud,,18.35
+2017,,UTA Găgăuzia,,18.87
+2017,,,≤30 Mbps,0.77
+2017,,,between 30 Mbps and 100 Mbps,0.94
+2017,,,between 100 Mbps and 500 Mbps,6.83
+2017,,,between 500 Mbps and 1 Gbps,10.62
+2017,,,between 1 Gbps and 5 Gbps,1.44
+2017,,,above 5 Gbps ,
+2018,,,,22.83
+2018,Urban,,,34.28
+2018,Rural,,,15.09
+2018,,Mun. Chișinău,,37.35
+2018,,Nord,,18.46
+2018,,Centru,,17.85
+2018,,Sud,,18.05
+2018,,UTA Găgăuzia,,19.58
+2018,,,≤30 Mbps,0.69
+2018,,,between 30 Mbps and 100 Mbps,0.31
+2018,,,between 100 Mbps and 500 Mbps,7.12
+2018,,,between 500 Mbps and 1 Gbps,12.41
+2018,,,between 1 Gbps and 5 Gbps,2.29
+2018,,,above 5 Gbps ,
+2019,,,,24.98
+2019,Urban,,,36.85
 2019,Rural,,,16.8
-2019,,Mun. Chișinău,,39.995
-2019,,Nord,,20.278
-2019,,Centru,,19.777
-2019,,Sud,,20.247
-2019,,UTA Găgăuzia,,20.715
-2019,,,Sub 2 mbps,0.557
-2019,,,2-10 mbps,0.287
-2019,,,10-30 mbps,6.513
-2019,,,30-100 mbps,13.783
-2019,,,Peste 100 Mbps,3.835
-2020,,,,27.197
-2020,Urban,,,38.498
-2020,Rural,,,19.234
-2020,,Mun. Chișinău,,41.866
-2020,,Nord,,22.391
-2020,,Centru,,22.321
-2020,,Sud,,22.371
-2020,,UTA Găgăuzia,,21.386
-2020,,,Sub 2 mbps,0.439
-2020,,,2-10 mbps,0.271
-2020,,,10-30 mbps,5.652
-2020,,,30-100 mbps,14.497
-2020,,,Peste 100 Mbps,6.337
-2021,,,,29.024
-2021,Urban,,,40.057
-2021,Rural,,,21.095
-2021,,Mun. Chișinău,,42.913
-2021,,Nord,,24.255
-2021,,Centru,,24.496
-2021,,Sud,,24.387
-2021,,UTA Găgăuzia,,22.636
-2021,,,Sub 2 mbps,0.316
-2021,,,2-10 mbps,0.231
-2021,,,10-30 mbps,4.549
-2021,,,30-100 mbps,14.304
-2021,,,Peste 100 Mbps,9.624
-2022,,,,30.876
-2022,Urban,,,41.445
-2022,Rural,,,23.093
-2022,,Mun. Chișinău,,44.606
-2022,,Nord,,25.972
-2022,,Centru,,26.442
-2022,,Sud,,19.241
-2022,,UTA Găgăuzia,,24.024
-2022,,,Sub 2 mbps,0.203
-2022,,,2-10 mbps,0.212
-2022,,,10-30 mbps,3.995
-2022,,,30-100 mbps,13.699
-2022,,,Peste 100 Mbps,12.766
-2023,,,,33.607
-2023,Urban,,,44.193
-2023,Rural,,,25.62
-2023,,Mun. Chișinău,,47.014
-2023,,Nord,,29.061
-2023,,Centru,,28.966
-2023,,Sud,,28.456
-2023,,UTA Găgăuzia,,25.375
-2023,,,Sub 2 mbps,0.152
-2023,,,2-10 mbps,0.19
-2023,,,10-30 mbps,3.663
-2023,,,30-100 mbps,12.26
-2023,,,Peste 100 Mbps,17.341
-2024,,,,37.112
-2024,Urban,,,
-2024,Rural,,,
-2024,,Mun. Chișinău,,
-2024,,Nord,,
-2024,,Centru,,
-2024,,Sud,,
-2024,,UTA Găgăuzia,,
-2024,,,Sub 2 mbps,0.109
-2024,,,2-10 mbps,0.166
-2024,,,10-30 mbps,3.483
-2024,,,30-100 mbps,10.711
-2024,,,Peste 100 Mbps,22.644
+2019,,Mun. Chișinău,,40.0
+2019,,Nord,,20.28
+2019,,Centru,,19.78
+2019,,Sud,,20.25
+2019,,UTA Găgăuzia,,20.72
+2019,,,≤30 Mbps,0.56
+2019,,,between 30 Mbps and 100 Mbps,0.29
+2019,,,between 100 Mbps and 500 Mbps,6.51
+2019,,,between 500 Mbps and 1 Gbps,13.78
+2019,,,between 1 Gbps and 5 Gbps,3.83
+2019,,,above 5 Gbps ,
+2020,,,,27.2
+2020,Urban,,,38.5
+2020,Rural,,,19.23
+2020,,Mun. Chișinău,,41.87
+2020,,Nord,,22.39
+2020,,Centru,,22.32
+2020,,Sud,,22.37
+2020,,UTA Găgăuzia,,21.39
+2020,,,≤30 Mbps,0.44
+2020,,,between 30 Mbps and 100 Mbps,0.27
+2020,,,between 100 Mbps and 500 Mbps,5.65
+2020,,,between 500 Mbps and 1 Gbps,14.5
+2020,,,between 1 Gbps and 5 Gbps,6.34
+2020,,,above 5 Gbps ,
+2021,,,,29.02
+2021,Urban,,,40.06
+2021,Rural,,,21.1
+2021,,Mun. Chișinău,,42.91
+2021,,Nord,,24.25
+2021,,Centru,,24.5
+2021,,Sud,,24.39
+2021,,UTA Găgăuzia,,22.64
+2021,,,≤30 Mbps,0.32
+2021,,,between 30 Mbps and 100 Mbps,0.23
+2021,,,between 100 Mbps and 500 Mbps,4.55
+2021,,,between 500 Mbps and 1 Gbps,14.3
+2021,,,between 1 Gbps and 5 Gbps,9.62
+2021,,,above 5 Gbps ,
+2022,,,,30.9
+2022,Urban,,,41.4
+2022,Rural,,,23.1
+2022,,Mun. Chișinău,,44.6
+2022,,Nord,,26.0
+2022,,Centru,,26.4
+2022,,Sud,,19.2
+2022,,UTA Găgăuzia,,24.0
+2022,,,≤30 Mbps,0.2
+2022,,,between 30 Mbps and 100 Mbps,0.2
+2022,,,between 100 Mbps and 500 Mbps,4.0
+2022,,,between 500 Mbps and 1 Gbps,13.7
+2022,,,between 1 Gbps and 5 Gbps,12.8
+2022,,,above 5 Gbps ,
+2023,,,,33.6
+2023,Urban,,,44.2
+2023,Rural,,,25.6
+2023,,Mun. Chișinău,,47.0
+2023,,Nord,,29.1
+2023,,Centru,,29.0
+2023,,Sud,,28.5
+2023,,UTA Găgăuzia,,25.4
+2023,,,≤30 Mbps,0.2
+2023,,,between 30 Mbps and 100 Mbps,0.2
+2023,,,between 100 Mbps and 500 Mbps,3.7
+2023,,,between 500 Mbps and 1 Gbps,12.3
+2023,,,between 1 Gbps and 5 Gbps,17.3
+2023,,,above 5 Gbps ,
+2024,,,,37.1
+2024,Urban,,,47.9
+2024,Rural,,,28.8
+2024,,Mun. Chișinău,,50.2
+2024,,Nord,,32.8
+2024,,Centru,,32.5
+2024,,Sud,,31.6
+2024,,UTA Găgăuzia,,28.1
+2024,,,≤30 Mbps,0.1
+2024,,,between 30 Mbps and 100 Mbps,0.2
+2024,,,between 100 Mbps and 500 Mbps,3.5
+2024,,,between 500 Mbps and 1 Gbps,10.7
+2024,,,between 1 Gbps and 5 Gbps,22.6
+2024,,,above 5 Gbps ,
+2025,,,,40.4
+2025,Urban,,,52.4
+2025,Rural,,,31.1
+2025,,Mun. Chișinău,,53.9
+2025,,Nord,,36.1
+2025,,Centru,,35.3
+2025,,Sud,,34.6
+2025,,UTA Găgăuzia,,31.2
+2025,,,≤30 Mbps,2.6
+2025,,,between 30 Mbps and 100 Mbps,8.3
+2025,,,between 100 Mbps and 500 Mbps,18.3
+2025,,,between 500 Mbps and 1 Gbps,9.9
+2025,,,between 1 Gbps and 5 Gbps,1.2
+2025,,,above 5 Gbps ,0.01

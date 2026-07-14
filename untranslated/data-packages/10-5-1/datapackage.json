@@ -19,13 +19,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of own funds of level I in relation to total assets",
-                "Ratio of own funds of level I in relation to risk-weighted assets",
-                "Non-performing loans rate (without reserves) in relation to the total regulated capital",
+                "Ratio of Tier 1 own funds to total assets",
+                "Ratio of Tier 1 own funds to risk-weighted assets",
+                "Ratio of net non-performing loans less of provisions to own funds",
                 "Share of non-performing loans in total loans granted",
                 "Return on assets",
-                "Rate of liquid assets in relation to short-term liabilities",
-                "Rate of net open foreign exchange position at total regulated capital",
+                "The ratio of liquid assets to short-term liabilities",
+                "Ratio of net open foreign exchange position to own funds",
                 ""
               ]
             }

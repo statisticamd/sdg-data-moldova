@@ -1,151 +1,369 @@
-Year,Sex,Age group,Value
-2010,,,
-2010,Men,,
-2010,Women,,
-2010,,0-14,
-2010,,15-24,
-2010,,25-34,
-2010,,35-44,
-2010,,45-54,
-2010,,16-55,
-2010,,56+,
-2011,,,
-2011,Men,,
-2011,Women,,
-2011,,0-14,
-2011,,15-24,
-2011,,25-34,
-2011,,35-44,
-2011,,45-54,
-2011,,16-55,
-2011,,56+,
-2012,,,
-2012,Men,,
-2012,Women,,
-2012,,0-14,
-2012,,15-24,
-2012,,25-34,
-2012,,35-44,
-2012,,45-54,
-2012,,16-55,
-2012,,56+,
-2013,,,
-2013,Men,,
-2013,Women,,
-2013,,0-14,
-2013,,15-24,
-2013,,25-34,
-2013,,35-44,
-2013,,45-54,
-2013,,16-55,
-2013,,56+,
-2014,,,
-2014,Men,,
-2014,Women,,
-2014,,0-14,
-2014,,15-24,
-2014,,25-34,
-2014,,35-44,
-2014,,45-54,
-2014,,16-55,
-2014,,56+,
-2015,,,20.909
-2015,Men,,16.111
-2015,Women,,25.362
-2015,,0-14,23.351
-2015,,15-24,5.43
-2015,,25-34,6.548
-2015,,35-44,6.195
-2015,,45-54,18.002
-2015,,16-55,20.329
-2015,,56+,44.056
-2016,,,25.482
-2016,Men,,20.463
-2016,Women,,30.113
-2016,,0-14,33.604
-2016,,15-24,7.661
-2016,,25-34,6.945
-2016,,35-44,7.577
-2016,,45-54,20.542
-2016,,16-55,23.518
-2016,,56+,49.347
-2017,,,30.532
-2017,Men,,25.499
-2017,Women,,35.141
-2017,,0-14,47.391
-2017,,15-24,11.321
-2017,,25-34,7.175
-2017,,35-44,8.77
-2017,,45-54,22.331
-2017,,16-55,26.389
-2017,,56+,53.304
-2018,,,30.388
-2018,Men,,25.401
-2018,Women,,34.946
-2018,,0-14,46.489
-2018,,15-24,11.665
-2018,,25-34,6.517
-2018,,35-44,7.678
-2018,,45-54,20.896
-2018,,16-55,26.439
-2018,,56+,53.737
-2019,,,31.489
-2019,Men,,26.307
-2019,Women,,36.224
-2019,,0-14,47.195
-2019,,15-24,12.129
-2019,,25-34,6.119
-2019,,35-44,7.609
-2019,,45-54,20.887
-2019,,16-55,27.666
-2019,,56+,56.298
-2020,,,28.138
-2020,Men,,23.134
-2020,Women,,32.703
-2020,,0-14,37.703
-2020,,15-24,11.813
-2020,,25-34,5.069
-2020,,35-44,6.137
-2020,,45-54,16.487
-2020,,16-55,25.831
-2020,,56+,54.111
-2021,,,28.889
-2021,Men,,23.679
-2021,Women,,33.602
-2021,,0-14,33.739
-2021,,15-24,9.965
-2021,,25-34,5.723
-2021,,35-44,7.389
-2021,,45-54,19.566
-2021,,16-55,27.722
-2021,,56+,56.863
-2022,,,30.71
-2022,Men,,25.697
-2022,Women,,35.202
-2022,,0-14,38.807
-2022,,15-24,12.291
-2022,,25-34,5.559
-2022,,35-44,7.333
-2022,,45-54,20.089
-2022,,16-55,28.781
-2022,,56+,57.737
-2023,,,30.164
-2023,Men,,25.268
-2023,Women,,34.552
-2023,,0-14,44.383
-2023,,15-24,11.287
-2023,,25-34,4.316
-2023,,35-44,7.1
-2023,,45-54,19.8
-2023,,16-55,26.779
-2023,,56+,59.273
-2024,,,30.45
-2024,Men,,24.582
-2024,Women,,33.784
-2024,,0-14,36.08
-2024,,15-24,10.821
-2024,,25-34,4.626
-2024,,35-44,6.648
-2024,,45-54,17.569
-2024,,16-55,9.825
-2024,,56+,62.217
+Year,Sex,Age group,Disease Group,Value
+2010,,,,
+2010,Men,,,
+2010,Women,,,
+2010,,0-14,,
+2010,,15-24,,
+2010,,25-34,,
+2010,,35-44,,
+2010,,45-54,,
+2010,,16-55,,
+2010,,56+,,
+2010,,,Circulatory system diseases,
+2010,,,including hypertensive disease,
+2010,,,"Endocrine, nutritional and metabolic diseases",
+2010,,,including diabetes mellitus,
+2010,,,Respiratory system diseases,
+2010,,,Musculoskeletal system and connective tissue diseases,
+2010,,,Influencing factors of the health status and reasons for seeking health services,
+2010,,,including prophylaxis of rickets and anemia in children,
+2010,,,Digestive system diseases ,
+2010,,,Diseases of the eye and its adnexa,
+2010,,,Genitourinary system diseases,
+2010,,,Mental and behavioral disorders,
+2010,,,Nervous system diseases,
+2011,,,,
+2011,Men,,,
+2011,Women,,,
+2011,,0-14,,
+2011,,15-24,,
+2011,,25-34,,
+2011,,35-44,,
+2011,,45-54,,
+2011,,16-55,,
+2011,,56+,,
+2011,,,Circulatory system diseases,
+2011,,,including hypertensive disease,
+2011,,,"Endocrine, nutritional and metabolic diseases",
+2011,,,including diabetes mellitus,
+2011,,,Respiratory system diseases,
+2011,,,Musculoskeletal system and connective tissue diseases,
+2011,,,Influencing factors of the health status and reasons for seeking health services,
+2011,,,including prophylaxis of rickets and anemia in children,
+2011,,,Digestive system diseases ,
+2011,,,Diseases of the eye and its adnexa,
+2011,,,Genitourinary system diseases,
+2011,,,Mental and behavioral disorders,
+2011,,,Nervous system diseases,
+2012,,,,
+2012,Men,,,
+2012,Women,,,
+2012,,0-14,,
+2012,,15-24,,
+2012,,25-34,,
+2012,,35-44,,
+2012,,45-54,,
+2012,,16-55,,
+2012,,56+,,
+2012,,,Circulatory system diseases,
+2012,,,including hypertensive disease,
+2012,,,"Endocrine, nutritional and metabolic diseases",
+2012,,,including diabetes mellitus,
+2012,,,Respiratory system diseases,
+2012,,,Musculoskeletal system and connective tissue diseases,
+2012,,,Influencing factors of the health status and reasons for seeking health services,
+2012,,,including prophylaxis of rickets and anemia in children,
+2012,,,Digestive system diseases ,
+2012,,,Diseases of the eye and its adnexa,
+2012,,,Genitourinary system diseases,
+2012,,,Mental and behavioral disorders,
+2012,,,Nervous system diseases,
+2013,,,,
+2013,Men,,,
+2013,Women,,,
+2013,,0-14,,
+2013,,15-24,,
+2013,,25-34,,
+2013,,35-44,,
+2013,,45-54,,
+2013,,16-55,,
+2013,,56+,,
+2013,,,Circulatory system diseases,
+2013,,,including hypertensive disease,
+2013,,,"Endocrine, nutritional and metabolic diseases",
+2013,,,including diabetes mellitus,
+2013,,,Respiratory system diseases,
+2013,,,Musculoskeletal system and connective tissue diseases,
+2013,,,Influencing factors of the health status and reasons for seeking health services,
+2013,,,including prophylaxis of rickets and anemia in children,
+2013,,,Digestive system diseases ,
+2013,,,Diseases of the eye and its adnexa,
+2013,,,Genitourinary system diseases,
+2013,,,Mental and behavioral disorders,
+2013,,,Nervous system diseases,
+2014,,,,
+2014,Men,,,
+2014,Women,,,
+2014,,0-14,,
+2014,,15-24,,
+2014,,25-34,,
+2014,,35-44,,
+2014,,45-54,,
+2014,,16-55,,
+2014,,56+,,
+2014,,,Circulatory system diseases,
+2014,,,including hypertensive disease,
+2014,,,"Endocrine, nutritional and metabolic diseases",
+2014,,,including diabetes mellitus,
+2014,,,Respiratory system diseases,
+2014,,,Musculoskeletal system and connective tissue diseases,
+2014,,,Influencing factors of the health status and reasons for seeking health services,
+2014,,,including prophylaxis of rickets and anemia in children,
+2014,,,Digestive system diseases ,
+2014,,,Diseases of the eye and its adnexa,
+2014,,,Genitourinary system diseases,
+2014,,,Mental and behavioral disorders,
+2014,,,Nervous system diseases,
+2015,,,,20.9
+2015,Men,,,16.1
+2015,Women,,,25.4
+2015,,0-14,,23.4
+2015,,15-24,,5.4
+2015,,25-34,,6.5
+2015,,35-44,,6.2
+2015,,45-54,,18.0
+2015,,16-55,,20.3
+2015,,56+,,44.1
+2015,,,Circulatory system diseases,
+2015,,,including hypertensive disease,
+2015,,,"Endocrine, nutritional and metabolic diseases",
+2015,,,including diabetes mellitus,
+2015,,,Respiratory system diseases,
+2015,,,Musculoskeletal system and connective tissue diseases,
+2015,,,Influencing factors of the health status and reasons for seeking health services,
+2015,,,including prophylaxis of rickets and anemia in children,
+2015,,,Digestive system diseases ,
+2015,,,Diseases of the eye and its adnexa,
+2015,,,Genitourinary system diseases,
+2015,,,Mental and behavioral disorders,
+2015,,,Nervous system diseases,
+2016,,,,25.5
+2016,Men,,,20.5
+2016,Women,,,30.1
+2016,,0-14,,33.6
+2016,,15-24,,7.7
+2016,,25-34,,6.9
+2016,,35-44,,7.6
+2016,,45-54,,20.5
+2016,,16-55,,23.5
+2016,,56+,,49.3
+2016,,,Circulatory system diseases,
+2016,,,including hypertensive disease,
+2016,,,"Endocrine, nutritional and metabolic diseases",
+2016,,,including diabetes mellitus,
+2016,,,Respiratory system diseases,
+2016,,,Musculoskeletal system and connective tissue diseases,
+2016,,,Influencing factors of the health status and reasons for seeking health services,
+2016,,,including prophylaxis of rickets and anemia in children,
+2016,,,Digestive system diseases ,
+2016,,,Diseases of the eye and its adnexa,
+2016,,,Genitourinary system diseases,
+2016,,,Mental and behavioral disorders,
+2016,,,Nervous system diseases,
+2017,,,,30.5
+2017,Men,,,25.5
+2017,Women,,,35.1
+2017,,0-14,,47.4
+2017,,15-24,,11.3
+2017,,25-34,,7.2
+2017,,35-44,,8.8
+2017,,45-54,,22.3
+2017,,16-55,,26.4
+2017,,56+,,53.3
+2017,,,Circulatory system diseases,
+2017,,,including hypertensive disease,
+2017,,,"Endocrine, nutritional and metabolic diseases",
+2017,,,including diabetes mellitus,
+2017,,,Respiratory system diseases,
+2017,,,Musculoskeletal system and connective tissue diseases,
+2017,,,Influencing factors of the health status and reasons for seeking health services,
+2017,,,including prophylaxis of rickets and anemia in children,
+2017,,,Digestive system diseases ,
+2017,,,Diseases of the eye and its adnexa,
+2017,,,Genitourinary system diseases,
+2017,,,Mental and behavioral disorders,
+2017,,,Nervous system diseases,
+2018,,,,30.4
+2018,Men,,,25.4
+2018,Women,,,34.9
+2018,,0-14,,46.5
+2018,,15-24,,11.7
+2018,,25-34,,6.5
+2018,,35-44,,7.7
+2018,,45-54,,20.9
+2018,,16-55,,26.4
+2018,,56+,,53.7
+2018,,,Circulatory system diseases,
+2018,,,including hypertensive disease,
+2018,,,"Endocrine, nutritional and metabolic diseases",
+2018,,,including diabetes mellitus,
+2018,,,Respiratory system diseases,
+2018,,,Musculoskeletal system and connective tissue diseases,
+2018,,,Influencing factors of the health status and reasons for seeking health services,
+2018,,,including prophylaxis of rickets and anemia in children,
+2018,,,Digestive system diseases ,
+2018,,,Diseases of the eye and its adnexa,
+2018,,,Genitourinary system diseases,
+2018,,,Mental and behavioral disorders,
+2018,,,Nervous system diseases,
+2019,,,,31.5
+2019,Men,,,26.3
+2019,Women,,,36.2
+2019,,0-14,,47.2
+2019,,15-24,,12.1
+2019,,25-34,,6.1
+2019,,35-44,,7.6
+2019,,45-54,,20.9
+2019,,16-55,,27.7
+2019,,56+,,56.3
+2019,,,Circulatory system diseases,
+2019,,,including hypertensive disease,
+2019,,,"Endocrine, nutritional and metabolic diseases",
+2019,,,including diabetes mellitus,
+2019,,,Respiratory system diseases,
+2019,,,Musculoskeletal system and connective tissue diseases,
+2019,,,Influencing factors of the health status and reasons for seeking health services,
+2019,,,including prophylaxis of rickets and anemia in children,
+2019,,,Digestive system diseases ,
+2019,,,Diseases of the eye and its adnexa,
+2019,,,Genitourinary system diseases,
+2019,,,Mental and behavioral disorders,
+2019,,,Nervous system diseases,
+2020,,,,28.1
+2020,Men,,,23.1
+2020,Women,,,32.7
+2020,,0-14,,37.7
+2020,,15-24,,11.8
+2020,,25-34,,5.1
+2020,,35-44,,6.1
+2020,,45-54,,16.5
+2020,,16-55,,25.8
+2020,,56+,,54.1
+2020,,,Circulatory system diseases,
+2020,,,including hypertensive disease,
+2020,,,"Endocrine, nutritional and metabolic diseases",
+2020,,,including diabetes mellitus,
+2020,,,Respiratory system diseases,
+2020,,,Musculoskeletal system and connective tissue diseases,
+2020,,,Influencing factors of the health status and reasons for seeking health services,
+2020,,,including prophylaxis of rickets and anemia in children,
+2020,,,Digestive system diseases ,
+2020,,,Diseases of the eye and its adnexa,
+2020,,,Genitourinary system diseases,
+2020,,,Mental and behavioral disorders,
+2020,,,Nervous system diseases,
+2021,,,,28.9
+2021,Men,,,23.7
+2021,Women,,,33.6
+2021,,0-14,,33.7
+2021,,15-24,,10.0
+2021,,25-34,,5.7
+2021,,35-44,,7.4
+2021,,45-54,,19.6
+2021,,16-55,,27.7
+2021,,56+,,56.9
+2021,,,Circulatory system diseases,
+2021,,,including hypertensive disease,
+2021,,,"Endocrine, nutritional and metabolic diseases",
+2021,,,including diabetes mellitus,
+2021,,,Respiratory system diseases,
+2021,,,Musculoskeletal system and connective tissue diseases,
+2021,,,Influencing factors of the health status and reasons for seeking health services,
+2021,,,including prophylaxis of rickets and anemia in children,
+2021,,,Digestive system diseases ,
+2021,,,Diseases of the eye and its adnexa,
+2021,,,Genitourinary system diseases,
+2021,,,Mental and behavioral disorders,
+2021,,,Nervous system diseases,
+2022,,,,30.7
+2022,Men,,,25.7
+2022,Women,,,35.2
+2022,,0-14,,38.8
+2022,,15-24,,12.3
+2022,,25-34,,5.6
+2022,,35-44,,7.3
+2022,,45-54,,20.1
+2022,,16-55,,28.8
+2022,,56+,,57.7
+2022,,,Circulatory system diseases,
+2022,,,including hypertensive disease,
+2022,,,"Endocrine, nutritional and metabolic diseases",
+2022,,,including diabetes mellitus,
+2022,,,Respiratory system diseases,
+2022,,,Musculoskeletal system and connective tissue diseases,
+2022,,,Influencing factors of the health status and reasons for seeking health services,
+2022,,,including prophylaxis of rickets and anemia in children,
+2022,,,Digestive system diseases ,
+2022,,,Diseases of the eye and its adnexa,
+2022,,,Genitourinary system diseases,
+2022,,,Mental and behavioral disorders,
+2022,,,Nervous system diseases,
+2023,,,,30.2
+2023,Men,,,25.3
+2023,Women,,,34.6
+2023,,0-14,,44.4
+2023,,15-24,,11.3
+2023,,25-34,,4.3
+2023,,35-44,,7.1
+2023,,45-54,,19.8
+2023,,16-55,,26.8
+2023,,56+,,59.3
+2023,,,Circulatory system diseases,
+2023,,,including hypertensive disease,
+2023,,,"Endocrine, nutritional and metabolic diseases",
+2023,,,including diabetes mellitus,
+2023,,,Respiratory system diseases,
+2023,,,Musculoskeletal system and connective tissue diseases,
+2023,,,Influencing factors of the health status and reasons for seeking health services,
+2023,,,including prophylaxis of rickets and anemia in children,
+2023,,,Digestive system diseases ,
+2023,,,Diseases of the eye and its adnexa,
+2023,,,Genitourinary system diseases,
+2023,,,Mental and behavioral disorders,
+2023,,,Nervous system diseases,
+2024,,,,30.45
+2024,Men,,,24.58
+2024,Women,,,33.78
+2024,,0-14,,36.08
+2024,,15-24,,10.82
+2024,,25-34,,4.63
+2024,,35-44,,6.65
+2024,,45-54,,17.57
+2024,,16-55,,9.82
+2024,,56+,,62.22
+2024,,,Circulatory system diseases,
+2024,,,including hypertensive disease,
+2024,,,"Endocrine, nutritional and metabolic diseases",
+2024,,,including diabetes mellitus,
+2024,,,Respiratory system diseases,
+2024,,,Musculoskeletal system and connective tissue diseases,
+2024,,,Influencing factors of the health status and reasons for seeking health services,
+2024,,,including prophylaxis of rickets and anemia in children,
+2024,,,Digestive system diseases ,
+2024,,,Diseases of the eye and its adnexa,
+2024,,,Genitourinary system diseases,
+2024,,,Mental and behavioral disorders,
+2024,,,Nervous system diseases,
+2025,,,,30.61
+2025,Men,,,25.62
+2025,Women,,,34.92
+2025,,0-14,,33.24
+2025,,15-24,,9.62
+2025,,25-34,,5.25
+2025,,35-44,,7.53
+2025,,45-54,,20.44
+2025,,16-55,,12.95
+2025,,56+,,44.07
+2025,,,Circulatory system diseases,20.57
+2025,,,including hypertensive disease,20.32
+2025,,,"Endocrine, nutritional and metabolic diseases",11.93
+2025,,,including diabetes mellitus,5.7
+2025,,,Respiratory system diseases,6.75
+2025,,,Musculoskeletal system and connective tissue diseases,1.28
+2025,,,Influencing factors of the health status and reasons for seeking health services,1.2
+2025,,,including prophylaxis of rickets and anemia in children,0.76
+2025,,,Digestive system diseases ,0.83
+2025,,,Diseases of the eye and its adnexa,0.69
+2025,,,Genitourinary system diseases,0.69
+2025,,,Mental and behavioral disorders,0.67
+2025,,,Nervous system diseases,0.67

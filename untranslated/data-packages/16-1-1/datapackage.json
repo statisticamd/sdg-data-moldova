@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

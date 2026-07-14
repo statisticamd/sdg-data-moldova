@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Sex",
@@ -34,18 +34,21 @@
                 "Armenia",
                 "Azerbaijan",
                 "Belarus",
-                "Comoro Islands",
+                "Comoros",
                 "Egypt",
                 "Eritrea",
+                "India",
                 "Iraq",
-                "Iran",
+                "Islamic Rep. of Iran",
                 "Jordan",
                 "Kyrgyzstan",
-                "Leban",
+                "Lebanon",
+                "Libyan",
                 "Nigeria",
-                "Russia",
+                "Russian Federation",
                 "Sudan",
-                "Syria",
+                "Syrian Arab Republic",
+                "Occupied Palestinian Territory",
                 "Tajikistan",
                 "Turkmenistan",
                 "Togo",

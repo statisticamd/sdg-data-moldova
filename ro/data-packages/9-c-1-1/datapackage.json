@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -16,17 +16,37 @@
             "title": "Anul"
           },
           {
-            "name": "Indicators",
+            "name": "Mobile Internet per 100 inhabitants",
             "type": "string",
             "constraints": {
               "enum": [
-                "Internet mobil la 100 de locuitori",
-                "Internet fix la 100 de locuitori",
-                "Internet fix la 100 gospodării",
+                "114.6",
                 ""
               ]
             },
-            "title": "Indicatori"
+            "title": "Internet mobil la 100 de locuitori"
+          },
+          {
+            "name": "Fixed Internet per 100 inhabitants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4",
+                ""
+              ]
+            },
+            "title": "Internet fix la 100 de locuitori"
+          },
+          {
+            "name": "Fixed Internet per 100 households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "83.6",
+                ""
+              ]
+            },
+            "title": "Internet fix la 100 gospodării"
           },
           {
             "name": "Value",

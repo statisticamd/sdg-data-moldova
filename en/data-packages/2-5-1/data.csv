@@ -1,8 +1,11 @@
 Year,Animal genetic resources,Plant genetic resources (samples),Value
 2010,,,
 2010,"Cattle, heads",,
+2010,doses of bull semen,,
 2010,"Pigs, heads",,
+2010,doses of bull semen,,
 2010,"Sheep, heads",,
+2010,doses of bull semen,,
 2010,"Goats, heads",,
 2010,"Horses, heads",,
 2010,"Rabbits, heads",,
@@ -22,8 +25,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2010,,Potato,
 2011,,,
 2011,"Cattle, heads",,
+2011,doses of bull semen,,
 2011,"Pigs, heads",,
+2011,doses of bull semen,,
 2011,"Sheep, heads",,
+2011,doses of bull semen,,
 2011,"Goats, heads",,
 2011,"Horses, heads",,
 2011,"Rabbits, heads",,
@@ -31,11 +37,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2011,"Fish, heads",,
 2011,"Bees, families",,
 2011,,Total,6415.0
-2011,,Corn,
-2011,,Sorghum crops,
-2011,,Aromatic and medicinal plants,
-2011,,Cereal crops,
-2011,,Leguminous crops for grains,
+2011,,Corn,1120.0
+2011,,Sorghum crops,71.0
+2011,,Aromatic and medicinal plants,10.0
+2011,,Cereal crops,33634.0
+2011,,Leguminous crops for grains,6019.0
 2011,,Viticulture,
 2011,,Pomology (Fruit growing),
 2011,,Berry crops,
@@ -43,8 +49,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2011,,Potato,
 2012,,,
 2012,"Cattle, heads",,
+2012,doses of bull semen,,
 2012,"Pigs, heads",,
+2012,doses of bull semen,,
 2012,"Sheep, heads",,
+2012,doses of bull semen,,
 2012,"Goats, heads",,
 2012,"Horses, heads",,
 2012,"Rabbits, heads",,
@@ -52,11 +61,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2012,"Fish, heads",,
 2012,"Bees, families",,
 2012,,Total,
-2012,,Corn,
-2012,,Sorghum crops,
-2012,,Aromatic and medicinal plants,
-2012,,Cereal crops,
-2012,,Leguminous crops for grains,
+2012,,Corn,1138.0
+2012,,Sorghum crops,77.0
+2012,,Aromatic and medicinal plants,11.0
+2012,,Cereal crops,26057.0
+2012,,Leguminous crops for grains,5672.0
 2012,,Viticulture,
 2012,,Pomology (Fruit growing),
 2012,,Berry crops,
@@ -64,8 +73,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2012,,Potato,
 2013,,,
 2013,"Cattle, heads",,
+2013,doses of bull semen,,
 2013,"Pigs, heads",,
+2013,doses of bull semen,,
 2013,"Sheep, heads",,
+2013,doses of bull semen,,
 2013,"Goats, heads",,
 2013,"Horses, heads",,
 2013,"Rabbits, heads",,
@@ -73,11 +85,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2013,"Fish, heads",,
 2013,"Bees, families",,
 2013,,Total,
-2013,,Corn,
-2013,,Sorghum crops,
-2013,,Aromatic and medicinal plants,
-2013,,Cereal crops,
-2013,,Leguminous crops for grains,
+2013,,Corn,1137.0
+2013,,Sorghum crops,72.0
+2013,,Aromatic and medicinal plants,11.0
+2013,,Cereal crops,26242.0
+2013,,Leguminous crops for grains,5954.0
 2013,,Viticulture,
 2013,,Pomology (Fruit growing),
 2013,,Berry crops,
@@ -85,8 +97,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2013,,Potato,
 2014,,,
 2014,"Cattle, heads",,
+2014,doses of bull semen,,
 2014,"Pigs, heads",,
+2014,doses of bull semen,,
 2014,"Sheep, heads",,
+2014,doses of bull semen,,
 2014,"Goats, heads",,
 2014,"Horses, heads",,
 2014,"Rabbits, heads",,
@@ -94,11 +109,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2014,"Fish, heads",,
 2014,"Bees, families",,
 2014,,Total,
-2014,,Corn,
-2014,,Sorghum crops,
-2014,,Aromatic and medicinal plants,
-2014,,Cereal crops,
-2014,,Leguminous crops for grains,
+2014,,Corn,1133.0
+2014,,Sorghum crops,67.0
+2014,,Aromatic and medicinal plants,12.0
+2014,,Cereal crops,19271.0
+2014,,Leguminous crops for grains,5751.0
 2014,,Viticulture,
 2014,,Pomology (Fruit growing),
 2014,,Berry crops,
@@ -106,8 +121,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2014,,Potato,
 2015,,,
 2015,"Cattle, heads",,
+2015,doses of bull semen,,
 2015,"Pigs, heads",,
+2015,doses of bull semen,,
 2015,"Sheep, heads",,
+2015,doses of bull semen,,
 2015,"Goats, heads",,
 2015,"Horses, heads",,
 2015,"Rabbits, heads",,
@@ -115,11 +133,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2015,"Fish, heads",,
 2015,"Bees, families",,
 2015,,Total,
-2015,,Corn,
-2015,,Sorghum crops,
-2015,,Aromatic and medicinal plants,
-2015,,Cereal crops,
-2015,,Leguminous crops for grains,
+2015,,Corn,1131.0
+2015,,Sorghum crops,84.0
+2015,,Aromatic and medicinal plants,12.0
+2015,,Cereal crops,16591.0
+2015,,Leguminous crops for grains,4568.0
 2015,,Viticulture,
 2015,,Pomology (Fruit growing),
 2015,,Berry crops,
@@ -127,8 +145,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2015,,Potato,
 2016,,,
 2016,"Cattle, heads",,3522.0
+2016,doses of bull semen,,
 2016,"Pigs, heads",,2671.0
+2016,doses of bull semen,,
 2016,"Sheep, heads",,14132.0
+2016,doses of bull semen,,
 2016,"Goats, heads",,180.0
 2016,"Horses, heads",,162.0
 2016,"Rabbits, heads",,486.0
@@ -136,11 +157,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2016,"Fish, heads",,2316.0
 2016,"Bees, families",,240.0
 2016,,Total,6415.0
-2016,,Corn,
-2016,,Sorghum crops,
-2016,,Aromatic and medicinal plants,
-2016,,Cereal crops,
-2016,,Leguminous crops for grains,
+2016,,Corn,1139.0
+2016,,Sorghum crops,84.0
+2016,,Aromatic and medicinal plants,10.0
+2016,,Cereal crops,16611.0
+2016,,Leguminous crops for grains,3966.0
 2016,,Viticulture,
 2016,,Pomology (Fruit growing),
 2016,,Berry crops,
@@ -148,8 +169,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2016,,Potato,
 2017,,,
 2017,"Cattle, heads",,3558.0
+2017,doses of bull semen,,
 2017,"Pigs, heads",,6138.0
+2017,doses of bull semen,,
 2017,"Sheep, heads",,10231.0
+2017,doses of bull semen,,
 2017,"Goats, heads",,269.0
 2017,"Horses, heads",,170.0
 2017,"Rabbits, heads",,74.0
@@ -169,8 +193,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2017,,Potato,
 2018,,,
 2018,"Cattle, heads",,2948.0
+2018,doses of bull semen,,
 2018,"Pigs, heads",,4497.0
+2018,doses of bull semen,,
 2018,"Sheep, heads",,7519.0
+2018,doses of bull semen,,
 2018,"Goats, heads",,216.0
 2018,"Horses, heads",,60.0
 2018,"Rabbits, heads",,77.0
@@ -190,8 +217,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2018,,Potato,
 2019,,,
 2019,"Cattle, heads",,2781.0
+2019,doses of bull semen,,
 2019,"Pigs, heads",,5377.0
+2019,doses of bull semen,,
 2019,"Sheep, heads",,6427.0
+2019,doses of bull semen,,
 2019,"Goats, heads",,118.0
 2019,"Horses, heads",,56.0
 2019,"Rabbits, heads",,
@@ -211,8 +241,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2019,,Potato,
 2020,,,
 2020,"Cattle, heads",,4358.0
+2020,doses of bull semen,,
 2020,"Pigs, heads",,5055.0
+2020,doses of bull semen,,
 2020,"Sheep, heads",,4592.0
+2020,doses of bull semen,,
 2020,"Goats, heads",,84.0
 2020,"Horses, heads",,
 2020,"Rabbits, heads",,
@@ -232,8 +265,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2020,,Potato,
 2021,,,
 2021,"Cattle, heads",,4997.0
+2021,doses of bull semen,,
 2021,"Pigs, heads",,4265.0
+2021,doses of bull semen,,
 2021,"Sheep, heads",,4111.0
+2021,doses of bull semen,,
 2021,"Goats, heads",,77.0
 2021,"Horses, heads",,49.0
 2021,"Rabbits, heads",,
@@ -253,8 +289,11 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2021,,Potato,
 2022,,,
 2022,"Cattle, heads",,5108.0
+2022,doses of bull semen,,
 2022,"Pigs, heads",,3904.0
+2022,doses of bull semen,,
 2022,"Sheep, heads",,3194.0
+2022,doses of bull semen,,
 2022,"Goats, heads",,55.0
 2022,"Horses, heads",,49.0
 2022,"Rabbits, heads",,
@@ -273,15 +312,18 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2022,,Vegetable growing (Vegetable crops),
 2022,,Potato,
 2023,,,
-2023,"Cattle, heads",,
-2023,"Pigs, heads",,
-2023,"Sheep, heads",,
-2023,"Goats, heads",,
-2023,"Horses, heads",,
-2023,"Rabbits, heads",,
-2023,"Birds, heads",,
+2023,"Cattle, heads",,37203.0
+2023,doses of bull semen,,
+2023,"Pigs, heads",,257674.0
+2023,doses of bull semen,,
+2023,"Sheep, heads",,74465.0
+2023,doses of bull semen,,
+2023,"Goats, heads",,24214.0
+2023,"Horses, heads",,201.0
+2023,"Rabbits, heads",,9700.0
+2023,"Birds, heads",,3446900.0
 2023,"Fish, heads",,
-2023,"Bees, families",,
+2023,"Bees, families",,3000.0
 2023,,Total,
 2023,,Corn,1071.0
 2023,,Sorghum crops,73.0
@@ -294,15 +336,18 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2023,,Vegetable growing (Vegetable crops),
 2023,,Potato,
 2024,,,
-2024,"Cattle, heads",,
-2024,"Pigs, heads",,
-2024,"Sheep, heads",,
-2024,"Goats, heads",,
-2024,"Horses, heads",,
-2024,"Rabbits, heads",,
-2024,"Birds, heads",,
+2024,"Cattle, heads",,38976.0
+2024,doses of bull semen,,2628420.0
+2024,"Pigs, heads",,289090.0
+2024,doses of bull semen,,3125.0
+2024,"Sheep, heads",,80396.0
+2024,doses of bull semen,,1100.0
+2024,"Goats, heads",,26419.0
+2024,"Horses, heads",,185.0
+2024,"Rabbits, heads",,2300.0
+2024,"Birds, heads",,3972100.0
 2024,"Fish, heads",,
-2024,"Bees, families",,
+2024,"Bees, families",,3200.0
 2024,,Total,
 2024,,Corn,1073.0
 2024,,Sorghum crops,70.0
@@ -314,3 +359,27 @@ Year,Animal genetic resources,Plant genetic resources (samples),Value
 2024,,Berry crops,49.0
 2024,,Vegetable growing (Vegetable crops),421.0
 2024,,Potato,15.0
+2025,,,
+2025,"Cattle, heads",,30100.0
+2025,doses of bull semen,,2602810.0
+2025,"Pigs, heads",,264600.0
+2025,doses of bull semen,,4486.0
+2025,"Sheep, heads",,30900.0
+2025,doses of bull semen,,800.0
+2025,"Goats, heads",,8800.0
+2025,"Horses, heads",,340.0
+2025,"Rabbits, heads",,22400.0
+2025,"Birds, heads",,4462300.0
+2025,"Fish, heads",,
+2025,"Bees, families",,5100.0
+2025,,Total,
+2025,,Corn,
+2025,,Sorghum crops,
+2025,,Aromatic and medicinal plants,
+2025,,Cereal crops,
+2025,,Leguminous crops for grains,
+2025,,Viticulture,
+2025,,Pomology (Fruit growing),
+2025,,Berry crops,
+2025,,Vegetable growing (Vegetable crops),
+2025,,Potato,

@@ -912,6 +912,7 @@
               "enum": [
                 "3G",
                 "4G",
+                "5G",
                 ""
               ]
             }
@@ -1462,7 +1463,7 @@
             "constraints": {
               "enum": [
                 "Prut river",
-                "Nistru river",
+                "Dniester river",
                 ""
               ]
             }
@@ -1553,7 +1554,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
+          },
+          {
+            "name": " ",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1728,13 +1738,31 @@
             "type": "integer"
           },
           {
-            "name": "Indicators",
+            "name": "Mobile Internet per 100 inhabitants",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobile Internet per 100 inhabitants",
-                "Fixed Internet per 100 inhabitants",
-                "Fixed Internet per 100 households",
+                "114.6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fixed Internet per 100 inhabitants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fixed Internet per 100 households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "83.6",
                 ""
               ]
             }
@@ -2035,6 +2063,28 @@
       "title": "national_indicators.1-a-2-b-title"
     },
     {
+      "path": "11-a-1-1/data.csv",
+      "name": "11-a-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.11-a-1-title"
+    },
+    {
       "path": "3-b-2/data.csv",
       "name": "3-b-2",
       "profile": "tabular-data-resource",
@@ -2262,7 +2312,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Sex",
@@ -2284,18 +2334,21 @@
                 "Armenia",
                 "Azerbaijan",
                 "Belarus",
-                "Comoro Islands",
+                "Comoros",
                 "Egypt",
                 "Eritrea",
+                "India",
                 "Iraq",
-                "Iran",
+                "Islamic Rep. of Iran",
                 "Jordan",
                 "Kyrgyzstan",
-                "Leban",
+                "Lebanon",
+                "Libyan",
                 "Nigeria",
-                "Russia",
+                "Russian Federation",
                 "Sudan",
-                "Syria",
+                "Syrian Arab Republic",
+                "Occupied Palestinian Territory",
                 "Tajikistan",
                 "Turkmenistan",
                 "Togo",
@@ -3893,6 +3946,28 @@
             }
           },
           {
+            "name": "Disease Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circulatory system diseases",
+                "including hypertensive disease",
+                "Endocrine, nutritional and metabolic diseases",
+                "including diabetes mellitus",
+                "Respiratory system diseases",
+                "Musculoskeletal system and connective tissue diseases",
+                "Influencing factors of the health status and reasons for seeking health services",
+                "including prophylaxis of rickets and anemia in children",
+                "Digestive system diseases ",
+                "Diseases of the eye and its adnexa",
+                "Genitourinary system diseases",
+                "Mental and behavioral disorders",
+                "Nervous system diseases",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -4390,7 +4465,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Sex",
@@ -4448,6 +4523,18 @@
                 "Surrogate",
                 "Engaging in criminal activities",
                 "Sampling of human organs, tissues or cells",
+                "Urban ",
+                "Rural ",
+                "Locuitor al altui stat",
+                "Persoană fără loc de trai permanent",
+                "Superioare",
+                "Superioare incomplete",
+                "Medii speciale",
+                "Medii ",
+                "Medii incomplete",
+                "Primare",
+                "Alte",
+                "Analfabet",
                 ""
               ]
             }
@@ -4776,11 +4863,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Under 2 Mbps",
-                "2-10 mbps",
-                "10-30 mbps",
-                "30-100 mbps",
-                "Over 100 Mbps",
+                "≤30 Mbps",
+                "between 30 Mbps and 100 Mbps",
+                "between 100 Mbps and 500 Mbps",
+                "between 500 Mbps and 1 Gbps",
+                "between 1 Gbps and 5 Gbps",
+                "above 5 Gbps ",
                 ""
               ]
             }
@@ -8095,7 +8183,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Children's rights",
+                "67.0",
                 ""
               ]
             }
@@ -8463,54 +8551,6 @@
             "type": "integer"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-17",
-                "18-29",
-                "30-39",
-                "40-49",
-                "50-59",
-                "60+",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Existence of disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "People with disability",
-                "People without disability",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -8565,6 +8605,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Sex",
@@ -11040,6 +11090,7 @@
             "constraints": {
               "enum": [
                 "Cattle, heads",
+                "doses of bull semen",
                 "Pigs, heads",
                 "Sheep, heads",
                 "Goats, heads",
@@ -11092,7 +11143,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -11614,7 +11675,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Low",
+                "Medium",
+                "High",
                 ""
               ]
             }
@@ -12055,12 +12118,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bioenergy",
-                "Geothermal",
-                "Hydropower",
-                "Multiple",
-                "Solar",
-                "Wind",
+                "0.83",
+                "0.0",
+                "125.3",
+                "43.77",
                 ""
               ]
             }
@@ -12072,6 +12133,28 @@
         ]
       },
       "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+    },
+    {
+      "path": "1-a-3-1/data.csv",
+      "name": "1-a-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.1-a-3-1-title"
     },
     {
       "path": "5-b-1/data.csv",
@@ -12400,13 +12483,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of own funds of level I in relation to total assets",
-                "Ratio of own funds of level I in relation to risk-weighted assets",
-                "Non-performing loans rate (without reserves) in relation to the total regulated capital",
+                "Ratio of Tier 1 own funds to total assets",
+                "Ratio of Tier 1 own funds to risk-weighted assets",
+                "Ratio of net non-performing loans less of provisions to own funds",
                 "Share of non-performing loans in total loans granted",
                 "Return on assets",
-                "Rate of liquid assets in relation to short-term liabilities",
-                "Rate of net open foreign exchange position at total regulated capital",
+                "The ratio of liquid assets to short-term liabilities",
+                "Ratio of net open foreign exchange position to own funds",
                 ""
               ]
             }
@@ -12531,12 +12614,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55+",
-                "60+",
+                "15-24 (15-20)",
+                "25-34 (21-29)",
+                "35-44 (30-39)",
+                "45-54 (40-49)",
+                "55+  (50-59)",
+                "(60+)",
                 ""
               ]
             }
@@ -15144,6 +15227,28 @@
         ]
       },
       "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
     }
   ]
 }

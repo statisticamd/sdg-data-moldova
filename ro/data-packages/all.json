@@ -989,6 +989,7 @@
               "enum": [
                 "3G",
                 "4G",
+                "5G",
                 ""
               ]
             },
@@ -1585,7 +1586,7 @@
             "constraints": {
               "enum": [
                 "Râul Prut",
-                "Râul Nistru",
+                "Dniester river",
                 ""
               ]
             },
@@ -1684,8 +1685,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
+          },
+          {
+            "name": " ",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": " "
           },
           {
             "name": "Value",
@@ -1866,7 +1877,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1875,17 +1886,37 @@
             "title": "Anul"
           },
           {
-            "name": "Indicators",
+            "name": "Mobile Internet per 100 inhabitants",
             "type": "string",
             "constraints": {
               "enum": [
-                "Internet mobil la 100 de locuitori",
-                "Internet fix la 100 de locuitori",
-                "Internet fix la 100 gospodării",
+                "114.6",
                 ""
               ]
             },
-            "title": "Indicatori"
+            "title": "Internet mobil la 100 de locuitori"
+          },
+          {
+            "name": "Fixed Internet per 100 inhabitants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40.4",
+                ""
+              ]
+            },
+            "title": "Internet fix la 100 de locuitori"
+          },
+          {
+            "name": "Fixed Internet per 100 households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "83.6",
+                ""
+              ]
+            },
+            "title": "Internet fix la 100 gospodării"
           },
           {
             "name": "Value",
@@ -2206,6 +2237,30 @@
       "title": "Ponderea cheltuielilor pentru ocrotirea sănătății în totalul cheltuielilor bugetului public național"
     },
     {
+      "path": "11-a-1-1/data.csv",
+      "name": "11-a-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Numărul de țări care au politici urbane naționale sau planuri de dezvoltare regională care (a) răspund la dinamica populației; (b) asigură o dezvoltare teritorială echilibrată; și (c) asigură creșterea spațiului fiscal local"
+    },
+    {
       "path": "3-b-2/data.csv",
       "name": "3-b-2",
       "profile": "tabular-data-resource",
@@ -2452,7 +2507,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
           },
           {
@@ -2476,18 +2531,21 @@
                 "Armenia",
                 "Azerbaijan",
                 "Belarus",
-                "Comoro Islands",
+                "Comoros",
                 "Egypt",
                 "Eritrea",
+                "India",
                 "Iraq",
-                "Iran",
+                "Islamic Rep. of Iran",
                 "Jordan",
                 "Kyrgyzstan",
-                "Leban",
+                "Lebanon",
+                "Libyan",
                 "Nigeria",
-                "Russia",
+                "Federația Rusă",
                 "Sudan",
-                "Syria",
+                "Syrian Arab Republic",
+                "Occupied Palestinian Territory",
                 "Tajikistan",
                 "Turkmenistan",
                 "Togo",
@@ -4215,6 +4273,29 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Disease Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circulatory system diseases",
+                "including hypertensive disease",
+                "Endocrine, nutritional and metabolic diseases",
+                "including diabetes mellitus",
+                "Respiratory system diseases",
+                "Musculoskeletal system and connective tissue diseases",
+                "Influencing factors of the health status and reasons for seeking health services",
+                "including prophylaxis of rickets and anemia in children",
+                "Digestive system diseases ",
+                "Diseases of the eye and its adnexa",
+                "Genitourinary system diseases",
+                "Mental and behavioral disorders",
+                "Nervous system diseases",
+                ""
+              ]
+            },
+            "title": "Disease Group"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4752,7 +4833,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
           },
           {
@@ -4814,6 +4895,18 @@
                 "Mamă-surogat",
                 "Antrenarea în activități criminale",
                 "Prelevare de organe, țesuturi sau celule umane",
+                "Urban ",
+                "Rural ",
+                "Locuitor al altui stat",
+                "Persoană fără loc de trai permanent",
+                "Superioare",
+                "Superioare incomplete",
+                "Medii speciale",
+                "Medii ",
+                "Medii incomplete",
+                "Primare",
+                "Alte",
+                "Analfabet",
                 ""
               ]
             },
@@ -5169,11 +5262,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sub 2 mbps",
-                "2-10 mbps",
-                "10-30 mbps",
-                "30-100 mbps",
-                "Peste 100 Mbps",
+                "≤30 Mbps",
+                "between 30 Mbps and 100 Mbps",
+                "between 100 Mbps and 500 Mbps",
+                "between 500 Mbps and 1 Gbps",
+                "between 1 Gbps and 5 Gbps",
+                "above 5 Gbps ",
                 ""
               ]
             },
@@ -8773,7 +8867,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Drepturile copilului",
+                "67.0",
                 ""
               ]
             },
@@ -9173,58 +9267,6 @@
             "title": "Anul"
           },
           {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediu de reședință"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bărbați",
-                "Femei",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-17",
-                "18-29",
-                "30-39",
-                "40-49",
-                "50-59",
-                "60+",
-                ""
-              ]
-            },
-            "title": "Grupa de vârstă"
-          },
-          {
-            "name": "Existence of disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Persoane cu dizabilitate",
-                "Persoane fără dizabilitate",
-                ""
-              ]
-            },
-            "title": "Existența dizabilității"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9284,6 +9326,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Anul"
+          },
+          {
+            "name": "Total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Total"
           },
           {
             "name": "Sex",
@@ -11966,6 +12019,7 @@
             "constraints": {
               "enum": [
                 "Bovine, capete",
+                "doses of bull semen",
                 "Porcine, capete",
                 "Ovine, capete",
                 "Caprine, capete",
@@ -12021,8 +12075,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Femei",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -12589,7 +12654,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xx",
+                "Scăzut",
+                "Mediu",
+                "Înalt",
                 ""
               ]
             },
@@ -13067,12 +13134,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bioenergie",
-                "Geotermală",
-                "Hidroelectrică",
-                "Multiplă",
-                "Solară",
-                "Eoliană",
+                "0.83",
+                "0.0",
+                "125.3",
+                "43.77",
                 ""
               ]
             },
@@ -13086,6 +13151,30 @@
         ]
       },
       "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+    },
+    {
+      "path": "1-a-3-1/data.csv",
+      "name": "1-a-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea cheltuielilor publice pentru protecție socială în PIB"
     },
     {
       "path": "5-b-1/data.csv",
@@ -13441,13 +13530,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rata fondurilor proprii de nivel I în raport cu total active",
-                "Rata fondurilor proprii de nivel I în raport cu activele ponderate la risc",
-                "Rata creditelor neperformante (fără rezerve) in raport cu capitalul total reglementat",
+                "Ratio of Tier 1 own funds to total assets",
+                "Ratio of Tier 1 own funds to risk-weighted assets",
+                "Ratio of net non-performing loans less of provisions to own funds",
                 "Ponderea creditelor neperformante în totalul creditelor acordate",
                 "Rentabilitatea activelor",
-                "Rata activelor lichide în raport cu pasivele pe termen scurt",
-                "Rata poziției valutare deschise nete la capitalul total reglementat",
+                "The ratio of liquid assets to short-term liabilities",
+                "Ratio of net open foreign exchange position to own funds",
                 ""
               ]
             },
@@ -13583,12 +13672,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55+",
-                "60+",
+                "15-24 (15-20)",
+                "25-34 (21-29)",
+                "35-44 (30-39)",
+                "45-54 (40-49)",
+                "55+  (50-59)",
+                "(60+)",
                 ""
               ]
             },
@@ -16434,6 +16523,30 @@
         ]
       },
       "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
     }
   ]
 }
