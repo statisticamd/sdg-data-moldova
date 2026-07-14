@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 8.3.1: Ponderea ocupării informale în  sectorul non-agricol</p>
+  <p>Indicator 8.3.1: Ponderea ocupării informale în total ocupare</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -62,7 +62,7 @@ REC_USE_LIM: ''
 DATA_COMP: >-
   <p> 1. Numărul persoanelor ocupate informal raportat la total persoane ocupate.</p> 
   <p>2. Numărul persoanelor ocupate informal în sectorul agricol raportat la total persoane ocupate în sectorul agricol.</p> 
-  <p>3. Numărul persoanelor ocupate informal în sectorul non-agricol raportat la total persoane ocupate în sectorul non-agricol. </p>
+  <p>3. Numărul persoanelor ocupate informal în sectorul neagricol raportat la total persoane ocupate în sectorul neagricol. </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,7 +70,11 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Nu deplin. Definiția ocupării pentru indicatorul global este conform standardelor statistice de la a 13-a Conferință Internațională a Statisticienilor Muncii (CISM-13, 1982), în timp ce definiția națională a ocupării forței de muncă se bazează pe ultimul standard internațional - Rezoluția CISM-19, 2013. (Începând cu 2019, persoanele care produc bunuri exclusiv pentru consumul propriu nu fac parte din populația ocupată).
+  <p> Total corespunde cu Seria „SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]”:</p> 
+  <p>Definiția națională a ocupării forței de muncă se bazează pe ultimul standard internațional - Rezoluția CISM-19, 2013. Începând cu 2019, persoanele care produc bunuri exclusiv pentru consumul propriu nu fac parte din populația ocupată.</p> 
+  <p></p> 
+  <p>Datele nu sunt pe deplin comparabile cu seria de date „SL_ISV_IFEM - Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]”: </p> 
+  <p>Definiția ocupării pentru acest indicator global este conform standardelor statistice de la CISM-13, 1982. Conform acestui stadardului vechi, persoanele care produc bunuri exclusiv pentru consumul propriu, continuă să fie parte a populației ocupate. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

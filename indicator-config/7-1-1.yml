@@ -1,7 +1,8 @@
 composite_breakdown_label: ''
 computation_units: Percent, %
 copyright: ''
-data_footnote: Starting with 2019, the data are not comparable to the previous period, as the HBS methodology was modified
+data_footnote: <p> 1. Starting with 2019, the data are not fully comparable to the previous period, as the HBS methodology was modified</p> 
+  <p>2. Starting with 2025, the data are not fully comparable to the previous period, as the HBS methodology was modified </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +24,8 @@ graph_target_lines: []
 graph_title: national_indicators.7-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.7-1-1-title
+indicator_available: national_indicators.7-1-1-title
+indicator_name: global_indicators.7-1-1-title
 indicator_number: 7.1.1
 indicator_tabs:: 
   override: false
@@ -43,5 +45,6 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-tags: []
+tags:
+  - Global
 x_axis_label: ''

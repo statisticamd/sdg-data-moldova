@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 8.3.1: Proportion of informal employment in non-agriculture sector</p>
+  <p>Indicator 8.3.1: Proportion of informal employment in total employment</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -70,7 +70,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Not fully. The definition of employment for the global indicator is according to the statistical standards of the 13th International Conference of Labor Statisticians (13th ICLS, 1982), while the national definition of employment is based on the latest international standard - Resolution 19th ICLS, 2013. (Starting with 2019, persons who produce goods exclusively for their own consumption are not part of the employed population).
+  <p> Fully corresponding with the Series "SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]":</p> 
+  <p>The national definition of employment is based on the latest international standard - the 19th ICLS Resolution (2013). Starting from 2019, persons who produce goods exclusively for their own consumption are no longer considered part of the employed population.</p> 
+  <p>Not fully corresponding with the series "SL_ISV_IFEM - Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]":</p> 
+  <p>The definition of employment for this global indicator follows the statistical standards of the 13th ICLS (1982). Under this older standard, persons who produce goods exclusively for their own consumption continue to be considered part of employment. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

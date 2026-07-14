@@ -2,9 +2,14 @@ composite_breakdown_label: ''
 computation_units: Procent, %
 copyright: ''
 data_footnote: <p> Întreruperea seriilor de timp:</p> 
-  <p>Începând cu 2019, datele nu sunt întru totul comparabile cu perioadele anterioare din cauza modificărilor metodologice:</p> 
-  <p>Din 2019 AFM se desfășoară conform unui nou plan de sondaj, conform unei noi definiții a ocupării și datele sunt estimate folosind numărul populației cu reședință obișnuită.</p> 
-  <p>Datele pentru anii 2014-2018 au fost estimate folosind numărul populației cu reședință obișnuită. </p>
+  <p>Revizuiri importante ale Anchetei forței de muncă (AFM) (utilizarea numărului populației cu reședință obișnuită, implementarea unui nou plan de sondaj, modificarea / ajustarea definițiilor etc.) au avut loc in anii 2019 si 2025, fapt care trebuie luat in considerare la analiza longitudinala a datelor: </p> 
+  <p>De aceia:</p> 
+  <p>  -  datele pentru perioada 2019 - 2024 nu sunt comparabile cu seriile publicate pentru perioadele precedente.</p> 
+  <p>  -  datele, incepand cu anul 2025, nu sunt comparabile cu cele publicate pentru  perioada 2019-2024.</p> 
+  <p>Pentru perioada 2019-2024, datele sunt estimate pe baza populaței cu reședință obișnuită calculate în baza RPL din anul 2014. Cercetarea s-a realizat conform planului de sondaj Multifuncțional de tip master pentru cercetările din DOmeniul Social 2 (EMDOS 2), elaborat in baza RPL din 2014.</p> 
+  <p>Începand cu 2025, datele sunt estimate pe baza populației cu reședință obișnuită calculate în baza RPL din anul 2024. Cercetarea se realizeaza conform planului nou de sondaj EMDOS 3, elaborat în baza RPL din 2024.</p> 
+  <p>Datele pentru anii 2014-2018 au fost recalculate în baza definiției noi a ocupării, utilizate în practică începând cu a. 2019. </p> 
+  <p>Detalii: Metodologia AFM: https://statistica.gov.md/files/files/Metadate/alte/Metodologia_AFM_2025.pdf </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +31,8 @@ graph_target_lines: []
 graph_title: national_indicators.8-3-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.8-3-1-title
+indicator_available: national_indicators.8-3-1-title
+indicator_name: global_indicators.8-3-1-title
 indicator_number: 8.3.1
 indicator_tabs:: 
   override: false

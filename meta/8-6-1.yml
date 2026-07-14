@@ -62,7 +62,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  The global indicator is calculated for the age group 15-24 years old. NBS also  calculates for the 15-29 and 15-34 age groups.
+  <p> Total corresponding with Series: „SL_TLF_NEET_19ICLS - Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]”</p> 
+  <p>The global indicator is calculated for the age group 15-24 years old.</p> 
+  <p>NBS also  calculates for the 15-29 and 15-34 age groups. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

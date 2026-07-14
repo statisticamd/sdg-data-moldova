@@ -1,4 +1,4 @@
-Year,Area of residence,Sex of the head of the household,"Age groups of head of household, years",Quintiles on consumption expenditures,Household type,Value
+Year,Area of residence,Sex of the head of the household,"Age group of the reference person, years",Quintiles on consumption expenditures,Household type,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
@@ -269,3 +269,21 @@ Year,Area of residence,Sex of the head of the household,"Age groups of head of h
 2024,,,,V,,20.1
 2024,,,,,With children up to 18 years,7.9
 2024,,,,,Without children up to 18 years,13.4
+2025,,,,,,10.7
+2025,Urban,,,,,13.4
+2025,Rural,,,,,8.4
+2025,,Men,,,,9.5
+2025,,Women,,,,13.1
+2025,,,<30,,,15.5
+2025,,,30-39,,,8.2
+2025,,,40-49,,,6.8
+2025,,,50-59,,,9.7
+2025,,,60-64,,,10.4
+2025,,,65+,,,17.7
+2025,,,,I,,5
+2025,,,,II,,6.5
+2025,,,,III,,10.4
+2025,,,,IV,,13.4
+2025,,,,V,,18.4
+2025,,,,,With children up to 18 years,8.7
+2025,,,,,Without children up to 18 years,12.9

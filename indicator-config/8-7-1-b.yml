@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: persons
+computation_units: thousands persons
 copyright: ''
 data_footnote: For the SDG purposes, when estimating this indicator, only the hours worked and the age of the child are taken into account. Activities/occupations forbidden to children or other hazardous working conditions are not taken into account.
 data_non_statistical: false
@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.8-7-1-b-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.8-7-1-b-title
 indicator_name: national_indicators.8-7-1-b-title
 indicator_number: 8.7.1.b
 indicator_tabs:: 

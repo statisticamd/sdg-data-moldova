@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 8.7.1.a: NA</p>
+  <p>Indicator 8.7.1.a: Ponderea și numărul copiilor cu vârsta cuprinsă între 5 și 17 ani care se află în situația de muncă a copiilor pe sexe și vârste</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 8.7: Măsuri imediate și eficiente pentru eradicarea muncii forțate, eliminarea  sclaviei moderne și a traficului de ființe umane, și asigurarea interzicerii  și eliminării celor mai grave forme ale muncii copiilor, inclusiv recrutarea  și utilizarea copiilor soldați, iar până în 2025, eliminarea muncii copiilor  în toate formele sale.</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -8,13 +8,11 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Indicator 1. În baza granițelor de producție conform SCN</p> 
-  <p>Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei:</p> 
+  <p> Indicator 1. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor de producție conform SCN):</p> 
   <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice;</p> 
   <p>- pentru copiii de 12-14 ani:dacă lucrează cel puțin 14 ore pe săptămână în activități economice;</p> 
   <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice.</p> 
-  <p>Indicator 2. În baza granițelor generale de producție conform SCN</p> 
-  <p>Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice și în muncă casnică pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei:</p> 
+  <p>Indicator 2. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice și în muncă casnică pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor generale de producție conform SCN):</p> 
   <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p> 
   <p>- pentru copiii de 12-14 ani: dacă lucrează cel puțin 14 ore pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p> 
   <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice (pentru copiii de 15-17 ani nu este stabilit un prag limită de  ore pentru munca casnică). </p>
@@ -47,6 +45,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
+  Cercetarea „Activitățile copiilor”, ca modul adițional la Ancheta Forței de Muncă
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -69,6 +68,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  <p> Corespunde total cu seriile:</p> 
+  <p>- SL_TLF_CHLDEA - Proportion of children engaged in economic activity [8.7.1]</p> 
+  <p>- SL_TLF_CHLDEC - Proportion of children engaged in economic activity and household chores [8.7.1] </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -78,11 +80,11 @@ source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică
 source_periodicity_1: >-
-  De o singură periodicitate
+  O dată la 10 sau mai mulți ani
 source_url_1: >-
   https://statistica.gov.md/ro/munca-copiilor-in-republica-moldova-9670_59508.html
 source_url_text_1: >-
-  Munca Copiilor,  ediția 2010
+  Raportul „Activitățile Copiilor”
 source_contact_1: >-
   ALERGUȘ-SOLOVIOV Mariana, șefa Direcția statistica forței de muncă, Biroul Național de Statistică, mariana.alergus@statistica.gov.md , +373 67770786
 source_other_info_1: >-

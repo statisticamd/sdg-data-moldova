@@ -1,4 +1,4 @@
-Year,Area of residence,Statistical regions,Quintiles on consumption expenditures,Sex of the head of the household,Type of sewerage ,Value
+Year,Area of residence,Statistical regions,Quintiles on consumption expenditures,Sex of the reference person,Type of sewerage ,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
@@ -239,3 +239,19 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2024,,,,Women,,85.6
 2024,,,,,Public network,38.9
 2024,,,,,Own system,47
+2025,,,,,,86.8
+2025,Urban,,,,,98.3
+2025,Rural,,,,,76.6
+2025,,Municipality Chisinau,,,,98.4
+2025,,North,,,,73.7
+2025,,Center,,,,85.4
+2025,,South,,,,87.6
+2025,,,I,,,72.9
+2025,,,II,,,84.1
+2025,,,III,,,89.1
+2025,,,IV,,,90.5
+2025,,,V,,,97.3
+2025,,,,Men,,87.5
+2025,,,,Women,,85.4
+2025,,,,,Public network,40.6
+2025,,,,,Own system,46.2

@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: persoane
+computation_units: mii persoane
 copyright: ''
 data_footnote: În scopurile ODD, la estimarea acestui indicator sunt luate în considerare doar orele lucrate și vârsta copilului. Activitățile/ocupațiile proscrise copiilor sau alte condiții de muncă periculoase nu sunt luate în considerare
 data_non_statistical: false
@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.8-7-1-b-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.8-7-1-b-title
 indicator_name: national_indicators.8-7-1-b-title
 indicator_number: 8.7.1.b
 indicator_tabs:: 

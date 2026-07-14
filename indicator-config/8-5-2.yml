@@ -2,9 +2,13 @@ composite_breakdown_label: ''
 computation_units: Percent, %
 copyright: ''
 data_footnote: <p> Breaks in time series:</p> 
-  <p>Starting with 2019 the data are not entirely compatible with previous period due to the methodological changes:</p> 
-  <p>From 2019 LFS is carried out on a new sampling plan. Data are estimated using the number of usually resident  population.</p> 
-  <p>Data for 2014-2018 years were estimated using the number of usually resident population. </p>
+  <p>Important revisions to the Labour Force Survey (LFS) methodology (use of the usually resident population, implementation of a new sampling, modification/adjustment of definitions, etc.) took place in 2019 and 2025, which should be taken into account in the longitudinal analysis of the data.</p> 
+  <p>Therefore:</p> 
+  <p>-	data for the period 2019–2024 are not comparable with the series published for previous periods; </p> 
+  <p>-	data starting from 2025 are not comparable with those published for the period 2019–2024. </p> 
+  <p>For the period 2019–2024, the data are estimated based on the usually resident population calculated on the basis of the 2014 Population and Housing Census (PHC). The survey was conducted according to the Multifunctional Master Sample Plan for Surveys in the Social Domain 2 (EMDOS 2), developed on the basis of the 2014 PHC.</p> 
+  <p>Starting from 2025, the data are estimated based on the usually resident population recalculated on the basis of the 2024 PHC. The survey is conducted according to the new EMDOS 3 sampling plan, developed on the basis of the 2024 PHC.</p> 
+  <p>Details: LFS Methodology: https://statistica.gov.md/files/files/Metadate/alte/Metodologia_AFM_2025.pdf </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +30,8 @@ graph_target_lines: []
 graph_title: national_indicators.8-5-2-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.8-5-2-title
+indicator_available: national_indicators.8-5-2-title
+indicator_name: global_indicators.8-5-2-title
 indicator_number: 8.5.2
 indicator_tabs:: 
   override: false

@@ -1,4 +1,4 @@
-Year,Area of residence,Statistical regions,Quintiles on consumption expenditures,Sex of the head of the household,Value
+Year,Area of residence,Statistical regions,Quintiles on consumption expenditures,Sex of the reference person,Value
 2010,,,,,
 2010,Urban,,,,
 2010,Rural,,,,
@@ -209,3 +209,17 @@ Year,Area of residence,Statistical regions,Quintiles on consumption expenditures
 2024,,,V,,93.1
 2024,,,,Men,69.4
 2024,,,,Women,68.7
+2025,,,,,70.1
+2025,Urban,,,,92.3
+2025,Rural,,,,50.7
+2025,,Municipality Chisinau,,,95.3
+2025,,North,,,54.8
+2025,,Center,,,62.7
+2025,,South,,,60.2
+2025,,,I,,43
+2025,,,II,,62.4
+2025,,,III,,72.4
+2025,,,IV,,80
+2025,,,V,,92.9
+2025,,,,Men,71
+2025,,,,Women,68.6

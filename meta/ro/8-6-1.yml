@@ -62,7 +62,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Indicatorul global se calculează pentru grupa de vârstă 15-24 ani. BNS  calculează și pentru grupele de vârstă 15-29 ani și 15-34 ani.
+  <p> Corespunde total cu Seria „SL_TLF_NEET_19ICLS - Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]”.</p> 
+  <p>Indicatorul global se calculează pentru grupa de vârstă 15-24 ani.</p> 
+  <p>BNS  calculează și pentru grupele de vârstă 15-29 ani și 15-34 ani. </p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -33,9 +33,9 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> Șomeri BIM (Biroul Internațional al Muncii) sunt persoanele de 15 ani și peste, care îndeplinesc simultan  următoarele condiții:</p> 
-  <p> - nu au un loc de muncă şi nu desfăşoară o  activitate în scopul obţinerii unor venituri;</p> 
-  <p> - sunt în căutarea unui loc  de muncă, utilizând în ultimele 4 săptămâni diverse metode pentru a-l găsi  înscrierea la Agenția Națională pentru Ocuparea Forței de Muncă sau la agenţii  private de ocupare, acţiuni pentru a începe o activitate pe cont propriu,  publicarea de anunţuri şi răspunsuri la anunţuri, apel la prieteni, rude,  colegi, sindicate etc.;</p> 
-  <p> - sunt disponibile să înceapă lucrul în  următoarele 15 zile, dacă s-ar găsi imediat un loc de muncă. </p>
+  <p>a) în cursul săptămânii de referință nu erau ocupate conform definiției persoanelor ocupate, și</p> 
+  <p>b) erau disponibile să muncească, adică erau disponibile să ocupe un loc de muncă remunerat sau să desfășoare o activitate independentă în termen de două săptămâni după săptămâna de referință; și</p> 
+  <p>c) căutau activ un loc de muncă, adică fie au făcut demersuri concrete în perioada de patru săptămâni care s-a încheiat cu săptămâna de referință pentru a căuta un loc de muncă remunerat sau pentru a desfășura o activitate independentă, fie au găsit un loc de muncă unde urmează să înceapă activitatea în termen de cel mult trei luni de la sfârșitul săptămânii de referință. </p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -62,7 +62,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Corespunde total
+  Corespunde total cu Seriile: „SL_TLF_UEM_19ICLS - Unemployment rate, by sex and age - 19th ICLS (%) [8.5.2]” și „SL_TLF_UEMDIS_19ICLS - Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]”
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

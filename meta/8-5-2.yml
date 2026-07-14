@@ -33,9 +33,9 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   <p> ILO Unemployed are persons aged 15 years and over, who during the reference  period meet simultaneously the following conditions:</p> 
-  <p> - do not have a job  and do not perform any activity to obtain some income;</p> 
-  <p> - are looking for a  job over the last 4 weeks and use different methods get registered at the  National Employment Agency or at private employment agencies, take measures to  start up an activity on their own, publish and answer to job announcements,  call for help from friends, relatives, colleagues, trade-unions, etc.; </p> 
-  <p> -  are available to start working in the following 15 days, if they could find  immediately a job. </p>
+  <p>a) during the reference week not employed according to the definition of employment, and</p> 
+  <p>b) currently available for work, i.e. were available for paid employment or self-employment before the end of the 2 weeks following the reference week: and</p> 
+  <p>c) actively seeking work, i.e. had either carried out activities in the four-week period ending with the reference week to seek paid employment or self-employment or found a job to start within a period of at most 3 months from the end of the reference week. </p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -62,7 +62,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Total corresponding
+  Total corresponding with Series: „SL_TLF_UEM_19ICLS - Unemployment rate, by sex and age - 19th ICLS (%) [8.5.2]” and „SL_TLF_UEMDIS_19ICLS - Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]”
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
