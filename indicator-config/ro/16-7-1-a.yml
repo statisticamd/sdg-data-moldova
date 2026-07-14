@@ -1,7 +1,8 @@
 composite_breakdown_label: ''
 computation_units: Procent, %
 copyright: ''
-data_footnote: <p> 2025:</p> 
+data_footnote: |
+  <p> 2025:</p> 
   <p>Președintele Parlamentului: 53 de ani, masculin</p> 
   <p>Președinții comisiilor parlamentare permanente:</p> 
   <p>1. Comisia juridică, pentru numiri şi imunităţi –  43 de ani, feminin</p> 
@@ -14,7 +15,7 @@ data_footnote: <p> 2025:</p>
   <p>8. Comisia cultură, educaţie, cercetare, tineret, sport  şi mass-media – 57 de ani, feminin </p> 
   <p>9. Comisia agricultură şi industrie alimentară –  38 de ani, masculin </p> 
   <p>10. Comisia protecţie socială, sănătate şi familie – 50 de ani, masculin </p> 
-  <p>11. Comisia de control al finanțelor publice –  49 de ani, masculin                                                                                                                                                       12. Comisia pentru integrare europeană – 44 de ani, masculin </p>
+  <p>11. Comisia de control al finanțelor publice –  49 de ani, masculin </p>                                                                                                                                                 12. Comisia pentru integrare europeană – 44 de ani, masculin </p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
