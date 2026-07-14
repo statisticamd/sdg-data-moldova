@@ -49,9 +49,10 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Pentru calcularea indicatorului: </p> 
-  <p>1. Ponderea cheltuielilor pentru întreținerea locuinței în veniturile disponibile ale gospodăriilor casnice = Cheltuielile lunare pentru  întreținerea locuinței / Veniturile disponibile lunare ale gospodăriilor casnice * 100; </p> 
-  <p>2. Ponderea populației cu cheltuielile gospodăriilor pentru întreținerea locuinței mai mari de 30% = Numărul populației cu cheltuielile gospodăriilor pentru întreținerea locuinței mai mari de 30% / Numărul total al populației * 100. </p>
+  |
+  <p>Pentru calcularea indicatorului: </p>
+  <p>1. Ponderea cheltuielilor pentru întreținerea locuinței în veniturile disponibile ale gospodăriilor casnice = Cheltuielile lunare pentru  întreținerea locuinței / Veniturile disponibile lunare ale gospodăriilor casnice * 100; </p>
+  <p>2. Ponderea populației cu cheltuielile gospodăriilor pentru întreținerea locuinței mai mari de 30% = Numărul populației cu cheltuielile gospodăriilor pentru întreținerea locuinței mai mari de 30% / Numărul total al populației * 100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -46,8 +46,9 @@ DATA_SOURCE: >-
   International  Telecommunication Union (ITU)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Infrastructure and Regional Development</p> 
-  <p>Ministry of Education and Research </p>
+  |
+  <p>Ministry of Infrastructure and Regional Development</p>
+  <p>Ministry of Education and Research</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

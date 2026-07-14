@@ -33,10 +33,11 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Share of population with income under $2.15 per person, per day, PPP (Purchasing Power Parity). </p> 
-  <p> Purchasing Power Parity (PPP) is a method used to calculate an alternative exchange rate between the currencies of two countries. PPP measures the purchasing power of one currency in an international unit of measurement (usually, dollars), because goods and   services have different prices in some countries as compared to other countries.</p> 
-  <p> The poverty line of $2.15 has been regulated in the RM Government Decision No.288 (http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=300778) dated 15.03.2005 approving the Millennium Development Goals in the Republic of Moldova for 2015 and The First National Report "Millennium Development Goals in the Republic of Moldova" (http://md.one.un.org/content/dam/unct/moldova/docs/pub/mdg/first%20mdg%20rom.pdf)</p> 
-  <p>  Annually NBS provides the World Bank the HBS database for additional calculations at the global level (global poverty). </p>
+  |
+  <p>Share of population with income under $2.15 per person, per day, PPP (Purchasing Power Parity). </p>
+  <p> Purchasing Power Parity (PPP) is a method used to calculate an alternative exchange rate between the currencies of two countries. PPP measures the purchasing power of one currency in an international unit of measurement (usually, dollars), because goods and   services have different prices in some countries as compared to other countries.</p>
+  <p> The poverty line of $2.15 has been regulated in the RM Government Decision No.288 (http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=300778) dated 15.03.2005 approving the Millennium Development Goals in the Republic of Moldova for 2015 and The First National Report "Millennium Development Goals in the Republic of Moldova" (http://md.one.un.org/content/dam/unct/moldova/docs/pub/mdg/first%20mdg%20rom.pdf)</p>
+  <p>  Annually NBS provides the World Bank the HBS database for additional calculations at the global level (global poverty).</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -50,12 +51,13 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labor and Social Protection</p> 
-  <p>Ministry of Economic Development and Digitalization</p> 
-  <p>Ministry of Agriculture and Food Industry</p> 
-  <p>Ministry of Infrastructure and Regional Development </p> 
-  <p>Ministry of Education and Research</p> 
-  <p>Ministry of Health </p>
+  |
+  <p>Ministry of Labor and Social Protection</p>
+  <p>Ministry of Economic Development and Digitalization</p>
+  <p>Ministry of Agriculture and Food Industry</p>
+  <p>Ministry of Infrastructure and Regional Development </p>
+  <p>Ministry of Education and Research</p>
+  <p>Ministry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

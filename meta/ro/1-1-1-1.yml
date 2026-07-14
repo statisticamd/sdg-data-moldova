@@ -33,11 +33,12 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Ponderea populației cu cheltuieli sub 4,3$ pe persoana zi la PPC (Paritatea Puterii de Cumpărare). </p> 
-  <p> Paritatea Puterii de Cumpărare (PPC) este o metodă folosită pentru a calcula o rată de schimb alternativă între monedele a două țări. PPC-ul măsoară puterea de cumpărare a unei monede, într-o unitate de măsură internațională (de regulă, dolari), deoarece bunurile și serviciile au prețuri diferite în unele țări comparativ cu altele.</p> 
-  <p> Pragul sărăciei de 4,3$ a fost reglementat în Hotărârea Guvernului RM Nr.288 (http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=300778) din 15.03.2005 cu privire la aprobarea Obiectivelor de Dezvoltare ale Mileniului în Republica Moldova până în 2015 și a Primului  Raport Național "Obiectivele de Dezvoltare ale Mileniului în Republica Moldova"</p> 
-  <p>(http://md.one.un.org/content/dam/unct/moldova/docs/pub/mdg/first%20mdg%20rom.pdf)</p> 
-  <p>  Anual BNS pune la dispoziția Băncii Mondiale baza de date a CBGC pentru calcule adiționale la nivel global (global poverty). </p>
+  |
+  <p>Ponderea populației cu cheltuieli sub 4,3$ pe persoana zi la PPC (Paritatea Puterii de Cumpărare). </p>
+  <p> Paritatea Puterii de Cumpărare (PPC) este o metodă folosită pentru a calcula o rată de schimb alternativă între monedele a două țări. PPC-ul măsoară puterea de cumpărare a unei monede, într-o unitate de măsură internațională (de regulă, dolari), deoarece bunurile și serviciile au prețuri diferite în unele țări comparativ cu altele.</p>
+  <p> Pragul sărăciei de 4,3$ a fost reglementat în Hotărârea Guvernului RM Nr.288 (http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=300778) din 15.03.2005 cu privire la aprobarea Obiectivelor de Dezvoltare ale Mileniului în Republica Moldova până în 2015 și a Primului  Raport Național "Obiectivele de Dezvoltare ale Mileniului în Republica Moldova"</p>
+  <p>(http://md.one.un.org/content/dam/unct/moldova/docs/pub/mdg/first%20mdg%20rom.pdf)</p>
+  <p>  Anual BNS pune la dispoziția Băncii Mondiale baza de date a CBGC pentru calcule adiționale la nivel global (global poverty).</p>
 UNIT_MEASURE: >-
   Procente, %
 CLASS_SYSTEM: ''
@@ -51,12 +52,13 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Muncii și Protecției Sociale </p> 
-  <p>Ministerul Dezvoltării Economice și Digitalizării</p> 
-  <p>Ministerul Agriculturii și Industriei Alimentare</p> 
-  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p> 
-  <p>Ministerul Educației și Cercetării</p> 
-  <p>Ministerul Sănătății </p>
+  |
+  <p>Ministerul Muncii și Protecției Sociale </p>
+  <p>Ministerul Dezvoltării Economice și Digitalizării</p>
+  <p>Ministerul Agriculturii și Industriei Alimentare</p>
+  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p>
+  <p>Ministerul Educației și Cercetării</p>
+  <p>Ministerul Sănătății</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

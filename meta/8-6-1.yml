@@ -47,10 +47,11 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Labour and Social Protection
 OTHER_METHOD: >-
-  <p> According to the International Standard Classification of Education (ISCED), education is defined as organized and sustained communication designed to bring about learning.</p> 
-  <p>Formal education is defined in ISCED as education that is institutionalized, intentional, and planned through public organizations and recognized private bodies and, in their totality, make up the formal education system of a country.</p> 
-  <p>Non-formal education, like formal education is defined in ISCED as education that is institutionalized, intentional and planned by an education provider but is considered an addition, alternative and/or a complement to formal education.</p> 
-  <p>For the purpose of this indicator, persons are considered to be in training if they are in a non-academic learning activity through which they acquire specific skills intended for vocational or technical jobs. </p>
+  |
+  <p>According to the International Standard Classification of Education (ISCED), education is defined as organized and sustained communication designed to bring about learning.</p>
+  <p>Formal education is defined in ISCED as education that is institutionalized, intentional, and planned through public organizations and recognized private bodies and, in their totality, make up the formal education system of a country.</p>
+  <p>Non-formal education, like formal education is defined in ISCED as education that is institutionalized, intentional and planned by an education provider but is considered an addition, alternative and/or a complement to formal education.</p>
+  <p>For the purpose of this indicator, persons are considered to be in training if they are in a non-academic learning activity through which they acquire specific skills intended for vocational or technical jobs.</p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -62,9 +63,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Total corresponding with Series: „SL_TLF_NEET_19ICLS - Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]”</p> 
-  <p>The global indicator is calculated for the age group 15-24 years old.</p> 
-  <p>NBS also  calculates for the 15-29 and 15-34 age groups. </p>
+  |
+  <p>Total corresponding with Series: „SL_TLF_NEET_19ICLS - Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]”</p>
+  <p>The global indicator is calculated for the age group 15-24 years old.</p>
+  <p>NBS also  calculates for the 15-29 and 15-34 age groups.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

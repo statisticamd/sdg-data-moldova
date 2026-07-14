@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 9.2: Promote inclusive and sustainable industrialization and, by 2030,  significantly raise industry’s share of employment and gross domestic product,  in line with national circumstances, and double its share in least developed  countries.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> United Nations Industrial Development Organization (UNIDO)</p> 
-  <p>(with the collaboration of the International Labour Organization – ILO) </p>
+  |
+  <p>United Nations Industrial Development Organization (UNIDO)</p>
+  <p>(with the collaboration of the International Labour Organization – ILO)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,8 +34,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Manufacturing = section C "Manufacturing industry" from CAEM Rev 2.</p> 
-  <p>CAEM-2 - Classification of Economic Activities in Moldova, revision 2 </p>
+  |
+  <p>Manufacturing = section C "Manufacturing industry" from CAEM Rev 2.</p>
+  <p>CAEM-2 - Classification of Economic Activities in Moldova, revision 2</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''

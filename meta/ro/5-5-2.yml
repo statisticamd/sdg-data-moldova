@@ -8,10 +8,11 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Acest indicator se referă la proporția femeilor în numărul total de persoane angajate în funcții de conducere.</p> 
-  <p>Se recomandă utilizarea în comun a două măsuri diferite pentru acest indicator:</p> 
-  <p>- ponderea femeilor în management (total) și</p> 
-  <p>- ponderea femeilor în managementul superior și mediu (excluzând astfel managementul de nivel inferior). </p>
+  |
+  <p>Acest indicator se referă la proporția femeilor în numărul total de persoane angajate în funcții de conducere.</p>
+  <p>Se recomandă utilizarea în comun a două măsuri diferite pentru acest indicator:</p>
+  <p>- ponderea femeilor în management (total) și</p>
+  <p>- ponderea femeilor în managementul superior și mediu (excluzând astfel managementul de nivel inferior).</p>
 SDG_GOAL: ''
 target_id: >-
   5.5
@@ -35,8 +36,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Se vor considera posturi de conducere = grupa majora 1 din Clasificatorul  Ocupațiilor </p> 
-  <p>Pentru management de nivel superior si mediu se vor  considera sub-grupele 11, 12, 13 (sau grupa majora 1 fără 14). Indicatorul  reflectă asupra capacităților femeilor de a accedere în pozițiile decizionale,  precum și asupra nivelului de abilitare a acestora pentru participare la  procesul decizional. </p>
+  |
+  <p>Se vor considera posturi de conducere = grupa majora 1 din Clasificatorul  Ocupațiilor </p>
+  <p>Pentru management de nivel superior si mediu se vor  considera sub-grupele 11, 12, 13 (sau grupa majora 1 fără 14). Indicatorul  reflectă asupra capacităților femeilor de a accedere în pozițiile decizionale,  precum și asupra nivelului de abilitare a acestora pentru participare la  procesul decizional.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -56,8 +58,9 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Numărul femeilor în posturi de conducere raportat la total posturi de conducere *100.</p> 
-  <p>Numărul femeilor în posturi de conducere de nivel superior și mediu raportat la total posturi de conducere de nivel superior și mediu *100. </p>
+  |
+  <p>Numărul femeilor în posturi de conducere raportat la total posturi de conducere *100.</p>
+  <p>Numărul femeilor în posturi de conducere de nivel superior și mediu raportat la total posturi de conducere de nivel superior și mediu *100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -65,8 +68,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Corespunde total cu Seriile „IC_GEN_MGTL_19ICLS - Proportion of women in managerial positions - 19th ICLS (%) [5.5.2]” și „IC_GEN_MGTN_19ICLS - Proportion of women in senior and middle management positions - 19th ICLS</p> 
-  <p>(%) [5.5.2]” </p>
+  |
+  <p>Corespunde total cu Seriile „IC_GEN_MGTL_19ICLS - Proportion of women in managerial positions - 19th ICLS (%) [5.5.2]” și „IC_GEN_MGTN_19ICLS - Proportion of women in senior and middle management positions - 19th ICLS</p>
+  <p>(%) [5.5.2]”</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -60,8 +60,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Pentru indicatorul global perioada de referință este „ultimele 12 luni”.</p> 
-  <p>Pentru indicatorul național - ultimele 4 săptămâni. </p>
+  |
+  <p>Pentru indicatorul global perioada de referință este „ultimele 12 luni”.</p>
+  <p>Pentru indicatorul național - ultimele 4 săptămâni.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -32,15 +32,16 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> (Definiție națională) Ocuparea informală include:</p> 
-  <p>1) Lucrătorii pe cont propriu, care lucrează în întreprinderile sectorului informal;</p> 
-  <p>2) Patronii, care lucrează la întreprinderile sectorului informal;</p> 
-  <p>3) Membrii cooperativelor informale de producție;</p> 
-  <p>4) Lucrători familiali neremunerați, care lucrează la întreprinderile sectorului formal sau la întreprinderile sectorului informal;</p> 
-  <p>5) Salariații angajați la întreprinderile sectorului formal, la întreprinderile sectorului informal sau în gospodăriile particulare ale cetățenilor, care satisfac cel puțin unul din criteriile de mai jos:</p> 
-  <p>- patronul nu plătește contribuțiile sociale pentru ei;</p> 
-  <p>- nu beneficiază de concediu anual plătit;</p> 
-  <p>- nu beneficiază, în caz de boală, de concediu medical plătit. </p>
+  |
+  <p>(Definiție națională) Ocuparea informală include:</p>
+  <p>1) Lucrătorii pe cont propriu, care lucrează în întreprinderile sectorului informal;</p>
+  <p>2) Patronii, care lucrează la întreprinderile sectorului informal;</p>
+  <p>3) Membrii cooperativelor informale de producție;</p>
+  <p>4) Lucrători familiali neremunerați, care lucrează la întreprinderile sectorului formal sau la întreprinderile sectorului informal;</p>
+  <p>5) Salariații angajați la întreprinderile sectorului formal, la întreprinderile sectorului informal sau în gospodăriile particulare ale cetățenilor, care satisfac cel puțin unul din criteriile de mai jos:</p>
+  <p>- patronul nu plătește contribuțiile sociale pentru ei;</p>
+  <p>- nu beneficiază de concediu anual plătit;</p>
+  <p>- nu beneficiază, în caz de boală, de concediu medical plătit.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -60,9 +61,10 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> 1. Numărul persoanelor ocupate informal raportat la total persoane ocupate.</p> 
-  <p>2. Numărul persoanelor ocupate informal în sectorul agricol raportat la total persoane ocupate în sectorul agricol.</p> 
-  <p>3. Numărul persoanelor ocupate informal în sectorul neagricol raportat la total persoane ocupate în sectorul neagricol. </p>
+  |
+  <p>1. Numărul persoanelor ocupate informal raportat la total persoane ocupate.</p>
+  <p>2. Numărul persoanelor ocupate informal în sectorul agricol raportat la total persoane ocupate în sectorul agricol.</p>
+  <p>3. Numărul persoanelor ocupate informal în sectorul neagricol raportat la total persoane ocupate în sectorul neagricol.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,11 +72,12 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Total corespunde cu Seria „SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]”:</p> 
-  <p>Definiția națională a ocupării forței de muncă se bazează pe ultimul standard internațional - Rezoluția CISM-19, 2013. Începând cu 2019, persoanele care produc bunuri exclusiv pentru consumul propriu nu fac parte din populația ocupată.</p> 
-  <p></p> 
-  <p>Datele nu sunt pe deplin comparabile cu seria de date „SL_ISV_IFEM - Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]”: </p> 
-  <p>Definiția ocupării pentru acest indicator global este conform standardelor statistice de la CISM-13, 1982. Conform acestui stadardului vechi, persoanele care produc bunuri exclusiv pentru consumul propriu, continuă să fie parte a populației ocupate. </p>
+  |
+  <p>Total corespunde cu Seria „SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]”:</p>
+  <p>Definiția națională a ocupării forței de muncă se bazează pe ultimul standard internațional - Rezoluția CISM-19, 2013. Începând cu 2019, persoanele care produc bunuri exclusiv pentru consumul propriu nu fac parte din populația ocupată.</p>
+  <p></p>
+  <p>Datele nu sunt pe deplin comparabile cu seria de date „SL_ISV_IFEM - Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]”: </p>
+  <p>Definiția ocupării pentru acest indicator global este conform standardelor statistice de la CISM-13, 1982. Conform acestui stadardului vechi, persoanele care produc bunuri exclusiv pentru consumul propriu, continuă să fie parte a populației ocupate.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

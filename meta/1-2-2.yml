@@ -4,9 +4,10 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 1.2: By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> United Nations Children's Fund (UNICEF)</p> 
-  <p>World Bank (WB)</p> 
-  <p>United Nations Development Programme (UNDP) </p>
+  |
+  <p>United Nations Children's Fund (UNICEF)</p>
+  <p>World Bank (WB)</p>
+  <p>United Nations Development Programme (UNDP)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -34,11 +35,12 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The poverty cutoff or threshold (k) is used to decide whether a person is multidimensionally poor. Anyone with a deprivation score equal or above the threshold is considered poor. </p> 
-  <p>  The incidence of poverty (H) is the proportion of people identified as multidimensionally poor, also referred to as the “headcount ratio”.  It is the percentage of people out of the total population whose weighted deprivation score is greater than or equal to the poverty cut-off.</p> 
-  <p>  The intensity of poverty (A), is the average number of weighted indicators in which poor people are deprived – the average deprivation score across all poor people.</p> 
-  <p>  The Multidimensional poverty index (MPI) is computed as the product of these two components. The MPI always ranges from zero to one, and a higher number signifies greater poverty. </p> 
-  <p>  This method not only identifies who is poor but also provides an innovative means by which one can incorporate how acute or intense the situation of multidimensional poverty is for the poor. This provides additional incentives for governments, as MPI will reflect changes in the intensity of poverty among the poor that are not captured by the simple headcount ratio of monetary measures. </p>
+  |
+  <p>The poverty cutoff or threshold (k) is used to decide whether a person is multidimensionally poor. Anyone with a deprivation score equal or above the threshold is considered poor. </p>
+  <p>  The incidence of poverty (H) is the proportion of people identified as multidimensionally poor, also referred to as the “headcount ratio”.  It is the percentage of people out of the total population whose weighted deprivation score is greater than or equal to the poverty cut-off.</p>
+  <p>  The intensity of poverty (A), is the average number of weighted indicators in which poor people are deprived – the average deprivation score across all poor people.</p>
+  <p>  The Multidimensional poverty index (MPI) is computed as the product of these two components. The MPI always ranges from zero to one, and a higher number signifies greater poverty. </p>
+  <p>  This method not only identifies who is poor but also provides an innovative means by which one can incorporate how acute or intense the situation of multidimensional poverty is for the poor. This provides additional incentives for governments, as MPI will reflect changes in the intensity of poverty among the poor that are not captured by the simple headcount ratio of monetary measures.</p>
 UNIT_MEASURE: >-
   Index
 CLASS_SYSTEM: ''
@@ -52,21 +54,23 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labor and Social Protection</p> 
-  <p>Ministry of Economic Development and Digitalization</p> 
-  <p>Ministry of Agriculture and Food Industry</p> 
-  <p>Ministry of Infrastructure and Regional Development </p> 
-  <p>Ministry of Education and Research</p> 
-  <p>Ministry of Health </p>
+  |
+  <p>Ministry of Labor and Social Protection</p>
+  <p>Ministry of Economic Development and Digitalization</p>
+  <p>Ministry of Agriculture and Food Industry</p>
+  <p>Ministry of Infrastructure and Regional Development </p>
+  <p>Ministry of Education and Research</p>
+  <p>Ministry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> MPI = H x A</p> 
-  <p>    unde:</p> 
-  <p> MPI - Multidimensional poverty index,          </p> 
-  <p> H - Incidence of poverty = The number of the population with a deprivation score equal or above to the multidimensional poverty line / Total number of population,</p> 
-  <p> A - Intensity of poverty multidimensionale = The sum of the total deprivations suffered by each multidimensional poor person / The number of the multidimensional poor population. </p>
+  |
+  <p>MPI = H x A</p>
+  <p>    unde:</p>
+  <p> MPI - Multidimensional poverty index,          </p>
+  <p> H - Incidence of poverty = The number of the population with a deprivation score equal or above to the multidimensional poverty line / Total number of population,</p>
+  <p> A - Intensity of poverty multidimensionale = The sum of the total deprivations suffered by each multidimensional poor person / The number of the multidimensional poor population.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -74,8 +78,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> The national MPI is not comparable with global MPI. The global MPI complements monetary poverty measures by reflecting the acute deprivations that people face simultaneously in other dimensions, which are essential to guarantee a dignified life. Following the Human Development Index (HDI), the global MPI shares the same three dimensions: education, health and living standards.</p> 
-  <p>However, in order to monitor the SDGs and to measure deprivations relevant to the country context, many countries have been moving towards constructing a country specific MPI, i.e., a National MPI, which is a permanent official statistic of poverty, tailored to national priorities. </p>
+  |
+  <p>The national MPI is not comparable with global MPI. The global MPI complements monetary poverty measures by reflecting the acute deprivations that people face simultaneously in other dimensions, which are essential to guarantee a dignified life. Following the Human Development Index (HDI), the global MPI shares the same three dimensions: education, health and living standards.</p>
+  <p>However, in order to monitor the SDGs and to measure deprivations relevant to the country context, many countries have been moving towards constructing a country specific MPI, i.e., a National MPI, which is a permanent official statistic of poverty, tailored to national priorities.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

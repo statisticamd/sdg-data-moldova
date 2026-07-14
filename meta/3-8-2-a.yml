@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> World Health Organisation (WHO)</p> 
-  <p>World Bank (WB) </p>
+  |
+  <p>World Health Organisation (WHO)</p>
+  <p>World Bank (WB)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -52,9 +53,10 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> To calculate the indicator: </p> 
-  <p>1. Proportion of health expenditures out of total expenditures of the household = Expenditures for health / Total expenditures of households * 100; </p> 
-  <p>2. Proportion of population with household expenditures on health larger than 10% = Number of population with household expenditures largest than 10% / Total number of population * 100. </p>
+  |
+  <p>To calculate the indicator: </p>
+  <p>1. Proportion of health expenditures out of total expenditures of the household = Expenditures for health / Total expenditures of households * 100; </p>
+  <p>2. Proportion of population with household expenditures on health larger than 10% = Number of population with household expenditures largest than 10% / Total number of population * 100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 9.2: Promovarea industrializării incluzive și durabile și, până în 2030, sporirea  semnificativă a ratei de ocupare și a produsului Intern brut în industrie, în  conformitate cu circumstanțele naționale, și dublarea acestei cote în țările  cel mai puțin dezvoltate.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> United Nations Industrial Development Organization (UNIDO)</p> 
-  <p>(în colaborare cu Organizația Internațională a Muncii - OIM) </p>
+  |
+  <p>United Nations Industrial Development Organization (UNIDO)</p>
+  <p>(în colaborare cu Organizația Internațională a Muncii - OIM)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,8 +34,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Industria prelucrătoare = secțiune C "Industria prelucrătoare" din CAEM-2.</p> 
-  <p>CAEM-2 - Clasificatorul Activităților din Economia Moldovei, revizuirea 2 </p>
+  |
+  <p>Industria prelucrătoare = secțiune C "Industria prelucrătoare" din CAEM-2.</p>
+  <p>CAEM-2 - Clasificatorul Activităților din Economia Moldovei, revizuirea 2</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''

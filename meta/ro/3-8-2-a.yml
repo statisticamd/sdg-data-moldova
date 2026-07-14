@@ -4,13 +4,15 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 3.8: Realizarea accesului universal la servicii de sănătate, inclusiv protecția riscurilor financiare, accesul la servicii esențiale de sănătate calitative și accesul la medicamente de bază și vaccinuri sigure, eficiente, calitative și la prețuri accesibile pentru toți</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> Organizația Mondială a Sănătății (OMS)</p> 
-  <p>Banca Mondială (BM) </p>
+  |
+  <p>Organizația Mondială a Sănătății (OMS)</p>
+  <p>Banca Mondială (BM)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Proporția populației cu cheltuieli mari ale gospodăriilor pentru sănătate ca pondere din cheltuielile sau veniturile totale ale gospodăriilor. Două praguri sunt utilizate pentru a defini „cheltuielile mari ale gospodăriilor pentru sănătate”:</p> 
-  <p>mai mare de 10% și mai mare de 25% din cheltuielile sau veniturile totale ale gospodăriei. </p>
+  |
+  <p>Proporția populației cu cheltuieli mari ale gospodăriilor pentru sănătate ca pondere din cheltuielile sau veniturile totale ale gospodăriilor. Două praguri sunt utilizate pentru a defini „cheltuielile mari ale gospodăriilor pentru sănătate”:</p>
+  <p>mai mare de 10% și mai mare de 25% din cheltuielile sau veniturile totale ale gospodăriei.</p>
 SDG_GOAL: ''
 target_id: >-
   3.8
@@ -53,9 +55,10 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Pentru calcularea indicatorului: </p> 
-  <p>1. Ponderea cheltuielilor pentru sănătate în cheltuielile totale ale gospodăriilor casnice = Cheltuielile pentru sănătate / Cheltuielile totale ale gospodăriilor casnice * 100; </p> 
-  <p>2. Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10% = Numărul populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10% / Numărul total al populației * 100. </p>
+  |
+  <p>Pentru calcularea indicatorului: </p>
+  <p>1. Ponderea cheltuielilor pentru sănătate în cheltuielile totale ale gospodăriilor casnice = Cheltuielile pentru sănătate / Cheltuielile totale ale gospodăriilor casnice * 100; </p>
+  <p>2. Ponderea populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10% = Numărul populației cu cheltuielile gospodăriilor pentru sănătate mai mari de 10% / Numărul total al populației * 100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

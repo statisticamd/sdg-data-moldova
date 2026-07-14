@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 6.1: Până în 2030, realizarea accesului universal și echitabil la apă potabilă sigură și la prețuri accesibile pentru toți</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> Organizația Mondială a Sănătății (OMS)</p> 
-  <p>Fondul Națiunilor Unite pentru Copii (UNICEF) </p>
+  |
+  <p>Organizația Mondială a Sănătății (OMS)</p>
+  <p>Fondul Națiunilor Unite pentru Copii (UNICEF)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,9 +34,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Sursele sigure de alimentare cu apa includ: apeduct in interiorul locuinței și apeduct in afara locuinței, inclusiv din rețea publică, fântâna arteziană, fântână de  izvor.</p> 
-  <p>   Apeduct in interiorul locuinței se considera daca in interiorul încăperii exista rețea de repartizare a apei prin care apa vine din rețele centralizate, fântâna arteziana, fântâna proprie si de asemenea, casa cu bucătărie izolata in care e instalat un robinet de la rețeaua de repartizare a apei.</p> 
-  <p>   Apeduct in afara locuintei - cind gospodăria are robinet cu apa amplasat numai in curte, rețeaua căruia nu ajunge până in locuința. </p>
+  |
+  <p>Sursele sigure de alimentare cu apa includ: apeduct in interiorul locuinței și apeduct in afara locuinței, inclusiv din rețea publică, fântâna arteziană, fântână de  izvor.</p>
+  <p>   Apeduct in interiorul locuinței se considera daca in interiorul încăperii exista rețea de repartizare a apei prin care apa vine din rețele centralizate, fântâna arteziana, fântâna proprie si de asemenea, casa cu bucătărie izolata in care e instalat un robinet de la rețeaua de repartizare a apei.</p>
+  <p>   Apeduct in afara locuintei - cind gospodăria are robinet cu apa amplasat numai in curte, rețeaua căruia nu ajunge până in locuința.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
@@ -49,8 +51,9 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Infrastructurii și Dezvoltării Regionale</p> 
-  <p>Ministerul Sănătății </p>
+  |
+  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p>
+  <p>Ministerul Sănătății</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

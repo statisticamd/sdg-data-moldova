@@ -46,20 +46,22 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>Ministerul Dezvoltării Economice și Digitalizării</p> 
-  <p>Ministerul Agriculturii și Industriei Alimentare</p> 
-  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p> 
-  <p>Ministerul Educației și Cercetării</p> 
-  <p>Ministerul Sănătății </p>
+  |
+  <p>Ministerul Muncii și Protecției Sociale</p>
+  <p>Ministerul Dezvoltării Economice și Digitalizării</p>
+  <p>Ministerul Agriculturii și Industriei Alimentare</p>
+  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p>
+  <p>Ministerul Educației și Cercetării</p>
+  <p>Ministerul Sănătății</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Pentru calcularea indicatorului: </p> 
-  <p>1. Se estimează cheltuielile de consum medii pe 1 persoană în rândul celor 40% din populația cel mai puțin asigurată pentru anii T0 și T1; </p> 
-  <p>2. Se calculează ritmul mediu de creștere anuală a cheltuielilor de consum între acei ani conform formulei  [[(Media în T1) / (Media în T0) ^ (1 / (T1-T0))] - 1] * 100.</p> 
-  <p>40% din limita de jos a populației cel mai puțin asigurate reprezintă populația din decilele I-IV cu cele mai mici cheltuieli. </p>
+  |
+  <p>Pentru calcularea indicatorului: </p>
+  <p>1. Se estimează cheltuielile de consum medii pe 1 persoană în rândul celor 40% din populația cel mai puțin asigurată pentru anii T0 și T1; </p>
+  <p>2. Se calculează ritmul mediu de creștere anuală a cheltuielilor de consum între acei ani conform formulei  [[(Media în T1) / (Media în T0) ^ (1 / (T1-T0))] - 1] * 100.</p>
+  <p>40% din limita de jos a populației cel mai puțin asigurate reprezintă populația din decilele I-IV cu cele mai mici cheltuieli.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

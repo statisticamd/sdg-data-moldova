@@ -32,8 +32,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The "Social Allowance / Ajutor Social" Program has been implemented since 2008  and it is composed of two main components – social allowance and the  assistance for the cold period of the year. The aim of the program is to ensure the poor families with a guaranteed minimum monthly income (GMMI) which is established annually based on the State Budget. The eligibility for the benefits from the "Social Allowance / Ajutor Social" Program is determined based on the Methodology for assessing the monthly average global income of the family and the need for social assistance (a set of Proxy indicators). (Law No. 133/2008 on Social Allowance - Ajutor Social).</p> 
-  <p>In line with the provisions of the Law No. 133/2008, social allowance – monthly monetary payment provided to deprived families. Allowance for the cold period of the year – fixed monetary monthly payment provided to the deprived family for the months January - March and November - December. </p>
+  |
+  <p>The "Social Allowance / Ajutor Social" Program has been implemented since 2008  and it is composed of two main components – social allowance and the  assistance for the cold period of the year. The aim of the program is to ensure the poor families with a guaranteed minimum monthly income (GMMI) which is established annually based on the State Budget. The eligibility for the benefits from the "Social Allowance / Ajutor Social" Program is determined based on the Methodology for assessing the monthly average global income of the family and the need for social assistance (a set of Proxy indicators). (Law No. 133/2008 on Social Allowance - Ajutor Social).</p>
+  <p>In line with the provisions of the Law No. 133/2008, social allowance – monthly monetary payment provided to deprived families. Allowance for the cold period of the year – fixed monetary monthly payment provided to the deprived family for the months January - March and November - December.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -47,19 +48,21 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labor and Social Protection</p> 
-  <p>National Council for Disability and Work Ability Assessment</p> 
-  <p>National Employment Agency </p>
+  |
+  <p>Ministry of Labor and Social Protection</p>
+  <p>National Council for Disability and Work Ability Assessment</p>
+  <p>National Employment Agency</p>
 OTHER_METHOD: >-
   Quintile – one of the four values dividing the series of frequencies in five equal parts, so that the first 20% (I quintile) represents the population with the lowest expenditures, while the last 20% (V quintile) – the population with the highest expenditures
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> P_AJUT= Q1_AJUT / Q1 * 100</p> 
-  <p>    where:</p> 
-  <p> P_AJUT - share of population in the I quintile who benefit from social allowance - Ajutor Social,           </p> 
-  <p> Q1_AJUT - number of persons from the I quintile who benefit from social allowance - Ajutor Social,</p> 
-  <p> Q1 - total number of persons from the I quintile. </p>
+  |
+  <p>P_AJUT= Q1_AJUT / Q1 * 100</p>
+  <p>    where:</p>
+  <p> P_AJUT - share of population in the I quintile who benefit from social allowance - Ajutor Social,           </p>
+  <p> Q1_AJUT - number of persons from the I quintile who benefit from social allowance - Ajutor Social,</p>
+  <p> Q1 - total number of persons from the I quintile.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

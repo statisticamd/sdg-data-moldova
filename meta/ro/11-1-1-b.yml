@@ -49,11 +49,12 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Pentru calcularea indicatorului: </p> 
-  <p>1. Se estimează Suprafața locuibilă medie pe o persoană = Suprafața locuibilă / Numărul persoanelor care trăiesc în locuința; </p> 
-  <p>2. Se estimează Numărul persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub 9 m2 pentru fiecare persoană;</p> 
-  <p>3. Se estimează Numărul persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră;</p> 
-  <p>4. Ponderea  persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub norma de 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră, cu excepția soților (supraaglomerarea) =  Numărul persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră / Numărul total al populației * 100. </p>
+  |
+  <p>Pentru calcularea indicatorului: </p>
+  <p>1. Se estimează Suprafața locuibilă medie pe o persoană = Suprafața locuibilă / Numărul persoanelor care trăiesc în locuința; </p>
+  <p>2. Se estimează Numărul persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub 9 m2 pentru fiecare persoană;</p>
+  <p>3. Se estimează Numărul persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră;</p>
+  <p>4. Ponderea  persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub norma de 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră, cu excepția soților (supraaglomerarea) =  Numărul persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub 9 m2 pentru fiecare persoană și a persoanelor de sexe diferite cu vârsta de peste 9 ani, care locuiesc în aceeași cameră / Numărul total al populației * 100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -8,9 +8,10 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> The proportion of people living below 50 percent of median income (or consumption) is the share (%) of a country’s population living on less than half of the consumption/income level of the median of the national income/consumption distribution.</p> 
-  <p>  The indicator is measured using per capita welfare measure of consumption or income. The indicator is calculated by estimating the share of the population in a country living on less than 50% of median of the national distribution of income or consumption, as estimated from survey data.</p> 
-  <p>  Per capita income or consumption is estimated using total household income or consumption divided by the total household size. </p>
+  |
+  <p>The proportion of people living below 50 percent of median income (or consumption) is the share (%) of a country’s population living on less than half of the consumption/income level of the median of the national income/consumption distribution.</p>
+  <p>  The indicator is measured using per capita welfare measure of consumption or income. The indicator is calculated by estimating the share of the population in a country living on less than 50% of median of the national distribution of income or consumption, as estimated from survey data.</p>
+  <p>  Per capita income or consumption is estimated using total household income or consumption divided by the total household size.</p>
 SDG_GOAL: ''
 target_id: >-
   10.2
@@ -34,9 +35,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Proportion of persons living under 50% of median of consumption expenditures.</p> 
-  <p>Median represents the value of an increasing or decreasing series which divides the series in two equal parts.</p> 
-  <p>Note: This indicator may be estimated also according to the disposable incomes. </p>
+  |
+  <p>Proportion of persons living under 50% of median of consumption expenditures.</p>
+  <p>Median represents the value of an increasing or decreasing series which divides the series in two equal parts.</p>
+  <p>Note: This indicator may be estimated also according to the disposable incomes.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -50,19 +52,21 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labor and Social Protection</p> 
-  <p>Ministry of Economic Development and Digitalization</p> 
-  <p>Ministry of Agriculture and Food Industry</p> 
-  <p>Ministry of Infrastructure and Regional Development </p> 
-  <p>Ministry of Education and Research</p> 
-  <p>Ministry of Health </p>
+  |
+  <p>Ministry of Labor and Social Protection</p>
+  <p>Ministry of Economic Development and Digitalization</p>
+  <p>Ministry of Agriculture and Food Industry</p>
+  <p>Ministry of Infrastructure and Regional Development </p>
+  <p>Ministry of Education and Research</p>
+  <p>Ministry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> For calculating the indicator: </p> 
-  <p>1. 50% of the median of the monthly average consumption expenditures per one person is estimated;</p> 
-  <p>2. The proportion of persons living under this relative line is estimated = Number of persons with monthly average consumption expenditures per person smaller than 50% of the median of monthly average consumption expenditures per one  person / Total number of population * 100. </p>
+  |
+  <p>For calculating the indicator: </p>
+  <p>1. 50% of the median of the monthly average consumption expenditures per one person is estimated;</p>
+  <p>2. The proportion of persons living under this relative line is estimated = Number of persons with monthly average consumption expenditures per person smaller than 50% of the median of monthly average consumption expenditures per one  person / Total number of population * 100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

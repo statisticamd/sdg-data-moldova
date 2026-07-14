@@ -8,8 +8,9 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women.</p> 
-  <p>Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households. </p>
+  |
+  <p>This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women.</p>
+  <p>Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households.</p>
 SDG_GOAL: ''
 target_id: >-
   5.4
@@ -33,15 +34,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women aged 15 years and over.</p> 
-  <p>Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households. </p>
+  |
+  <p>This indicator is defined as the proportion of time spent in a day on unpaid domestic and care work by men and women aged 15 years and over.</p>
+  <p>Unpaid domestic and care work refers to activities related to the provision of services for own final use by household members, or by family members living in other households.</p>
 UNIT_MEASURE: >-
   Percent (%) (a proportion of time in a day)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> In 2012 - dedicated Time Use Survey (TUS).</p> 
-  <p>In 2025 - Time Use Survey, as an ad-hoc module to the Labour Force Survey. </p>
+  |
+  <p>In 2012 - dedicated Time Use Survey (TUS).</p>
+  <p>In 2025 - Time Use Survey, as an ad-hoc module to the Labour Force Survey.</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -55,8 +58,9 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Proportion of time spent on unpaid domestic and care work is calculated by dividing the daily average number of hours spent on unpaid domestic and care work by 24 hours [(Daily number of hours spent on domestic work + Daily number of hours spent on care work) / 24].</p> 
-  <p>Daily number of hours spent on relevant activities = Total number of hours spent by the population on relevant activities / Total population, regardless of whether they participated in the activity. </p>
+  |
+  <p>Proportion of time spent on unpaid domestic and care work is calculated by dividing the daily average number of hours spent on unpaid domestic and care work by 24 hours [(Daily number of hours spent on domestic work + Daily number of hours spent on care work) / 24].</p>
+  <p>Daily number of hours spent on relevant activities = Total number of hours spent by the population on relevant activities / Total population, regardless of whether they participated in the activity.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -64,14 +68,15 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> For the global  indicator 5.4.1, it is recommended to use (Classification) ICATUS 2016.</p> 
-  <p>In 2012 in Moldova was used the European Classification HETUS, 2008. </p> 
-  <p>There is difference in the structure of unpaid work activities between HETUS and  ICATUS.</p> 
-  <p>Data for 2012 refer to the group "Household and family care", according to HETUS-2008.</p> 
-  <p>The data for 2025 were compiled in accordance with the global metadata and fully correspond to the series:</p> 
-  <p>SL_DOM_TSPD - Proportion of time spent on unpaid domestic chores and care work [5.4.1]</p> 
-  <p>SL_DOM_TSPDCW - Proportion of time spent on unpaid care work [5.4.1]</p> 
-  <p>SL_DOM_TSPDDC - Proportion of time spent on unpaid domestic chores [5.4.1] </p>
+  |
+  <p>For the global  indicator 5.4.1, it is recommended to use (Classification) ICATUS 2016.</p>
+  <p>In 2012 in Moldova was used the European Classification HETUS, 2008. </p>
+  <p>There is difference in the structure of unpaid work activities between HETUS and  ICATUS.</p>
+  <p>Data for 2012 refer to the group "Household and family care", according to HETUS-2008.</p>
+  <p>The data for 2025 were compiled in accordance with the global metadata and fully correspond to the series:</p>
+  <p>SL_DOM_TSPD - Proportion of time spent on unpaid domestic chores and care work [5.4.1]</p>
+  <p>SL_DOM_TSPDCW - Proportion of time spent on unpaid care work [5.4.1]</p>
+  <p>SL_DOM_TSPDDC - Proportion of time spent on unpaid domestic chores [5.4.1]</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

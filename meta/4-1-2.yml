@@ -9,8 +9,9 @@ SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
   The national indicator corresponds to the global indicator
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> The intended age for the last grade of each level of education is the age at which pupils would enter the grade if they had started school at the official primary entrance age, had studied full-time and had progressed without repeating or skipping a grade.</p> 
-  <p>For example, if the official age of entry into primary education is 6 years, and if primary education has 6 grades, the intended age for the last grade of primary education is 11 years. In this case, 14-16 years (11 + 3 = 14 and 11 + 5 = 16) would be the reference age group for calculation of the primary completion rate. </p>
+  |
+  <p>The intended age for the last grade of each level of education is the age at which pupils would enter the grade if they had started school at the official primary entrance age, had studied full-time and had progressed without repeating or skipping a grade.</p>
+  <p>For example, if the official age of entry into primary education is 6 years, and if primary education has 6 grades, the intended age for the last grade of primary education is 11 years. In this case, 14-16 years (11 + 3 = 14 and 11 + 5 = 16) would be the reference age group for calculation of the primary completion rate.</p>
 SDG_GOAL: ''
 target_id: >-
   4.1
@@ -54,10 +55,11 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The number of persons in the relevant age group who have completed the last grade of a given level of education is divided by the total population of the same age group.</p> 
-  <p> Completion rate for level n of education = Population aged 3 to 5 years above the official entrance age a into the last grade of level n of education who completed level n divided by Population aged 3 to 5 years above the official entrance age a into the last grade of level n of education.</p> 
-  <p></p> 
-  <p>n= ISCED level 1 (primary education), 2 (lower secondary education), or 3 (upper secondary education) </p>
+  |
+  <p>The number of persons in the relevant age group who have completed the last grade of a given level of education is divided by the total population of the same age group.</p>
+  <p> Completion rate for level n of education = Population aged 3 to 5 years above the official entrance age a into the last grade of level n of education who completed level n divided by Population aged 3 to 5 years above the official entrance age a into the last grade of level n of education.</p>
+  <p></p>
+  <p>n= ISCED level 1 (primary education), 2 (lower secondary education), or 3 (upper secondary education)</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

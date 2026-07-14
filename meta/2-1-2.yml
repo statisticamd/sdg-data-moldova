@@ -32,9 +32,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The indicator (together with the malnutrition rate) is used to measure the food deprivation and is compiled by FAO. To calculate the indicator for the Republic of Moldova, NBS will send to FAO the data at the national level collected within the module FIES (8 questions of  'Yes/No' type) ( [by integrating in the HBS questionnaires](http://www.fao.org/3/a-be898r.pdf - Russian) or completing the HBS questionnaires with missing questions).</p> 
-  <p>  FIES indicators may generate disaggregated information to identify groups of population which are most affected by food insecurity, and also may be used to assess the factors which determine food insecurity.</p> 
-  <p>  Prevalence of food insecurity is moderate or severe, and severe. </p>
+  |
+  <p>The indicator (together with the malnutrition rate) is used to measure the food deprivation and is compiled by FAO. To calculate the indicator for the Republic of Moldova, NBS will send to FAO the data at the national level collected within the module FIES (8 questions of  'Yes/No' type) ( [by integrating in the HBS questionnaires](http://www.fao.org/3/a-be898r.pdf - Russian) or completing the HBS questionnaires with missing questions).</p>
+  <p>  FIES indicators may generate disaggregated information to identify groups of population which are most affected by food insecurity, and also may be used to assess the factors which determine food insecurity.</p>
+  <p>  Prevalence of food insecurity is moderate or severe, and severe.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -48,8 +49,9 @@ DATA_SOURCE: >-
   Food and Agriculture Organisation of the United Nations (FAO)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Health</p> 
-  <p>Ministry of Agriculture and Food Industry </p>
+  |
+  <p>Ministry of Health</p>
+  <p>Ministry of Agriculture and Food Industry</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

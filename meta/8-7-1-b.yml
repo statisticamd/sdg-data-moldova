@@ -8,15 +8,16 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Indicator 1. Proportion and number of children aged 5-17 years engaged in economic activities at or above age-specific hourly thresholds (SNA production boundary basis):</p> 
-  <p>- for children aged 5 - 11 years: if children working for 1 hour or more per week in economic activity;</p> 
-  <p>for children aged 12 - 14 years: if children working for 14 hour or more per week in economic activity;</p> 
-  <p>for children aged 15 - 17 years: if children working for 43 hour or more per week in economic activity.</p> 
-  <p></p> 
-  <p>Indicator 2. Proportion and number off children aged 5-17 years engaged in economic activities and household chores at or above age-specific hourly thresholds (SNA general production boundary):</p> 
-  <p>- for children aged 5 - 11 years: if children working for 1 hour or more per week in economic activity and/or involved in unpaid household services for 21 hours or more per week;</p> 
-  <p>for children aged 12 - 14 years: if children working for 14 hour or more per week in economic activity and/or involved in unpaid household services for 21 hours or more per week;</p> 
-  <p>for children aged 15 - 17 years: if children working for 43 hour or more per week in economic activity. (No hourly threshold is set for household chores for ages 15-17). </p>
+  |
+  <p>Indicator 1. Proportion and number of children aged 5-17 years engaged in economic activities at or above age-specific hourly thresholds (SNA production boundary basis):</p>
+  <p>- for children aged 5 - 11 years: if children working for 1 hour or more per week in economic activity;</p>
+  <p>for children aged 12 - 14 years: if children working for 14 hour or more per week in economic activity;</p>
+  <p>for children aged 15 - 17 years: if children working for 43 hour or more per week in economic activity.</p>
+  <p></p>
+  <p>Indicator 2. Proportion and number off children aged 5-17 years engaged in economic activities and household chores at or above age-specific hourly thresholds (SNA general production boundary):</p>
+  <p>- for children aged 5 - 11 years: if children working for 1 hour or more per week in economic activity and/or involved in unpaid household services for 21 hours or more per week;</p>
+  <p>for children aged 12 - 14 years: if children working for 14 hour or more per week in economic activity and/or involved in unpaid household services for 21 hours or more per week;</p>
+  <p>for children aged 15 - 17 years: if children working for 43 hour or more per week in economic activity. (No hourly threshold is set for household chores for ages 15-17).</p>
 SDG_GOAL: ''
 target_id: >-
   8.7
@@ -56,8 +57,9 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Labour and Social Protection
 OTHER_METHOD: >-
-  <p> Accordind to the International Conventions, child labour is work that children should not be doing because (a) they are too young or (b) is likely to harm their health, safety or morals, due to its nature or the conditions in which it is carried out.</p> 
-  <p>Child labour includes those activities/work that are carried out in activities and/or occupations forbidden to children; and/or in dangerous conditions; or that take excessive working hours. </p>
+  |
+  <p>Accordind to the International Conventions, child labour is work that children should not be doing because (a) they are too young or (b) is likely to harm their health, safety or morals, due to its nature or the conditions in which it is carried out.</p>
+  <p>Child labour includes those activities/work that are carried out in activities and/or occupations forbidden to children; and/or in dangerous conditions; or that take excessive working hours.</p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -69,9 +71,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Total corresponding with series:</p> 
-  <p>- SL_TLF_CHLDEA - Proportion of children engaged in economic activity [8.7.1]</p> 
-  <p>- SL_TLF_CHLDEC - Proportion of children engaged in economic activity and household chores [8.7.1] </p>
+  |
+  <p>Total corresponding with series:</p>
+  <p>- SL_TLF_CHLDEA - Proportion of children engaged in economic activity [8.7.1]</p>
+  <p>- SL_TLF_CHLDEC - Proportion of children engaged in economic activity and household chores [8.7.1]</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

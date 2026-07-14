@@ -7,9 +7,10 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Programul Națiunilor Unite pentru Așezările Umane (UN-Habitat)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
-  <p> Serviciile de bază se referă la sisteme de furnizare a serviciilor publice care satisfac nevoile de bază ale populației, inclusiv acces la apa potabilă sigura, canalizare îmbunătățită și igiena, energie moderna, mobilitate si transport, colectarea deșeurilor solide, îngrijirea sănătății, educație, spatii verzi (de agrement) și tehnologii informaționale.</p> 
-  <p>  Indicatorul 1.4.1 naționalizat  se refera la o parte din serviciile de baza de infrastructura - cele care sunt disponibile in cadrul gospodarilor casnice, si anume iluminare electrica, surse gestionate sigur de apă, sistem de canalizare  îmbunătățită, conexiune la Internet. </p> 
-  <p>  Restul serviciilor de baza, la care are acces populația, preponderent in afara gospodăriei vor fi măsurate prin alți indicatori ODD (privind accesul la servicii de sănătate/ODD3, educație/ODD4, transport/ODD9&11, deșeuri si spații verzi/ODD11). </p>
+  |
+  <p>Serviciile de bază se referă la sisteme de furnizare a serviciilor publice care satisfac nevoile de bază ale populației, inclusiv acces la apa potabilă sigura, canalizare îmbunătățită și igiena, energie moderna, mobilitate si transport, colectarea deșeurilor solide, îngrijirea sănătății, educație, spatii verzi (de agrement) și tehnologii informaționale.</p>
+  <p>  Indicatorul 1.4.1 naționalizat  se refera la o parte din serviciile de baza de infrastructura - cele care sunt disponibile in cadrul gospodarilor casnice, si anume iluminare electrica, surse gestionate sigur de apă, sistem de canalizare  îmbunătățită, conexiune la Internet. </p>
+  <p>  Restul serviciilor de baza, la care are acces populația, preponderent in afara gospodăriei vor fi măsurate prin alți indicatori ODD (privind accesul la servicii de sănătate/ODD3, educație/ODD4, transport/ODD9&11, deșeuri si spații verzi/ODD11).</p>
 SDG_INDICATOR_INFO__GLOBAL: >-
   Serviciile de bază se referă la sistemele de furnizare a serviciilor publice care satisfac nevoile umane de bază, inclusiv apă potabilă, canalizare, igiena, energie, mobilitate, colectarea deșeurilor, îngrijirea sănătății, educația și tehnologiile informaționale. Prin urmare, indicatorul servicilor de bază se va baza pe 9 componente. Aceste componente sunt surprinse în diverși indicatori autonomi ai ODD, ceea ce înseamnă că conceptele și definițiile indicatorului ODD 1.4.1 vor fi derivate din sau sunt aceleași cu cele ale acestor indicatori specifici ODD.
 SDG_GOAL: ''
@@ -35,9 +36,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Sursele sigure de alimentare cu apa includ: apeduct in interiorul locuinței și apeduct in afara locuinței, inclusiv din rețea publică, fântâna arteziană, fântână de izvor.</p> 
-  <p>  Sisteme de canalizare îmbunătățită vor include sistem de canalizare public și propriu.</p> 
-  <p>  Acces la Internet vor include disponibilitate în locuința internetului prin cablu și fără cablu (Widii). </p>
+  |
+  <p>Sursele sigure de alimentare cu apa includ: apeduct in interiorul locuinței și apeduct in afara locuinței, inclusiv din rețea publică, fântâna arteziană, fântână de izvor.</p>
+  <p>  Sisteme de canalizare îmbunătățită vor include sistem de canalizare public și propriu.</p>
+  <p>  Acces la Internet vor include disponibilitate în locuința internetului prin cablu și fără cablu (Widii).</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''

@@ -32,15 +32,16 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> (National definition) Informal employment includes:</p> 
-  <p>1) own account workers working in informal sector enterprises;</p> 
-  <p>2) employers  working in informal sector enterprises;</p> 
-  <p>3) members of informal producers’ cooperatives;</p> 
-  <p>4) contributing family workers, working in formal or informal sector enterprises;</p> 
-  <p>5) employees in formal or informal sector enterprises, or in private households, and meet at least one of the below criteria:</p> 
-  <p>- the employer does not pay social contributions for them;</p> 
-  <p>- do not benefit from paid annual leave;</p> 
-  <p>- in case of illness, do not benefit from paid sick leave. </p>
+  |
+  <p>(National definition) Informal employment includes:</p>
+  <p>1) own account workers working in informal sector enterprises;</p>
+  <p>2) employers  working in informal sector enterprises;</p>
+  <p>3) members of informal producers’ cooperatives;</p>
+  <p>4) contributing family workers, working in formal or informal sector enterprises;</p>
+  <p>5) employees in formal or informal sector enterprises, or in private households, and meet at least one of the below criteria:</p>
+  <p>- the employer does not pay social contributions for them;</p>
+  <p>- do not benefit from paid annual leave;</p>
+  <p>- in case of illness, do not benefit from paid sick leave.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -60,9 +61,10 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> 1. Proportion of informal employment in total employment.</p> 
-  <p>2. Proportion of informal employment in agriculture in total employment in agriculture</p> 
-  <p>3. Proportion of informal employment in non agricultural employmen in total otal employment in non agricultural activities </p>
+  |
+  <p>1. Proportion of informal employment in total employment.</p>
+  <p>2. Proportion of informal employment in agriculture in total employment in agriculture</p>
+  <p>3. Proportion of informal employment in non agricultural employmen in total otal employment in non agricultural activities</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -70,10 +72,11 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Fully corresponding with the Series "SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]":</p> 
-  <p>The national definition of employment is based on the latest international standard - the 19th ICLS Resolution (2013). Starting from 2019, persons who produce goods exclusively for their own consumption are no longer considered part of the employed population.</p> 
-  <p>Not fully corresponding with the series "SL_ISV_IFEM - Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]":</p> 
-  <p>The definition of employment for this global indicator follows the statistical standards of the 13th ICLS (1982). Under this older standard, persons who produce goods exclusively for their own consumption continue to be considered part of employment. </p>
+  |
+  <p>Fully corresponding with the Series "SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]":</p>
+  <p>The national definition of employment is based on the latest international standard - the 19th ICLS Resolution (2013). Starting from 2019, persons who produce goods exclusively for their own consumption are no longer considered part of the employed population.</p>
+  <p>Not fully corresponding with the series "SL_ISV_IFEM - Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]":</p>
+  <p>The definition of employment for this global indicator follows the statistical standards of the 13th ICLS (1982). Under this older standard, persons who produce goods exclusively for their own consumption continue to be considered part of employment.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

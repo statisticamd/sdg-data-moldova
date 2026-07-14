@@ -8,14 +8,15 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Indicator 1. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor de producție conform SCN):</p> 
-  <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice;</p> 
-  <p>- pentru copiii de 12-14 ani:dacă lucrează cel puțin 14 ore pe săptămână în activități economice;</p> 
-  <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice.</p> 
-  <p>Indicator 2. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice și în muncă casnică pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor generale de producție conform SCN):</p> 
-  <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p> 
-  <p>- pentru copiii de 12-14 ani: dacă lucrează cel puțin 14 ore pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p> 
-  <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice (pentru copiii de 15-17 ani nu este stabilit un prag limită de  ore pentru munca casnică). </p>
+  |
+  <p>Indicator 1. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor de producție conform SCN):</p>
+  <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice;</p>
+  <p>- pentru copiii de 12-14 ani:dacă lucrează cel puțin 14 ore pe săptămână în activități economice;</p>
+  <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice.</p>
+  <p>Indicator 2. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice și în muncă casnică pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor generale de producție conform SCN):</p>
+  <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p>
+  <p>- pentru copiii de 12-14 ani: dacă lucrează cel puțin 14 ore pe săptămână în activități economice și/sau implicați în servicii casnice neplătite pentru mai mult de 21 de ore pe săptămână;</p>
+  <p>- pentru copiii de 15-17 ani: dacă lucrează mai mult de 43 de ore pe săptămână în activități economice (pentru copiii de 15-17 ani nu este stabilit un prag limită de  ore pentru munca casnică).</p>
 SDG_GOAL: ''
 target_id: >-
   8.7
@@ -55,8 +56,9 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
 OTHER_METHOD: >-
-  <p> Conform Convențiilor internaționale, munca copiilor este o muncă pe care copiii nu ar trebui să o facă deoarece (a) sunt prea mici sau (b) este în stare să dăuneze sănătății, siguranței sau moralității lor, datorită naturii sau a condițiilor în care se  efectuează.</p> 
-  <p>Situația de „munca copiilor” cuprinde acele activități/munci care se desfășoară în activități și/sau ocupații proscrise copiilor; și/sau condiții periculoase; sau care durează ore excesive de lucru. </p>
+  |
+  <p>Conform Convențiilor internaționale, munca copiilor este o muncă pe care copiii nu ar trebui să o facă deoarece (a) sunt prea mici sau (b) este în stare să dăuneze sănătății, siguranței sau moralității lor, datorită naturii sau a condițiilor în care se  efectuează.</p>
+  <p>Situația de „munca copiilor” cuprinde acele activități/munci care se desfășoară în activități și/sau ocupații proscrise copiilor; și/sau condiții periculoase; sau care durează ore excesive de lucru.</p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -68,9 +70,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Corespunde total cu seriile:</p> 
-  <p>- SL_TLF_CHLDEA - Proportion of children engaged in economic activity [8.7.1]</p> 
-  <p>- SL_TLF_CHLDEC - Proportion of children engaged in economic activity and household chores [8.7.1] </p>
+  |
+  <p>Corespunde total cu seriile:</p>
+  <p>- SL_TLF_CHLDEA - Proportion of children engaged in economic activity [8.7.1]</p>
+  <p>- SL_TLF_CHLDEC - Proportion of children engaged in economic activity and household chores [8.7.1]</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

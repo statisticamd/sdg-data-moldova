@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 6.1: By 2030, achieve universal and equitable access to safe and affordable drinking water for all</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> World Health Organisation (WHO)</p> 
-  <p>United Nations Children's Fund (UNICEF) </p>
+  |
+  <p>World Health Organisation (WHO)</p>
+  <p>United Nations Children's Fund (UNICEF)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,9 +34,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Safe sources of water supply include: aqueduct inside the dwelling and aqueduct  outside the dwelling, including public  network aqueduct, artesian well, spring well.</p> 
-  <p>   Aqueduct within the dwelling is considered when there is a network of water  distribution within the premises, through which water comes from centralised  networks, artesian well, own well, as well house with isolated kitchen in  which a tap is installed from the network of water distribution.</p> 
-  <p>  Aqueduct  outside the dwelling - when the household has a tap with water located in the  courtyard, and the network does not get to the dwelling. </p>
+  |
+  <p>Safe sources of water supply include: aqueduct inside the dwelling and aqueduct  outside the dwelling, including public  network aqueduct, artesian well, spring well.</p>
+  <p>   Aqueduct within the dwelling is considered when there is a network of water  distribution within the premises, through which water comes from centralised  networks, artesian well, own well, as well house with isolated kitchen in  which a tap is installed from the network of water distribution.</p>
+  <p>  Aqueduct  outside the dwelling - when the household has a tap with water located in the  courtyard, and the network does not get to the dwelling.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -49,8 +51,9 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Infrastructure and Regional Development </p> 
-  <p>Ministry of Health </p>
+  |
+  <p>Ministry of Infrastructure and Regional Development </p>
+  <p>Ministry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

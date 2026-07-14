@@ -1,8 +1,9 @@
 composite_breakdown_label: ''
 computation_units: Bucăți
 copyright: ''
-data_footnote: <p> 1. Începand cu anul 2019 datele nu sunt întru totul comparabile cu perioada precedentă, deoarece a fost modificată metodologia CBGC</p> 
-  <p>2. Începand cu anul 2025 datele nu sunt întru totul comparabile cu perioada precedentă, deoarece a fost modificată metodologia CBGC </p>
+data_footnote: |
+  <p>1. Începand cu anul 2019 datele nu sunt întru totul comparabile cu perioada precedentă, deoarece a fost modificată metodologia CBGC</p>
+  <p>2. Începand cu anul 2025 datele nu sunt întru totul comparabile cu perioada precedentă, deoarece a fost modificată metodologia CBGC</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

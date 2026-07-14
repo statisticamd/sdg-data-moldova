@@ -49,11 +49,12 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> For calculating the indicator: </p> 
-  <p>1. Average living floor space per person =  Living floor space / Number of persons living in dwelling;</p> 
-  <p>2. The number of people living in dwellings whose living area is less than 9 m2 for each person is estimated;</p> 
-  <p>3. The number of people of different sexes over the age of 9 who live in the same room is estimated;</p> 
-  <p>4. Proportion of persons living in dwellings with a living area below 9 m2 per person and persons of different sexes over 9 years of age living in the same room, except for spouses (overcrowding) = Number of persons living in dwellings with a living area below 9 m2 per person and persons of different sexes over 9 years of age living in the same room / Total number of population * 100. </p>
+  |
+  <p>For calculating the indicator: </p>
+  <p>1. Average living floor space per person =  Living floor space / Number of persons living in dwelling;</p>
+  <p>2. The number of people living in dwellings whose living area is less than 9 m2 for each person is estimated;</p>
+  <p>3. The number of people of different sexes over the age of 9 who live in the same room is estimated;</p>
+  <p>4. Proportion of persons living in dwellings with a living area below 9 m2 per person and persons of different sexes over 9 years of age living in the same room, except for spouses (overcrowding) = Number of persons living in dwellings with a living area below 9 m2 per person and persons of different sexes over 9 years of age living in the same room / Total number of population * 100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
