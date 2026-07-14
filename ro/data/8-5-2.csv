@@ -1,4 +1,4 @@
-Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
+Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Education level,Value
 2010,,,,,
 2010,Bărbați,,,,
 2010,Femei,,,,
@@ -224,3 +224,18 @@ Year,Sex,Grupa de vârstă,Persoane cu dizabilități,Nivele de educație,Value
 2024,,,,"Liceal, mediu general",4.3
 2024,,,,Gimnazial,5.4
 2024,,,,Primar sau fără şcoală primară,2.1
+2025,,,,,3.846
+2025,Bărbați,,,,4.26
+2025,Femei,,,,3.411
+2025,,15-24 ani,,,7.421
+2025,,25-34 ani,,,5.308
+2025,,35-44 ani,,,3.455
+2025,,45-54 ani,,,3.512
+2025,,55-64 ani,,,2.691
+2025,,,Total,,4.238
+2025,,,,Superior,3.732
+2025,,,,Profesional tehnic postsecundar nonterțiar (mediu de specialitate),2.893
+2025,,,,Profesional tehnic secundar,3.662
+2025,,,,"Liceal, mediu general",4.26
+2025,,,,Gimnazial,4.528
+2025,,,,Primar sau fără şcoală primară,6.446

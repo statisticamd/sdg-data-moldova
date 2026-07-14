@@ -1,4 +1,4 @@
-Year,Mediu de reședință,Regiuni statistice,Quintile pe cheltuielile de consum,Sexul capului gospodăriei,Type of sewerage ,Value
+Year,Mediu de reședință,Regiuni statistice,Quintile pe cheltuielile de consum,Sex of the reference person,Type of sewerage ,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
@@ -239,3 +239,19 @@ Year,Mediu de reședință,Regiuni statistice,Quintile pe cheltuielile de consum
 2024,,,,Femei,,85.6
 2024,,,,,Rețea publică,38.9
 2024,,,,,Sistem propriu,47.0
+2025,,,,,,86.8
+2025,Urban,,,,,98.3
+2025,Rural,,,,,76.6
+2025,,Municipiul Chișinău,,,,98.4
+2025,,Nord,,,,73.7
+2025,,Centru,,,,85.4
+2025,,Sud,,,,87.6
+2025,,,I,,,72.9
+2025,,,II,,,84.1
+2025,,,III,,,89.1
+2025,,,IV,,,90.5
+2025,,,V,,,97.3
+2025,,,,Bărbați,,87.5
+2025,,,,Femei,,85.4
+2025,,,,,Rețea publică,40.6
+2025,,,,,Sistem propriu,46.2

@@ -40,7 +40,7 @@
             "title": "Sex of the head of the household"
           },
           {
-            "name": "Age groups of head of household, years",
+            "name": "Age groups of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -53,7 +53,7 @@
                 ""
               ]
             },
-            "title": "Age groups of head of household, years"
+            "title": "Age groups of the reference person, years"
           },
           {
             "name": "Quintiles on consumption expenditures",

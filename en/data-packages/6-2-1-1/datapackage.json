@@ -57,7 +57,7 @@
             "title": "Quintiles on consumption expenditures"
           },
           {
-            "name": "Sex of the head of the household",
+            "name": "Sex of the reference person",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,7 +66,7 @@
                 ""
               ]
             },
-            "title": "Sex of the head of the household"
+            "title": "Sex of the reference person"
           },
           {
             "name": "Value",

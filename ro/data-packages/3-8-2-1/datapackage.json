@@ -40,7 +40,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Age groups of head of household, years",
+            "name": "Age group of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -53,7 +53,7 @@
                 ""
               ]
             },
-            "title": "Grupe de vârstă capului gospodăriei, ani"
+            "title": "Age group of the reference person, years"
           },
           {
             "name": "Quintiles on consumption expenditures",

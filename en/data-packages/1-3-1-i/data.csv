@@ -23,69 +23,75 @@ Year,Area of residence,"Quintile I, by area of residence",Value
 2013,,"Total, quintile I",
 2013,,"Urban, quintile I",
 2013,,"Rural, quintile I",
-2014,,,6.0
-2014,Urban,,2.8
-2014,Rural,,8.3
-2014,,"Total, quintile I",12.0
-2014,,"Urban, quintile I",10.7
-2014,,"Rural, quintile I",12.3
-2015,,,9.3
-2015,Urban,,3.2
-2015,Rural,,13.6
-2015,,"Total, quintile I",18.2
-2015,,"Urban, quintile I",14.0
-2015,,"Rural, quintile I",18.8
-2016,,,12.5
-2016,Urban,,4.7
-2016,Rural,,18.2
-2016,,"Total, quintile I",23.4
-2016,,"Urban, quintile I",21.5
-2016,,"Rural, quintile I",23.7
-2017,,,13.2
-2017,Urban,,4.7
-2017,Rural,,19.3
-2017,,"Total, quintile I",26.5
-2017,,"Urban, quintile I",16.7
-2017,,"Rural, quintile I",27.9
-2018,,,12.8
-2018,Urban,,4.7
-2018,Rural,,18.5
-2018,,"Total, quintile I",27.0
-2018,,"Urban, quintile I",17.9
-2018,,"Rural, quintile I",28.6
-2019,,,3.9
-2019,Urban,,1.1
-2019,Rural,,5.7
-2019,,"Total, quintile I",9.2
-2019,,"Urban, quintile I",4.9
-2019,,"Rural, quintile I",9.9
-2020,,,4.9
-2020,Urban,,2.2
-2020,Rural,,6.6
-2020,,"Total, quintile I",7.7
-2020,,"Urban, quintile I",7.9
-2020,,"Rural, quintile I",7.7
-2021,,,6.4
-2021,Urban,,2.8
-2021,Rural,,8.8
-2021,,"Total, quintile I",12.3
-2021,,"Urban, quintile I",9.3
-2021,,"Rural, quintile I",12.9
-2022,,,5.3
-2022,Urban,,1.6
-2022,Rural,,7.7
-2022,,"Total, quintile I",9.8
-2022,,"Urban, quintile I",5.4
-2022,,"Rural, quintile I",10.7
-2023,,,6.7
-2023,Urban,,2.5
-2023,Rural,,9.9
-2023,,"Total, quintile I",11.9
-2023,,"Urban, quintile I",7.8
-2023,,"Rural, quintile I",12.9
-2024,,,8.5
-2024,Urban,,4.2
-2024,Rural,,11.9
-2024,,"Total, quintile I",13.4
-2024,,"Urban, quintile I",6.5
-2024,,"Rural, quintile I",15.4
+2014,,,
+2014,Urban,,
+2014,Rural,,
+2014,,"Total, quintile I",
+2014,,"Urban, quintile I",
+2014,,"Rural, quintile I",
+2015,,,
+2015,Urban,,
+2015,Rural,,
+2015,,"Total, quintile I",
+2015,,"Urban, quintile I",
+2015,,"Rural, quintile I",
+2016,,,
+2016,Urban,,
+2016,Rural,,
+2016,,"Total, quintile I",
+2016,,"Urban, quintile I",
+2016,,"Rural, quintile I",
+2017,,,
+2017,Urban,,
+2017,Rural,,
+2017,,"Total, quintile I",
+2017,,"Urban, quintile I",
+2017,,"Rural, quintile I",
+2018,,,
+2018,Urban,,
+2018,Rural,,
+2018,,"Total, quintile I",
+2018,,"Urban, quintile I",
+2018,,"Rural, quintile I",
+2019,,,
+2019,Urban,,
+2019,Rural,,
+2019,,"Total, quintile I",
+2019,,"Urban, quintile I",
+2019,,"Rural, quintile I",
+2020,,,
+2020,Urban,,
+2020,Rural,,
+2020,,"Total, quintile I",
+2020,,"Urban, quintile I",
+2020,,"Rural, quintile I",
+2021,,,
+2021,Urban,,
+2021,Rural,,
+2021,,"Total, quintile I",
+2021,,"Urban, quintile I",
+2021,,"Rural, quintile I",
+2022,,,
+2022,Urban,,
+2022,Rural,,
+2022,,"Total, quintile I",
+2022,,"Urban, quintile I",
+2022,,"Rural, quintile I",
+2023,,,
+2023,Urban,,
+2023,Rural,,
+2023,,"Total, quintile I",
+2023,,"Urban, quintile I",
+2023,,"Rural, quintile I",
+2024,,,
+2024,Urban,,
+2024,Rural,,
+2024,,"Total, quintile I",
+2024,,"Urban, quintile I",
+2024,,"Rural, quintile I",
+2025,,,66.4
+2025,Urban,,64.8
+2025,Rural,,67.9
+2025,,"Total, quintile I",78.6
+2025,,"Urban, quintile I",79.1
+2025,,"Rural, quintile I",78.5

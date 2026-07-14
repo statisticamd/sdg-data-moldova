@@ -1,4 +1,4 @@
-Year,Mediu de reședință,Sexul capului gospodăriei,"Grupe de vârstă capului gospodăriei, ani",Quintile pe cheltuielile de consum,Tipul gospodăriei,Value
+Year,Mediu de reședință,Sexul capului gospodăriei,"Age group of the reference person, years",Quintile pe cheltuielile de consum,Tipul gospodăriei,Value
 2010,,,,,,
 2010,Urban,,,,,
 2010,Rural,,,,,
@@ -269,3 +269,21 @@ Year,Mediu de reședință,Sexul capului gospodăriei,"Grupe de vârstă capului
 2024,,,,V,,20.1
 2024,,,,,Cu copii până la 18 ani,7.9
 2024,,,,,Fără copii până la 18 ani,13.4
+2025,,,,,,10.7
+2025,Urban,,,,,13.4
+2025,Rural,,,,,8.4
+2025,,Bărbați,,,,9.5
+2025,,Femei,,,,13.1
+2025,,,<30,,,15.5
+2025,,,30-39,,,8.2
+2025,,,40-49,,,6.8
+2025,,,50-59,,,9.7
+2025,,,60-64,,,10.4
+2025,,,65+,,,17.7
+2025,,,,I,,5.0
+2025,,,,II,,6.5
+2025,,,,III,,10.4
+2025,,,,IV,,13.4
+2025,,,,V,,18.4
+2025,,,,,Cu copii până la 18 ani,8.7
+2025,,,,,Fără copii până la 18 ani,12.9

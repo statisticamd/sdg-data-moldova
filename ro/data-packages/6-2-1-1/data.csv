@@ -1,4 +1,4 @@
-Year,Mediu de reședință,Regiuni statistice,Quintile pe cheltuielile de consum,Sexul capului gospodăriei,Value
+Year,Mediu de reședință,Regiuni statistice,Quintile pe cheltuielile de consum,Sex of the reference person,Value
 2010,,,,,
 2010,Urban,,,,
 2010,Rural,,,,
@@ -209,3 +209,17 @@ Year,Mediu de reședință,Regiuni statistice,Quintile pe cheltuielile de consum
 2024,,,V,,93.1
 2024,,,,Bărbați,69.4
 2024,,,,Femei,68.7
+2025,,,,,70.1
+2025,Urban,,,,92.3
+2025,Rural,,,,50.7
+2025,,Municipiul Chișinău,,,95.3
+2025,,Nord,,,54.8
+2025,,Centru,,,62.7
+2025,,Sud,,,60.2
+2025,,,I,,43.0
+2025,,,II,,62.4
+2025,,,III,,72.4
+2025,,,IV,,80.0
+2025,,,V,,92.9
+2025,,,,Bărbați,71.0
+2025,,,,Femei,68.6

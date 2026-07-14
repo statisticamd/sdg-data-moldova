@@ -57,7 +57,7 @@
             "title": "Quintile pe cheltuielile de consum"
           },
           {
-            "name": "Sex of the head of the household",
+            "name": "Sex of the reference person",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,7 +66,7 @@
                 ""
               ]
             },
-            "title": "Sexul capului gospodăriei"
+            "title": "Sex of the reference person"
           },
           {
             "name": "Value",

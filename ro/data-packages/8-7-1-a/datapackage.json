@@ -16,7 +16,7 @@
             "title": "Anul"
           },
           {
-            "name": "SNA production boundary basis - Age group / Sex",
+            "name": "Children engaged in economic activity - Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,10 +35,10 @@
                 ""
               ]
             },
-            "title": "SNA production boundary basis - Age group / Sex"
+            "title": "Children engaged in economic activity - Age group / Sex"
           },
           {
-            "name": "SNA general production boundary basis - Age group / Sex",
+            "name": "Children engaged in economic activity and household chores - Age group / Sex ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -57,7 +57,7 @@
                 ""
               ]
             },
-            "title": "SNA general production boundary basis - Age group / Sex"
+            "title": "Children engaged in economic activity and household chores - Age group / Sex "
           },
           {
             "name": "Value",

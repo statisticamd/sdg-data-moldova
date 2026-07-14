@@ -37,7 +37,7 @@
             }
           },
           {
-            "name": "Age groups of head of household, years",
+            "name": "Age groups of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [

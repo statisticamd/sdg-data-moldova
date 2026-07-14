@@ -1,4 +1,4 @@
-Year,Sex,Age group,Persons with disabilities,Education levels,Value
+Year,Sex,Age group,Persons with disabilities,Education level,Value
 2010,,,,,
 2010,Men,,,,
 2010,Women,,,,
@@ -224,3 +224,18 @@ Year,Sex,Age group,Persons with disabilities,Education levels,Value
 2024,,,,"High school, upper secondary (general)",4.3
 2024,,,,Lower secondary (gymnasium),5.4
 2024,,,,Primary or no education,2.1
+2025,,,,,3.846
+2025,Men,,,,4.26
+2025,Women,,,,3.411
+2025,,15-24 years,,,7.421
+2025,,25-34 years,,,5.308
+2025,,35-44 years,,,3.455
+2025,,45-54 years,,,3.512
+2025,,55-64 years,,,2.691
+2025,,,Total,,4.238
+2025,,,,Higher,3.732
+2025,,,,Post-secondary non-tertiary (secondary professional),2.893
+2025,,,,Upper secondary vocational,3.662
+2025,,,,"High school, upper secondary (general)",4.26
+2025,,,,Lower secondary (gymnasium),4.528
+2025,,,,Primary or no education,6.446

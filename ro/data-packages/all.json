@@ -433,7 +433,7 @@
             "title": "Quintile pe cheltuielile de consum"
           },
           {
-            "name": "Sex of the head of the household",
+            "name": "Sex of the reference person",
             "type": "string",
             "constraints": {
               "enum": [
@@ -442,7 +442,7 @@
                 ""
               ]
             },
-            "title": "Sexul capului gospodăriei"
+            "title": "Sex of the reference person"
           },
           {
             "name": "Value",
@@ -3517,7 +3517,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Age groups of head of household, years",
+            "name": "Age groups of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3530,7 +3530,7 @@
                 ""
               ]
             },
-            "title": "Grupe de vârstă capului gospodăriei, ani"
+            "title": "Age groups of the reference person, years"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -4741,7 +4741,7 @@
             "title": "Quintile pe cheltuielile de consum"
           },
           {
-            "name": "Sex of the head of the household",
+            "name": "Sex of the reference person",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4750,7 +4750,7 @@
                 ""
               ]
             },
-            "title": "Sexul capului gospodăriei"
+            "title": "Sex of the reference person"
           },
           {
             "name": "Type of sewerage ",
@@ -5084,7 +5084,7 @@
             "title": "Anul"
           },
           {
-            "name": "SNA production boundary basis - Age group / Sex",
+            "name": "Children engaged in economic activity - Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5103,10 +5103,10 @@
                 ""
               ]
             },
-            "title": "SNA production boundary basis - Age group / Sex"
+            "title": "Children engaged in economic activity - Age group / Sex"
           },
           {
-            "name": "SNA general production boundary basis - Age group / Sex",
+            "name": "Children engaged in economic activity and household chores - Age group / Sex ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5125,7 +5125,7 @@
                 ""
               ]
             },
-            "title": "SNA general production boundary basis - Age group / Sex"
+            "title": "Children engaged in economic activity and household chores - Age group / Sex "
           },
           {
             "name": "Value",
@@ -5176,7 +5176,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Age groups of head of household, years",
+            "name": "Age group of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5189,7 +5189,7 @@
                 ""
               ]
             },
-            "title": "Grupe de vârstă capului gospodăriei, ani"
+            "title": "Age group of the reference person, years"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -6423,7 +6423,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Age groups of head of household, years",
+            "name": "Age group of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6436,7 +6436,7 @@
                 ""
               ]
             },
-            "title": "Grupe de vârstă capului gospodăriei, ani"
+            "title": "Age group of the reference person, years"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -7543,7 +7543,7 @@
             "title": "Quintile pe cheltuielile de consum"
           },
           {
-            "name": "Sex of the head of the household",
+            "name": "Sex of the reference person",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7552,7 +7552,7 @@
                 ""
               ]
             },
-            "title": "Sexul capului gospodăriei"
+            "title": "Sex of the reference person"
           },
           {
             "name": "Value",
@@ -9193,6 +9193,27 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Time series 2014-2024",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (2014-2024)",
+                "Urban (2014-2024)",
+                "Rural (2014-2024)",
+                " (2014-2024)",
+                "Women (2014-2024)",
+                "0-17 (2014-2024)",
+                "18-29 (2014-2024)",
+                "30-39 (2014-2024)",
+                "40-49 (2014-2024)",
+                "50-59 (2014-2024)",
+                "60+ (2014-2024)",
+                ""
+              ]
+            },
+            "title": "Time series 2014-2024"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -10743,7 +10764,7 @@
             "title": "Persoane cu dizabilități"
           },
           {
-            "name": "Education levels",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10756,7 +10777,7 @@
                 ""
               ]
             },
-            "title": "Nivele de educație"
+            "title": "Education level"
           },
           {
             "name": "Value",
@@ -11062,7 +11083,7 @@
             "title": "Anul"
           },
           {
-            "name": "SNA production boundary basis - Age group / Sex",
+            "name": "Children engaged in economic activity - Age group / Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11081,10 +11102,10 @@
                 ""
               ]
             },
-            "title": "SNA production boundary basis - Age group / Sex"
+            "title": "Children engaged in economic activity - Age group / Sex"
           },
           {
-            "name": "SNA general production boundary basis - Age group / Sex",
+            "name": "Children engaged in economic activity and household chores - Age group / Sex ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11103,7 +11124,7 @@
                 ""
               ]
             },
-            "title": "SNA general production boundary basis - Age group / Sex"
+            "title": "Children engaged in economic activity and household chores - Age group / Sex "
           },
           {
             "name": "Value",
@@ -12744,6 +12765,42 @@
       "title": "Ponderea personalului pedagogic cu studii în domeniul pedagogiei la nivelul primar"
     },
     {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Age group / Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 ani + / Bărbați",
+                "15 ani +  / Femei",
+                ""
+              ]
+            },
+            "title": "Grupa de vârstă / Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+    },
+    {
       "path": "16-5-2/data.csv",
       "name": "16-5-2",
       "profile": "tabular-data-resource",
@@ -13883,30 +13940,6 @@
         ]
       },
       "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
-    },
-    {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Anul"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
       "path": "10-7-2/data.csv",

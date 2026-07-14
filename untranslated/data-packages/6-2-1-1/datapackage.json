@@ -53,7 +53,7 @@
             }
           },
           {
-            "name": "Sex of the head of the household",
+            "name": "Sex of the reference person",
             "type": "string",
             "constraints": {
               "enum": [
