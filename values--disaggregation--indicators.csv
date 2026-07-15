@@ -1,13 +1,19 @@
 Value,Disaggregation combinations using this value,Number of indicators
 "Above-ground biomass reserves in forests, thousands c.m.",1,1
 "Annual net rate of change of forest area,%",1,1
+Fixed Internet per 100 households,1,1
+Fixed Internet per 100 inhabitants,1,1
 "Forest area included in the forest management certification system, independently verified, thousands ha",1,1
+"Men - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",1,1
+"Men - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",1,1
 Merchandise trade,1,1
+Mobile Internet per 100 inhabitants,1,1
 Number of dentists per 10 000 population,1,1
 Number of health workers per 10 000 population,1,1
 Number of nursing and midwifery personnel per 10 000 population,1,1
 Number of pharmacists per 10 000 population,1,1
 Physicians per 10 000 population,1,1
+Pregnant women,1,1
 "Proportion of forest area located in legally protected areas,%",1,1
 "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",1,1
 Ratio of net non-performing loans less of provisions to own funds,1,1
@@ -18,3 +24,7 @@ Return on assets,1,1
 Services,1,1
 Share of non-performing loans in total loans granted,1,1
 The ratio of liquid assets to short-term liabilities,1,1
+"Total - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",1,1
+"Total - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",1,1
+"Women - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",1,1
+"Women - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",1,1

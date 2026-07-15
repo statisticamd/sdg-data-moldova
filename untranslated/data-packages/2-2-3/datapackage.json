@@ -40,6 +40,16 @@
             }
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pregnant women",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

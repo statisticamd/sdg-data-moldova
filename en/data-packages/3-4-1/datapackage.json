@@ -16,16 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Total - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",
+                "Men - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",
+                "Women - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",
+                "Total - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",
+                "Men - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",
+                "Women - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Indicators"
           },
           {
             "name": "Value",

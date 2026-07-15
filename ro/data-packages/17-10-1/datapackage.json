@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Produse agricole",
-                "Produse non-agricole",
+                "Produse neagricole",
                 ""
               ]
             },

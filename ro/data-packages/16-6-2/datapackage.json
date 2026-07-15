@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "La sediul instituției",
-                "Electronic",
                 ""
               ]
             },

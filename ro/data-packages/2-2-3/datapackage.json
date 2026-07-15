@@ -43,6 +43,17 @@
             "title": "Regiuni"
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Femei însărcinate",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

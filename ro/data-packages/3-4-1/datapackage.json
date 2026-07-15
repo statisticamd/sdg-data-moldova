@@ -16,16 +16,20 @@
             "title": "Anul"
           },
           {
-            "name": "Sex",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+                "Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+                "Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+                "Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+                "Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+                "Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Indicatori"
           },
           {
             "name": "Value",

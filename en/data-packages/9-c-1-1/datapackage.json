@@ -16,37 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Mobile Internet per 100 inhabitants",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "114.6",
+                "Mobile Internet per 100 inhabitants",
+                "Fixed Internet per 100 inhabitants",
+                "Fixed Internet per 100 households",
                 ""
               ]
             },
-            "title": "Mobile Internet per 100 inhabitants"
-          },
-          {
-            "name": "Fixed Internet per 100 inhabitants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40.4",
-                ""
-              ]
-            },
-            "title": "Fixed Internet per 100 inhabitants"
-          },
-          {
-            "name": "Fixed Internet per 100 households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "83.6",
-                ""
-              ]
-            },
-            "title": "Fixed Internet per 100 households"
+            "title": "Indicators"
           },
           {
             "name": "Value",

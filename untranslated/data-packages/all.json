@@ -17,69 +17,6 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secondary",
-                "Professional",
-                "Higher",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovan/Romanian",
-                "Russian",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Gagauz",
-                "Other ethnicity",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -1738,31 +1675,13 @@
             "type": "integer"
           },
           {
-            "name": "Mobile Internet per 100 inhabitants",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "114.6",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Fixed Internet per 100 inhabitants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40.4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Fixed Internet per 100 households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "83.6",
+                "Mobile Internet per 100 inhabitants",
+                "Fixed Internet per 100 inhabitants",
+                "Fixed Internet per 100 households",
                 ""
               ]
             }
@@ -2312,7 +2231,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Sex",
@@ -4465,7 +4384,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Sex",
@@ -4523,18 +4442,36 @@
                 "Surrogate",
                 "Engaging in criminal activities",
                 "Sampling of human organs, tissues or cells",
-                "Urban ",
-                "Rural ",
-                "Locuitor al altui stat",
-                "Persoană fără loc de trai permanent",
-                "Superioare",
-                "Superioare incomplete",
-                "Medii speciale",
-                "Medii ",
-                "Medii incomplete",
-                "Primare",
-                "Alte",
-                "Analfabet",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Areas of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Resident of another country",
+                "Person with no permanent place of residence",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher education",
+                "Incomplete higher education",
+                "Specialized secondary education",
+                "Secondary education",
+                "Incomplete secondary education",
+                "Primary education",
+                "Other",
+                "Illiterate",
                 ""
               ]
             }
@@ -4948,7 +4885,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Value",
@@ -5205,69 +5142,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secondary",
-                "Professional",
-                "Higher",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovan/Romanian",
-                "Russian",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Gagauz",
-                "Other ethnicity",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -7065,12 +6939,16 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Total - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",
+                "Men - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",
+                "Women - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %",
+                "Total - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",
+                "Men - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",
+                "Women - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants",
                 ""
               ]
             }
@@ -7690,69 +7568,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secondary",
-                "Professional",
-                "Higher",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovan/Romanian",
-                "Russian",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Gagauz",
-                "Other ethnicity",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -9382,7 +9197,6 @@
             "constraints": {
               "enum": [
                 "At the headquarters of the institution",
-                "Electronic",
                 ""
               ]
             }
@@ -11628,6 +11442,16 @@
                 "South",
                 "Mun. Chisinau",
                 "ATU Gagauzia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pregnant women",
                 ""
               ]
             }

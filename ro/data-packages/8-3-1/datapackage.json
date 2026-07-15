@@ -46,12 +46,12 @@
             "constraints": {
               "enum": [
                 "Total non-agricultural sector",
-                "Bărbați - sectorul non-agricol",
-                "Femei - sectorul non-agricol",
+                "Bărbați - sectorul neagricol",
+                "Femei - sectorul neagricol",
                 ""
               ]
             },
-            "title": "Sectorul non-agricol"
+            "title": "Sectorul neagricol"
           },
           {
             "name": "Value",

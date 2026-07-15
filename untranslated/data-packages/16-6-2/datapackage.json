@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "At the headquarters of the institution",
-                "Electronic",
                 ""
               ]
             }

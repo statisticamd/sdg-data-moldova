@@ -18,74 +18,6 @@
             "title": "Anul"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediu de reședință"
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            },
-            "title": "Quintiles"
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secundare",
-                "Profesional",
-                "Superior",
-                ""
-              ]
-            },
-            "title": "Nivelul de educație al mamei"
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovean/Român",
-                "Rus",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Găgăuz",
-                "Altă etnie",
-                ""
-              ]
-            },
-            "title": "Etnia mamei"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -442,7 +374,7 @@
                 ""
               ]
             },
-            "title": "Sex of the reference person"
+            "title": "Sexul persoanei de referința"
           },
           {
             "name": "Value",
@@ -1877,7 +1809,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1886,37 +1818,17 @@
             "title": "Anul"
           },
           {
-            "name": "Mobile Internet per 100 inhabitants",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "114.6",
+                "Internet mobil la 100 de locuitori",
+                "Internet fix la 100 de locuitori",
+                "Internet fix la 100 gospodării",
                 ""
               ]
             },
-            "title": "Internet mobil la 100 de locuitori"
-          },
-          {
-            "name": "Fixed Internet per 100 inhabitants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40.4",
-                ""
-              ]
-            },
-            "title": "Internet fix la 100 de locuitori"
-          },
-          {
-            "name": "Fixed Internet per 100 households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "83.6",
-                ""
-              ]
-            },
-            "title": "Internet fix la 100 gospodării"
+            "title": "Indicatori"
           },
           {
             "name": "Value",
@@ -2507,7 +2419,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
           },
           {
@@ -4750,7 +4662,7 @@
                 ""
               ]
             },
-            "title": "Sex of the reference person"
+            "title": "Sexul persoanei de referința"
           },
           {
             "name": "Type of sewerage ",
@@ -4833,7 +4745,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
           },
           {
@@ -4895,22 +4807,42 @@
                 "Mamă-surogat",
                 "Antrenarea în activități criminale",
                 "Prelevare de organe, țesuturi sau celule umane",
-                "Urban ",
-                "Rural ",
-                "Locuitor al altui stat",
-                "Persoană fără loc de trai permanent",
-                "Superioare",
-                "Superioare incomplete",
-                "Medii speciale",
-                "Medii ",
-                "Medii incomplete",
-                "Primare",
-                "Alte",
-                "Analfabet",
                 ""
               ]
             },
             "title": "Forme de exploatare"
+          },
+          {
+            "name": "Areas of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Resident of another country",
+                "Person with no permanent place of residence",
+                ""
+              ]
+            },
+            "title": "Areas of residence"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher education",
+                "Incomplete higher education",
+                "Specialized secondary education",
+                "Secondary education",
+                "Incomplete secondary education",
+                "Primary education",
+                "Alte",
+                "Illiterate",
+                ""
+              ]
+            },
+            "title": "Nivel de studii"
           },
           {
             "name": "Value",
@@ -5103,7 +5035,7 @@
                 ""
               ]
             },
-            "title": "Children engaged in economic activity - Age group / Sex"
+            "title": "Copii implicați în activități economice - Grupa de vârstă / Sexul"
           },
           {
             "name": "Children engaged in economic activity and household chores - Age group / Sex ",
@@ -5189,7 +5121,7 @@
                 ""
               ]
             },
-            "title": "Age group of the reference person, years"
+            "title": "Grupa de vârstă a persoanei de referința, ani"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -5354,7 +5286,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Anul"
           },
           {
@@ -5637,74 +5569,6 @@
             "title": "Anul"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediu de reședință"
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            },
-            "title": "Quintiles"
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secundare",
-                "Profesional",
-                "Superior",
-                ""
-              ]
-            },
-            "title": "Nivelul de educație al mamei"
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovean/Român",
-                "Rus",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Găgăuz",
-                "Altă etnie",
-                ""
-              ]
-            },
-            "title": "Etnia mamei"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5867,12 +5731,12 @@
             "constraints": {
               "enum": [
                 "Total non-agricultural sector",
-                "Bărbați - sectorul non-agricol",
-                "Femei - sectorul non-agricol",
+                "Bărbați - sectorul neagricol",
+                "Femei - sectorul neagricol",
                 ""
               ]
             },
-            "title": "Sectorul non-agricol"
+            "title": "Sectorul neagricol"
           },
           {
             "name": "Value",
@@ -6436,7 +6300,7 @@
                 ""
               ]
             },
-            "title": "Age group of the reference person, years"
+            "title": "Grupa de vârstă a persoanei de referința, ani"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -7552,7 +7416,7 @@
                 ""
               ]
             },
-            "title": "Sex of the reference person"
+            "title": "Sexul persoanei de referința"
           },
           {
             "name": "Value",
@@ -7656,16 +7520,20 @@
             "title": "Anul"
           },
           {
-            "name": "Sex",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bărbați",
-                "Femei",
+                "Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+                "Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+                "Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+                "Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+                "Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+                "Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Indicatori"
           },
           {
             "name": "Value",
@@ -8333,74 +8201,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Anul"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Mediu de reședință"
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            },
-            "title": "Quintiles"
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secundare",
-                "Profesional",
-                "Superior",
-                ""
-              ]
-            },
-            "title": "Nivelul de educație al mamei"
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovean/Român",
-                "Rus",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Găgăuz",
-                "Altă etnie",
-                ""
-              ]
-            },
-            "title": "Etnia mamei"
           },
           {
             "name": "Value",
@@ -10166,7 +9966,6 @@
             "constraints": {
               "enum": [
                 "La sediul instituției",
-                "Electronic",
                 ""
               ]
             },
@@ -10777,7 +10576,7 @@
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Nivel de instruire"
           },
           {
             "name": "Value",
@@ -11102,7 +10901,7 @@
                 ""
               ]
             },
-            "title": "Children engaged in economic activity - Age group / Sex"
+            "title": "Copii implicați în activități economice - Grupa de vârstă / Sexul"
           },
           {
             "name": "Children engaged in economic activity and household chores - Age group / Sex ",
@@ -11417,7 +11216,7 @@
             "constraints": {
               "enum": [
                 "Produse agricole",
-                "Produse non-agricole",
+                "Produse neagricole",
                 ""
               ]
             },
@@ -12608,6 +12407,17 @@
             "title": "Regiuni"
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Femei însărcinate",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -13300,7 +13110,7 @@
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Nivel de instruire"
           },
           {
             "name": "Employment status",

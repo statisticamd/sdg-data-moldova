@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Anul"
           },
           {
@@ -74,22 +74,42 @@
                 "Mamă-surogat",
                 "Antrenarea în activități criminale",
                 "Prelevare de organe, țesuturi sau celule umane",
-                "Urban ",
-                "Rural ",
-                "Locuitor al altui stat",
-                "Persoană fără loc de trai permanent",
-                "Superioare",
-                "Superioare incomplete",
-                "Medii speciale",
-                "Medii ",
-                "Medii incomplete",
-                "Primare",
-                "Alte",
-                "Analfabet",
                 ""
               ]
             },
             "title": "Forme de exploatare"
+          },
+          {
+            "name": "Areas of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Resident of another country",
+                "Person with no permanent place of residence",
+                ""
+              ]
+            },
+            "title": "Areas of residence"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher education",
+                "Incomplete higher education",
+                "Specialized secondary education",
+                "Secondary education",
+                "Incomplete secondary education",
+                "Primary education",
+                "Alte",
+                "Illiterate",
+                ""
+              ]
+            },
+            "title": "Nivel de studii"
           },
           {
             "name": "Value",

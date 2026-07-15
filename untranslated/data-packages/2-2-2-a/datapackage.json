@@ -15,69 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Area of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Secondary",
-                "Professional",
-                "Higher",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Mother's ethnicity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Moldovan/Romanian",
-                "Russian",
-                "Ukrainian",
-                "Roma (Gypsy)",
-                "Gagauz",
-                "Other ethnicity",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

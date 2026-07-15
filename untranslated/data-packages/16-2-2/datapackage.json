@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Sex",
@@ -70,18 +70,36 @@
                 "Surrogate",
                 "Engaging in criminal activities",
                 "Sampling of human organs, tissues or cells",
-                "Urban ",
-                "Rural ",
-                "Locuitor al altui stat",
-                "Persoană fără loc de trai permanent",
-                "Superioare",
-                "Superioare incomplete",
-                "Medii speciale",
-                "Medii ",
-                "Medii incomplete",
-                "Primare",
-                "Alte",
-                "Analfabet",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Areas of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Resident of another country",
+                "Person with no permanent place of residence",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Higher education",
+                "Incomplete higher education",
+                "Specialized secondary education",
+                "Secondary education",
+                "Incomplete secondary education",
+                "Primary education",
+                "Other",
+                "Illiterate",
                 ""
               ]
             }

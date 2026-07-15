@@ -1,46 +1,113 @@
-Year,Sex,Value
+Year,Indicatori,Value
 2010,,
-2010,Bărbați,
-2010,Femei,
+2010,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2010,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2010,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2010,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2010,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2010,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
 2011,,
-2011,Bărbați,
-2011,Femei,
+2011,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2011,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2011,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2011,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2011,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2011,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
 2012,,
-2012,Bărbați,
-2012,Femei,
+2012,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2012,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2012,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2012,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2012,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2012,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
 2013,,
-2013,Bărbați,
-2013,Femei,
-2014,,961.5
-2014,Bărbați,1275.1
-2014,Femei,676.9
-2015,,1017.8
-2015,Bărbați,1346.9
-2015,Femei,716.6
-2016,,1001.1
-2016,Bărbați,1328.8
-2016,Femei,703.1
-2017,,931.8
-2017,Bărbați,1263.6
-2017,Femei,631.9
-2018,,977.6
-2018,Bărbați,1324.2
-2018,Femei,665.6
-2019,,975.1
-2019,Bărbați,1318.4
-2019,Femei,665.5
-2020,,970.2
-2020,Bărbați,1314.0
-2020,Femei,659.7
-2021,,1038.6
-2021,Bărbați,1411.9
-2021,Femei,702.7
-2022,,883.4
-2022,Bărbați,1246.8
-2022,Femei,560.1
-2023,,882.1
-2023,Bărbați,1264.1
-2023,Femei,548.0
-2024,,872.0
-2024,Bărbați,1256.0
-2024,Femei,539.9
+2013,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2013,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2013,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2013,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2013,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2013,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",
+2014,,
+2014,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2014,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2014,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2014,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",961.5
+2014,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1275.1
+2014,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",676.9
+2015,,
+2015,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2015,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2015,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2015,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1017.8
+2015,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1346.9
+2015,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",716.6
+2016,,
+2016,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2016,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2016,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2016,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1001.1
+2016,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1328.8
+2016,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",703.1
+2017,,
+2017,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2017,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2017,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2017,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",931.8
+2017,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1263.6
+2017,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",631.9
+2018,,
+2018,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2018,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2018,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2018,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",977.6
+2018,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1324.2
+2018,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",665.6
+2019,,
+2019,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2019,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2019,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2019,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",975.1
+2019,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1318.4
+2019,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",665.5
+2020,,
+2020,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",33.16
+2020,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",43.34
+2020,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",22.18
+2020,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",970.2
+2020,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1314.0
+2020,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",659.7
+2021,,
+2021,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",36.03
+2021,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",46.17
+2021,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",26.11
+2021,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1038.6
+2021,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1411.9
+2021,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",702.7
+2022,,
+2022,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",28.79
+2022,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",39.28
+2022,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",18.72
+2022,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",883.4
+2022,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1246.8
+2022,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",560.1
+2023,,
+2023,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",26.09
+2023,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",36.08
+2023,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",16.42
+2023,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",882.1
+2023,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1264.1
+2023,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",548.0
+2024,,
+2024,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",
+2024,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",33.14
+2024,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",14.31
+2024,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",872.0
+2024,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",1256.0
+2024,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",539.9
+2025,,
+2025,"Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",22.3
+2025,"Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",27.47
+2025,"Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %",17.53
+2025,"Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",658.0
+2025,"Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",945.4
+2025,"Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori",402.9

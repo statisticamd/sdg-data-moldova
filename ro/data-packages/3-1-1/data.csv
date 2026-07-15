@@ -2,12 +2,12 @@ Year,Mediu de reședință,Raioane,Value
 2010,,,44.5
 2010,Urban,,52.8
 2010,Rural,,39.5
-2010,,Mun. Chișinău,50.2
+2010,,Mun. Chișinău,5.2
 2010,,Nord,73.5
 2010,,mun. Bălți,
 2010,,Briceni,
 2010,,Dondușeni,
-2010,,Drochia,110.6
+2010,,Drochia,11.6
 2010,,Edineț,225.2
 2010,,Fălești,91.1
 2010,,Florești,
@@ -15,9 +15,9 @@ Year,Mediu de reședință,Raioane,Value
 2010,,Ocnița,
 2010,,Râșcani,
 2010,,Sângerei,176.5
-2010,,Soroca,190.3
+2010,,Soroca,19.3
 2010,,Centru,22.7
-2010,,Anenii Noi,101.2
+2010,,Anenii Noi,11.2
 2010,,Călărași,
 2010,,Criuleni,
 2010,,Dubăsari,
@@ -37,12 +37,12 @@ Year,Mediu de reședință,Raioane,Value
 2010,,Căușeni,
 2010,,Cimișlia,
 2010,,Leova,
-2010,,Ștefan Vodă,120.2
+2010,,Ștefan Vodă,12.2
 2010,,Taraclia,
 2010,,UTA Găgăuzia,49.0
 2011,,,15.3
 2011,Urban,,6.8
-2011,Rural,,20.3
+2011,Rural,,2.3
 2011,,Mun. Chișinău,
 2011,,Nord,38.4
 2011,,mun. Bălți,
@@ -81,9 +81,9 @@ Year,Mediu de reședință,Raioane,Value
 2011,,Ștefan Vodă,
 2011,,Taraclia,
 2011,,UTA Găgăuzia,
-2012,,,30.4
+2012,,,3.4
 2012,Urban,,13.4
-2012,Rural,,40.7
+2012,Rural,,4.7
 2012,,Mun. Chișinău,12.8
 2012,,Nord,37.9
 2012,,mun. Bălți,
@@ -101,7 +101,7 @@ Year,Mediu de reședință,Raioane,Value
 2012,,Centru,31.2
 2012,,Anenii Noi,
 2012,,Călărași,
-2012,,Criuleni,105.3
+2012,,Criuleni,15.3
 2012,,Dubăsari,
 2012,,Hâncești,73.6
 2012,,Ialoveni,
@@ -124,7 +124,7 @@ Year,Mediu de reședință,Raioane,Value
 2012,,UTA Găgăuzia,96.9
 2013,,,15.8
 2013,Urban,,7.1
-2013,Rural,,20.9
+2013,Rural,,2.9
 2013,,Mun. Chișinău,
 2013,,Nord,19.7
 2013,,mun. Bălți,
@@ -138,7 +138,7 @@ Year,Mediu de reședință,Raioane,Value
 2013,,Ocnița,
 2013,,Râșcani,
 2013,,Sângerei,86.5
-2013,,Soroca,106.2
+2013,,Soroca,16.2
 2013,,Centru,16.0
 2013,,Anenii Noi,
 2013,,Călărași,
@@ -160,7 +160,7 @@ Year,Mediu de reședință,Raioane,Value
 2013,,Căușeni,
 2013,,Cimișlia,175.1
 2013,,Leova,
-2013,,Ștefan Vodă,120.6
+2013,,Ștefan Vodă,12.6
 2013,,Taraclia,
 2013,,UTA Găgăuzia,
 2014,,,14.7
@@ -192,7 +192,7 @@ Year,Mediu de reședință,Raioane,Value
 2014,,Rezina,
 2014,,Strășeni,
 2014,,Șoldănești,
-2014,,Telenești,107.1
+2014,,Telenești,17.1
 2014,,Ungheni,63.9
 2014,,Sud,
 2014,,Basarabeasca,
@@ -212,7 +212,7 @@ Year,Mediu de reședință,Raioane,Value
 2015,,mun. Bălți,
 2015,,Briceni,
 2015,,Dondușeni,227.8
-2015,,Drochia,104.5
+2015,,Drochia,14.5
 2015,,Edineț,
 2015,,Fălești,
 2015,,Florești,96.4
@@ -246,7 +246,7 @@ Year,Mediu de reședință,Raioane,Value
 2015,,Taraclia,
 2015,,UTA Găgăuzia,
 2016,,,17.7
-2016,Urban,,40.1
+2016,Urban,,4.1
 2016,Rural,,4.1
 2016,,Mun. Chișinău,47.3
 2016,,Nord,
@@ -290,7 +290,7 @@ Year,Mediu de reședință,Raioane,Value
 2017,Urban,,7.2
 2017,Rural,,22.2
 2017,,Mun. Chișinău,
-2017,,Nord,20.7
+2017,,Nord,2.7
 2017,,mun. Bălți,78.7
 2017,,Briceni,156.7
 2017,,Dondușeni,
@@ -305,11 +305,11 @@ Year,Mediu de reședință,Raioane,Value
 2017,,Soroca,
 2017,,Centru,16.7
 2017,,Anenii Noi,
-2017,,Călărași,120.5
+2017,,Călărași,12.5
 2017,,Criuleni,
 2017,,Dubăsari,
 2017,,Hâncești,
-2017,,Ialoveni,80.3
+2017,,Ialoveni,8.3
 2017,,Nisporeni,
 2017,,Orhei,
 2017,,Rezina,
@@ -358,7 +358,7 @@ Year,Mediu de reședință,Raioane,Value
 2018,,Șoldănești,
 2018,,Telenești,
 2018,,Ungheni,
-2018,,Sud,20.2
+2018,,Sud,2.2
 2018,,Basarabeasca,
 2018,,Cahul,
 2018,,Cantemir,
@@ -411,7 +411,7 @@ Year,Mediu de reședință,Raioane,Value
 2019,,UTA Găgăuzia,
 2020,,,16.2
 2020,Urban,,24.6
-2020,Rural,,10.7
+2020,Rural,,1.7
 2020,,Mun. Chișinău,13.7
 2020,,Nord,12.7
 2020,,mun. Bălți,
@@ -426,7 +426,7 @@ Year,Mediu de reședință,Raioane,Value
 2020,,Râșcani,
 2020,,Sângerei,
 2020,,Soroca,
-2020,,Centru,20.4
+2020,,Centru,2.4
 2020,,Anenii Noi,
 2020,,Călărași,
 2020,,Criuleni,134.6
@@ -442,7 +442,7 @@ Year,Mediu de reședință,Raioane,Value
 2020,,Ungheni,
 2020,,Sud,23.1
 2020,,Basarabeasca,
-2020,,Cahul,104.9
+2020,,Cahul,14.9
 2020,,Cantemir,
 2020,,Căușeni,
 2020,,Cimișlia,
@@ -450,40 +450,40 @@ Year,Mediu de reședință,Raioane,Value
 2020,,Ștefan Vodă,
 2020,,Taraclia,
 2020,,UTA Găgăuzia,
-2021,,,47.749
-2021,Urban,,50.463
-2021,Rural,,45.898
-2021,,Mun. Chișinău,28.401
-2021,,Nord,65.703
-2021,,mun. Bălți,180.668
+2021,,,47.7
+2021,Urban,,5.5
+2021,Rural,,45.9
+2021,,Mun. Chișinău,28.4
+2021,,Nord,65.7
+2021,,mun. Bălți,18.7
 2021,,Briceni,
 2021,,Dondușeni,
 2021,,Drochia,
-2021,,Edineț,167.504
+2021,,Edineț,167.5
 2021,,Fălești,
-2021,,Florești,144.092
+2021,,Florești,144.1
 2021,,Glodeni,
 2021,,Ocnița,
 2021,,Râșcani,
 2021,,Sângerei,
-2021,,Soroca,135.501
-2021,,Centru,65.725
-2021,,Anenii Noi,137.741
-2021,,Călărași,163.666
-2021,,Criuleni,144.092
+2021,,Soroca,135.5
+2021,,Centru,65.7
+2021,,Anenii Noi,137.7
+2021,,Călărași,163.7
+2021,,Criuleni,144.1
 2021,,Dubăsari,
 2021,,Hâncești,
-2021,,Ialoveni,104.603
+2021,,Ialoveni,14.6
 2021,,Nisporeni,
 2021,,Orhei,
-2021,,Rezina,234.192
+2021,,Rezina,234.2
 2021,,Strășeni,
 2021,,Șoldănești,
 2021,,Telenești,
-2021,,Ungheni,94.162
-2021,,Sud,24.468
+2021,,Ungheni,94.2
+2021,,Sud,24.5
 2021,,Basarabeasca,
-2021,,Cahul,111.982
+2021,,Cahul,112.0
 2021,,Cantemir,
 2021,,Căușeni,
 2021,,Cimișlia,
@@ -495,12 +495,12 @@ Year,Mediu de reședință,Raioane,Value
 2022,Urban,,53.7
 2022,Rural,,63.1
 2022,,Mun. Chișinău,44.0
-2022,,Nord,28.798
+2022,,Nord,28.8
 2022,,mun. Bălți,
 2022,,Briceni,
-2022,,Dondușeni,341.297
+2022,,Dondușeni,341.3
 2022,,Drochia,
-2022,,Edineț,186.22
+2022,,Edineț,186.2
 2022,,Fălești,
 2022,,Florești,
 2022,,Glodeni,
@@ -509,9 +509,9 @@ Year,Mediu de reședință,Raioane,Value
 2022,,Sângerei,
 2022,,Soroca,
 2022,,Centru,59.4
-2022,,Anenii Noi,328.407
+2022,,Anenii Noi,328.4
 2022,,Călărași,
-2022,,Criuleni,155.28
+2022,,Criuleni,155.3
 2022,,Dubăsari,
 2022,,Hâncești,
 2022,,Ialoveni,
@@ -521,22 +521,22 @@ Year,Mediu de reședință,Raioane,Value
 2022,,Strășeni,
 2022,,Șoldănești,
 2022,,Telenești,
-2022,,Ungheni,96.618
-2022,,Sud,164.114
+2022,,Ungheni,96.6
+2022,,Sud,164.1
 2022,,Basarabeasca,
-2022,,Cahul,122.249
-2022,,Cantemir,497.512
+2022,,Cahul,122.2
+2022,,Cantemir,497.5
 2022,,Căușeni,
-2022,,Cimișlia,265.957
-2022,,Leova,251.256
-2022,,Ștefan Vodă,165.017
+2022,,Cimișlia,266.0
+2022,,Leova,251.3
+2022,,Ștefan Vodă,165.0
 2022,,Taraclia,
 2022,,UTA Găgăuzia,
 2023,,,16.6
-2023,Urban,,20.2
+2023,Urban,,2.1
 2023,Rural,,14.1
-2023,,Mun. Chișinău,16.6
-2023,,Nord,33.0
+2023,,Mun. Chișinău,16.5
+2023,,Nord,
 2023,,mun. Bălți,
 2023,,Briceni,
 2023,,Dondușeni,
@@ -547,15 +547,15 @@ Year,Mediu de reședință,Raioane,Value
 2023,,Glodeni,
 2023,,Ocnița,
 2023,,Râșcani,
-2023,,Sângerei,151.7
+2023,,Sângerei,151.3
 2023,,Soroca,179.9
-2023,,Centru,13.3
+2023,,Centru,
 2023,,Anenii Noi,
 2023,,Călărași,
 2023,,Criuleni,
 2023,,Dubăsari,
 2023,,Hâncești,
-2023,,Ialoveni,136.4
+2023,,Ialoveni,135.7
 2023,,Nisporeni,
 2023,,Orhei,
 2023,,Rezina,
@@ -603,7 +603,7 @@ Year,Mediu de reședință,Raioane,Value
 2024,,Strășeni,
 2024,,Șoldănești,
 2024,,Telenești,
-2024,,Ungheni,109.4
+2024,,Ungheni,19.4
 2024,,Sud,
 2024,,Basarabeasca,
 2024,,Cahul,
@@ -614,3 +614,44 @@ Year,Mediu de reședință,Raioane,Value
 2024,,Ștefan Vodă,
 2024,,Taraclia,
 2024,,UTA Găgăuzia,
+2025,,,13.5
+2025,Urban,,
+2025,Rural,,
+2025,,Mun. Chișinău,
+2025,,Nord,
+2025,,mun. Bălți,
+2025,,Briceni,
+2025,,Dondușeni,
+2025,,Drochia,27.9
+2025,,Edineț,226.2
+2025,,Fălești,
+2025,,Florești,
+2025,,Glodeni,
+2025,,Ocnița,
+2025,,Râșcani,
+2025,,Sângerei,
+2025,,Soroca,177.0
+2025,,Centru,
+2025,,Anenii Noi,
+2025,,Călărași,
+2025,,Criuleni,
+2025,,Dubăsari,
+2025,,Hâncești,
+2025,,Ialoveni,
+2025,,Nisporeni,
+2025,,Orhei,
+2025,,Rezina,
+2025,,Strășeni,
+2025,,Șoldănești,
+2025,,Telenești,
+2025,,Ungheni,
+2025,,Sud,
+2025,,Basarabeasca,
+2025,,Cahul,
+2025,,Cantemir,
+2025,,Căușeni,
+2025,,Cimișlia,
+2025,,Leova,
+2025,,Ștefan Vodă,
+2025,,Taraclia,
+2025,,UTA Găgăuzia,

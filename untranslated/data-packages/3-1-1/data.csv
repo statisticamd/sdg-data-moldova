@@ -2,12 +2,12 @@ Year,Area of residence,Districts,Value
 2010,,,44.5
 2010,Urban,,52.8
 2010,Rural,,39.5
-2010,,Mun. Chisinau,50.2
+2010,,Mun. Chisinau,5.2
 2010,,North,73.5
 2010,,mun. Balti,
 2010,,Briceni,
 2010,,Donduseni,
-2010,,Drochia,110.6
+2010,,Drochia,11.6
 2010,,Edinet,225.2
 2010,,Falesti,91.1
 2010,,Floresti,
@@ -15,9 +15,9 @@ Year,Area of residence,Districts,Value
 2010,,Ocnita,
 2010,,Rascani,
 2010,,Sangerei,176.5
-2010,,Soroca,190.3
+2010,,Soroca,19.3
 2010,,Centre,22.7
-2010,,Anenii Noi,101.2
+2010,,Anenii Noi,11.2
 2010,,Calarasi,
 2010,,Criuleni,
 2010,,Dubasari,
@@ -37,12 +37,12 @@ Year,Area of residence,Districts,Value
 2010,,Causeni,
 2010,,Cimislia,
 2010,,Leova,
-2010,,Stefan Voda,120.2
+2010,,Stefan Voda,12.2
 2010,,Taraclia,
 2010,,TAU Gagauzia,49.0
 2011,,,15.3
 2011,Urban,,6.8
-2011,Rural,,20.3
+2011,Rural,,2.3
 2011,,Mun. Chisinau,
 2011,,North,38.4
 2011,,mun. Balti,
@@ -81,9 +81,9 @@ Year,Area of residence,Districts,Value
 2011,,Stefan Voda,
 2011,,Taraclia,
 2011,,TAU Gagauzia,
-2012,,,30.4
+2012,,,3.4
 2012,Urban,,13.4
-2012,Rural,,40.7
+2012,Rural,,4.7
 2012,,Mun. Chisinau,12.8
 2012,,North,37.9
 2012,,mun. Balti,
@@ -101,7 +101,7 @@ Year,Area of residence,Districts,Value
 2012,,Centre,31.2
 2012,,Anenii Noi,
 2012,,Calarasi,
-2012,,Criuleni,105.3
+2012,,Criuleni,15.3
 2012,,Dubasari,
 2012,,Hancesti,73.6
 2012,,Ialoveni,
@@ -124,7 +124,7 @@ Year,Area of residence,Districts,Value
 2012,,TAU Gagauzia,96.9
 2013,,,15.8
 2013,Urban,,7.1
-2013,Rural,,20.9
+2013,Rural,,2.9
 2013,,Mun. Chisinau,
 2013,,North,19.7
 2013,,mun. Balti,
@@ -138,7 +138,7 @@ Year,Area of residence,Districts,Value
 2013,,Ocnita,
 2013,,Rascani,
 2013,,Sangerei,86.5
-2013,,Soroca,106.2
+2013,,Soroca,16.2
 2013,,Centre,16.0
 2013,,Anenii Noi,
 2013,,Calarasi,
@@ -160,7 +160,7 @@ Year,Area of residence,Districts,Value
 2013,,Causeni,
 2013,,Cimislia,175.1
 2013,,Leova,
-2013,,Stefan Voda,120.6
+2013,,Stefan Voda,12.6
 2013,,Taraclia,
 2013,,TAU Gagauzia,
 2014,,,14.7
@@ -192,7 +192,7 @@ Year,Area of residence,Districts,Value
 2014,,Rezina,
 2014,,Straseni,
 2014,,Soldanesti,
-2014,,Telenesti,107.1
+2014,,Telenesti,17.1
 2014,,Ungheni,63.9
 2014,,South,
 2014,,Basarabeasca,
@@ -212,7 +212,7 @@ Year,Area of residence,Districts,Value
 2015,,mun. Balti,
 2015,,Briceni,
 2015,,Donduseni,227.8
-2015,,Drochia,104.5
+2015,,Drochia,14.5
 2015,,Edinet,
 2015,,Falesti,
 2015,,Floresti,96.4
@@ -246,7 +246,7 @@ Year,Area of residence,Districts,Value
 2015,,Taraclia,
 2015,,TAU Gagauzia,
 2016,,,17.7
-2016,Urban,,40.1
+2016,Urban,,4.1
 2016,Rural,,4.1
 2016,,Mun. Chisinau,47.3
 2016,,North,
@@ -290,7 +290,7 @@ Year,Area of residence,Districts,Value
 2017,Urban,,7.2
 2017,Rural,,22.2
 2017,,Mun. Chisinau,
-2017,,North,20.7
+2017,,North,2.7
 2017,,mun. Balti,78.7
 2017,,Briceni,156.7
 2017,,Donduseni,
@@ -305,11 +305,11 @@ Year,Area of residence,Districts,Value
 2017,,Soroca,
 2017,,Centre,16.7
 2017,,Anenii Noi,
-2017,,Calarasi,120.5
+2017,,Calarasi,12.5
 2017,,Criuleni,
 2017,,Dubasari,
 2017,,Hancesti,
-2017,,Ialoveni,80.3
+2017,,Ialoveni,8.3
 2017,,Nisporeni,
 2017,,Orhei,
 2017,,Rezina,
@@ -358,7 +358,7 @@ Year,Area of residence,Districts,Value
 2018,,Soldanesti,
 2018,,Telenesti,
 2018,,Ungheni,
-2018,,South,20.2
+2018,,South,2.2
 2018,,Basarabeasca,
 2018,,Cahul,
 2018,,Cantemir,
@@ -411,7 +411,7 @@ Year,Area of residence,Districts,Value
 2019,,TAU Gagauzia,
 2020,,,16.2
 2020,Urban,,24.6
-2020,Rural,,10.7
+2020,Rural,,1.7
 2020,,Mun. Chisinau,13.7
 2020,,North,12.7
 2020,,mun. Balti,
@@ -426,7 +426,7 @@ Year,Area of residence,Districts,Value
 2020,,Rascani,
 2020,,Sangerei,
 2020,,Soroca,
-2020,,Centre,20.4
+2020,,Centre,2.4
 2020,,Anenii Noi,
 2020,,Calarasi,
 2020,,Criuleni,134.6
@@ -442,7 +442,7 @@ Year,Area of residence,Districts,Value
 2020,,Ungheni,
 2020,,South,23.1
 2020,,Basarabeasca,
-2020,,Cahul,104.9
+2020,,Cahul,14.9
 2020,,Cantemir,
 2020,,Causeni,
 2020,,Cimislia,
@@ -450,40 +450,40 @@ Year,Area of residence,Districts,Value
 2020,,Stefan Voda,
 2020,,Taraclia,
 2020,,TAU Gagauzia,
-2021,,,47.749
-2021,Urban,,50.463
-2021,Rural,,45.898
-2021,,Mun. Chisinau,28.401
-2021,,North,65.703
-2021,,mun. Balti,180.668
+2021,,,47.7
+2021,Urban,,5.5
+2021,Rural,,45.9
+2021,,Mun. Chisinau,28.4
+2021,,North,65.7
+2021,,mun. Balti,18.7
 2021,,Briceni,
 2021,,Donduseni,
 2021,,Drochia,
-2021,,Edinet,167.504
+2021,,Edinet,167.5
 2021,,Falesti,
-2021,,Floresti,144.092
+2021,,Floresti,144.1
 2021,,Glodeni,
 2021,,Ocnita,
 2021,,Rascani,
 2021,,Sangerei,
-2021,,Soroca,135.501
-2021,,Centre,65.725
-2021,,Anenii Noi,137.741
-2021,,Calarasi,163.666
-2021,,Criuleni,144.092
+2021,,Soroca,135.5
+2021,,Centre,65.7
+2021,,Anenii Noi,137.7
+2021,,Calarasi,163.7
+2021,,Criuleni,144.1
 2021,,Dubasari,
 2021,,Hancesti,
-2021,,Ialoveni,104.603
+2021,,Ialoveni,14.6
 2021,,Nisporeni,
 2021,,Orhei,
-2021,,Rezina,234.192
+2021,,Rezina,234.2
 2021,,Straseni,
 2021,,Soldanesti,
 2021,,Telenesti,
-2021,,Ungheni,94.162
-2021,,South,24.468
+2021,,Ungheni,94.2
+2021,,South,24.5
 2021,,Basarabeasca,
-2021,,Cahul,111.982
+2021,,Cahul,112.0
 2021,,Cantemir,
 2021,,Causeni,
 2021,,Cimislia,
@@ -495,12 +495,12 @@ Year,Area of residence,Districts,Value
 2022,Urban,,53.7
 2022,Rural,,63.1
 2022,,Mun. Chisinau,44.0
-2022,,North,28.798
+2022,,North,28.8
 2022,,mun. Balti,
 2022,,Briceni,
-2022,,Donduseni,341.297
+2022,,Donduseni,341.3
 2022,,Drochia,
-2022,,Edinet,186.22
+2022,,Edinet,186.2
 2022,,Falesti,
 2022,,Floresti,
 2022,,Glodeni,
@@ -509,9 +509,9 @@ Year,Area of residence,Districts,Value
 2022,,Sangerei,
 2022,,Soroca,
 2022,,Centre,59.4
-2022,,Anenii Noi,328.407
+2022,,Anenii Noi,328.4
 2022,,Calarasi,
-2022,,Criuleni,155.28
+2022,,Criuleni,155.3
 2022,,Dubasari,
 2022,,Hancesti,
 2022,,Ialoveni,
@@ -521,22 +521,22 @@ Year,Area of residence,Districts,Value
 2022,,Straseni,
 2022,,Soldanesti,
 2022,,Telenesti,
-2022,,Ungheni,96.618
-2022,,South,164.114
+2022,,Ungheni,96.6
+2022,,South,164.1
 2022,,Basarabeasca,
-2022,,Cahul,122.249
-2022,,Cantemir,497.512
+2022,,Cahul,122.2
+2022,,Cantemir,497.5
 2022,,Causeni,
-2022,,Cimislia,265.957
-2022,,Leova,251.256
-2022,,Stefan Voda,165.017
+2022,,Cimislia,266.0
+2022,,Leova,251.3
+2022,,Stefan Voda,165.0
 2022,,Taraclia,
 2022,,TAU Gagauzia,
 2023,,,16.6
-2023,Urban,,20.2
+2023,Urban,,2.1
 2023,Rural,,14.1
-2023,,Mun. Chisinau,16.6
-2023,,North,33.0
+2023,,Mun. Chisinau,16.5
+2023,,North,
 2023,,mun. Balti,
 2023,,Briceni,
 2023,,Donduseni,
@@ -547,15 +547,15 @@ Year,Area of residence,Districts,Value
 2023,,Glodeni,
 2023,,Ocnita,
 2023,,Rascani,
-2023,,Sangerei,151.7
+2023,,Sangerei,151.3
 2023,,Soroca,179.9
-2023,,Centre,13.3
+2023,,Centre,
 2023,,Anenii Noi,
 2023,,Calarasi,
 2023,,Criuleni,
 2023,,Dubasari,
 2023,,Hancesti,
-2023,,Ialoveni,136.4
+2023,,Ialoveni,135.7
 2023,,Nisporeni,
 2023,,Orhei,
 2023,,Rezina,
@@ -603,7 +603,7 @@ Year,Area of residence,Districts,Value
 2024,,Straseni,
 2024,,Soldanesti,
 2024,,Telenesti,
-2024,,Ungheni,109.4
+2024,,Ungheni,19.4
 2024,,South,
 2024,,Basarabeasca,
 2024,,Cahul,
@@ -614,3 +614,44 @@ Year,Area of residence,Districts,Value
 2024,,Stefan Voda,
 2024,,Taraclia,
 2024,,TAU Gagauzia,
+2025,,,13.5
+2025,Urban,,
+2025,Rural,,
+2025,,Mun. Chisinau,
+2025,,North,
+2025,,mun. Balti,
+2025,,Briceni,
+2025,,Donduseni,
+2025,,Drochia,27.9
+2025,,Edinet,226.2
+2025,,Falesti,
+2025,,Floresti,
+2025,,Glodeni,
+2025,,Ocnita,
+2025,,Rascani,
+2025,,Sangerei,
+2025,,Soroca,177.0
+2025,,Centre,
+2025,,Anenii Noi,
+2025,,Calarasi,
+2025,,Criuleni,
+2025,,Dubasari,
+2025,,Hancesti,
+2025,,Ialoveni,
+2025,,Nisporeni,
+2025,,Orhei,
+2025,,Rezina,
+2025,,Straseni,
+2025,,Soldanesti,
+2025,,Telenesti,
+2025,,Ungheni,
+2025,,South,
+2025,,Basarabeasca,
+2025,,Cahul,
+2025,,Cantemir,
+2025,,Causeni,
+2025,,Cimislia,
+2025,,Leova,
+2025,,Stefan Voda,
+2025,,Taraclia,
+2025,,TAU Gagauzia,
