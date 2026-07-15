@@ -46,8 +46,9 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labor and Social Protection_x000D_</p> 
-  <p>Diaspora Relations Office </p>
+  |
+  <p>Ministry of Labor and Social Protection_x000D_</p>
+  <p>Diaspora Relations Office</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

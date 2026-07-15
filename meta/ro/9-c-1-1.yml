@@ -48,11 +48,12 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Numărul total de abonați, care au acces la Internet fix sau mobil în bandă largă, raportat la numărul populației  cu resedinta obisnuita la inceputul anului de raportare sau gospodarii * 100. Totodată la calcularea penetrării raportate la 100 de gospodării abonați persoane juridice au fost excluși.</p> 
-  <p>  Abonat = orice persoană  fizică sau juridică care a încheiat un contract cu furnizorul de servicii  publice de comunicații electronice în vederea furnizării unor asemenea  servicii (Legea comunicațiilor electronice, nr.241 din 15.11.2007); </p> 
-  <p>   Acces în bandă largă = este definită conform Recomandării I.113 a Sectorului  de standardizare al Uniunii Internaționale a Telecomunicațiilor drept  "capacitatea de transfer de date mai mare decât acea a fluxului primar ISDN,  la 2.0 Mbps". </p> 
-  <p>  Internet la puncte fixe = acces la Internet și servicii  prin intermediul unor platforme tehnologice bazate pe rețele de cablu sau  radio acces fix.</p> 
-  <p> Notă: Indicatorul include atât abonații din rândul populației, cât  și abonații  - persoane juridice/ organizații.                                                                                                                     În cazul calculării ratei de penetrare raportată la 100 de locuitori, la indicatorul "Internet fix" un abonat este echivalent cu o conexiune la serviciile de acces la Internet fix. </p>
+  |
+  <p>Numărul total de abonați, care au acces la Internet fix sau mobil în bandă largă, raportat la numărul populației  cu resedinta obisnuita la inceputul anului de raportare sau gospodarii * 100. Totodată la calcularea penetrării raportate la 100 de gospodării abonați persoane juridice au fost excluși.</p>
+  <p>  Abonat = orice persoană  fizică sau juridică care a încheiat un contract cu furnizorul de servicii  publice de comunicații electronice în vederea furnizării unor asemenea  servicii (Legea comunicațiilor electronice, nr.241 din 15.11.2007); </p>
+  <p>   Acces în bandă largă = este definită conform Recomandării I.113 a Sectorului  de standardizare al Uniunii Internaționale a Telecomunicațiilor drept  "capacitatea de transfer de date mai mare decât acea a fluxului primar ISDN,  la 2.0 Mbps". </p>
+  <p>  Internet la puncte fixe = acces la Internet și servicii  prin intermediul unor platforme tehnologice bazate pe rețele de cablu sau  radio acces fix.</p>
+  <p> Notă: Indicatorul include atât abonații din rândul populației, cât  și abonații  - persoane juridice/ organizații.                                                                                                                     În cazul calculării ratei de penetrare raportată la 100 de locuitori, la indicatorul "Internet fix" un abonat este echivalent cu o conexiune la serviciile de acces la Internet fix.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

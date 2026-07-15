@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 2.2.2.b: Prevalence of wasting among children under 5 years old</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the  internationally agreed targets on stunting and wasting in children under 5  years of age, and address the nutritional needs of adolescent girls, pregnant  and lactating women and older persons</p>
+  <p>Target 2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the  internationally agreed targets on stunting and wasting in children under 5  years of age, and address the nutritional needs of adolescent girls, pregnant  and lactating women and older persons.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Children's Fund (UNICEF)
@@ -37,12 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Multiple Indicator Cluster Survey (MICS 2012)
+  Approved statistical forms
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  National Agency for Public Health
+  National Agency for Public Health, National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Health
@@ -58,6 +58,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  For 2012, the indicator is based on data obtained from the nationally representative 2012 Multiple Indicator Cluster Survey (MICS). Beginning in 2021, the indicator has been calculated at the national level using administrative data collected through approved statistical reporting forms, in accordance with the national methodology and the World Health Organization (WHO) Child Growth Standards. Due to the lack of information of the number of children under 5 years of age assessed anthropometrically, the average annual population of children under 5 years of age was used. The values ​​obtained represent estimates based on the population of children under 5 years of age and may differ from the indicators calculated according to the standard methodology of the World Health Organization (WHO), which uses the number of children assessed anthropometrically as the denominator.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -67,11 +68,10 @@ source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
 source_periodicity_1: >-
-  Once every few years
+  Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  <p> Liliana Buzdugan, Head of the General Directorate for Data and Resource Analysis and Evaluation in Health, National Agency for Public Health,</p> 
-  <p>e-mail: liliana.buzdugan@ansp.gov.md, tel.:  022725292 </p>
+  General Directorate for Data and Resource Analysis and Evaluation in Health, National Agency for Public Health, tel.:  022725292
 source_other_info_1: >-

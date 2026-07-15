@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 2.2.2.a: Prevalența supraponderalilor printre copii în vârstă de până la 5 ani</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 2.2: Până în 2030, eradicarea tuturor formelor de malnutriție, inclusiv atingerea  până în 2025 a țintelor convenite la nivel internațional cu privire la  greutatea și talia joasă la copiii sub vârsta de 5 ani, și abordarea  necesităților nutriționale ale adolescentelor, femeilor însărcinate și celor  care alăptează, cât și a persoanelor în vârstă</p>
+  <p>Target 2.2: Până în 2030, eradicarea tuturor formelor de malnutriție, inclusiv atingerea  până în 2025 a țintelor convenite la nivel internațional cu privire la  greutatea și talia joasă la copiii sub vârsta de 5 ani, și abordarea  necesităților nutriționale ale adolescentelor, femeilor însărcinate și celor  care alăptează, cât și a persoanelor în vârstă.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Fondul Națiunilor Unite pentru Copii (UNICEF)
@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02a.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 2.2.2.a: Prevalența supraponderalilor printre copii în vârstă de până la 5 ani</p>
 SDG_SERIES_DESCR: ''
@@ -37,13 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Anul 2012 - Studiul de Indicatori Multipli în Cuiburi (MICS 2012)</p> 
-  <p>Anii 2013-2024 - Estimări modelate, sursa - Baza de date UNSTATS </p>
+  Formulare statistice aprobate
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Agenția Națională pentru Sănătate Publică
+  Agenția Națională pentru Sănătate Publică, Biroul Național de Statistica
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Sănătății
@@ -59,6 +58,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Pentru anul 2012, indicatorul are la bază datele obținute în cadrul Studiului MICS 2012, realizat la nivel național. Începând cu anul 2021, indicatorul este calculat la nivel național pe baza datelor administrative colectate prin formularele statistice aprobate, conform metodologiei naționale și Standardelor de creștere a copilului ale Organizației Mondiale a Sănătății (OMS).  Din cauza lipsei informațiilor privind numărul copiilor cu vârsta de până la 5 ani evaluați antropometric,  a fost utilizată populația medie anuală a copiilor cu vârsta de până la 5 ani. Valorile obținute reprezintă estimări bazate pe populația copiilor sub 5 ani și pot fi diferiți de indicatorii calculați conform metodologiei standard a Organizației Mondiale a Sănătății (OMS), care utilizează ca numitor numărul copiilor evaluați antropometric.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -68,13 +68,14 @@ source_active_1: true
 source_organisation_1: >-
   Agenția Națională pentru Sănătate Publică
 source_periodicity_1: >-
-  <p> O dată la câțiva ani (cercetări în rândul gospodîriilor populației)</p> 
-  <p>La nivel global sunt generate estimări modelate anual. </p>
+  |
+  <p>Anual</p>
+  <p>La nivel global sunt generate estimări modelate anual.</p>
 source_url_1: >-
-  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  <p> Liliana Buzdugan, Șefă direcția generală analiză și evaluarea datelor și resurselor în sănătate, Agenția Națională pentru Sănătate Publică,</p> 
-  <p>e-mail: liliana.buzdugan@ansp.gov.md, tel. tel.:  022725292 </p>
+  |
+  <p>Direcția generală analiză și evaluarea datelor și resurselor în sănătate, Agenția Națională pentru Sănătate Publică,</p>
+  <p>tel.:  022725292</p>
 source_other_info_1: >-

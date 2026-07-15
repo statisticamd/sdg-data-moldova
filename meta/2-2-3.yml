@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 2.2.3: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</p>
+  <p>Target 2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organisation (WHO)
@@ -38,7 +38,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Survey rs12_săn „Taking the number of diseases registered in patients domiciled in the service territory of the curative institution”
+  Survey rs12_săn „Taking the number of diseases registered in patients domiciled in the service territory of the curative institution”; No. 32-health "Medical Care Provided to Pregnant Women"
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -69,10 +69,9 @@ source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
 source_periodicity_1: >-
-  annual, quarterly
+  Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  0373022725292  Catan Liubov
 source_other_info_1: >-

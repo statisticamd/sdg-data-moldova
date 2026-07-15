@@ -13,9 +13,9 @@ target_id: >-
   3.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.b.1: Proportion of population covered by vaccines under national immunisation  programmes (of the number of persons registered at the family doctor)</p>
 SDG_SERIES_DESCR: ''
@@ -31,23 +31,24 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> According to the mandatory vaccination calendar for  2016-2020, the following  types of vaccines are mandatory:</p> 
-  <p>  1. vaccine against TB (BCG)</p> 
-  <p>  2.  vaccine against diphtheria - tetanus - pertussis (DTP)</p> 
-  <p>  3. combined  vaccine against  measles - rubella - mumps (ROR)</p> 
-  <p>  4. oral vaccine against  poliomyelitis (VPO)</p> 
-  <p>  5. vaccine against hepatitis B (HEPB)</p> 
-  <p>  6. vaccine  against infection with haemophilus influenza type H (HIB)</p> 
-  <p>  7. vaccine  against infection with rotavirus (RV)</p> 
-  <p>  8. pneumococci vaccine (PC)</p> 
-  <p>  9.  vaccine with toxoids from diphtheria and tetanus (DT, TD, AT)AT is not used in Moldova - it is replaced by DT or Td</p> 
-  <p>  10.  polyvalent combined vaccine against hepatitis B, diphtheria, tetanus,  pertussis and infection with haemophilus influenza type B (HEPB+DTP+HIB)It is recorded and reported on separate antigens: DTP; HepB; Hib </p>
+  |
+  <p>According to the mandatory vaccination calendar for  2016-2020, the following  types of vaccines are mandatory:</p>
+  <p>  1. vaccine against TB (BCG)</p>
+  <p>  2.  vaccine against diphtheria - tetanus - pertussis (DTP)</p>
+  <p>  3. combined  vaccine against  measles - rubella - mumps (ROR)</p>
+  <p>  4. oral vaccine against  poliomyelitis (VPO)</p>
+  <p>  5. vaccine against hepatitis B (HEPB)</p>
+  <p>  6. vaccine  against infection with haemophilus influenza type H (HIB)</p>
+  <p>  7. vaccine  against infection with rotavirus (RV)</p>
+  <p>  8. pneumococci vaccine (PC)</p>
+  <p>  9.  vaccine with toxoids from diphtheria and tetanus (DT, TD, AT)AT is not used in Moldova - it is replaced by DT or Td</p>
+  <p>  10.  polyvalent combined vaccine against hepatitis B, diphtheria, tetanus,  pertussis and infection with haemophilus influenza type B (HEPB+DTP+HIB)It is recorded and reported on separate antigens: DTP; HepB; Hib</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Statistical report No. 6 on coverage of children with vaccine against  infectious diseases - NBS
+  Statistical report No. 6 on coverage of children with vaccine against  infectious diseases
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,7 +73,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
@@ -80,6 +81,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

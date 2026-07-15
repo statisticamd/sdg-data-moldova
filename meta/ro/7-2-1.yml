@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 216 KB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 7.2.1: Ponderea energiei din surse regenerabile în consumul final brut de  energie</p>
 SDG_SERIES_DESCR: ''
@@ -31,23 +31,30 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Energie din surse regenerabile reprezintă energia obținută prin valorificarea  surselor nefosile regenerabile, respectiv energia eoliană, energia solară,  energia aerotermală, energia geotermală, energia hidrotermală și cea a  oceanelor, energia hidroelectrică, biomasa, biogazul, gazul de fermentare a  deșeurilor (gazul de depozit) și gazul provenit din instalațiile de epurare a  apelor uzate. Consumul brut de energie - produse energetice furnizate în  scopuri energetice industriei, transporturilor, sectorului casnic,  serviciilor, inclusiv serviciilor publice, agriculturii, silviculturii, și  pisciculturii, inclusiv consumul de energie electrică și energie termică din  sectorul de producere a energiei electrice și energiei termice, precum și  consumul tehnologic și pierderile de energie electrică și energie termică în  rețelele electrice și rețelele termice.</p> 
-  <p>  Consumul final brut din energie  din surse regenerabile se calculează ca suma următoarelor: a) consumul final  brut de energie electrică din surse regenerabile; b) consumul final brut de  energie din sursele regenerabile pentru încălzire și răcire; c)  consumul  final brut de energie din sursele regenerabile în transporturi. </p>
+  |
+  <p>Energie din surse regenerabile reprezintă energia obținută prin valorificarea surselor nefosile regenerabile, respectiv energia eoliană, solară, aerotermală, geotermală, hidrotermală și energia oceanelor, energia hidroelectrică, biomasa, biogazul, gazul de fermentare a deșeurilor (gazul de depozit) și gazul provenit din instalațiile de epurare a apelor uzate.</p>
+  <p></p>
+  <p>Consumul brut de energie reprezintă produsele energetice furnizate în scopuri energetice industriei, transporturilor, sectorului casnic, serviciilor (inclusiv serviciilor publice), agriculturii, silviculturii și pisciculturii, inclusiv consumul de energie electrică și energie termică din sectorul de producere a energiei electrice și termice, precum și consumul tehnologic și pierderile de energie electrică și energie termică în rețelele electrice și termice.</p>
+  <p></p>
+  <p>Consumul final brut de energie din surse regenerabile se calculează ca sumă a:</p>
+  <p>a) consumului final brut de energie electrică din surse regenerabile;</p>
+  <p>b) consumului final brut de energie din surse regenerabile pentru încălzire și răcire;</p>
+  <p>c) consumului final brut de energie din surse regenerabile în transporturi.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Balanța energetică + estimări
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  Biroul Național de Statistică + surse administrative deținute de alte  autorități
+  Centrul Național pentru Energie Durabilă
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Energiei
 OTHER_METHOD: >-
+  https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=en
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
@@ -66,15 +73,15 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Agenția pentru Eficiență Energetică
 source_periodicity_1: >-
   anual
 source_url_1: >-
-  https://aee.gov.md/ro/page/surse-de-energie-regenerabila
+  https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=en
 source_url_text_1: >-
   Ponderea energiei din surse regenerabile în consumul final brut de energie
 source_contact_1: >-
-  <p> Agenția pentru Eficiență Energetică</p> 
-  <p>office@aee.md</p> 
-  <p>022-499-444 </p>
+  |
+  <p>Centrul Național pentru Energie Durabilă</p>
+  <p>office@cned.gov.md</p>
+  <p>022-499-444, ex.3</p>
 source_other_info_1: >-

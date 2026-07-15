@@ -13,9 +13,9 @@ target_id: >-
   3.b
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.b.1: Ponderea populației acoperite cu vaccinuri în cadrul programelor  naționale de imunizări (din numărul celor aflați în evidență la medicul de  familie)</p>
 SDG_SERIES_DESCR: ''
@@ -31,23 +31,24 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Conform calendarului vaccinărilor obligatorii pentru anul 2016-2020,  obligatorii sunt următoarele tipuri de vaccinuri:</p> 
-  <p>  1.Vaccinul contra  tuberculozei (BCG)</p> 
-  <p>  2.Vaccinul diftero-tetano-pertusis (DTP)</p> 
-  <p>   3.Vaccinul combinat împotriva rujeolă-oreion- rubeolă (ROR)</p> 
-  <p>  4.Vaccinul  oral contra poliomielitei (VPO)</p> 
-  <p>  5.Vaccinul contra hepatitei B (HEPB)</p> 
-  <p>   6.Vaccinul contra infecției cu haemophilus influenzae tip H (HIB)</p> 
-  <p>   7.Vaccinul contra infecției cu rotavirusuri (RV)</p> 
-  <p>  8.Vaccinul pneumococic  (PC)</p> 
-  <p>  9. Vaccinul cu anatoxine difterică și tetanică (DT, Td, AT) AT nu se foloseste in Moldova - este substituit cu DT sau Td</p> 
-  <p>  10.  Vaccinul combinat pentavalent contra hepatitei B, difteriei tetanusului,  pertusis, și infecției cu haemophilus influenzae tip B (HEPB+DTP+HIB) Se inregistreaza si raporteza pe antigeni aparte : DTP; HepB; Hib </p>
+  |
+  <p>Conform calendarului vaccinărilor obligatorii pentru anul 2016-2020,  obligatorii sunt următoarele tipuri de vaccinuri:</p>
+  <p>  1.Vaccinul contra  tuberculozei (BCG)</p>
+  <p>  2.Vaccinul diftero-tetano-pertusis (DTP)</p>
+  <p>   3.Vaccinul combinat împotriva rujeolă-oreion- rubeolă (ROR)</p>
+  <p>  4.Vaccinul  oral contra poliomielitei (VPO)</p>
+  <p>  5.Vaccinul contra hepatitei B (HEPB)</p>
+  <p>   6.Vaccinul contra infecției cu haemophilus influenzae tip H (HIB)</p>
+  <p>   7.Vaccinul contra infecției cu rotavirusuri (RV)</p>
+  <p>  8.Vaccinul pneumococic  (PC)</p>
+  <p>  9. Vaccinul cu anatoxine difterică și tetanică (DT, Td, AT) AT nu se foloseste in Moldova - este substituit cu DT sau Td</p>
+  <p>  10.  Vaccinul combinat pentavalent contra hepatitei B, difteriei tetanusului,  pertusis, și infecției cu haemophilus influenzae tip B (HEPB+DTP+HIB) Se inregistreaza si raporteza pe antigeni aparte : DTP; HepB; Hib</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Formular statistic nr. 6  „Privind cuprinderea copiilor cu vaccinări împotriva  bolilor infecțioase” - BNS
+  Formular statistic nr. 6  „Privind cuprinderea copiilor cu vaccinări împotriva  bolilor infecțioase”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -72,7 +73,7 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  2
 source_active_1: true
 source_organisation_1: >-
   Agenția Națională pentru Sănătate Publică

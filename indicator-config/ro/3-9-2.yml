@@ -1,7 +1,9 @@
 composite_breakdown_label: ''
 computation_units: 100 mii populație
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  <p>Pentru anul 2024, indicatorul a fost calculat pe baza datelor disponibile pentru primele 9 luni ale anului, deoarece implementarea și configurarea sistemului informațional eCMND au determinat temporar limitări privind accesul și extragerea datelor detaliate pe cauze de deces.</p>
+  <p>În perioada analizată, indicatorul pentru Republica Moldova se menține la un nivel redus, ceea ce corespunde situației unei țări cu acces larg al populației la servicii de apă și sanitație. Fluctuațiile anuale sunt determinate în principal de numărul redus de cazuri absolute și de variațiile mortalității prin boli sensibile la factorii WASH, în special bolile diareice.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +25,8 @@ graph_target_lines: []
 graph_title: national_indicators.3-9-2-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.3-9-2-title
+indicator_available: national_indicators.3-9-2-title
+indicator_name: global_indicators.3-9-2-title
 indicator_number: 3.9.2
 indicator_tabs:: 
   override: false
@@ -39,7 +42,7 @@ precision: []
 progress_status: not_available
 publications: []
 related_indicators: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 sources: []
 standalone: false

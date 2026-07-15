@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of cases of death caused by road traffic accidents in the year of  reference out of the total number of population *100000
+  Number of cases of death caused by road traffic accidents in the year of  reference out of the total number of population *100 000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

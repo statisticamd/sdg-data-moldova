@@ -8,7 +8,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  Probability of dying between the ages of 30 and 70 years from cardiovascular  diseases, cancer, diabetes or chronic respiratory diseases, defined as the per  cent of 30-year-old-people who would die before their 70th birthday from  cardiovascular disease, cancer, diabetes, or chronic respiratory disease,  assuming that s/he would experience current mortality rates at every age and  s/he would not die from any other cause of death.
+  Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease is defined as theprobability of dying between the ages of 30 and 70 years from cardiovascular diseases, cancer, diabetes or chronic respiratory diseases, defined as the percent of 30-year-old-people who would die before their 70th birthday from cardiovascular disease, cancer, diabetes, or chronic respiratory disease, assuming that s/he would experience current mortality rates at every age and s/he would not die from any other cause of death (e.g., injuries or HIV/AIDS).
 SDG_GOAL: ''
 target_id: >-
   3.4
@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diseases of  the digestive system, diabetes, diseases of the respiratory system among  persons between 30 to 70 years aged  per 100,000 population</p>
+  <p>Indicator 3.4.1: Mortality rate attributed to cardiovascular disease, cancer, diseases of  the digestive system, diabetes, diseases of the respiratory system among  persons between 30 to 70 years aged</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -33,11 +33,11 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Per 100.000 population
+  %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  1)National Agency for Public Health-Statistical data on mortality by causes of death according to the medical certificate of death                                                                                                                                                                                                                                                                                                                2) National Bureau of Statistics - number of usual resident population
+  National Agency for Public Health-Statistical data on mortality by causes of death according to the medical certificate of death                                                                                                                                                                                                                                                                                                                National Bureau of Statistics - number of usual resident population
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,7 +50,12 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of deaths caused by cardiovascular disease, cancer, digestive system  diseases, diabetes or chronic respiratory disease in the year of reference  among the persons aged between 30-70 years old, out of the number of  population of the respective age *100.000
+  |
+  <p>Probability of dying: The likelihood that an individual would die between two ages given current mortality </p>
+  <p>rates at each age in between, calculated using life table methods.  </p>
+  <p>Life table: A table showing the mortality experience of a hypothetical group of infants born at the same </p>
+  <p>time and subject throughout their lifetime to a set of age-specific mortality rates.  </p>
+  <p>Cardiovascular disease, cancer, diabetes or chronic respiratory diseases: ICD-10 underlying causes of death I00-I99, COO-C97, E10-E14 and J30-J98, or ICD-11 underlying causes of death 8B00-8B2Z, BA00BE2Z, 2A00-2F9Z, 5A10-5A2Y, CA20- CA2Z, CA60-CA8Z, CA00-CA0Z, CB00-CB0Z, CB20-CB2Z, CB40, CB41, CB60-CB64, CB7Z.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,6 +63,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  The indicator was recalculated according to the new methodology, in accordance with international requirements and recommendations of the World Health Organization (WHO), being aligned with international standards for calculation and data comparability.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -70,6 +76,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

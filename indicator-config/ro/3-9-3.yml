@@ -1,7 +1,9 @@
 composite_breakdown_label: ''
 computation_units: la 100.000 populație
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  <p>Pentru perioada 2020-2024, datele au fost recalculate conform metodologiei revizuite, în conformitate cu cerințele Organizației Mondiale a Sănătății (OMS) și standardele internaționale de raportare. </p>
+  <p>Datele pentru anul 2024 sunt provizorii și includ doar decesele înregistrate în primele 9 luni ale anului.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +25,8 @@ graph_target_lines: []
 graph_title: national_indicators.3-9-3-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.3-9-3-title
+indicator_available: national_indicators.3-9-3-title
+indicator_name: global_indicators.3-9-3-title
 indicator_number: 3.9.3
 indicator_tabs:: 
   override: false

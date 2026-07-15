@@ -31,22 +31,25 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Physical violence - deliberate infliction of bodily injuries or damage to  health by hitting, pushing, tossing, pulling  by  the  hair,  stinging,   cutting,  burning,  strangling,  biting,  in  any  form  and  of  any  intensity; by poisoning, intoxicating, or other similar actions;</p> 
-  <p>Psychological violence - imposing  one’s  volition  or  personal  control  by   causing  tension  and mental  suffering  including  ridiculing,  swearing,   insulting,  derogatory  nicknaming;  blackmailing; the  intentional   destruction  of  objects;  verbal  threats;  the  demonstrative  showing  of   fire  arms  or hitting  domestic  animals;  neglect;  meddling  in  the  personal  lives  of  others;  acts  of  jealousy; imposing  isolation  by   detention,  including  detention  in  the  family  dwelling;  isolation  from   the family,  community,  friends;  prohibiting  professional  accomplishment,   prohibiting  attendance  at educational  institutions;  seizure  of  identity   documents;  deprivation  of  access  to  information;  or other similar  actions; </p> 
-  <p>Sexual violence - any violence of a sexual character or any  illegal sexual conduct within the family or   within   other   interpersonal    relationships,   such   as   marital   rape;   prohibiting   the   use   of  contraception; sexual harassment; any unwanted, imposed sexual conduct; forced  prostitution; any illegal  sexual  conduct  with  a  minor  family  member,  including  fondling,  kissing,  setting  the  child into poses or other  unwanted touching with sexual connotations; or other similar actions. (art. 2  of the Law No. 45 dated 01.03.2007 on Preventing and Combating Family  Violence) </p>
+  |
+  <p>Physical violence - deliberate infliction of bodily injuries or damage to  health by hitting, pushing, tossing, pulling  by  the  hair,  stinging,   cutting,  burning,  strangling,  biting,  in  any  form  and  of  any  intensity; by poisoning, intoxicating, or other similar actions;</p>
+  <p>Psychological violence - imposing  one’s  volition  or  personal  control  by   causing  tension  and mental  suffering  including  ridiculing,  swearing,   insulting,  derogatory  nicknaming;  blackmailing; the  intentional   destruction  of  objects;  verbal  threats;  the  demonstrative  showing  of   fire  arms  or hitting  domestic  animals;  neglect;  meddling  in  the  personal  lives  of  others;  acts  of  jealousy; imposing  isolation  by   detention,  including  detention  in  the  family  dwelling;  isolation  from   the family,  community,  friends;  prohibiting  professional  accomplishment,   prohibiting  attendance  at educational  institutions;  seizure  of  identity   documents;  deprivation  of  access  to  information;  or other similar  actions; </p>
+  <p>Sexual violence - any violence of a sexual character or any  illegal sexual conduct within the family or   within   other   interpersonal    relationships,   such   as   marital   rape;   prohibiting   the   use   of  contraception; sexual harassment; any unwanted, imposed sexual conduct; forced  prostitution; any illegal  sexual  conduct  with  a  minor  family  member,  including  fondling,  kissing,  setting  the  child into poses or other  unwanted touching with sexual connotations; or other similar actions. (art. 2  of the Law No. 45 dated 01.03.2007 on Preventing and Combating Family  Violence)</p>
 UNIT_MEASURE: >-
   Per 100 000 population
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Automated Information System “Register of Criminalistic and Criminological Information” of the Ministry of Internal Affairs</p> 
-  <p>2. Demographic data on the number of the usually resident population, National Bureau of Statistics </p>
+  |
+  <p>1. Automated Information System “Register of Criminalistic and Criminological Information” of the Ministry of Internal Affairs</p>
+  <p>2. Demographic data on the number of the usually resident population, National Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Ministry of Internal Affairs</p> 
-  <p>2. National Bureau of Statistics </p>
+  |
+  <p>1. Ministry of Internal Affairs</p>
+  <p>2. National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Internal Affairs
@@ -77,6 +80,7 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  <p> Serghei Nasîpov, Senior Specialist, Information Technology Service of the Ministry of Internal Affairs</p> 
-  <p>e-mail: serghei.nasipov@mai.gov.md, tel. (022) 255-985, (+373) 690-700-44 </p>
+  |
+  <p>Serghei Nasîpov, Senior Specialist, Information Technology Service of the Ministry of Internal Affairs</p>
+  <p>e-mail: serghei.nasipov@mai.gov.md, tel. (022) 255-985, (+373) 690-700-44</p>
 source_other_info_1: >-

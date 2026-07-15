@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 6.1: By 2030, achieve universal and equitable access to safe and affordable  drinking water for all</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> World Health Organisation (WHO)</p> 
-  <p>United Nations Children's Fund (UNICEF) </p>
+  |
+  <p>World Health Organisation (WHO)</p>
+  <p>United Nations Children's Fund (UNICEF)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -45,8 +46,9 @@ DATA_SOURCE: >-
   National Agency for Public Health
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Infrastructure and Regional Development </p> 
-  <p>Ministry of Health </p>
+  |
+  <p>Ministry of Infrastructure and Regional Development </p>
+  <p>Ministry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

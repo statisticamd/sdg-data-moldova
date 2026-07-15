@@ -4,8 +4,9 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 6.1: Până în 2030, realizarea accesului universal și echitabil la apă potabilă sigură și la prețuri accesibile pentru toți</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  <p> Organizația Mondială a Sănătății (OMS)</p> 
-  <p>Fondul Națiunilor Unite pentru Copii (UNICEF) </p>
+  |
+  <p>Organizația Mondială a Sănătății (OMS)</p>
+  <p>Fondul Națiunilor Unite pentru Copii (UNICEF)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -45,8 +46,9 @@ DATA_SOURCE: >-
   Agenția Națională pentru Sănătate Publică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Infrastructurii și Dezvoltării Regionale</p> 
-  <p>Ministerul Sănătății </p>
+  |
+  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p>
+  <p>Ministerul Sănătății</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

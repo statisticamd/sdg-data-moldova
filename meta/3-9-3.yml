@@ -7,6 +7,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organisation (WHO)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
+  According to WHO definitions, unintentional poisonings can be caused by household chemicals, pesticides, kerosene, carbon monoxide, and medicines, or may result from environmental contamination or occupational chemical exposure. This indicator reflects the level of proper management of hazardous chemicals, pollution control, and the effectiveness of a country’s health system. The International Classification of Diseases, 10th Revision (ICD-10) codes corresponding to this indicator include X40, X43, X46–X48, and X49.
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
@@ -31,7 +32,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  According to WHO definitions, unintentional poisoning may because by domestic  chemical substances, pesticides, kerosene, carbon monoxide and medicines or  may be the result of environment contamination or of occupational chemical  exposure. This indicator reflects the level of adequate management of harmful  chemical substances, pollution and efficiency of health system of a country.
+  |
+  <p>According to WHO definitions, unintentional poisoning may because by domestic  chemical substances, pesticides, kerosene, carbon monoxide and medicines or  may be the result of environment contamination or of occupational chemical  exposure. This indicator reflects the level of adequate management of harmful  chemical substances, pollution and efficiency of health system of a country.</p>
+  <p>The calculation of the indicator includes deaths registered with the following codes from the International Classification of Diseases, 10th revision (ICD-10): X40, X43 and X46–X49.</p>
 UNIT_MEASURE: >-
   Per 100.000 population
 CLASS_SYSTEM: ''
@@ -58,6 +61,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  The data are calculated according to the revised methodology, in accordance with the requirements of the World Health Organization (WHO) and international reporting standards.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

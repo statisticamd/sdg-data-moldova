@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 214 KB)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.9.2: Rata mortalității determinate de surse nesigure de apă, sanitație și  igienă la 100.000 populație</p>
 SDG_SERIES_DESCR: ''
@@ -38,22 +38,24 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Date statistice privind mortalitatea populației pe cauze de deces -  ANSP</p> 
-  <p>  2) Date statistice cu privire la populației - BNS </p>
+  |
+  <p>Date statistice privind mortalitatea populației pe cauze de deces -  ANSP</p>
+  <p>Date statistice cu privire la populației - BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
-  <p>  2) Biroul Național de  Statistică </p>
+  |
+  <p>Agenția Națională pentru Sănătate Publică</p>
+  <p>Biroul Național de  Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Muncii și Protecției Sociale
+  Ministerul Sănătății
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul cazurilor de deces cauzate de sursele nesigure de apă, sanitație și  igienă într-un an,  raportat la numărul populației *100000
+  Decesele atribuite apei nesigure, sanitației și igienei (WASH), cauzate de servicii WASH inadecvate, exprimate la 100.000 de locuitori; bolile incluse sunt diareea (cod GHE 110, care include codurile ICD-10 A00, A01, A03, A04, A06–A09), infecțiile respiratorii acute (cod GHE 380, care include codurile ICD-10 H65–H66, J00–J22, P23 și U04), infecțiile cu nematode intestinale (coduri GHE 340, 350 și 360, care includ codurile ICD-10 B76–B77 și B79) și malnutriția protein-calorică (cod GHE 550, care include codurile ICD-10 E40–E46).
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,6 +63,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Calculat în conformitate cu metodologia internațională recomandată de Organizația Mondială a Sănătății
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

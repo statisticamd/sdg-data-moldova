@@ -33,12 +33,13 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  la 100.000 populație / la 10.000 copii
+  la 100.000 populație
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului</p> 
-  <p>2) Biroul Național  de Statistică  -  numărul populației cu reședință obișnuită </p>
+  |
+  <p>Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului</p>
+  <p>2) Biroul Național  de Statistică  -  numărul populației cu reședință obișnuită</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -51,8 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Numărul cazurilor de deces suicidale într-un an de referință raportat la  numărul populației *100.000</p> 
-  <p>Numărul cazurilor de deces suicidale la copii 0-17 ani 11 luni 29 zile într-un an de referință raportat la  numărul copii de aceiași vîrstă *10.000 </p>
+  Numărul cazurilor de deces suicidale într-un an de referință raportat la  numărul populației *100.000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 2.2.3: Prevalența anemiei la femeile cu vârsta cuprinsă între 15 și 49 de ani, în funcție de statutul sarcinii (procent)</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 2.2: Până în 2030, eradicarea tuturor formelor de malnutriție, inclusiv atingerea  până în 2025 a țintelor convenite la nivel internațional cu privire la  greutatea și talia joasă la copiii sub vârsta de 5 ani, și abordarea  necesităților nutriționale ale adolescentelor, femeilor însărcinate și celor  care alăptează, cât și a persoanelor în vârstă</p>
+  <p>Target 2.2: Până în 2030, eradicarea tuturor formelor de malnutriție, inclusiv atingerea  până în 2025 a țintelor convenite la nivel internațional cu privire la  greutatea și talia joasă la copiii sub vârsta de 5 ani, și abordarea  necesităților nutriționale ale adolescentelor, femeilor însărcinate și celor  care alăptează, cât și a persoanelor în vârstă.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   Organizația Mondială a Sănătății (OMS)
@@ -38,7 +38,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Cercetarea rs12_săn „Privind numărul maladiilor înregistrate la bolnavi domiciliați în teritoriul de deservire a instituției curative”
+  Cercetarea rs12_săn „Privind numărul maladiilor înregistrate la bolnavi domiciliați în teritoriul de deservire a instituției curative”;nr. 32-săn „Asistența medicală acordată gravidelor”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -69,10 +69,9 @@ source_active_1: true
 source_organisation_1: >-
   Agenția Națională pentru Sănătatea Publică
 source_periodicity_1: >-
-  anual, trimestrial
+  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  0373022725292  Catan Liubov
 source_other_info_1: >-

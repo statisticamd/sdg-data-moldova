@@ -37,8 +37,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)National Agency for Public Health- Information on number of HIV/AIDS associated deaths according to the medical certificate of death    </p> 
-  <p>   2) National Bureau of Statistics - Number of usual resident population </p>
+  |
+  <p>1)National Agency for Public Health- Information on number of HIV/AIDS associated deaths according to the medical certificate of death    </p>
+  <p>   2) National Bureau of Statistics - Number of usual resident population</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -51,7 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of HIV associated deaths out of the number of uninfected population *100.000
+  Number of HIV associated deaths per average annual number of population *100.000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

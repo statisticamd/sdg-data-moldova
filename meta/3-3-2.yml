@@ -36,8 +36,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) National Agency for Public Health-Statistical report No. 8 - on new cases of tuberculosis </p> 
-  <p>2) National Bureau of Statistics, number of population number of population with usual residence </p>
+  |
+  <p>1) National Agency for Public Health-Statistical report No. 8 - on new cases of tuberculosis </p>
+  <p>2) National Bureau of Statistics, number of population number of population with usual residence</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

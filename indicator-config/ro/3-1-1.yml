@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
 computation_units: persoane la 100.000 născuți vii
 copyright: ''
-data_footnote: ''
+data_footnote: Datele pe mediii de reședință (urban/rural) pentru anii 2024-2025 nu sunt disponibile.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +23,8 @@ graph_target_lines: []
 graph_title: national_indicators.3-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.3-1-1-title
+indicator_available: national_indicators.3-1-1-title
+indicator_name: global_indicators.3-1-1-title
 indicator_number: 3.1.1
 indicator_tabs:: 
   override: false

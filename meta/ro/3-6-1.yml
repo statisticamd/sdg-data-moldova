@@ -49,7 +49,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul cazurilor de deces cauzate de accidentele rutiere în anul de referință raportat la numărul populației *100000
+  Numărul cazurilor de deces cauzate de accidentele rutiere în anul de referință raportat la numărul populației *100 000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

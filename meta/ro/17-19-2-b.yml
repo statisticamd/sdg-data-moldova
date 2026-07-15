@@ -31,29 +31,35 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Indicatorul global vizează atingerea ratei de 100% în înregistrarea născuților-vii  și 80% în înregistrarea decedaților. În conformitate cu [Principiile și  Recomandările pentru sistemul de statistică vitală, revizuirea  3](https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf),  o înregistrare civilă completă este definită ca: „Înregistrarea în sistemul de  înregistrare a actelor de stare civilă a fiecărui eveniment vital care a avut  loc cu membrii populației unei anumite țări (sau localități) într-o perioadă  determinată, în urma căruia fiecare astfel de eveniment are o evidență de  înregistrare în registru vital, iar sistemul a ajuns la 100% de acoperire.
+  Indicatorul global vizează atingerea ratei de 100% în înregistrarea născușilor-vii  și 80% în înregistrarea decedaților. În conformitate cu [Principiile și  Recomandările pentru sistemul de statistică vitală, revizuirea  3](https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf),  o înregistrare civilă completă este definită ca: „Înregistrarea în sistemul de  înregistrare a actelor de stare civilă a fiecărui eveniment vital care a avut  loc cu membrii populației unei anumite țări (sau localități) într-o perioadă  determinată, în urma căruia fiecare astfel de eveniment are o evidență de  înregistrare în registru vital, iar sistemul a ajuns la 100 % de acoperire.
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Date  administrative privind înregistrările de starea civilă - Agenția Servicii Publice</p> 
-  <p>  2) Date statistice privind statisticile vitale -Biroul Național de Statistică </p>
+  |
+  <p>date administrative inregistrate nașterile/decese în SI eCMND - ANSP                                   date administrative privind actele de stare civilă -ASP</p>
+  <p>date  demografice privind numărul populației - BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Agenția Servicii Publice</p> 
-  <p>  2) Biroul Național de Statistică </p>
+  |
+  <p>Agenția Națională pentru Sănătate Publică</p>
+  <p>Agenția Servicii Publice</p>
+  <p>Biroul Național de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Biroul Național de Statistică
+  |
+  <p>Biroul Național de Statistică</p>
+  <p>  Direcția Statistică a ONU</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Indicatorul este calculat prin intermediul a doi sub-indicatori: Numărul  născuților-vii constatați care au fost înregistrați în anul de referință  raportat la numărul total de născuți-vii constatați*100</p> 
-  <p>Numărul  decedaților constatați în anul de referință raportat la numărul total de decedați înregistrați </p>
+  |
+  <p>Indicatorul este calculat prin intermediul a doi sub-indicatori: Numărul  născuților-vii constatați care au fost înregistrați în anul de referință  raportat la numărul total de nascuți-vii constatați*100</p>
+  <p>Numărul  decedaților constatați în anul de referință raportat la numărul total de decedați înregistrați</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -69,7 +75,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Biroul Național de Statistică
+  |
+  <p>1) Biroul Național de Statistică</p>
+  <p>  2) Direcția Statistică a ONU</p>
 source_periodicity_1: >-
   anual
 source_url_1: >-

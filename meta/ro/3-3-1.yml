@@ -37,14 +37,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Informația privind numărul purtătorilor virusului imunodeficienței umane  (HIV), inclusiv care suferă de maladia SIDA - instrumentul Spectrum. </p> 
-  <p>  2)  Statistica demografiei, numărul populației </p>
+  |
+  <p>1) Informația privind numărul purtătorilor virusului imunodeficienței umane  (HIV), inclusiv care suferă de maladia SIDA - instrumentul Spectrum. </p>
+  <p>  2)  Statistica demografiei, numărul populației</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) IMSP Spitalul Dermatologie și Maladii Comunicabile</p> 
-  <p>  2) Biroul Național  de Statistică </p>
+  |
+  <p>1) IMSP Spitalul Dermatologie și Maladii Comunicabile</p>
+  <p>  2) Biroul Național  de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Sănătății

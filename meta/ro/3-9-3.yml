@@ -7,6 +7,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   World Health Organisation (WHO)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
+  Conform definițiilor OMS, intoxicațiile neintenționate pot fi cauzate de  substanțe chimice casnice, pesticide, kerosen, monoxid de carbon și  medicamente sau pot fi rezultatul contaminării mediului sau al expunerii  chimice profesionale. Acest indicator reflectă nivelul gestionării  adecvate a substanțelor chimice periculoase, a poluării și a eficacității  sistemului de sănătate al unei țări. Codurile din Clasificarea Internațională a Bolilor, ediția a X-a (ICD-10), corespunzătoare acestui indicator includ X40, X43, X46–X48, X49.
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
@@ -31,7 +32,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Conform definițiilor OMS, intoxicațiile neintenționate pot fi cauzate de  substanțe chimice casnice, pesticide, kerosen, monoxid de carbon și  medicamente sau pot fi rezultatul contaminării mediului sau al expunerii  chimice profesionale. Acest indicator reflectă nivelul gestionării  adecvate a substanțelor chimice periculoase, a poluării și a eficacității  sistemului de sănătate al unei țări.
+  |
+  <p>Conform definițiilor OMS, intoxicațiile neintenționate pot fi cauzate de  substanțe chimice casnice, pesticide, kerosen, monoxid de carbon și  medicamente sau pot fi rezultatul contaminării mediului sau al expunerii  chimice profesionale. Acest indicator reflectă nivelul gestionării  adecvate a substanțelor chimice periculoase, a poluării și a eficacității  sistemului de sănătate al unei țări.</p>
+  <p>La calculul indicatorului sunt incluse decesele înregistrate cu următoarele coduri din Clasificarea Internațională a Maladiilor, revizia a X-a (ICD-10): X40, X43 și X46–X49.</p>
 UNIT_MEASURE: >-
   la 100.000 populație
 CLASS_SYSTEM: ''
@@ -58,6 +61,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Datele sunt calculate conform metodologiei revizuite, în conformitate cu cerințele Organizației Mondiale a Sănătății (OMS) și standardele internaționale de raportare.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -1,7 +1,9 @@
 composite_breakdown_label: ''
-computation_units: Per 100.000 population
+computation_units: %
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  <p>The indicator was recalculated according to the new methodology, in accordance with international requirements and recommendations of the World Health Organization (WHO), being aligned with international standards for calculation and data comparability.</p>
+  <p>The indicator calculated according to the previous methodology represents the ratio between the number of deaths caused by these diseases and the population aged between 30 and 70 years, expressed per 100,000 inhabitants. This indicator reflects the mortality rate in the age group 30–70 years and not the probability of premature death used in the current methodology.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,7 +25,8 @@ graph_target_lines: []
 graph_title: national_indicators.3-4-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.3-4-1-title
+indicator_available: national_indicators.3-4-1-title
+indicator_name: global_indicators.3-4-1-title
 indicator_number: 3.4.1
 indicator_tabs:: 
   override: false

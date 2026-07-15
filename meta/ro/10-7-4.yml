@@ -46,8 +46,9 @@ DATA_SOURCE: >-
   Inspectoratul General pentru Migrație
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>Biroul Relații cu Diaspora </p>
+  |
+  <p>Ministerul Muncii și Protecției Sociale</p>
+  <p>Biroul Relații cu Diaspora</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

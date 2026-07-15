@@ -1,630 +1,593 @@
-Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Value
-2010,,,,,
-2010,Men,,,,
-2010,Women,,,,
-2010,,Adults,,,
-2010,,Children,,,
-2010,,,Republic of Moldova,,
-2010,,,Russian Federation,,
-2010,,,Germany,,
-2010,,,Poland,,
-2010,,,Turkey,,
-2010,,,Italy,,
-2010,,,Portugal,,
-2010,,,Spain,,
-2010,,,Cyprus,,
-2010,,,Romania,,
-2010,,,Greece,,
-2010,,,Czech,,
-2010,,,Other,,
-2010,,,,Sexual,
-2010,,,,Work,
-2010,,,,Begging,
-2010,,,,Mixt,
-2010,,,,Surrogate,
-2010,,,,Engaging in criminal activities,
-2010,,,,"Sampling of human organs, tissues or cells",
-2010,,,,Urban ,
-2010,,,,Rural ,
-2010,,,,Locuitor al altui stat,
-2010,,,,Persoană fără loc de trai permanent,
-2010,,,,Superioare,
-2010,,,,Superioare incomplete,
-2010,,,,Medii speciale,
-2010,,,,Medii ,
-2010,,,,Medii incomplete,
-2010,,,,Primare,
-2010,,,,Alte,
-2010,,,,Analfabet,
-2011,,,,,
-2011,Men,,,,
-2011,Women,,,,
-2011,,Adults,,,
-2011,,Children,,,
-2011,,,Republic of Moldova,,
-2011,,,Russian Federation,,
-2011,,,Germany,,
-2011,,,Poland,,
-2011,,,Turkey,,
-2011,,,Italy,,
-2011,,,Portugal,,
-2011,,,Spain,,
-2011,,,Cyprus,,
-2011,,,Romania,,
-2011,,,Greece,,
-2011,,,Czech,,
-2011,,,Other,,
-2011,,,,Sexual,
-2011,,,,Work,
-2011,,,,Begging,
-2011,,,,Mixt,
-2011,,,,Surrogate,
-2011,,,,Engaging in criminal activities,
-2011,,,,"Sampling of human organs, tissues or cells",
-2011,,,,Urban ,
-2011,,,,Rural ,
-2011,,,,Locuitor al altui stat,
-2011,,,,Persoană fără loc de trai permanent,
-2011,,,,Superioare,
-2011,,,,Superioare incomplete,
-2011,,,,Medii speciale,
-2011,,,,Medii ,
-2011,,,,Medii incomplete,
-2011,,,,Primare,
-2011,,,,Alte,
-2011,,,,Analfabet,
-2012,,,,,
-2012,Men,,,,
-2012,Women,,,,
-2012,,Adults,,,
-2012,,Children,,,
-2012,,,Republic of Moldova,,
-2012,,,Russian Federation,,
-2012,,,Germany,,
-2012,,,Poland,,
-2012,,,Turkey,,
-2012,,,Italy,,
-2012,,,Portugal,,
-2012,,,Spain,,
-2012,,,Cyprus,,
-2012,,,Romania,,
-2012,,,Greece,,
-2012,,,Czech,,
-2012,,,Other,,
-2012,,,,Sexual,
-2012,,,,Work,
-2012,,,,Begging,
-2012,,,,Mixt,
-2012,,,,Surrogate,
-2012,,,,Engaging in criminal activities,
-2012,,,,"Sampling of human organs, tissues or cells",
-2012,,,,Urban ,
-2012,,,,Rural ,
-2012,,,,Locuitor al altui stat,
-2012,,,,Persoană fără loc de trai permanent,
-2012,,,,Superioare,
-2012,,,,Superioare incomplete,
-2012,,,,Medii speciale,
-2012,,,,Medii ,
-2012,,,,Medii incomplete,
-2012,,,,Primare,
-2012,,,,Alte,
-2012,,,,Analfabet,
-2013,,,,,
-2013,Men,,,,
-2013,Women,,,,
-2013,,Adults,,,
-2013,,Children,,,
-2013,,,Republic of Moldova,,
-2013,,,Russian Federation,,
-2013,,,Germany,,
-2013,,,Poland,,
-2013,,,Turkey,,
-2013,,,Italy,,
-2013,,,Portugal,,
-2013,,,Spain,,
-2013,,,Cyprus,,
-2013,,,Romania,,
-2013,,,Greece,,
-2013,,,Czech,,
-2013,,,Other,,
-2013,,,,Sexual,
-2013,,,,Work,
-2013,,,,Begging,
-2013,,,,Mixt,
-2013,,,,Surrogate,
-2013,,,,Engaging in criminal activities,
-2013,,,,"Sampling of human organs, tissues or cells",
-2013,,,,Urban ,
-2013,,,,Rural ,
-2013,,,,Locuitor al altui stat,
-2013,,,,Persoană fără loc de trai permanent,
-2013,,,,Superioare,
-2013,,,,Superioare incomplete,
-2013,,,,Medii speciale,
-2013,,,,Medii ,
-2013,,,,Medii incomplete,
-2013,,,,Primare,
-2013,,,,Alte,
-2013,,,,Analfabet,
-2014,,,,,9.3
-2014,Men,,,,6.3
-2014,Women,,,,12
-2014,,Adults,,,10.7
-2014,,Children,,,4.2
-2014,,,Republic of Moldova,,1.2
-2014,,,Russian Federation,,4.6
-2014,,,Germany,,0.2
-2014,,,Poland,,0
-2014,,,Turkey,,0.7
-2014,,,Italy,,0.4
-2014,,,Portugal,,0
-2014,,,Spain,,0
-2014,,,Cyprus,,0
-2014,,,Romania,,0.1
-2014,,,Greece,,0.3
-2014,,,Czech,,0.1
-2014,,,Other,,1.8
-2014,,,,Sexual,4.1
-2014,,,,Work,3.1
-2014,,,,Begging,1.9
-2014,,,,Mixt,0
-2014,,,,Surrogate,0
-2014,,,,Engaging in criminal activities,0.2
-2014,,,,"Sampling of human organs, tissues or cells",0
-2014,,,,Urban ,
-2014,,,,Rural ,
-2014,,,,Locuitor al altui stat,
-2014,,,,Persoană fără loc de trai permanent,
-2014,,,,Superioare,
-2014,,,,Superioare incomplete,
-2014,,,,Medii speciale,
-2014,,,,Medii ,
-2014,,,,Medii incomplete,
-2014,,,,Primare,
-2014,,,,Alte,
-2014,,,,Analfabet,
-2015,,,,,11
-2015,Men,,,,7.4
-2015,Women,,,,14.3
-2015,,Adults,,,10.9
-2015,,Children,,,11.2
-2015,,,Republic of Moldova,,3.4
-2015,,,Russian Federation,,4.3
-2015,,,Germany,,0.3
-2015,,,Poland,,0.1
-2015,,,Turkey,,0.6
-2015,,,Italy,,0.4
-2015,,,Portugal,,0
-2015,,,Spain,,0.1
-2015,,,Cyprus,,0
-2015,,,Romania,,0.1
-2015,,,Greece,,0.2
-2015,,,Czech,,0
-2015,,,Other,,1.5
-2015,,,,Sexual,4.9
-2015,,,,Work,4.8
-2015,,,,Begging,1
-2015,,,,Mixt,0
-2015,,,,Surrogate,0
-2015,,,,Engaging in criminal activities,0.1
-2015,,,,"Sampling of human organs, tissues or cells",0.2
-2015,,,,Urban ,
-2015,,,,Rural ,
-2015,,,,Locuitor al altui stat,
-2015,,,,Persoană fără loc de trai permanent,
-2015,,,,Superioare,
-2015,,,,Superioare incomplete,
-2015,,,,Medii speciale,
-2015,,,,Medii ,
-2015,,,,Medii incomplete,
-2015,,,,Primare,
-2015,,,,Alte,
-2015,,,,Analfabet,
-2016,,,,,8.3
-2016,Men,,,,7.9
-2016,Women,,,,8.7
-2016,,Adults,,,9
-2016,,Children,,,5.8
-2016,,,Republic of Moldova,,1.5
-2016,,,Russian Federation,,2.8
-2016,,,Germany,,0.4
-2016,,,Poland,,0.1
-2016,,,Turkey,,0.5
-2016,,,Italy,,0.2
-2016,,,Portugal,,0
-2016,,,Spain,,0.2
-2016,,,Cyprus,,0.1
-2016,,,Romania,,0.3
-2016,,,Greece,,0
-2016,,,Czech,,0.3
-2016,,,Other,,2.2
-2016,,,,Sexual,3.3
-2016,,,,Work,3
-2016,,,,Begging,0.9
-2016,,,,Mixt,0.4
-2016,,,,Surrogate,0
-2016,,,,Engaging in criminal activities,0.7
-2016,,,,"Sampling of human organs, tissues or cells",0
-2016,,,,Urban ,
-2016,,,,Rural ,
-2016,,,,Locuitor al altui stat,
-2016,,,,Persoană fără loc de trai permanent,
-2016,,,,Superioare,
-2016,,,,Superioare incomplete,
-2016,,,,Medii speciale,
-2016,,,,Medii ,
-2016,,,,Medii incomplete,
-2016,,,,Primare,
-2016,,,,Alte,
-2016,,,,Analfabet,
-2017,,,,,9.1
-2017,Men,,,,9.2
-2017,Women,,,,9.1
-2017,,Adults,,,9.4
-2017,,Children,,,8
-2017,,,Republic of Moldova,,2.1
-2017,,,Russian Federation,,3.7
-2017,,,Germany,,0.3
-2017,,,Poland,,0.1
-2017,,,Turkey,,0.5
-2017,,,Italy,,0.7
-2017,,,Portugal,,0.1
-2017,,,Spain,,0
-2017,,,Cyprus,,0.2
-2017,,,Romania,,0
-2017,,,Greece,,0.2
-2017,,,Czech,,0.3
-2017,,,Other,,1.1
-2017,,,,Sexual,2.2
-2017,,,,Work,4.4
-2017,,,,Begging,0.5
-2017,,,,Mixt,0
-2017,,,,Surrogate,0
-2017,,,,Engaging in criminal activities,0
-2017,,,,"Sampling of human organs, tissues or cells",0.2
-2017,,,,Urban ,
-2017,,,,Rural ,
-2017,,,,Locuitor al altui stat,
-2017,,,,Persoană fără loc de trai permanent,
-2017,,,,Superioare,
-2017,,,,Superioare incomplete,
-2017,,,,Medii speciale,
-2017,,,,Medii ,
-2017,,,,Medii incomplete,
-2017,,,,Primare,
-2017,,,,Alte,
-2017,,,,Analfabet,
-2018,,,,,13.6
-2018,Men,,,,15.9
-2018,Women,,,,11.5
-2018,,Adults,,,14.5
-2018,,Children,,,10.3
-2018,,,Republic of Moldova,,3.8
-2018,,,Russian Federation,,2
-2018,,,Germany,,1.3
-2018,,,Poland,,0.5
-2018,,,Turkey,,0.7
-2018,,,Italy,,0.2
-2018,,,Portugal,,0.6
-2018,,,Spain,,0.6
-2018,,,Cyprus,,0.1
-2018,,,Romania,,0.9
-2018,,,Greece,,0.1
-2018,,,Czech,,1.1
-2018,,,Other,,1.2
-2018,,,,Sexual,3.5
-2018,,,,Work,8.9
-2018,,,,Begging,0.4
-2018,,,,Mixt,0
-2018,,,,Surrogate,0
-2018,,,,Engaging in criminal activities,0
-2018,,,,"Sampling of human organs, tissues or cells",0
-2018,,,,Urban ,
-2018,,,,Rural ,
-2018,,,,Locuitor al altui stat,
-2018,,,,Persoană fără loc de trai permanent,
-2018,,,,Superioare,
-2018,,,,Superioare incomplete,
-2018,,,,Medii speciale,
-2018,,,,Medii ,
-2018,,,,Medii incomplete,
-2018,,,,Primare,
-2018,,,,Alte,
-2018,,,,Analfabet,
-2019,,,,,12.9
-2019,Men,,,,11.6
-2019,Women,,,,14.1
-2019,,Adults,,,11.2
-2019,,Children,,,19.1
-2019,,,Republic of Moldova,,4.7
-2019,,,Russian Federation,,0.8
-2019,,,Germany,,0.8
-2019,,,Poland,,0.6
-2019,,,Turkey,,0.3
-2019,,,Italy,,0.4
-2019,,,Portugal,,0.3
-2019,,,Spain,,0
-2019,,,Cyprus,,0
-2019,,,Romania,,0.4
-2019,,,Greece,,3.3
-2019,,,Czech,,0
-2019,,,Other,,1.2
-2019,,,,Sexual,3.2
-2019,,,,Work,8.5
-2019,,,,Begging,0.7
-2019,,,,Mixt,0.4
-2019,,,,Surrogate,0
-2019,,,,Engaging in criminal activities,0
-2019,,,,"Sampling of human organs, tissues or cells",0.1
-2019,,,,Urban ,
-2019,,,,Rural ,
-2019,,,,Locuitor al altui stat,
-2019,,,,Persoană fără loc de trai permanent,
-2019,,,,Superioare,
-2019,,,,Superioare incomplete,
-2019,,,,Medii speciale,
-2019,,,,Medii ,
-2019,,,,Medii incomplete,
-2019,,,,Primare,
-2019,,,,Alte,
-2019,,,,Analfabet,
-2020,,,,,5.3
-2020,Men,,,,6.9
-2020,Women,,,,3.8
-2020,,Adults,,,5.6
-2020,,Children,,,4.1
-2020,,,Republic of Moldova,,1.4
-2020,,,Russian Federation,,0.6
-2020,,,Germany,,0
-2020,,,Poland,,0
-2020,,,Turkey,,0.4
-2020,,,Italy,,0.1
-2020,,,Portugal,,0.3
-2020,,,Spain,,0
-2020,,,Cyprus,,0
-2020,,,Romania,,0.2
-2020,,,Greece,,0.1
-2020,,,Czech,,0
-2020,,,Other,,2.1
-2020,,,,Sexual,1.7
-2020,,,,Work,3.4
-2020,,,,Begging,0.2
-2020,,,,Mixt,0
-2020,,,,Surrogate,0
-2020,,,,Engaging in criminal activities,0
-2020,,,,"Sampling of human organs, tissues or cells",0
-2020,,,,Urban ,
-2020,,,,Rural ,
-2020,,,,Locuitor al altui stat,
-2020,,,,Persoană fără loc de trai permanent,
-2020,,,,Superioare,
-2020,,,,Superioare incomplete,
-2020,,,,Medii speciale,
-2020,,,,Medii ,
-2020,,,,Medii incomplete,
-2020,,,,Primare,
-2020,,,,Alte,
-2020,,,,Analfabet,
-2021,,,,,13.9
-2021,Men,,,,16.9
-2021,Women,,,,11.2
-2021,,Adults,,,16.7
-2021,,Children,,,4
-2021,,,Republic of Moldova,,1.6
-2021,,,Russian Federation,,0.5
-2021,,,Germany,,1.6
-2021,,,Poland,,0
-2021,,,Turkey,,0.1
-2021,,,Italy,,2.5
-2021,,,Portugal,,0.2
-2021,,,Spain,,0
-2021,,,Cyprus,,0
-2021,,,Romania,,0.1
-2021,,,Greece,,0.5
-2021,,,Czech,,0
-2021,,,Other,,6.9
-2021,,,,Sexual,1.4
-2021,,,,Work,10.6
-2021,,,,Begging,0.2
-2021,,,,Mixt,0
-2021,,,,Surrogate,0
-2021,,,,Engaging in criminal activities,0
-2021,,,,"Sampling of human organs, tissues or cells",0
-2021,,,,Urban ,
-2021,,,,Rural ,
-2021,,,,Locuitor al altui stat,
-2021,,,,Persoană fără loc de trai permanent,
-2021,,,,Superioare,
-2021,,,,Superioare incomplete,
-2021,,,,Medii speciale,
-2021,,,,Medii ,
-2021,,,,Medii incomplete,
-2021,,,,Primare,
-2021,,,,Alte,
-2021,,,,Analfabet,
-2022,,,,,6.1
-2022,Men,,,,6.5
-2022,Women,,,,5.7
-2022,,Adults,,,5.5
-2022,,Children,,,8.3
-2022,,,Republic of Moldova,,2.6
-2022,,,Russian Federation,,0.4
-2022,,,Germany,,1.4
-2022,,,Poland,,0.3
-2022,,,Turkey,,0
-2022,,,Italy,,0.4
-2022,,,Portugal,,0.2
-2022,,,Spain,,0
-2022,,,Cyprus,,0
-2022,,,Romania,,0
-2022,,,Greece,,0.1
-2022,,,Czech,,0
-2022,,,Other,,0.7
-2022,,,,Sexual,2.1
-2022,,,,Work,3.4
-2022,,,,Begging,0.1
-2022,,,,Mixt,0
-2022,,,,Surrogate,0
-2022,,,,Engaging in criminal activities,0
-2022,,,,"Sampling of human organs, tissues or cells",0
-2022,,,,Urban ,
-2022,,,,Rural ,
-2022,,,,Locuitor al altui stat,
-2022,,,,Persoană fără loc de trai permanent,
-2022,,,,Superioare,
-2022,,,,Superioare incomplete,
-2022,,,,Medii speciale,
-2022,,,,Medii ,
-2022,,,,Medii incomplete,
-2022,,,,Primare,
-2022,,,,Alte,
-2022,,,,Analfabet,
-2023,,,,,7
-2023,Men,,,,11.9
-2023,Women,,,,2.7
-2023,,Adults,,,7.5
-2023,,Children,,,4.9
-2023,,,Republic of Moldova,,3.7
-2023,,,Russian Federation,,0.6
-2023,,,Germany,,0
-2023,,,Poland,,0
-2023,,,Turkey,,0.1
-2023,,,Italy,,0
-2023,,,Portugal,,0
-2023,,,Spain,,0
-2023,,,Cyprus,,0
-2023,,,Romania,,0.1
-2023,,,Greece,,0.1
-2023,,,Czech,,0
-2023,,,Other,,2.2
-2023,,,,Sexual,0.9
-2023,,,,Work,3.8
-2023,,,,Begging,0.1
-2023,,,,Mixt,0
-2023,,,,Surrogate,0
-2023,,,,Engaging in criminal activities,2.1
-2023,,,,"Sampling of human organs, tissues or cells",0
-2023,,,,Urban ,
-2023,,,,Rural ,
-2023,,,,Locuitor al altui stat,
-2023,,,,Persoană fără loc de trai permanent,
-2023,,,,Superioare,
-2023,,,,Superioare incomplete,
-2023,,,,Medii speciale,
-2023,,,,Medii ,
-2023,,,,Medii incomplete,
-2023,,,,Primare,
-2023,,,,Alte,
-2023,,,,Analfabet,
-2024,,,,,5
-2024,Men,,,,6.5
-2024,Women,,,,3.7
-2024,,Adults,,,4.7
-2024,,Children,,,6.1
-2024,,,Republic of Moldova,,2.9
-2024,,,Russian Federation,,0.1
-2024,,,Germany,,0.2
-2024,,,Poland,,0.2
-2024,,,Turkey,,0
-2024,,,Italy,,0
-2024,,,Portugal,,0
-2024,,,Spain,,0
-2024,,,Cyprus,,0
-2024,,,Romania,,0.1
-2024,,,Greece,,0
-2024,,,Czech,,0.3
-2024,,,Other,,1.1
-2024,,,,Sexual,1.3
-2024,,,,Work,2.4
-2024,,,,Begging,0.3
-2024,,,,Mixt,0
-2024,,,,Surrogate,0.1
-2024,,,,Engaging in criminal activities,0.8
-2024,,,,"Sampling of human organs, tissues or cells",0
-2024,,,,Urban ,
-2024,,,,Rural ,
-2024,,,,Locuitor al altui stat,
-2024,,,,Persoană fără loc de trai permanent,
-2024,,,,Superioare,
-2024,,,,Superioare incomplete,
-2024,,,,Medii speciale,
-2024,,,,Medii ,
-2024,,,,Medii incomplete,
-2024,,,,Primare,
-2024,,,,Alte,
-2024,,,,Analfabet,
-2025,,,,,4.5
-2025,Men,,,,2
-2025,Women,,,,1.5
-2025,,Adults,,,3.5
-2025,,Children,,,1
-2025,,,Republic of Moldova,,3.1
-2025,,,Russian Federation,,0.1
-2025,,,Germany,,0.2
-2025,,,Poland,,0
-2025,,,Turkey,,0
-2025,,,Italy,,0.1
-2025,,,Portugal,,0
-2025,,,Spain,,0
-2025,,,Cyprus,,0
-2025,,,Romania,,0
-2025,,,Greece,,0.1
-2025,,,Czech,,0.2
-2025,,,Other,,0.6
-2025,,,,Sexual,1.6
-2025,,,,Work,2.5
-2025,,,,Begging,0.2
-2025,,,,Mixt,0
-2025,,,,Surrogate,0.1
-2025,,,,Engaging in criminal activities,0.1
-2025,,,,"Sampling of human organs, tissues or cells",0
-2025,,,,Urban ,0.46
-2025,,,,Rural ,3.06
-2025,,,,Locuitor al altui stat,0
-2025,,,,Persoană fără loc de trai permanent,0
-2025,,,,Superioare,0.08
-2025,,,,Superioare incomplete,0
-2025,,,,Medii speciale,0
-2025,,,,Medii ,2.47
-2025,,,,Medii incomplete,0.58
-2025,,,,Primare,0.25
-2025,,,,Alte,0
-2025,,,,Analfabet,0
-,,,,,108
-,Men,,,,48
-,Women,,,,35
-,,Adults,,,83
-,,Children,,,25
-,,,Republic of Moldova,,75
-,,,Russian Federation,,2
-,,,Germany,,5
-,,,Poland,,0
-,,,Turkey,,0
-,,,Italy,,2
-,,,Portugal,,1
-,,,Spain,,0
-,,,Cyprus,,1
-,,,Romania,,1
-,,,Greece,,2
-,,,Czech,,4
-,,,Other,,15
-,,,,Sexual,39
-,,,,Work,60
-,,,,Begging,5
-,,,,Mixt,0
-,,,,Surrogate,2
-,,,,Engaging in criminal activities,2
-,,,,"Sampling of human organs, tissues or cells",0
-,,,,Urban ,11
-,,,,Rural ,73
-,,,,Locuitor al altui stat,0
-,,,,Persoană fără loc de trai permanent,0
-,,,,Superioare,2
-,,,,Superioare incomplete,0
-,,,,Medii speciale,0
-,,,,Medii ,59
-,,,,Medii incomplete,14
-,,,,Primare,6
-,,,,Alte,0
-,,,,Analfabet,0
+Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas of residence,Level of education,Value
+2010,,,,,,,
+2010,Men,,,,,,
+2010,Women,,,,,,
+2010,,Adults,,,,,
+2010,,Children,,,,,
+2010,,,Republic of Moldova,,,,
+2010,,,Russian Federation,,,,
+2010,,,Germany,,,,
+2010,,,Poland,,,,
+2010,,,Turkey,,,,
+2010,,,Italy,,,,
+2010,,,Portugal,,,,
+2010,,,Spain,,,,
+2010,,,Cyprus,,,,
+2010,,,Romania,,,,
+2010,,,Greece,,,,
+2010,,,Czech,,,,
+2010,,,Other,,,,
+2010,,,,Sexual,,,
+2010,,,,Work,,,
+2010,,,,Begging,,,
+2010,,,,Mixt,,,
+2010,,,,Surrogate,,,
+2010,,,,Engaging in criminal activities,,,
+2010,,,,"Sampling of human organs, tissues or cells",,,
+2010,,,,,Urban,,
+2010,,,,,Rural,,
+2010,,,,,Resident of another country,,
+2010,,,,,Person with no permanent place of residence,,
+2010,,,,,,Higher education,
+2010,,,,,,Incomplete higher education,
+2010,,,,,,Specialized secondary education,
+2010,,,,,,Secondary education,
+2010,,,,,,Incomplete secondary education,
+2010,,,,,,Primary education,
+2010,,,,,,Other,
+2010,,,,,,Illiterate,
+2011,,,,,,,
+2011,Men,,,,,,
+2011,Women,,,,,,
+2011,,Adults,,,,,
+2011,,Children,,,,,
+2011,,,Republic of Moldova,,,,
+2011,,,Russian Federation,,,,
+2011,,,Germany,,,,
+2011,,,Poland,,,,
+2011,,,Turkey,,,,
+2011,,,Italy,,,,
+2011,,,Portugal,,,,
+2011,,,Spain,,,,
+2011,,,Cyprus,,,,
+2011,,,Romania,,,,
+2011,,,Greece,,,,
+2011,,,Czech,,,,
+2011,,,Other,,,,
+2011,,,,Sexual,,,
+2011,,,,Work,,,
+2011,,,,Begging,,,
+2011,,,,Mixt,,,
+2011,,,,Surrogate,,,
+2011,,,,Engaging in criminal activities,,,
+2011,,,,"Sampling of human organs, tissues or cells",,,
+2011,,,,,Urban,,
+2011,,,,,Rural,,
+2011,,,,,Resident of another country,,
+2011,,,,,Person with no permanent place of residence,,
+2011,,,,,,Higher education,
+2011,,,,,,Incomplete higher education,
+2011,,,,,,Specialized secondary education,
+2011,,,,,,Secondary education,
+2011,,,,,,Incomplete secondary education,
+2011,,,,,,Primary education,
+2011,,,,,,Other,
+2011,,,,,,Illiterate,
+2012,,,,,,,
+2012,Men,,,,,,
+2012,Women,,,,,,
+2012,,Adults,,,,,
+2012,,Children,,,,,
+2012,,,Republic of Moldova,,,,
+2012,,,Russian Federation,,,,
+2012,,,Germany,,,,
+2012,,,Poland,,,,
+2012,,,Turkey,,,,
+2012,,,Italy,,,,
+2012,,,Portugal,,,,
+2012,,,Spain,,,,
+2012,,,Cyprus,,,,
+2012,,,Romania,,,,
+2012,,,Greece,,,,
+2012,,,Czech,,,,
+2012,,,Other,,,,
+2012,,,,Sexual,,,
+2012,,,,Work,,,
+2012,,,,Begging,,,
+2012,,,,Mixt,,,
+2012,,,,Surrogate,,,
+2012,,,,Engaging in criminal activities,,,
+2012,,,,"Sampling of human organs, tissues or cells",,,
+2012,,,,,Urban,,
+2012,,,,,Rural,,
+2012,,,,,Resident of another country,,
+2012,,,,,Person with no permanent place of residence,,
+2012,,,,,,Higher education,
+2012,,,,,,Incomplete higher education,
+2012,,,,,,Specialized secondary education,
+2012,,,,,,Secondary education,
+2012,,,,,,Incomplete secondary education,
+2012,,,,,,Primary education,
+2012,,,,,,Other,
+2012,,,,,,Illiterate,
+2013,,,,,,,
+2013,Men,,,,,,
+2013,Women,,,,,,
+2013,,Adults,,,,,
+2013,,Children,,,,,
+2013,,,Republic of Moldova,,,,
+2013,,,Russian Federation,,,,
+2013,,,Germany,,,,
+2013,,,Poland,,,,
+2013,,,Turkey,,,,
+2013,,,Italy,,,,
+2013,,,Portugal,,,,
+2013,,,Spain,,,,
+2013,,,Cyprus,,,,
+2013,,,Romania,,,,
+2013,,,Greece,,,,
+2013,,,Czech,,,,
+2013,,,Other,,,,
+2013,,,,Sexual,,,
+2013,,,,Work,,,
+2013,,,,Begging,,,
+2013,,,,Mixt,,,
+2013,,,,Surrogate,,,
+2013,,,,Engaging in criminal activities,,,
+2013,,,,"Sampling of human organs, tissues or cells",,,
+2013,,,,,Urban,,
+2013,,,,,Rural,,
+2013,,,,,Resident of another country,,
+2013,,,,,Person with no permanent place of residence,,
+2013,,,,,,Higher education,
+2013,,,,,,Incomplete higher education,
+2013,,,,,,Specialized secondary education,
+2013,,,,,,Secondary education,
+2013,,,,,,Incomplete secondary education,
+2013,,,,,,Primary education,
+2013,,,,,,Other,
+2013,,,,,,Illiterate,
+2014,,,,,,,9.3
+2014,Men,,,,,,6.3
+2014,Women,,,,,,12
+2014,,Adults,,,,,10.7
+2014,,Children,,,,,4.2
+2014,,,Republic of Moldova,,,,1.2
+2014,,,Russian Federation,,,,4.6
+2014,,,Germany,,,,0.2
+2014,,,Poland,,,,0
+2014,,,Turkey,,,,0.7
+2014,,,Italy,,,,0.4
+2014,,,Portugal,,,,0
+2014,,,Spain,,,,0
+2014,,,Cyprus,,,,0
+2014,,,Romania,,,,0.1
+2014,,,Greece,,,,0.3
+2014,,,Czech,,,,0.1
+2014,,,Other,,,,1.8
+2014,,,,Sexual,,,4.1
+2014,,,,Work,,,3.1
+2014,,,,Begging,,,1.9
+2014,,,,Mixt,,,0
+2014,,,,Surrogate,,,0
+2014,,,,Engaging in criminal activities,,,0.2
+2014,,,,"Sampling of human organs, tissues or cells",,,0
+2014,,,,,Urban,,
+2014,,,,,Rural,,
+2014,,,,,Resident of another country,,
+2014,,,,,Person with no permanent place of residence,,
+2014,,,,,,Higher education,
+2014,,,,,,Incomplete higher education,
+2014,,,,,,Specialized secondary education,
+2014,,,,,,Secondary education,
+2014,,,,,,Incomplete secondary education,
+2014,,,,,,Primary education,
+2014,,,,,,Other,
+2014,,,,,,Illiterate,
+2015,,,,,,,11
+2015,Men,,,,,,7.4
+2015,Women,,,,,,14.3
+2015,,Adults,,,,,10.9
+2015,,Children,,,,,11.2
+2015,,,Republic of Moldova,,,,3.4
+2015,,,Russian Federation,,,,4.3
+2015,,,Germany,,,,0.3
+2015,,,Poland,,,,0.1
+2015,,,Turkey,,,,0.6
+2015,,,Italy,,,,0.4
+2015,,,Portugal,,,,0
+2015,,,Spain,,,,0.1
+2015,,,Cyprus,,,,0
+2015,,,Romania,,,,0.1
+2015,,,Greece,,,,0.2
+2015,,,Czech,,,,0
+2015,,,Other,,,,1.5
+2015,,,,Sexual,,,4.9
+2015,,,,Work,,,4.8
+2015,,,,Begging,,,1
+2015,,,,Mixt,,,0
+2015,,,,Surrogate,,,0
+2015,,,,Engaging in criminal activities,,,0.1
+2015,,,,"Sampling of human organs, tissues or cells",,,0.2
+2015,,,,,Urban,,
+2015,,,,,Rural,,
+2015,,,,,Resident of another country,,
+2015,,,,,Person with no permanent place of residence,,
+2015,,,,,,Higher education,
+2015,,,,,,Incomplete higher education,
+2015,,,,,,Specialized secondary education,
+2015,,,,,,Secondary education,
+2015,,,,,,Incomplete secondary education,
+2015,,,,,,Primary education,
+2015,,,,,,Other,
+2015,,,,,,Illiterate,
+2016,,,,,,,8.3
+2016,Men,,,,,,7.9
+2016,Women,,,,,,8.7
+2016,,Adults,,,,,9
+2016,,Children,,,,,5.8
+2016,,,Republic of Moldova,,,,1.5
+2016,,,Russian Federation,,,,2.8
+2016,,,Germany,,,,0.4
+2016,,,Poland,,,,0.1
+2016,,,Turkey,,,,0.5
+2016,,,Italy,,,,0.2
+2016,,,Portugal,,,,0
+2016,,,Spain,,,,0.2
+2016,,,Cyprus,,,,0.1
+2016,,,Romania,,,,0.3
+2016,,,Greece,,,,0
+2016,,,Czech,,,,0.3
+2016,,,Other,,,,2.2
+2016,,,,Sexual,,,3.3
+2016,,,,Work,,,3
+2016,,,,Begging,,,0.9
+2016,,,,Mixt,,,0.4
+2016,,,,Surrogate,,,0
+2016,,,,Engaging in criminal activities,,,0.7
+2016,,,,"Sampling of human organs, tissues or cells",,,0
+2016,,,,,Urban,,
+2016,,,,,Rural,,
+2016,,,,,Resident of another country,,
+2016,,,,,Person with no permanent place of residence,,
+2016,,,,,,Higher education,
+2016,,,,,,Incomplete higher education,
+2016,,,,,,Specialized secondary education,
+2016,,,,,,Secondary education,
+2016,,,,,,Incomplete secondary education,
+2016,,,,,,Primary education,
+2016,,,,,,Other,
+2016,,,,,,Illiterate,
+2017,,,,,,,9.1
+2017,Men,,,,,,9.2
+2017,Women,,,,,,9.1
+2017,,Adults,,,,,9.4
+2017,,Children,,,,,8
+2017,,,Republic of Moldova,,,,2.1
+2017,,,Russian Federation,,,,3.7
+2017,,,Germany,,,,0.3
+2017,,,Poland,,,,0.1
+2017,,,Turkey,,,,0.5
+2017,,,Italy,,,,0.7
+2017,,,Portugal,,,,0.1
+2017,,,Spain,,,,0
+2017,,,Cyprus,,,,0.2
+2017,,,Romania,,,,0
+2017,,,Greece,,,,0.2
+2017,,,Czech,,,,0.3
+2017,,,Other,,,,1.1
+2017,,,,Sexual,,,2.2
+2017,,,,Work,,,4.4
+2017,,,,Begging,,,0.5
+2017,,,,Mixt,,,0
+2017,,,,Surrogate,,,0
+2017,,,,Engaging in criminal activities,,,0
+2017,,,,"Sampling of human organs, tissues or cells",,,0.2
+2017,,,,,Urban,,
+2017,,,,,Rural,,
+2017,,,,,Resident of another country,,
+2017,,,,,Person with no permanent place of residence,,
+2017,,,,,,Higher education,
+2017,,,,,,Incomplete higher education,
+2017,,,,,,Specialized secondary education,
+2017,,,,,,Secondary education,
+2017,,,,,,Incomplete secondary education,
+2017,,,,,,Primary education,
+2017,,,,,,Other,
+2017,,,,,,Illiterate,
+2018,,,,,,,13.6
+2018,Men,,,,,,15.9
+2018,Women,,,,,,11.5
+2018,,Adults,,,,,14.5
+2018,,Children,,,,,10.3
+2018,,,Republic of Moldova,,,,3.8
+2018,,,Russian Federation,,,,2
+2018,,,Germany,,,,1.3
+2018,,,Poland,,,,0.5
+2018,,,Turkey,,,,0.7
+2018,,,Italy,,,,0.2
+2018,,,Portugal,,,,0.6
+2018,,,Spain,,,,0.6
+2018,,,Cyprus,,,,0.1
+2018,,,Romania,,,,0.9
+2018,,,Greece,,,,0.1
+2018,,,Czech,,,,1.1
+2018,,,Other,,,,1.2
+2018,,,,Sexual,,,3.5
+2018,,,,Work,,,8.9
+2018,,,,Begging,,,0.4
+2018,,,,Mixt,,,0
+2018,,,,Surrogate,,,0
+2018,,,,Engaging in criminal activities,,,0
+2018,,,,"Sampling of human organs, tissues or cells",,,0
+2018,,,,,Urban,,
+2018,,,,,Rural,,
+2018,,,,,Resident of another country,,
+2018,,,,,Person with no permanent place of residence,,
+2018,,,,,,Higher education,
+2018,,,,,,Incomplete higher education,
+2018,,,,,,Specialized secondary education,
+2018,,,,,,Secondary education,
+2018,,,,,,Incomplete secondary education,
+2018,,,,,,Primary education,
+2018,,,,,,Other,
+2018,,,,,,Illiterate,
+2019,,,,,,,12.9
+2019,Men,,,,,,11.6
+2019,Women,,,,,,14.1
+2019,,Adults,,,,,11.2
+2019,,Children,,,,,19.1
+2019,,,Republic of Moldova,,,,4.7
+2019,,,Russian Federation,,,,0.8
+2019,,,Germany,,,,0.8
+2019,,,Poland,,,,0.6
+2019,,,Turkey,,,,0.3
+2019,,,Italy,,,,0.4
+2019,,,Portugal,,,,0.3
+2019,,,Spain,,,,0
+2019,,,Cyprus,,,,0
+2019,,,Romania,,,,0.4
+2019,,,Greece,,,,3.3
+2019,,,Czech,,,,0
+2019,,,Other,,,,1.2
+2019,,,,Sexual,,,3.2
+2019,,,,Work,,,8.5
+2019,,,,Begging,,,0.7
+2019,,,,Mixt,,,0.4
+2019,,,,Surrogate,,,0
+2019,,,,Engaging in criminal activities,,,0
+2019,,,,"Sampling of human organs, tissues or cells",,,0.1
+2019,,,,,Urban,,
+2019,,,,,Rural,,
+2019,,,,,Resident of another country,,
+2019,,,,,Person with no permanent place of residence,,
+2019,,,,,,Higher education,
+2019,,,,,,Incomplete higher education,
+2019,,,,,,Specialized secondary education,
+2019,,,,,,Secondary education,
+2019,,,,,,Incomplete secondary education,
+2019,,,,,,Primary education,
+2019,,,,,,Other,
+2019,,,,,,Illiterate,
+2020,,,,,,,5.3
+2020,Men,,,,,,6.9
+2020,Women,,,,,,3.8
+2020,,Adults,,,,,5.6
+2020,,Children,,,,,4.1
+2020,,,Republic of Moldova,,,,1.4
+2020,,,Russian Federation,,,,0.6
+2020,,,Germany,,,,0
+2020,,,Poland,,,,0
+2020,,,Turkey,,,,0.4
+2020,,,Italy,,,,0.1
+2020,,,Portugal,,,,0.3
+2020,,,Spain,,,,0
+2020,,,Cyprus,,,,0
+2020,,,Romania,,,,0.2
+2020,,,Greece,,,,0.1
+2020,,,Czech,,,,0
+2020,,,Other,,,,2.1
+2020,,,,Sexual,,,1.7
+2020,,,,Work,,,3.4
+2020,,,,Begging,,,0.2
+2020,,,,Mixt,,,0
+2020,,,,Surrogate,,,0
+2020,,,,Engaging in criminal activities,,,0
+2020,,,,"Sampling of human organs, tissues or cells",,,0
+2020,,,,,Urban,,
+2020,,,,,Rural,,
+2020,,,,,Resident of another country,,
+2020,,,,,Person with no permanent place of residence,,
+2020,,,,,,Higher education,
+2020,,,,,,Incomplete higher education,
+2020,,,,,,Specialized secondary education,
+2020,,,,,,Secondary education,
+2020,,,,,,Incomplete secondary education,
+2020,,,,,,Primary education,
+2020,,,,,,Other,
+2020,,,,,,Illiterate,
+2021,,,,,,,13.9
+2021,Men,,,,,,16.9
+2021,Women,,,,,,11.2
+2021,,Adults,,,,,16.7
+2021,,Children,,,,,4
+2021,,,Republic of Moldova,,,,1.6
+2021,,,Russian Federation,,,,0.5
+2021,,,Germany,,,,1.6
+2021,,,Poland,,,,0
+2021,,,Turkey,,,,0.1
+2021,,,Italy,,,,2.5
+2021,,,Portugal,,,,0.2
+2021,,,Spain,,,,0
+2021,,,Cyprus,,,,0
+2021,,,Romania,,,,0.1
+2021,,,Greece,,,,0.5
+2021,,,Czech,,,,0
+2021,,,Other,,,,6.9
+2021,,,,Sexual,,,1.4
+2021,,,,Work,,,10.6
+2021,,,,Begging,,,0.2
+2021,,,,Mixt,,,0
+2021,,,,Surrogate,,,0
+2021,,,,Engaging in criminal activities,,,0
+2021,,,,"Sampling of human organs, tissues or cells",,,0
+2021,,,,,Urban,,
+2021,,,,,Rural,,
+2021,,,,,Resident of another country,,
+2021,,,,,Person with no permanent place of residence,,
+2021,,,,,,Higher education,
+2021,,,,,,Incomplete higher education,
+2021,,,,,,Specialized secondary education,
+2021,,,,,,Secondary education,
+2021,,,,,,Incomplete secondary education,
+2021,,,,,,Primary education,
+2021,,,,,,Other,
+2021,,,,,,Illiterate,
+2022,,,,,,,6.1
+2022,Men,,,,,,6.5
+2022,Women,,,,,,5.7
+2022,,Adults,,,,,5.5
+2022,,Children,,,,,8.3
+2022,,,Republic of Moldova,,,,2.6
+2022,,,Russian Federation,,,,0.4
+2022,,,Germany,,,,1.4
+2022,,,Poland,,,,0.3
+2022,,,Turkey,,,,0
+2022,,,Italy,,,,0.4
+2022,,,Portugal,,,,0.2
+2022,,,Spain,,,,0
+2022,,,Cyprus,,,,0
+2022,,,Romania,,,,0
+2022,,,Greece,,,,0.1
+2022,,,Czech,,,,0
+2022,,,Other,,,,0.7
+2022,,,,Sexual,,,2.1
+2022,,,,Work,,,3.4
+2022,,,,Begging,,,0.1
+2022,,,,Mixt,,,0
+2022,,,,Surrogate,,,0
+2022,,,,Engaging in criminal activities,,,0
+2022,,,,"Sampling of human organs, tissues or cells",,,0
+2022,,,,,Urban,,
+2022,,,,,Rural,,
+2022,,,,,Resident of another country,,
+2022,,,,,Person with no permanent place of residence,,
+2022,,,,,,Higher education,
+2022,,,,,,Incomplete higher education,
+2022,,,,,,Specialized secondary education,
+2022,,,,,,Secondary education,
+2022,,,,,,Incomplete secondary education,
+2022,,,,,,Primary education,
+2022,,,,,,Other,
+2022,,,,,,Illiterate,
+2023,,,,,,,7
+2023,Men,,,,,,11.9
+2023,Women,,,,,,2.7
+2023,,Adults,,,,,7.5
+2023,,Children,,,,,4.9
+2023,,,Republic of Moldova,,,,3.7
+2023,,,Russian Federation,,,,0.6
+2023,,,Germany,,,,0
+2023,,,Poland,,,,0
+2023,,,Turkey,,,,0.1
+2023,,,Italy,,,,0
+2023,,,Portugal,,,,0
+2023,,,Spain,,,,0
+2023,,,Cyprus,,,,0
+2023,,,Romania,,,,0.1
+2023,,,Greece,,,,0.1
+2023,,,Czech,,,,0
+2023,,,Other,,,,2.2
+2023,,,,Sexual,,,0.9
+2023,,,,Work,,,3.8
+2023,,,,Begging,,,0.1
+2023,,,,Mixt,,,0
+2023,,,,Surrogate,,,0
+2023,,,,Engaging in criminal activities,,,2.1
+2023,,,,"Sampling of human organs, tissues or cells",,,0
+2023,,,,,Urban,,
+2023,,,,,Rural,,
+2023,,,,,Resident of another country,,
+2023,,,,,Person with no permanent place of residence,,
+2023,,,,,,Higher education,
+2023,,,,,,Incomplete higher education,
+2023,,,,,,Specialized secondary education,
+2023,,,,,,Secondary education,
+2023,,,,,,Incomplete secondary education,
+2023,,,,,,Primary education,
+2023,,,,,,Other,
+2023,,,,,,Illiterate,
+2024,,,,,,,5
+2024,Men,,,,,,6.5
+2024,Women,,,,,,3.7
+2024,,Adults,,,,,4.7
+2024,,Children,,,,,6.1
+2024,,,Republic of Moldova,,,,2.9
+2024,,,Russian Federation,,,,0.1
+2024,,,Germany,,,,0.2
+2024,,,Poland,,,,0.2
+2024,,,Turkey,,,,0
+2024,,,Italy,,,,0
+2024,,,Portugal,,,,0
+2024,,,Spain,,,,0
+2024,,,Cyprus,,,,0
+2024,,,Romania,,,,0.1
+2024,,,Greece,,,,0
+2024,,,Czech,,,,0.3
+2024,,,Other,,,,1.1
+2024,,,,Sexual,,,1.3
+2024,,,,Work,,,2.4
+2024,,,,Begging,,,0.3
+2024,,,,Mixt,,,0
+2024,,,,Surrogate,,,0.1
+2024,,,,Engaging in criminal activities,,,0.8
+2024,,,,"Sampling of human organs, tissues or cells",,,0
+2024,,,,,Urban,,
+2024,,,,,Rural,,
+2024,,,,,Resident of another country,,
+2024,,,,,Person with no permanent place of residence,,
+2024,,,,,,Higher education,
+2024,,,,,,Incomplete higher education,
+2024,,,,,,Specialized secondary education,
+2024,,,,,,Secondary education,
+2024,,,,,,Incomplete secondary education,
+2024,,,,,,Primary education,
+2024,,,,,,Other,
+2024,,,,,,Illiterate,
+2025,,,,,,,4.5
+2025,Men,,,,,,2
+2025,Women,,,,,,1.5
+2025,,Adults,,,,,3.5
+2025,,Children,,,,,1
+2025,,,Republic of Moldova,,,,3.1
+2025,,,Russian Federation,,,,0.1
+2025,,,Germany,,,,0.2
+2025,,,Poland,,,,0
+2025,,,Turkey,,,,0
+2025,,,Italy,,,,0.1
+2025,,,Portugal,,,,0
+2025,,,Spain,,,,0
+2025,,,Cyprus,,,,0
+2025,,,Romania,,,,0
+2025,,,Greece,,,,0.1
+2025,,,Czech,,,,0.2
+2025,,,Other,,,,0.6
+2025,,,,Sexual,,,1.6
+2025,,,,Work,,,2.5
+2025,,,,Begging,,,0.2
+2025,,,,Mixt,,,0
+2025,,,,Surrogate,,,0.1
+2025,,,,Engaging in criminal activities,,,0.1
+2025,,,,"Sampling of human organs, tissues or cells",,,0
+2025,,,,,Urban,,0.46
+2025,,,,,Rural,,3.06
+2025,,,,,Resident of another country,,0
+2025,,,,,Person with no permanent place of residence,,0
+2025,,,,,,Higher education,0.08
+2025,,,,,,Incomplete higher education,0
+2025,,,,,,Specialized secondary education,0
+2025,,,,,,Secondary education,2.47
+2025,,,,,,Incomplete secondary education,0.58
+2025,,,,,,Primary education,0.25
+2025,,,,,,Other,0
+2025,,,,,,Illiterate,0

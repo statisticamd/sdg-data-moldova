@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 3.1.1: Maternal mortality ratio</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 3.1: By 2030, reduce the global maternal mortality ratio to less than 70 per  100,000 live births</p>
+  <p>Target 3.1: By 2030, reduce the global maternal mortality ratio to less than 70 per  100,000 live births.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   WHO
@@ -49,8 +49,9 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of women who have passed away as a result of complications during  pregnancy or delivery in the year of reference, per 100 000 born alive* in the  same year.</p> 
-  <p>  * Data are based on registration of newly-born children with  550 gr weight and of 22 weeks of gestation. </p>
+  |
+  <p>Number of women who have passed away as a result of complications during  pregnancy or delivery in the year of reference, per 100 000 born alive* in the  same year.</p>
+  <p>  * Data are based on registration of newly-born children with  550 gr weight and of 22 weeks of gestation.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

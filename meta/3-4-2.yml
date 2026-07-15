@@ -33,12 +33,13 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Per 100.000 population / Per 10.000 children
+  Per 100.000 population
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)National Agency for Public Health-Statistical data on mortality by causes of death according to the medical certificate of death</p> 
-  <p>2) National Bureau of Statistics - number of usual resident population </p>
+  |
+  <p>1)National Agency for Public Health-Statistical data on mortality by causes of death according to the medical certificate of death</p>
+  <p>2) National Bureau of Statistics - number of usual resident population</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -51,8 +52,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of deaths caused by suicides during the year of reference out of the  number of population *100.000</p> 
-  <p>The number of cases of suicidal death in children 0-17 years 11 months 29 days in a reference year compared to the number of children of the same age *10.000 </p>
+  Number of deaths caused by suicides during the year of reference out of the  number of population *100.000
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

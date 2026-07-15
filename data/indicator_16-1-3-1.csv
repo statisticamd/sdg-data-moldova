@@ -15,10 +15,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2010,,,,Psychological violence,
 2010,,,,Physical violence,
 2010,,,,Sexual violence,
-2010,,,,,
-2010,,,,,
-2010,,,,,
-2010,,,,,
 2011,,,,,
 2011,Intentional serious bodily harm (art.151),,,,
 2011,Kidnapping a person (art.164),,,,
@@ -35,10 +31,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2011,,,,Psychological violence,
 2011,,,,Physical violence,
 2011,,,,Sexual violence,
-2011,,,,,
-2011,,,,,
-2011,,,,,
-2011,,,,,
 2012,,,,,
 2012,Intentional serious bodily harm (art.151),,,,
 2012,Kidnapping a person (art.164),,,,
@@ -55,10 +47,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2012,,,,Psychological violence,
 2012,,,,Physical violence,
 2012,,,,Sexual violence,
-2012,,,,,
-2012,,,,,
-2012,,,,,
-2012,,,,,
 2013,,,,,
 2013,Intentional serious bodily harm (art.151),,,,
 2013,Kidnapping a person (art.164),,,,
@@ -75,10 +63,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2013,,,,Psychological violence,
 2013,,,,Physical violence,
 2013,,,,Sexual violence,
-2013,,,,,
-2013,,,,,
-2013,,,,,
-2013,,,,,
 2014,,,,,98.3
 2014,Intentional serious bodily harm (art.151),,,,4.6
 2014,Kidnapping a person (art.164),,,,1.5
@@ -95,10 +79,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2014,,,,Psychological violence,7.3
 2014,,,,Physical violence,31.7
 2014,,,,Sexual violence,9.5
-2014,,,,,
-2014,,,,,
-2014,,,,,
-2014,,,,,
 2015,,,,,116.1
 2015,Intentional serious bodily harm (art.151),,,,4.7
 2015,Kidnapping a person (art.164),,,,1.4
@@ -115,10 +95,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2015,,,,Psychological violence,11.5
 2015,,,,Physical violence,39.3
 2015,,,,Sexual violence,10.9
-2015,,,,,
-2015,,,,,
-2015,,,,,
-2015,,,,,
 2016,,,,,133.5
 2016,Intentional serious bodily harm (art.151),,,,5.7
 2016,Kidnapping a person (art.164),,,,1.4
@@ -135,10 +111,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2016,,,,Psychological violence,20.6
 2016,,,,Physical violence,56.9
 2016,,,,Sexual violence,13.3
-2016,,,,,
-2016,,,,,
-2016,,,,,
-2016,,,,,
 2017,,,,,118.5
 2017,Intentional serious bodily harm (art.151),,,,5.6
 2017,Kidnapping a person (art.164),,,,1.2
@@ -155,10 +127,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2017,,,,Psychological violence,26.8
 2017,,,,Physical violence,64.8
 2017,,,,Sexual violence,17.2
-2017,,,,,
-2017,,,,,
-2017,,,,,
-2017,,,,,
 2018,,,,,120.6
 2018,Intentional serious bodily harm (art.151),,,,6.3
 2018,Kidnapping a person (art.164),,,,1.5
@@ -175,10 +143,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2018,,,,Psychological violence,32
 2018,,,,Physical violence,64.6
 2018,,,,Sexual violence,19.3
-2018,,,,,
-2018,,,,,
-2018,,,,,
-2018,,,,,
 2019,,,,,114
 2019,Intentional serious bodily harm (art.151),,,,5.8
 2019,Kidnapping a person (art.164),,,,0.9
@@ -195,10 +159,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2019,,,,Psychological violence,28.9
 2019,,,,Physical violence,60.9
 2019,,,,Sexual violence,19.4
-2019,,,,,
-2019,,,,,
-2019,,,,,
-2019,,,,,
 2020,,,,,87.1
 2020,Intentional serious bodily harm (art.151),,,,3.9
 2020,Kidnapping a person (art.164),,,,0.9
@@ -215,10 +175,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2020,,,,Psychological violence,22.2
 2020,,,,Physical violence,44.6
 2020,,,,Sexual violence,16
-2020,,,,,
-2020,,,,,
-2020,,,,,
-2020,,,,,
 2021,,,,,104
 2021,Intentional serious bodily harm (art.151),,,,3.9
 2021,Kidnapping a person (art.164),,,,1.2
@@ -235,10 +191,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2021,,,,Psychological violence,26.5
 2021,,,,Physical violence,50.4
 2021,,,,Sexual violence,17.9
-2021,,,,,
-2021,,,,,
-2021,,,,,
-2021,,,,,
 2022,,,,,116.6
 2022,Intentional serious bodily harm (art.151),,,,4
 2022,Kidnapping a person (art.164),,,,1.1
@@ -255,10 +207,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2022,,,,Psychological violence,32.4
 2022,,,,Physical violence,59.1
 2022,,,,Sexual violence,19.2
-2022,,,,,
-2022,,,,,
-2022,,,,,
-2022,,,,,
 2023,,,,,120.8
 2023,Intentional serious bodily harm (art.151),,,,4
 2023,Kidnapping a person (art.164),,,,1
@@ -275,10 +223,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2023,,,,Psychological violence,22.3
 2023,,,,Physical violence,65.6
 2023,,,,Sexual violence,17.6
-2023,,,,,
-2023,,,,,
-2023,,,,,
-2023,,,,,
 2024,,,,,130.4
 2024,Intentional serious bodily harm (art.151),,,,4
 2024,Kidnapping a person (art.164),,,,0.8
@@ -295,10 +239,6 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2024,,,,Psychological violence,22.9
 2024,,,,Physical violence,70.4
 2024,,,,Sexual violence,18.8
-2024,,,,,
-2024,,,,,
-2024,,,,,
-2024,,,,,
 2025,,,,,130.4
 2025,Intentional serious bodily harm (art.151),,,,4.6
 2025,Kidnapping a person (art.164),,,,1.8
@@ -315,7 +255,3 @@ Year,Types of crimes,Sex,Age group,Forms of violence,Value
 2025,,,,Psychological violence,24.4
 2025,,,,Physical violence,83.3
 2025,,,,Sexual violence,23.2
-2025,,,,,
-2025,,,,,
-2025,,,,,
-2025,,,,,

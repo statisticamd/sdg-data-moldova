@@ -37,8 +37,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului</p> 
-  <p> 2) Biroul Național  de Statistică - numărul născuților-vii </p>
+  |
+  <p>1) Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului</p>
+  <p> 2) Biroul Național  de Statistică - numărul născuților-vii</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

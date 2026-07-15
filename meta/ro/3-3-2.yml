@@ -36,8 +36,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică-Raport statistic Nr. 8 -săn privind cazurile noi de tuberculoză</p> 
-  <p>2) Biroul Național  de Statistică  demografiei, număr populației cu reședință obișnuită </p>
+  |
+  <p>1) Agenția Națională pentru Sănătate Publică-Raport statistic Nr. 8 -săn privind cazurile noi de tuberculoză</p>
+  <p>2) Biroul Național  de Statistică  demografiei, număr populației cu reședință obișnuită</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''

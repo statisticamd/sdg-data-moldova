@@ -16,7 +16,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 214 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of  hygiene per 100,000 population</p>
 SDG_SERIES_DESCR: ''
@@ -38,22 +38,26 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Statistical data on population mortality by causes of deaths - National  Agency for Public Health</p> 
-  <p>  2) Statistical data on population - National  Bureau of Statistics </p>
+  |
+  <p>Statistical data on population mortality by causes of deaths - National  Agency for Public Health</p>
+  <p>Statistical data on population - National  Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Agency for Public Health</p> 
-  <p>  2.National Bureau of Statistics </p>
+  |
+  <p>National Agency for Public Health</p>
+  <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
+  Ministry of Health
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of deaths caused by unsafe water, unsafe sanitation and lack of hygiene  during one year, out of the number of population *100000
+  |
+  <p>Deaths attributable to unsafe water, sanitation and hygiene focusing on inadequate WASH services, expressed per 100,000 population; The included diseases are diarrhoea (GHE code 110 which includes ICD-10 codes A00, A01, A03, A04, A06-A09), acute respiratory infections (GHE code 380 which includes </p>
+  <p>ICD-10 codes H65-H66, J00-J22, P23, and U04) intestinal nematode infections (GHE codes 340, 350 and 360 which include ICD-10 codes B76-B77, and B79) and protein-energy malnutrition (GHE code 550 which includes ICD-10 codes E40-E46).</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,6 +65,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Clculated according to the international methodology recommended by the World Health Organization
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -70,9 +75,9 @@ source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
 source_periodicity_1: >-
-  Annual
+  annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

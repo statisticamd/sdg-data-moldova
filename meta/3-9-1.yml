@@ -15,7 +15,7 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 216 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 3.9.1: Mortality rate attributed to household and ambient air pollution per  100,000 population</p>
 SDG_SERIES_DESCR: ''
@@ -31,29 +31,32 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Air pollution is one of the highest risks for health. According to WHO data,  the combined effects of ambient air pollution (of air in indoor and outdoor  households area) determines over 7 million premature deaths on annual basis.  The majority of deaths occur as a cause of strokes, heart diseases, chronic  obstructive lung diseases, lung cancer and acute respiratory diseases. The  biggest burden is supported by populations of countries with small and medium  revenues.
+  The mortality resulting from the exposure to ambient (outdoor) air pollution and household (indoor) air pollution from polluting fuels used for cooking and/or heating was assessed. Ambient air pollution results from emissions from industrial activity, households, cars and trucks which are complex mixtures of air pollutants, many of which are harmful to health. Of all  these pollutants, fine particulate matter has the greatest effect on human health. By polluting fuels is understood kerosene, wood, coal, animal dung, charcoal, and crop wastes.
 UNIT_MEASURE: >-
   Per 100 000 population
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Statistical data on population mortality by causes of death - National  Agency for Public Health</p> 
-  <p>  2) Statistical data on population - National  Bureau of Statistics </p>
+  |
+  <p>Statistical data on population mortality by causes of death - National  Agency for Public Health</p>
+  <p>Statistical data on population - National  Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Agency for Public Health</p> 
-  <p>  2.National Bureau of Statistics </p>
+  |
+  <p>National Agency for Public Health</p>
+  <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Number of deaths attributed to the common effects of household and ambient air  pollution during one year out of the total population *100.000.</p> 
-  <p>  To  calculate the indicator, the following diseases are considered: acute  respiratory infections (estimated for all ages); cerebrovascular diseases in  adults (estimated in persons over 25 years old); ischaemic heart diseases in  adults (estimated in persons over 25 years old); chronic obstructive lung  diseases in adults (estimated in persons over 25 years old); and lung cancer  in adults (estimated in persons over 25 years old). </p>
+  |
+  <p>The mortality rate attributable to the joint effects of household and ambient air pollution can be expressed as: crude death rate or age-standardized death rate. Crude rates are calculated by dividing the brut number of deaths by the total population (or indicated if a different population group is used, e.g. children under 5 years), while the age-standardized rates adjust for differences in the age distribution of the population by applying the observed age-specific mortality rates for each population to a standard population.</p>
+  <p>The SDG indicator 3.9.1 was calculated for the first time according to the international methodology recommended by the WHO, using Integrated Exposure–Response (IER) functions to estimate the relative risk associated with exposure to fine particles PM₂.₅. The attributable fraction (AF) was determined for the main causes of death associated with air pollution: acute lower respiratory tract infections, cerebrovascular diseases, ischemic heart disease, chronic obstructive pulmonary disease (COPD) and lung cancer.</p>
+  <p>Evidence from epidemiological studies have shown that exposure to air pollution is linked, among others, to the important underlying causes of death taken into account in this estimate: - Acute lower respiratory infections (estimated in all age groups; ICD-10: J09-J22, P23, U04 ); - Cerebrovascular diseases (stroke) in adults (estimated above 25 years; ICD-10: I60-I69); - Ischaemic heart diseases (IHD) in adults (estimated above 25 years; ICD-10: I20-I25); - Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years; ICD-10: J40-J44); and - Lung cancer in adults (estimated above 25 years; ICD-10: C33-C34).</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -61,6 +64,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  The SDG indicator 3.9.1 was calculated for the first time according to the international methodology recommended by the WHO.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -70,9 +74,9 @@ source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
 source_periodicity_1: >-
-  Annual
+  annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

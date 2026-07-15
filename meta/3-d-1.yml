@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 3.d.1: Health sector capacities and available indicators: C1. Political, legal and normative instruments for the implementation of CSR - C1.1. Political, legal and normative instruments; C1.2. Gender equality in medical emergencies;C2. RSI Coordination and National RSI Focal Point - C2.1. Functions of the national focal point for CSR; C2.2. Multisectoral coordination mechanisms; C2.3. Advocacy for the implementation of RSI;C.3. Funding - C3.1. Financing the implementation of RSI; C3.2. Funding for public health emergency response;C4. The laboratory - C4.1. Specimen sending and transport system; C4.2. Implementation of a biosafety and biosecurity regime in the laboratory; C4.3. The quality system of the laboratory; C4.4. Methods of testing capacity in the laboratory; C4.5. National Effective Diagnostics Network;C5. Supervision - C5.1. Early warning surveillance function; C5.2. Event management;C6. Human resources - C6.1. Human resources for the implementation of CSR; C6.2. Incr</p>
+  <p>Indicator 3.d.1: Health sector capacities and available indicators:                                                                                                   C1.Policy, Legal and normative Instruments to implement IHR: C1.1 Policy, legal and normative instruments; C1.2 Gender equality in health emergencies.C2.IHR Coordination, National IHR Focal Point functions and advocacy: C2.1 National IHR Focal Foint functions; C2.2 Multisectoral coordination mechanisms; C2.3 Advocacy for IHR implementation.C3.Financing: C3.1 Financing for IHR implementation; C3.2 Financing for public health emergency response.C4.Laboratory: C4.1 Specimen referral and transport system; C4.2 Implementation of a laboratory biosafety and biosecurity regime; C4.3 Laboratory quality system; C4.4 Laboratory testing capacity modalities; C4.5 Effective national diagnostic network.C5.Surveillance: C5.1 Early warning surveillance function; C5.2 Event management (i.e., verification, investigation, analysis, and dissemi</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -32,15 +32,17 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Data is collected based on a questionnaire. Percentage of attributes of 15 core capabilities that were achieved at a given point in time and 35 indicators. The 15 basic capacities are: Policies, legal and normative instruments for the implementation of CSR; RSI Coordination, RSI National Focal Point, Functions and Advocacy; Financing; the laboratory; Supervision; Human resources; Management of health emergencies; Providing healthcare services; Infection prevention and control; Risk Communication and Community Engagement (RCCE); Points of Entry (PoE) and border health; Zoonotic events; Food safety; Chemical events; Radionuclear emergencies.</p> 
-  <p>Since 2021 a new SPAR toolkit was  applied ( [IHR State Party Self-Assessment Annual Reporting tool  (SPAR)](https://extranet.who.int/sph/spar)) </p>
+  |
+  <p>Data is collected based on a questionnaire. Percentage of attributes of 15 core capabilities that were achieved at a given point in time and 35 indicators. The 15 basic capacities are: Policy, Legal and normative Instruments to implement IHR, IHR Coordination, National IHR Focal Point functions and advocacy, Financing, Laboratory,  Surveillance, Human resources, Health emergency management, Health services provision,  Infection prevention and control (IPC),  Risk communication and community engagement (RCCE), Points of entry (PoEs) and border health,  Zoonotic diseases, Food safety, Chemical events, Radiation emergencies.</p>
+  <p>Since 2021 a new SPAR toolkit was  applied ( [IHR State Party Self-Assessment Annual Reporting tool  (SPAR)](https://extranet.who.int/sph/spar))</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Questionnaire on key information  - WHO (Electronic State Parties Self-Assessment Annual Reporting Tool (e-SPAR))</p> 
-  <p>2) administrative data -  National Agency for Public Health </p>
+  |
+  <p>1) Questionnaire on key information  - WHO (Electronic State Parties Self-Assessment Annual Reporting Tool (e-SPAR))</p>
+  <p>2) administrative data -  National Agency for Public Health</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -48,8 +50,9 @@ DATA_SOURCE: >-
   National Agency for Public Health
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.World Health Organization</p> 
-  <p>2.Ministry of Health </p>
+  |
+  <p>1.World Health Organization</p>
+  <p>2.Ministry of Health</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

@@ -37,14 +37,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) administrative data of the General Inspectorate for Emergency Situations  </p> 
-  <p>2) population statistics produced by NBS </p>
+  |
+  <p>1) administrative data of the General Inspectorate for Emergency Situations  </p>
+  <p>2) population statistics produced by NBS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.General Inspectorate for Emergency Situations</p> 
-  <p>2.National Bureau of  Statistics </p>
+  |
+  <p>1.General Inspectorate for Emergency Situations</p>
+  <p>2.National Bureau of  Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Internal Affairs
@@ -52,13 +54,14 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> B1=(B2+B3+B4+B5+B6)/total population*100.000. </p> 
-  <p>  where:  the persons  affected by disasters (B1) will include: </p> 
-  <p>  (B2) Number of INJURED persons  or sick persons because of some disasters  - AVAILABLE; </p> 
-  <p>  (B3)  Number of  persons who were evicted / saved / transferred after/because of disaster -  AVAILABLE;  </p> 
-  <p>  (B4) Number of persons whose houses / dwellings were damaged  because of disaster - IT IS PLANNED TO COLLECT DATA </p> 
-  <p>  (B5)  Number of  persons whose houses / dwellings were destroyed because of disasters - IT IS  PLANNED; ADDITIONALLY TO COLLECT the Number of persons who vital activity  conditions were impacted. </p> 
-  <p>  B4=(B4.1) number of damaged houses *(total  population/total no. of households) - AVAILABLE, B5=(B5.1) number of destroyed  houses *(total population/total no. of households) - AVAILABLE. </p>
+  |
+  <p>B1=(B2+B3+B4+B5+B6)/total population*100.000. </p>
+  <p>  where:  the persons  affected by disasters (B1) will include: </p>
+  <p>  (B2) Number of INJURED persons  or sick persons because of some disasters  - AVAILABLE; </p>
+  <p>  (B3)  Number of  persons who were evicted / saved / transferred after/because of disaster -  AVAILABLE;  </p>
+  <p>  (B4) Number of persons whose houses / dwellings were damaged  because of disaster - IT IS PLANNED TO COLLECT DATA </p>
+  <p>  (B5)  Number of  persons whose houses / dwellings were destroyed because of disasters - IT IS  PLANNED; ADDITIONALLY TO COLLECT the Number of persons who vital activity  conditions were impacted. </p>
+  <p>  B4=(B4.1) number of damaged houses *(total  population/total no. of households) - AVAILABLE, B5=(B5.1) number of destroyed  houses *(total population/total no. of households) - AVAILABLE.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -66,8 +69,9 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> The National Indicator represents a part of the Global Indicator </p> 
-  <p>  (B6)  Number of persons who have received  / requested food assistance [including  food and non-food], medical assistance because of some exceptional situations  - NOT collected, but the number of persons whose vital activity conditions   were affected is collected </p>
+  |
+  <p>The National Indicator represents a part of the Global Indicator </p>
+  <p>  (B6)  Number of persons who have received  / requested food assistance [including  food and non-food], medical assistance because of some exceptional situations  - NOT collected, but the number of persons whose vital activity conditions   were affected is collected</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -75,8 +79,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.General Inspectorate for Emergency Situations</p> 
-  <p>2.National Bureau of  Statistics </p>
+  |
+  <p>1.General Inspectorate for Emergency Situations</p>
+  <p>2.National Bureau of  Statistics</p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-

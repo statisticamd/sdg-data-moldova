@@ -37,23 +37,30 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Administrative data on  registration of civil status - Public Services Agency </p> 
-  <p> 2) Statistical data on vital statistics - National Bureau of Statistics </p>
+  |
+  <p>1.Administrative data on births and deaths registered in the eCMND Information System – NAPH                                                                                                                                         2. Administrative data on  registration of civil status - PSA </p>
+  <p>3. Statistical data on vital statistics - NBS </p>
+  <p> 4. Online questionnaire UNSTATS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Public Services Agency</p> 
-  <p>  2. National Bureau of Statistics </p>
+  |
+  <p>National Agency for Public Health</p>
+  <p>Public Services Agency</p>
+  <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  National Bureau of Statistics
+  |
+  <p>1.National Bureau of Statistics</p>
+  <p>  2.United Nations Statistics Division</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The indicator  is calculated through two sub-indicators: number of established borns-alive that were registered during the year of reference out of the total  number of established borns-alive *100.</p> 
-  <p>Number of established deaths  during the year of reference out of the total number of registered deaths </p>
+  |
+  <p>The indicator  is calculated through two sub-indicators: number of established borns-alive that were registered during the year of reference out of the total  number of established borns-alive *100.</p>
+  <p>Number of established deaths  during the year of reference out of the total number of registered deaths</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -69,7 +76,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  National Bureau of Statistics
+  |
+  <p>1.National Bureau of Statistics</p>
+  <p>  2.United Nations Statistics Division</p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-

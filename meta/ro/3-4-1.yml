@@ -8,7 +8,7 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  Probabilitatea de a muri între 30 și 70 de ani din cauza bolilor cardiovasculare, cancer,  diabet sau boli respiratorii cronice,  definită ca procentul persoanelor de 30 de ani care ar muri înainte de împlinirea a 70 de ani din cauza bolilor cardiovasculare, cancerului,  diabetului  sau boală respiratorie cronică  presupunând că el/ea ar avea rate actuale de mortalitate la fiecare vârstă și nu ar muri din nicio altă cauză de deces.
+  Rata mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice este definită ca probabilitatea de deces între vârstele de 30 și 70 de ani din cauza bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice. Aceasta reprezintă procentul persoanelor care au împlinit vârsta de 30 de ani și care ar deceda înainte de a împlini 70 de ani din cauza bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, presupunând că acestea ar fi expuse la ratele actuale de mortalitate specifice fiecărei vârste și că nu ar deceda din alte cauze (de exemplu, traumatisme, accidente sau HIV/SIDA).
 SDG_GOAL: ''
 target_id: >-
   3.4
@@ -18,7 +18,7 @@ GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
   Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 3.4.1: Rata mortalității prin boli cardiovasculare, cancer, boli ale  aparatului digestiv, diabet, boli ale aparatului respirator în rândul  persoanelor cu vârste cuprinse între 30 și 70 de ani, la 100.000 populație</p>
+  <p>Indicator 3.4.1: Rata mortalității prin boli cardiovasculare, cancer, boli ale  aparatului digestiv, diabet, boli ale aparatului respirator în rândul  persoanelor cu vârste cuprinse între 30 și 70 de ani</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -33,11 +33,11 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  la 100.000 populație
+  %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului                                                                                   2) Biroul Național  de Statistică  - numărul populației cu reședință obișnuită
+  Agenția Națională pentru Sănătate Publică - Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului                                                                                   Biroul Național  de Statistică  - numărul populației cu reședință obișnuită
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,7 +50,10 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul cazurilor de deces prin boli cardiovasculare, cancer, boli ale  aparatului digestiv, diabet, boli ale aparatului respirator în anul de  referință rândul persoanelor în vârstă de 30-70 ani, raportat la numărul  populației de vârsta respectivă*100.000
+  |
+  <p>Probabilitatea de deces (Probability of dying): Probabilitatea ca o persoană să decedeze între două vârste determinate, având în vedere ratele de mortalitate specifice fiecărei vârste din intervalul respectiv, calculată utilizând metodele tabelelor de mortalitate.</p>
+  <p>Tabel de mortalitate (Life table): Un tabel care prezintă experiența de mortalitate a unei cohorte ipotetice de persoane născute în același moment și supuse, pe parcursul întregii vieți, unui set de rate de mortalitate specifice vârstei.</p>
+  <p>Bolile cardiovasculare, cancerul, diabetul zaharat sau bolile respiratorii cronice: Cauze de deces de bază clasificate conform ICD-10 prin codurile I00–I99, C00–C97, E10–E14 și J30–J98, sau conform ICD-11 prin codurile 8B00–8B2Z, BA00–BE2Z, 2A00–2F9Z, 5A10–5A2Y, CA20–CA2Z, CA60–CA8Z, CA00–CA0Z, CB00–CB0Z, CB20–CB2Z, CB40, CB41, CB60–CB64 și CB7Z.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,6 +61,7 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  Indicatorul a fost recalculat conform noii metodologii, în conformitate cu cerințele internaționale și recomandările Organizației Mondiale a Sănătății (OMS), fiind aliniat la standardele internaționale de calcul și comparabilitate a datelor.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

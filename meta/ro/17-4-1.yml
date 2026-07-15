@@ -31,24 +31,26 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Datoria externă brută a Republicii Moldova, la o anumită dată, este egală cu  suma tuturor angajamentelor curente efective, necondiționate ale rezidenților față de nerezidenți ce implică pentru debitor una sau mai multe plăți de  principal și / sau de dobândă la unul sau mai multe momente în viitor. </p> 
-  <p>   Principalele componente ale datoriei externe: </p> 
-  <p>(1) Investiții de portofoliu -  instrumente de natura datoriei (inclusiv titlurile de angajamente emise de rezidenții Moldovei, deținute de  nerezidenți, cu excepția celor deținute de firme-mamă / filiale nerezidente și a valorilor mobiliare de stat emise pentru a fi plasate pe piața internă a  Republicii Moldova și procurate de către nerezidenți), </p> 
-  <p>(2) Împrumuturi (împrumuturi FMI, guvernamentale, garantate de guvern, private),</p> 
-  <p>(3) Drepturi  speciale de tragere (alocări de DST), </p> 
-  <p>(4) Numerar și depozite (conturile  curente și depozitele nerezidenților în sistemul bancar național și în alte  societăți financiare), </p> 
-  <p>(5) Credite comerciale și avansuri (sunt angajamentele sub formă de credite și avansuri acordate de furnizor sau cumpărător în  tranzacțiile de comerț cu mărfuri și servicii), </p> 
-  <p>(6) Alte angajamente aferente  datoriei (datoria istorică pentru importurile de mărfuri și servicii,  angajamentele față de nerezidenți aferente tranzacțiilor cu investiții,  angajamentele la dividende distribuite dar încă neplătite nerezidenților), </p> 
-  <p>(7)  Investiții directe-creditare intra-grup (angajamente aferente datorilor  întreprinderilor cu investiții străine directe față de investitorii lor  direcți din străinătate). </p> 
-  <p>Tipuri ale datoriei: datoria publică și public  garantată (termen scurt, termen lung), datoria privată negarantată (termen scurt, termen lung).</p> 
-  <p>Datoria Externă a Republicii Moldova este compilată în conformitate manualului “Ghidul Statistic pentru Compilatori privind Datoria  Externă” recomandat de FMI, ediție 2013, care este în concordanță cu ediția a  IV a manualul Balanței de Plăți și Poziției Investiționale Internaționale  (MBP6). Conform SDE 2013 arieratele la serviciul împrumuturilor și titlurilor de angajamente, ce reprezintă sume de principal și de dobândă datorate și neonorate, sunt considerate parte din valoarea stocului instrumentului  financiar original ce generează datoria. </p>
+  |
+  <p>Datoria externă brută a Republicii Moldova, la o anumită dată, este egală cu  suma tuturor angajamentelor curente efective, necondiționate ale rezidenților față de nerezidenți ce implică pentru debitor una sau mai multe plăți de  principal și / sau de dobândă la unul sau mai multe momente în viitor. </p>
+  <p>   Principalele componente ale datoriei externe: </p>
+  <p>(1) Investiții de portofoliu -  instrumente de natura datoriei (inclusiv titlurile de angajamente emise de rezidenții Moldovei, deținute de  nerezidenți, cu excepția celor deținute de firme-mamă / filiale nerezidente și a valorilor mobiliare de stat emise pentru a fi plasate pe piața internă a  Republicii Moldova și procurate de către nerezidenți), </p>
+  <p>(2) Împrumuturi (împrumuturi FMI, guvernamentale, garantate de guvern, private),</p>
+  <p>(3) Drepturi  speciale de tragere (alocări de DST), </p>
+  <p>(4) Numerar și depozite (conturile  curente și depozitele nerezidenților în sistemul bancar național și în alte  societăți financiare), </p>
+  <p>(5) Credite comerciale și avansuri (sunt angajamentele sub formă de credite și avansuri acordate de furnizor sau cumpărător în  tranzacțiile de comerț cu mărfuri și servicii), </p>
+  <p>(6) Alte angajamente aferente  datoriei (datoria istorică pentru importurile de mărfuri și servicii,  angajamentele față de nerezidenți aferente tranzacțiilor cu investiții,  angajamentele la dividende distribuite dar încă neplătite nerezidenților), </p>
+  <p>(7)  Investiții directe-creditare intra-grup (angajamente aferente datorilor  întreprinderilor cu investiții străine directe față de investitorii lor  direcți din străinătate). </p>
+  <p>Tipuri ale datoriei: datoria publică și public  garantată (termen scurt, termen lung), datoria privată negarantată (termen scurt, termen lung).</p>
+  <p>Datoria Externă a Republicii Moldova este compilată în conformitate manualului “Ghidul Statistic pentru Compilatori privind Datoria  Externă” recomandat de FMI, ediție 2013, care este în concordanță cu ediția a  IV a manualul Balanței de Plăți și Poziției Investiționale Internaționale  (MBP6). Conform SDE 2013 arieratele la serviciul împrumuturilor și titlurilor de angajamente, ce reprezintă sume de principal și de dobândă datorate și neonorate, sunt considerate parte din valoarea stocului instrumentului  financiar original ce generează datoria.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Statistica conturilor internaționale, BNM</p> 
-  <p>2) Datoria externă, BNM </p>
+  |
+  <p>1) Statistica conturilor internaționale, BNM</p>
+  <p>2) Datoria externă, BNM</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
