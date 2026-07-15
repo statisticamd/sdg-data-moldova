@@ -334,6 +334,7 @@ Education:  Învățământ
 Educational institutions: Instituțiile de învățământ
 Education levels: Nivele de educație
 Educational level: Nivel de educație
+Educational level: Nivel de educație
 Educational levels: Nivele de educație
 Electricity, gas and water: Energia electrică, gaze și apă
 Electricity, gas, steam and air conditioning supply: Producția și furnizarea de energie electrică și termică, gaze, apa caldă și aer condiționat
@@ -605,7 +606,7 @@ Men who have sex with men: Bărbaţi care practică sex cu bărbaţii
 Men: Bărbați
 men: Bărbați
 Men - agricultural sector: Bărbați - sectorul agricol
-Men - non-agricultural sector: Bărbați - sectorul non-agricol
+Men - non-agricultural sector: Bărbați - sectorul neagricol
 Mental disability: Dizabilitatea mintală
 Mental: Mintală
 Merchandise trade: Comerțul cu mărfuri
@@ -650,8 +651,8 @@ Nistru river: Râul Nistru
 Nitrogen dioxide: Dioxid de azot
 Nitrate concentration - mgn / l: Concentraţia de nitraţi – mgn/l
 Nitrate concentration: Concentraţia de nitraţi
-Non-agricultural sector: Sectorul non-agricol
-Non-agricultural products NAGR: Produse non-agricole
+Non-agricultural sector: Sectorul neagricol
+Non-agricultural products NAGR: Produse neagricole
 Non-fatal accidents - by economic activities: Accidente nemortale - după activități economice
 Non-fatal accidents, by economic activities: Accidente nemortale, după activități economice
 Non-fatal accidents - by sex: Accidente nemortale - după sex
@@ -1028,7 +1029,7 @@ Tools (row, axe, hammer etc.): Instrumente (rangă, topor, ciocan etc.)
 Top level lead: Conducere nivel superior
 Total (across all levels of courts): Total (toate nivelurile de instanțe)
 Total - agricultural sector: Total - sectorul agricol
-Total - non-agricultural sector: Total - sectorul non-agricol
+Total - non-agricultural sector: Total - sectorul neagricol
 Total - Proportion of managerial positions held by women:
 Total by economic activities: Total pe activități economice
 Total up to the age of 18 years old: Total până la 18 ani
@@ -1151,7 +1152,7 @@ Woman/man: Femei/bărbați
 Women: Femei
 Woman: Femeie
 Women - agricultural sector: Femei - sectorul agricol
-Women - non-agricultural sector: Femei - sectorul non-agricol
+Women - non-agricultural sector: Femei - sectorul neagricol
 Women in senior and middle management positions: Femei în funcții de conducere de nivel superior și mediu
 Wood, waste and coal: Lemne, deșeuri și cărbune 
 Work inspection: Inspecția muncii
@@ -1238,3 +1239,16 @@ Brigandage (art. 189): Tâlhăria (art. 188)
 Blackmail (art 189): Șantajul (art. 189)
 Domestic violence (art.2011): Violenţa în familie (art.2011)
 Hooliganism (art.287): Huliganismul (art.287)
+Children engaged in economic activity - Age group / Sex: Copii implicați în activități economice - Grupa de vârstă / Sexul
+Children engaged in economic activity and household chores - Age group / Sex : Copii implicați în activități economice și în munca casnică -Grupa de vârstă / Sexul
+Education level: Nivel de instruire 
+Age group of the reference person, years: Grupa de vârstă a persoanei de referința, ani
+Sex of the reference person: Sexul persoanei de referința
+Pregnant women: Femei însărcinate
+Total - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %: Total - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %
+Men - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %: Bărbați - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %
+Women - Mortality probability rate attributed to cardiovascular diseases, cancer, diabetes mellitus or chronic respiratory diseases, %: Femei - Rata probabilității mortalității atribuite bolilor cardiovasculare, cancerului, diabetului zaharat sau bolilor respiratorii cronice, %
+Total - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants: Total - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori
+Men - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants: Bărbați - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori
+Women - Mortality rate from cardiovascular diseases, cancer, diabetes, chronic respiratory diseases, per 100,000 inhabitants: Femei - Rata mortalității prin boli cardiovasculare, cancer, diabet, boli cronice ale  aparatului respirator, la 100.000 locuitori
+
