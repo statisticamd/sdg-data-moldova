@@ -13,7 +13,6 @@ target_id: >-
   13.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-13.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
@@ -31,9 +30,10 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Actions are envisaged in the United Nations Framework Convention on Climate  Change (UNFCCC, Decision 15/CP.18, eight-year Doha work programme on Article 6  of the UNFCCC (2012 – 2020), par.22 g, 22f) for including the issues on  climate change in the educational process and information of population. Paris  Agreement (art.12) provides for the obligation of the parties to communicate  about such actions within NDCs (nationally determined contributions). </p> 
-  <p>   These are included/described in the National Communication on greenhouse gas  emissions (once per 4 years), the updated [Biennial Report on greenhouse gas  emissions](http://clima.md/).</p> 
-  <p>  At the same time, the global methodology is  missing, hence it is difficult to provide the description of the national  indicator. </p>
+  |
+  <p>Actions are envisaged in the United Nations Framework Convention on Climate  Change (UNFCCC, Decision 15/CP.18, eight-year Doha work programme on Article 6  of the UNFCCC (2012 – 2020), par.22 g, 22f) for including the issues on  climate change in the educational process and information of population. Paris  Agreement (art.12) provides for the obligation of the parties to communicate  about such actions within NDCs (nationally determined contributions). </p>
+  <p>   These are included/described in the National Communication on greenhouse gas  emissions (once per 4 years), the updated [Biennial Report on greenhouse gas  emissions](http://clima.md/).</p>
+  <p>  At the same time, the global methodology is  missing, hence it is difficult to provide the description of the national  indicator.</p>
 UNIT_MEASURE: >-
   Number
 CLASS_SYSTEM: ''
@@ -44,8 +44,9 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Ministry of Education and Research</p> 
-  <p>  2.Public Institution National Office for the Implementation of Environmental Projects </p>
+  |
+  <p>1.Ministry of Education and Research</p>
+  <p>  2.Public Institution National Office for the Implementation of Environmental Projects</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment
@@ -65,16 +66,17 @@ OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  3
+  1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.Ministry of Education and Research</p> 
-  <p>  2.Public Institution National Office for the Implementation of Environmental Projects </p>
+  |
+  <p>1.Ministry of Education and Research</p>
+  <p>  2.Public Institution National Office for the Implementation of Environmental Projects</p>
 source_periodicity_1: >-
   Once every 2 and 4 years
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  angela.bezu@mec.gov.md
+  mariana.goras@mec.gov.md
 source_other_info_1: >-

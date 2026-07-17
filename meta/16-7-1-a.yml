@@ -38,14 +38,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Administrative data, Parliament of the Republic of Moldova</p> 
-  <p>2. Data on usual resident population, National Bureau of Statistics </p>
+  |
+  <p>1. Administrative data, Parliament of the Republic of Moldova</p>
+  <p>2. Data on usual resident population, National Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Parliament of the Republic of Moldova</p> 
-  <p>2. National Bureau of Statistics </p>
+  |
+  <p>1. Parliament of the Republic of Moldova</p>
+  <p>2. National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   State Chancellery
@@ -53,17 +55,18 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> For single-chamber parliaments, just like the one in the Republic of Moldova,  the indicator is measured through 4 sub-indicators (1 for the young population  and 3 for women), of which 2 are calculated as rates and 2 are presented as  absolute numbers: </p> 
-  <p>1. Rate 1 = Proportion of young members in the Parliament  aged 18-44 years old out of the proportion of population aged 18-44 years old  *100.</p> 
-  <p>  where:</p> 
-  <p>Numerator: The number of Members of Parliament aged 18–44 in relation to the total number of Members of Parliament.</p> 
-  <p>Denominator: The total population aged 18–44 in relation to the total population.   </p> 
-  <p>2. Rate 2 = Proportion of women /  men in the Parliament out of the proportion of women / men in total population  with the right to vote (18 years old +)</p> 
-  <p>  where:</p> 
-  <p>Numerator: The number of women Members of Parliament / men Members of Parliament in relation to the total number of Members of Parliament *100</p> 
-  <p>Denominator: The number of women / men with the right to vote aged 18 and over in relation to the total population aged 18 and over.   </p> 
-  <p>3. President of the Parliament: is not calculated, as  there is only one President in the Parliament, being registered only his/her  individual characteristics, meaning: age group and sex.</p> 
-  <p>4. Chairs of  parliamentary standing committees (Public Administration Committee;  Agriculture and Food Industry Committee; Culture, Education, Research, Youth,  Sport, and Mass-media Committee; Public Finance Control Committee; Human  Rights and Interethnic Relations Committee; Economy, Budget and Finance  Committee; Legal, Appointments and Immunities Committee; Environment and  Regional Development Committee; Foreign Policy; European Integration  Committee; Social Protection, Health and Family Committee, and National  Security, Defence and Public Order Committee): not calculated, as data are  collected for the 12 chairs of the committees. Only their individual  characteristics are registered, meaning: age group and sex. </p>
+  |
+  <p>For single-chamber parliaments, just like the one in the Republic of Moldova,  the indicator is measured through 4 sub-indicators (1 for the young population  and 3 for women), of which 2 are calculated as rates and 2 are presented as  absolute numbers: </p>
+  <p>1. Rate 1 = Proportion of young members in the Parliament  aged 18-44 years old out of the proportion of population aged 18-44 years old  *100.</p>
+  <p>  where:</p>
+  <p>Numerator: The number of Members of Parliament aged 18–44 in relation to the total number of Members of Parliament.</p>
+  <p>Denominator: The total population aged 18–44 in relation to the total population.   </p>
+  <p>2. Rate 2 = Proportion of women /  men in the Parliament out of the proportion of women / men in total population  with the right to vote (18 years old +)</p>
+  <p>  where:</p>
+  <p>Numerator: The number of women Members of Parliament / men Members of Parliament in relation to the total number of Members of Parliament *100</p>
+  <p>Denominator: The number of women / men with the right to vote aged 18 and over in relation to the total population aged 18 and over.   </p>
+  <p>3. President of the Parliament: is not calculated, as  there is only one President in the Parliament, being registered only his/her  individual characteristics, meaning: age group and sex.</p>
+  <p>4. Chairs of  parliamentary standing committees (Public Administration Committee;  Agriculture and Food Industry Committee; Culture, Education, Research, Youth,  Sport, and Mass-media Committee; Public Finance Control Committee; Human  Rights and Interethnic Relations Committee; Economy, Budget and Finance  Committee; Legal, Appointments and Immunities Committee; Environment and  Regional Development Committee; Foreign Policy; European Integration  Committee; Social Protection, Health and Family Committee, and National  Security, Defence and Public Order Committee): not calculated, as data are  collected for the 12 chairs of the committees. Only their individual  characteristics are registered, meaning: age group and sex.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -79,15 +82,17 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Parliament of the Republic of Moldova</p> 
-  <p>2. National Bureau of Statistics </p>
+  |
+  <p>1. Parliament of the Republic of Moldova</p>
+  <p>2. National Bureau of Statistics</p>
 source_periodicity_1: >-
   annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  <p> Rodica Zadnipru, Senior Consultant, Assistance and Development Directorate, Secretariat of the Parliament</p> 
-  <p>e-mail: rodica.zadnipru@parlament.md</p> 
-  <p>, tel. +373 22 820 207 </p>
+  |
+  <p>Rodica Zadnipru, Senior Consultant, Assistance and Development Directorate, Secretariat of the Parliament</p>
+  <p>e-mail: rodica.zadnipru@parlament.md</p>
+  <p>, tel. +373 22 820 207</p>
 source_other_info_1: >-

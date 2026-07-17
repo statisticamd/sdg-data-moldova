@@ -36,8 +36,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Report: Financial soundness indicators</p> 
-  <p>Report: Information on economic-financial activity of the banks in the RM -  NBM </p>
+  |
+  <p>Report: Financial soundness indicators</p>
+  <p>Report: Information on economic-financial activity of the banks in the RM -  NBM</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -50,22 +51,23 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Financial stability is measured through seven indicators that are calculated separately:</p> 
-  <p>   (1) Ratio of Tier 1 own funds to total assets;</p> 
-  <p>   I0 The tier 1 own funds to total assets. This ratio is calculated using Basic (Tier 1) own funds as the numerator and total assets as the denominator. The data are compiled in accordance with the guidelines of Basel I or Basel II, and from the second quarter of 2018 - according to Basel III.</p> 
-  <p>   (2) Ratio of Tier 1 own funds to risk-weighted assets;</p> 
-  <p>   I2 Basic Tier 1 own funds to risk-weighted assets. The data for this indicator of Financial Stability are also compiled in accordance with the guidelines of Basel I or Basel II, and from the second quarter of 2018 - according to Basel III. It measures banks' capital adequacy according to the Basel Committee on Banking Supervision's (BCBS) concept of core capital.</p> 
-  <p>   (3)  Ratio of net non-performing loans less of provisions to own funds:</p> 
-  <p>   I3 Net non-performing loans, in relation to total own funds. This indicator of Financial Stability is calculated by taking the value of non-performing loans (NPL) minus the value of allowances calculated for losses on non-performing loans as the numerator and the value of own funds as the denominator. Capital is measured as total capital and reserves in the sectoral balance sheet; for cross-border consolidated data, total equity can also be used. This indicator of Financial Stability is one of the capital adequacy ratio, being an important indicator that reflects the ability of bank capital to face losses from non-performing loans.</p> 
-  <p>(4) Share of non-performing loans in total loans granted:</p> 
-  <p>   I4 Non-performing loans in total loans granted. This indicator is calculated by using the value of non-performing loans as the numerator and the total value of the loan portfolio (including non-performing loans) as the denominator. This indicator is frequently used as a proxy for asset quality and is intended to identify asset quality issues in the loan portfolio.</p> 
-  <p>    (5) Return on assets:</p> 
-  <p>   I6 Return on assets is calculated by dividing net income before extraordinary items and taxes (as recommended by the FSI Guide) by the average value of total assets (financial and non-financial) for the same reference period. This Financial Stability indicator is one of bank profitability and is intended to measure the efficiency of depositors' use of their assets.</p> 
-  <p>   (6) The ratio of liquid assets to short-term liabilities</p> 
-  <p>   I11 Liquid assets to short-term liabilities This indicator is calculated using the basic measure of liquid assets as the numerator and short-term liabilities as the denominator. The ratio can also be calculated using the broad measure of liquid assets as the numerator. This indicator is a ratio of liquid assets and is intended to capture the liquidity mismatch between assets and liabilities, and provides information on the extent to which depositors can withdraw funds over time without facing liquidity problems.</p> 
-  <p>   (7) Ratio of net open foreign exchange position to own funds</p> 
-  <p>   I12 Net open foreign exchange position to own funds. Open currency position calculated based on BCBS recommendation. Own funds should represent total basic own funds or Tier 1 own funds, as the open currency position is a supervisory concept. This indicator is one of sensitivity to market risk, which is designed to reflect the exposure of depositors to exchange risk compared to capital. It measures the mismatch of foreign currency assets and liabilities to assess vulnerability to exchange rate fluctuations.</p> 
-  <p>   [See](http://data.imf.org/regular.aspx?key=61404865) </p>
+  |
+  <p>Financial stability is measured through seven indicators that are calculated separately:</p>
+  <p>   (1) Ratio of Tier 1 own funds to total assets;</p>
+  <p>   I0 The tier 1 own funds to total assets. This ratio is calculated using Basic (Tier 1) own funds as the numerator and total assets as the denominator. The data are compiled in accordance with the guidelines of Basel I or Basel II, and from the second quarter of 2018 - according to Basel III.</p>
+  <p>   (2) Ratio of Tier 1 own funds to risk-weighted assets;</p>
+  <p>   I2 Basic Tier 1 own funds to risk-weighted assets. The data for this indicator of Financial Stability are also compiled in accordance with the guidelines of Basel I or Basel II, and from the second quarter of 2018 - according to Basel III. It measures banks' capital adequacy according to the Basel Committee on Banking Supervision's (BCBS) concept of core capital.</p>
+  <p>   (3)  Ratio of net non-performing loans less of provisions to own funds:</p>
+  <p>   I3 Net non-performing loans, in relation to total own funds. This indicator of Financial Stability is calculated by taking the value of non-performing loans (NPL) minus the value of allowances calculated for losses on non-performing loans as the numerator and the value of own funds as the denominator. Capital is measured as total capital and reserves in the sectoral balance sheet; for cross-border consolidated data, total equity can also be used. This indicator of Financial Stability is one of the capital adequacy ratio, being an important indicator that reflects the ability of bank capital to face losses from non-performing loans.</p>
+  <p>(4) Share of non-performing loans in total loans granted:</p>
+  <p>   I4 Non-performing loans in total loans granted. This indicator is calculated by using the value of non-performing loans as the numerator and the total value of the loan portfolio (including non-performing loans) as the denominator. This indicator is frequently used as a proxy for asset quality and is intended to identify asset quality issues in the loan portfolio.</p>
+  <p>    (5) Return on assets:</p>
+  <p>   I6 Return on assets is calculated by dividing net income before extraordinary items and taxes (as recommended by the FSI Guide) by the average value of total assets (financial and non-financial) for the same reference period. This Financial Stability indicator is one of bank profitability and is intended to measure the efficiency of depositors' use of their assets.</p>
+  <p>   (6) The ratio of liquid assets to short-term liabilities</p>
+  <p>   I11 Liquid assets to short-term liabilities This indicator is calculated using the basic measure of liquid assets as the numerator and short-term liabilities as the denominator. The ratio can also be calculated using the broad measure of liquid assets as the numerator. This indicator is a ratio of liquid assets and is intended to capture the liquidity mismatch between assets and liabilities, and provides information on the extent to which depositors can withdraw funds over time without facing liquidity problems.</p>
+  <p>   (7) Ratio of net open foreign exchange position to own funds</p>
+  <p>   I12 Net open foreign exchange position to own funds. Open currency position calculated based on BCBS recommendation. Own funds should represent total basic own funds or Tier 1 own funds, as the open currency position is a supervisory concept. This indicator is one of sensitivity to market risk, which is designed to reflect the exposure of depositors to exchange risk compared to capital. It measures the mismatch of foreign currency assets and liabilities to assess vulnerability to exchange rate fluctuations.</p>
+  <p>   [See](http://data.imf.org/regular.aspx?key=61404865)</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
