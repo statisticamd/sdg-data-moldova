@@ -16,8 +16,21 @@
             "title": "Year"
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1)Climate change-related topics integrated into primary and general secondary education curricula",
+                "2)secondary and post-secondary technical and vocational education curricula",
+                "3)higher education curricula",
+                ""
+              ]
+            },
+            "title": "Indicators"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -16,6 +16,18 @@
             "title": "Anul"
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                "Area, thousand hectares (estimated)",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

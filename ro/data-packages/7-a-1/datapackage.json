@@ -20,10 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0.83",
-                "0.0",
-                "125.3",
-                "43.77",
+                "Bioenergie",
+                "Geotermală",
+                "Hidroelectrică",
+                "Multiplă",
+                "Solară",
+                "Eoliană",
                 ""
               ]
             },

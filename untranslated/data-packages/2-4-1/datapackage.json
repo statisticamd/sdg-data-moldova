@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                "Area, thousand hectares (estimated)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
