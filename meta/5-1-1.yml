@@ -42,26 +42,29 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Ministry of Labour and Social Protection</p> 
-  <p>2. Ministry of  Justice</p> 
-  <p>3. Ministry of Internal Affairs</p> 
-  <p>4. Equality Council</p> 
-  <p>5. Public Services  Agency</p> 
-  <p>6. Agency for Digitalization in Justice and Court Administration</p> 
-  <p>7. Central public  authorities (gender coordinating groups) </p>
+  |
+  <p>1. Ministry of Labour and Social Protection</p>
+  <p>2. Ministry of  Justice</p>
+  <p>3. Ministry of Internal Affairs</p>
+  <p>4. Equality Council</p>
+  <p>5. Public Services  Agency</p>
+  <p>6. Agency for Digitalization in Justice and Court Administration</p>
+  <p>7. Central public  authorities (gender coordinating groups)</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministry of Labour and Social Protection</p> 
-  <p>2. Ministry of  Justice</p> 
-  <p>3. Equality Council </p>
+  |
+  <p>1. Ministry of Labour and Social Protection</p>
+  <p>2. Ministry of  Justice</p>
+  <p>3. Equality Council</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  completed by countries with 42 questions and 4 areas of activity  assessed: Legal framework and public life, Violence  against women, Employment and economic benefits, Marriage and family.  </p> 
-  <p>The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  with 42 questions.  </p> 
-  <p>Answers to questions are coded YES-1 or NO-0. </p> 
-  <p>Questions 1 and 2 are marked with N/A and are not included in calculating the  general score in countries in which customary law and personal law are not  applied. </p>
+  |
+  <p>The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  completed by countries with 42 questions and 4 areas of activity  assessed: Legal framework and public life, Violence  against women, Employment and economic benefits, Marriage and family.  </p>
+  <p>The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  with 42 questions.  </p>
+  <p>Answers to questions are coded YES-1 or NO-0. </p>
+  <p>Questions 1 and 2 are marked with N/A and are not included in calculating the  general score in countries in which customary law and personal law are not  applied.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -77,13 +80,14 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Ministry of Labour and Social Protection</p> 
-  <p>2. Ministry of  Justice</p> 
-  <p>3. Ministry of Internal Affairs</p> 
-  <p>4. Equality Council</p> 
-  <p>5. Public Services  Agency</p> 
-  <p>6. Agency for Digitalization in Justice and Court Administration</p> 
-  <p>7. Central public  authorities (gender coordinating groups) </p>
+  |
+  <p>1. Ministry of Labour and Social Protection</p>
+  <p>2. Ministry of  Justice</p>
+  <p>3. Ministry of Internal Affairs</p>
+  <p>4. Equality Council</p>
+  <p>5. Public Services  Agency</p>
+  <p>6. Agency for Digitalization in Justice and Court Administration</p>
+  <p>7. Central public  authorities (gender coordinating groups)</p>
 source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
@@ -91,18 +95,20 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  <p> Aurelia Bulat, Head of the gender equality policies Department,</p> 
-  <p>e-mail: aurelia.bulat@social.gov.md, tel. 022 804 436 </p>
+  |
+  <p>Aurelia Bulat, Head of the gender equality policies Department,</p>
+  <p>e-mail: aurelia.bulat@social.gov.md, tel. 022 804 436</p>
 source_other_info_1: >-
-  <p> National legal framework includes:</p> 
-  <p>GD no. 933/2009 regarding the approval of the National Program for ensuring gender equality for the years 2010-2015</p> 
-  <p>Law no. 71/2016 for the amendment and completion of some legislative acts (paternal leave, sexist advertising, non-sexist language)</p> 
-  <p>GD no. 259/2017 regarding the approval of the Strategy for ensuring equality between women and men in the Republic of Moldova for the years 2017-2021 and the Action Plan regarding its implementation</p> 
-  <p>GD no. 281/2018 regarding the approval of the National Strategy to prevent and combat violence against women and family violence for the years 2018-2023 and the Action Plans regarding its implementation</p> 
-  <p>Law no. 144/2021 on the ratification of the Council of Europe Convention on preventing and combating violence against women and domestic violence</p> 
-  <p>Law no. 367/2022 regarding alternative childcare services</p> 
-  <p>Law 107/2022 for the amendment of some normative acts (equal pay for work of equal value)</p> 
-  <p>Law no. 195/2022 for the amendment of some normative acts (paternal leave, flexible work schedules)</p> 
-  <p>Law nr. 74/2023 for the amendment of some normative acts</p> 
-  <p>GD no. 203/2023 regarding the approval of the Program for Promoting and Ensuring Equality between women and men in the Republic of Moldova for the years 2023-2027</p> 
-  <p>Law no. 180/2024 amending some normative acts (equal access to goods and services for women and men) </p>
+  |
+  <p>National legal framework includes:</p>
+  <p>GD no. 933/2009 regarding the approval of the National Program for ensuring gender equality for the years 2010-2015</p>
+  <p>Law no. 71/2016 for the amendment and completion of some legislative acts (paternal leave, sexist advertising, non-sexist language)</p>
+  <p>GD no. 259/2017 regarding the approval of the Strategy for ensuring equality between women and men in the Republic of Moldova for the years 2017-2021 and the Action Plan regarding its implementation</p>
+  <p>GD no. 281/2018 regarding the approval of the National Strategy to prevent and combat violence against women and family violence for the years 2018-2023 and the Action Plans regarding its implementation</p>
+  <p>Law no. 144/2021 on the ratification of the Council of Europe Convention on preventing and combating violence against women and domestic violence</p>
+  <p>Law no. 367/2022 regarding alternative childcare services</p>
+  <p>Law 107/2022 for the amendment of some normative acts (equal pay for work of equal value)</p>
+  <p>Law no. 195/2022 for the amendment of some normative acts (paternal leave, flexible work schedules)</p>
+  <p>Law nr. 74/2023 for the amendment of some normative acts</p>
+  <p>GD no. 203/2023 regarding the approval of the Program for Promoting and Ensuring Equality between women and men in the Republic of Moldova for the years 2023-2027</p>
+  <p>Law no. 180/2024 amending some normative acts (equal access to goods and services for women and men)</p>

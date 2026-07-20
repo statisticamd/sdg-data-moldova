@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.a.1: Number of countries that have national urban policies or regional development  plans that (a) respond to population dynamics; (b) ensure balanced territorial  development; and (c) increase local fiscal space</p>
+  <p>Indicator 11.a.1.1: Number of countries that have national urban policies or regional development  plans that (a) respond to population dynamics; (b) ensure balanced territorial  development; and (c) increase local fiscal space</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 11.a: Support positive economic, social and environmental links between urban,  peri-urban and rural areas by strengthening national and regional development  planning</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,11 +13,11 @@ target_id: >-
   11.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
   United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 11.a.1: 1. Share of localities that have developed and approved urban planning documentation</p>
+  <p>Indicator 11.a.1.1: Share of localities that have developed and approved urban planning documentation</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,28 +31,31 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Many urban related SDGs require global monitoring with the ‘city’ as the unit of analysis. In order to monitor the urban SDGs in particular, it is necessary to agree on a global/common definition of what constitutes a ‘city’. A standard city definition will assist in the monitoring of the SDGs by ensuring that the study areas for the spatial urban SDGs are standardized and easily reproducible, and will add clarity to the methodologies and approaches to the collection of data to support the land and rural related indicators. UN-Habitat in collaboration with New York University and the Joint Research Centre - European Commission has adopted two definitions of cities. </p> 
-  <p>The definitions are: </p> 
-  <p>a) City defined by the limit of its built-up area -New York University The Built-up area’ of a city is defined as the contiguous area occupied by buildings and other impervious surfaces including the urban vacant areas in and around them but excluding rural areas beyond the urban fringe. </p> 
-  <p></p> 
-  <p>b) Degree of Urbanization (DEGURBA) -European Commission-JRC Degree of urbanization is defined as the classification of local administrative units’ level 2 or communes into three types: Cities (densely populated), towns or suburbs (intermediate density) and rural areas (thinly populated areas) based on the share of the local population living in urban clusters and in urban centers. </p>
+  |
+  <p>Many urban related SDGs require global monitoring with the ‘city’ as the unit of analysis. In order to monitor the urban SDGs in particular, it is necessary to agree on a global/common definition of what constitutes a ‘city’. A standard city definition will assist in the monitoring of the SDGs by ensuring that the study areas for the spatial urban SDGs are standardized and easily reproducible, and will add clarity to the methodologies and approaches to the collection of data to support the land and rural related indicators. UN-Habitat in collaboration with New York University and the Joint Research Centre - European Commission has adopted two definitions of cities. </p>
+  <p>The definitions are: </p>
+  <p>a) City defined by the limit of its built-up area -New York University The Built-up area’ of a city is defined as the contiguous area occupied by buildings and other impervious surfaces including the urban vacant areas in and around them but excluding rural areas beyond the urban fringe. </p>
+  <p></p>
+  <p>b) Degree of Urbanization (DEGURBA) -European Commission-JRC Degree of urbanization is defined as the classification of local administrative units’ level 2 or communes into three types: Cities (densely populated), towns or suburbs (intermediate density) and rural areas (thinly populated areas) based on the share of the local population living in urban clusters and in urban centers.</p>
 UNIT_MEASURE: >-
   Number/dimensionless
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> There are several data sources that could be used:</p> 
-  <p>1. Official documents such as National Urban Plan, Frameworks, Strategies, etc. Available in national or regional administrations.</p> 
-  <p>2. Other supporting tools such as: baseline spatial data mapping, benchmarking, point-of-service surveys, performance monitoring and reporting, gap and</p> 
-  <p>content analysis.</p> 
-  <p>3. Database of national urban policies by United Nations - and other international organizations, UN-Habitat has developed a National Urban Policy Database as</p> 
-  <p>a repository of official urban policies documents and related; UN-Habitat has also developed the UrbanLex, a database of laws and policies on urban matters. </p>
+  |
+  <p>There are several data sources that could be used:</p>
+  <p>1. Official documents such as National Urban Plan, Frameworks, Strategies, etc. Available in national or regional administrations.</p>
+  <p>2. Other supporting tools such as: baseline spatial data mapping, benchmarking, point-of-service surveys, performance monitoring and reporting, gap and</p>
+  <p>content analysis.</p>
+  <p>3. Database of national urban policies by United Nations - and other international organizations, UN-Habitat has developed a National Urban Policy Database as</p>
+  <p>a repository of official urban policies documents and related; UN-Habitat has also developed the UrbanLex, a database of laws and policies on urban matters.</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Ministry of Infrastructure and Regional Development</p> 
-  <p>National Bureau of Statistics </p>
+  |
+  <p>Ministry of Infrastructure and Regional Development</p>
+  <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Infrastructure and Regional Development

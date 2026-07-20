@@ -31,8 +31,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Definition: Bilateral agreements in the area of social security represent  tools meant to ensure a set of social guarantees and protection for migrant  workers and their families, who perform or had performed a working activity  and/or domicile on the territory of one or both contracting states.</p> 
-  <p>Bilateral social security agreements ensure protection against the following  social risks  (defined according to the ILO Convention No. 102/1952 on minimal  norms of social security): old age, temporary work incapacity, disability,  maternity, unemployment, loss of  carer, death. </p>
+  |
+  <p>Definition: Bilateral agreements in the area of social security represent  tools meant to ensure a set of social guarantees and protection for migrant  workers and their families, who perform or had performed a working activity  and/or domicile on the territory of one or both contracting states.</p>
+  <p>Bilateral social security agreements ensure protection against the following  social risks  (defined according to the ILO Convention No. 102/1952 on minimal  norms of social security): old age, temporary work incapacity, disability,  maternity, unemployment, loss of  carer, death.</p>
 UNIT_MEASURE: >-
   Number
 CLASS_SYSTEM: ''
@@ -46,8 +47,9 @@ DATA_SOURCE: >-
   Ministry of Labour and Social Protection
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labour and Social Protection</p> 
-  <p>Diaspora Relations Office </p>
+  |
+  <p>Ministry of Labour and Social Protection</p>
+  <p>Diaspora Relations Office</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

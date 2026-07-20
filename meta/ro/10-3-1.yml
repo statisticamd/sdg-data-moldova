@@ -45,8 +45,9 @@ DATA_SOURCE: >-
   Consiliul pentru egalitate
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.Consiliul pentru egalitate</p> 
-  <p>2.Alte APC (Ministerul Muncii și Protecției Sociale,  Ministerul Afacerilor Interne, Ministerul Justiției) </p>
+  |
+  <p>1.Consiliul pentru egalitate</p>
+  <p>2.Alte APC (Ministerul Muncii și Protecției Sociale,  Ministerul Afacerilor Interne, Ministerul Justiției)</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

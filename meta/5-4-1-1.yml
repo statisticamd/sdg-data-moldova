@@ -31,27 +31,29 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  “Personal Assistance” Service is a specialized social service established by the decision of the local public authorities of the second level and the municipality of Bălți, with the purpose of providing assistance and care to children and adults with severe disabilities, in order to promote their independence and integration into society (in the areas of social protection, employment, medical assistance, education, information, access to infrastructure, etc.). By Government Decision no. 314/2012 was approved the Framework Regulation on the organization and functioning of the social service “Personal Assistance” and the Minimum Quality Standards. The expenses related to the organization and operation of the social service “Personal Assistance” are covered by the service providers and are incurred within the limit of the allocations provided annually in the respective budgets, as well as funds from donations, grants and other sources, according to the legislation. According to the provisions of Law no. 256/2023 on the amendment of some normative acts and Government Decision no. 957/2023 on the establishment, organization and functioning of territorial social assistance agencies, the competences for the development and management of the social assistance system at the second-level local public authorities (LPA II), as of 01.01.2024, are implemented by the Ministry of Labour and Social Protection, through the Territorial Social Assistance Agencies.
+  |
+  <p>Personal Assistance Service  is meant for persons with severe disability who  need permanent care, companion and supervision from behalf of another person  during the process of integration in society on the areas of social  protection, labour, medical assistance, training-education, information, and  access to infrastructure and other. The social service „Personal Assistance”  was established via the Government Decision No.314 dated 23 May 2012 approving  the Framework Regulation on Organization and Operation of the Social Service  "Personal Assistance” and minimum quality standards. </p>
+  <p>Service providers „Personal assistance” are the Ministry of Labour and Social Protection through the Territorial Social Assistance Agencies and the Agency for the Management of Social Services with High Specialization, as well as the structures responsible for social assistance and child rights protection in the municipality of Chisinau and the Autonomous Territorial Unit of Gagauzia.</p>
+  <p>The financing of the service is carried out from the state budget, through the Ministry of Labor and Social Protection, the budget of the Chisinau municipality and the budget of the autonomous territorial unit of Gagauzia.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Personal Assistants Registry
+  1)Territorial Social Assistance Agencies/Territorial structure of social  assistance (ATAS/STAS)                                                                                                                                              2) Agency for the Management of Highly Specialized Social Services (AGSSSÎ)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Territorial Social Assistance Agencies / Territorial Structures of  Social Assistance, TAU Gagauzia</p> 
-  <p>2. Agency for the Management of Highly Sppecialized Social Services </p>
+  1)Territorial Social Assistance Agencies/Territorial structure of social  assistance (ATAS/STAS)                                                                                                                                              2) Agency for the Management of Highly Specialized Social Services (AGSSSÎ)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Labour and Social Protection
+  Ministry of Labour and Social Protection of the RM
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of female personal assistants caring for persons with severe  disabilities out of the total number of personal assistants caring for persons with severe disabilities*100
+  Number of female personal assistants who take care of persons with severe  disabilities out of the total number of personal assistants taking care of  persons with severe disabilities*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,7 +61,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  National indicator, not comparable with the global indicator.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -67,13 +68,12 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  Ministry of Labour and Social Protection
+  1)Territorial Social Assistance Agencies/Territorial structure of social  assistance (ATAS/STAS)                                                                                                                                              2) Agency for the Management of Highly Specialized Social Services (AGSSSÎ)
 source_periodicity_1: >-
-  annual
+  Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to data source
+  Link to source
 source_contact_1: >-
-  <p> Mariana Tocan, Deputy Head, Protection of the rights of persons with disabilities policies Department, </p> 
-  <p>e-mail: mariana.tocan@social.gov.md, tel. 022 804 439 </p>
+  tel.022 804 439, Liuba Muntean, Mariana Tocan.
 source_other_info_1: >-

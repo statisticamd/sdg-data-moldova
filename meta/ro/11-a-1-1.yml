@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 11.a.1: Numărul de țări care au politici urbane naționale sau planuri de dezvoltare  regională care (a) răspund la dinamica populației; (b) asigură o dezvoltare  teritorială echilibrată; și (c) asigură creșterea spațiului fiscal local</p>
+  <p>Indicator 11.a.1.1: Numărul de țări care au politici urbane naționale sau planuri de dezvoltare  regională care (a) răspund la dinamica populației; (b) asigură o dezvoltare  teritorială echilibrată; și (c) asigură creșterea spațiului fiscal local</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 11.a: Susținerea conexiunilor pozitive economice, sociale și de mediu între zonele  urbane, periurbane și rurale prin consolidarea planificării naționale și  regionale pentru dezvoltare</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -13,11 +13,11 @@ target_id: >-
   11.a
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-11.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-11-0A-01.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 11.a.1: 1. Ponderea localităților care dispun de documentație de urbanism elaborată și aprobată</p>
+  <p>Indicator 11.a.1.1: Ponderea localităților care dispun de documentație de urbanism elaborată și aprobată</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -37,16 +37,18 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Există mai multe surse de date care ar putea fi utilizate:</p> 
-  <p>1. Documente oficiale precum Planul Urbanistic Național, Cadrele, Strategiile etc. Disponibile în administrațiile naționale sau regionale.</p> 
-  <p>2. Alte instrumente de sprijin, cum ar fi: cartografierea datelor spațiale de referință, evaluarea comparativă, anchetele la punctele de serviciu, monitorizarea și raportarea performanței, decalajul și analiza de continut.</p> 
-  <p>3. Baza de date a politicilor urbane naționale a Națiunilor Unite - și alte organizații internaționale, ONU-Habitat a dezvoltat o bază de date națională a politicilor urbane ca un depozit de documente oficiale de politici urbane și aferente; ONU-Habitat a dezvoltat, de asemenea, UrbanLex, o bază de date cu legi și politici privind problemele urbane. </p>
+  |
+  <p>Există mai multe surse de date care ar putea fi utilizate:</p>
+  <p>1. Documente oficiale precum Planul Urbanistic Național, Cadrele, Strategiile etc. Disponibile în administrațiile naționale sau regionale.</p>
+  <p>2. Alte instrumente de sprijin, cum ar fi: cartografierea datelor spațiale de referință, evaluarea comparativă, anchetele la punctele de serviciu, monitorizarea și raportarea performanței, decalajul și analiza de continut.</p>
+  <p>3. Baza de date a politicilor urbane naționale a Națiunilor Unite - și alte organizații internaționale, ONU-Habitat a dezvoltat o bază de date națională a politicilor urbane ca un depozit de documente oficiale de politici urbane și aferente; ONU-Habitat a dezvoltat, de asemenea, UrbanLex, o bază de date cu legi și politici privind problemele urbane.</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Ministerul Infrastructurii și Dezvoltării Regionale</p> 
-  <p>Biroul Național de Statistică </p>
+  |
+  <p>Ministerul Infrastructurii și Dezvoltării Regionale</p>
+  <p>Biroul Național de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Infrastructurii și Dezvoltării Regionale

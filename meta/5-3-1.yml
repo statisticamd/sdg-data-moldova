@@ -14,7 +14,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 207 KB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.3.1: Proportion of women aged 20-24 who were married or in a couple  relationship for the first time before the age of 15 and before the age of 18</p>
 SDG_SERIES_DESCR: ''
@@ -64,8 +64,9 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.National Agency for Public Health</p> 
-  <p>  2.National Bureau of Statistics </p>
+  |
+  <p>1.National Agency for Public Health</p>
+  <p>  2.National Bureau of Statistics</p>
 source_periodicity_1: >-
   Once every few years
 source_url_1: >-

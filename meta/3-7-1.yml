@@ -15,9 +15,9 @@ SDG_TARGET: ''
 GOAL_META_LINK: >-
   https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 865kB)
+  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 3.7.1: Proportion of women of reproductive age (aged 15-49 years) who have their need  for family planning satisfied with modern methods of contraception</p>
+  <p>Indicator 3.7.1: tion of women of reproductive age (aged 15-49 years) who have their need  for family planning satisfied with modern methods of contraception</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -36,13 +36,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Multiple Indicator Cluster Surveys (MICS) 2012
+  |
+  <p>For the years 2020-2024 - Generations and Gender Study (GGS)</p>
+  <p>For the year 2012 - MICS 2012</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Agency for Public Health</p> 
-  <p>  2.United Nations Children's Fund  (UNICEF) </p>
+  |
+  <p>Ministry of Labour and  Social Protection</p>
+  <p>National Agency for Public Health</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Health
@@ -65,8 +68,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.National Agency for Public Health</p> 
-  <p>2.Ministry of Labour and  Social Protection </p>
+  |
+  <p>Ministry of Labour and  Social Protection</p>
+  <p>National Agency for Public Health</p>
 source_periodicity_1: >-
   Once every few years
 source_url_1: >-

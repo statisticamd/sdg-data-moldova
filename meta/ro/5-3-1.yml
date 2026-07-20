@@ -14,7 +14,7 @@ target_id: >-
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF 207 KB)
+  Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 5.3.1: Proporția femeilor cu vârsta de 20-24 ani care pentru prima dată s-au  căsătorit sau au fost într-o relație de cuplu, înainte de vârsta de 15 ani și  înainte de vârsta de 18 ani</p>
 SDG_SERIES_DESCR: ''
@@ -64,8 +64,9 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Agenția Națională pentru Sănătate Publică</p> 
-  <p>  2) Biroul Național de  Statistică </p>
+  |
+  <p>1) Agenția Națională pentru Sănătate Publică</p>
+  <p>  2) Biroul Național de  Statistică</p>
 source_periodicity_1: >-
   O dată la câțiva ani
 source_url_1: >-

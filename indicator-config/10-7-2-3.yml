@@ -1,7 +1,10 @@
 composite_breakdown_label: ''
 computation_units: Number
 copyright: ''
-data_footnote: ''
+data_footnote: |
+  <p>1. The Agreement between the Government of the Republic of Moldova and the Government of the French Republic in the field of social security was signed on March 10, 2025, in Paris, and ratified by the Parliament of the Republic of Moldova on April 30, 2025. </p>
+  <p>2. The bilateral agreement in the field of social security between the Republic of Moldova and the Swiss Confederation was signed on June 2, 2025, in Bern, following negotiations conducted in 2022–2024, and ratified by the Parliament of the Republic of Moldova on July 3, 2025. </p>
+  <p>3. The agreement between the Republic of Moldova and the Italian Republic in the field of social security was signed on October 31, 2024 and entered into force on September 1, 2025.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,6 +26,7 @@ graph_target_lines: []
 graph_title: national_indicators.10-7-2-3-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.10-7-2-3-title
 indicator_name: national_indicators.10-7-2-3-title
 indicator_number: 10.7.2.3
 indicator_tabs:: 
@@ -43,6 +47,6 @@ reporting_status: complete
 sort: ''
 sources: []
 standalone: false
-ttags:
+tags:
   - National proxy
 x_axis_label: ''

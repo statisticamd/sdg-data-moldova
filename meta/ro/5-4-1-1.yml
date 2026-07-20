@@ -31,19 +31,25 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Serviciul social „Asistenţă personală” este un serviciu social specializat, instituit prin decizia autorităţilor administraţiei publice locale de nivelul al doilea şi ale municipiului Bălţi, care are scopul de a oferi asistenţă şi îngrijire copiilor şi adulţilor cu dizabilităţi severe, în vederea favorizării independenţei şi integrării lor în societate (în domeniile: protecţie socială, muncă, asistenţă medicală, instructiv-educativ, informaţional, acces la infrastructură etc.). Prin Hotărârea Guvernului nr. 314/2012 a fost aprobat Regulamentul-cadru privind organizarea și funcționarea serviciului social „Asistență personală” și Standardele minime de calitate. Cheltuielile ce țin de organizarea și funcționarea serviciului social „Asistență personală” sunt suportate de către prestatorii serviciului și sunt efectuate în limita alocațiilor prevăzute anual în bugetele respective, precum și a mijloacelor provenite din donații, granturi și alte surse, conform legislației. Conform prevederilor Legii nr. 256/2023 pentru modificarea unor acte normative și Hotărîrii Guvernului nr. 957/2023 cu privire la constituirea, organizarea și funcționarea agențiilor teritoriale de asistență socială, competențele de dezvoltare și gestionare a sistemului de asistență socială de la nivelul autorităților publice locale de nivelul doi (APL II), din data de 01.01.2024, sunt implementate de către Ministerul Muncii și Protecției Sociale, prin intermediul Agențiilor Teritoriale de Asistență Socială.
+  |
+  <p>Serviciul de Asistență Personală este destinat pentru persoanele cu  dizabilități severe care necesită îngrijire, însoțire și supraveghere  permanentă din partea unei alte persoane în procesul integrării lor în  societate în domeniile protecției sociale, muncii, asistenței medicale,  instructiv-educativ, informațional, al accesului la infrastructură și altele.  Serviciul social „Asistența Personală” a fost instituit prin Hotărârea  Guvernului nr. 314 din 23 mai 2012 pentru aprobarea Regulamentului-cadru  privind organizarea și funcționarea Serviciului social „Asistenta personală”  și a Standardelor minime de calitate.                                                                                       </p>
+  <p>Prestatori de serviciu „Asistența personală” sunt Ministerul Muncii și Protecției Sociale prin intermediul Agențiilor Teritoriale de Asistență Socială și Agenției pentru Gestionarea Serviciilor Sociale cu Specializare Înaltă, precum și structurile responsabile de asistența socială și de protecția drepturilor copilului din municipiul Chișinău și din Unitatea Teritorială Autonomă Găgăuzia.</p>
+  <p>Finanțarea serviciului se realizează din bugetul de stat, prin intermediul Ministerului Muncii și Protecției Sociale, bugetul municipiului Chișinău și bugetul unității teritoriale autonome Găgăuzia.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Registrul de evidență al asistenților personali
+  |
+  <p>1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p>
+  <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Agențiile teritoriale de asistență socială/STAS (Structurile teritoriale de  asistență socială), UTA Găgăuzia</p> 
-  <p>2. Agenția pentru Gestionare a Serviciilor Sociale cu Specializare Înaltă </p>
+  |
+  <p>1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p>
+  <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
@@ -51,7 +57,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul femeilor asistente personale care îngrijesc persoane cu  dizabilități severe raportat la numărul total al asistenților personali care  îngrijesc persoane cu dizabilități severe*100
+  Numărul femeilor asistenților personali care îngrijesc de persoane cu  dizabilități severe raportat la numărul total al asistenților personali care  îngrijesc de persoane cu dizabilități severe*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,7 +65,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  Indicator național, nu este comparabil cu cel global.
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -67,13 +72,14 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  Ministerul Muncii și Protecției Sociale
+  |
+  <p>1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p>
+  <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă</p>
 source_periodicity_1: >-
   anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  <p> Mariana Tocan, Șefă adjunctă, Direcția politici de protecție a drepturilor persoanelor cu dizabilități,</p> 
-  <p>e-mail: mariana.tocan@social.gov.md, tel. 022 804 439 </p>
+  tel.022 804 439, Liuba Muntean, Mariana Tocan.
 source_other_info_1: >-
