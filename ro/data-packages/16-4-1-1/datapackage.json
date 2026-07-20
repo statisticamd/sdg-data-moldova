@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of transactions reported by banking institutions",
-                "Number of transactions reported by non-banking institutions",
+                "Numărul tranzacțiilor raportate de instituțiile bancare",
+                "Numărul tranzacțiilor raportate de instutițiile nebancare",
                 ""
               ]
             },

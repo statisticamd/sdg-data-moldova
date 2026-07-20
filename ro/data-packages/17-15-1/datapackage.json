@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient",
-                "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient",
-                "Proportion of results indicators drawn from country-led results frameworks - data by recipient",
-                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient",
+                "Proporția indicatorilor de rezultate care vor fi monitorizați utilizând surse guvernamentale și sisteme de monitorizare – date pe beneficiar",
+                "Proporția obiectivelor proiectelor din noile intervenții de dezvoltare care sunt derivate din cadrele de rezultate conduse la nivel de țară – date pe beneficiar",
+                "Proporția indicatorilor de rezultate care sunt derivați din cadrele de rezultate conduse la nivel de țară – date pe beneficiar",
+                "Gradul de utilizare a cadrelor de rezultate și a instrumentelor de planificare deținute la nivel de țară de către furnizorii de cooperare pentru dezvoltare – date pe beneficiar",
                 ""
               ]
             },

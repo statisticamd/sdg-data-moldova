@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate of requests for communication of public interest information fully resolved",
-                "Share of requests for communication of public interest information examined within the legal deadlines",
+                "Rata cererilor de comunicare a informațiilor de interes public soluționate integral",
+                "Ponderea cererilor de comunicare a informațiilor de interes public examinate în termenele legale",
                 ""
               ]
             },
