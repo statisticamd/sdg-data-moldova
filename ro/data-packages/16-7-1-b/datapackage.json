@@ -16,27 +16,18 @@
             "title": "Anul"
           },
           {
-            "name": "Sex",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
                 "Bărbați",
                 "Femei",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "18-44 years",
                 "Dizabilitate",
                 ""
               ]
             },
-            "title": "Dizabilitate"
+            "title": "Indicatori"
           },
           {
             "name": "Value",

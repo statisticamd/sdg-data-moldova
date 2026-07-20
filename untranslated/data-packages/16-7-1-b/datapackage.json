@@ -15,21 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
                 "Men",
                 "Women",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "18-44 years",
                 "Disability",
                 ""
               ]

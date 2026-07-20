@@ -1,16 +1,49 @@
-Year,Value
-2010,
-2011,
-2012,
-2013,
-2014,
-2015,
-2016,
-2017,
-2018,
-2019,
-2020,
-2021,46.0
-2022,47.0
-2023,59.0
-2024,61.0
+Year,Indicators,Value
+2010,,
+2010,Rate of requests for communication of public interest information fully resolved,
+2010,Share of requests for communication of public interest information examined within the legal deadlines,
+2011,,
+2011,Rate of requests for communication of public interest information fully resolved,
+2011,Share of requests for communication of public interest information examined within the legal deadlines,
+2012,,
+2012,Rate of requests for communication of public interest information fully resolved,
+2012,Share of requests for communication of public interest information examined within the legal deadlines,
+2013,,
+2013,Rate of requests for communication of public interest information fully resolved,
+2013,Share of requests for communication of public interest information examined within the legal deadlines,
+2014,,
+2014,Rate of requests for communication of public interest information fully resolved,
+2014,Share of requests for communication of public interest information examined within the legal deadlines,
+2015,,
+2015,Rate of requests for communication of public interest information fully resolved,
+2015,Share of requests for communication of public interest information examined within the legal deadlines,
+2016,,
+2016,Rate of requests for communication of public interest information fully resolved,
+2016,Share of requests for communication of public interest information examined within the legal deadlines,
+2017,,
+2017,Rate of requests for communication of public interest information fully resolved,
+2017,Share of requests for communication of public interest information examined within the legal deadlines,
+2018,,
+2018,Rate of requests for communication of public interest information fully resolved,
+2018,Share of requests for communication of public interest information examined within the legal deadlines,
+2019,,
+2019,Rate of requests for communication of public interest information fully resolved,
+2019,Share of requests for communication of public interest information examined within the legal deadlines,
+2020,,
+2020,Rate of requests for communication of public interest information fully resolved,
+2020,Share of requests for communication of public interest information examined within the legal deadlines,
+2021,,46.0
+2021,Rate of requests for communication of public interest information fully resolved,
+2021,Share of requests for communication of public interest information examined within the legal deadlines,
+2022,,47.0
+2022,Rate of requests for communication of public interest information fully resolved,
+2022,Share of requests for communication of public interest information examined within the legal deadlines,
+2023,,59.0
+2023,Rate of requests for communication of public interest information fully resolved,
+2023,Share of requests for communication of public interest information examined within the legal deadlines,
+2024,,61.0
+2024,Rate of requests for communication of public interest information fully resolved,71.45
+2024,Share of requests for communication of public interest information examined within the legal deadlines,77.0
+2025,,
+2025,Rate of requests for communication of public interest information fully resolved,91.14
+2025,Share of requests for communication of public interest information examined within the legal deadlines,95.0

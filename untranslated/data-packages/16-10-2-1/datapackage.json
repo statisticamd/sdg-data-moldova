@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate of requests for communication of public interest information fully resolved",
+                "Share of requests for communication of public interest information examined within the legal deadlines",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of transactions reported by banking institutions",
+                "Number of transactions reported by non-banking institutions",
+                ""
+              ]
+            },
+            "title": "Indicatori"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-4-1-1",
+  "title": "Numărul tranzacțiilor suspecte de spălare de bani, de infracțiuni predicat și de finanțare a terorismului raportate în baza art. 11 din Legea nr. 308/2017 cu privire la prevenirea și combaterea spălării banilor și finanțării terorismului"
+}
