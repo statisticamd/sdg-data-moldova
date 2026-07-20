@@ -1,5 +1,5 @@
 composite_breakdown_label: ''
-computation_units: Documente de politici
+computation_units: DA/NU
 copyright: ''
 data_footnote: ''
 data_non_statistical: true
@@ -23,6 +23,7 @@ graph_target_lines: []
 graph_title: national_indicators.17-16-1-1-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.17-16-1-1-title
 indicator_name: national_indicators.17-16-1-1-title
 indicator_number: 17.16.1.1
 indicator_tabs:: 
@@ -33,15 +34,16 @@ indicator_tabs::
   tab_4: ''
 national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: >-
-  <p> Numărul de indicatori din cadrul naționalizat  ODD care arată tendințe pozitive este mai mare decât numărul indicatorilor  care prezintă o dinamică negativă.</p> 
-  <p>Situația pentru anul 2022:</p> 
-  <p>1. Să conducă la stabilirea priorităților naționale: țara își consolidează cadrul național de  rezultate. (DA)</p> 
-  <p>  2. Crearea unui mediu propice pentru organizațiile societății  civile: Organizațiile societății civile își desfășoară activitatea într-un  mediu care maximizează implicarea și contribuția lor la dezvoltare. (DA)</p> 
-  <p>  3.  Promovarea implicării sectorului privat și contribuția la dezvoltare:  Calitatea dialogului public-privat (DA)</p> 
-  <p>  4. Înregistrarea cooperării pentru  dezvoltare în Bugetul Public Național (BPN) supus supravegherii parlamentare:  Ponderea fondurilor de cooperare pentru dezvoltare planificate pentru sectorul  public al țării care au fost înregistrate în BPN anual supus aprobării  legislative. (Nu există date exacte, însă fondurile de cooperare pentru dezvoltare sunt înregistrate în BPN)</p> 
-  <p>  5. Consolidarea responsabilității reciproce:  Responsabilitatea reciprocă între actorii de dezvoltare este consolidată prin  revizuiri incluzive. (DA)</p> 
-  <p>  6. Consolidarea egalității de gen și abilitării  femeilor: Existența sistemelor guvernamentale transparente pentru urmărirea  alocărilor publice pentru egalitatea de gen și abilitarea femeilor (Parțial - în 2022 în Strategia managementului finantelor publice este prevăzută prioritatea respectiva)</p> 
-  <p>  7.  Consolidarea instituțiilor interne: calitatea gestionării bugetare și  financiare a țării (DA). </p>
+  |
+  <p>Numărul de indicatori din cadrul naționalizat  ODD care arată tendințe pozitive este mai mare decât numărul indicatorilor  care prezintă o dinamică negativă.</p>
+  <p>Situația pentru anul 2025:</p>
+  <p>1. Să conducă la stabilirea priorităților naționale: țara își consolidează cadrul național de  rezultate. (DA)</p>
+  <p>  2. Crearea unui mediu propice pentru organizațiile societății  civile: Organizațiile societății civile își desfășoară activitatea într-un  mediu care maximizează implicarea și contribuția lor la dezvoltare. (DA)</p>
+  <p>  3.  Promovarea implicării sectorului privat și contribuția la dezvoltare:  Calitatea dialogului public-privat (DA)</p>
+  <p>  4. Înregistrarea cooperării pentru  dezvoltare în Bugetul Public Național (BPN) supus supravegherii parlamentare:  Ponderea fondurilor de cooperare pentru dezvoltare planificate pentru sectorul  public al țării care au fost înregistrate în BPN anual supus aprobării  legislative. (DA)</p>
+  <p>  5. Consolidarea responsabilității reciproce:  Responsabilitatea reciprocă între actorii de dezvoltare este consolidată prin  revizuiri incluzive. (DA)</p>
+  <p>  6. Consolidarea egalității de gen și abilitării  femeilor: Existența sistemelor guvernamentale transparente pentru urmărirea  alocărilor publice pentru egalitatea de gen și abilitarea femeilor (DA)</p>
+  <p>  7.  Consolidarea instituțiilor interne: calitatea gestionării bugetare și  financiare a țării (DA).</p>
 permalink: ''
 placeholder: ''
 precision: []

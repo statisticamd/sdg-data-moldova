@@ -1,7 +1,7 @@
 composite_breakdown_label: ''
-computation_units: percent
+computation_units: Million lei
 copyright: ''
-data_footnote: ''
+data_footnote: Parallel financial investigations are carried out by CARA on the basis of requests received from the prosecutor’s offices and criminal investigation bodies. Accordingly, the data reflected in the register primarily concerns seizures applied as a result of these parallel financial investigations per country since the Agency became operational.
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -20,19 +20,19 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: national_indicators.16-10-2-1-graph
+graph_title: national_indicators.16-4-1-2-graph
 graph_titles: []
 graph_type: line
-indicator_available: national_indicators.16-10-2-1-title
-indicator_name: national_indicators.16-10-2-1-title
-indicator_number: 16.10.2.1
+indicator_available: national_indicators.16-4-1-2-title
+indicator_name: national_indicators.16-4-1-2-title
+indicator_number: 16.4.1.2
 indicator_tabs:: 
   override: false
   tab_1: ''
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and the municipality of Bender
+national_geographical_coverage: The Republic of Moldova, without the left side of the river Nistru and mun. Bender
 page_content: ''
 permalink: ''
 placeholder: ''

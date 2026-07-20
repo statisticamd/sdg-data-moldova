@@ -1,5 +1,5 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 16.7.1.b: Raportul dintre proporția pozițiilor ocupate în autoritățile publice (centrale  și locale) de către persoanele din anumite grupuri ale populației și proporția  grupului respectiv în total populație</p>
+  <p>Indicator 16.7.1.b: Raportul dintre proporția pozițiilor ocupate în autoritățile publice (centrale și locale) de către persoanele din anumite grupuri ale populației și proporția grupului respectiv în total populație</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 16.7: Asigurarea procesului decizional receptiv, incluziv, participativ și  reprezentativ la toate nivelurile</p>
 META_LAST_UPDATE__GLOBAL: ''
@@ -14,9 +14,9 @@ target_id: >-
   16.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01b.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-16-07-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele indicatorului global (PDF)
+  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 16.7.1.b: Raportul dintre proporția pozițiilor ocupate în autoritățile publice  (centrale și locale) de către persoanele din anumite grupuri ale populației și  proporția grupului respectiv în total populație</p>
 SDG_SERIES_DESCR: ''
@@ -33,7 +33,7 @@ CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
 UNIT_MEASURE: >-
-  Raport
+  Proporție
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -42,21 +42,16 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Cancelaria de stat</p> 
-  <p>Biroul Național de Statistică </p>
+  |
+  <p>Cancelaria de stat</p>
+  <p>Biroul Național de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Cancelaria de Stat</p> 
-  <p>Ministerul Muncii și Protecției Sociale </p>
+  Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Indicatorul urmărește să compare proporția diferitelor grupuri demografice (pe sex, vârstă, dizabilități și grupuri de populație) reprezentate în serviciul public, cu proporția acestor aceleași grupuri în populația țării.</p> 
-  <p></p> 
-  <p>Ratele rezultate pot fi interpretate astfel: </p> 
-  <p>0, când nu există deloc reprezentare în subcategoria respectivă a serviciului public </p> 
-  <p>1, când reprezentarea în subcategoria respectivă este mai mare în serviciul public decât în populație în vârstă de muncă </p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -78,4 +73,9 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  |
+  <p>Cancelaria de Stat, Direcția managementul funcției publice</p>
+  <p>Cristina Leșan, consultant principal</p>
+  <p>tel.: 022 250-252</p>
+  <p>e-mail:cristina.lesan@gov.md</p>
 source_other_info_1: >-

@@ -1,10 +1,10 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.14.1.1: Existența mecanismelor pentru a consolidarea coerenței politicilor de  dezvoltare durabilă</p>
+  <p>Indicator 17.14.1.1: Existența mecanismelor pentru consolidarea coerenței politicilor de  dezvoltare durabilă</p>
 SDG_TARGET__GLOBAL: >-
   <p>Target 17.14: Sporirea coerenței politicilor pentru dezvoltare durabilă</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  UNEP
+  UNEP/OECD
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -13,7 +13,7 @@ target_id: >-
   17.14
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-17-14-01.pdf
+  https://unstats.un.org/sdgs/dataportal/SDMXMetadataPage?17.14.1-SG_CPA_SDEVP
 GOAL_META_LINK_TEXT: >-
   Metadatele indicatorului global (PDF)
 SDG_INDICATOR: >-
@@ -31,17 +31,18 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> În sensul acestei metodologii, „coerența politicilor dezvoltării durabile” a fost interpretată ca fiind coerența dintre politicile în general care acoperă dimensiunile dezvoltării durabile. Acest indicator este un indicator compozit care acoperă mecanisme legate de:</p> 
-  <p>1. Instituționalizarea angajamentului politic</p> 
-  <p>2. Considerații pe termen lung în procesul decizional</p> 
-  <p>3. Coordonare interministerială și intersectorială</p> 
-  <p>4. Procese participative</p> 
-  <p>5. Legături de politici</p> 
-  <p>6. Aliniere între nivelurile guvernamentale</p> 
-  <p>7. Monitorizarea și raportarea pentru coerența politicilor</p> 
-  <p>8. Finanțarea pentru coerența politicilor </p>
+  |
+  <p>În sensul acestei metodologii, „coerența politicilor dezvoltării durabile” a fost interpretată ca fiind coerența dintre politicile în general care acoperă dimensiunile dezvoltării durabile. Acest indicator este un indicator compozit care acoperă mecanisme legate de:</p>
+  <p>1. Instituționalizarea angajamentului politic</p>
+  <p>2. Considerații pe termen lung în procesul decizional</p>
+  <p>3. Coordonare interministerială și intersectorială</p>
+  <p>4. Procese participative</p>
+  <p>5. Legături de politici</p>
+  <p>6. Aliniere între nivelurile guvernamentale</p>
+  <p>7. Monitorizarea și raportarea pentru coerența politicilor</p>
+  <p>8. Finanțarea pentru coerența politicilor</p>
 UNIT_MEASURE: >-
-  Documente de politici
+  Procent (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
@@ -50,24 +51,24 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Cancelaria de stat</p> 
-  <p>  2) Ministerele și autoritățile publice centrale </p>
+  Cancelaria de stat
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Cancelaria de stat</p> 
-  <p>Biroul Național de Statistică </p>
+  Cancelaria de stat
 OTHER_METHOD: >-
-  <p> În calitate de mecanisme naționale care asigură coordonarea și monitorizarea  procesului de consolidare a coerenței politicilor de dezvoltare durabilă sunt  considerate: </p> 
-  <p>- Comitetul interministerial pentru planificare strategică (HG 1070/2023);</p> 
-  <p>- Consiliul Național  de Coordonare pentru Dezvoltare Durabilă (HG.  912/2016);</p> 
-  <p>- Consiliile Coordonatoare pentru ODD-uri  în politicile sectoriale;  </p> 
-  <p>-Cadrul naţional de monitorizare a implementării Agendei de Dezvoltare Durabilă 2030 aprobat (HG 953/2022).</p> 
-  <p>- Hotărârea Guvernului nr. 386/2020 cu privire la planificarea strategică </p>
+  |
+  <p>În calitate de mecanisme naționale care asigură coordonarea și monitorizarea  procesului de consolidare a coerenței politicilor de dezvoltare durabilă sunt  considerate: </p>
+  <p>- Comitetul interministerial pentru planificare strategică (HG 1070/2023);</p>
+  <p>- Consiliul Național  de Coordonare pentru Dezvoltare Durabilă (HG.  912/2016);</p>
+  <p>- Consiliile Coordonatoare pentru ODD-uri  în politicile sectoriale;  </p>
+  <p>-Cadrul naţional de monitorizare a implementării Agendei de Dezvoltare Durabilă 2030 aprobat (HG 953/2022).</p>
+  <p>- Hotărârea Guvernului nr. 386/2020 cu privire la planificarea strategică</p>
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Acest indicator include 8 domenii. Fiecare domeniu este evaluat pe o scală de la 0 la 10, unde 0 înseamnă că niciunul dintre mecanismele solicitate nu este implementat, iar 10 înseamnă că toate mecanismele solicitate sunt implementate.</p> 
-  <p>Procentul de puncte din totalul de 80 de puncte este apoi calculat pentru fiecare țară. </p>
+  |
+  <p>Acest indicator include 8 domenii. Fiecare domeniu este evaluat pe o scală de la 0 la 10, unde 0 înseamnă că niciunul dintre mecanismele solicitate nu este implementat, iar 10 înseamnă că toate mecanismele solicitate sunt implementate.</p>
+  <p>Procentul de puncte din totalul de 80 de puncte este apoi calculat pentru fiecare țară.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -87,7 +88,14 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Anual
 source_url_1: >-
+  https://wedocs.unep.org/items/158d3bd8-3b4c-4db9-9366-148ecbce85d3
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
+  |
+  <p>Alina Bacinschi, consultant principal, Direcția planificare strategică</p>
+  <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-
+  |
+  <p>Datele naționale sunt colectate prin intermediul Chestionarului UNEP/OCDE privind mecanismul existent pentru consolidarea coerenței politicilor de dezvoltare durabilă.</p>
+  <p>Colectarea datelor, utilizând Chestionarul UNEP/OCDE privind mecanismul existent pentru consolidarea coerenței politicilor de dezvoltare durabilă: 2025, 2027, 2029.</p>

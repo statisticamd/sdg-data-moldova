@@ -32,13 +32,14 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> ODA – în conformitate cu definiția internațională DAC (OECD Development Assistance Committee) aceasta reprezintă "fluxurile către țări și teritorii din lista DAC a beneficiarilor de ODA și ale instituțiilor multilaterale care sunt : (i) furnizate de agenții oficiale, inclusiv de guvernele naționale și locale sau de agențiile executive ale acestora; și (ii) fiecare tranzacție este gestionată cu obiectivul principal de promovare a dezvoltării economice și a bunăstării țărilor în curs de dezvoltare; și este de natură concesională și transmite un element de grant de cel puțin 25% (calculat la o rată de reducere de 10%). ( [A se vedea](http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm) ) </p> 
-  <p>   Alte fluxuri oficiale (OOF) - (cu excepția creditelor la export sprijinite oficial) sunt definite ca fiind tranzacții efectuate de sectorul oficial care nu îndeplinesc condițiile de eligibilitate ca ODA, fie pentru că nu vizează în primul rând dezvoltarea, fie pentru că nu sunt suficient de concesionale ( [a se vedea](http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf), Paragraful 24.  </p> 
-  <p>   Fluxurile din surse private - investițiile private străine directe și alte fluxuri private în termeni de piață și subvenții caritabile ( [a se vedea](http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf), paragrafele 27; 28 și 29).  </p> 
-  <p>   Asistență externă – asistență financiară și tehnică acordată Republicii Moldova, Guvernului și/sau altor autorități publice de către comunitatea creditorilor/donatorilor (art.9 din HG nr. 377 din 25.04.2018, cu privire la reglementarea cadrului instituțional și mecanismului de coordonare și management  al asistenței externe).</p> 
-  <p>   Asistență (cooperare) financiară – suport financiar sub formă de împrumuturi, granturi, inclusiv livrări de bunuri și/sau lucrări pentru implementarea proiectelor/programelor;</p> 
-  <p>   Asistență (cooperare) tehnică – suport sub formă de transfer de cunoștințe, inclusiv tehnologii, metodologii și tehnici în cadrul proiectelor/programelor;</p> 
-  <p>   [Platforma pentru gestionarea asistenței externe (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) – sistem informațional automatizat accesibil on-line, în cadrul căruia este încărcată și stocată informația privind proiectele/programele de asistență externă din Republica Moldova. </p>
+  |
+  <p>ODA – în conformitate cu definiția internațională DAC (OECD Development Assistance Committee) aceasta reprezintă "fluxurile către țări și teritorii din lista DAC a beneficiarilor de ODA și ale instituțiilor multilaterale care sunt : (i) furnizate de agenții oficiale, inclusiv de guvernele naționale și locale sau de agențiile executive ale acestora; și (ii) fiecare tranzacție este gestionată cu obiectivul principal de promovare a dezvoltării economice și a bunăstării țărilor în curs de dezvoltare; și este de natură concesională și transmite un element de grant de cel puțin 25% (calculat la o rată de reducere de 10%). ( [A se vedea](http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm) ) </p>
+  <p>   Alte fluxuri oficiale (OOF) - (cu excepția creditelor la export sprijinite oficial) sunt definite ca fiind tranzacții efectuate de sectorul oficial care nu îndeplinesc condițiile de eligibilitate ca ODA, fie pentru că nu vizează în primul rând dezvoltarea, fie pentru că nu sunt suficient de concesionale ( [a se vedea](http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf), Paragraful 24.  </p>
+  <p>   Fluxurile din surse private - investițiile private străine directe și alte fluxuri private în termeni de piață și subvenții caritabile ( [a se vedea](http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf), paragrafele 27; 28 și 29).  </p>
+  <p>   Asistență externă – asistență financiară și tehnică acordată Republicii Moldova, Guvernului și/sau altor autorități publice de către comunitatea creditorilor/donatorilor (art.9 din HG nr. 377 din 25.04.2018, cu privire la reglementarea cadrului instituțional și mecanismului de coordonare și management  al asistenței externe).</p>
+  <p>   Asistență (cooperare) financiară – suport financiar sub formă de împrumuturi, granturi, inclusiv livrări de bunuri și/sau lucrări pentru implementarea proiectelor/programelor;</p>
+  <p>   Asistență (cooperare) tehnică – suport sub formă de transfer de cunoștințe, inclusiv tehnologii, metodologii și tehnici în cadrul proiectelor/programelor;</p>
+  <p>   [Platforma pentru gestionarea asistenței externe (AMP)](http://amp.gov.md/TEMPLATE/ampTemplate/dashboard/build/index.html) – sistem informațional automatizat accesibil on-line, în cadrul căruia este încărcată și stocată informația privind proiectele/programele de asistență externă din Republica Moldova.</p>
 UNIT_MEASURE: >-
   Milioane Dolari SUA, prețuri curente
 CLASS_SYSTEM: ''
@@ -51,7 +52,7 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Finanțelor
+  Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -79,4 +80,5 @@ source_url_1: >-
 source_url_text_1: >-
   Baza de date UNSTATS
 source_contact_1: >-
+  Maria Rotaru-Neghină, Consultant principal, Direcția coordonare asistență externă și fonduri europene, maria.rotaru-neghina@gov.md, 0 22 250 521
 source_other_info_1: >-

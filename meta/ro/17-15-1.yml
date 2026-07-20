@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.15.1: Nivelul de utilizare al cadrelor de rezultate și instrumentelor de planificare  ale țării de către furnizorii de cooperare pentru dezvoltare</p>
+  <p>Indicator 17.15.1: Nivelul de utilizare al cadrelor de rezultate și a instrumentelor de planificare  ale țării de către furnizorii de cooperare pentru dezvoltare</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target NA: Respectarea spațiului de politici și a autorității fiecărei țări în a stabili  și implementa politici de eradicare a sărăciei și dezvoltare durabilă</p>
+  <p>Target NA: Asigurarea respectării de către partenerii de dezvoltare a spațiului de politici și autorității țării în stabilirea și implementarea politicilor de eradicare a sărăciei și dezvoltare durabilă</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   OECD, UNDP
@@ -36,30 +36,29 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) [Portalul public al Platformei de gestionare a asistenței externe al  Guvernului](http://amp.gov.md/portal/)</p> 
-  <p>  2) Cadrul de monitorizare al  Parteneriatului Global (Global Partnership's monitoring Framework) </p>
+  |
+  <p>1) [Portalul public al Platformei de gestionare a asistenței externe al  Guvernului](http://amp.gov.md/portal/)</p>
+  <p>  2) Cadrul de monitorizare al  Parteneriatului Global (Global Partnership's monitoring Framework)</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Ministerul Finanțelor </p> 
-  <p>  2) Ministerul Afacerilor Externe și Integrării  Europene </p>
+  Cancelaria de Stat
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Cnacelaria de Stat</p> 
-  <p>  Organizația pentru Cooperare și Dezvoltare  Economică (OECD)</p> 
-  <p>  Programul Națiunilor Unite pentru Dezvoltare (PNUD) </p>
+  Cancelaria de Stat
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Indicatorul calculează măsura în care obiectivele, indicatorii de rezultat și  de monitorizare asociați cu noile intervenții de dezvoltare sunt extrase din  sursele guvernamentale, incluzând: instrumentele de planificare națională,  sectorială și locală. Pentru fiecare intervenție de dezvoltare semnificativă  (100.000 dolari SUA sau mai mult) aprobată în cursul anului de referință, sunt  evaluați următorii parametri:</p> 
-  <p>  Q1. Dacă obiectivele sunt extrase din  cadrele de rezultate, planurile și strategiile guvernării. Unde: </p> 
-  <p>  0,  Obiectivele nu sunt extrase din cadrele de rezultate, planuri și strategii  implementate de către Guvern; 1, Obiectivele sunt extrase din cadrele de  rezultate, planuri și strategii implementate de către Guvern;</p> 
-  <p>  Q2.  Ponderea indicatorilor de rezultat (produs) care sunt extrași din cadrele de  rezultate, planurile și strategiile guvernării, % </p> 
-  <p>  Unde: Numărător (nr):  Numărul de indicatori de rezultat (produs) extrași din cadrele de rezultate  ale Guvernului sau alte documente de planificare existente; Numitor (n):  Numărul total al indicatorilor de rezultat (produs) incluși din cadrul de  rezultate ale proiectului.</p> 
-  <p>  Q3. Ponderea indicatorilor de rezultate  (produs) care se vor baza pe sursele de date furnizate de către sistemele  de  monitorizare existente din țară sau de către serviciile naționale de  statistică pentru a urmări progresul proiectului %.   Unde : Numărător (ns):  Numărul de indicatori de rezultat (produs) care trebuie urmăriți folosind  statisticile guvernamentale, surse de date sau sisteme de Monitorizare și  Evaluare (adică nu surse specifice proiectului); Numitor (n): Numărul total al  indicatorilor de rezultat (produs) incluși din cadrul de rezultate ale  proiectului.</p> 
-  <p>  Agregarea indicatorului este efectuată prin medierea a celor  tei dimensiuni ale alinierii cu obiectivele și prioritățile naționale a noilor  intervenții în anul de referință. La agregare nu va fi considerată dimensiunea  proiectului, pentru a acorda același nivel de importanță gradului de utilizare  a cadrelor naționale de rezultate și a instrumentelor de planificare în  proiectele medii și mari.  În caz contrar, ponderarea în funcție de  dimensiunea proiectului va reprezenta excesiv proiectele de infrastructură și  va sub-reprezenta intervențiile menite să influențeze politicile și  aranjamentele instituționale.   Formulele de calcul pentru agregarea  indicatorului sunt prezentate la pagina 28 din următoarea  [sursă](http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf) </p>
+  |
+  <p>Indicatorul calculează măsura în care obiectivele, indicatorii de rezultat și  de monitorizare asociați cu noile intervenții de dezvoltare sunt extrase din  sursele guvernamentale, incluzând: instrumentele de planificare națională,  sectorială și locală. Pentru fiecare intervenție de dezvoltare semnificativă  (100.000 dolari SUA sau mai mult) aprobată în cursul anului de referință, sunt  evaluați următorii parametri:</p>
+  <p>  Q1. Dacă obiectivele sunt extrase din  cadrele de rezultate, planurile și strategiile guvernării. Unde: </p>
+  <p>  0,  Obiectivele nu sunt extrase din cadrele de rezultate, planuri și strategii  implementate de către Guvern; 1, Obiectivele sunt extrase din cadrele de  rezultate, planuri și strategii implementate de către Guvern;</p>
+  <p>  Q2.  Ponderea indicatorilor de rezultat (produs) care sunt extrași din cadrele de  rezultate, planurile și strategiile guvernării, % </p>
+  <p>  Unde: Numărător (nr):  Numărul de indicatori de rezultat (produs) extrași din cadrele de rezultate  ale Guvernului sau alte documente de planificare existente; Numitor (n):  Numărul total al indicatorilor de rezultat (produs) incluși din cadrul de  rezultate ale proiectului.</p>
+  <p>  Q3. Ponderea indicatorilor de rezultate  (produs) care se vor baza pe sursele de date furnizate de către sistemele  de  monitorizare existente din țară sau de către serviciile naționale de  statistică pentru a urmări progresul proiectului %.   Unde : Numărător (ns):  Numărul de indicatori de rezultat (produs) care trebuie urmăriți folosind  statisticile guvernamentale, surse de date sau sisteme de Monitorizare și  Evaluare (adică nu surse specifice proiectului); Numitor (n): Numărul total al  indicatorilor de rezultat (produs) incluși din cadrul de rezultate ale  proiectului.</p>
+  <p>  Agregarea indicatorului este efectuată prin medierea a celor  tei dimensiuni ale alinierii cu obiectivele și prioritățile naționale a noilor  intervenții în anul de referință. La agregare nu va fi considerată dimensiunea  proiectului, pentru a acorda același nivel de importanță gradului de utilizare  a cadrelor naționale de rezultate și a instrumentelor de planificare în  proiectele medii și mari.  În caz contrar, ponderarea în funcție de  dimensiunea proiectului va reprezenta excesiv proiectele de infrastructură și  va sub-reprezenta intervențiile menite să influențeze politicile și  aranjamentele instituționale.   Formulele de calcul pentru agregarea  indicatorului sunt prezentate la pagina 28 din următoarea  [sursă](http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf)</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -74,11 +73,15 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  Organizația pentru Cooperare și Dezvoltare Economică (OECD), Programul  Națiunilor Unite pentru Dezvoltare (PNUD)
+  Cancelaria de Stat
 source_periodicity_1: >-
   O dată la 2 ani
 source_url_1: >-
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
+  |
+  <p>Alina Bacinschi, consultant principal, Direcția planificare strategică</p>
+  <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-

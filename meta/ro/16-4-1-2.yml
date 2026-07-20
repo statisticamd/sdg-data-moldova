@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 5.5.2.2: NA</p>
+  <p>Indicator 16.4.1.2: Valoarea monetară a activelor identificate și sechestrate în baza investigațiilor financiare paralele desfășurate</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 5.5: 5.5 Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life</p>
+  <p>Target 16.4: Reducerea semnificativă a fluxurilor ilicite financiare, consolidarea recuperării și returnării bunurilor ilicite,  combaterea tuturor formelor de crimă organizată și a traficului de armament</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -9,12 +9,12 @@ SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  5.5
+  16.4
 SDG_TARGET: ''
 GOAL_META_LINK: >-
 GOAL_META_LINK_TEXT: >-
 SDG_INDICATOR: >-
-  <p>Indicator 5.5.2.2: Share of women in public service</p>
+  <p>Indicator 16.4.1.2: Valoarea monetară a activelor identificate și sechestrate în baza investigațiilor financiare paralele desfășurate</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -28,31 +28,25 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  The share of women in public service represents the ratio between the number of female civil servants and the total number of civil servants, expressed as a percentage.
+  Valoarea monetară a activelor identificate și sechestrate în baza investigațiilor financiare paralele desfășurate
 UNIT_MEASURE: >-
-  Percent, %
+  Milioane lei
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Administrative data
+  Sistemului informațional automatizat „Registrul bunurilor infracționale indisponibilizate”
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  State Chancellery
+  Centrul Nțional Anticorupție (ARBI)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  State Chancellery
+  Ministerul Afacerilor Interne
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
-  <p>R(f) = N(f_fp) / N(tot_fp) * 100</p>
-  <p>where: </p>
-  <p>R(f)  - the share of women in public service</p>
-  <p>N(f_fp) - the number of women civil servants</p>
-  <p>N(tot_fp) - the number of total civil servants</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -60,22 +54,19 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  National indicator
+  Indicator național
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
+  1
 source_active_1: true
 source_organisation_1: >-
-  State Chancellery
+  Centrul Nțional Anticorupție (ARBI)
 source_periodicity_1: >-
-  annual
+  Anual
 source_url_1: >-
-  https://cancelaria.gov.md/ro/advanced-page-type/rapoarte-0
 source_url_text_1: >-
-  Link to source
+  Link la sursa de date
 source_contact_1: >-
-  |
-  <p>State Chancellery, Public service management department,Cristina Lesan, principal consultant, tel.: 022 250-252</p>
-  <p>e-mail: cristina.lesan@gov.md</p>
 source_other_info_1: >-

@@ -1,7 +1,7 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 17.16.1.1: Reporting progress achieved in enforcing the framework for monitoring  development efficiency with participation with more partners, providing  support to the country to achieve the Sustainable Development Goals</p>
+  <p>Indicator 17.16.1.1: Reporting progress achieved in enforcing the framework for monitoring  development efficiency, with participation from more partners, providing  support to the country to achieve the SDGs</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 17.16: Enhance the Global Partnership for Sustainable Development, complemented by  multi-stakeholder partnerships that mobilize and share knowledge, expertise,  technology and financial resources, to support the achievement of the  Sustainable Development Goals in all countries, in particular developing  countries</p>
+  <p>Target 17.16: Enhancing the partnership for sustainable development, complemented by multi-stakeholder partnerships that mobilize and share diverse resources to achieve the Sustainable Development Goals.</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   OECD, UNDP
@@ -31,34 +31,33 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The aim of the indicator is to measure the quality and the efficiency of the  partnerships for development. It is considered that the country reports  progress when during the year of reference, the number of indicators from the  SDG nationalised framework which shows positive trends is higher than the  number of indicators that show a negative dynamics. The progress is reported  by the country as the beneficiary of assistance/support in the cooperation  framework, as well as by the countries which provide this  support/assistance.</p> 
-  <p>  Republic of  Moldova reporting as country benefiting  from foreign financing is assessed through the following elements:</p> 
-  <p>  1.  Leading the process of setting national priorities: Enhancing the national  results' framework.</p> 
-  <p>  2. Creating an enabling environment for civil society  organizations: the CSOs carry out their activity in an environment that  maximizes involvement and contribution to development.</p> 
-  <p>  3. Promoting  private sector's involvement and contribution to development: quality of the  public-private dialogue </p> 
-  <p>  4. Registering cooperation for development in  the National Public Budget subject to parliamentary oversight: share of  cooperation funds for development planned for the public sector of the  country, which were registered in the NPB subject to annual approval by the  Parliament .</p> 
-  <p>  5. Enhancing mutual accountability: mutual accountability  among the development actors is enhanced through inclusive analyses.</p> 
-  <p>  6.  Enhancing gender quality and women's empowerment: existence of transparent  governmental systems for tracing the public allocations for gender equality  and women's empowerment </p> 
-  <p>  7. Enhancing internal institutions: quality of  country's financial and budgetary management. </p>
+  |
+  <p>The aim of the indicator is to measure the quality and the efficiency of the  partnerships for development. It is considered that the country reports  progress when during the year of reference, the number of indicators from the  SDG nationalised framework which shows positive trends is higher than the  number of indicators that show a negative dynamics. The progress is reported  by the country as the beneficiary of assistance/support in the cooperation  framework, as well as by the countries which provide this  support/assistance.</p>
+  <p>  Republic of  Moldova reporting as country benefiting  from foreign financing is assessed through the following elements:</p>
+  <p>  1.  Leading the process of setting national priorities: Enhancing the national  results' framework.</p>
+  <p>  2. Creating an enabling environment for civil society  organizations: the CSOs carry out their activity in an environment that  maximizes involvement and contribution to development.</p>
+  <p>  3. Promoting  private sector's involvement and contribution to development: quality of the  public-private dialogue </p>
+  <p>  4. Registering cooperation for development in  the National Public Budget subject to parliamentary oversight: share of  cooperation funds for development planned for the public sector of the  country, which were registered in the NPB subject to annual approval by the  Parliament .</p>
+  <p>  5. Enhancing mutual accountability: mutual accountability  among the development actors is enhanced through inclusive analyses.</p>
+  <p>  6.  Enhancing gender quality and women's empowerment: existence of transparent  governmental systems for tracing the public allocations for gender equality  and women's empowerment </p>
+  <p>  7. Enhancing internal institutions: quality of  country's financial and budgetary management.</p>
 UNIT_MEASURE: >-
-  Policy documents
+  YES/NO
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) [Public portal of foreign assistance management of the  Government](http://amp.gov.md/portal/)</p> 
-  <p>  2) Reports of donor countries  </p> 
-  <p>  3) [Monitoring Framework of the Global Partnership for Sustainable  Development](https://www.effectivecooperation.org/system/files/2020-06/20170510%20Monitoring%20Framework%20Review%20Strategy%20%2801%20June%202017%29.pdf) </p>
+  |
+  <p>1) [Public portal of foreign assistance management of the  Government](http://amp.gov.md/portal/)</p>
+  <p>  2) Reports of donor countries  </p>
+  <p>  3) [Monitoring Framework of the Global Partnership for Sustainable  Development](https://www.effectivecooperation.org/system/files/2020-06/20170510%20Monitoring%20Framework%20Review%20Strategy%20%2801%20June%202017%29.pdf)</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.State Chancellery </p> 
-  <p>  2.Development partners </p>
+  State Chancellery
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.State Chancellery </p> 
-  <p>  2.Organisation for Economic Co-operation and  Development (OECD)</p> 
-  <p>  3.United Nations Development Programme (UNDP) </p>
+  State Chancellery
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -77,12 +76,14 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1.Organisation for Economic Co-operation and Development (OECD)</p> 
-  <p>  2.United  Nations Development Programme (UNDP) </p>
+  State Chancellery
 source_periodicity_1: >-
   Once every 2 years
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
+  |
+  <p>Alina Bacinschi, Principal Consultant, Strategic Planning Department</p>
+  <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-
