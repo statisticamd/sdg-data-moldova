@@ -391,14 +391,14 @@ Year,Area of residence,Educational level,Wealth quintiles,Age group,Occupational
 2023,,,,,Other status,,
 2023,,,,,,Married,
 2023,,,,,,Cohabiting,
-2024,,,,,,,
-2024,Urban,,,,,,
-2024,Rural,,,,,,
-2024,,Primary,,,,,
-2024,,Lower secondary,,,,,
-2024,,General secondary,,,,,
-2024,,Vocational secondary,,,,,
-2024,,Post-secondary vocational,,,,,
+2024,,,,,,,77.0
+2024,Urban,,,,,,75.7
+2024,Rural,,,,,,77.8
+2024,,Primary,,,,,78.8
+2024,,Lower secondary,,,,,76.1
+2024,,General secondary,,,,,72.5
+2024,,Vocational secondary,,,,,74.8
+2024,,Post-secondary vocational,,,,,73.8
 2024,,Higher,,,,,
 2024,,,I,,,,
 2024,,,II,,,,
@@ -407,15 +407,15 @@ Year,Area of residence,Educational level,Wealth quintiles,Age group,Occupational
 2024,,,V,,,,
 2024,,,,15-19,,,
 2024,,,,20-24,,,
-2024,,,,25-29,,,
-2024,,,,30-34,,,
-2024,,,,35-39,,,
-2024,,,,40-44,,,
-2024,,,,45-49,,,
-2024,,,,,Employed,,
-2024,,,,,Self-employed ,,
+2024,,,,25-29,,,80.3
+2024,,,,30-34,,,80.6
+2024,,,,35-39,,,77.2
+2024,,,,40-44,,,78.9
+2024,,,,45-49,,,65.9
+2024,,,,,Employed,,78.8
+2024,,,,,Self-employed ,,74.2
 2024,,,,,Retiree,,
 2024,,,,,Unemployed,,
-2024,,,,,Other status,,
-2024,,,,,,Married,
-2024,,,,,,Cohabiting,
+2024,,,,,Other status,,75.7
+2024,,,,,,Married,77.5
+2024,,,,,,Cohabiting,73.7
