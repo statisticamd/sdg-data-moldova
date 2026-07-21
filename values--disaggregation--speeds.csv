@@ -1,7 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
+10-30 mbps,1,1
+2-10 mbps,1,1
 ≤30 Mbps,1,1
 above 5 Gbps ,1,1
 between 1 Gbps and 5 Gbps,1,1
 between 100 Mbps and 500 Mbps,1,1
 between 30 Mbps and 100 Mbps,1,1
 between 500 Mbps and 1 Gbps,1,1
+Over 100 Mbps,1,1
+Under 2 Mbps,1,1

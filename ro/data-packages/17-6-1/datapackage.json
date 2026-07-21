@@ -47,11 +47,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sub 2 mbps",
+                "2-10 mbps",
+                "10-30 mbps",
+                "Peste 100 Mbps",
                 "≤30 Mbps",
-                "between 30 Mbps and 100 Mbps",
-                "between 100 Mbps and 500 Mbps",
-                "between 500 Mbps and 1 Gbps",
-                "between 1 Gbps and 5 Gbps",
+                "între 30 Mbps şi 100 Mbps",
+                "între 100 Mbps şi 500 Mbps",
+                "între 500 Mbps şi 1 Gbps",
+                "între 1 Gbps și 5 Gbps",
                 "above 5 Gbps ",
                 ""
               ]

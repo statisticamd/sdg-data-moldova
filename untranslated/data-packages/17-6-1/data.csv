@@ -7,6 +7,10 @@ Year,Area of residence,Regions,Speeds,Value
 2010,,Center,,
 2010,,South,,
 2010,,ATU Gagauzia,,
+2010,,,Under 2 Mbps,
+2010,,,2-10 mbps,
+2010,,,10-30 mbps,
+2010,,,Over 100 Mbps,
 2010,,,≤30 Mbps,
 2010,,,between 30 Mbps and 100 Mbps,
 2010,,,between 100 Mbps and 500 Mbps,
@@ -21,6 +25,10 @@ Year,Area of residence,Regions,Speeds,Value
 2011,,Center,,
 2011,,South,,
 2011,,ATU Gagauzia,,
+2011,,,Under 2 Mbps,
+2011,,,2-10 mbps,
+2011,,,10-30 mbps,
+2011,,,Over 100 Mbps,
 2011,,,≤30 Mbps,
 2011,,,between 30 Mbps and 100 Mbps,
 2011,,,between 100 Mbps and 500 Mbps,
@@ -35,6 +43,10 @@ Year,Area of residence,Regions,Speeds,Value
 2012,,Center,,
 2012,,South,,
 2012,,ATU Gagauzia,,
+2012,,,Under 2 Mbps,
+2012,,,2-10 mbps,
+2012,,,10-30 mbps,
+2012,,,Over 100 Mbps,
 2012,,,≤30 Mbps,
 2012,,,between 30 Mbps and 100 Mbps,
 2012,,,between 100 Mbps and 500 Mbps,
@@ -49,6 +61,10 @@ Year,Area of residence,Regions,Speeds,Value
 2013,,Center,,
 2013,,South,,
 2013,,ATU Gagauzia,,
+2013,,,Under 2 Mbps,
+2013,,,2-10 mbps,
+2013,,,10-30 mbps,
+2013,,,Over 100 Mbps,
 2013,,,≤30 Mbps,
 2013,,,between 30 Mbps and 100 Mbps,
 2013,,,between 100 Mbps and 500 Mbps,
@@ -63,11 +79,15 @@ Year,Area of residence,Regions,Speeds,Value
 2014,,Center,,12.5
 2014,,South,,13.48
 2014,,ATU Gagauzia,,17.12
-2014,,,≤30 Mbps,1.42
-2014,,,between 30 Mbps and 100 Mbps,5.69
-2014,,,between 100 Mbps and 500 Mbps,3.3
-2014,,,between 500 Mbps and 1 Gbps,6.4
-2014,,,between 1 Gbps and 5 Gbps,0.71
+2014,,,Under 2 Mbps,1.42
+2014,,,2-10 mbps,5.69
+2014,,,10-30 mbps,3.3
+2014,,,Over 100 Mbps,0.71
+2014,,,≤30 Mbps,
+2014,,,between 30 Mbps and 100 Mbps,6.4
+2014,,,between 100 Mbps and 500 Mbps,
+2014,,,between 500 Mbps and 1 Gbps,
+2014,,,between 1 Gbps and 5 Gbps,
 2014,,,above 5 Gbps ,
 2015,,,,18.77
 2015,Urban,,,28.59
@@ -77,11 +97,15 @@ Year,Area of residence,Regions,Speeds,Value
 2015,,Center,,13.14
 2015,,South,,14.18
 2015,,ATU Gagauzia,,18.25
-2015,,,≤30 Mbps,0.82
-2015,,,between 30 Mbps and 100 Mbps,1.85
-2015,,,between 100 Mbps and 500 Mbps,6.19
-2015,,,between 500 Mbps and 1 Gbps,8.43
-2015,,,between 1 Gbps and 5 Gbps,1.05
+2015,,,Under 2 Mbps,0.82
+2015,,,2-10 mbps,1.85
+2015,,,10-30 mbps,6.19
+2015,,,Over 100 Mbps,1.05
+2015,,,≤30 Mbps,
+2015,,,between 30 Mbps and 100 Mbps,8.43
+2015,,,between 100 Mbps and 500 Mbps,
+2015,,,between 500 Mbps and 1 Gbps,
+2015,,,between 1 Gbps and 5 Gbps,
 2015,,,above 5 Gbps ,
 2016,,,,19.73
 2016,Urban,,,30.5
@@ -91,11 +115,15 @@ Year,Area of residence,Regions,Speeds,Value
 2016,,Center,,13.63
 2016,,South,,16.97
 2016,,ATU Gagauzia,,18.42
-2016,,,≤30 Mbps,0.82
-2016,,,between 30 Mbps and 100 Mbps,1.13
-2016,,,between 100 Mbps and 500 Mbps,6.79
-2016,,,between 500 Mbps and 1 Gbps,9.43
-2016,,,between 1 Gbps and 5 Gbps,1.08
+2016,,,Under 2 Mbps,0.82
+2016,,,2-10 mbps,1.13
+2016,,,10-30 mbps,6.79
+2016,,,Over 100 Mbps,1.08
+2016,,,≤30 Mbps,
+2016,,,between 30 Mbps and 100 Mbps,9.43
+2016,,,between 100 Mbps and 500 Mbps,
+2016,,,between 500 Mbps and 1 Gbps,
+2016,,,between 1 Gbps and 5 Gbps,
 2016,,,above 5 Gbps ,
 2017,,,,21.01
 2017,Urban,,,32.01
@@ -105,11 +133,15 @@ Year,Area of residence,Regions,Speeds,Value
 2017,,Center,,14.99
 2017,,South,,18.35
 2017,,ATU Gagauzia,,18.87
-2017,,,≤30 Mbps,0.77
-2017,,,between 30 Mbps and 100 Mbps,0.94
-2017,,,between 100 Mbps and 500 Mbps,6.83
-2017,,,between 500 Mbps and 1 Gbps,10.62
-2017,,,between 1 Gbps and 5 Gbps,1.44
+2017,,,Under 2 Mbps,0.77
+2017,,,2-10 mbps,0.94
+2017,,,10-30 mbps,6.83
+2017,,,Over 100 Mbps,1.44
+2017,,,≤30 Mbps,
+2017,,,between 30 Mbps and 100 Mbps,10.62
+2017,,,between 100 Mbps and 500 Mbps,
+2017,,,between 500 Mbps and 1 Gbps,
+2017,,,between 1 Gbps and 5 Gbps,
 2017,,,above 5 Gbps ,
 2018,,,,22.83
 2018,Urban,,,34.28
@@ -119,11 +151,15 @@ Year,Area of residence,Regions,Speeds,Value
 2018,,Center,,17.85
 2018,,South,,18.05
 2018,,ATU Gagauzia,,19.58
-2018,,,≤30 Mbps,0.69
-2018,,,between 30 Mbps and 100 Mbps,0.31
-2018,,,between 100 Mbps and 500 Mbps,7.12
-2018,,,between 500 Mbps and 1 Gbps,12.41
-2018,,,between 1 Gbps and 5 Gbps,2.29
+2018,,,Under 2 Mbps,0.69
+2018,,,2-10 mbps,0.31
+2018,,,10-30 mbps,7.12
+2018,,,Over 100 Mbps,2.29
+2018,,,≤30 Mbps,
+2018,,,between 30 Mbps and 100 Mbps,12.41
+2018,,,between 100 Mbps and 500 Mbps,
+2018,,,between 500 Mbps and 1 Gbps,
+2018,,,between 1 Gbps and 5 Gbps,
 2018,,,above 5 Gbps ,
 2019,,,,24.98
 2019,Urban,,,36.85
@@ -133,11 +169,15 @@ Year,Area of residence,Regions,Speeds,Value
 2019,,Center,,19.78
 2019,,South,,20.25
 2019,,ATU Gagauzia,,20.72
-2019,,,≤30 Mbps,0.56
-2019,,,between 30 Mbps and 100 Mbps,0.29
-2019,,,between 100 Mbps and 500 Mbps,6.51
-2019,,,between 500 Mbps and 1 Gbps,13.78
-2019,,,between 1 Gbps and 5 Gbps,3.83
+2019,,,Under 2 Mbps,0.56
+2019,,,2-10 mbps,0.29
+2019,,,10-30 mbps,6.51
+2019,,,Over 100 Mbps,3.83
+2019,,,≤30 Mbps,
+2019,,,between 30 Mbps and 100 Mbps,13.78
+2019,,,between 100 Mbps and 500 Mbps,
+2019,,,between 500 Mbps and 1 Gbps,
+2019,,,between 1 Gbps and 5 Gbps,
 2019,,,above 5 Gbps ,
 2020,,,,27.2
 2020,Urban,,,38.5
@@ -147,11 +187,15 @@ Year,Area of residence,Regions,Speeds,Value
 2020,,Center,,22.32
 2020,,South,,22.37
 2020,,ATU Gagauzia,,21.39
-2020,,,≤30 Mbps,0.44
-2020,,,between 30 Mbps and 100 Mbps,0.27
-2020,,,between 100 Mbps and 500 Mbps,5.65
-2020,,,between 500 Mbps and 1 Gbps,14.5
-2020,,,between 1 Gbps and 5 Gbps,6.34
+2020,,,Under 2 Mbps,0.44
+2020,,,2-10 mbps,0.27
+2020,,,10-30 mbps,5.65
+2020,,,Over 100 Mbps,6.34
+2020,,,≤30 Mbps,
+2020,,,between 30 Mbps and 100 Mbps,14.5
+2020,,,between 100 Mbps and 500 Mbps,
+2020,,,between 500 Mbps and 1 Gbps,
+2020,,,between 1 Gbps and 5 Gbps,
 2020,,,above 5 Gbps ,
 2021,,,,29.02
 2021,Urban,,,40.06
@@ -161,11 +205,15 @@ Year,Area of residence,Regions,Speeds,Value
 2021,,Center,,24.5
 2021,,South,,24.39
 2021,,ATU Gagauzia,,22.64
-2021,,,≤30 Mbps,0.32
-2021,,,between 30 Mbps and 100 Mbps,0.23
-2021,,,between 100 Mbps and 500 Mbps,4.55
-2021,,,between 500 Mbps and 1 Gbps,14.3
-2021,,,between 1 Gbps and 5 Gbps,9.62
+2021,,,Under 2 Mbps,0.32
+2021,,,2-10 mbps,0.23
+2021,,,10-30 mbps,4.55
+2021,,,Over 100 Mbps,9.62
+2021,,,≤30 Mbps,
+2021,,,between 30 Mbps and 100 Mbps,14.3
+2021,,,between 100 Mbps and 500 Mbps,
+2021,,,between 500 Mbps and 1 Gbps,
+2021,,,between 1 Gbps and 5 Gbps,
 2021,,,above 5 Gbps ,
 2022,,,,30.9
 2022,Urban,,,41.4
@@ -175,11 +223,15 @@ Year,Area of residence,Regions,Speeds,Value
 2022,,Center,,26.4
 2022,,South,,19.2
 2022,,ATU Gagauzia,,24.0
-2022,,,≤30 Mbps,0.2
-2022,,,between 30 Mbps and 100 Mbps,0.2
-2022,,,between 100 Mbps and 500 Mbps,4.0
-2022,,,between 500 Mbps and 1 Gbps,13.7
-2022,,,between 1 Gbps and 5 Gbps,12.8
+2022,,,Under 2 Mbps,0.2
+2022,,,2-10 mbps,0.2
+2022,,,10-30 mbps,4.0
+2022,,,Over 100 Mbps,12.8
+2022,,,≤30 Mbps,
+2022,,,between 30 Mbps and 100 Mbps,13.7
+2022,,,between 100 Mbps and 500 Mbps,
+2022,,,between 500 Mbps and 1 Gbps,
+2022,,,between 1 Gbps and 5 Gbps,
 2022,,,above 5 Gbps ,
 2023,,,,33.6
 2023,Urban,,,44.2
@@ -189,11 +241,15 @@ Year,Area of residence,Regions,Speeds,Value
 2023,,Center,,29.0
 2023,,South,,28.5
 2023,,ATU Gagauzia,,25.4
-2023,,,≤30 Mbps,0.2
-2023,,,between 30 Mbps and 100 Mbps,0.2
-2023,,,between 100 Mbps and 500 Mbps,3.7
-2023,,,between 500 Mbps and 1 Gbps,12.3
-2023,,,between 1 Gbps and 5 Gbps,17.3
+2023,,,Under 2 Mbps,0.2
+2023,,,2-10 mbps,0.2
+2023,,,10-30 mbps,3.7
+2023,,,Over 100 Mbps,17.3
+2023,,,≤30 Mbps,
+2023,,,between 30 Mbps and 100 Mbps,12.3
+2023,,,between 100 Mbps and 500 Mbps,
+2023,,,between 500 Mbps and 1 Gbps,
+2023,,,between 1 Gbps and 5 Gbps,
 2023,,,above 5 Gbps ,
 2024,,,,37.1
 2024,Urban,,,47.9
@@ -203,11 +259,15 @@ Year,Area of residence,Regions,Speeds,Value
 2024,,Center,,32.5
 2024,,South,,31.6
 2024,,ATU Gagauzia,,28.1
-2024,,,≤30 Mbps,0.1
-2024,,,between 30 Mbps and 100 Mbps,0.2
-2024,,,between 100 Mbps and 500 Mbps,3.5
-2024,,,between 500 Mbps and 1 Gbps,10.7
-2024,,,between 1 Gbps and 5 Gbps,22.6
+2024,,,Under 2 Mbps,0.1
+2024,,,2-10 mbps,0.2
+2024,,,10-30 mbps,3.5
+2024,,,Over 100 Mbps,22.6
+2024,,,≤30 Mbps,
+2024,,,between 30 Mbps and 100 Mbps,10.7
+2024,,,between 100 Mbps and 500 Mbps,
+2024,,,between 500 Mbps and 1 Gbps,
+2024,,,between 1 Gbps and 5 Gbps,
 2024,,,above 5 Gbps ,
 2025,,,,40.4
 2025,Urban,,,52.4
@@ -217,6 +277,10 @@ Year,Area of residence,Regions,Speeds,Value
 2025,,Center,,35.3
 2025,,South,,34.6
 2025,,ATU Gagauzia,,31.2
+2025,,,Under 2 Mbps,
+2025,,,2-10 mbps,
+2025,,,10-30 mbps,
+2025,,,Over 100 Mbps,
 2025,,,≤30 Mbps,2.6
 2025,,,between 30 Mbps and 100 Mbps,8.3
 2025,,,between 100 Mbps and 500 Mbps,18.3

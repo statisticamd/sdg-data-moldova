@@ -7104,11 +7104,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Sub 2 mbps",
+                "2-10 mbps",
+                "10-30 mbps",
+                "Peste 100 Mbps",
                 "≤30 Mbps",
-                "between 30 Mbps and 100 Mbps",
-                "between 100 Mbps and 500 Mbps",
-                "between 500 Mbps and 1 Gbps",
-                "between 1 Gbps and 5 Gbps",
+                "între 30 Mbps şi 100 Mbps",
+                "între 100 Mbps şi 500 Mbps",
+                "între 500 Mbps şi 1 Gbps",
+                "între 1 Gbps și 5 Gbps",
                 "above 5 Gbps ",
                 ""
               ]
@@ -9886,13 +9890,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of Tier 1 own funds to total assets",
-                "Ratio of Tier 1 own funds to risk-weighted assets",
-                "Ratio of net non-performing loans less of provisions to own funds",
+                "Rata fondurilor proprii de nivel I în raport cu total active",
+                "Rata fondurilor proprii de nivel I în raport cu activele ponderate la risc",
+                "Rata creditelor neperformante (fără rezerve) in raport cu fondurile proprii",
                 "Ponderea creditelor neperformante în totalul creditelor acordate",
                 "Rentabilitatea activelor",
-                "The ratio of liquid assets to short-term liabilities",
-                "Ratio of net open foreign exchange position to own funds",
+                "Rata activelor lichide în raport cu pasivele pe termen scurt",
+                "Rata poziției valutare deschise nete la fondurile proprii",
                 ""
               ]
             },
@@ -13528,6 +13532,30 @@
         ]
       },
       "title": "Ponderea femeilor  în serviciul public"
+    },
+    {
+      "path": "11-2-1-1/data.csv",
+      "name": "11-2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Anul"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ponderea localităților care au acces la transport rutier și/sau feroviar prin servicii regulate"
     },
     {
       "path": "17-8-1/data.csv",

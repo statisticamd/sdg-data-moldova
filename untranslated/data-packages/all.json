@@ -6549,6 +6549,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Under 2 Mbps",
+                "2-10 mbps",
+                "10-30 mbps",
+                "Over 100 Mbps",
                 "≤30 Mbps",
                 "between 30 Mbps and 100 Mbps",
                 "between 100 Mbps and 500 Mbps",
@@ -12481,6 +12485,28 @@
         ]
       },
       "title": "national_indicators.5-5-2-2-title"
+    },
+    {
+      "path": "11-2-1-1/data.csv",
+      "name": "11-2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "national_indicators.11-2-1-1-title"
     },
     {
       "path": "17-8-1/data.csv",
