@@ -31,8 +31,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Indicatorul reprezintă ponderea exporturilor de mărfuri din Republica Moldova  în comerțul exterior al  țării. Indicatorul permite urmărirea creșterii  exporturilor din țară.</p> 
-  <p>  Statisticile comerțului exterior de mărfuri în  Republica Moldova se realizează în baza recomandărilor Comisiei de Statistică  a ONU (International Merchandise Trade Statistics – Concepts and Definitions,  2010 Series M No. 52) și legislației EUROSTAT privind comerțul internațional  de mărfuri cu țările terțe (EXTRASTAT). </p>
+  |
+  <p>Indicatorul reprezintă ponderea exporturilor de mărfuri din Republica Moldova  în comerțul exterior al  țării. Indicatorul permite urmărirea creșterii  exporturilor din țară.</p>
+  <p>  Statisticile comerțului exterior de mărfuri în  Republica Moldova se realizează în baza recomandărilor Comisiei de Statistică  a ONU (International Merchandise Trade Statistics – Concepts and Definitions,  2010 Series M No. 52) și legislației EUROSTAT privind comerțul internațional  de mărfuri cu țările terțe (EXTRASTAT).</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''

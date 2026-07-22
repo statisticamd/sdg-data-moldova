@@ -31,8 +31,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The indicator represents the share of exports of goods from the Republic of  Moldova in the country's foreign trade. The indicator allows tracing the  increase of exports from the country.</p> 
-  <p>  Statistics of foreign trade of  goods in the Republic of Moldova is carried out based on the recommendations  of the UN Statistics Commission (International Merchandise Trade Statistics –  Concepts and Definitions, 2010 Series M No. 52) and EUROSTAT legislation  regarding the international trade of goods with third countries (EXTRASTAT). </p>
+  |
+  <p>The indicator represents the share of exports of goods from the Republic of  Moldova in the country's foreign trade. The indicator allows tracing the  increase of exports from the country.</p>
+  <p>  Statistics of foreign trade of  goods in the Republic of Moldova is carried out based on the recommendations  of the UN Statistics Commission (International Merchandise Trade Statistics –  Concepts and Definitions, 2010 Series M No. 52) and EUROSTAT legislation  regarding the international trade of goods with third countries (EXTRASTAT).</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''

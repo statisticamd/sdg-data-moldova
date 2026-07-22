@@ -1,23 +1,20 @@
 SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 10.7.2.1: NA</p>
+  <p>Indicator 5.3.1.1: Rata căsătoriilor înregistrate în care soția are sub 18 ani</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 10.7: Facilitate orderly, safe, regular and responsible migration and mobility of  people, including through the implementation of planned and well-managed  migration policies</p>
+  <p>Target 5.3: Eliminarea căsătoriilor timpurii şi forţate</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  DESA Population Division,IOM
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
 SDG_GOAL: ''
 target_id: >-
-  10.7
+  5.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-02.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
-  <p>Indicator 10.7.2.1: Existence of efficient national policies on migration</p>
+  <p>Indicator 5.3.1.1: Rata căsătoriilor înregistrate în care soția are sub 18 ani</p>
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
@@ -31,27 +28,26 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
+  ponderea actelor de căsătorie / per an, în care soţia la data căsătoriei are vârsta 16-sub 18 ani   (nu are 18 ani împliniţi) din numărul total de căsătorii înregistrate
 UNIT_MEASURE: >-
+  Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
-  <p>1) UN Inquiry among Governments on Population and Development,  </p>
-  <p>  2) UN  DESA Global Survey, module III which refers to migration policies</p>
+  SIA "Registrul de stat al Populaţiei"
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
-  <p>General Inspectorate of Migration</p>
-  <p>  General Inspectorate of Border Police</p>
+  Agenția Servicii Publice
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Permanent Mission of the Republic of Moldova to the United Nations Office in  Geneva
+  Ministerul Muncii şi Protecţiei Sociale
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
+  ponderea numărului actelor de căsătorie / per an, în care soţia la data căsătoriei are vârsta 16-sub 18 ani   (nu are 18 ani împliniţi) din numărul total de căsătorii înregistrate
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -59,21 +55,18 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
+  indicator naţional
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
 source_active_1: true
 source_organisation_1: >-
-  |
-  <p>1.Permanent Mission of the Republic of Moldova to the United Nations Office in  Geneva </p>
-  <p>  2.United Nations Department of Economic and Social Affairs  (UNDESA)</p>
+  Agenția Servicii Publice
 source_periodicity_1: >-
-  Once every 2 years
+  anual
 source_url_1: >-
-  Link to data source
 source_url_text_1: >-
+  Link la sursa de date
 source_contact_1: >-
-  migratie.mai@gov.md
 source_other_info_1: >-

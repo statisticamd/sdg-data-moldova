@@ -31,8 +31,9 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Local public authorities are considered to be the public sub-national  administrations, which have the responsibility to develop the local strategy  for disaster risk reduction.</p> 
-  <p>  As the Sendai Framework promotes the  adoption and implementation of local DRR strategies in every local authority,  the national indicator will consider the LPA of the II level (rayon) and I  level (commune) </p>
+  |
+  <p>Local public authorities are considered to be the public sub-national  administrations, which have the responsibility to develop the local strategy  for disaster risk reduction.</p>
+  <p>  As the Sendai Framework promotes the  adoption and implementation of local DRR strategies in every local authority,  the national indicator will consider the LPA of the II level (rayon) and I  level (commune)</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -43,8 +44,9 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Local Public Authorities of level II and level I</p> 
-  <p>2.Ministry of Environment/State Hydrometeorological Service </p>
+  |
+  <p>1.Local Public Authorities of level II and level I</p>
+  <p>2.Ministry of Environment/State Hydrometeorological Service</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Environment

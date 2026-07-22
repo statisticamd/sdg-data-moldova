@@ -35,14 +35,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Ancheta ONU în cadrul guvernelor privind populația și dezvoltarea,  </p> 
-  <p>  2)  Chestionarul global UN DESA, modulul III care se refera la  politici  migraționale </p>
+  |
+  <p>1) Ancheta ONU în cadrul guvernelor privind populația și dezvoltarea,  </p>
+  <p>  2)  Chestionarul global UN DESA, modulul III care se refera la  politici  migraționale</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Inspectoratul General pentru Migrație</p> 
-  <p>  Inspectoratul General Poliția de Frontieră </p>
+  |
+  <p>Inspectoratul General pentru Migrație</p>
+  <p>  Inspectoratul General Poliția de Frontieră</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Reprezentanța permanentă a Republicii Moldova pe lângă oficiul ONU din Geneva
@@ -64,8 +66,9 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Reprezentanța permanentă a Republicii Moldova pe lângă oficiul ONU din  Geneva </p> 
-  <p>  2) Departamentul Afaceri Economice și Sociale al ONU  (Departamentul Afaceri Economice și Sociale al ONU (UNDESA)) </p>
+  |
+  <p>1) Reprezentanța permanentă a Republicii Moldova pe lângă oficiul ONU din  Geneva </p>
+  <p>  2) Departamentul Afaceri Economice și Sociale al ONU  (Departamentul Afaceri Economice și Sociale al ONU (UNDESA))</p>
 source_periodicity_1: >-
   O dată la 2 ani
 source_url_1: >-

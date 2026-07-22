@@ -1,4 +1,4 @@
-Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas of residence,Level of education,Value
+Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Area of residence,Level of education,Value
 2010,,,,,,,
 2010,Men,,,,,,
 2010,Women,,,,,,
@@ -34,7 +34,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2010,,,,,,Secondary education,
 2010,,,,,,Incomplete secondary education,
 2010,,,,,,Primary education,
-2010,,,,,,Other,
+2010,,,,,,Other level of education,
 2010,,,,,,Illiterate,
 2011,,,,,,,
 2011,Men,,,,,,
@@ -71,7 +71,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2011,,,,,,Secondary education,
 2011,,,,,,Incomplete secondary education,
 2011,,,,,,Primary education,
-2011,,,,,,Other,
+2011,,,,,,Other level of education,
 2011,,,,,,Illiterate,
 2012,,,,,,,
 2012,Men,,,,,,
@@ -108,7 +108,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2012,,,,,,Secondary education,
 2012,,,,,,Incomplete secondary education,
 2012,,,,,,Primary education,
-2012,,,,,,Other,
+2012,,,,,,Other level of education,
 2012,,,,,,Illiterate,
 2013,,,,,,,
 2013,Men,,,,,,
@@ -145,7 +145,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2013,,,,,,Secondary education,
 2013,,,,,,Incomplete secondary education,
 2013,,,,,,Primary education,
-2013,,,,,,Other,
+2013,,,,,,Other level of education,
 2013,,,,,,Illiterate,
 2014,,,,,,,9.3
 2014,Men,,,,,,6.3
@@ -182,7 +182,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2014,,,,,,Secondary education,
 2014,,,,,,Incomplete secondary education,
 2014,,,,,,Primary education,
-2014,,,,,,Other,
+2014,,,,,,Other level of education,
 2014,,,,,,Illiterate,
 2015,,,,,,,11
 2015,Men,,,,,,7.4
@@ -219,7 +219,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2015,,,,,,Secondary education,
 2015,,,,,,Incomplete secondary education,
 2015,,,,,,Primary education,
-2015,,,,,,Other,
+2015,,,,,,Other level of education,
 2015,,,,,,Illiterate,
 2016,,,,,,,8.3
 2016,Men,,,,,,7.9
@@ -256,7 +256,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2016,,,,,,Secondary education,
 2016,,,,,,Incomplete secondary education,
 2016,,,,,,Primary education,
-2016,,,,,,Other,
+2016,,,,,,Other level of education,
 2016,,,,,,Illiterate,
 2017,,,,,,,9.1
 2017,Men,,,,,,9.2
@@ -293,7 +293,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2017,,,,,,Secondary education,
 2017,,,,,,Incomplete secondary education,
 2017,,,,,,Primary education,
-2017,,,,,,Other,
+2017,,,,,,Other level of education,
 2017,,,,,,Illiterate,
 2018,,,,,,,13.6
 2018,Men,,,,,,15.9
@@ -330,7 +330,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2018,,,,,,Secondary education,
 2018,,,,,,Incomplete secondary education,
 2018,,,,,,Primary education,
-2018,,,,,,Other,
+2018,,,,,,Other level of education,
 2018,,,,,,Illiterate,
 2019,,,,,,,12.9
 2019,Men,,,,,,11.6
@@ -367,7 +367,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2019,,,,,,Secondary education,
 2019,,,,,,Incomplete secondary education,
 2019,,,,,,Primary education,
-2019,,,,,,Other,
+2019,,,,,,Other level of education,
 2019,,,,,,Illiterate,
 2020,,,,,,,5.3
 2020,Men,,,,,,6.9
@@ -404,7 +404,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2020,,,,,,Secondary education,
 2020,,,,,,Incomplete secondary education,
 2020,,,,,,Primary education,
-2020,,,,,,Other,
+2020,,,,,,Other level of education,
 2020,,,,,,Illiterate,
 2021,,,,,,,13.9
 2021,Men,,,,,,16.9
@@ -441,7 +441,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2021,,,,,,Secondary education,
 2021,,,,,,Incomplete secondary education,
 2021,,,,,,Primary education,
-2021,,,,,,Other,
+2021,,,,,,Other level of education,
 2021,,,,,,Illiterate,
 2022,,,,,,,6.1
 2022,Men,,,,,,6.5
@@ -478,7 +478,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2022,,,,,,Secondary education,
 2022,,,,,,Incomplete secondary education,
 2022,,,,,,Primary education,
-2022,,,,,,Other,
+2022,,,,,,Other level of education,
 2022,,,,,,Illiterate,
 2023,,,,,,,7
 2023,Men,,,,,,11.9
@@ -515,7 +515,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2023,,,,,,Secondary education,
 2023,,,,,,Incomplete secondary education,
 2023,,,,,,Primary education,
-2023,,,,,,Other,
+2023,,,,,,Other level of education,
 2023,,,,,,Illiterate,
 2024,,,,,,,5
 2024,Men,,,,,,6.5
@@ -552,7 +552,7 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2024,,,,,,Secondary education,
 2024,,,,,,Incomplete secondary education,
 2024,,,,,,Primary education,
-2024,,,,,,Other,
+2024,,,,,,Other level of education,
 2024,,,,,,Illiterate,
 2025,,,,,,,4.5
 2025,Men,,,,,,2
@@ -589,5 +589,5 @@ Year,Sex,Groups of persons,Countries of destination,Forms of exploitation,Areas 
 2025,,,,,,Secondary education,2.47
 2025,,,,,,Incomplete secondary education,0.58
 2025,,,,,,Primary education,0.25
-2025,,,,,,Other,0
+2025,,,,,,Other level of education,0
 2025,,,,,,Illiterate,0
