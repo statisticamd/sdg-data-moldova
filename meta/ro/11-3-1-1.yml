@@ -12,9 +12,7 @@ target_id: >-
   11.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-01.pdf
 GOAL_META_LINK_TEXT: >-
-  Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.3.1.1: Gradul de urbanizare</p>
 SDG_SERIES_DESCR: ''
@@ -35,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Numărul populației cu reședință obișnuită
+  Estimări ale numărului populației cu reședință obișnuită
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -43,12 +41,12 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministerul Infrastructurii şi Dezvoltării Regionale
+  Ministerul Agriculturii, Dezvoltării Regionale și Mediului
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul populației din mediul urban raportat la populația totală * 100.
+  Numărul populației urbane / populația totală * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

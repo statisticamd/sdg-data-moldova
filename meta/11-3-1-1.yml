@@ -12,9 +12,7 @@ target_id: >-
   11.3
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (PDF)
 SDG_INDICATOR: >-
   <p>Indicator 11.3.1.1: Level of urbanization</p>
 SDG_SERIES_DESCR: ''
@@ -35,7 +33,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Usual resident population number
+  Estimation of usual resident population number
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -43,12 +41,12 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Ministry of Infrastructure and Regional Development
+  Ministry of Agriculture, Regional Development and Environment
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of urban population divided by total population * 100.
+  Number of urban population / total population * 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

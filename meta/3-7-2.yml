@@ -37,8 +37,9 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) National Agency for Public Health</p> 
-  <p>2) National Bureau of  Statistics </p>
+  |
+  <p>1) National Agency for Public Health</p>
+  <p>2) National Bureau of  Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -46,12 +47,12 @@ DATA_SOURCE: >-
   National Agency for Public Health
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  Minsitry of Health
+  National Bureau of Statistics
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Number of live births for women aged 15-19 years old divided by number of  women of the  respective age * 1000
+  Number of live births in women aged 15-19 years old out of 1000 women of the  respective age
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

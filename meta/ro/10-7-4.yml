@@ -14,7 +14,6 @@ target_id: >-
   10.7
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  https://unstats.un.org/sdgs/metadata/files/Metadata-10-07-04.pdf
 GOAL_META_LINK_TEXT: >-
   Metadatele ODD ale ONU (PDF)
 SDG_INDICATOR: >-
@@ -38,7 +37,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Inspectoratul General pentru Migrație
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -46,9 +44,7 @@ DATA_SOURCE: >-
   Inspectoratul General pentru Migrație
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
-  <p>Ministerul Muncii și Protecției Sociale</p>
-  <p>Biroul Relații cu Diaspora</p>
+  Biroul Național de Statistică
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -67,9 +63,8 @@ national_metadata_updated_date: ''
 un_designated_tier: >-
 source_active_1: true
 source_organisation_1: >-
-  Biroul Național de Statistică
+  Inspectoratul General pentru Migrație
 source_periodicity_1: >-
-  Anual
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
