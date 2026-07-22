@@ -7768,6 +7768,30 @@
       "title": "Area of restored forests"
     },
     {
+      "path": "5-3-1-1/data.csv",
+      "name": "5-3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Rate of registered marriages in which the wife is under 18 years of age"
+    },
+    {
       "path": "8-7-1-a/data.csv",
       "name": "8-7-1-a",
       "profile": "tabular-data-resource",
@@ -8638,6 +8662,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "0-14",
                 "15-24",
                 "25-34",
                 "35-44",
@@ -10855,22 +10880,6 @@
             "title": "Year"
           },
           {
-            "name": "Policy areas",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Migrant rights",
-                "Integrated government/data-driven policies",
-                "Cooperation and partnerships",
-                "Socio-economic well-being",
-                "Mobility dimensions in crises",
-                "Safe, orderly and regular migration ",
-                ""
-              ]
-            },
-            "title": "Policy areas"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -12553,7 +12562,7 @@
             "title": "Forms of exploitation"
           },
           {
-            "name": "Areas of residence",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12564,7 +12573,7 @@
                 ""
               ]
             },
-            "title": "Areas of residence"
+            "title": "Area of residence"
           },
           {
             "name": "Level of education",
@@ -12577,7 +12586,7 @@
                 "Secondary education",
                 "Incomplete secondary education",
                 "Primary education",
-                "Other",
+                "Other level of education",
                 "Illiterate",
                 ""
               ]

@@ -75,7 +75,7 @@
             }
           },
           {
-            "name": "Areas of residence",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 "Secondary education",
                 "Incomplete secondary education",
                 "Primary education",
-                "Other",
+                "Other level of education",
                 "Illiterate",
                 ""
               ]

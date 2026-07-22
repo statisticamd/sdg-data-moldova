@@ -58,10 +58,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Incomplete secondary education",
+                "Medii incomplete",
                 "General secondary education",
                 "Vocational secondary education",
-                "Higher education",
+                "Superioare",
                 ""
               ]
             },

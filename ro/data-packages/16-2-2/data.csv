@@ -1,4 +1,4 @@
-Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of residence,Nivel de studii,Value
+Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Mediu de reședință,Nivel de studii,Value
 2010,,,,,,,
 2010,Bărbați,,,,,,
 2010,Femei,,,,,,
@@ -26,16 +26,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2010,,,,"Prelevare de organe, țesuturi sau celule umane",,,
 2010,,,,,Urban,,
 2010,,,,,Rural,,
-2010,,,,,Resident of another country,,
-2010,,,,,Person with no permanent place of residence,,
-2010,,,,,,Higher education,
-2010,,,,,,Incomplete higher education,
-2010,,,,,,Specialized secondary education,
-2010,,,,,,Secondary education,
-2010,,,,,,Incomplete secondary education,
-2010,,,,,,Primary education,
-2010,,,,,,Alte,
-2010,,,,,,Illiterate,
+2010,,,,,Locuitor al altui stat,,
+2010,,,,,Persoană fără loc de trai permanent,,
+2010,,,,,,Superioare,
+2010,,,,,,Superioare incomplete,
+2010,,,,,,Medii speciale,
+2010,,,,,,Medii,
+2010,,,,,,Medii incomplete,
+2010,,,,,,Primare,
+2010,,,,,,Alt nivel de educație,
+2010,,,,,,Analfabet,
 2011,,,,,,,
 2011,Bărbați,,,,,,
 2011,Femei,,,,,,
@@ -63,16 +63,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2011,,,,"Prelevare de organe, țesuturi sau celule umane",,,
 2011,,,,,Urban,,
 2011,,,,,Rural,,
-2011,,,,,Resident of another country,,
-2011,,,,,Person with no permanent place of residence,,
-2011,,,,,,Higher education,
-2011,,,,,,Incomplete higher education,
-2011,,,,,,Specialized secondary education,
-2011,,,,,,Secondary education,
-2011,,,,,,Incomplete secondary education,
-2011,,,,,,Primary education,
-2011,,,,,,Alte,
-2011,,,,,,Illiterate,
+2011,,,,,Locuitor al altui stat,,
+2011,,,,,Persoană fără loc de trai permanent,,
+2011,,,,,,Superioare,
+2011,,,,,,Superioare incomplete,
+2011,,,,,,Medii speciale,
+2011,,,,,,Medii,
+2011,,,,,,Medii incomplete,
+2011,,,,,,Primare,
+2011,,,,,,Alt nivel de educație,
+2011,,,,,,Analfabet,
 2012,,,,,,,
 2012,Bărbați,,,,,,
 2012,Femei,,,,,,
@@ -100,16 +100,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2012,,,,"Prelevare de organe, țesuturi sau celule umane",,,
 2012,,,,,Urban,,
 2012,,,,,Rural,,
-2012,,,,,Resident of another country,,
-2012,,,,,Person with no permanent place of residence,,
-2012,,,,,,Higher education,
-2012,,,,,,Incomplete higher education,
-2012,,,,,,Specialized secondary education,
-2012,,,,,,Secondary education,
-2012,,,,,,Incomplete secondary education,
-2012,,,,,,Primary education,
-2012,,,,,,Alte,
-2012,,,,,,Illiterate,
+2012,,,,,Locuitor al altui stat,,
+2012,,,,,Persoană fără loc de trai permanent,,
+2012,,,,,,Superioare,
+2012,,,,,,Superioare incomplete,
+2012,,,,,,Medii speciale,
+2012,,,,,,Medii,
+2012,,,,,,Medii incomplete,
+2012,,,,,,Primare,
+2012,,,,,,Alt nivel de educație,
+2012,,,,,,Analfabet,
 2013,,,,,,,
 2013,Bărbați,,,,,,
 2013,Femei,,,,,,
@@ -137,16 +137,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2013,,,,"Prelevare de organe, țesuturi sau celule umane",,,
 2013,,,,,Urban,,
 2013,,,,,Rural,,
-2013,,,,,Resident of another country,,
-2013,,,,,Person with no permanent place of residence,,
-2013,,,,,,Higher education,
-2013,,,,,,Incomplete higher education,
-2013,,,,,,Specialized secondary education,
-2013,,,,,,Secondary education,
-2013,,,,,,Incomplete secondary education,
-2013,,,,,,Primary education,
-2013,,,,,,Alte,
-2013,,,,,,Illiterate,
+2013,,,,,Locuitor al altui stat,,
+2013,,,,,Persoană fără loc de trai permanent,,
+2013,,,,,,Superioare,
+2013,,,,,,Superioare incomplete,
+2013,,,,,,Medii speciale,
+2013,,,,,,Medii,
+2013,,,,,,Medii incomplete,
+2013,,,,,,Primare,
+2013,,,,,,Alt nivel de educație,
+2013,,,,,,Analfabet,
 2014,,,,,,,9.3
 2014,Bărbați,,,,,,6.3
 2014,Femei,,,,,,12.0
@@ -174,16 +174,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2014,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2014,,,,,Urban,,
 2014,,,,,Rural,,
-2014,,,,,Resident of another country,,
-2014,,,,,Person with no permanent place of residence,,
-2014,,,,,,Higher education,
-2014,,,,,,Incomplete higher education,
-2014,,,,,,Specialized secondary education,
-2014,,,,,,Secondary education,
-2014,,,,,,Incomplete secondary education,
-2014,,,,,,Primary education,
-2014,,,,,,Alte,
-2014,,,,,,Illiterate,
+2014,,,,,Locuitor al altui stat,,
+2014,,,,,Persoană fără loc de trai permanent,,
+2014,,,,,,Superioare,
+2014,,,,,,Superioare incomplete,
+2014,,,,,,Medii speciale,
+2014,,,,,,Medii,
+2014,,,,,,Medii incomplete,
+2014,,,,,,Primare,
+2014,,,,,,Alt nivel de educație,
+2014,,,,,,Analfabet,
 2015,,,,,,,11.0
 2015,Bărbați,,,,,,7.4
 2015,Femei,,,,,,14.3
@@ -211,16 +211,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2015,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.2
 2015,,,,,Urban,,
 2015,,,,,Rural,,
-2015,,,,,Resident of another country,,
-2015,,,,,Person with no permanent place of residence,,
-2015,,,,,,Higher education,
-2015,,,,,,Incomplete higher education,
-2015,,,,,,Specialized secondary education,
-2015,,,,,,Secondary education,
-2015,,,,,,Incomplete secondary education,
-2015,,,,,,Primary education,
-2015,,,,,,Alte,
-2015,,,,,,Illiterate,
+2015,,,,,Locuitor al altui stat,,
+2015,,,,,Persoană fără loc de trai permanent,,
+2015,,,,,,Superioare,
+2015,,,,,,Superioare incomplete,
+2015,,,,,,Medii speciale,
+2015,,,,,,Medii,
+2015,,,,,,Medii incomplete,
+2015,,,,,,Primare,
+2015,,,,,,Alt nivel de educație,
+2015,,,,,,Analfabet,
 2016,,,,,,,8.3
 2016,Bărbați,,,,,,7.9
 2016,Femei,,,,,,8.7
@@ -248,16 +248,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2016,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2016,,,,,Urban,,
 2016,,,,,Rural,,
-2016,,,,,Resident of another country,,
-2016,,,,,Person with no permanent place of residence,,
-2016,,,,,,Higher education,
-2016,,,,,,Incomplete higher education,
-2016,,,,,,Specialized secondary education,
-2016,,,,,,Secondary education,
-2016,,,,,,Incomplete secondary education,
-2016,,,,,,Primary education,
-2016,,,,,,Alte,
-2016,,,,,,Illiterate,
+2016,,,,,Locuitor al altui stat,,
+2016,,,,,Persoană fără loc de trai permanent,,
+2016,,,,,,Superioare,
+2016,,,,,,Superioare incomplete,
+2016,,,,,,Medii speciale,
+2016,,,,,,Medii,
+2016,,,,,,Medii incomplete,
+2016,,,,,,Primare,
+2016,,,,,,Alt nivel de educație,
+2016,,,,,,Analfabet,
 2017,,,,,,,9.1
 2017,Bărbați,,,,,,9.2
 2017,Femei,,,,,,9.1
@@ -285,16 +285,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2017,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.2
 2017,,,,,Urban,,
 2017,,,,,Rural,,
-2017,,,,,Resident of another country,,
-2017,,,,,Person with no permanent place of residence,,
-2017,,,,,,Higher education,
-2017,,,,,,Incomplete higher education,
-2017,,,,,,Specialized secondary education,
-2017,,,,,,Secondary education,
-2017,,,,,,Incomplete secondary education,
-2017,,,,,,Primary education,
-2017,,,,,,Alte,
-2017,,,,,,Illiterate,
+2017,,,,,Locuitor al altui stat,,
+2017,,,,,Persoană fără loc de trai permanent,,
+2017,,,,,,Superioare,
+2017,,,,,,Superioare incomplete,
+2017,,,,,,Medii speciale,
+2017,,,,,,Medii,
+2017,,,,,,Medii incomplete,
+2017,,,,,,Primare,
+2017,,,,,,Alt nivel de educație,
+2017,,,,,,Analfabet,
 2018,,,,,,,13.6
 2018,Bărbați,,,,,,15.9
 2018,Femei,,,,,,11.5
@@ -322,16 +322,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2018,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2018,,,,,Urban,,
 2018,,,,,Rural,,
-2018,,,,,Resident of another country,,
-2018,,,,,Person with no permanent place of residence,,
-2018,,,,,,Higher education,
-2018,,,,,,Incomplete higher education,
-2018,,,,,,Specialized secondary education,
-2018,,,,,,Secondary education,
-2018,,,,,,Incomplete secondary education,
-2018,,,,,,Primary education,
-2018,,,,,,Alte,
-2018,,,,,,Illiterate,
+2018,,,,,Locuitor al altui stat,,
+2018,,,,,Persoană fără loc de trai permanent,,
+2018,,,,,,Superioare,
+2018,,,,,,Superioare incomplete,
+2018,,,,,,Medii speciale,
+2018,,,,,,Medii,
+2018,,,,,,Medii incomplete,
+2018,,,,,,Primare,
+2018,,,,,,Alt nivel de educație,
+2018,,,,,,Analfabet,
 2019,,,,,,,12.9
 2019,Bărbați,,,,,,11.6
 2019,Femei,,,,,,14.1
@@ -359,16 +359,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2019,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.1
 2019,,,,,Urban,,
 2019,,,,,Rural,,
-2019,,,,,Resident of another country,,
-2019,,,,,Person with no permanent place of residence,,
-2019,,,,,,Higher education,
-2019,,,,,,Incomplete higher education,
-2019,,,,,,Specialized secondary education,
-2019,,,,,,Secondary education,
-2019,,,,,,Incomplete secondary education,
-2019,,,,,,Primary education,
-2019,,,,,,Alte,
-2019,,,,,,Illiterate,
+2019,,,,,Locuitor al altui stat,,
+2019,,,,,Persoană fără loc de trai permanent,,
+2019,,,,,,Superioare,
+2019,,,,,,Superioare incomplete,
+2019,,,,,,Medii speciale,
+2019,,,,,,Medii,
+2019,,,,,,Medii incomplete,
+2019,,,,,,Primare,
+2019,,,,,,Alt nivel de educație,
+2019,,,,,,Analfabet,
 2020,,,,,,,5.3
 2020,Bărbați,,,,,,6.9
 2020,Femei,,,,,,3.8
@@ -396,16 +396,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2020,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2020,,,,,Urban,,
 2020,,,,,Rural,,
-2020,,,,,Resident of another country,,
-2020,,,,,Person with no permanent place of residence,,
-2020,,,,,,Higher education,
-2020,,,,,,Incomplete higher education,
-2020,,,,,,Specialized secondary education,
-2020,,,,,,Secondary education,
-2020,,,,,,Incomplete secondary education,
-2020,,,,,,Primary education,
-2020,,,,,,Alte,
-2020,,,,,,Illiterate,
+2020,,,,,Locuitor al altui stat,,
+2020,,,,,Persoană fără loc de trai permanent,,
+2020,,,,,,Superioare,
+2020,,,,,,Superioare incomplete,
+2020,,,,,,Medii speciale,
+2020,,,,,,Medii,
+2020,,,,,,Medii incomplete,
+2020,,,,,,Primare,
+2020,,,,,,Alt nivel de educație,
+2020,,,,,,Analfabet,
 2021,,,,,,,13.9
 2021,Bărbați,,,,,,16.9
 2021,Femei,,,,,,11.2
@@ -433,16 +433,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2021,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2021,,,,,Urban,,
 2021,,,,,Rural,,
-2021,,,,,Resident of another country,,
-2021,,,,,Person with no permanent place of residence,,
-2021,,,,,,Higher education,
-2021,,,,,,Incomplete higher education,
-2021,,,,,,Specialized secondary education,
-2021,,,,,,Secondary education,
-2021,,,,,,Incomplete secondary education,
-2021,,,,,,Primary education,
-2021,,,,,,Alte,
-2021,,,,,,Illiterate,
+2021,,,,,Locuitor al altui stat,,
+2021,,,,,Persoană fără loc de trai permanent,,
+2021,,,,,,Superioare,
+2021,,,,,,Superioare incomplete,
+2021,,,,,,Medii speciale,
+2021,,,,,,Medii,
+2021,,,,,,Medii incomplete,
+2021,,,,,,Primare,
+2021,,,,,,Alt nivel de educație,
+2021,,,,,,Analfabet,
 2022,,,,,,,6.1
 2022,Bărbați,,,,,,6.5
 2022,Femei,,,,,,5.7
@@ -470,16 +470,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2022,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2022,,,,,Urban,,
 2022,,,,,Rural,,
-2022,,,,,Resident of another country,,
-2022,,,,,Person with no permanent place of residence,,
-2022,,,,,,Higher education,
-2022,,,,,,Incomplete higher education,
-2022,,,,,,Specialized secondary education,
-2022,,,,,,Secondary education,
-2022,,,,,,Incomplete secondary education,
-2022,,,,,,Primary education,
-2022,,,,,,Alte,
-2022,,,,,,Illiterate,
+2022,,,,,Locuitor al altui stat,,
+2022,,,,,Persoană fără loc de trai permanent,,
+2022,,,,,,Superioare,
+2022,,,,,,Superioare incomplete,
+2022,,,,,,Medii speciale,
+2022,,,,,,Medii,
+2022,,,,,,Medii incomplete,
+2022,,,,,,Primare,
+2022,,,,,,Alt nivel de educație,
+2022,,,,,,Analfabet,
 2023,,,,,,,7.0
 2023,Bărbați,,,,,,11.9
 2023,Femei,,,,,,2.7
@@ -507,16 +507,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2023,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2023,,,,,Urban,,
 2023,,,,,Rural,,
-2023,,,,,Resident of another country,,
-2023,,,,,Person with no permanent place of residence,,
-2023,,,,,,Higher education,
-2023,,,,,,Incomplete higher education,
-2023,,,,,,Specialized secondary education,
-2023,,,,,,Secondary education,
-2023,,,,,,Incomplete secondary education,
-2023,,,,,,Primary education,
-2023,,,,,,Alte,
-2023,,,,,,Illiterate,
+2023,,,,,Locuitor al altui stat,,
+2023,,,,,Persoană fără loc de trai permanent,,
+2023,,,,,,Superioare,
+2023,,,,,,Superioare incomplete,
+2023,,,,,,Medii speciale,
+2023,,,,,,Medii,
+2023,,,,,,Medii incomplete,
+2023,,,,,,Primare,
+2023,,,,,,Alt nivel de educație,
+2023,,,,,,Analfabet,
 2024,,,,,,,5.0
 2024,Bărbați,,,,,,6.5
 2024,Femei,,,,,,3.7
@@ -544,16 +544,16 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2024,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2024,,,,,Urban,,
 2024,,,,,Rural,,
-2024,,,,,Resident of another country,,
-2024,,,,,Person with no permanent place of residence,,
-2024,,,,,,Higher education,
-2024,,,,,,Incomplete higher education,
-2024,,,,,,Specialized secondary education,
-2024,,,,,,Secondary education,
-2024,,,,,,Incomplete secondary education,
-2024,,,,,,Primary education,
-2024,,,,,,Alte,
-2024,,,,,,Illiterate,
+2024,,,,,Locuitor al altui stat,,
+2024,,,,,Persoană fără loc de trai permanent,,
+2024,,,,,,Superioare,
+2024,,,,,,Superioare incomplete,
+2024,,,,,,Medii speciale,
+2024,,,,,,Medii,
+2024,,,,,,Medii incomplete,
+2024,,,,,,Primare,
+2024,,,,,,Alt nivel de educație,
+2024,,,,,,Analfabet,
 2025,,,,,,,4.5
 2025,Bărbați,,,,,,2.0
 2025,Femei,,,,,,1.5
@@ -581,13 +581,13 @@ Year,Sex,Grupe de persoane,Ţări de destinaţie,Forme de exploatare,Areas of re
 2025,,,,"Prelevare de organe, țesuturi sau celule umane",,,0.0
 2025,,,,,Urban,,0.46
 2025,,,,,Rural,,3.06
-2025,,,,,Resident of another country,,0.0
-2025,,,,,Person with no permanent place of residence,,0.0
-2025,,,,,,Higher education,0.08
-2025,,,,,,Incomplete higher education,0.0
-2025,,,,,,Specialized secondary education,0.0
-2025,,,,,,Secondary education,2.47
-2025,,,,,,Incomplete secondary education,0.58
-2025,,,,,,Primary education,0.25
-2025,,,,,,Alte,0.0
-2025,,,,,,Illiterate,0.0
+2025,,,,,Locuitor al altui stat,,0.0
+2025,,,,,Persoană fără loc de trai permanent,,0.0
+2025,,,,,,Superioare,0.08
+2025,,,,,,Superioare incomplete,0.0
+2025,,,,,,Medii speciale,0.0
+2025,,,,,,Medii,2.47
+2025,,,,,,Medii incomplete,0.58
+2025,,,,,,Primare,0.25
+2025,,,,,,Alt nivel de educație,0.0
+2025,,,,,,Analfabet,0.0

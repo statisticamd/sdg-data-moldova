@@ -16,22 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Policy areas",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Migrant rights",
-                "Integrated government/data-driven policies",
-                "Cooperation and partnerships",
-                "Socio-economic well-being",
-                "Mobility dimensions in crises",
-                "Safe, orderly and regular migration ",
-                ""
-              ]
-            },
-            "title": "Policy areas"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

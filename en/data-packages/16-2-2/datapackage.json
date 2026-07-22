@@ -80,7 +80,7 @@
             "title": "Forms of exploitation"
           },
           {
-            "name": "Areas of residence",
+            "name": "Area of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Areas of residence"
+            "title": "Area of residence"
           },
           {
             "name": "Level of education",
@@ -104,7 +104,7 @@
                 "Secondary education",
                 "Incomplete secondary education",
                 "Primary education",
-                "Other",
+                "Other level of education",
                 "Illiterate",
                 ""
               ]

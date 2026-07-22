@@ -8,10 +8,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2010,,60-74,,,,
 2010,,,Urban,,,
 2010,,,Rural,,,
-2010,,,,Incomplete secondary education,,
+2010,,,,Medii incomplete,,
 2010,,,,General secondary education,,
 2010,,,,Vocational secondary education,,
-2010,,,,Higher education,,
+2010,,,,Superioare,,
 2010,,,,,"Săraci, 40 procente",
 2010,,,,,"Înstăriți, 60 procente",
 2011,,,,,,
@@ -23,10 +23,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2011,,60-74,,,,
 2011,,,Urban,,,
 2011,,,Rural,,,
-2011,,,,Incomplete secondary education,,
+2011,,,,Medii incomplete,,
 2011,,,,General secondary education,,
 2011,,,,Vocational secondary education,,
-2011,,,,Higher education,,
+2011,,,,Superioare,,
 2011,,,,,"Săraci, 40 procente",
 2011,,,,,"Înstăriți, 60 procente",
 2012,,,,,,12.8
@@ -38,10 +38,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2012,,60-74,,,,
 2012,,,Urban,,,
 2012,,,Rural,,,
-2012,,,,Incomplete secondary education,,
+2012,,,,Medii incomplete,,
 2012,,,,General secondary education,,
 2012,,,,Vocational secondary education,,
-2012,,,,Higher education,,
+2012,,,,Superioare,,
 2012,,,,,"Săraci, 40 procente",
 2012,,,,,"Înstăriți, 60 procente",
 2013,,,,,,16.3
@@ -53,10 +53,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2013,,60-74,,,,
 2013,,,Urban,,,
 2013,,,Rural,,,
-2013,,,,Incomplete secondary education,,
+2013,,,,Medii incomplete,,
 2013,,,,General secondary education,,
 2013,,,,Vocational secondary education,,
-2013,,,,Higher education,,
+2013,,,,Superioare,,
 2013,,,,,"Săraci, 40 procente",
 2013,,,,,"Înstăriți, 60 procente",
 2014,,,,,,14.6
@@ -68,10 +68,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2014,,60-74,,,,
 2014,,,Urban,,,
 2014,,,Rural,,,
-2014,,,,Incomplete secondary education,,
+2014,,,,Medii incomplete,,
 2014,,,,General secondary education,,
 2014,,,,Vocational secondary education,,
-2014,,,,Higher education,,
+2014,,,,Superioare,,
 2014,,,,,"Săraci, 40 procente",
 2014,,,,,"Înstăriți, 60 procente",
 2015,,,,,,25.0
@@ -83,10 +83,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2015,,60-74,,,,
 2015,,,Urban,,,
 2015,,,Rural,,,
-2015,,,,Incomplete secondary education,,
+2015,,,,Medii incomplete,,
 2015,,,,General secondary education,,
 2015,,,,Vocational secondary education,,
-2015,,,,Higher education,,
+2015,,,,Superioare,,
 2015,,,,,"Săraci, 40 procente",
 2015,,,,,"Înstăriți, 60 procente",
 2016,,,,,,29.6
@@ -98,10 +98,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2016,,60-74,,,,
 2016,,,Urban,,,
 2016,,,Rural,,,
-2016,,,,Incomplete secondary education,,
+2016,,,,Medii incomplete,,
 2016,,,,General secondary education,,
 2016,,,,Vocational secondary education,,
-2016,,,,Higher education,,
+2016,,,,Superioare,,
 2016,,,,,"Săraci, 40 procente",
 2016,,,,,"Înstăriți, 60 procente",
 2017,,,,,,
@@ -113,10 +113,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2017,,60-74,,,,
 2017,,,Urban,,,
 2017,,,Rural,,,
-2017,,,,Incomplete secondary education,,
+2017,,,,Medii incomplete,,
 2017,,,,General secondary education,,
 2017,,,,Vocational secondary education,,
-2017,,,,Higher education,,
+2017,,,,Superioare,,
 2017,,,,,"Săraci, 40 procente",
 2017,,,,,"Înstăriți, 60 procente",
 2018,,,,,,
@@ -128,10 +128,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2018,,60-74,,,,
 2018,,,Urban,,,
 2018,,,Rural,,,
-2018,,,,Incomplete secondary education,,
+2018,,,,Medii incomplete,,
 2018,,,,General secondary education,,
 2018,,,,Vocational secondary education,,
-2018,,,,Higher education,,
+2018,,,,Superioare,,
 2018,,,,,"Săraci, 40 procente",
 2018,,,,,"Înstăriți, 60 procente",
 2019,,,,,,37.4
@@ -143,10 +143,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2019,,60-74,,,,
 2019,,,Urban,,,
 2019,,,Rural,,,
-2019,,,,Incomplete secondary education,,
+2019,,,,Medii incomplete,,
 2019,,,,General secondary education,,
 2019,,,,Vocational secondary education,,
-2019,,,,Higher education,,
+2019,,,,Superioare,,
 2019,,,,,"Săraci, 40 procente",
 2019,,,,,"Înstăriți, 60 procente",
 2020,,,,,,38.2
@@ -158,10 +158,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2020,,60-74,,,,10.8
 2020,,,Urban,,,51.5
 2020,,,Rural,,,18.4
-2020,,,,Incomplete secondary education,,8.7
+2020,,,,Medii incomplete,,8.7
 2020,,,,General secondary education,,25.4
 2020,,,,Vocational secondary education,,23.8
-2020,,,,Higher education,,60.0
+2020,,,,Superioare,,60.0
 2020,,,,,"Săraci, 40 procente",16.0
 2020,,,,,"Înstăriți, 60 procente",
 2021,,,,,,49.6
@@ -173,10 +173,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2021,,60-74,,,,13.8
 2021,,,Urban,,,56.4
 2021,,,Rural,,,34.1
-2021,,,,Incomplete secondary education,,18.2
+2021,,,,Medii incomplete,,18.2
 2021,,,,General secondary education,,43.3
 2021,,,,Vocational secondary education,,35.6
-2021,,,,Higher education,,60.0
+2021,,,,Superioare,,60.0
 2021,,,,,"Săraci, 40 procente",37.4
 2021,,,,,"Înstăriți, 60 procente",
 2022,,,,,,54.5
@@ -188,10 +188,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2022,,60-74,,,,22.6
 2022,,,Urban,,,63.3
 2022,,,Rural,,,41.2
-2022,,,,Incomplete secondary education,,25.9
+2022,,,,Medii incomplete,,25.9
 2022,,,,General secondary education,,56.4
 2022,,,,Vocational secondary education,,39.2
-2022,,,,Higher education,,70.1
+2022,,,,Superioare,,70.1
 2022,,,,,"Săraci, 40 procente",35.7
 2022,,,,,"Înstăriți, 60 procente",59.5
 2023,,,,,,55.3
@@ -203,10 +203,10 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2023,,60-74,,,,17.9
 2023,,,Urban,,,63.5
 2023,,,Rural,,,39.8
-2023,,,,Incomplete secondary education,,38.4
+2023,,,,Medii incomplete,,38.4
 2023,,,,General secondary education,,49.3
 2023,,,,Vocational secondary education,,50.0
-2023,,,,Higher education,,62.2
+2023,,,,Superioare,,62.2
 2023,,,,,"Săraci, 40 procente",38.7
 2023,,,,,"Înstăriți, 60 procente",57.6
 2024,,,,,,54.3
@@ -218,9 +218,9 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2024,,60-74,,,,23.9
 2024,,,Urban,,,65.1
 2024,,,Rural,,,37.7
-2024,,,,Incomplete secondary education,,38.2
+2024,,,,Medii incomplete,,38.2
 2024,,,,General secondary education,,37.4
 2024,,,,Vocational secondary education,,44.4
-2024,,,,Higher education,,69.5
+2024,,,,Superioare,,69.5
 2024,,,,,"Săraci, 40 procente",40.1
 2024,,,,,"Înstăriți, 60 procente",58.3
