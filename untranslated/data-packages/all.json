@@ -2026,16 +2026,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": " ",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -3292,9 +3283,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
-                "secondary school",
-                "high school",
+                "Primary education",
+                "Secondary school",
+                "High school",
                 ""
               ]
             }
@@ -7571,23 +7562,22 @@
             "constraints": {
               "enum": [
                 "Afghanistan",
+                "Egypt",
                 "Armenia",
                 "Azerbaijan",
                 "Belarus",
-                "Comoros",
-                "Egypt",
+                "Comoro Islands",
                 "Eritrea",
-                "India",
                 "Iraq",
-                "Islamic Rep. of Iran",
+                "Iran",
                 "Jordan",
                 "Kyrgyzstan",
                 "Lebanon",
                 "Libyan",
                 "Nigeria",
-                "Russian Federation",
+                "Russia",
                 "Sudan",
-                "Syrian Arab Republic",
+                "Syria",
                 "Occupied Palestinian Territory",
                 "Tajikistan",
                 "Turkmenistan",
@@ -12029,8 +12019,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share",
-                "Area, thousand hectares (estimated)",
+                "Area, thousand hectares",
                 ""
               ]
             }

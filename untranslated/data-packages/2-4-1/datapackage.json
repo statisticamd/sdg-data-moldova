@@ -19,8 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share",
-                "Area, thousand hectares (estimated)",
+                "Area, thousand hectares",
                 ""
               ]
             }

@@ -12,16 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": " ",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "Value",

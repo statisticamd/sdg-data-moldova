@@ -55,7 +55,7 @@ Domains,1,4
 Duration of arrest,1,4
 Economic activities,4,8
 Education level,1,6
-Education levels,4,4
+Education levels,4,7
 Educational level,2,10
 Educational levels,1,5
 Electricity,1,5
@@ -87,7 +87,7 @@ Household type,2,2
 Income level,1,2
 Index,1,1
 Indicator,1,1
-Indicators,12,43
+Indicators,12,42
 Institutions where have been made payments,2,22
 International organisations,2,6
 kg/person,1,1
@@ -112,7 +112,7 @@ Non-agricultural sector,1,3
 "Number of neglected children, at the end of the year",1,1
 Occupational status,1,5
 Occupations,1,8
-Origin country,1,25
+Origin country,1,24
 Persons with disabilities,1,1
 Petrol products,1,4
 Plant genetic resources (samples),1,11

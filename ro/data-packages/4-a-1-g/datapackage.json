@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "învățământ primar",
-                "mediu general",
-                "liceal",
+                "Primare",
+                "Mediu general",
+                "Gimnazial",
                 ""
               ]
             },

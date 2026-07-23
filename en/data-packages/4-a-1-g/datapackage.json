@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary education",
-                "secondary school",
-                "high school",
+                "Primary education",
+                "Secondary school",
+                "High school",
                 ""
               ]
             },
