@@ -45,9 +45,10 @@ DATA_SOURCE: >-
   Ministerul Agriculturii și Industriei Alimentare
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministerul Afacerilor Interne</p> 
-  <p>2. Ministerul Mediului</p> 
-  <p>3. Ministerul Agriculturii și Industriei Alimentare </p>
+  |
+  <p>1. Ministerul Afacerilor Interne</p>
+  <p>2. Ministerul Mediului</p>
+  <p>3. Ministerul Agriculturii și Industriei Alimentare</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''

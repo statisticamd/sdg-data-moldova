@@ -1,33 +1,31 @@
 Year,Indicators,Value
-2010,Share,1
-2010,"Area, thousand hectares (estimated)",20
-2011,Share,1
-2011,"Area, thousand hectares (estimated)",20
-2012,Share,2
-2012,"Area, thousand hectares (estimated)",40
-2013,Share,3
-2013,"Area, thousand hectares (estimated)",60
-2014,Share,3
-2014,"Area, thousand hectares (estimated)",60
-2015,Share,3.5
-2015,"Area, thousand hectares (estimated)",70
-2016,Share,3.5
-2016,"Area, thousand hectares (estimated)",70
-2017,Share,3.5
-2017,"Area, thousand hectares (estimated)",70
-2018,Share,4
-2018,"Area, thousand hectares (estimated)",80
-2019,Share,4
-2019,"Area, thousand hectares (estimated)",80
-2020,Share,4
-2020,"Area, thousand hectares (estimated)",80
-2021,Share,5
-2021,"Area, thousand hectares (estimated)",100
-2022,Share,5
-2022,"Area, thousand hectares (estimated)",100
-2023,Share,6
-2023,"Area, thousand hectares (estimated)",120
-2024,Share,6
-2024,"Area, thousand hectares (estimated)",120
-2025,Share,
-2025,"Area, thousand hectares (estimated)",
+2010,,1
+2010,"Area, thousand hectares",20
+2011,,1
+2011,"Area, thousand hectares",20
+2012,,2
+2012,"Area, thousand hectares",40
+2013,,3
+2013,"Area, thousand hectares",60
+2014,,3
+2014,"Area, thousand hectares",60
+2015,,3.5
+2015,"Area, thousand hectares",70
+2016,,3.5
+2016,"Area, thousand hectares",70
+2017,,3.5
+2017,"Area, thousand hectares",70
+2018,,4
+2018,"Area, thousand hectares",80
+2019,,4
+2019,"Area, thousand hectares",80
+2020,,4
+2020,"Area, thousand hectares",80
+2021,,5
+2021,"Area, thousand hectares",100
+2022,,5
+2022,"Area, thousand hectares",100
+2023,,6
+2023,"Area, thousand hectares",120
+2024,,6
+2024,"Area, thousand hectares",120

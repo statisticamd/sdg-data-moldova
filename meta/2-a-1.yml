@@ -32,33 +32,38 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Index of agriculture orientation of public expenditures  (AOI) higher than 1 reflects a higher orientation towards the agricultural  sector, which receives a higher share of government/public expenditures in  relation to its contribution to the economic added value. An AOI lower than 1  reflects a lower orientation towards agriculture of public budgetary  resources, while an AOI equal to 1 reflects neutrality in government's  orientation to the agricultural sector. </p> 
-  <p>  The term "Agriculture" refers to  the agricultural, forestry, fishing and hunting sector or division A of the  Classifier of Activities in Moldova's Economy (CAEM,  rev.2).</p> 
-  <p>  Public expenditures -  expenditures according to the budgetary classification system of the Republic  of  Moldova which since 2015 is in line with the Classification of Functions of Government  (COFOG) developed by UN and the Classification of Governmental Financial  Statistics (GFS) developed by IMF. </p>
+  |
+  <p>Index of agriculture orientation of public expenditures  (AOI) higher than 1 reflects a higher orientation towards the agricultural  sector, which receives a higher share of government/public expenditures in  relation to its contribution to the economic added value. An AOI lower than 1  reflects a lower orientation towards agriculture of public budgetary  resources, while an AOI equal to 1 reflects neutrality in government's  orientation to the agricultural sector. </p>
+  <p>  The term "Agriculture" refers to  the agricultural, forestry, fishing and hunting sector or division A of the  Classifier of Activities in Moldova's Economy (CAEM,  rev.2).</p>
+  <p>  Public expenditures -  expenditures according to the budgetary classification system of the Republic  of  Moldova which since 2015 is in line with the Classification of Functions of Government  (COFOG) developed by UN and the Classification of Governmental Financial  Statistics (GFS) developed by IMF.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Numerator - administrative data of the Ministry of Finance </p> 
-  <p>2. Denominator - national accounts statistics, National Bureau of Statistics </p>
+  |
+  <p>1. Numerator - administrative data of the Ministry of Finance </p>
+  <p>2. Denominator - national accounts statistics, National Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.Ministry of Finance</p> 
-  <p>2.National Bureau of Statistics </p>
+  |
+  <p>1.Ministry of Finance</p>
+  <p>2.National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Ministry of Agriculture and Food Industry</p> 
-  <p>2. Ministry of Finance </p>
+  |
+  <p>1. Ministry of Agriculture and Food Industry</p>
+  <p>2. Ministry of Finance</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Index is calculated as a rate between two proportions. The share of  expenditures for agriculture in the national public budget (NPB), divided to the share of gross added value of agriculture in GDP. </p> 
-  <p>  Numerator: Ratio of  public expenditures for agriculture according to the functional classification  of budgetary expenditures by types, to the total expenditures of the National Public Budget.</p> 
-  <p>  Denominator: Share of gross added value of agriculture in  GDP is measured via the ratio between the gross added value of agriculture and  GDP . </p>
+  |
+  <p>Index is calculated as a rate between two proportions. The share of  expenditures for agriculture in the national public budget (NPB), divided to the share of gross added value of agriculture in GDP. </p>
+  <p>  Numerator: Ratio of  public expenditures for agriculture according to the functional classification  of budgetary expenditures by types, to the total expenditures of the National Public Budget.</p>
+  <p>  Denominator: Share of gross added value of agriculture in  GDP is measured via the ratio between the gross added value of agriculture and  GDP .</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
