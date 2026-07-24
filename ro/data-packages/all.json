@@ -965,7 +965,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Produse agricole",
+                "Produse agricole AGR",
                 "Produse neagricole",
                 ""
               ]
