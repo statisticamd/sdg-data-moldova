@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Baza de date comună Centrul Internațional de Comerț (ITC)/Conferința  Națiunilor Unite pentru Comerț și Dezvoltare (UNCTAD)/Organizația Mondială a  Comerțului (WTO)
+  Baza de date UNSTATS
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -65,12 +65,12 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  Centrul Internațional de Comerț (ITC)/ Conferința Națiunilor Unite pentru  Comerț și Dezvoltare (UNCTAD)/ Organizația Mondială a Comerțului (WTO)
+  Baza de date UNSTATS
 source_periodicity_1: >-
   Anual
 source_url_1: >-
-  https://www.wto.org/english/res_e/booksp_e/trade_profiles23_e.pdf
+  https://unstats.un.org/sdgs/dataportal/database
 source_url_text_1: >-
-  Link la sursa de date
+  Baza de date UNSTATS
 source_contact_1: >-
 source_other_info_1: >-
