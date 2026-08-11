@@ -37,7 +37,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>Există mai multe surse de date care ar putea fi utilizate:</p>
   <p>1. Documente oficiale precum Planul Urbanistic Național, Cadrele, Strategiile etc. Disponibile în administrațiile naționale sau regionale.</p>
   <p>2. Alte instrumente de sprijin, cum ar fi: cartografierea datelor spațiale de referință, evaluarea comparativă, anchetele la punctele de serviciu, monitorizarea și raportarea performanței, decalajul și analiza de continut.</p>
@@ -46,7 +45,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>Ministerul Infrastructurii și Dezvoltării Regionale</p>
   <p>Biroul Național de Statistică</p>
 COMPILING_ORG: ''

@@ -58,7 +58,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Pentru anul 2012, indicatorul are la bază datele obținute în cadrul Studiului MICS 2012, realizat la nivel național. Începând cu anul 2021, indicatorul este calculat la nivel național pe baza datelor administrative colectate prin formularele statistice aprobate, conform metodologiei naționale și Standardelor de creștere a copilului ale Organizației Mondiale a Sănătății (OMS).</p>
   <p>Din cauza lipsei informațiilor privind numărul copiilor cu vârsta de până la 5 ani evaluați antropometric,  a fost utilizată populația medie anuală a copiilor cu vârsta de până la 5 ani. Valorile obținute reprezintă estimări bazate pe populația copiilor sub 5 ani și pot fi diferiți de indicatorii calculați conform metodologiei standard a Organizației Mondiale a Sănătății (OMS), care utilizează ca numitor numărul copiilor evaluați antropometric.</p>
 OTHER_DOC: ''
@@ -70,7 +69,6 @@ source_active_1: true
 source_organisation_1: >-
   Agenția Națională pentru Sănătate Publică
 source_periodicity_1: >-
-  |
   <p>Anual</p>
   <p>La nivel global sunt generate estimări modelate anual.</p>
 source_url_1: >-

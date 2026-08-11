@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Sustainable agriculture should support healthy ecosystems and sustainable  management of fields, water, and natural resources, ensuring at the same time  world food security. To be sustainable, agriculture should meet the needs of  the present and future generations for its products and services, ensuring at  the same time profitability, environmental health, social and economic justice  (FAO definition).</p>
   <p>  The national strategic framework operates with the  notion "Ensuring sustainable management of natural resources in agriculture”  which includes: 1) use of innovation practices for managing agricultural  fields and water by: (i) enhancing the fields and using modern crop practices  by rotation of agricultural crops and diversification of agricultural  products, (ii) enhancing irrigation services together with access to modern  irrigation infrastructure and equipment; 2) applying environment friendly  production technologies, ecological products, including biodiversity: use of  innovation production technologies for obtaining ecological products, and 3)   existence of support mechanisms for adapting and mitigating the effects of  climate changes on agricultural production and agriculture competitiveness</p>
 UNIT_MEASURE: >-
@@ -53,7 +52,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Area covered with productive and sustainable agriculture out of total  agricultural area *100.</p>
   <p>  Numerator covers three dimensions of sustainable  production: environmental, economic and social. It covers the agricultural  areas of the farms which fulfil the selected sub-indicators for all the three  dimensions.</p>
   <p>  Denominator is the area of agricultural area managed by  agricultural holdings, defined as amount of agricultural areas used by  agricultural holdings which are held (exclusively the ones leased), rented,  borrowed, purchased. According to the FAO methodologies, the total  agricultural area does not include the fields under the state property and the  communal ones used by farms.</p>

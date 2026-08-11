@@ -51,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicator is composed of two components which are calculated separately.</p>
   <p>  1) Plant genetic resources: total number of single samples of plant genetic resources secured in medium- or long-term  conservation facilities. </p>
   <p>  This should include all the samples of basic collections and single samples stored in medium-term conservation facilities  as active collections only when these samples are considered part of national  basic collections. The basic collections may include seeds' collections,  field, crio-preserved, in vitro, depending of the preserved species and  available facilities in the country.</p>
@@ -70,7 +69,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministry of Agriculture and Food Industry</p>
   <p>2. Subordinate science and educational institutions</p>
 source_periodicity_1: >-

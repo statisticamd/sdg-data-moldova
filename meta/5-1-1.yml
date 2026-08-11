@@ -42,7 +42,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Ministry of Labour and Social Protection</p>
   <p>2. Ministry of  Justice</p>
   <p>3. Ministry of Internal Affairs</p>
@@ -52,7 +51,6 @@ DATA_SOURCE: >-
   <p>7. Central public  authorities (gender coordinating groups)</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministry of Labour and Social Protection</p>
   <p>2. Ministry of  Justice</p>
   <p>3. Equality Council</p>
@@ -60,7 +58,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  completed by countries with 42 questions and 4 areas of activity  assessed: Legal framework and public life, Violence  against women, Employment and economic benefits, Marriage and family.  </p>
   <p>The indicator is calculated based on the evaluation of the legal framework  which promotes, supports and monitors gender equality using a questionnaire  with 42 questions.  </p>
   <p>Answers to questions are coded YES-1 or NO-0. </p>
@@ -80,7 +77,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministry of Labour and Social Protection</p>
   <p>2. Ministry of  Justice</p>
   <p>3. Ministry of Internal Affairs</p>
@@ -95,11 +91,9 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Aurelia Bulat, Head of the gender equality policies Department,</p>
   <p>e-mail: aurelia.bulat@social.gov.md, tel. 022 804 436</p>
 source_other_info_1: >-
-  |
   <p>National legal framework includes:</p>
   <p>GD no. 933/2009 regarding the approval of the National Program for ensuring gender equality for the years 2010-2015</p>
   <p>Law no. 71/2016 for the amendment and completion of some legislative acts (paternal leave, sexist advertising, non-sexist language)</p>

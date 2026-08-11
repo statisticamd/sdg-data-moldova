@@ -8,7 +8,6 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  |
   <p>Indicator 1. Procentul copiilor de 5-17 ani în situație de „munca copiilor”, angajați în activități economice pe parcursul unui număr de ore mai mare sau egal cu un prag limită de ore, specific vârstei (în baza granițelor de producție conform SCN):</p>
   <p>- pentru copiii de 5 - 11 ani: dacă lucrează cel puțin 1 oră pe săptămână în activități economice;</p>
   <p>- pentru copiii de 12-14 ani:dacă lucrează cel puțin 14 ore pe săptămână în activități economice;</p>
@@ -56,7 +55,6 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
 OTHER_METHOD: >-
-  |
   <p>Conform Convențiilor internaționale, munca copiilor este o muncă pe care copiii nu ar trebui să o facă deoarece (a) sunt prea mici sau (b) este în stare să dăuneze sănătății, siguranței sau moralității lor, datorită naturii sau a condițiilor în care se  efectuează.</p>
   <p>Situația de „munca copiilor” cuprinde acele activități/munci care se desfășoară în activități și/sau ocupații proscrise copiilor; și/sau condiții periculoase; sau care durează ore excesive de lucru.</p>
 RATIONALE: ''
@@ -70,7 +68,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Corespunde total cu seriile:</p>
   <p>- SL_TLF_CHLDEA - Proportion of children engaged in economic activity [8.7.1]</p>
   <p>- SL_TLF_CHLDEC - Proportion of children engaged in economic activity and household chores [8.7.1]</p>

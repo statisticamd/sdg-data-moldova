@@ -51,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Number of children aged 0-27 days since birth who have died during the current  year, per 1000 born alive in the year of reference.</p>
   <p>  Data are based on  registration of newly-born children with 550 gr weight and of 22 weeks of  gestation</p>
 DATA_VALIDATION: ''

@@ -37,14 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. Sistemului informaţional automatizat „Registrul informaţiei criminalistice şi criminologice" al MAI</p>
   <p>2. Date demografice privind numărul populației cu reședință obișnuită, BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Ministerul Afacerilor Interne</p>
   <p>2. Biroul Național de Statistică</p>
 COMPILING_ORG: ''
@@ -70,7 +68,6 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministerul Afacerilor Interne</p>
   <p>2. Biroul Național de Statistică</p>
 source_periodicity_1: >-
@@ -79,7 +76,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Serghei Nasîpov, Specialist principal, Serviciul Tehnologii Informaționale al Ministerului Afacerilor Interne</p>
   <p>e-mail: serghei.nasipov@mai.gov.md, tel. (022) 255-985, (+373) 690-700-44</p>
 source_other_info_1: >-

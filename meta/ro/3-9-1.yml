@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>A fost evaluată mortalitatea rezultată din expunerea la poluarea aerului ambiental (exterior) și la poluarea aerului din gospodării (interior), cauzată de utilizarea combustibililor poluanți pentru gătit și/sau încălzire. Poluarea aerului ambiental provine din emisiile generate de activitățile industriale, gospodării, autoturisme și camioane, reprezentând un amestec complex de poluanți atmosferici, dintre care mulți sunt nocivi pentru sănătate. Dintre acești poluanți, particulele fine în suspensie au cel mai mare impact asupra sănătății umane.</p>
   <p>Prin combustibili poluanți se înțeleg: kerosenul, lemnul, cărbunele, dejecțiile animale utilizate drept combustibil, mangalul (cărbunele vegetal) și reziduurile provenite din culturile agricole.</p>
 UNIT_MEASURE: >-
@@ -44,7 +43,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>Agenția Națională pentru Sănătate Publică</p>
   <p>Biroul Național de  Statistică</p>
 COMPILING_ORG: ''
@@ -53,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Rata mortalității atribuibile efectelor combinate ale poluării aerului din gospodării și ale poluării aerului ambiental poate fi exprimată ca rată brută a mortalității sau rată standardizată pe vârstă a mortalității. Ratele brute se calculează prin împărțirea numărului total de decese la populația totală (sau la grupul populațional specificat, dacă este utilizată o altă categorie, de exemplu copiii cu vârsta sub 5 ani). Ratele standardizate pe vârstă ajustează diferențele în structura pe vârste a populației prin aplicarea ratelor specifice de mortalitate pe grupe de vârstă observate în fiecare populație la o populație standard.</p>
   <p>Indicatorul ODD 3.9.1 a fost calculat pentru prima dată conform metodologiei internaționale recomandate de OMS, utilizând funcțiile Integrated Exposure–Response (IER) pentru estimarea riscului relativ asociat expunerii la particule fine PM₂.₅. Fracția atribuibilă (AF) a fost determinată pentru principalele cauze de deces asociate poluării aerului: infecții acute ale căilor respiratorii inferioare, boli cerebrovasculare, cardiopatie ischemică, boală pulmonară obstructivă cronică (BPOC) și cancer pulmonar.</p>
   <p>Dovezile provenite din studiile epidemiologice au demonstrat că expunerea la poluarea aerului este asociată, printre altele, cu următoarele cauze principale de deces luate în considerare la estimarea acestui indicator: Infecții acute ale căilor respiratorii inferioare (estimate pentru toate grupele de vârstă; ICD-10: J09–J22, P23, U04);</p>

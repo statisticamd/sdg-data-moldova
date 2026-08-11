@@ -42,7 +42,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>Cancelaria de stat</p>
   <p>Biroul Național de Statistică</p>
 COMPILING_ORG: ''
@@ -73,7 +72,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Cancelaria de Stat, Direcția managementul funcției publice</p>
   <p>Cristina Leșan, consultant principal</p>
   <p>tel.: 022 250-252</p>

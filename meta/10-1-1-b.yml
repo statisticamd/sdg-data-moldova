@@ -46,7 +46,6 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministry of Labor and Social Protection</p>
   <p>Ministry of Economic Development and Digitalization</p>
   <p>Ministry of Agriculture and Food Industry</p>
@@ -57,7 +56,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>To calculate the indicator: </p>
   <p>1. The average consumption expenditures are estimated per 1 person out of the bottom 40% of the population for the years T0 and T1; </p>
   <p>2. The annual average growth rate is calculated for the consumption expenditures in between these years according to the formula [[(Mean in T1) / (Mean in T0) ^ (1 / (T1-T0))] - 1] * 100.</p>

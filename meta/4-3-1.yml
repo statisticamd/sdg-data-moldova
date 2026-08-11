@@ -60,7 +60,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>For the global indicator, the reference period is the „last 12 months”.</p>
   <p>For the national indicator - the last 4 weeks.</p>
 OTHER_DOC: ''

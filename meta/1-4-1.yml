@@ -7,7 +7,6 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
   United Nations Human Settlements Programme (UN-Habitat)
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
-  |
   <p>The basic services refer to the systems providing public services which meet the basic needs of the population, including access to safe drinking water, improved sewerage and hygiene, modern energy, mobility and transport, collecting solid waste, healthcare, education, green spaces (recreation) and information technologies.</p>
   <p>  The nationalised indicator 1.4.1 refers to a part of basic infrastructure  services - the ones available in the households, and namely electricity lighting, safe water sources, improved sewerage system, connection to Internet.  </p>
   <p>  The rest of the basic services to which the population has access, mainly outside the households, will be measured through other SDG indicators (on access to health services/SDG3, education/SDG4, transport/SDG9&11, waste and green spaces/SDG11).</p>
@@ -36,7 +35,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Safe sources of water supply include: aqueduct inside the dwelling and aqueduct outside the dwelling, including public network aqueduct, artesian well, spring well.</p>
   <p>  Improved sewerage systems will include public and private sewerage systems.</p>
   <p>  Access to Internet will include the availability in the dwelling of cable or wireless Internet  (Wi-Fi).</p>

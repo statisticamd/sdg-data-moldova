@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Termenul „cadru legal” este definit în sens larg și  cuprinde legi, mecanisme și politici/planuri care „promovează, aplică și monitorizează” egalitatea de gen.</p>
   <p>Cadrul legal care „promovează” este legislația care consacră drepturi egale pentru femei și bărbați și interzice discriminarea pe bază de sex. Cadrul legal care „aplică și monitorizează” este orientat spre realizarea egalității și nediscriminării și punerea în aplicare a legilor, prin politici/planuri, crearea de mecanisme de aplicare și monitorizare, precum și alocarea de resurse financiare.</p>
 UNIT_MEASURE: >-
@@ -44,7 +43,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Ministerul Muncii și Protecției Sociale</p>
   <p>2. Ministerul  Justiției</p>
   <p>3. Ministerul Afacerilor Interne</p>
@@ -54,7 +52,6 @@ DATA_SOURCE: >-
   <p>7. APC  (grupurile coordonatoare în domeniul gender)</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministerul Muncii și Protecției Sociale</p>
   <p>2. Ministerul  Justiției</p>
   <p>3. Consiliul pentru Egalitate</p>
@@ -62,7 +59,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicatorul este calculat în baza evaluării cadrului legal care  promovează, susține și monitorizează egalitatea de gen, prin intermediul unui chestionar completat de către țări din 42 întrebări, în cadrul căruia 4 domenii ale egalității sunt evaluate: Cadrul legal și viața publică,  Violența împotriva femeilor, Ocuparea și beneficiile economice,  Căsătoria și  familia. </p>
   <p>Răspunsul la întrebări este codificat cu DA-1 sau  NU-0. </p>
   <p>Pentru întrebările 1 și 2, în țările în care nu se aplică legea cutumiară și legea personală acestea sunt marcate ca N/A și nu sunt incluse în calcularea scorului general.</p>
@@ -81,7 +77,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministerul Muncii și Protecției Sociale</p>
   <p>2. Ministerul  Justiției</p>
   <p>3. Ministerul Afacerilor Interne</p>
@@ -96,11 +91,9 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Aurelia Bulat, Șefa Direcției politici de asigurare a egalității de gen, </p>
   <p>e-mail: aurelia.bulat@social.gov.md, tel. 022 804 436</p>
 source_other_info_1: >-
-  |
   <p>Cadrul legal național include:</p>
   <p>HG nr. 933/2009 cu privire la aprobarea Programul național de asigurare a egalității de gen pe anii 2010-2015</p>
   <p>Legea nr. 71/2016 pentru modificarea şi completarea unor acte legislative (concediu paternal, publicitate sexistă, limbaj non-sexist)</p>

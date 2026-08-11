@@ -34,7 +34,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Balanța de plăți și sistemul de conturi naționale care reflectă  activitățile economice ilegale</p>
   <p>  2) Datele administrative privind  tranzacțiile comerciale prin vamă, inclusiv cele de facturare greșită a  comerțului;</p>
   <p>  3) Statistici privind comerțul internațional de bunuri și  servicii</p>
@@ -43,7 +42,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1) Centrul Național Anticorupție;</p>
   <p>  2) Biroul Național de Statistică; </p>
   <p>   3) Banca Națională a Moldovei;</p>
@@ -57,7 +55,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>A fost dezvoltat un proces în două etape care ajută statele membre în  calcularea indicatorului care prevede:</p>
   <p>  1) O evaluare a riscului care  identifică sursele majore și cele mai relevante ale fluxurilor financiare  ilicite (IFF) într-o țară. Această evaluare a riscului poate urmări și se  poate baza pe evaluările de risc existente, de ex. cele autorizate de grupul  de acțiune financiară (FATF).</p>
   <p>  2) Odată identificate activitățile care  generează cele mai importante fluxuri, care sunt estimate într-o manieră  dezagregată. </p>

@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>ODA –  in line with the international definition DAC ( [OECD Development  Assistance  Committee](http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm)  ) it represents the "flows to countries and territories from the DAC list of  ODA beneficiaries and other multilateral institutions which are: (i) supplied  by official agents, including by national or local governments or by their  executive agencies; and (ii) every transaction is managed with the main  objective to promote economic development and wellbeing of developing  countries; and it is of concession nature and includes a grant element of at  least 25% (calculated at a reduction rate of 10%).</p>
   <p>  [Other official  financial flows  (OOF)](http://www.oecd.org/dac/stats/documentupload/DCDDAC(2016)3FINAL.pdf),  Para. 24 - (except for officially supported credits for exports) are defined  as transactions made by the official sector which do not meet the eligibility  conditions for ODA, either because does not refer first of all to development  or because are not sufficiently concessional.  </p>
   <p>  Foreign assistance –  financial and technical assistance provided to the Republic of Moldova,  Government and/or other public authorities by creditors'/donors' community  (art.9 of the GD No. 377 of 25.04.2018 regulating the institutional framework  and the mechanism for coordination and management of foreign assistance).</p>
@@ -49,7 +48,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1.Ministry of Economic Development and Digitalization </p>
   <p>2. State Chancellery</p>
 COMPILING_ORG: ''

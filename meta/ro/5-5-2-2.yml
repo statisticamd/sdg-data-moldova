@@ -47,7 +47,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>R(f) = N(f_fp) / N(tot_fp) * 100</p>
   <p>unde: </p>
   <p>R(f)  - ponderea femeilor în serviciul public</p>
@@ -75,7 +74,6 @@ source_url_1: >-
 source_url_text_1: >-
   Linkul la sursa de date
 source_contact_1: >-
-  |
   <p>Cancelaria de Stat, Direcția managementul funcției publice</p>
   <p>Cristina Leșan, consultant principal</p>
   <p>tel.: 022 250-252</p>

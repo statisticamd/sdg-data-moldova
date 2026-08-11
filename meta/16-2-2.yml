@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Trafficking in human beings (trafficking in adults or trafficking in children, Articles 165 and 206 of the Criminal Code) – the recruitment, transportation, transfer, harboring or receipt of an adult person, with or without his/her consent, for the purpose of commercial or non-commercial sexual exploitation, labor or forced services, begging, appropriation of aid, allowances or social benefits, illegal use in medical or scientific testing or experiments, exploitation in slavery or slavery-like conditions, use in armed conflicts or criminal activities, organ, tissue and/or human cell removal, as well as the use of a woman as a surrogate mother or for reproductive purposes, committed by means of: applying violence not endangering life or health or threatening such violence, abduction, concealment, degradation or destruction of documents, keeping in servitude for the purpose of debt repayment, threat of disclosing confidential information to the victim’s family or to other natural or legal persons, fraud, abuse of a position of vulnerability or abuse of power, giving or receiving payments or benefits to obtain the consent of a person having control over another person.</p>
   <p>Victim of trafficking in human beings – a natural person established as having been subjected to the trafficking actions mentioned above. (Article 2, paragraphs 1 and 11 of Law No. 241 of 20.10.2005 on the prevention and combating of trafficking in human beings).</p>
 UNIT_MEASURE: >-
@@ -40,19 +39,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. Administrative data, General Police Inspectorate of the Ministry of Internal Affairs</p>
   <p>2. Demographic data on the number of the usually resident population, National Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. General Police Inspectorate of the Ministry of Internal Affairs</p>
   <p>2. National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministry of Internal Affairs</p>
   <p>2. Ministry of Labour and Social Protection</p>
 OTHER_METHOD: >-

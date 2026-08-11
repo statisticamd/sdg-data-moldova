@@ -30,7 +30,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>In cadrul United Nations Framework Convention on Climate Change (UNFCCC,  Decision 15/CP.18, eight-year Doha work programme on Article 6 of the UNFCCC  (2012 – 2020), par.22 g, 22f) sunt prevăzute acțiuni de includere a  problematicii privind schimbările climatice in procesul educațional  si de  informare a populației. Acordul de la Paris (art.12) prevede obligația  părților de a comunica despre astfel de acțiuni in cadrul NDCs (nationally  determined contributions). </p>
   <p>  Acestea sunt incluse/descrise  in Comunicarea  Naționala cu privire la emisiile gazelor cu efect de sera (o dată la 4 ani),  [Raportul bienal actualizat  cu privire la emisiile gazelor cu efect de  sera](http://clima.md/).</p>
   <p>  Totodată, metodologia globala lipsește, ceea ce  face dificila descrierea indicatorului național.</p>
@@ -44,7 +43,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1.Ministerul Educației și Cercetării</p>
   <p>  2.Instituția Publică Oficiul National pentru Implementarea Proiectelor de Mediu</p>
 COMPILING_ORG: ''
@@ -69,7 +67,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1.Ministerul Educației și Cercetării</p>
   <p>  2.Instituția Publică Oficiul National pentru Implementarea Proiectelor de Mediu</p>
 source_periodicity_1: >-

@@ -37,14 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) administrative data of the General Inspectorate for Emergency Situations  </p>
   <p>  2) population statistics produced by NBS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1.General Inspectorate for Emergency Situations</p>
   <p>  2.National Bureau of  Statistics</p>
 COMPILING_ORG: ''
@@ -62,7 +60,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>The National Indicator represents a part of the Global Indicator </p>
   <p>  (B6)  Number of persons who have received / requested food assistance [including  foodstuff and non-foodstuff], medical assistance due to some exceptional  situations - IS NOT COLLECTED, but on the other hand, the NUMBER OF PERSONS  WHOSE VITAL ACTIVITY CONDITIONS WERE AFFECTED is COLLECTED</p>
 OTHER_DOC: ''
@@ -72,7 +69,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1.General Inspectorate for Emergency Situations</p>
   <p>  2.National Bureau of  Statistics</p>
 source_periodicity_1: >-

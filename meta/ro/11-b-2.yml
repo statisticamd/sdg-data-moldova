@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Autorități publice locale se vor considera administrațiile publice  sub-naționale care au responsabilitatea de a elabora strategii locale de  reducere a riscurilor de dezastre.</p>
   <p>  Deoarece Cadrul de la Sendai  promovează adoptarea și implementarea strategiilor locale de reducere a  riscului de dezastre în fiecare autoritate locală, pentru indicatorul național  se va considera APL de nivelul II (raion) și I (comuna)</p>
 UNIT_MEASURE: >-
@@ -44,7 +43,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Autoritățile publice locale de nivelurile II și I</p>
   <p>2. Ministerul Mediului/Serviciul Hidrometeorologic de Stat</p>
 COMPILING_ORG: ''

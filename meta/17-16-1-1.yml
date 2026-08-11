@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>The aim of the indicator is to measure the quality and the efficiency of the  partnerships for development. It is considered that the country reports  progress when during the year of reference, the number of indicators from the  SDG nationalised framework which shows positive trends is higher than the  number of indicators that show a negative dynamics. The progress is reported  by the country as the beneficiary of assistance/support in the cooperation  framework, as well as by the countries which provide this  support/assistance.</p>
   <p>  Republic of  Moldova reporting as country benefiting  from foreign financing is assessed through the following elements:</p>
   <p>  1.  Leading the process of setting national priorities: Enhancing the national  results' framework.</p>
@@ -46,7 +45,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) [Public portal of foreign assistance management of the  Government](http://amp.gov.md/portal/)</p>
   <p>  2) Reports of donor countries  </p>
   <p>  3) [Monitoring Framework of the Global Partnership for Sustainable  Development](https://www.effectivecooperation.org/system/files/2020-06/20170510%20Monitoring%20Framework%20Review%20Strategy%20%2801%20June%202017%29.pdf)</p>
@@ -83,7 +81,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Alina Bacinschi, Principal Consultant, Strategic Planning Department</p>
   <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-

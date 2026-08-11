@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Serviciul de Asistență Personală este destinat pentru persoanele cu  dizabilități severe care necesită îngrijire, însoțire și supraveghere  permanentă din partea unei alte persoane în procesul integrării lor în  societate în domeniile protecției sociale, muncii, asistenței medicale,  instructiv-educativ, informațional, al accesului la infrastructură și altele.  Serviciul social „Asistența Personală” a fost instituit prin Hotărârea  Guvernului nr. 314 din 23 mai 2012 pentru aprobarea Regulamentului-cadru  privind organizarea și funcționarea Serviciului social „Asistenta personală”  și a Standardelor minime de calitate.                                                                                       </p>
   <p>Prestatori de serviciu „Asistența personală” sunt Ministerul Muncii și Protecției Sociale prin intermediul Agențiilor Teritoriale de Asistență Socială și Agenției pentru Gestionarea Serviciilor Sociale cu Specializare Înaltă, precum și structurile responsabile de asistența socială și de protecția drepturilor copilului din municipiul Chișinău și din Unitatea Teritorială Autonomă Găgăuzia.</p>
   <p>Finanțarea serviciului se realizează din bugetul de stat, prin intermediul Ministerului Muncii și Protecției Sociale, bugetul municipiului Chișinău și bugetul unității teritoriale autonome Găgăuzia.</p>
@@ -40,14 +39,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p>
   <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p>
   <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă</p>
 COMPILING_ORG: ''
@@ -72,7 +69,6 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1) Agențiile teritoriale de asistență socială/STAS (Structura teritorială de  asistență socială), </p>
   <p>  2) Agenția de Gestionare a Serviciilor Sociale cu Specializare Înaltă</p>
 source_periodicity_1: >-

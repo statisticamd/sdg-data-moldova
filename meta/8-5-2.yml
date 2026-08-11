@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>ILO Unemployed are persons aged 15 years and over, who during the reference  period meet simultaneously the following conditions:</p>
   <p>a) during the reference week not employed according to the definition of employment, and</p>
   <p>b) currently available for work, i.e. were available for paid employment or self-employment before the end of the 2 weeks following the reference week: and</p>

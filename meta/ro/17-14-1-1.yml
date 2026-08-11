@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>În sensul acestei metodologii, „coerența politicilor dezvoltării durabile” a fost interpretată ca fiind coerența dintre politicile în general care acoperă dimensiunile dezvoltării durabile. Acest indicator este un indicator compozit care acoperă mecanisme legate de:</p>
   <p>1. Instituționalizarea angajamentului politic</p>
   <p>2. Considerații pe termen lung în procesul decizional</p>
@@ -56,7 +55,6 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Cancelaria de stat
 OTHER_METHOD: >-
-  |
   <p>În calitate de mecanisme naționale care asigură coordonarea și monitorizarea  procesului de consolidare a coerenței politicilor de dezvoltare durabilă sunt  considerate: </p>
   <p>- Comitetul interministerial pentru planificare strategică (HG 1070/2023);</p>
   <p>- Consiliul Național  de Coordonare pentru Dezvoltare Durabilă (HG.  912/2016);</p>
@@ -66,7 +64,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Acest indicator include 8 domenii. Fiecare domeniu este evaluat pe o scală de la 0 la 10, unde 0 înseamnă că niciunul dintre mecanismele solicitate nu este implementat, iar 10 înseamnă că toate mecanismele solicitate sunt implementate.</p>
   <p>Procentul de puncte din totalul de 80 de puncte este apoi calculat pentru fiecare țară.</p>
 DATA_VALIDATION: ''
@@ -92,10 +89,8 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Alina Bacinschi, consultant principal, Direcția planificare strategică</p>
   <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-
-  |
   <p>Datele naționale sunt colectate prin intermediul Chestionarului UNEP/OCDE privind mecanismul existent pentru consolidarea coerenței politicilor de dezvoltare durabilă.</p>
   <p>Colectarea datelor, utilizând Chestionarul UNEP/OCDE privind mecanismul existent pentru consolidarea coerenței politicilor de dezvoltare durabilă: 2025, 2027, 2029.</p>

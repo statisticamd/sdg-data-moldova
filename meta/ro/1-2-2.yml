@@ -4,7 +4,6 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 1.2: Până în 2030, reducerea cu cel puțin jumătate a numărului de bărbați, femei și copii de toate vârstele care trăiesc în sărăcie în toate dimensiunile acesteia potrivit definițiilor naționale</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  |
   <p>Fondul Națiunilor Unite pentru Copii (UNICEF)</p>
   <p>Banca Mondială (BM)</p>
   <p>Programul Națiunilor Unite pentru Dezvoltare (PNUD)</p>
@@ -35,7 +34,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Pragul sărăciei (k) este utilizat pentru a decide dacă o persoană este săracă din punctul de vedere multidimensional. Orice persoană cu un scor de deprivare egal sau mai mare ca pragul stabilit este considerată săracă. </p>
   <p>  Incidența sărăciei (H) reprezintă proporția persoanelor identificate ca fiind sărace în aspect multidimensional, denumită și “rata sărăciei multidimensionale”. Acest indicator determină ponderea persoanelor cu scorul de deprivare ponderat mai mare sau egal în raport cu pragul sărăciei, în totalul populație.</p>
   <p>  Intensitatea sărăciei (A) reprezintă numărul mediu a indicatorilor ponderați în care persoanele sărace sunt deprivate – scorul mediu de deprivare pentru toate persoanele sărace.</p>
@@ -54,7 +52,6 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale </p>
   <p>Ministerul Dezvoltării Economice și Digitalizării</p>
   <p>Ministerul Agriculturii și Industriei Alimentare</p>
@@ -65,7 +62,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>ISM = H x A</p>
   <p>    unde:</p>
   <p> ISM - Indicele sărăciei multidimensionale,          </p>

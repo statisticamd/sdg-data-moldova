@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Violență împotriva copilului – forme de rele tratamente aplicate de către  părinți/reprezentanții legali/persoana în grija căreia se află copilul sau de  către orice altă persoană, care produc vătămare actuală sau potențială asupra  sănătății acestuia și îi pun în pericol viața, dezvoltarea, demnitatea sau  moralitatea, care includ următoarele tipuri de violență: fizică, sexuală,  psihologică, spirituală, economică.  (p.5 din Anexa 1 a Hotărârii Guvernului nr. 270 din 08.04.2014).</p>
   <p>Neglijarea copilului – omisiunea sau ignorarea voluntară  sau involuntară a responsabilităţilor privind creşterea şi educarea copilului,  fapt care pune în pericol dezvoltarea lui fizică, mintală, spirituală, morală  sau socială, integritatea lui corporală, sănătatea lui fizică sau psihică.  Neglijarea poate lua mai multe forme: alimentară, vestimentară, neglijare a  igienei, medicală, educațională, emoțională, neglijare în supraveghere.</p>
 UNIT_MEASURE: >-
@@ -47,7 +46,6 @@ DATA_SOURCE: >-
   Structurile teritoriale de asistență socială, Direcţia pentru protecţia drepturilor copilului din mun.Chişinău, Direcția principală a sănătății și protecției sociale UTA Găgăuzia.
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministerul Afacerilor Interne</p>
   <p>2. Ministerul Muncii și Protecției Sociale</p>
 OTHER_METHOD: >-
@@ -77,7 +75,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Evelina Miron, Consultantă principală, Direcția politici de protecție a drepturilor copilului și familiilor cu copii, </p>
   <p>e-mail: evelina.miron@social.gov.md, tel. 022 804 452</p>
   <p>Ina Scaticailov,  Consultantă principală, Direcția politici de protecție a drepturilor copilului și familiilor cu copii, </p>

@@ -49,7 +49,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>For calculating the indicator: </p>
   <p>1. Proportion of expenditures for maintaining the dwelling out of the household disposable income = Monthly expenditures for maintaining the  dwelling / Household monthly disposable income * 100; </p>
   <p>2. Proportion of population with household expenditures for maintaining the dwelling over 30% =  Number of population with household expenditures for maintaining the dwelling higher than 30% / Total number of population * 100.</p>

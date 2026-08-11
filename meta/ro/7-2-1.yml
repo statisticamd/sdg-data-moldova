@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Energie din surse regenerabile reprezintă energia obținută prin valorificarea surselor nefosile regenerabile, respectiv energia eoliană, solară, aerotermală, geotermală, hidrotermală și energia oceanelor, energia hidroelectrică, biomasa, biogazul, gazul de fermentare a deșeurilor (gazul de depozit) și gazul provenit din instalațiile de epurare a apelor uzate.</p>
   <p></p>
   <p>Consumul brut de energie reprezintă produsele energetice furnizate în scopuri energetice industriei, transporturilor, sectorului casnic, serviciilor (inclusiv serviciilor publice), agriculturii, silviculturii și pisciculturii, inclusiv consumul de energie electrică și energie termică din sectorul de producere a energiei electrice și termice, precum și consumul tehnologic și pierderile de energie electrică și energie termică în rețelele electrice și termice.</p>
@@ -80,7 +79,6 @@ source_url_1: >-
 source_url_text_1: >-
   Ponderea energiei din surse regenerabile în consumul final brut de energie
 source_contact_1: >-
-  |
   <p>Centrul Național pentru Energie Durabilă</p>
   <p>office@cned.gov.md</p>
   <p>022-499-444, ex.3</p>

@@ -50,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>RfG = NfG / NtotG * 100</p>
   <p> where:</p>
   <p>RfG  - the share of women in the Government in the reference year; </p>
@@ -77,13 +76,11 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>State Chancellery of the Republic of Moldova, Human Resources Directorate</p>
   <p>Luminița Ganenco, Head of the Department</p>
   <p>tel.: 022 250-454</p>
   <p>e-mail: luminita.ganenco@gov.md</p>
 source_other_info_1: >-
-  |
   <p>Administrative data</p>
   <p>https://www.legis.md/cautare/getResults?doc_id=17907&lang=ro</p>
   <p>https://www.legis.md/cautare/getResults?doc_id=561&lang=ro</p>

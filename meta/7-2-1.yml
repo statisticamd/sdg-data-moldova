@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Energy from renewable sources means energy produced from renewable non-fossil sources, namely wind energy, solar energy, aerothermal energy, geothermal energy, hydrothermal energy and ocean energy, hydroelectric energy, biomass, biogas, landfill gas, and gas from wastewater treatment installations.</p>
   <p></p>
   <p>Gross energy consumption means energy products supplied for energy purposes to industry, transport, households, services (including public services), agriculture, forestry and fisheries, including the consumption of electricity and thermal energy in the electricity and heat production sector, as well as technological consumption and losses of electricity and thermal energy in electricity and heat networks.</p>
@@ -80,7 +79,6 @@ source_url_1: >-
 source_url_text_1: >-
   Share of renewable energy in gross final energy consumption
 source_contact_1: >-
-  |
   <p>National Center for Sustainable Energy</p>
   <p>office@cned.gov.md</p>
   <p>022-499-444, ex.3</p>

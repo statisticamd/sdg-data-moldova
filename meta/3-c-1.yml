@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>The medical personnel is divided into doctors and paramedical personnel. The  indicator is collected according to the classification ISCO-08.</p>
   <p>Density of medical doctors: The density of medical doctors is defined as the number of medical doctors, including generalists and specialist medical practitioners per 10,000 population in the given national and/or subnational area. The International Standard Classification of Occupations (ISCO) unit group codes included in this category are 221, 2211 and 2212 of ISCO-08.</p>
   <p>Density of nursing and midwifery personnel: The density of nursing and midwifery personnel is defined as the number of nursing and midwifery personnel per 10,000 population in the given national and/or subnational area. The ISCO-08 codes included in this category are 2221, 2222, 3221 and 3222 (nurses and midwives) and also includes other health professionals with vocational training.</p>
@@ -45,7 +44,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) National Agency for Public Health - No.17 “Statistical report on functions  and personnel of medical-sanitary institutions”;</p>
   <p>  2) National Bureau of  Statistics - number of population</p>
 COLL_METHOD: ''

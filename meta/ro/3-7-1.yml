@@ -36,14 +36,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>Pentru anii 2020-2024 - Studiul Generații și Gen (GGS)</p>
   <p>Pentru anul 2012 - MICS 2012</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale</p>
   <p>Agenția Națională pentru Sănătate Publică</p>
 COMPILING_ORG: ''
@@ -68,7 +66,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale</p>
   <p>Agenția Națională pentru Sănătate Publică</p>
 source_periodicity_1: >-

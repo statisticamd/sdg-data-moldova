@@ -50,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Probabilitatea de deces (Probability of dying): Probabilitatea ca o persoană să decedeze între două vârste determinate, având în vedere ratele de mortalitate specifice fiecărei vârste din intervalul respectiv, calculată utilizând metodele tabelelor de mortalitate.</p>
   <p>Tabel de mortalitate (Life table): Un tabel care prezintă experiența de mortalitate a unei cohorte ipotetice de persoane născute în același moment și supuse, pe parcursul întregii vieți, unui set de rate de mortalitate specifice vârstei.</p>
   <p>Bolile cardiovasculare, cancerul, diabetul zaharat sau bolile respiratorii cronice: Cauze de deces de bază clasificate conform ICD-10 prin codurile I00–I99, C00–C97, E10–E14 și J30–J98, sau conform ICD-11 prin codurile 8B00–8B2Z, BA00–BE2Z, 2A00–2F9Z, 5A10–5A2Y, CA20–CA2Z, CA60–CA8Z, CA00–CA0Z, CB00–CB0Z, CB20–CB2Z, CB40, CB41, CB60–CB64 și CB7Z.</p>

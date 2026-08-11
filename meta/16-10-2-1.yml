@@ -37,7 +37,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) administrative data </p>
   <p>  2)  UNESCO's World Trends in Freedom of  Expression & Media Development reports, etc.;</p>
   <p>  3) Experts' analyses: World  Justice Open Government Index </p>
@@ -48,20 +47,17 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. State Chancellery</p>
   <p>2. Ministry of Justice</p>
   <p>3. Ombudsman’s Office</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Parliament </p>
   <p>2. State Chencellery</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>The indicator is calculated based on quantitative and qualitative data, which  are generated based on analysis of existing studies (such as: UNESCO reports  regarding the world trends in freedom of expression and media development,  etc.), administrative data, experts' analyses (for instance: World Justice  Index of Open Government), etc. The following key variables will be  evaluated:</p>
   <p>  1. If the country has constitutional, statutory and/or  political guarantees for public access to information?</p>
   <p>  2. If these  constitutional, statutory and/or political guarantees reflect the well-known  international agreements (for instance, Universal Declaration of Human Rights,  International Covenant on Civil and Political Rights, etc.)?</p>
@@ -81,7 +77,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. State Chancellery</p>
   <p>2. Ministry of Justice</p>
   <p>3. Ombudsman’s Office</p>
@@ -91,11 +86,9 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Cristina Băieșu, Principal Consultant, Human Rights and Cooperation with Civil Society Directorate</p>
   <p>0 22 250 258; cristina.baiesu@gov.md</p>
 source_other_info_1: >-
-  |
   <p>The Ministry of Justice has developed a new draft law on access to information. The new law is to transpose the international standards in the field, namely, the Tromsø Convention, the EU Directive on the reuse of public sector information, the public administration principles of SIGMA, the World Bank standards on the proactive disclosure of public information, etc.</p>
   <p>The draft law on access to information, developed by the Ministry of Justice, was placed for public consultation on the particip.gov.md platform between 09.01.2023-03.02.2023, being adjusted according to the proposals received. The draft law, which comes to improve the legal framework in the Republic of Moldova regarding access to information, was voted in the first reading during the Parliament session of 11.05.2023. The draft law was adopted in final reading by Parliament on 09.06.2023 (Law no. 148/2023 on access to information of public interest). </p>
   <p>A relevant indicator of this indicator is the INDEX OF ACCESS TO INFORMATION: measuring the transparency of public institutions in the Republic of Moldova, a study carried out by Freedom House. In this study, the quality of legislation and the performance of public institutions in ensuring access to information were measured systematically based on a series of criteria and indicators. Through this approach and extensive analysis, the aim was to make an objective and detailed assessment of the situation in the field. The results of the analysis will be reflected in the Index of Access to Information in the Republic of Moldova, which represents an indicator consisting of 3 elements: INDEX OF ACCESS TO INFORMATION LEGISLATIVE FRAMEWORK 1. Correspondence of the legislative framework with international standards, 2. The level of proactive transparency, 3. The efficiency of access to information upon request, WHICH TOGETHER CONSTITUTES 100% OF THE SOURCE (https://freedomhouse.org/sites/default/files/2022-11/fh-Moldova_Access-to-Info-Report-2022_Rom-v2.pdf). In 2021, the first report was published that analyzed the degree of transparency of public institutions in the Republic of Moldova.</p>

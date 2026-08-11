@@ -51,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicatorul se bazează pe cele mai recente date conținute în cadrul Băncii de  date Globale pentru Resursele Animale Domestice FAO/AGAG   DAD-IS la momentul calculării. Clasele de risc sunt  definite în funcție de mărimea populațiilor de rasă raportate în DAD-IS. </p>
   <p>   1) Clasa de risc este considerată ca fiind „necunoscută” dacă (i) populația nu  este raportată sau (ii) cea mai recentă mărime a populației raportate se  referă la anul cu mai mult de 10 ani înainte de anul de calcul (punctul de  întrerupere 10 ani).</p>
   <p>  2) Clasele de risc sunt definite după cum  urmează: indicatorul reprezintă procentul de rase de animale clasificate  ca fiind în risc, care nu sunt expuse riscului sau risc necunoscut de  dispariție într-o perioadă de referință, precum și tendințele acestor  procente.</p>
@@ -69,7 +68,6 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministerul Agriculturii și Industriei Alimentare</p>
   <p>2. Instituții din sfera științei și de învățământ din subordine</p>
 source_periodicity_1: >-

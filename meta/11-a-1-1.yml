@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Many urban related SDGs require global monitoring with the ‘city’ as the unit of analysis. In order to monitor the urban SDGs in particular, it is necessary to agree on a global/common definition of what constitutes a ‘city’. A standard city definition will assist in the monitoring of the SDGs by ensuring that the study areas for the spatial urban SDGs are standardized and easily reproducible, and will add clarity to the methodologies and approaches to the collection of data to support the land and rural related indicators. UN-Habitat in collaboration with New York University and the Joint Research Centre - European Commission has adopted two definitions of cities. </p>
   <p>The definitions are: </p>
   <p>a) City defined by the limit of its built-up area -New York University The Built-up area’ of a city is defined as the contiguous area occupied by buildings and other impervious surfaces including the urban vacant areas in and around them but excluding rural areas beyond the urban fringe. </p>
@@ -42,7 +41,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>There are several data sources that could be used:</p>
   <p>1. Official documents such as National Urban Plan, Frameworks, Strategies, etc. Available in national or regional administrations.</p>
   <p>2. Other supporting tools such as: baseline spatial data mapping, benchmarking, point-of-service surveys, performance monitoring and reporting, gap and</p>
@@ -53,7 +51,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>Ministry of Infrastructure and Regional Development</p>
   <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''

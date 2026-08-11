@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>ODA – în conformitate cu definiția internațională DAC (OECD Development  Assistance Committee) aceasta reprezintă "fluxurile către țări și teritorii  din lista DAC a beneficiarilor de ODA și ale instituțiilor multilaterale care  sunt : (i) furnizate de agenții oficiale, inclusiv de guvernele naționale și  locale sau de agențiile executive ale acestora; și (ii) fiecare tranzacție  este gestionată cu obiectivul principal de promovare a dezvoltării economice  și a bunăstării țărilor în curs de dezvoltare; și este de natură concesională  și transmite un element de grant de cel puțin 25% (calculat la o rată de  reducere de 10%). ( [A se  vedea](http://www.oecd.org/dac/stats/officialdevelopmentassistancedefinitionandcoverage.htm)  ) </p>
   <p>  Asistență externă – asistență financiară și tehnică acordată  Republicii Moldova, Guvernului și/sau altor autorități publice de către  comunitatea creditorilor/donatorilor (art.9 din HG nr. 377 din 25.04.2018, cu  privire la reglementarea cadrului instituțional și mecanismului de coordonare  și management  al asistenței externe).</p>
   <p>  Asistență (cooperare) financiară –  suport financiar sub formă de împrumuturi, granturi, inclusiv livrări de  bunuri și/sau lucrări pentru implementarea proiectelor/programelor;</p>
@@ -48,7 +47,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>Ministerul Dezvoltării Economice și Digitalizării; </p>
   <p>Cancelaria de Stat</p>
 COMPILING_ORG: ''

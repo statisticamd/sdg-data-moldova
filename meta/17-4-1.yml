@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>The gross external debt of the Republic of Moldova, at a given time, is equal to outstanding amount of those actual currently, and not contingent liabilities of residents to non-residents that require payment (s) of principal/or and interest, by the debtor at some point (s) in the future.</p>
   <p>The main components  of the external debt: </p>
   <p>(1) Portfolio investment - debt securities (which include debt securities issued to be placed by residents of Moldova, held by  non-residents, except for the ones held by non-resident parent enterprise / non-resident  branch and state securities issued to be placed on the internal market  of the Republic of Moldova, purchased by non-residents, </p>
@@ -48,7 +47,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Statistics of international accounts, NBM </p>
   <p>2) External debt, NBM</p>
 COLL_METHOD: ''

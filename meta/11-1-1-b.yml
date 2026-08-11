@@ -49,7 +49,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>For calculating the indicator: </p>
   <p>1. Average living floor space per person =  Living floor space / Number of persons living in dwelling;</p>
   <p>2. The number of people living in dwellings whose living area is less than 9 m2 for each person is estimated;</p>

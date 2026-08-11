@@ -47,7 +47,6 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Muncii și Protecției Sociale
 OTHER_METHOD: >-
-  |
   <p>Conform Clasificării Standarde Internaționale a Educației (ISCED), educația este definită ca comunicare organizată și susținută menită să aducă învățarea.</p>
   <p>Educația formală este definită în ISCED ca educație care este instituționalizată, intenționată și planificată prin organizații publice și organisme private recunoscute și, în totalitatea lor, alcătuiește sistemul de educație formal al unei țări.</p>
   <p>Educația non-formală, ca și educația formală, este definită în ISCED ca educație care este instituționalizată, intenționată și planificată de un furnizor de educație, dar este considerată o adăugare, o alternativă și/sau o completare a educației formale.</p>
@@ -63,7 +62,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Corespunde total cu Seria „SL_TLF_NEET_19ICLS - Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]”.</p>
   <p>Indicatorul global se calculează pentru grupa de vârstă 15-24 ani.</p>
   <p>BNS  calculează și pentru grupele de vârstă 15-29 ani și 15-34 ani.</p>

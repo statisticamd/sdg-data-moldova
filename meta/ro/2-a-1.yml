@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Indicele de orientare a cheltuielilor publice spre agricultură  (AOI) mai mare de 1 reflectă o orientare mai mare către sectorul agricol, care primește o pondere mai mare a cheltuielilor guvernamentale/publice în raport cu contribuția sa la valoarea adăugată economică. Un AOI mai mic de 1 reflectă o orientare mai scăzută către agricultură a resurselor bugetare publice, în timp ce un AOI egal cu 1 reflectă neutralitatea într-o orientare a guvernului către sectorul agricol. </p>
   <p>   Termenul "Agricultura" se referă la sectorul agricol, forestier, pescuit și vânătoare sau diviziunea A din Clasificatorul Activităților din Economia Moldovei (CAEM rev.2 .</p>
   <p>   Cheltuieli publice  - cheltuielile conform sistemului clasificației bugetare a Republicii Moldova care din anul 2015 este în corespundere  cu Clasificația funcțiilor guvernului (COFOG) elaborată de către ONU și Clasificația statisticilor financiare guvernamentale (GFS) elaborată de FMI.</p>
@@ -41,26 +40,22 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. Numărător - datele administrative ale Ministerului Finanțelor</p>
   <p>2. Numitor - statistica conturilor naționale, Biroul Național de Statistică</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Ministerul Finanțelor</p>
   <p>2. Biroul Național de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministerul Agriculturii și Industriei Alimentare</p>
   <p>2. Ministerul Finanțelor</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicele este calculat ca o rată dintre două  proporții. Ponderea cheltuielilor pentru agricultură în bugetul public național (BPN), împărțită la ponderea valorii adăugate brute a agriculturii în PIB.</p>
   <p>   Numărător: Raportul cheltuielilor publice pentru agricultură conform clasificației funcționale a cheltuielilor bugetare pe tipuri, la cheltuielile totale ale Bugetului Public Național.</p>
   <p>   Numitor: Ponderea valorii adăugate brute a agriculturii în PIB este măsurată prin raportul dintre valoarea adăugată brută a agriculturii și PIB.</p>

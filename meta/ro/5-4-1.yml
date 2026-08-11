@@ -8,7 +8,6 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  |
   <p>Acest indicator este definit ca proporția de timp petrecută într-o zi pentru munca casnică și de îngrijire neplătite de către bărbați și femei.</p>
   <p>Munca casnică și de îngrijire neplătite se referă la activitățile legate de prestarea de servicii pentru consumul final propriu de către membrii gospodăriei sau de către membrii familiei care locuiesc în alte gospodării.</p>
 SDG_GOAL: ''
@@ -34,7 +33,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Acest indicator este definit ca proporția de timp petrecută într-o zi pentru munca casnică și de îngrijire neplătite de către bărbații și femeile în vârstă de 15 ani și peste .</p>
   <p>Munca casnică și de îngrijire neplătite se referă la activitățile legate de prestarea de servicii pentru consumul final propriu de către membrii gospodăriei sau de către membrii familiei care locuiesc în alte gospodării.</p>
 UNIT_MEASURE: >-
@@ -42,7 +40,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>În 2012 - Cercetarea de sinestătătoare Utilizarea timpului (TUS).</p>
   <p>În 2025 - Cercetarea Utilizarea timpului, modul adițional la Ancheta forței de muncă</p>
 COLL_METHOD: ''
@@ -58,7 +55,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Proporția timpului alocat pentru muncă casnică și de îngrijire neplătite se calculează prin împărțirea numărului de ore alocate în medie pe zi muncii casnice și de îngrijire neplătite la 24 de ore [(Numărul de ore pe zi alocate muncii casnice + Numărul de ore pe zi petrecute la munca de îngrijire) / 24].</p>
   <p>Numărul de ore pe zi alocate  activități relevante = Numărul total de ore alocate de către populație pentru activități relevante / Total populație, indiferent dacă a participat la activitate sau nu.</p>
 DATA_VALIDATION: ''
@@ -68,7 +64,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Pentru indicatorul  global 5.4.1 se recomandă utilizarea (clasificării) ICATUS 2016.</p>
   <p>În 2012 în Moldova a fost utilizată Clasificarea europeană HETUS, 2008.</p>
   <p>Există diferențe în  structura activităților de muncă neplătită între HETUS și ICATUS.</p>

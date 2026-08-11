@@ -6,7 +6,6 @@ META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
-  |
   <p>În conformitate cu prevederile Regulamentul-cadru cu privire la mecanismul de finanțare nerambursabilă a proiectelor organizațiilor necomerciale, aprobat prin Hotărârea Guvernului nr.656/20221 finanțarea de stat poate fi oferită OSC-urilor prin mecanisme precum finanțarea nerambursabilă, contractarea de lucrări și servicii sau prin finanțare cu destinație specială, inclusiv comanda socială, mecanismul de desemnare procentuală și subvenții directe către OSC-uri. Resursele alocate în acest scop sunt prevăzute în bugetul de stat și în bugetele locale. </p>
   <p>În contextul prevederilor hotărârii menționate, orice autoritate a administrației publice centrale sau locale poate deveni autoritate finanțatoare, organizând, în acest scop, anual concursuri publice de finanțare a proiectelor din domeniile de dezvoltare, care pot fi realizate de organizațiile necomerciale.</p>
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Finanțare nerambursabilă – sprijin financiar acordat de stat organizațiilor</p>
   <p>necomerciale pentru implementarea proiectelor conform priorităților de dezvoltare stabilite pentru fiecare domeniu, care este prevăzut în bugetul de stat și în bugetele unităților administrativ-teritoriale</p>
 UNIT_MEASURE: >-
@@ -75,7 +73,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Cristina Băieșu, Consultant principal, Direcția drepturile omului și cooperare cu societatea civilă</p>
   <p>0 22 250 258; cristina.baiesu@gov.md</p>
 source_other_info_1: >-

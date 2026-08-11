@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Datoria externă brută a Republicii Moldova, la o anumită dată, este egală cu  suma tuturor angajamentelor curente efective, necondiționate ale rezidenților față de nerezidenți ce implică pentru debitor una sau mai multe plăți de  principal și / sau de dobândă la unul sau mai multe momente în viitor. </p>
   <p>   Principalele componente ale datoriei externe: </p>
   <p>(1) Investiții de portofoliu -  instrumente de natura datoriei (inclusiv titlurile de angajamente emise de rezidenții Moldovei, deținute de  nerezidenți, cu excepția celor deținute de firme-mamă / filiale nerezidente și a valorilor mobiliare de stat emise pentru a fi plasate pe piața internă a  Republicii Moldova și procurate de către nerezidenți), </p>
@@ -48,7 +47,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Statistica conturilor internaționale, BNM</p>
   <p>2) Datoria externă, BNM</p>
 COLL_METHOD: ''

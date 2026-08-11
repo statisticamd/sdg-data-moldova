@@ -8,7 +8,6 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  |
   <p>This indicator refers to the proportion of females in the total number of persons employed in managerial positions. It is recommended to use two different measures jointly for this indicator:</p>
   <p>- the share of females in (total) management and</p>
   <p>- the share of females in senior and middle management (thus excluding junior management).</p>
@@ -35,7 +34,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Managerial positions are considered = major group 1 according to the  Classification of Occupations </p>
   <p>For higher and medium managerial  positions, the sub-groups 11, 12, 13 (or major group 1 without 14) will be  taken into consideration. The indicator reflects women's capacities to accede  decision-making positions, as well as the level of women's empowering to  participate in decision making </p>
   <p>  .</p>
@@ -58,7 +56,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Proportion of women in managerial position total managerial positions * 100.</p>
   <p>Proportion of women in senior and middle management in total senior and middle management * 100.</p>
 DATA_VALIDATION: ''
@@ -68,7 +65,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Total corresponding with Series „IC_GEN_MGTL_19ICLS - Proportion of women in managerial positions - 19th ICLS (%) [5.5.2]” and „IC_GEN_MGTN_19ICLS - Proportion of women in senior and middle management positions - 19th ICLS</p>
   <p>(%) [5.5.2]”</p>
 OTHER_DOC: ''

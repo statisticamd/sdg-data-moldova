@@ -50,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Probability of dying: The likelihood that an individual would die between two ages given current mortality </p>
   <p>rates at each age in between, calculated using life table methods.  </p>
   <p>Life table: A table showing the mortality experience of a hypothetical group of infants born at the same </p>

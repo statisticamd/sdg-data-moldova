@@ -38,19 +38,16 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. Date administrative,  Inspectoratul General al Poliției, Ministerul Afacerilor Interne</p>
   <p>2. Date demografice privind numărul populației cu reședință obișnuită, BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Inspectoratul General al Poliției al MAI</p>
   <p>2. Biroul Național de  Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministerul Afacerilor Interne</p>
   <p>2. Ministerul Muncii și Protecției Sociale</p>
 OTHER_METHOD: >-

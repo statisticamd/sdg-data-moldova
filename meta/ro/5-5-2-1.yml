@@ -50,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>RfG = NfG / NtotG * 100</p>
   <p>unde: </p>
   <p>RfG  - ponderea femeilor în Guvern în anul de referinţă; </p>
@@ -77,13 +76,11 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Cancelaria de Stat a Republicii Moldova, Direcția resurse umane</p>
   <p>Luminița Ganenco, Șefă a Direcției resurse umane</p>
   <p>tel.: 022 250-454</p>
   <p>e-mail: luminita.ganenco@gov.md</p>
 source_other_info_1: >-
-  |
   <p>Date administrative</p>
   <p>https://www.legis.md/cautare/getResults?doc_id=17907&lang=ro</p>
   <p>https://www.legis.md/cautare/getResults?doc_id=561&lang=ro</p>

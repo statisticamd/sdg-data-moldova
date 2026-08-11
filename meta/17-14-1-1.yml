@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>For the purpose of this methodology ‘policy coherence of sustainable development’ has been interpreted as the coherence between policies in general that cover the dimensions of sustainable development. This indicator is a composite indicator which covers mechanisms related to:</p>
   <p>1. Institutionalization of Political Commitment</p>
   <p>2. Long-term considerations in decision-making</p>
@@ -56,7 +55,6 @@ COMPILING_ORG: ''
 INST_MANDATE: >-
   State Chancellery
 OTHER_METHOD: >-
-  |
   <p>The national mechanisms that ensure the coordination and monitoring the  process of enhancing the coherence of sustainable development policies are the  following: </p>
   <p>- The Interministerial Committee for Strategic Planning (GD. 1070/2023);</p>
   <p>- National Coordination Council for Sustainable Development (GD.  912/2016);</p>
@@ -66,7 +64,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>This indicator includes 8 domains. Each domain is scored on a scale from 0 to 10, where 0 means none of the requested mechanisms are implemented, 10 means all the requested mechanisms are in place.</p>
   <p>The percentage of points out of the total 80 points is then computed for each country.</p>
 DATA_VALIDATION: ''
@@ -92,10 +89,8 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Alina Bacinschi, Principal Consultant, Strategic Planning Department</p>
   <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-
-  |
   <p>National data are collected through the UNEP/OECD Questionnaire on the mechanism in place to enhance policy coherence of sustainable development.</p>
   <p>Data collection, using the UNEP/OECD Questionnaire on the mechanism in place to enhance policy coherence of sustainable development: 2025, 2027, 2029.</p>

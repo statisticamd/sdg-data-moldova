@@ -4,13 +4,11 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations</p>
 META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
-  |
   <p>World Health Organisation (WHO)</p>
   <p>United Nations Children's Fund (UNICEF)</p>
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  |
   <p>The proportion of the population using safely managed sanitation services is defined as the proportion of the population using an improved sanitation facility which is not shared with other households and where excreta are safely disposed of in situ or removed and treated off-site. ‘Improved’ sanitation facilities are those designed to hygienically separate human excreta from human contact. These include wet sanitation technologies such as flush and pour flush toilets connected to sewers, septic tanks or pit latrines, and dry sanitation technologies such as dry pit latrines with slabs, ventilated improved pit latrines and composting toilets.</p>
   <p>  The proportion of the population with basic hygiene services is defined as the proportion of population with a handwashing facility with soap and water available at home. Handwashing facilities may be located within the dwelling, yard or plot. They may be fixed or mobile and include a sink with tap water, buckets with taps, tippy-taps, and jugs or basins designated for handwashing. Soap includes bar soap, liquid soap, powder detergent, and soapy water but does not include ash, soil, sand or other handwashing agents.</p>
 SDG_GOAL: ''
@@ -50,7 +48,6 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministry of Infrastructure and Regional Development </p>
   <p>Ministry of Health</p>
 OTHER_METHOD: >-

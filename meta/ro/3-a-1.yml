@@ -30,7 +30,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Prevalența consumului de tutun este estimată de OMS, în baza studiilor  populaționale desfășurate la nivel național, prin preluarea datelor de pe  paginile web sau primirea bazelor de date de la instituțiile specializate din  țară.</p>
   <p>  Estimările făcute de OMS pentru prevalență sunt (i) standardizate  în funcție de vârstă pentru a îmbunătăți comparabilitatea internațională și  (ii) sunt calculate prin diferite metode.</p>
   <p>  Metadatele globale recomandă  mai multe surse pentru calcularea acestui indicator. Cele mai recente surse de  date disponibile pentru RM:</p>
@@ -41,7 +40,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. STEPS 2013 https://extranet.who.int/ncdsmicrodata/index.php/catalog/230/study-description </p>
   <p>2. STEPS 2021                                         https://www.who.int/europe/publications/i/item/WHO-EURO-2022-6785-46551-67555</p>
 COLL_METHOD: ''

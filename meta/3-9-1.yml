@@ -37,14 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>Statistical data on population mortality by causes of death - National  Agency for Public Health</p>
   <p>Statistical data on population - National  Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>National Agency for Public Health</p>
   <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''
@@ -53,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>The mortality rate attributable to the joint effects of household and ambient air pollution can be expressed as: crude death rate or age-standardized death rate. Crude rates are calculated by dividing the brut number of deaths by the total population (or indicated if a different population group is used, e.g. children under 5 years), while the age-standardized rates adjust for differences in the age distribution of the population by applying the observed age-specific mortality rates for each population to a standard population.</p>
   <p>The SDG indicator 3.9.1 was calculated for the first time according to the international methodology recommended by the WHO, using Integrated Exposure–Response (IER) functions to estimate the relative risk associated with exposure to fine particles PM₂.₅. The attributable fraction (AF) was determined for the main causes of death associated with air pollution: acute lower respiratory tract infections, cerebrovascular diseases, ischemic heart disease, chronic obstructive pulmonary disease (COPD) and lung cancer.</p>
   <p>Evidence from epidemiological studies have shown that exposure to air pollution is linked, among others, to the important underlying causes of death taken into account in this estimate: - Acute lower respiratory infections (estimated in all age groups; ICD-10: J09-J22, P23, U04 ); - Cerebrovascular diseases (stroke) in adults (estimated above 25 years; ICD-10: I60-I69); - Ischaemic heart diseases (IHD) in adults (estimated above 25 years; ICD-10: I20-I25); - Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years; ICD-10: J40-J44); and - Lung cancer in adults (estimated above 25 years; ICD-10: C33-C34).</p>

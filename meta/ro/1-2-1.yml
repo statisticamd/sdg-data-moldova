@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Rata sărăciei absolute reprezintă ponderea populației care trăiește sub pragul sărăciei stabilit la nivel național.</p>
   <p> Pragul absolut al sărăciei reprezintă suma cheltuielilor lunare pentru un set de produse alimentare, bunuri nealimentare și servicii considerată drept sumă minimă necesară unei gospodării pentru a asigura un nivel de trai decent. </p>
   <p>  Pragul absolut a fost stabilit în anul 2006 de către Biroul Național de Statistică conform metodologiei (elaborate în comun de către BNS și Ministerul Economiei), care presupune recalcularea anuală a pragului sărăciei în baza Indicelui Prețurilor de Consum. In anul 2016 metodologia de estimare a indicatorilor sărăciei absolute a fost revizuită și Pragul absolut al sărăciei a fost recalculat.</p>
@@ -50,7 +49,6 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale </p>
   <p>Ministerul Dezvoltării Economice și Digitalizării</p>
   <p>Ministerul Agriculturii și Industriei Alimentare</p>

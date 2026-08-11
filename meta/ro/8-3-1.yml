@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>(Definiție națională) Ocuparea informală include:</p>
   <p>1) Lucrătorii pe cont propriu, care lucrează în întreprinderile sectorului informal;</p>
   <p>2) Patronii, care lucrează la întreprinderile sectorului informal;</p>
@@ -61,7 +60,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>1. Numărul persoanelor ocupate informal raportat la total persoane ocupate.</p>
   <p>2. Numărul persoanelor ocupate informal în sectorul agricol raportat la total persoane ocupate în sectorul agricol.</p>
   <p>3. Numărul persoanelor ocupate informal în sectorul neagricol raportat la total persoane ocupate în sectorul neagricol.</p>
@@ -72,7 +70,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Total corespunde cu Seria „SL_ISV_IFEM_19ICLS - Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]”:</p>
   <p>Definiția națională a ocupării forței de muncă se bazează pe ultimul standard internațional - Rezoluția CISM-19, 2013. Începând cu 2019, persoanele care produc bunuri exclusiv pentru consumul propriu nu fac parte din populația ocupată.</p>
   <p></p>

@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Programul de „Ajutor social” este implementat începând cu anul 2008 și este  alcătuit din două componente de bază – ajutorul social și ajutorul pentru perioada rece a anului. Scopul programului este asigurarea familiilor sărace cu unui venit lunar minim garantat (VLMG), care este stabilit anual prin legea Bugetului de Stat. Eligibilitatea pentru prestațiile din cadrul programului de Ajutor social este determinată în baza Metodologiei de evaluare a venitului global mediu lunar al familiei și necesitatea de asistență socială (un set de indicatori Proxy). (Legea nr. 133/2008 cu privire la ajutorul social).</p>
   <p>Compensaţia la energie sub formă de plată monetară este stabilită conform Regulamentului cu privire la acordarea compensaţiilor la energie sub formă de plată monetară, aprobat prin Hotărârea Guvernului nr. 816/2024.</p>
 UNIT_MEASURE: >-
@@ -48,7 +47,6 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale</p>
   <p>Consiliul Național pentru Determinarea Dizabilității și Capacității de Muncă</p>
   <p>Agenția Națională pentru Ocuparea Forței de Muncă</p>
@@ -57,7 +55,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>P_AJUT_R = Q1_AJUT_R / Q1 * 100</p>
   <p>    unde:</p>
   <p>  P_AJUT_R - ponderea populației in quintila 1 care beneficiază de compensație la energie,          </p>

@@ -38,7 +38,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Agenția Națională pentru Sănătate Publică -Date statistice privind mortalitatea  pe cauze de deces conform certificatului medical constatator al decesului  </p>
   <p>2) Biroul Național  de Statistică-număr născuți vii</p>
 COLL_METHOD: ''
@@ -53,7 +52,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Numărul de copii decedați în anul curent în vârstă de 0 - 27 zile de la  naștere, raportat la 1000 născuți vii în anul de referință.</p>
   <p>  Datele se  bazează pe înregistrarea copiilor nou-născuți cu masa de la 500 gr și de la 22  săptămâni gestație</p>
 DATA_VALIDATION: ''

@@ -51,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicator is based on the most recent data stored in the Global Data Bank for Domestic Animal Resources at the moment of  calculation. The risk classes are defined depending on the size of the breed  populations reported in the DAD-IS. </p>
   <p>1) The risk class is considered to be "unknown” if (i) the population is not  reported or (ii) the most recent size of the reported population refers to the  year over 10 years ago before the year of calculation (the disruption point 10  years).</p>
   <p>  2) The risk classes are defined as follows: indicator represent  the percentage of animal breeds classified as at risk, which are not exposed  to risk or the risk of extinction is not known during a period of reference,  as well as the trends of these shares.</p>
@@ -69,7 +68,6 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministry of Agriculture and Food Industry</p>
   <p>2. Subordinate science and educational institutions</p>
 source_periodicity_1: >-

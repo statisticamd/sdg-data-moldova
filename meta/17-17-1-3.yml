@@ -6,7 +6,6 @@ META_LAST_UPDATE__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
-  |
   <p>In accordance with the provisions of the Framework Regulation on the grant funding mechanism for projects of non-profit organizations, approved by Government Decision No. 656/2022, state funding may be provided to CSOs through mechanisms such as grants, contracting of works and services, or through earmarked funding, including social procurement, the percentage allocation mechanism, and direct grants to CSOs. The resources allocated for this purpose are provided for in the state budget and local budgets. </p>
   <p>In accordance with the provisions of the aforementioned decision, any central or local public administration authority may act as a funding authority, organizing, for this purpose, annual public competitions to fund projects in development areas that can be carried out by non-profit organizations.</p>
 SDG_INDICATOR_INFO__GLOBAL: >-
@@ -33,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Grant funding – financial support provided by the state to nonprofit organizations</p>
   <p>for the implementation of projects in accordance with the development priorities established for each sector, as provided for in the state budget and the budgets of local governments</p>
 UNIT_MEASURE: >-
@@ -75,7 +73,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Cristina Băieșu, Principal Consultant, Human Rights and Cooperation with Civil Society Directorate</p>
   <p>0 22 250 258; cristina.baiesu@gov.md</p>
 source_other_info_1: >-

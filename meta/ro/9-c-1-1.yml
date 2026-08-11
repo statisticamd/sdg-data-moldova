@@ -48,7 +48,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Numărul total de abonați, care au acces la Internet fix sau mobil în bandă largă, raportat la numărul populației  cu resedinta obisnuita la inceputul anului de raportare sau gospodarii * 100. Totodată la calcularea penetrării raportate la 100 de gospodării abonați persoane juridice au fost excluși.</p>
   <p>  Abonat = orice persoană  fizică sau juridică care a încheiat un contract cu furnizorul de servicii  publice de comunicații electronice în vederea furnizării unor asemenea  servicii (Legea comunicațiilor electronice, nr.241 din 15.11.2007); </p>
   <p>   Acces în bandă largă = este definită conform Recomandării I.113 a Sectorului  de standardizare al Uniunii Internaționale a Telecomunicațiilor drept  "capacitatea de transfer de date mai mare decât acea a fluxului primar ISDN,  la 2.0 Mbps". </p>

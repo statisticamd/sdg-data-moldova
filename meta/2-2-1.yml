@@ -58,7 +58,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>For 2012, the indicator is based on data obtained from the nationally representative 2012 Multiple Indicator Cluster Survey (MICS). Beginning in 2021, the indicator has been calculated at the national level using administrative data collected through approved statistical reporting forms, in accordance with the national methodology and the World Health Organization (WHO) Child Growth Standards.</p>
   <p>Due to the lack of information of the number of children under 5 years of age assessed anthropometrically, the average annual population of children under 5 years of age was used. The values ​​obtained represent estimates based on the population of children under 5 years of age and may differ from the indicators calculated according to the standard methodology of the World Health Organization (WHO), which uses the number of children assessed anthropometrically as the denominator.</p>
 OTHER_DOC: ''
@@ -70,7 +69,6 @@ source_active_1: true
 source_organisation_1: >-
   National Agency for Public Health
 source_periodicity_1: >-
-  |
   <p>Annual</p>
   <p>At the global level, modelled estimates are generated annually.</p>
 source_url_1: >-

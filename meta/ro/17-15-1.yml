@@ -36,7 +36,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) [Portalul public al Platformei de gestionare a asistenței externe al  Guvernului](http://amp.gov.md/portal/)</p>
   <p>  2) Cadrul de monitorizare al  Parteneriatului Global (Global Partnership's monitoring Framework)</p>
 COLL_METHOD: ''
@@ -51,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicatorul calculează măsura în care obiectivele, indicatorii de rezultat și  de monitorizare asociați cu noile intervenții de dezvoltare sunt extrase din  sursele guvernamentale, incluzând: instrumentele de planificare națională,  sectorială și locală. Pentru fiecare intervenție de dezvoltare semnificativă  (100.000 dolari SUA sau mai mult) aprobată în cursul anului de referință, sunt  evaluați următorii parametri:</p>
   <p>  Q1. Dacă obiectivele sunt extrase din  cadrele de rezultate, planurile și strategiile guvernării. Unde: </p>
   <p>  0,  Obiectivele nu sunt extrase din cadrele de rezultate, planuri și strategii  implementate de către Guvern; 1, Obiectivele sunt extrase din cadrele de  rezultate, planuri și strategii implementate de către Guvern;</p>
@@ -81,7 +79,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  |
   <p>Alina Bacinschi, consultant principal, Direcția planificare strategică</p>
   <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-

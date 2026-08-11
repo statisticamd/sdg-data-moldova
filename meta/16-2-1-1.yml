@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Violence against children – forms of ill-treatment applied by parents / legal  representatives / caregiver of the child or any other persons, that produce  real or potential  damage to the child's health and endanger child's life,  development, dignity or morality, including the following types of violence:  physical, sexual, psychological, spiritual, economic (p.5 of Annex 1 of the Government  Decision No. 270 of 08.04.2014).</p>
   <p>Neglect of the child - the willful or  involuntary omission or ignorance of responsibilities regarding the upbringing  and education of the child, which endangers his physical, mental, spiritual,  moral or social development, his bodily integrity, his physical or mental  health. Neglect can take many forms of: food, clothing, neglect of hygiene,  medical, educational, emotional, neglect in supervision.</p>
 UNIT_MEASURE: >-
@@ -47,7 +46,6 @@ DATA_SOURCE: >-
   Territorial Social Assistance Structures, Department for child right protection of Chisinau Municipality, Main Department for healthcare and social protection of ATU Gagauzia
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>1. Ministry of Internal Affairs</p>
   <p>2. Ministry Labour and Social Protection</p>
 OTHER_METHOD: >-
@@ -77,7 +75,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Evelina Miron, Main Consultant, Department for Policies for the Protection of Children's Rights and Families with Children, </p>
   <p>e-mail: evelina.miron@social.gov.md, tel. 022 804 452</p>
   <p>Ina Scaticalov,Main Consultant, Department for Policies for the Protection of Children's Rights and Families with Children, </p>

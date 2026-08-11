@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Acordurile bilaterale de securitate socială reprezintă instrumente menite să  asigure un set de garanții sociale și protecție lucrătorilor migranți și  familiilor lor, care desfășoară sau au desfășurat o activitate de muncă și/sau  domiciliază pe teritoriul unuia sau ambelor state contractante.</p>
   <p>Acordurile bilaterale de securitate socială asigură protecție împotriva  următoarelor riscuri sociale (definite conform Convenției ILO nr. 102/1952  privind normele minime de securitate socială): bătrânețe, incapacitate  temporară de muncă, dizabilitate, maternitate, șomaj, pierderea  întreținătorului, deces.</p>
 UNIT_MEASURE: >-
@@ -47,7 +46,6 @@ DATA_SOURCE: >-
   Ministerul  Muncii și Protecției Sociale
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale</p>
   <p>Biroul Relații cu Diaspora</p>
 OTHER_METHOD: >-

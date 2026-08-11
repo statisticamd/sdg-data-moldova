@@ -50,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Number of women aged 15-49 years old, married or in a union, who take  independent decisions regarding sexual relations, contraceptive use and  reproductive health care out of the total number of women aged 15-49 years  old, married or in a union * 100,</p>
   <p>Where:</p>
   <p>Numerator: Number of women  aged 15-49 years old, married or in a union, who meet the following criteria:  </p>
@@ -81,7 +80,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  |
   <p>Aliona Crețu, Head of unit, Demographic policies Service,</p>
   <p>e-mail: aliona.cretu@social.gov.md, tel. 022 804 431</p>
 source_other_info_1: >-

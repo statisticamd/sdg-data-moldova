@@ -35,14 +35,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) UN Inquiry among Governments on Population and Development,  </p>
   <p>  2) UN  DESA Global Survey, module III which refers to migration policies</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>General Inspectorate of Migration</p>
   <p>  General Inspectorate of Border Police</p>
 COMPILING_ORG: ''
@@ -66,7 +64,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1.Permanent Mission of the Republic of Moldova to the United Nations Office in  Geneva </p>
   <p>  2.United Nations Department of Economic and Social Affairs  (UNDESA)</p>
 source_periodicity_1: >-

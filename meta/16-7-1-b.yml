@@ -42,7 +42,6 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>State Chancellery</p>
   <p>National Bureau of Statistics</p>
 COMPILING_ORG: ''

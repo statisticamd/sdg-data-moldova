@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Datele sunt colectate în baza unui chestionar. Procentul atributelor a 15  capacități de bază care au fost obținute la un anumit moment dat în timp și 35 de indicatori. Cele  15 capacități de bază sunt:  Instrumente de politici, legislative și normative pentru implementarea RSI; Coordonarea RSI, funcțiile Punctului Focal Național RSI și advocacy; Finanțare; Laborator; Supraveghere; Resurse umane; Managementul urgențelor de sănătate; Furnizarea serviciilor de sănătate; Prevenirea și controlul infecțiilor (IPC); Comunicarea riscurilor și implicarea comunității (RCCE); Puncte de intrare (PoE) și sănătate la frontieră; Boli zoonotice; Siguranța alimentelor; Evenimente chimice; Urgențe radiologice.         </p>
   <p>Din 2021 un nou SPAR chestionar a fost aplicat ( [IHR  State Party Self-Assessment Annual Reporting tool  (SPAR)](https://extranet.who.int/sph/spar))</p>
 UNIT_MEASURE: >-
@@ -40,7 +39,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Chestionar privind informațiile cheie - OMS (Instrument electronic de raportare anuală de autoevaluare a statelor părți (e-SPAR))</p>
   <p>2) Date administrative  -  Agenția Națională pentru Sănătate Publică</p>
 COLL_METHOD: ''
@@ -50,7 +48,6 @@ DATA_SOURCE: >-
   Agenția Națională pentru Sănătate Publică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Organizația Mondială a Sănătății</p>
   <p>Ministerul Sănătății</p>
 OTHER_METHOD: >-

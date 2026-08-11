@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Conform definițiilor OMS, intoxicațiile neintenționate pot fi cauzate de  substanțe chimice casnice, pesticide, kerosen, monoxid de carbon și  medicamente sau pot fi rezultatul contaminării mediului sau al expunerii  chimice profesionale. Acest indicator reflectă nivelul gestionării  adecvate a substanțelor chimice periculoase, a poluării și a eficacității  sistemului de sănătate al unei țări.</p>
   <p>La calculul indicatorului sunt incluse decesele înregistrate cu următoarele coduri din Clasificarea Internațională a Maladiilor, revizia a X-a (ICD-10): X40, X43 și X46–X49.</p>
 UNIT_MEASURE: >-

@@ -37,14 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. Automated Information System “State Register of Firearms”, General Police Inspectorate of the MIA</p>
   <p> 2. Demographic data on number of population, NBS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1.General Police Inspectorate of the Ministry of Internal Affairs</p>
   <p>2.National Bureau of Statistics</p>
 COMPILING_ORG: ''

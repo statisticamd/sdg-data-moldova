@@ -47,7 +47,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>R(f) = N(f_fp) / N(tot_fp) * 100</p>
   <p>where: </p>
   <p>R(f)  - the share of women in public service</p>
@@ -75,7 +74,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to source
 source_contact_1: >-
-  |
   <p>State Chancellery, Public service management department,Cristina Lesan, principal consultant, tel.: 022 250-252</p>
   <p>e-mail: cristina.lesan@gov.md</p>
 source_other_info_1: >-

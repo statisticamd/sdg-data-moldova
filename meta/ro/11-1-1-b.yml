@@ -49,7 +49,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Pentru calcularea indicatorului: </p>
   <p>1. Se estimează Suprafața locuibilă medie pe o persoană = Suprafața locuibilă / Numărul persoanelor care trăiesc în locuința; </p>
   <p>2. Se estimează Numărul persoanelor care trăiesc în locuințe a căror suprafață locuibilă este sub 9 m2 pentru fiecare persoană;</p>

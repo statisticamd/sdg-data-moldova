@@ -51,7 +51,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Indicatorul este alcătuit din două componente care sunt calculate separat.</p>
   <p>  1) Resurse  genetice vegetale: numărul total de probe unice de resurse genetice ale  plantelor asigurate de instalații de conservare pe termen mediu și lung. </p>
   <p>   Acesta trebuie să includă toate eșantioanele din colecțiile de bază și eșantioanele unice stocate în instalații de conservare pe termen mediu ca colecții active numai atunci când aceste probe sunt considerate parte a  colecțiilor de bază naționale. Colecțiile de bază pot include atât colecții de semințe, câmp, crioprezervate, cât și in vitro, în funcție de speciile  păstrate și de facilitățile disponibile în țară.</p>
@@ -70,7 +69,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1. Ministerul Agriculturii și Industriei Alimentare</p>
   <p>2. Instituții din sfera științei și de învățământ din subordine</p>
 source_periodicity_1: >-

@@ -49,7 +49,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Total number of subscribers with access to fixed broadband Internet, out of  the total number of population with usual residence at the beginning of the reporting year * 100. </p>
   <p>  Subscriber = any individual or  legal entity which has concluded a contract with a provider of electronic  communication public services for provision of such services (Law on  Electronic Communications, no. 241 of 15.11.2007); </p>
   <p>  Broadband access  =  is defined according to Recommendation I.113 of the Standardization Sector of  the International Telecommunications Union as "capacity of data transfer  higher than the primary flow ISDN, at 2.0 Mbps". </p>

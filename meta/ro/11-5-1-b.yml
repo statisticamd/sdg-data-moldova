@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Indicatorul Persoane dispărute fără urmă in urma situațiilor excepționale  măsoară numărul de persoane ale căror locații nu sunt cunoscute de la momentul  producerii situației excepționale. Aceasta include persoanele presupuse a fi  decedate, pentru care nu există dovezi fizice și pentru care a fost depus un  raport oficial / legal privind dispariția persoanei la autoritățile  competente. 42 ore după situația excepțională - este perioada maximă în care  unei persoane i se poate aplica statutul de persoană dispărută sau presupusă  decedată. </p>
   <p>Situații excepționale se vor considera: cu caracter tehnogen,  natural și biologico-social. Situațiile excepționale se împart în următoarele  tipuri: de obiect, locale, teritoriale, naționale și transfrontaliere (HG  1076/16.11.2010).</p>
 UNIT_MEASURE: >-
@@ -39,14 +38,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) date administrative ale Inspectoratului General pentru Situații de  Urgenta</p>
   <p>  2) statistica populației produsa de BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1)  Inspectoratul General pentru Situații de Urgență</p>
   <p>  2) Biroul Național  de Statistică</p>
 COMPILING_ORG: ''
@@ -73,7 +70,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1) Inspectoratul General pentru Situații de Urgență</p>
   <p>  2) Biroul Național de  Statistică</p>
 source_periodicity_1: >-

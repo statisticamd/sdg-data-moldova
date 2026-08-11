@@ -36,7 +36,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) Public portal of the [Foreign Assistance Management  Platform](http://amp.gov.md/portal/) of the Government</p>
   <p>  2) The Global  Partnership's monitoring framework</p>
 COLL_METHOD: ''
@@ -51,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>The indicator calculates the extent to which the objectives, results-based  indicator and monitoring indicators related to the new development  interventions are extracted from governmental sources, including: national,  sector and local planning tools. For every significant development  intervention (100.000 USD or more) approved during the year of reference, the  following parameters are assessed:</p>
   <p>  Q1. If the objectives are extracted  from the results frameworks, government plans and strategies. where: </p>
   <p>  0,  Objectives are not extracted from the results frameworks, plans and strategies  implemented by the Government; 1, Objectives are extracted from results  frameworks, plans and strategies implemented by the Government;</p>
@@ -81,7 +79,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  |
   <p>Alina Bacinschi, Principal Consultant, Strategic Planning Department</p>
   <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-

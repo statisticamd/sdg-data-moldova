@@ -36,7 +36,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>Report: Financial soundness indicators</p>
   <p>Report: Information on economic-financial activity of the banks in the RM -  NBM</p>
 COLL_METHOD: ''
@@ -51,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Financial stability is measured through seven indicators that are calculated separately:</p>
   <p>   (1) Ratio of Tier 1 own funds to total assets;</p>
   <p>   I0 The tier 1 own funds to total assets. This ratio is calculated using Basic (Tier 1) own funds as the numerator and total assets as the denominator. The data are compiled in accordance with the guidelines of Basel I or Basel II, and from the second quarter of 2018 - according to Basel III.</p>

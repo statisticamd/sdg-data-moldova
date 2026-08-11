@@ -37,14 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) date administrative ale Inspectoratului General pentru Situații de  Urgenta</p>
   <p>  2) statistica populației produsa de BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1)  Inspectoratul General pentru Situații de Urgență</p>
   <p>  2) Biroul Național  de Statistică</p>
 COMPILING_ORG: ''
@@ -54,7 +52,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Formula de calcul: B1=(B2+B3+B4+B5+B6)/total populație*100.000. </p>
   <p>  Unde:   Persoane afectate de situații excepționale (B1) vor include: </p>
   <p>  (B2)  Numărul de persoane TRAUMATE sau bolnave din cauza unor situații excepționale  - DISPONIBIL; </p>
@@ -69,7 +66,6 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  |
   <p>Indicatorul național reprezintă o parte din indicatorul global.</p>
   <p>  (B6)  Numărul de persoane care au primit / au solicitat ajutor alimentar (inclusiv  alimente și non-alimentare), ajutor medical din cauza unor  situații  excepționale - NU se colecteaza, dar în schimb se colectează numarul de  persoane la care au fost afectate condițtiile de activitate vitală</p>
 OTHER_DOC: ''
@@ -79,7 +75,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1) Inspectoratul General pentru Situații de Urgență</p>
   <p>  2) Biroul Național de  Statistică</p>
 source_periodicity_1: >-

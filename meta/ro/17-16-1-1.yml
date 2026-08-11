@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Scopul indicatorului este măsurarea calității și eficienței parteneriatelor  pentru dezvoltare. Se consideră că țara raportează progrese atunci când pe  parcursul anului de referință, numărul de indicatori din cadrul naționalizat  ODD care arată tendințe pozitive este mai mare decât numărul indicatorilor  care prezintă o dinamică negativă. Progresul este raportat atât de țară în  calitate de beneficiar al asistenței/suportului în cadrul cooperării, cât și  de către țările care oferă acest suport/asistența.</p>
   <p>  Republica Moldova în  calitate de țară beneficiară de finanțare externă, care raportează, este  evaluată prin intermediul următoarelor elemente:</p>
   <p>  1. Să conducă la stabilirea priorităților naționale: țara își consolidează cadrul național de  rezultate.</p>
@@ -46,7 +45,6 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) [Portalul public al Platformei de gestionare a asistenței externe al  Guvernului](http://amp.gov.md/portal/)</p>
   <p>  2) Rapoartele de țară a  donatorilor</p>
   <p>  3) [Cadrul de Monitorizare a Parteneriatului Global pentru   Dezvoltare  Durabilă](https://www.effectivecooperation.org/system/files/2020-06/20170510%20Monitoring%20Framework%20Review%20Strategy%20%2801%20June%202017%29.pdf)</p>
@@ -83,7 +81,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Alina Bacinschi, consultant principal, Direcția planificare strategică</p>
   <p>0 22 250 343, alina.bacinschi@gov.md</p>
 source_other_info_1: >-

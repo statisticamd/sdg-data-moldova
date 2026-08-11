@@ -50,7 +50,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Numărul femeilor în vârstă de 15-49 ani căsătorite sau într-o uniune care iau  decizii independente cu privire la relațiile sexuale, utilizarea  contracepției, sănătatea sexuală și reproductivă raportat la numărul total al  femeilor în vârstă de 15-49 ani căsătorite sau într-o uniune * 100,</p>
   <p>Unde:</p>
   <p>Numărătorul: Numărul femeilor în vârstă de 15-49 ani căsătorite sau  într-o uniune care îndeplinesc următoarele criterii: </p>
@@ -81,7 +80,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Aliona Crețu, Șefă serviciu, Serviciul Politici Demografice,</p>
   <p>e-mail: aliona.cretu@social.gov.md, tel. 022 804 430</p>
 source_other_info_1: >-

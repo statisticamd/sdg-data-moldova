@@ -8,7 +8,6 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  |
   <p>Proporția persoanelor care trăiesc sub 50% din venitul (sau consumul) median este ponderea (%) populației unei țări care trăiește cu mai puțin de jumătate din nivelul de consum/venit al medianei venitului/distribuției consumului național.</p>
   <p>  Indicatorul este măsurat folosind măsura bunăstării pe cap de locuitor a consumului sau venitului. Indicatorul este calculat prin estimarea ponderii populației dintr-o țară care trăiește cu mai puțin de 50% din mediana distribuției naționale a venitului sau a consumului, estimată din datele cercetării.</p>
   <p>  Venitul sau consumul pe cap de locuitor este estimat utilizând venitul sau consumul total al gospodăriei împărțit la mărimea totală a gospodăriei.</p>
@@ -35,7 +34,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Proporția persoanelor care trăiesc sub 50% din cheltuielile de consumul mediane.</p>
   <p>Mediana reprezintă acea valoare a unei serii ordonate crescător sau descrescător care împarte seria în două părți egale.</p>
   <p>Nota: Acest indicator poate fi estimat si după venituri disponibile.</p>
@@ -52,7 +50,6 @@ DATA_SOURCE: >-
   Biroul Național de Statistică
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministerul Muncii și Protecției Sociale </p>
   <p>Ministerul Dezvoltării Economice și Digitalizării</p>
   <p>Ministerul Agriculturii și Industriei Alimentare</p>
@@ -63,7 +60,6 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  |
   <p>Pentru calcularea indicatorului: </p>
   <p>1. Se estimează 50% din mediana cheltuielilor de consum medii lunare pe o persoană;</p>
   <p>2. Se estimează proporția persoanelor care trăiesc sub acest prag relativ = Numărul persoanelor cu cheltuielile de consum medii lunare pe o persoană mai mici decât 50% din mediana cheltuielilor de consum medii lunare pe o persoană / Numărul total al populației * 100.</p>

@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>According to WHO definitions, unintentional poisoning may because by domestic  chemical substances, pesticides, kerosene, carbon monoxide and medicines or  may be the result of environment contamination or of occupational chemical  exposure. This indicator reflects the level of adequate management of harmful  chemical substances, pollution and efficiency of health system of a country.</p>
   <p>The calculation of the indicator includes deaths registered with the following codes from the International Classification of Diseases, 10th revision (ICD-10): X40, X43 and X46–X49.</p>
 UNIT_MEASURE: >-

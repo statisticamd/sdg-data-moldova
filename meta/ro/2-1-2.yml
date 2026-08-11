@@ -32,7 +32,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>Indicatorul (împreuna cu rata de malnutriție) se folosește pentru măsurarea deprivarii alimentare si este compilat de către FAO. Pentru a efectua calculele indicatorului pentru Republica Moldova, BNS va furniza către FAO datele la nivel național colectate in cadrul modulului FIES (8 întrebări de tip 'Da/Nu') (prin integrare în chestionarele CBGC sau complementarea chestionarelor CBGC cu întrebările-lipsa) [a se vedea](http://www.fao.org/3/a-be898r.pdf - rusa).</p>
   <p>  Indicatorii FIES pot genera informații dezagregate pentru a identifica grupurile de populație cele mai afectate de insecuritatea alimentară, cat si poate fi folosit pentru a evalua factorii care determină insecuritatea alimentară.</p>
   <p>  Prevalenta insecurității alimentare este moderata sau severa, si severa.</p>
@@ -49,7 +48,6 @@ DATA_SOURCE: >-
   Organizația pentru Alimentație și Agricultură a Națiunilor Unite (FAO)
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  |
   <p>Ministerul Sănătății</p>
   <p>Ministerul Agriculturii și Industriei Alimentare</p>
 OTHER_METHOD: >-

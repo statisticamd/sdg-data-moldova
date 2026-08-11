@@ -31,7 +31,6 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  |
   <p>The Indicator Persons who have disappeared without a trace as a result of  disaster measures the number of persons whose location are not known at the  moment when the disaster occurred. It includes the persons allegedly dead,  because there are no physical evidence and for whom an official / legal report  was submitted regarding the disappearance of the persons to the competent  authorities. 42 hours after the disaster - is the maximum period during which  a person may be applied the status of disappeared person or allegedly  dead.</p>
   <p>  Disasters are man-made, natural and biological-social. Disasters  are divided by types in: object, local, territorial, national and trans-border  (GD 1076/16.11.2010).</p>
 UNIT_MEASURE: >-
@@ -39,14 +38,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1) administrative data of the General Inspectorate for Emergency Situations  </p>
   <p>2) population statistics produced by NBS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1.General Inspectorate for Emergency Situations</p>
   <p>2.National Bureau of  Statistics</p>
 COMPILING_ORG: ''
@@ -73,7 +70,6 @@ un_designated_tier: >-
   1
 source_active_1: true
 source_organisation_1: >-
-  |
   <p>1.General Inspectorate for Emergency Situations</p>
   <p>2.National Bureau of  Statistics</p>
 source_periodicity_1: >-

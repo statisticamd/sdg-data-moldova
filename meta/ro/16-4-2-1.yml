@@ -37,14 +37,12 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  |
   <p>1. Sistemul informaţional automatizat„Registrul de stat al armelor”, Inspectoratul General al Poliției, MAI</p>
   <p>2. Date demografice privind numărul populației, BNS</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  |
   <p>1. Inspectoratul General al Poliției al MAI</p>
   <p>2. Biroul Național de  Statistică</p>
 COMPILING_ORG: ''
@@ -77,7 +75,6 @@ source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date
 source_contact_1: >-
-  |
   <p>Ion Țurcan, Șef al Direcției supraveghere armament și activități licențiate al Inspectoratului Național de Securitate Publică al IGP</p>
   <p>email ion.turcan_dgsp@igp.gov.md , tel. 076745660</p>
 source_other_info_1: >-
