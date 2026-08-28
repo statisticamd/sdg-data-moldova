@@ -31,8 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The indicator represents the share of pupils in last grade of secondary  education who exceed a predetermined level of competence (pre-set according to  PISA methodology) in a certain subject.</p> 
-  <p>  The indicator should reflect the  results of pupils' evaluation in the Programme for International Student  Assessment OECD (PISA), which takes places once per 3 years. </p>
+  <p>The indicator represents the share of pupils in last grade of secondary  education who exceed a predetermined level of competence (pre-set according to  PISA methodology) in a certain subject.</p>
+  <p>  The indicator should reflect the  results of pupils' evaluation in the Programme for International Student  Assessment OECD (PISA), which takes places once per 3 years.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''

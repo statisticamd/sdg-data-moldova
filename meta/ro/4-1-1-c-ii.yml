@@ -31,8 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Indicatorul reprezintă  procentul  elevilor din ultima clasă a învățământului  gimnazial care depășește un nivel predeterminat de competență (prestabilit  conform metodologiei PISA) într-un anumit subiect.</p> 
-  <p>  Indicatorul reflectă  rezultatele evaluării elevilor în cadrul Programului de evaluare  internațională a elevilor OECD (PISA), care se desfășoară o dată la 3 ani. </p>
+  <p>Indicatorul reprezintă  procentul  elevilor din ultima clasă a învățământului  gimnazial care depășește un nivel predeterminat de competență (prestabilit  conform metodologiei PISA) într-un anumit subiect.</p>
+  <p>  Indicatorul reflectă  rezultatele evaluării elevilor în cadrul Programului de evaluare  internațională a elevilor OECD (PISA), care se desfășoară o dată la 3 ani.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
