@@ -1,9 +1,9 @@
 composite_breakdown_label: ''
 computation_units: Procent, %
 copyright: ''
-data_footnote: |
-  <p>Indicatorul a fost recalculat conform noii metodologii, în conformitate cu cerințele internaționale și recomandările Organizației Mondiale a Sănătății (OMS), fiind aliniat la standardele internaționale de calcul și comparabilitate a datelor.</p>
+data_footnote: <p>Indicatorul a fost recalculat conform noii metodologii, în conformitate cu cerințele internaționale și recomandările Organizației Mondiale a Sănătății (OMS), fiind aliniat la standardele internaționale de calcul și comparabilitate a datelor.</p>
   <p>Indicatorul calculat conform metodologiei anterioare reprezenta raportul dintre numărul de decese cauzate de aceste boli și populația cu vârsta cuprinsă între 30 și 70 de ani, exprimat la 100 000 de locuitori. Acest indicator reflectă rata mortalității în grupul de vârstă 30–70 de ani și nu probabilitatea de deces prematur utilizată în metodologia actuală.</p>
+  <p>Datele pot include unele înregistrări din partea stângă a Nistrului și din municipiul Bender.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -34,7 +34,7 @@ indicator_tabs::
   tab_2: ''
   tab_3: ''
   tab_4: ''
-national_geographical_coverage: Republica Moldova
+national_geographical_coverage: Republica Moldova, fără partea stângă a Nistrului și mun. Bender
 page_content: ''
 permalink: ''
 placeholder: ''

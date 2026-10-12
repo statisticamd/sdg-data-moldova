@@ -1,7 +1,8 @@
 composite_breakdown_label: ''
 computation_units: la 1000 născuți vii
 copyright: ''
-data_footnote: Datele pe mediii de reședință (urban/rural) pentru anii 2024-2025 nu sunt disponibile.
+data_footnote: <p>Datele pe mediii de reședință (urban/rural) pentru anii 2024-2025 nu sunt disponibile.</p>
+  <p>Datele pot include unele înregistrări din partea stângă a Nistrului și din municipiul Bender.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''

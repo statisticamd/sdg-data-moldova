@@ -37,7 +37,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  National Agency for Public Health-Statistical data on mortality by causes of death according to the medical certificate of death                                                                                                                                                                                                                                                                                                                National Bureau of Statistics - number of usual resident population
+  1) National Agency for Public Health, Information System “Medical Certification of Birth and Death” (eCMND).                                                                                                                                                                                                                                                                                                             2) National Bureau of Statistics - number of usual resident population
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
