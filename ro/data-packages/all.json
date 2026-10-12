@@ -7142,6 +7142,66 @@
             "title": "Grupa de vârstă"
           },
           {
+            "name": "Area of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Mediu de reședință"
+          },
+          {
+            "name": "Districts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mun. Chișinău",
+                "Nord",
+                "mun. Bălți",
+                "Briceni",
+                "Dondușeni",
+                "Drochia",
+                "Edineț",
+                "Fălești",
+                "Florești",
+                "Glodeni",
+                "Ocnița",
+                "Râșcani",
+                "Sângerei",
+                "Soroca",
+                "Centru",
+                "Anenii Noi",
+                "Călărași",
+                "Criuleni",
+                "Dubăsari",
+                "Hâncești",
+                "Ialoveni",
+                "Nisporeni",
+                "Orhei",
+                "Rezina",
+                "Strășeni",
+                "Șoldănești",
+                "Telenești",
+                "Ungheni",
+                "Sud",
+                "Basarabeasca",
+                "Cahul",
+                "Cantemir",
+                "Căușeni",
+                "Cimișlia",
+                "Leova",
+                "Ștefan Vodă",
+                "Taraclia",
+                "UTA Găgăuzia",
+                ""
+              ]
+            },
+            "title": "Raioane"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
