@@ -37,18 +37,18 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Numărul beneficiarilor de indemnizație de șomaj  - CNAS (începând cu 10.02.2019)</p> 
-  <p>Numărul șomerilor înregistrați - ANOFM </p>
+  <p>Numărul beneficiarilor de indemnizație de șomaj  - CNAS (începând cu 10.02.2019)</p>
+  <p>Numărul șomerilor înregistrați - ANOFM</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> Casa Națională de Asigurări Sociale</p> 
-  <p>Agenția Națională pentru  Ocuparea Forței de Muncă </p>
+  <p>Casa Națională de Asigurări Sociale</p>
+  <p>Agenția Națională pentru  Ocuparea Forței de Muncă</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministerul Muncii și Protecției Sociale</p> 
-  <p>Agenția Națională  pentru Ocuparea Forței de Muncă </p>
+  <p>Ministerul Muncii și Protecției Sociale</p>
+  <p>Agenția Națională  pentru Ocuparea Forței de Muncă</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -68,8 +68,8 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> Casa Națională de Asigurări Sociale (CNAS)</p> 
-  <p>Agenția Națională pentru  Ocuparea Forței de Muncă (ANOFM) </p>
+  <p>Casa Națională de Asigurări Sociale (CNAS)</p>
+  <p>Agenția Națională pentru  Ocuparea Forței de Muncă (ANOFM)</p>
 source_periodicity_1: >-
   anual
 source_url_1: >-

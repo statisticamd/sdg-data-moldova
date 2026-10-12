@@ -1,7 +1,8 @@
 composite_breakdown_label: ''
 computation_units: Procent, %
 copyright: ''
-data_footnote: ''
+data_footnote: <p>Datele cu privire la numărul pensionarilor includ și beneficiarii ale căror pensii  se transferă peste hotare conform acordurilor bilaterale, precum și beneficiari care primesc pensii dar de fapt nu fac parte din populația cu reședință obișnuită, fapt ce explică depășirea ponderii de 100%.</p>
+  <p>Începând cu anul 2023 în calcul este utilizat numărul populației cu reședință obișnuită estimat în baza rezultatelor Recensământului Populației și al Locuințelor din anul 2024.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -23,6 +24,7 @@ graph_target_lines: []
 graph_title: national_indicators.1-3-1-a-graph
 graph_titles: []
 graph_type: line
+indicator_available: national_indicators.1-3-1-a-title
 indicator_name: national_indicators.1-3-1-a-title
 indicator_number: 1.3.1.a
 indicator_tabs:: 

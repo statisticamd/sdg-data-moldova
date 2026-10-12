@@ -37,18 +37,18 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> Number of beneficiaries of unemployment allowance - NHIH  (starting with  10.02.2019)</p> 
-  <p>Number of registered unemployed - NEA </p>
+  <p>Number of beneficiaries of unemployment allowance - NHIH  (starting with  10.02.2019)</p>
+  <p>Number of registered unemployed - NEA</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> National Health Insurance House</p> 
-  <p>National Employment Agency </p>
+  <p>National Health Insurance House</p>
+  <p>National Employment Agency</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Labour and Social Protection</p> 
-  <p>National Employment  Agency </p>
+  <p>Ministry of Labour and Social Protection</p>
+  <p>National Employment  Agency</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -68,8 +68,8 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> National Health Insurance House (NHIH)</p> 
-  <p>National Employment Agency (NEA) </p>
+  <p>National Health Insurance House (NHIH)</p>
+  <p>National Employment Agency (NEA)</p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-

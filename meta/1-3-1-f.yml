@@ -31,28 +31,28 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Benefits for work accidents and occupational diseases - social payments  provided according to the legislation in force (Law No. 756/1999, Law No.  289/2004 and GD No. 108/2005) to insured persons to compensate the work  incapacity caused by a work accident and/or occupational disease. </p> 
-  <p>  The  insured people are entitled to the following benefits and insurance  allowances:</p> 
-  <p>  a) benefits for medical rehabilitation;</p> 
-  <p>  b) benefits for  workability recovery;</p> 
-  <p>  c) benefits for occupational rehabilitation;</p> 
-  <p>  d) allowance for temporary work incapacity;</p> 
-  <p>  e) allowance for temporary  transfer to another job;</p> 
-  <p>  f) disability allowance;</p> 
-  <p>  g) death  allowance. </p>
+  <p>Benefits for work accidents and occupational diseases - social payments  provided according to the legislation in force (Law No. 756/1999, Law No.  289/2004 and GD No. 108/2005) to insured persons to compensate the work  incapacity caused by a work accident and/or occupational disease. </p>
+  <p>  The  insured people are entitled to the following benefits and insurance  allowances:</p>
+  <p>  a) benefits for medical rehabilitation;</p>
+  <p>  b) benefits for  workability recovery;</p>
+  <p>  c) benefits for occupational rehabilitation;</p>
+  <p>  d) allowance for temporary work incapacity;</p>
+  <p>  e) allowance for temporary  transfer to another job;</p>
+  <p>  f) disability allowance;</p>
+  <p>  g) death  allowance.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Information System “Social Protection” (Forms 670 and 672: Report on Temporary Work Incapacity Allowance), NOSI;</p> 
-  <p>2. Labour Force Survey (Number of employed persons), NBS. </p>
+  <p>1. Information System “Social Protection” (Forms 670 and 672: Report on Temporary Work Incapacity Allowance), NOSI;</p>
+  <p>2. Labour Force Survey (Number of employed persons), NBS.</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. National Office of Social Insurance </p> 
-  <p>2. National Bureau of Statistics </p>
+  <p>1. National Office of Social Insurance </p>
+  <p>2. National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministry of Labour and Social Protection
@@ -60,7 +60,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  The number of persons receiving benefits for temporary incapacity to work caused by occupational accidents and diseases, disability benefits, and death benefits, relative to the total employed population × 100.
+  The number of persons receiving benefits for temporary incapacity to work caused by occupational accidents and diseases, disability benefits, and death benefits, as of January 1st of the reference year, relative to the total employed population × 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -75,16 +75,16 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. National Office of Social Insurance (Law no.311/2018 amended art.5 of Law no.289/2004 on allowances for temporary incapacity for work and other social security benefits. Respectively, data are available in the NOSI informational system starting from 01.07.2019, until 30.06.2019 the allowances for temporary incapacity for work were established and paid by employers at the workplace).</p> 
-  <p>2. National Bureau of Statistics </p>
+  <p>1. National Office of Social Insurance (Law no.311/2018 amended art.5 of Law no.289/2004 on allowances for temporary incapacity for work and other social security benefits. Respectively, data are available in the NOSI informational system starting from 01.07.2019, until 30.06.2019 the allowances for temporary incapacity for work were established and paid by employers at the workplace).</p>
+  <p>2. National Bureau of Statistics</p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
 source_contact_1: >-
-  <p> Liliana Vinteniuc, Acting Head of the Statistics and Organizational Expenditure Division, National Office of Social Insurance,</p> 
-  <p>e-mail: liliana.vinteniuc@cnas.gov.md, tel. +373 22 257 674.</p> 
-  <p>Nadejda Cojocari, Head of the Social Services Statistics Division, National Bureau of Statistics</p> 
-  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. +373 67 770 651. </p>
+  <p>Liliana Vinteniuc, Acting Head of the Statistics and Organizational Expenditure Division, National Office of Social Insurance,</p>
+  <p>e-mail: liliana.vinteniuc@cnas.gov.md, tel. +373 22 257 674.</p>
+  <p>Nadejda Cojocari, Head of the Social Services Statistics Division, National Bureau of Statistics</p>
+  <p>e-mail: nadejda.cojocari@statistica.gov.md, tel. +373 67 770 651.</p>
 source_other_info_1: >-
