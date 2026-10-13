@@ -13,9 +13,9 @@ target_id: >-
   17.18
 SDG_TARGET: ''
 GOAL_META_LINK: >-
-  http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-17.pdf
+  https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-01.pdf
 GOAL_META_LINK_TEXT: >-
-  United Nations Sustainable Development Goals Metadata (pdf 468kB)
+  United Nations Sustainable Development Goals Metadata
 SDG_INDICATOR: >-
   <p>Indicator 17.18.1.1: Proportion of sustainable development indicators produced at the  national level</p>
 SDG_SERIES_DESCR: ''
@@ -42,8 +42,8 @@ COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.Other producers of official statistics </p>
+  <p>1.National Bureau of Statistics</p>
+  <p>  2.Other producers of official statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   State Chancellery
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-
