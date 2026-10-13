@@ -31,8 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Ape uzate – ape ce provin din activităţi casnice, sociale și economice, conţinând poluanţi sau reziduuri care îi alterează caracteristicile fizice, chimice şi bacteriologice iniţiale.</p> 
-  <p>Epurare  suficientă - epurarea apelor prin orice proces și/sau sistem,  care după evacuarea apelor uzate permite receptorilor să întrunească  obiectivele relevante de calitate prevăzute în normele tehnice și în avizele  și autorizațiile de gospodărire a apelor în vigoare. </p>
+  <p>Ape uzate – ape ce provin din activităţi casnice, sociale și economice, conţinând poluanţi sau reziduuri care îi alterează caracteristicile fizice, chimice şi bacteriologice iniţiale.</p>
+  <p>Epurare  suficientă - epurarea apelor prin orice proces și/sau sistem,  care după evacuarea apelor uzate permite receptorilor să întrunească  obiectivele relevante de calitate prevăzute în normele tehnice și în avizele  și autorizațiile de gospodărire a apelor în vigoare.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''

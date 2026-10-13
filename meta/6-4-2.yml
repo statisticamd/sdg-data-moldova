@@ -31,8 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Proportion of total volume of water withdrawal by economy sectors out of total  resources of water. </p> 
-  <p> Water withdrawal from natural water bodies for use - extracting water from surface and underground water bodies for the purpose of subsequent water consumption. </p>
+  <p>Proportion of total volume of water withdrawal by economy sectors out of total  resources of water. </p>
+  <p> Water withdrawal from natural water bodies for use - extracting water from surface and underground water bodies for the purpose of subsequent water consumption.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''

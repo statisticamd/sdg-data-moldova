@@ -31,23 +31,23 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Eficiența apei utilizate este definită ca volumul de apă utilizată raportat la  valoarea adăugată a anumitor sectoare majore. Schimbarea în eficiența  utilizării apei reprezintă evoluția în timp (schimbarea) în valoarea acestui  raport/proporții. Cele 3 sectoare economice majore se consideră:  1.  Agricultură, silvicultură și pescuit (NACE rev.2, secțiunea A); 2. Industria  extractivă, Industria prelucrătoare, Producția și furnizarea de energie  electrică și termică, gaze, apă caldă și aer condiționat, Construcții (NACE  rev.2, secțiunile C B, C, D and F); 3. alte sectoare de servicii (NACE rev.2,  secțiunile E și G-T). Eficiența se estimează pe fiecare dintre cele 3 sectoare  majore. Pentru agricultură se va estima eficiența utilizării apei pentru  irigare (irigarea pământului, inclusiv irigarea în perioada de vegetație și  toate tipurile de irigare în perioadele de până la începerea vegetației),  necesitățile de producție în</p> 
-  <p>  sectorul agricol (complexele animaliere,  ateliere de reparații, deservirea tehnică a transportului auto și mecanismelor  etc.)</p> 
-  <p>  Apă utilizată înseamnă apă captată sau primită și folosită în  scopul desfășurării activității economice de fabricare a producției, de  executare a lucrărilor și de prestare a serviciilor. Apa poate fi utilizată  pentru necesități de producție, necesitățile agriculturii (incl.de  irigare)</p> 
-  <p>  Apă captată: apă obținută din obiectivele acvatice amplasate în  granițele Republicii Moldova. Apa captată este extrasă din surse superficiale  (râuri, lacuri), surse subterane. </p>
+  <p>Eficiența apei utilizate este definită ca volumul de apă utilizată raportat la  valoarea adăugată a anumitor sectoare majore. Schimbarea în eficiența  utilizării apei reprezintă evoluția în timp (schimbarea) în valoarea acestui  raport/proporții. Cele 3 sectoare economice majore se consideră:  1.  Agricultură, silvicultură și pescuit (NACE rev.2, secțiunea A); 2. Industria  extractivă, Industria prelucrătoare, Producția și furnizarea de energie  electrică și termică, gaze, apă caldă și aer condiționat, Construcții (NACE  rev.2, secțiunile C B, C, D and F); 3. alte sectoare de servicii (NACE rev.2,  secțiunile E și G-T). Eficiența se estimează pe fiecare dintre cele 3 sectoare  majore. Pentru agricultură se va estima eficiența utilizării apei pentru  irigare (irigarea pământului, inclusiv irigarea în perioada de vegetație și  toate tipurile de irigare în perioadele de până la începerea vegetației),  necesitățile de producție în</p>
+  <p>  sectorul agricol (complexele animaliere,  ateliere de reparații, deservirea tehnică a transportului auto și mecanismelor  etc.)</p>
+  <p>  Apă utilizată înseamnă apă captată sau primită și folosită în  scopul desfășurării activității economice de fabricare a producției, de  executare a lucrărilor și de prestare a serviciilor. Apa poate fi utilizată  pentru necesități de producție, necesitățile agriculturii (incl.de  irigare)</p>
+  <p>  Apă captată: apă obținută din obiectivele acvatice amplasate în  granițele Republicii Moldova. Apa captată este extrasă din surse superficiale  (râuri, lacuri), surse subterane.</p>
 UNIT_MEASURE: >-
   lei/m3
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1. Cercetarea "Utilizarea apei" conform formularului nr.1 - gospodăria apelor</p> 
-  <p>2. Datele Conturilor naționale </p>
+  <p>1. Cercetarea "Utilizarea apei" conform formularului nr.1 - gospodăria apelor</p>
+  <p>2. Datele Conturilor naționale</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Administrația Națională „Apele Moldovei”</p> 
-  <p>2. Biroul Național de Statistică </p>
+  <p>1. Administrația Națională „Apele Moldovei”</p>
+  <p>2. Biroul Național de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
   Ministerul Mediului
@@ -55,17 +55,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Suma valorii adăugate a trei sectoare economice, ponderate la proporția apelor  captate de către fiecare sector din total volum de ape captate. </p> 
-  <p> WUE =  Awe* PA+Iwe* PI+Swe* PS</p> 
-  <p> Unde:</p> 
-  <p>  WUE =Eficiența utilizării apei, </p> 
-  <p>   Awe= eficiența utilizării apei în agricultura irigată [USD/m3], </p> 
-  <p>  Iwe =  Eficiența utilizării apei în industrie [USD/m3], </p> 
-  <p>  Swe=Eficiența  utilizării apei în servicii [USD/m3], </p> 
-  <p>  PA = Proporția de apă utilizată de  către sectorul agricol în total utilizări,</p> 
-  <p>  PI =Proporția de apă utilizată  de către sectorul industrial în total utilizări </p> 
-  <p>  PS =Proporția de apă  utilizată de către sectorul servicii în total utilizări </p> 
-  <p>  Fiecare dintre  aceste elemente se calculează separat (a se vedea metadatele globale) </p>
+  Eficiența apei utilizate se calculează ca un raport între valoarea adăugată a a anumitor sectoare și volumul de apă utilizată.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  NA
+  Data on water consumption are obtained from the annual statistical summary report on water use in the Republic of Moldova.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -71,7 +71,7 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
   Dumitru Proca, main specialist, Water Resources Management Section of the Danube-Prut-Black Sea Basin Directorate, National Administration "Waters of Moldova", tel.022-280700, email: dima.proca@apele. gov.md
 source_other_info_1: >-

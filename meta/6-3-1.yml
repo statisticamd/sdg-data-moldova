@@ -31,8 +31,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Wastewater - water originating from domestic, social and economic activities, containing pollutants or residues that alter its initial physical, chemical and bacteriological characteristics.</p> 
-  <p>Sufficient treatment - the treatment of water by any process and/or system, which after discharge of waste water allows the receivers to meet the relevant quality objectives in the technical norms and in the water management notices and authorizations in force. </p>
+  <p>Wastewater - water originating from domestic, social and economic activities, containing pollutants or residues that alter its initial physical, chemical and bacteriological characteristics.</p>
+  <p>Sufficient treatment - the treatment of water by any process and/or system, which after discharge of waste water allows the receivers to meet the relevant quality objectives in the technical norms and in the water management notices and authorizations in force.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
