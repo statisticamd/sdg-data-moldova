@@ -81,7 +81,7 @@
             "constraints": {
               "enum": [
                 "Salariată",
-                "Self-employed ",
+                "Angajată pe cont propriu",
                 "Pensionară",
                 "Șomeră",
                 "Alt statut",

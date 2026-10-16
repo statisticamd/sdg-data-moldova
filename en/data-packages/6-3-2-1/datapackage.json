@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Types of sources ",
+            "name": "Types of sources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Types of sources "
+            "title": "Types of sources"
           },
           {
             "name": "Value",

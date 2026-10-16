@@ -81,7 +81,7 @@
             "constraints": {
               "enum": [
                 "Employed",
-                "Self-employed ",
+                "Self employed",
                 "Retiree",
                 "Unemployed",
                 "Other status",

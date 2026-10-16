@@ -1792,7 +1792,7 @@
             "title": "Sex of the reference person"
           },
           {
-            "name": "Type of sewerage ",
+            "name": "Type of sewerage",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1801,7 +1801,7 @@
                 ""
               ]
             },
-            "title": "Type of sewerage "
+            "title": "Type of sewerage"
           },
           {
             "name": "Value",
@@ -2851,16 +2851,16 @@
             "title": "Year"
           },
           {
-            "name": "River",
+            "name": "Rivers",
             "type": "string",
             "constraints": {
               "enum": [
                 "Prut river",
-                "Dniester river",
+                "Nistru river",
                 ""
               ]
             },
-            "title": "River"
+            "title": "Rivers"
           },
           {
             "name": "Value",
@@ -3530,7 +3530,7 @@
             "title": "Year"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3539,7 +3539,7 @@
                 ""
               ]
             },
-            "title": "Level of local government authorities "
+            "title": "Level of local government authorities"
           },
           {
             "name": "Value",
@@ -4481,9 +4481,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual net rate of change of forest area,%",
-                "Proportion of forest area located in legally protected areas,%",
-                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
+                "Annual net rate of change of forest area, percent",
+                "Proportion of forest area located in legally protected areas, percent",
+                "Proportion of forest area managed in accordance with long-term sustainable forest management plans, percent",
                 "Above-ground biomass reserves in forests, thousands c.m.",
                 "Forest area included in the forest management certification system, independently verified, thousands ha",
                 ""
@@ -4768,7 +4768,7 @@
             "title": "Year"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4777,7 +4777,7 @@
                 ""
               ]
             },
-            "title": "Level of local government authorities "
+            "title": "Level of local government authorities"
           },
           {
             "name": "Value",
@@ -6495,7 +6495,7 @@
             "title": "Sex of the head of the household"
           },
           {
-            "name": "Age groups of the reference person, years",
+            "name": "Age group of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6508,7 +6508,7 @@
                 ""
               ]
             },
-            "title": "Age groups of the reference person, years"
+            "title": "Age group of the reference person, years"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -7520,7 +7520,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Person with a function of public dignity",
+                "Person with a function of public dignity",
                 "Public official",
                 "Person with responsibility functions",
                 ""
@@ -8027,7 +8027,7 @@
                 "between 100 Mbps and 500 Mbps",
                 "between 500 Mbps and 1 Gbps",
                 "between 1 Gbps and 5 Gbps",
-                "above 5 Gbps ",
+                "above 5 Gbps",
                 ""
               ]
             },
@@ -8818,7 +8818,7 @@
             "title": "Year"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8827,7 +8827,7 @@
                 ""
               ]
             },
-            "title": "Level of local government authorities "
+            "title": "Level of local government authorities"
           },
           {
             "name": "Value",
@@ -8919,7 +8919,7 @@
             "constraints": {
               "enum": [
                 "Employed",
-                "Self-employed ",
+                "Self employed",
                 "Retiree",
                 "Unemployed",
                 "Other status",
@@ -9238,7 +9238,7 @@
             "title": "Year"
           },
           {
-            "name": "Types of sources ",
+            "name": "Types of sources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9248,7 +9248,7 @@
                 ""
               ]
             },
-            "title": "Types of sources "
+            "title": "Types of sources"
           },
           {
             "name": "Value",
@@ -11417,18 +11417,18 @@
             "title": "Age group"
           },
           {
-            "name": "Disease Group",
+            "name": "Disease group",
             "type": "string",
             "constraints": {
               "enum": [
                 "Circulatory system diseases",
-                "including hypertensive disease",
+                "Hypertensive disease",
                 "Endocrine, nutritional and metabolic diseases",
-                "including diabetes mellitus",
+                "Diabetes mellitus",
                 "Respiratory system diseases",
                 "Musculoskeletal system and connective tissue diseases",
                 "Influencing factors of the health status and reasons for seeking health services",
-                "including prophylaxis of rickets and anemia in children",
+                "Prophylaxis of rickets and anemia in children",
                 "Digestive system diseases ",
                 "Diseases of the eye and its adnexa",
                 "Genitourinary system diseases",
@@ -11437,7 +11437,7 @@
                 ""
               ]
             },
-            "title": "Disease Group"
+            "title": "Disease group"
           },
           {
             "name": "Value",

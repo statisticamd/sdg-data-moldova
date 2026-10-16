@@ -16,16 +16,16 @@
             "title": "Anul"
           },
           {
-            "name": "River",
+            "name": "Rivers",
             "type": "string",
             "constraints": {
               "enum": [
                 "Râul Prut",
-                "Dniester river",
+                "Râul Nistru",
                 ""
               ]
             },
-            "title": "Fluvial"
+            "title": "Râuri"
           },
           {
             "name": "Value",

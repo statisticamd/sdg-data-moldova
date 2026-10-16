@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [

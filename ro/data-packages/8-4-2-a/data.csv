@@ -4,7 +4,7 @@ Year,Tipuri de resurse,Value
 2010,Cărbune,
 2010,Resturi de culturi agricole (reziduuri vegetale),
 2010,Culturi agricole,
-2010,Ferrous ores,
+2010,Minereuri feroase,
 2010,Combustibili fosili,
 2010,Gaze naturale,
 2010,Biomasă pășunată și culturi furajere,
@@ -21,7 +21,7 @@ Year,Tipuri de resurse,Value
 2011,Cărbune,
 2011,Resturi de culturi agricole (reziduuri vegetale),
 2011,Culturi agricole,
-2011,Ferrous ores,
+2011,Minereuri feroase,
 2011,Combustibili fosili,
 2011,Gaze naturale,
 2011,Biomasă pășunată și culturi furajere,
@@ -38,7 +38,7 @@ Year,Tipuri de resurse,Value
 2012,Cărbune,
 2012,Resturi de culturi agricole (reziduuri vegetale),
 2012,Culturi agricole,
-2012,Ferrous ores,
+2012,Minereuri feroase,
 2012,Combustibili fosili,
 2012,Gaze naturale,
 2012,Biomasă pășunată și culturi furajere,
@@ -55,7 +55,7 @@ Year,Tipuri de resurse,Value
 2013,Cărbune,
 2013,Resturi de culturi agricole (reziduuri vegetale),
 2013,Culturi agricole,
-2013,Ferrous ores,
+2013,Minereuri feroase,
 2013,Combustibili fosili,
 2013,Gaze naturale,
 2013,Biomasă pășunată și culturi furajere,
@@ -72,7 +72,7 @@ Year,Tipuri de resurse,Value
 2014,Cărbune,0.044
 2014,Resturi de culturi agricole (reziduuri vegetale),2.62
 2014,Culturi agricole,1.485
-2014,Ferrous ores,0.054
+2014,Minereuri feroase,0.054
 2014,Combustibili fosili,0.234
 2014,Gaze naturale,0.188
 2014,Biomasă pășunată și culturi furajere,0.467
@@ -89,7 +89,7 @@ Year,Tipuri de resurse,Value
 2015,Cărbune,0.051
 2015,Resturi de culturi agricole (reziduuri vegetale),1.874
 2015,Culturi agricole,1.006
-2015,Ferrous ores,0.053
+2015,Minereuri feroase,0.053
 2015,Combustibili fosili,0.236
 2015,Gaze naturale,0.184
 2015,Biomasă pășunată și culturi furajere,0.44
@@ -106,7 +106,7 @@ Year,Tipuri de resurse,Value
 2016,Cărbune,0.031
 2016,Resturi de culturi agricole (reziduuri vegetale),2.546
 2016,Culturi agricole,1.318
-2016,Ferrous ores,0.057
+2016,Minereuri feroase,0.057
 2016,Combustibili fosili,0.225
 2016,Gaze naturale,0.192
 2016,Biomasă pășunată și culturi furajere,0.434
@@ -123,7 +123,7 @@ Year,Tipuri de resurse,Value
 2017,Cărbune,0.063
 2017,Resturi de culturi agricole (reziduuri vegetale),3.031
 2017,Culturi agricole,1.501
-2017,Ferrous ores,0.057
+2017,Minereuri feroase,0.057
 2017,Combustibili fosili,0.259
 2017,Gaze naturale,0.194
 2017,Biomasă pășunată și culturi furajere,0.47
@@ -140,7 +140,7 @@ Year,Tipuri de resurse,Value
 2018,Cărbune,0.046
 2018,Resturi de culturi agricole (reziduuri vegetale),3.26
 2018,Culturi agricole,1.559
-2018,Ferrous ores,0.06
+2018,Minereuri feroase,0.06
 2018,Combustibili fosili,0.262
 2018,Gaze naturale,0.215
 2018,Biomasă pășunată și culturi furajere,0.447
@@ -157,7 +157,7 @@ Year,Tipuri de resurse,Value
 2019,Cărbune,0.047
 2019,Resturi de culturi agricole (reziduuri vegetale),3.375
 2019,Culturi agricole,1.451
-2019,Ferrous ores,0.069
+2019,Minereuri feroase,0.069
 2019,Combustibili fosili,0.248
 2019,Gaze naturale,0.2
 2019,Biomasă pășunată și culturi furajere,0.399
@@ -174,7 +174,7 @@ Year,Tipuri de resurse,Value
 2020,Cărbune,0.043
 2020,Resturi de culturi agricole (reziduuri vegetale),1.491
 2020,Culturi agricole,0.816
-2020,Ferrous ores,0.072
+2020,Minereuri feroase,0.072
 2020,Combustibili fosili,0.248
 2020,Gaze naturale,0.204
 2020,Biomasă pășunată și culturi furajere,0.375
@@ -191,7 +191,7 @@ Year,Tipuri de resurse,Value
 2021,Cărbune,0.044
 2021,Resturi de culturi agricole (reziduuri vegetale),4.435
 2021,Culturi agricole,1.972
-2021,Ferrous ores,0.075
+2021,Minereuri feroase,0.075
 2021,Combustibili fosili,0.252
 2021,Gaze naturale,0.207
 2021,Biomasă pășunată și culturi furajere,0.311
@@ -208,7 +208,7 @@ Year,Tipuri de resurse,Value
 2022,Cărbune,0.039
 2022,Resturi de culturi agricole (reziduuri vegetale),4.108
 2022,Culturi agricole,1.747
-2022,Ferrous ores,0.069
+2022,Minereuri feroase,0.069
 2022,Combustibili fosili,0.218
 2022,Gaze naturale,0.179
 2022,Biomasă pășunată și culturi furajere,0.266
@@ -225,7 +225,7 @@ Year,Tipuri de resurse,Value
 2023,Cărbune,0.035
 2023,Resturi de culturi agricole (reziduuri vegetale),3.845
 2023,Culturi agricole,1.526
-2023,Ferrous ores,0.063
+2023,Minereuri feroase,0.063
 2023,Combustibili fosili,0.19
 2023,Gaze naturale,0.155
 2023,Biomasă pășunată și culturi furajere,0.222

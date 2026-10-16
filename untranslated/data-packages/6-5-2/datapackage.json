@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "River",
+            "name": "Rivers",
             "type": "string",
             "constraints": {
               "enum": [
                 "Prut river",
-                "Dniester river",
+                "Nistru river",
                 ""
               ]
             }

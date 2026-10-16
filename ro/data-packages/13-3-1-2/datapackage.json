@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "The Low Emissions Development Programme of the Republic of Moldova until 2030",
-                "The National Climate Change Adaptation Programme of the Republic of Moldova until 2030",
+                "Programul de dezvoltare cu emisii reduse al Republicii Moldova până în anul 2030 (HG nr. 659/2023)",
+                "Programul național de adaptare la schimbările climatice până în anul 2030 (HG nr. 624/2023)",
                 ""
               ]
             },

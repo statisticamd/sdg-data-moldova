@@ -1792,7 +1792,7 @@
             "title": "Sexul persoanei de referința"
           },
           {
-            "name": "Type of sewerage ",
+            "name": "Type of sewerage",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1801,7 +1801,7 @@
                 ""
               ]
             },
-            "title": "Type of sewerage "
+            "title": "Tipul de canalizare"
           },
           {
             "name": "Value",
@@ -2454,7 +2454,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gross disbursements",
+                "Debursări brute",
                 "Angajamente",
                 ""
               ]
@@ -2851,16 +2851,16 @@
             "title": "Anul"
           },
           {
-            "name": "River",
+            "name": "Rivers",
             "type": "string",
             "constraints": {
               "enum": [
                 "Râul Prut",
-                "Dniester river",
+                "Râul Nistru",
                 ""
               ]
             },
-            "title": "Fluvial"
+            "title": "Râuri"
           },
           {
             "name": "Value",
@@ -2963,8 +2963,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "The Low Emissions Development Programme of the Republic of Moldova until 2030",
-                "The National Climate Change Adaptation Programme of the Republic of Moldova until 2030",
+                "Programul de dezvoltare cu emisii reduse al Republicii Moldova până în anul 2030 (HG nr. 659/2023)",
+                "Programul național de adaptare la schimbările climatice până în anul 2030 (HG nr. 624/2023)",
                 ""
               ]
             },
@@ -3317,8 +3317,8 @@
             "constraints": {
               "enum": [
                 "Medii incomplete",
-                "General secondary education",
-                "Vocational secondary education",
+                "Medii generale",
+                "Medii profesionale",
                 "Superioare",
                 ""
               ]
@@ -3530,7 +3530,7 @@
             "title": "Anul"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3539,7 +3539,7 @@
                 ""
               ]
             },
-            "title": "Level of local government authorities "
+            "title": "Nivelul autorităților publice locale"
           },
           {
             "name": "Value",
@@ -4481,9 +4481,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual net rate of change of forest area,%",
-                "Proportion of forest area located in legally protected areas,%",
-                "Proportion of forest area managed in accordance with long-term sustainable forest management plans,%",
+                "Rata netă anuală de schimbare a suprafeței forestiere, procente",
+                "Proporția de suprafață forestieră situată în zonele protejate legal, procente",
+                "Proporția de suprafață forestieră gospodărită în conformitate cu planuri de gestionare durabilă  a pădurilor pe termen lung, procente",
                 "Rezervele de biomasă supraterană în păduri, mii m.c.",
                 "Suprafața forestieră inclusă în cadrul sistemului de certificare a modului de gestionare a pădurilor, verificat independent, mii ha",
                 ""
@@ -4768,7 +4768,7 @@
             "title": "Anul"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4777,7 +4777,7 @@
                 ""
               ]
             },
-            "title": "Level of local government authorities "
+            "title": "Nivelul autorităților publice locale"
           },
           {
             "name": "Value",
@@ -6429,7 +6429,7 @@
                 "Cărbune",
                 "Resturi de culturi agricole (reziduuri vegetale)",
                 "Culturi agricole",
-                "Ferrous ores",
+                "Minereuri feroase",
                 "Combustibili fosili",
                 "Gaze naturale",
                 "Biomasă pășunată și culturi furajere",
@@ -6495,7 +6495,7 @@
             "title": "Sexul capului gospodăriei"
           },
           {
-            "name": "Age groups of the reference person, years",
+            "name": "Age group of the reference person, years",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6508,7 +6508,7 @@
                 ""
               ]
             },
-            "title": "Age groups of the reference person, years"
+            "title": "Grupa de vârstă a persoanei de referința, ani"
           },
           {
             "name": "Quintiles on consumption expenditures",
@@ -7520,7 +7520,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Person with a function of public dignity",
+                "Persoană cu funcție de demnitate publică",
                 "Persoană juridică",
                 "Persoană cu funcție de răspundere",
                 ""
@@ -7570,7 +7570,7 @@
             "constraints": {
               "enum": [
                 "Debursări nete",
-                "Debursări brute",
+                "Gross disbursement",
                 ""
               ]
             },
@@ -8027,7 +8027,7 @@
                 "între 100 Mbps şi 500 Mbps",
                 "între 500 Mbps şi 1 Gbps",
                 "între 1 Gbps și 5 Gbps",
-                "above 5 Gbps ",
+                "peste 5 Gbps",
                 ""
               ]
             },
@@ -8683,7 +8683,7 @@
                 ""
               ]
             },
-            "title": "Type of renewable technology"
+            "title": "Tipul tehnologiei regenerabile"
           },
           {
             "name": "Value",
@@ -8818,7 +8818,7 @@
             "title": "Anul"
           },
           {
-            "name": "Level of local government authorities ",
+            "name": "Level of local government authorities",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8827,7 +8827,7 @@
                 ""
               ]
             },
-            "title": "Level of local government authorities "
+            "title": "Nivelul autorităților publice locale"
           },
           {
             "name": "Value",
@@ -8919,7 +8919,7 @@
             "constraints": {
               "enum": [
                 "Salariată",
-                "Self-employed ",
+                "Angajată pe cont propriu",
                 "Pensionară",
                 "Șomeră",
                 "Alt statut",
@@ -9181,7 +9181,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total non-agricultural sector",
+                "Total sectorul neagricol",
                 "Bărbați - sectorul neagricol",
                 "Femei - sectorul neagricol",
                 ""
@@ -9238,7 +9238,7 @@
             "title": "Anul"
           },
           {
-            "name": "Types of sources ",
+            "name": "Types of sources",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9248,7 +9248,7 @@
                 ""
               ]
             },
-            "title": "Types of sources "
+            "title": "Tipuri de surse"
           },
           {
             "name": "Value",
@@ -10050,18 +10050,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5-17 / Both sexes",
-                "5-17 / Men",
-                "5-17 / Women",
-                "5-11 / Both sexes",
-                "5-11 / Men",
-                "5-11 / Women",
-                "12-14 / Both sexes",
-                "12-14 / Men",
-                "12-14 / Women",
-                "15-17 / Both sexes",
-                "15-17 / Men",
-                "15-17 / Women",
+                "5-17 / Ambele sexe",
+                "5-17 / Bărbați",
+                "5-17 / Femei",
+                "5-11 / Ambele sexe",
+                "5-11 / Bărbați",
+                "5-11 / Femei",
+                "12-14 / Ambele sexe",
+                "12-14 / Bărbați",
+                "12-14 / Femei",
+                "15-17 / Ambele sexe",
+                "15-17 / Bărbați",
+                "15-17 / Femei",
                 ""
               ]
             },
@@ -10072,18 +10072,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5-17 / Both sexes",
-                "5-17 / Men",
-                "5-17 / Women",
-                "5-11 / Both sexes",
-                "5-11 / Men",
-                "5-11 / Women",
-                "12-14 / Both sexes",
-                "12-14 / Men",
-                "12-14 / Women",
-                "15-17 / Both sexes",
-                "15-17 / Men",
-                "15-17 / Women",
+                "5-17 / Ambele sexe",
+                "5-17 / Bărbați",
+                "5-17 / Femei",
+                "5-11 / Ambele sexe",
+                "5-11 / Bărbați",
+                "5-11 / Femei",
+                "12-14 / Ambele sexe",
+                "12-14 / Bărbați",
+                "12-14 / Femei",
+                "15-17 / Ambele sexe",
+                "15-17 / Bărbați",
+                "15-17 / Femei",
                 ""
               ]
             },
@@ -10366,7 +10366,7 @@
                 "Cărbune",
                 "Resturi de culturi agricole (reziduuri vegetale)",
                 "Culturi agricole",
-                "Ferrous ores",
+                "Minereuri feroase",
                 "Combustibili fosili",
                 "Gaze naturale",
                 "Biomasă pășunată și culturi furajere",
@@ -10857,18 +10857,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5-17 / Both sexes",
-                "5-17 / Men",
-                "5-17 / Women",
-                "5-11 / Both sexes",
-                "5-11 / Men",
-                "5-11 / Women",
-                "12-14 / Both sexes",
-                "12-14 / Men",
-                "12-14 / Women",
-                "15-17 / Both sexes",
-                "15-17 / Men",
-                "15-17 / Women",
+                "5-17 / Ambele sexe",
+                "5-17 / Bărbați",
+                "5-17 / Femei",
+                "5-11 / Ambele sexe",
+                "5-11 / Bărbați",
+                "5-11 / Femei",
+                "12-14 / Ambele sexe",
+                "12-14 / Bărbați",
+                "12-14 / Femei",
+                "15-17 / Ambele sexe",
+                "15-17 / Bărbați",
+                "15-17 / Femei",
                 ""
               ]
             },
@@ -10879,18 +10879,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5-17 / Both sexes",
-                "5-17 / Men",
-                "5-17 / Women",
-                "5-11 / Both sexes",
-                "5-11 / Men",
-                "5-11 / Women",
-                "12-14 / Both sexes",
-                "12-14 / Men",
-                "12-14 / Women",
-                "15-17 / Both sexes",
-                "15-17 / Men",
-                "15-17 / Women",
+                "5-17 / Ambele sexe",
+                "5-17 / Bărbați",
+                "5-17 / Femei",
+                "5-11 / Ambele sexe",
+                "5-11 / Bărbați",
+                "5-11 / Femei",
+                "12-14 / Ambele sexe",
+                "12-14 / Bărbați",
+                "12-14 / Femei",
+                "15-17 / Ambele sexe",
+                "15-17 / Bărbați",
+                "15-17 / Femei",
                 ""
               ]
             },
@@ -11417,27 +11417,27 @@
             "title": "Grupa de vârstă"
           },
           {
-            "name": "Disease Group",
+            "name": "Disease group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Circulatory system diseases",
-                "including hypertensive disease",
-                "Endocrine, nutritional and metabolic diseases",
-                "including diabetes mellitus",
-                "Respiratory system diseases",
-                "Musculoskeletal system and connective tissue diseases",
-                "Influencing factors of the health status and reasons for seeking health services",
-                "including prophylaxis of rickets and anemia in children",
+                "Bolile aparatului circulator",
+                "Boala hipertensivă",
+                "Boli endocrine, de nutritie si metabolism",
+                "Diabetul zaharat",
+                "Bolile aparatului respirator",
+                "Bolile sistemului osteo-articular, ale muschilor si tesutului conjunctiv",
+                "Factorii influentand starea de sanatate si motivele recurgerii la serviciile de sanatate",
+                "Profilaxia rahitismului și anemiei la copii",
                 "Digestive system diseases ",
-                "Diseases of the eye and its adnexa",
-                "Genitourinary system diseases",
-                "Mental and behavioral disorders",
-                "Nervous system diseases",
+                "Bolile ochiului si anexelor sale",
+                "Bolile aparatului genito-urinar",
+                "Tulburari mentale si de comportament",
+                "Bolile sistemului nervos",
                 ""
               ]
             },
-            "title": "Disease Group"
+            "title": "Grupa maladiei"
           },
           {
             "name": "Value",

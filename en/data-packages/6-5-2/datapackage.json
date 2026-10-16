@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "River",
+            "name": "Rivers",
             "type": "string",
             "constraints": {
               "enum": [
                 "Prut river",
-                "Dniester river",
+                "Nistru river",
                 ""
               ]
             },
-            "title": "River"
+            "title": "Rivers"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gross disbursements",
+                "Debursări brute",
                 "Angajamente",
                 ""
               ]

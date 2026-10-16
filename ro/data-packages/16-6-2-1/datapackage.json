@@ -59,8 +59,8 @@
             "constraints": {
               "enum": [
                 "Medii incomplete",
-                "General secondary education",
-                "Vocational secondary education",
+                "Medii generale",
+                "Medii profesionale",
                 "Superioare",
                 ""
               ]

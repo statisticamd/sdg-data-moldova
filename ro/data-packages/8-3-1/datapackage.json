@@ -45,7 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total non-agricultural sector",
+                "Total sectorul neagricol",
                 "Bărbați - sectorul neagricol",
                 "Femei - sectorul neagricol",
                 ""

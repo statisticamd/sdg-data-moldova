@@ -42,18 +42,18 @@
             }
           },
           {
-            "name": "Disease Group",
+            "name": "Disease group",
             "type": "string",
             "constraints": {
               "enum": [
                 "Circulatory system diseases",
-                "including hypertensive disease",
+                "Hypertensive disease",
                 "Endocrine, nutritional and metabolic diseases",
-                "including diabetes mellitus",
+                "Diabetes mellitus",
                 "Respiratory system diseases",
                 "Musculoskeletal system and connective tissue diseases",
                 "Influencing factors of the health status and reasons for seeking health services",
-                "including prophylaxis of rickets and anemia in children",
+                "Prophylaxis of rickets and anemia in children",
                 "Digestive system diseases ",
                 "Diseases of the eye and its adnexa",
                 "Genitourinary system diseases",

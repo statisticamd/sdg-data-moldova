@@ -9,8 +9,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2010,,,Urban,,,
 2010,,,Rural,,,
 2010,,,,Medii incomplete,,
-2010,,,,General secondary education,,
-2010,,,,Vocational secondary education,,
+2010,,,,Medii generale,,
+2010,,,,Medii profesionale,,
 2010,,,,Superioare,,
 2010,,,,,"Săraci, 40 procente",
 2010,,,,,"Înstăriți, 60 procente",
@@ -24,8 +24,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2011,,,Urban,,,
 2011,,,Rural,,,
 2011,,,,Medii incomplete,,
-2011,,,,General secondary education,,
-2011,,,,Vocational secondary education,,
+2011,,,,Medii generale,,
+2011,,,,Medii profesionale,,
 2011,,,,Superioare,,
 2011,,,,,"Săraci, 40 procente",
 2011,,,,,"Înstăriți, 60 procente",
@@ -39,8 +39,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2012,,,Urban,,,
 2012,,,Rural,,,
 2012,,,,Medii incomplete,,
-2012,,,,General secondary education,,
-2012,,,,Vocational secondary education,,
+2012,,,,Medii generale,,
+2012,,,,Medii profesionale,,
 2012,,,,Superioare,,
 2012,,,,,"Săraci, 40 procente",
 2012,,,,,"Înstăriți, 60 procente",
@@ -54,8 +54,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2013,,,Urban,,,
 2013,,,Rural,,,
 2013,,,,Medii incomplete,,
-2013,,,,General secondary education,,
-2013,,,,Vocational secondary education,,
+2013,,,,Medii generale,,
+2013,,,,Medii profesionale,,
 2013,,,,Superioare,,
 2013,,,,,"Săraci, 40 procente",
 2013,,,,,"Înstăriți, 60 procente",
@@ -69,8 +69,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2014,,,Urban,,,
 2014,,,Rural,,,
 2014,,,,Medii incomplete,,
-2014,,,,General secondary education,,
-2014,,,,Vocational secondary education,,
+2014,,,,Medii generale,,
+2014,,,,Medii profesionale,,
 2014,,,,Superioare,,
 2014,,,,,"Săraci, 40 procente",
 2014,,,,,"Înstăriți, 60 procente",
@@ -84,8 +84,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2015,,,Urban,,,
 2015,,,Rural,,,
 2015,,,,Medii incomplete,,
-2015,,,,General secondary education,,
-2015,,,,Vocational secondary education,,
+2015,,,,Medii generale,,
+2015,,,,Medii profesionale,,
 2015,,,,Superioare,,
 2015,,,,,"Săraci, 40 procente",
 2015,,,,,"Înstăriți, 60 procente",
@@ -99,8 +99,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2016,,,Urban,,,
 2016,,,Rural,,,
 2016,,,,Medii incomplete,,
-2016,,,,General secondary education,,
-2016,,,,Vocational secondary education,,
+2016,,,,Medii generale,,
+2016,,,,Medii profesionale,,
 2016,,,,Superioare,,
 2016,,,,,"Săraci, 40 procente",
 2016,,,,,"Înstăriți, 60 procente",
@@ -114,8 +114,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2017,,,Urban,,,
 2017,,,Rural,,,
 2017,,,,Medii incomplete,,
-2017,,,,General secondary education,,
-2017,,,,Vocational secondary education,,
+2017,,,,Medii generale,,
+2017,,,,Medii profesionale,,
 2017,,,,Superioare,,
 2017,,,,,"Săraci, 40 procente",
 2017,,,,,"Înstăriți, 60 procente",
@@ -129,8 +129,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2018,,,Urban,,,
 2018,,,Rural,,,
 2018,,,,Medii incomplete,,
-2018,,,,General secondary education,,
-2018,,,,Vocational secondary education,,
+2018,,,,Medii generale,,
+2018,,,,Medii profesionale,,
 2018,,,,Superioare,,
 2018,,,,,"Săraci, 40 procente",
 2018,,,,,"Înstăriți, 60 procente",
@@ -144,8 +144,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2019,,,Urban,,,
 2019,,,Rural,,,
 2019,,,,Medii incomplete,,
-2019,,,,General secondary education,,
-2019,,,,Vocational secondary education,,
+2019,,,,Medii generale,,
+2019,,,,Medii profesionale,,
 2019,,,,Superioare,,
 2019,,,,,"Săraci, 40 procente",
 2019,,,,,"Înstăriți, 60 procente",
@@ -159,8 +159,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2020,,,Urban,,,51.5
 2020,,,Rural,,,18.4
 2020,,,,Medii incomplete,,8.7
-2020,,,,General secondary education,,25.4
-2020,,,,Vocational secondary education,,23.8
+2020,,,,Medii generale,,25.4
+2020,,,,Medii profesionale,,23.8
 2020,,,,Superioare,,60.0
 2020,,,,,"Săraci, 40 procente",16.0
 2020,,,,,"Înstăriți, 60 procente",
@@ -174,8 +174,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2021,,,Urban,,,56.4
 2021,,,Rural,,,34.1
 2021,,,,Medii incomplete,,18.2
-2021,,,,General secondary education,,43.3
-2021,,,,Vocational secondary education,,35.6
+2021,,,,Medii generale,,43.3
+2021,,,,Medii profesionale,,35.6
 2021,,,,Superioare,,60.0
 2021,,,,,"Săraci, 40 procente",37.4
 2021,,,,,"Înstăriți, 60 procente",
@@ -189,8 +189,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2022,,,Urban,,,63.3
 2022,,,Rural,,,41.2
 2022,,,,Medii incomplete,,25.9
-2022,,,,General secondary education,,56.4
-2022,,,,Vocational secondary education,,39.2
+2022,,,,Medii generale,,56.4
+2022,,,,Medii profesionale,,39.2
 2022,,,,Superioare,,70.1
 2022,,,,,"Săraci, 40 procente",35.7
 2022,,,,,"Înstăriți, 60 procente",59.5
@@ -204,8 +204,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2023,,,Urban,,,63.5
 2023,,,Rural,,,39.8
 2023,,,,Medii incomplete,,38.4
-2023,,,,General secondary education,,49.3
-2023,,,,Vocational secondary education,,50.0
+2023,,,,Medii generale,,49.3
+2023,,,,Medii profesionale,,50.0
 2023,,,,Superioare,,62.2
 2023,,,,,"Săraci, 40 procente",38.7
 2023,,,,,"Înstăriți, 60 procente",57.6
@@ -219,8 +219,8 @@ Year,Sex,Grupa de vârstă,Mediu de reședință,Nivel de educație,Grup de veni
 2024,,,Urban,,,65.1
 2024,,,Rural,,,37.7
 2024,,,,Medii incomplete,,38.2
-2024,,,,General secondary education,,37.4
-2024,,,,Vocational secondary education,,44.4
+2024,,,,Medii generale,,37.4
+2024,,,,Medii profesionale,,44.4
 2024,,,,Superioare,,69.5
 2024,,,,,"Săraci, 40 procente",40.1
 2024,,,,,"Înstăriți, 60 procente",58.3

@@ -121,7 +121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Person with a function of public dignity",
+                "Persoană cu funcție de demnitate publică",
                 "Persoană juridică",
                 "Persoană cu funcție de răspundere",
                 ""
