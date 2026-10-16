@@ -439,7 +439,7 @@ Grants: Granturi
 Greece: Grecia
 Gross/Net: Brut/Net
 Gross: Brut
-Gross disbursement: Debursări brute
+Gross disbursements: Debursări brute
 Group: Grupa
 Groups of persons: Grupe de persoane 
 growth rates of household expenditure or income per capita among the bottom 40 per cent of the population: growth rates of household expenditure or income per capita among the bottom 40 per cent of the population
@@ -652,6 +652,7 @@ Nitrogen dioxide: Dioxid de azot
 Nitrate concentration - mgn / l: Concentraţia de nitraţi – mgn/l
 Nitrate concentration: Concentraţia de nitraţi
 Non-agricultural sector: Sectorul neagricol
+Total non-agricultural sector: Total sectorul neagricol
 Non-agricultural products NAGR: Produse neagricole
 Non-fatal accidents - by economic activities: Accidente nemortale - după activități economice
 Non-fatal accidents, by economic activities: Accidente nemortale, după activități economice
@@ -887,6 +888,7 @@ Retiree: Pensionară
 Return on assets: Rentabilitatea activelor 
 Revenge: Răzbunare
 River: Fluvial
+Rivers: Râuri
 road transport: road transport
 Road: Rutier
 Robbery: Jaf
@@ -923,7 +925,7 @@ Secondary vocational: Secundar profesional
 Secondary: Secundare
 Sectors: Sectoare
 Self-employed: Angajați pe cont propriu
-Self-employed : Angajată pe cont propriu
+Self employed: Angajată pe cont propriu
 Self-employers in agriculture: Lucrători pe cont propriu in agricultură
 Self-employers in non-agricultural activities: Lucrători pe cont propriu in activități neagricole
 Senior management: Conducere nivel superior
@@ -1067,6 +1069,7 @@ Type of land rights: Tipul drepturilor asupra terenurilor
 Type of legal document justifying the right:  Tipul documentul legal justificator al dreptului
 Type of property right: Tipul de drept patrimonial
 Type of qualified assistance: Tipul asistenței calificate
+Type of renewable technology: Tipul tehnologiei regenerabile
 Type of technology: Tipul tehnologiei
 Type of the source: Tipul sursei
 Type of vaccine: Tipuri de vaccin
@@ -1212,6 +1215,7 @@ Coal: Cărbune
 Crop residues: Resturi de culturi agricole (reziduuri vegetale)
 Crops: Culturi agricole
 Ferrous Ores: Minereuri feroase
+Ferrous ores: Minereuri feroase
 Fossil fuels: Combustibili fosili
 Natural gas: Gaze naturale
 Grazed biomass and fodder crops: Biomasă pășunată și culturi furajere
@@ -1240,7 +1244,7 @@ Blackmail (art 189): Șantajul (art. 189)
 Domestic violence (art.2011): Violenţa în familie (art.2011)
 Hooliganism (art.287): Huliganismul (art.287)
 Children engaged in economic activity - Age group / Sex: Copii implicați în activități economice - Grupa de vârstă / Sexul
-Children engaged in economic activity and household chores - Age group / Sex : Copii implicați în activități economice și în munca casnică -Grupa de vârstă / Sexul
+Children engaged in economic activity and household chores - Age group / Sex: Copii implicați în activități economice și în munca casnică -Grupa de vârstă / Sexul
 Education level: Nivel de instruire 
 Age group of the reference person, years: Grupa de vârstă a persoanei de referința, ani
 Sex of the reference person: Sexul persoanei de referința
@@ -1268,7 +1272,7 @@ between 30 Mbps and 100 Mbps: între 30 Mbps şi 100 Mbps
 between 100 Mbps and 500 Mbps: între 100 Mbps şi 500 Mbps
 between 500 Mbps and 1 Gbps: între 500 Mbps şi 1 Gbps
 between 1 Gbps and 5 Gbps: între 1 Gbps și 5 Gbps
-above 5 Gbps : peste 5 Gbps
+above 5 Gbps: peste 5 Gbps
 Resident of another country: Locuitor al altui stat
 Person with no permanent place of residence: Persoană fără loc de trai permanent
 Higher education: Superioare
@@ -1285,5 +1289,36 @@ Clothing (CLO): Îmbrăcăminte (CLO)
 Industrial products (IND): Produse industriale (IND)
 Oil (OIL): Petrol (OIL)
 Textiles (TEX): Produse textile (TEX)
+Circulatory system diseases: Bolile aparatului circulator
+Hypertensive disease: Boala hipertensivă
+Endocrine, nutritional and metabolic diseases: Boli endocrine, de nutritie si metabolism 
+Diabetes mellitus: Diabetul zaharat
+Respiratory system diseases: Bolile aparatului respirator
+Musculoskeletal system and connective tissue diseases: Bolile sistemului osteo-articular, ale muschilor si tesutului conjunctiv
+Influencing factors of the health status and reasons for seeking health services: Factorii influentand starea de sanatate si motivele recurgerii la serviciile de sanatate
+Prophylaxis of rickets and anemia in children: Profilaxia rahitismului și anemiei la copii
+Digestive system diseases : Bolile aparatului digestiv
+Diseases of the eye and its adnexa: Bolile ochiului si anexelor sale 
+Genitourinary system diseases: Bolile aparatului genito-urinar
+Mental and behavioral disorders: Tulburari mentale si de comportament
+Nervous system diseases: Bolile sistemului nervos
+Disease group: Grupa maladiei
+5-17 / Both sexes: 5-17 / Ambele sexe
+5-17 / Men: 5-17 / Bărbați
+5-17 / Women: 5-17 / Femei
+5-11 / Both sexes: 5-11 / Ambele sexe
+5-11 / Men: 5-11 / Bărbați
+5-11 / Women: 5-11 / Femei
+12-14 / Both sexes: 12-14 / Ambele sexe
+12-14 / Men: 12-14 / Bărbați
+12-14 / Women: 12-14 / Femei
+15-17 / Both sexes: 15-17 / Ambele sexe
+15-17 / Men: 15-17 / Bărbați
+15-17 / Women: 15-17 / Femei
+The Low Emissions Development Programme of the Republic of Moldova until 2030: Programul de dezvoltare cu emisii reduse al Republicii Moldova până în anul 2030 (HG nr. 659/2023)
+The National Climate Change Adaptation Programme of the Republic of Moldova until 2030: Programul național de adaptare la schimbările climatice până în anul 2030 (HG nr. 624/2023)
+General secondary education: Medii generale
+Vocational secondary education: Medii profesionale
+
 
 

@@ -1,4 +1,4 @@
-Year,Sex,Age group,Disease Group,Value
+Year,Sex,Age group,Disease group,Value
 2010,,,,
 2010,Men,,,
 2010,Women,,,
@@ -10,13 +10,13 @@ Year,Sex,Age group,Disease Group,Value
 2010,,16-55,,
 2010,,56+,,
 2010,,,Circulatory system diseases,
-2010,,,including hypertensive disease,
+2010,,,Hypertensive disease,
 2010,,,"Endocrine, nutritional and metabolic diseases",
-2010,,,including diabetes mellitus,
+2010,,,Diabetes mellitus,
 2010,,,Respiratory system diseases,
 2010,,,Musculoskeletal system and connective tissue diseases,
 2010,,,Influencing factors of the health status and reasons for seeking health services,
-2010,,,including prophylaxis of rickets and anemia in children,
+2010,,,Prophylaxis of rickets and anemia in children,
 2010,,,Digestive system diseases ,
 2010,,,Diseases of the eye and its adnexa,
 2010,,,Genitourinary system diseases,
@@ -33,13 +33,13 @@ Year,Sex,Age group,Disease Group,Value
 2011,,16-55,,
 2011,,56+,,
 2011,,,Circulatory system diseases,
-2011,,,including hypertensive disease,
+2011,,,Hypertensive disease,
 2011,,,"Endocrine, nutritional and metabolic diseases",
-2011,,,including diabetes mellitus,
+2011,,,Diabetes mellitus,
 2011,,,Respiratory system diseases,
 2011,,,Musculoskeletal system and connective tissue diseases,
 2011,,,Influencing factors of the health status and reasons for seeking health services,
-2011,,,including prophylaxis of rickets and anemia in children,
+2011,,,Prophylaxis of rickets and anemia in children,
 2011,,,Digestive system diseases ,
 2011,,,Diseases of the eye and its adnexa,
 2011,,,Genitourinary system diseases,
@@ -56,13 +56,13 @@ Year,Sex,Age group,Disease Group,Value
 2012,,16-55,,
 2012,,56+,,
 2012,,,Circulatory system diseases,
-2012,,,including hypertensive disease,
+2012,,,Hypertensive disease,
 2012,,,"Endocrine, nutritional and metabolic diseases",
-2012,,,including diabetes mellitus,
+2012,,,Diabetes mellitus,
 2012,,,Respiratory system diseases,
 2012,,,Musculoskeletal system and connective tissue diseases,
 2012,,,Influencing factors of the health status and reasons for seeking health services,
-2012,,,including prophylaxis of rickets and anemia in children,
+2012,,,Prophylaxis of rickets and anemia in children,
 2012,,,Digestive system diseases ,
 2012,,,Diseases of the eye and its adnexa,
 2012,,,Genitourinary system diseases,
@@ -79,13 +79,13 @@ Year,Sex,Age group,Disease Group,Value
 2013,,16-55,,
 2013,,56+,,
 2013,,,Circulatory system diseases,
-2013,,,including hypertensive disease,
+2013,,,Hypertensive disease,
 2013,,,"Endocrine, nutritional and metabolic diseases",
-2013,,,including diabetes mellitus,
+2013,,,Diabetes mellitus,
 2013,,,Respiratory system diseases,
 2013,,,Musculoskeletal system and connective tissue diseases,
 2013,,,Influencing factors of the health status and reasons for seeking health services,
-2013,,,including prophylaxis of rickets and anemia in children,
+2013,,,Prophylaxis of rickets and anemia in children,
 2013,,,Digestive system diseases ,
 2013,,,Diseases of the eye and its adnexa,
 2013,,,Genitourinary system diseases,
@@ -102,13 +102,13 @@ Year,Sex,Age group,Disease Group,Value
 2014,,16-55,,
 2014,,56+,,
 2014,,,Circulatory system diseases,
-2014,,,including hypertensive disease,
+2014,,,Hypertensive disease,
 2014,,,"Endocrine, nutritional and metabolic diseases",
-2014,,,including diabetes mellitus,
+2014,,,Diabetes mellitus,
 2014,,,Respiratory system diseases,
 2014,,,Musculoskeletal system and connective tissue diseases,
 2014,,,Influencing factors of the health status and reasons for seeking health services,
-2014,,,including prophylaxis of rickets and anemia in children,
+2014,,,Prophylaxis of rickets and anemia in children,
 2014,,,Digestive system diseases ,
 2014,,,Diseases of the eye and its adnexa,
 2014,,,Genitourinary system diseases,
@@ -125,13 +125,13 @@ Year,Sex,Age group,Disease Group,Value
 2015,,16-55,,20.3
 2015,,56+,,44.1
 2015,,,Circulatory system diseases,
-2015,,,including hypertensive disease,
+2015,,,Hypertensive disease,
 2015,,,"Endocrine, nutritional and metabolic diseases",
-2015,,,including diabetes mellitus,
+2015,,,Diabetes mellitus,
 2015,,,Respiratory system diseases,
 2015,,,Musculoskeletal system and connective tissue diseases,
 2015,,,Influencing factors of the health status and reasons for seeking health services,
-2015,,,including prophylaxis of rickets and anemia in children,
+2015,,,Prophylaxis of rickets and anemia in children,
 2015,,,Digestive system diseases ,
 2015,,,Diseases of the eye and its adnexa,
 2015,,,Genitourinary system diseases,
@@ -148,13 +148,13 @@ Year,Sex,Age group,Disease Group,Value
 2016,,16-55,,23.5
 2016,,56+,,49.3
 2016,,,Circulatory system diseases,
-2016,,,including hypertensive disease,
+2016,,,Hypertensive disease,
 2016,,,"Endocrine, nutritional and metabolic diseases",
-2016,,,including diabetes mellitus,
+2016,,,Diabetes mellitus,
 2016,,,Respiratory system diseases,
 2016,,,Musculoskeletal system and connective tissue diseases,
 2016,,,Influencing factors of the health status and reasons for seeking health services,
-2016,,,including prophylaxis of rickets and anemia in children,
+2016,,,Prophylaxis of rickets and anemia in children,
 2016,,,Digestive system diseases ,
 2016,,,Diseases of the eye and its adnexa,
 2016,,,Genitourinary system diseases,
@@ -171,13 +171,13 @@ Year,Sex,Age group,Disease Group,Value
 2017,,16-55,,26.4
 2017,,56+,,53.3
 2017,,,Circulatory system diseases,
-2017,,,including hypertensive disease,
+2017,,,Hypertensive disease,
 2017,,,"Endocrine, nutritional and metabolic diseases",
-2017,,,including diabetes mellitus,
+2017,,,Diabetes mellitus,
 2017,,,Respiratory system diseases,
 2017,,,Musculoskeletal system and connective tissue diseases,
 2017,,,Influencing factors of the health status and reasons for seeking health services,
-2017,,,including prophylaxis of rickets and anemia in children,
+2017,,,Prophylaxis of rickets and anemia in children,
 2017,,,Digestive system diseases ,
 2017,,,Diseases of the eye and its adnexa,
 2017,,,Genitourinary system diseases,
@@ -194,13 +194,13 @@ Year,Sex,Age group,Disease Group,Value
 2018,,16-55,,26.4
 2018,,56+,,53.7
 2018,,,Circulatory system diseases,
-2018,,,including hypertensive disease,
+2018,,,Hypertensive disease,
 2018,,,"Endocrine, nutritional and metabolic diseases",
-2018,,,including diabetes mellitus,
+2018,,,Diabetes mellitus,
 2018,,,Respiratory system diseases,
 2018,,,Musculoskeletal system and connective tissue diseases,
 2018,,,Influencing factors of the health status and reasons for seeking health services,
-2018,,,including prophylaxis of rickets and anemia in children,
+2018,,,Prophylaxis of rickets and anemia in children,
 2018,,,Digestive system diseases ,
 2018,,,Diseases of the eye and its adnexa,
 2018,,,Genitourinary system diseases,
@@ -217,13 +217,13 @@ Year,Sex,Age group,Disease Group,Value
 2019,,16-55,,27.7
 2019,,56+,,56.3
 2019,,,Circulatory system diseases,
-2019,,,including hypertensive disease,
+2019,,,Hypertensive disease,
 2019,,,"Endocrine, nutritional and metabolic diseases",
-2019,,,including diabetes mellitus,
+2019,,,Diabetes mellitus,
 2019,,,Respiratory system diseases,
 2019,,,Musculoskeletal system and connective tissue diseases,
 2019,,,Influencing factors of the health status and reasons for seeking health services,
-2019,,,including prophylaxis of rickets and anemia in children,
+2019,,,Prophylaxis of rickets and anemia in children,
 2019,,,Digestive system diseases ,
 2019,,,Diseases of the eye and its adnexa,
 2019,,,Genitourinary system diseases,
@@ -240,13 +240,13 @@ Year,Sex,Age group,Disease Group,Value
 2020,,16-55,,25.8
 2020,,56+,,54.1
 2020,,,Circulatory system diseases,
-2020,,,including hypertensive disease,
+2020,,,Hypertensive disease,
 2020,,,"Endocrine, nutritional and metabolic diseases",
-2020,,,including diabetes mellitus,
+2020,,,Diabetes mellitus,
 2020,,,Respiratory system diseases,
 2020,,,Musculoskeletal system and connective tissue diseases,
 2020,,,Influencing factors of the health status and reasons for seeking health services,
-2020,,,including prophylaxis of rickets and anemia in children,
+2020,,,Prophylaxis of rickets and anemia in children,
 2020,,,Digestive system diseases ,
 2020,,,Diseases of the eye and its adnexa,
 2020,,,Genitourinary system diseases,
@@ -263,13 +263,13 @@ Year,Sex,Age group,Disease Group,Value
 2021,,16-55,,27.7
 2021,,56+,,56.9
 2021,,,Circulatory system diseases,
-2021,,,including hypertensive disease,
+2021,,,Hypertensive disease,
 2021,,,"Endocrine, nutritional and metabolic diseases",
-2021,,,including diabetes mellitus,
+2021,,,Diabetes mellitus,
 2021,,,Respiratory system diseases,
 2021,,,Musculoskeletal system and connective tissue diseases,
 2021,,,Influencing factors of the health status and reasons for seeking health services,
-2021,,,including prophylaxis of rickets and anemia in children,
+2021,,,Prophylaxis of rickets and anemia in children,
 2021,,,Digestive system diseases ,
 2021,,,Diseases of the eye and its adnexa,
 2021,,,Genitourinary system diseases,
@@ -286,13 +286,13 @@ Year,Sex,Age group,Disease Group,Value
 2022,,16-55,,28.8
 2022,,56+,,57.7
 2022,,,Circulatory system diseases,
-2022,,,including hypertensive disease,
+2022,,,Hypertensive disease,
 2022,,,"Endocrine, nutritional and metabolic diseases",
-2022,,,including diabetes mellitus,
+2022,,,Diabetes mellitus,
 2022,,,Respiratory system diseases,
 2022,,,Musculoskeletal system and connective tissue diseases,
 2022,,,Influencing factors of the health status and reasons for seeking health services,
-2022,,,including prophylaxis of rickets and anemia in children,
+2022,,,Prophylaxis of rickets and anemia in children,
 2022,,,Digestive system diseases ,
 2022,,,Diseases of the eye and its adnexa,
 2022,,,Genitourinary system diseases,
@@ -309,13 +309,13 @@ Year,Sex,Age group,Disease Group,Value
 2023,,16-55,,26.8
 2023,,56+,,59.3
 2023,,,Circulatory system diseases,
-2023,,,including hypertensive disease,
+2023,,,Hypertensive disease,
 2023,,,"Endocrine, nutritional and metabolic diseases",
-2023,,,including diabetes mellitus,
+2023,,,Diabetes mellitus,
 2023,,,Respiratory system diseases,
 2023,,,Musculoskeletal system and connective tissue diseases,
 2023,,,Influencing factors of the health status and reasons for seeking health services,
-2023,,,including prophylaxis of rickets and anemia in children,
+2023,,,Prophylaxis of rickets and anemia in children,
 2023,,,Digestive system diseases ,
 2023,,,Diseases of the eye and its adnexa,
 2023,,,Genitourinary system diseases,
@@ -332,13 +332,13 @@ Year,Sex,Age group,Disease Group,Value
 2024,,16-55,,9.82
 2024,,56+,,62.22
 2024,,,Circulatory system diseases,
-2024,,,including hypertensive disease,
+2024,,,Hypertensive disease,
 2024,,,"Endocrine, nutritional and metabolic diseases",
-2024,,,including diabetes mellitus,
+2024,,,Diabetes mellitus,
 2024,,,Respiratory system diseases,
 2024,,,Musculoskeletal system and connective tissue diseases,
 2024,,,Influencing factors of the health status and reasons for seeking health services,
-2024,,,including prophylaxis of rickets and anemia in children,
+2024,,,Prophylaxis of rickets and anemia in children,
 2024,,,Digestive system diseases ,
 2024,,,Diseases of the eye and its adnexa,
 2024,,,Genitourinary system diseases,
@@ -355,13 +355,13 @@ Year,Sex,Age group,Disease Group,Value
 2025,,16-55,,12.95
 2025,,56+,,44.07
 2025,,,Circulatory system diseases,20.57
-2025,,,including hypertensive disease,20.32
+2025,,,Hypertensive disease,20.32
 2025,,,"Endocrine, nutritional and metabolic diseases",11.93
-2025,,,including diabetes mellitus,5.7
+2025,,,Diabetes mellitus,5.7
 2025,,,Respiratory system diseases,6.75
 2025,,,Musculoskeletal system and connective tissue diseases,1.28
 2025,,,Influencing factors of the health status and reasons for seeking health services,1.2
-2025,,,including prophylaxis of rickets and anemia in children,0.76
+2025,,,Prophylaxis of rickets and anemia in children,0.76
 2025,,,Digestive system diseases ,0.83
 2025,,,Diseases of the eye and its adnexa,0.69
 2025,,,Genitourinary system diseases,0.69

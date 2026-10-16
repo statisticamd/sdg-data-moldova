@@ -31,15 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Indicatorul este compus din 5 sub-indicatori care măsoară progresul privind  toate dimensiunile managementului durabil al pădurilor. Valorile de mediu ale  pădurilor sunt acoperite de trei sub-indicatori concentrați pe extinderea  zonei forestiere, biomasă în zona pădurii și protejarea și menținerea  diversității biologice și a resurselor culturale naturale și asociate.  Valorile sociale și economice ale pădurilor sunt reconciliate cu valorile de  mediu prin planurile de gestionare durabilă. Sub-indicatorul oferă o  calificare suplimentară pentru gestionarea suprafețelor forestiere, prin  evaluarea zonelor care sunt verificate independent pentru respectarea unui set  de standarde naționale sau internaționale.</p> 
-  <p>  Cei 5 sub-indicatori sunt:  1)Rata netă anuală de schimbare a suprafeței forestiere; 2) Rezervele de  biomasă supraterană în păduri; 3) Proporția de suprafață forestieră situată în  zonele de protecție legal stabilite; 4) Proporția de suprafață forestieră în  conformitate cu planul de gestionare a pădurilor pe termen lung; 5) Suprafața  forestieră în cadrul sistemului de certificare de gestionare a pădurilor  verificat independent </p>
+  <p>Indicatorul este compus din 5 sub-indicatori care măsoară progresul privind  toate dimensiunile managementului durabil al pădurilor. Valorile de mediu ale  pădurilor sunt acoperite de trei sub-indicatori concentrați pe extinderea  zonei forestiere, biomasă în zona pădurii și protejarea și menținerea  diversității biologice și a resurselor culturale naturale și asociate.  Valorile sociale și economice ale pădurilor sunt reconciliate cu valorile de  mediu prin planurile de gestionare durabilă. Sub-indicatorul oferă o  calificare suplimentară pentru gestionarea suprafețelor forestiere, prin  evaluarea zonelor care sunt verificate independent pentru respectarea unui set  de standarde naționale sau internaționale.</p>
+  <p>  Cei 5 sub-indicatori sunt:  1)Rata netă anuală de schimbare a suprafeței forestiere; 2) Rezervele de  biomasă supraterană în păduri; 3) Proporția de suprafață forestieră situată în  zonele de protecție legal stabilite; 4) Proporția de suprafață forestieră în  conformitate cu planul de gestionare a pădurilor pe termen lung; 5) Suprafața  forestieră în cadrul sistemului de certificare de gestionare a pădurilor  verificat independent</p>
 UNIT_MEASURE: >-
   Procent, mii m.c., mii ha
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Rapoartele de țară  prezentate pentru Programul de evaluare a resurselor  forestiere globale (FRA) al FAO;</p> 
-  <p>2) UNCE/FAO Forestry and Timber Section </p>
+  <p>1) Rapoartele de țară  prezentate pentru Programul de evaluare a resurselor  forestiere globale (FRA) al FAO;</p>
+  <p>2) UNCE/FAO Forestry and Timber Section</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -69,8 +69,8 @@ source_active_1: true
 source_organisation_1: >-
   Agenția "Moldsilva"
 source_periodicity_1: >-
-  <p> 1) o dată la 5 ani pentru sub-indicatorii 1-4;</p> 
-  <p>2) anual pentru  sub-indicatorul 5 </p>
+  <p>1) o dată la 5 ani pentru sub-indicatorii 1-4;</p>
+  <p>2) anual pentru  sub-indicatorul 5</p>
 source_url_1: >-
 source_url_text_1: >-
   Link la sursa de date

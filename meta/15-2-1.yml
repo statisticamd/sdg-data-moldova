@@ -31,15 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> The indicator is composed of 5 sub-indicators which measure the progress towards all these dimensions of sustainable forest management. The environmental values related to forests are covered by three sub-indicators focused on extension of the forestry area, biomass in the forests' area, and protection and maintenance of biological diversity and cultural, natural, and associated resources. Social and economic values of forests are reconciled with the environmental values via sustainable management plans. The sub-indicator offers an additional qualification for forest areas' management, by assessing the areas which are verified independently for observing a set of national and international standards.</p> 
-  <p>   The 5 sub-indicators area: 1) Net annual rate of forestry area change; 2) Reserves above-ground biomass in forests; 3) Proportion of forestry area situated in the legally established protection areas; 4) Proportion of forestry area in line with the long-term forests' management plan; 5) Forestry area within forests' management certification system, verified independently </p>
+  <p>The indicator is composed of 5 sub-indicators which measure the progress towards all these dimensions of sustainable forest management. The environmental values related to forests are covered by three sub-indicators focused on extension of the forestry area, biomass in the forests' area, and protection and maintenance of biological diversity and cultural, natural, and associated resources. Social and economic values of forests are reconciled with the environmental values via sustainable management plans. The sub-indicator offers an additional qualification for forest areas' management, by assessing the areas which are verified independently for observing a set of national and international standards.</p>
+  <p>   The 5 sub-indicators area: 1) Net annual rate of forestry area change; 2) Reserves above-ground biomass in forests; 3) Proportion of forestry area situated in the legally established protection areas; 4) Proportion of forestry area in line with the long-term forests' management plan; 5) Forestry area within forests' management certification system, verified independently</p>
 UNIT_MEASURE: >-
   Percent, thousands c.m., thousands ha
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Country Reports presented for the Program for Assessing Global Forestry Resources (FRA) of FAO;</p> 
-  <p>2) UNCE/FAO Forestry and Timber Section </p>
+  <p>1) Country Reports presented for the Program for Assessing Global Forestry Resources (FRA) of FAO;</p>
+  <p>2) UNCE/FAO Forestry and Timber Section</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -69,8 +69,8 @@ source_active_1: true
 source_organisation_1: >-
   Agency „Moldsilva”
 source_periodicity_1: >-
-  <p> 1) once every 5 years for sub-indicators 1-4 and;</p> 
-  <p>2) annual for sub-indicator  5 </p>
+  <p>1) once every 5 years for sub-indicators 1-4 and;</p>
+  <p>2) annual for sub-indicator  5</p>
 source_url_1: >-
 source_url_text_1: >-
   Link to data source
