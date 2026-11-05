@@ -4796,7 +4796,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Men",
                 "Women",
                 ""
