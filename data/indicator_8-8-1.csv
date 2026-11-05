@@ -23,7 +23,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2010,,Human health and social work activities,,,
 2010,,"Arts, entertainment and recreation",,,
 2010,,Other service activities,,,
-2010,,,Total,,91.4
+2010,,,,,91.4
 2010,,,Men,,124.8
 2010,,,Women,,60.2
 2010,,,,"Agriculture, forestry and fishing",
@@ -70,7 +70,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2011,,Human health and social work activities,,,
 2011,,"Arts, entertainment and recreation",,,
 2011,,Other service activities,,,
-2011,,,Total,,66.024
+2011,,,,,66.024
 2011,,,Men,,119.3
 2011,,,Women,,33
 2011,,,,"Agriculture, forestry and fishing",
@@ -117,7 +117,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2012,,Human health and social work activities,,,
 2012,,"Arts, entertainment and recreation",,,
 2012,,Other service activities,,,
-2012,,,Total,,64.419
+2012,,,,,64.419
 2012,,,Men,,91.5
 2012,,,Women,,49.9
 2012,,,,"Agriculture, forestry and fishing",
@@ -164,7 +164,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2013,,Human health and social work activities,,,
 2013,,"Arts, entertainment and recreation",,,
 2013,,Other service activities,,,
-2013,,,Total,,90.585
+2013,,,,,90.585
 2013,,,Men,,158.4
 2013,,,Women,,45.7
 2013,,,,"Agriculture, forestry and fishing",
@@ -211,7 +211,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2014,,Human health and social work activities,,,
 2014,,"Arts, entertainment and recreation",,,
 2014,,Other service activities,,,
-2014,,,Total,,80.029
+2014,,,,,80.029
 2014,,,Men,,150.9
 2014,,,Women,,31.4
 2014,,,,"Agriculture, forestry and fishing",
@@ -258,7 +258,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2015,,Human health and social work activities,,,
 2015,,"Arts, entertainment and recreation",,,
 2015,,Other service activities,,,
-2015,,,Total,,67.842
+2015,,,,,67.842
 2015,,,Men,,121.6
 2015,,,Women,,29.4
 2015,,,,"Agriculture, forestry and fishing",
@@ -305,7 +305,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2016,,Human health and social work activities,,,0
 2016,,"Arts, entertainment and recreation",,,0
 2016,,Other service activities,,,0
-2016,,,Total,,57.555
+2016,,,,,57.555
 2016,,,Men,,74.088
 2016,,,Women,,43.014
 2016,,,,"Agriculture, forestry and fishing",76.24
@@ -352,7 +352,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2017,,Human health and social work activities,,,0
 2017,,"Arts, entertainment and recreation",,,0
 2017,,Other service activities,,,0
-2017,,,Total,,67.953
+2017,,,,,67.953
 2017,,,Men,,94.521
 2017,,,Women,,44.238
 2017,,,,"Agriculture, forestry and fishing",61.165
@@ -399,7 +399,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2018,,Human health and social work activities,,,0
 2018,,"Arts, entertainment and recreation",,,8.2
 2018,,Other service activities,,,0
-2018,,,Total,,75.851
+2018,,,,,75.851
 2018,,,Men,,104.532
 2018,,,Women,,49.639
 2018,,,,"Agriculture, forestry and fishing",42.457
@@ -446,7 +446,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2019,,Human health and social work activities,,,3.3
 2019,,"Arts, entertainment and recreation",,,0
 2019,,Other service activities,,,0
-2019,,,Total,,73.096
+2019,,,,,73.096
 2019,,,Men,,105.6
 2019,,,Women,,43.437
 2019,,,,"Agriculture, forestry and fishing",65.863
@@ -493,7 +493,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2020,,Human health and social work activities,,,0
 2020,,"Arts, entertainment and recreation",,,0
 2020,,Other service activities,,,0
-2020,,,Total,,64.495
+2020,,,,,64.495
 2020,,,Men,,92.128
 2020,,,Women,,39.541
 2020,,,,"Agriculture, forestry and fishing",32.151
@@ -540,7 +540,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2021,,Human health and social work activities,,,0
 2021,,"Arts, entertainment and recreation",,,8.5
 2021,,Other service activities,,,16.9
-2021,,,Total,,83.996
+2021,,,,,83.996
 2021,,,Men,,111.929
 2021,,,Women,,58.728
 2021,,,,"Agriculture, forestry and fishing",46.412
@@ -587,7 +587,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2022,,Human health and social work activities,,,0
 2022,,"Arts, entertainment and recreation",,,0
 2022,,Other service activities,,,0
-2022,,,Total,,78.255
+2022,,,,,78.255
 2022,,,Men,,110.459
 2022,,,Women,,49.655
 2022,,,,"Agriculture, forestry and fishing",62.005
@@ -634,7 +634,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2023,,Human health and social work activities,,,1.527
 2023,,"Arts, entertainment and recreation",,,0
 2023,,Other service activities,,,0
-2023,,,Total,,87.981
+2023,,,,,87.981
 2023,,,Men,,124.555
 2023,,,Women,,55.652
 2023,,,,"Agriculture, forestry and fishing",27.287
@@ -681,7 +681,7 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2024,,Human health and social work activities,,,0
 2024,,"Arts, entertainment and recreation",,,0
 2024,,Other service activities,,,0
-2024,,,Total,,87.767
+2024,,,,,87.767
 2024,,,Men,,123.003
 2024,,,Women,,56.289
 2024,,,,"Agriculture, forestry and fishing",67.205
@@ -704,3 +704,50 @@ Year,"Fatal accidents, by sex","Fatal accidents, by economic activities","Non-fa
 2024,,,,Human health and social work activities,60.609
 2024,,,,"Arts, entertainment and recreation",79.416
 2024,,,,Other service activities,13.339
+2025,,,,,
+2025,Total,,,,2.9
+2025,Men,,,,5.5
+2025,Women,,,,0.6
+2025,,"Agriculture, forestry and fishing",,,31.6
+2025,,Industry,,,1
+2025,,Mining and quarrying,,,0
+2025,,Manufacturing,,,1.3
+2025,,"Electricity, gas, steam and air conditioning supply",,,0
+2025,,"Water supply; sewerage, waste management and remediation activities",,,0
+2025,,Construction,,,7
+2025,,Wholesale and retail trade; repair of motor vehicles and motorcycles,,,0
+2025,,Transportation and storage,,,8.3
+2025,,Accommodation and food service activities,,,0
+2025,,Information and communication,,,0
+2025,,Financial and insurance activities,,,0
+2025,,Real estate activities,,,0
+2025,,"Professional, scientific and technical activities",,,7
+2025,,Administrative and support service activities,,,0
+2025,,Public administration and defence; compulsory social security,,,2
+2025,,Education,,,1.1
+2025,,Human health and social work activities,,,0
+2025,,"Arts, entertainment and recreation",,,0
+2025,,Other service activities,,,0
+2025,,,,,89.5
+2025,,,Men,,119.5
+2025,,,Women,,62.7
+2025,,,,"Agriculture, forestry and fishing",66.5
+2025,,,,Industry,152.1
+2025,,,,Mining and quarrying,127.7
+2025,,,,Manufacturing,155.8
+2025,,,,"Electricity, gas, steam and air conditioning supply",143.1
+2025,,,,"Water supply; sewerage, waste management and remediation activities",134.2
+2025,,,,Construction,184.1
+2025,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,66.2
+2025,,,,Transportation and storage,174.1
+2025,,,,Accommodation and food service activities,93.9
+2025,,,,Information and communication,12.7
+2025,,,,Financial and insurance activities,58.4
+2025,,,,Real estate activities,52.2
+2025,,,,"Professional, scientific and technical activities",27.9
+2025,,,,Administrative and support service activities,54.5
+2025,,,,Public administration and defence; compulsory social security,150.1
+2025,,,,Education,37.3
+2025,,,,Human health and social work activities,80.4
+2025,,,,"Arts, entertainment and recreation",31.3
+2025,,,,Other service activities,23.7

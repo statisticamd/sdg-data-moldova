@@ -31,15 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Accident de muncă - eveniment care a produs vătămarea violentă a organismului  salariatului ca urmare a acțiunii unor factori de risc propriu unui element al  sistemului de muncă (executant, sarcini de muncă, mijloace de producție, mediu  de muncă), provocând pierderea temporară (3 zile și mai mult) sau permanentă a  capacității de muncă ori decesul salariatului.</p> 
-  <p>Accident mortal -  eveniment care a cauzat, imediat sau după un anumit interval de timp de la  producerea lui, decesul salariatului. </p>
+  <p>Accident de muncă - eveniment care a produs vătămarea violentă a organismului  salariatului ca urmare a acțiunii unor factori de risc propriu unui element al  sistemului de muncă (executant, sarcini de muncă, mijloace de producție, mediu  de muncă), provocând pierderea temporară (3 zile și mai mult) sau permanentă a  capacității de muncă ori decesul salariatului.</p>
+  <p>Accident mortal -  eveniment care a cauzat, imediat sau după un anumit interval de timp de la  producerea lui, decesul salariatului.</p>
 UNIT_MEASURE: >-
   La 100 000 salariați
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)Cercetarea statistică ”Accidentele de muncă”, </p> 
-  <p>2) Cercetarea statistică  ”Câștigurile salariale și costul forței de muncă” </p>
+  <p>1)Cercetarea statistică ”Accidentele de muncă”, </p>
+  <p>2) Cercetarea statistică  ”Câștigurile salariale și costul forței de muncă”</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -60,8 +60,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Accidentele mortale (conform definiției internaționale), sunt acele  accidente care au condus la decesul persoanei pe parcursul unui an din ziua  producerii accidentului, în legislația RM nu este specificată perioada  ”accident mortal - eveniment care a cauzat, imediat sau după un anumit  interval de timp de la producerea lui, decesul salariatului...”</p> 
-  <p>Nu se  includ angajații pe cont propriu și cei din sectorul informal. </p>
+  <p>Accidentele mortale (conform definiției internaționale), sunt acele  accidente care au condus la decesul persoanei pe parcursul unui an din ziua  producerii accidentului, în legislația RM nu este specificată perioada  ”accident mortal - eveniment care a cauzat, imediat sau după un anumit  interval de timp de la producerea lui, decesul salariatului...”</p>
+  <p>Nu se  includ angajații pe cont propriu și cei din sectorul informal.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

@@ -56,13 +56,12 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: When calculating the indicator they use the average salary per hour.</p> 
-  <p>National: when calculating the indicator, they use the monthly average salary </p>
+  <p>Global: When calculating the indicator they use the average salary per hour.</p>
+  <p>National: when calculating the indicator, they use the monthly average salary</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
 source_active_1: true
 source_organisation_1: >-
   National Bureau of Statistics

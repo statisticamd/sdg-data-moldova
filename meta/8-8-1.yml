@@ -31,15 +31,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Work accident - an event that produced violent injury of the employee's body  as a result of actions of some risk factors related to an element of the  labour system (executor, work tasks, production means, work environment),  leading to temporary (3 days or more) or permanent loss of employee's  workability or death of the employee.</p> 
-  <p>Fatal accident - an event which  caused, immediately or after a certain time interval from its occurrence, the  death of the employee. </p>
+  <p>Work accident - an event that produced violent injury of the employee's body  as a result of actions of some risk factors related to an element of the  labour system (executor, work tasks, production means, work environment),  leading to temporary (3 days or more) or permanent loss of employee's  workability or death of the employee.</p>
+  <p>Fatal accident - an event which  caused, immediately or after a certain time interval from its occurrence, the  death of the employee.</p>
 UNIT_MEASURE: >-
   Per 100 000 employees
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1)“Accidents at work” survey, </p> 
-  <p>2) Annual survey on earnings and labour force costs </p>
+  <p>1)“Accidents at work” survey, </p>
+  <p>2) Annual survey on earnings and labour force costs</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -60,8 +60,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Fatal accidents (according to the international definition) are the  accidents that have led to the death of the person during one year since the  day the accident occurred, the RM legislation does not specify the period  ”fatal accident - an event that has caused, immediately or after a certain  time since its occurrence, the death of the employee ...”</p> 
-  <p>They do not  include the own account employees and those from informal sector. </p>
+  <p>Fatal accidents (according to the international definition) are the  accidents that have led to the death of the person during one year since the  day the accident occurred, the RM legislation does not specify the period  ”fatal accident - an event that has caused, immediately or after a certain  time since its occurrence, the death of the employee ...”</p>
+  <p>They do not  include the own account employees and those from informal sector.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

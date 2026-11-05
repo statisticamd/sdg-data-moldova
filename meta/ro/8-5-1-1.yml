@@ -56,13 +56,12 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: La calcularea indicatorului se utilizează salariul mediu pe oră.</p> 
-  <p>Național: La calcularea indicatorului se utilizează salariul mediu pe lună. </p>
+  <p>Global: La calcularea indicatorului se utilizează salariul mediu pe oră.</p>
+  <p>Național: La calcularea indicatorului se utilizează salariul mediu pe lună.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
 un_designated_tier: >-
-  1
 source_active_1: true
 source_organisation_1: >-
   Biroul Național de Statistică

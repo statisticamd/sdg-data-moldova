@@ -31,26 +31,26 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Titlu de proprietate este actul prin care este autentificat dreptul de  deținere asupra terenului, eliberat de autoritățile administrației publice  locale, certificatul de moștenire, contractul de vânzare-cumpărare, contractul  de donație, contractul de schimb, contractul de arendă și altele (Titlu III,  Codul Civil). Deținători de terenuri sunt titularii dreptului de proprietate,  de posesiune, de beneficiere funciară. Deținătorii de terenuri cu titlu de  proprietate privată pot fi cetățeni ai Republicii Moldova și investitorii  străini, în conformitate cu legislația. Deținătorii de terenuri cu orice titlu  sunt protejați de stat. (Titlul III din Codul Civil, art. 4 din Codul  Funciar)</p> 
-  <p>  Persoană adultă se va considera persoana care a împlinit vârsta  legală  de 18 ani și este eligibilă pentru a i se atribui drepturi asupra   imobilelor. Mai multe detalii în Codul Civil, Articolul 20. </p> 
-  <p>Înregistrarea  dreptului asupra bunului imobil (în particular terenuri) se face în temeiul   documentelor, vezi art.28 din Legea Nr. 1543 din  25.02.1998  privind  cadastrul bunurilor imobile. </p>
+  <p>Titlu de proprietate este actul prin care este autentificat dreptul de  deținere asupra terenului, eliberat de autoritățile administrației publice  locale, certificatul de moștenire, contractul de vânzare-cumpărare, contractul  de donație, contractul de schimb, contractul de arendă și altele (Titlu III,  Codul Civil). Deținători de terenuri sunt titularii dreptului de proprietate,  de posesiune, de beneficiere funciară. Deținătorii de terenuri cu titlu de  proprietate privată pot fi cetățeni ai Republicii Moldova și investitorii  străini, în conformitate cu legislația. Deținătorii de terenuri cu orice titlu  sunt protejați de stat. (Titlul III din Codul Civil, art. 4 din Codul  Funciar)</p>
+  <p>  Persoană adultă se va considera persoana care a împlinit vârsta  legală  de 18 ani și este eligibilă pentru a i se atribui drepturi asupra   imobilelor. Mai multe detalii în Codul Civil, Articolul 20. </p>
+  <p>Înregistrarea  dreptului asupra bunului imobil (în particular terenuri) se face în temeiul   documentelor, vezi art.28 din Legea Nr. 1543 din  25.02.1998  privind  cadastrul bunurilor imobile.</p>
 UNIT_MEASURE: >-
   Procent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Registru al bunurilor imobile, capitolul A, care conține  înscrieri privind terenul </p> 
-  <p>  2) Statistica populației, Biroul Național de Statistică </p>
+  <p>1) Registru al bunurilor imobile, capitolul A, care conține  înscrieri privind terenul </p>
+  <p>  2) Statistica populației, Biroul Național de Statistică</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1) Agenția Servicii Publice</p> 
-  <p>  2) Biroul Național de Statistică </p>
+  <p>1) Agenția Servicii Publice</p>
+  <p>  2) Biroul Național de Statistică</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Agenția Servicii Publice</p> 
-  <p>  Ministerul Agriculturii, Dezvoltării Regionale  și Mediului </p>
+  <p>Agenția Servicii Publice</p>
+  <p>  Ministerul Agriculturii, Dezvoltării Regionale  și Mediului</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -70,8 +70,8 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1) Agenția Servicii Publice</p> 
-  <p>  2) Biroul Național de Statistică </p>
+  <p>1) Agenția Servicii Publice</p>
+  <p>  2) Biroul Național de Statistică</p>
 source_periodicity_1: >-
   anual
 source_url_1: >-

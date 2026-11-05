@@ -44,14 +44,14 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1.National Bureau of Statistics</p> 
-  <p>  2.Minsitry of Finance </p>
+  <p>1.National Bureau of Statistics</p>
+  <p>  2.Minsitry of Finance</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Volume of foreign assistance from all sources and from all donors, expressed  in USD, provided for enhancing the national statistical system.</p> 
-  <p>   Calculation is performed by transforming the financial amounts in USD using  the average exchange rate for the period of the project / year of the program.  If the payment amounts were reported, the average exchange rate for the period  of the payment year is used. </p>
+  <p>Volume of foreign assistance from all sources and from all donors, expressed  in USD, provided for enhancing the national statistical system.</p>
+  <p>   Calculation is performed by transforming the financial amounts in USD using  the average exchange rate for the period of the project / year of the program.  If the payment amounts were reported, the average exchange rate for the period  of the payment year is used.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

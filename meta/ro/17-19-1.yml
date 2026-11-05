@@ -44,14 +44,14 @@ REL_CAL_POLICY: ''
 DATA_SOURCE: >-
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Biroul Național de Statistică</p> 
-  <p>2. Ministerul Finanțelor </p>
+  <p>1. Biroul Național de Statistică</p>
+  <p>2. Ministerul Finanțelor</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Volumul asistenței externe, din toate sursele și, de la toți donatorii,  exprimată în dolari SUA acordate pentru consolidarea sistemului statistic  național.</p> 
-  <p>  Calcularea este efectuată prin transformarea sumelor financiare  în dolari SUA folosind rata medie de schimb pentru perioada proiectului /  anului de program. În cazurile sumele de plată au fost raportate, este  utilizată rata de schimb media perioadei anului de plată. </p>
+  <p>Volumul asistenței externe, din toate sursele și, de la toți donatorii,  exprimată în dolari SUA acordate pentru consolidarea sistemului statistic  național.</p>
+  <p>  Calcularea este efectuată prin transformarea sumelor financiare  în dolari SUA folosind rata medie de schimb pentru perioada proiectului /  anului de program. În cazurile sumele de plată au fost raportate, este  utilizată rata de schimb media perioadei anului de plată.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

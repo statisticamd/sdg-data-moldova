@@ -31,26 +31,26 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Property title is the document legalising the tenure right for land, issued by  local public administration authorities, inheritance certificate,  sale-purchase contract, donation contract, exchange contract, rent contract  and other (Title III, Civil Code). Land holders are the holders of the tenure,  possession and land benefiting right. Private property land holders may be  citizens of the Republic of Moldova and foreign investors, in line with the  legislation. Land holders with any tenure right are protected by the state.  (Title III of the Civil Code, art. 4 of the Land Code)</p> 
-  <p>  An adult person is  the person who has legally turned 18 years old and is eligible to be assigned  immovable property rights. More details, see in the Civil Code, article  20.</p> 
-  <p>  Registration of the right for immovable property (especially land  plots) is carried out based on the documents  - see art.28 of the Law No.1543  dated 25.02.1998 on Real Estate Cadastre. </p>
+  <p>Property title is the document legalising the tenure right for land, issued by  local public administration authorities, inheritance certificate,  sale-purchase contract, donation contract, exchange contract, rent contract  and other (Title III, Civil Code). Land holders are the holders of the tenure,  possession and land benefiting right. Private property land holders may be  citizens of the Republic of Moldova and foreign investors, in line with the  legislation. Land holders with any tenure right are protected by the state.  (Title III of the Civil Code, art. 4 of the Land Code)</p>
+  <p>  An adult person is  the person who has legally turned 18 years old and is eligible to be assigned  immovable property rights. More details, see in the Civil Code, article  20.</p>
+  <p>  Registration of the right for immovable property (especially land  plots) is carried out based on the documents  - see art.28 of the Law No.1543  dated 25.02.1998 on Real Estate Cadastre.</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Real Estate Register, chapter A, having entries regarding land  plots  </p> 
-  <p>  2) Population statistics, National Bureau of Statistics </p>
+  <p>1) Real Estate Register, chapter A, having entries regarding land  plots  </p>
+  <p>  2) Population statistics, National Bureau of Statistics</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: >-
-  <p> 1. Public Services Agency</p> 
-  <p>  2. National Bureau of Statistics </p>
+  <p>1. Public Services Agency</p>
+  <p>  2. National Bureau of Statistics</p>
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> 1. Public Services Agency</p> 
-  <p>  2. Ministry of Agriculture, Regional  Development and Environment </p>
+  <p>1. Public Services Agency</p>
+  <p>  2. Ministry of Agriculture, Regional  Development and Environment</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
@@ -70,8 +70,8 @@ un_designated_tier: >-
   2
 source_active_1: true
 source_organisation_1: >-
-  <p> 1. Public Services Agency</p> 
-  <p>  2. National Bureau of Statistics </p>
+  <p>1. Public Services Agency</p>
+  <p>  2. National Bureau of Statistics</p>
 source_periodicity_1: >-
   Annual
 source_url_1: >-
