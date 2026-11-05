@@ -15,16 +15,6 @@
             "type": "number"
           },
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Women",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
