@@ -50,7 +50,7 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  Numărul persoanelor aflate în arest preventiv, raportat la numărul total al  persoanelor aflate în detenție, la o dată specificată*100%
+  Numărul persoanelor aflate în arest preventiv, raportat la numărul total al  persoanelor aflate în detenție, la o dată specificată * 100%
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -58,13 +58,13 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Diferă grupele de vârstă:</p> 
-  <p>Național 15-24, Global (15-20)</p> 
-  <p>25-34 (21-29)</p> 
-  <p>35-44 (30-39)</p> 
-  <p>45-54 (40-49)</p> 
-  <p>55+  (50-59)</p> 
-  <p>60+ (60+) </p>
+  <p>Diferă grupele de vârstă:</p>
+  <p>Național 15-24, Global (15-20)</p>
+  <p>25-34 (21-29)</p>
+  <p>35-44 (30-39)</p>
+  <p>45-54 (40-49)</p>
+  <p>55+  (50-59)</p>
+  <p>60+ (60+)</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''

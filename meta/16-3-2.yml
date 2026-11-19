@@ -58,13 +58,13 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Age groups are different:</p> 
-  <p>National 15-24, Global  (15-20)</p> 
-  <p>25-34 (21-29)</p> 
-  <p>35-44 (30-39)</p> 
-  <p>45-54 (40-49)</p> 
-  <p>55+  (50-59)</p> 
-  <p>60+ (60+) </p>
+  <p>Age groups are different:</p>
+  <p>National 15-24, Global  (15-20)</p>
+  <p>25-34 (21-29)</p>
+  <p>35-44 (30-39)</p>
+  <p>45-54 (40-49)</p>
+  <p>55+  (50-59)</p>
+  <p>60+ (60+)</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
