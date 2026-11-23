@@ -11,7 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-1,"Area of residence, Sex, Age group, Sub-indicators",4
 #1-4-2-a,"Sex, Age group",2
 #1-5-1-a,"Sex, Age group, Classes of disasters",3
-#1-5-1-b,"Sex, Age group, Classes of disasters, Districts",4
+#1-5-1-b,"Sex, Age group, Districts, Classes of disasters",4
 #1-5-1-c,"Age group, Classes of disasters",2
 #1-5-2,Classes of disasters,1
 #1-5-4,Level of local government authorities,1
@@ -77,7 +77,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3-2,Indicator,1
 #17-6-1,"Area of residence, Regions, Speeds",3
 #2-1-2,Age group / Sex,1
-#2-2-3,"Age group, Regions, Indicators",3
+#2-2-3,"Indicators, Regions, Age group",3
 #2-4-1,Indicators,1
 #2-5-1,"Animal genetic resources, Plant genetic resources (samples)",2
 #2-5-2,"Cattle, Sheep",2
@@ -95,10 +95,10 @@ Indicator,Disaggregations,Number of disaggregations
 #3-6-1,Sex,1
 #3-7-2,"Births at the age of 15-19 years old, Births at the age of 10-14 years old",2
 #3-8-1-1,"Sex, Age group, Disease group",3
-#3-8-2-1,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Age group of the reference person, years",4
+#3-8-2-1,"Area of residence, Sex of the head of the household, Age group of the reference person, years, Quintiles on consumption expenditures",4
 #3-8-2-2,"Area of residence, Sex, Age group, Quintiles on consumption expenditures",4
-#3-8-2-a,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Age group of the reference person, years, Household type",5
-#3-8-2-b,"Area of residence, Sex of the head of the household, Quintiles on consumption expenditures, Age group of the reference person, years, Household type",5
+#3-8-2-a,"Area of residence, Sex of the head of the household, Age group of the reference person, years, Quintiles on consumption expenditures, Household type",5
+#3-8-2-b,"Area of residence, Sex of the head of the household, Age group of the reference person, years, Quintiles on consumption expenditures, Household type",5
 #3-9-1,Sex,1
 #3-9-2,Sex,1
 #3-9-3,Sex,1
@@ -138,10 +138,10 @@ Indicator,Disaggregations,Number of disaggregations
 #5-6-1,"Area of residence, Age group, Educational level, Wealth quintiles, Occupational status, Marital status",6
 #5-6-2-1,Componente,1
 #5-b-1-1,"Area of residence, Sex of the head of the household",2
-#6-1-1,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the reference person",4
+#6-1-1,"Area of residence, Quintiles on consumption expenditures, Statistical regions, Sex of the reference person",4
 #6-1-1-1,Area of residence,1
-#6-2-1-1,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the reference person",4
-#6-2-1-a,"Area of residence, Statistical regions, Quintiles on consumption expenditures, Sex of the reference person, Type of sewerage",5
+#6-2-1-1,"Area of residence, Quintiles on consumption expenditures, Statistical regions, Sex of the reference person",4
+#6-2-1-a,"Area of residence, Quintiles on consumption expenditures, Statistical regions, Sex of the reference person, Type of sewerage",5
 #6-3-1,"Economic activities, Rayons/Municipalities that have treatment plants",2
 #6-3-2-1,Types of sources,1
 #6-4-1,Economic activities,1
@@ -171,6 +171,7 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-2-a,Modes of transport,1
 #9-1-2-b,Modes of transport,1
 #9-2-2,"Sex, Age group, Statistical regions, Occupations",4
+#9-3-1-a,"2024, 74.475264815142367, 18358050.239047348, 24649862.319542605, 74.475264815142367.1",5
 #9-4-1-1,Emission sectors,1
 #9-5-2,Sex,1
 #9-c-1,Type of technology,1
