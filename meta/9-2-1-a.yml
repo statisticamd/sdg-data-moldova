@@ -32,8 +32,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Gross value added (GVA) is the balance of the production account and is  measured as the difference between the value of manufactured goods and  services (assessed at the basic prices) and the intermediary consumption  (assessed at the buyer's prices), hence representing the newly created value  in the production process. GVA is distributed by economic activities according  to  NACE rev.2.</p> 
-  <p>  Manufacturing industry = section C from CAEM Rev.2 </p>
+  <p>Gross value added (GVA) is the balance of the production account and is  measured as the difference between the value of manufactured goods and  services (assessed at the basic prices) and the intermediary consumption  (assessed at the buyer's prices), hence representing the newly created value  in the production process. GVA is distributed by economic activities according  to  NACE rev.2.</p>
+  <p>  Manufacturing industry = section C from CAEM Rev.2</p>
 UNIT_MEASURE: >-
   Percent, %
 CLASS_SYSTEM: ''
@@ -51,8 +51,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Gross Value Added (GVA) obtained by economic activity "Manufacturing industry"  as a proportion of the Gross Domestic Product (GDP); current prices.</p> 
-  <p>   Contribution of GVA in manufacturing industry to setting the GDP = GVA  manufacturing industry / GDP *100. </p>
+  <p>Gross Value Added (GVA) obtained by economic activity "Manufacturing industry"  as a proportion of the Gross Domestic Product (GDP); current prices.</p>
+  <p>   Contribution of GVA in manufacturing industry to setting the GDP = GVA  manufacturing industry / GDP *100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

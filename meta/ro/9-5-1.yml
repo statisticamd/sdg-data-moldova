@@ -32,15 +32,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Cheltuielile pentru cercetare-dezvoltare ca proporție din Produsul Intern Brut (PIB) reprezintă suma cheltuielilor pentru cercetare-dezvoltare împărțită la producția totală a economiei.</p> 
-  <p>Cheltuielile interne de cercetare-dezvoltare reprezintă suma de bani cheltuită pentru cercetarea-dezvoltarea care se realizează în cadrul unei unități de raportare. </p>
+  <p>Cheltuielile pentru cercetare-dezvoltare ca proporție din Produsul Intern Brut (PIB) reprezintă suma cheltuielilor pentru cercetare-dezvoltare împărțită la producția totală a economiei.</p>
+  <p>Cheltuielile interne de cercetare-dezvoltare reprezintă suma de bani cheltuită pentru cercetarea-dezvoltarea care se realizează în cadrul unei unități de raportare.</p>
 UNIT_MEASURE: >-
   Procent (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Cercetarea statistică nr.1 știința "Activitatea de cercetare dezvoltare"</p> 
-  <p>2) PIB </p>
+  <p>1) Cercetarea statistică nr.1 știința "Activitatea de cercetare dezvoltare"</p>
+  <p>2) PIB</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -53,8 +53,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Cheltuielile interne totale pentru cercetare-dezvoltare ca proporție din Produsul Intern Brut (PIB).</p> 
-  <p>Intensitatea Cercetării-dezvoltării = Cheltuielile interne totale pentru cercetare-dezvoltare/ PIB*100 </p>
+  <p>Cheltuielile interne totale pentru cercetare-dezvoltare ca proporție din Produsul Intern Brut (PIB).</p>
+  <p>Intensitatea Cercetării-dezvoltării = Cheltuielile interne totale pentru cercetare-dezvoltare/ PIB*100</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,10 +62,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Sfera de cuprindere a Cercetării statistice în domeniul cercetare-dezvoltare: </p> 
-  <p>    Organizațiile de drept public din domenul cercetării: institutele de cercetare, precum și instituțiile publice care au structuri/centre care desfășoară activitatea de cercetare-dezvoltare (instituții medico-sanitare, muzee), instituțiile de învățământ superior; </p> 
-  <p>    Organizațiile de drept privat din domenul cercetării: întreprinderile și organizațiile din mediul de afaceri cu activitatea principală sau secundară cercetare-dezvoltare conform  CAEM  rev.2, diviziunea M-72, instituțiile de învățământ superior. </p> 
-  <p>Regulamentul (UE): Statisticile urmează să fie întocmite pentru activitatea de cercetare-dezvoltare efectuată în întreaga economie. </p>
+  <p>Sfera de cuprindere a Cercetării statistice în domeniul cercetare-dezvoltare: </p>
+  <p>    Organizațiile de drept public din domenul cercetării: institutele de cercetare, precum și instituțiile publice care au structuri/centre care desfășoară activitatea de cercetare-dezvoltare (instituții medico-sanitare, muzee), instituțiile de învățământ superior; </p>
+  <p>    Organizațiile de drept privat din domenul cercetării: întreprinderile și organizațiile din mediul de afaceri cu activitatea principală sau secundară cercetare-dezvoltare conform  CAEM  rev.2, diviziunea M-72, instituțiile de învățământ superior. </p>
+  <p>Regulamentul (UE): Statisticile urmează să fie întocmite pentru activitatea de cercetare-dezvoltare efectuată în întreaga economie.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -77,6 +77,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   anual
 source_url_1: >-
+  Link la sursa de date
 source_url_text_1: >-
 source_contact_1: >-
 source_other_info_1: >-

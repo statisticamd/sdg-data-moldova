@@ -58,8 +58,8 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> Global: teaching personnel with minimum level of education to teach according   to national requirements                     </p> 
-  <p>National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year. </p>
+  <p>Global: teaching personnel with minimum level of education to teach according   to national requirements                     </p>
+  <p>National: teaching  personnel with education in pedagogical area or psycho-pedagogical courses of  one year.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -72,6 +72,6 @@ source_periodicity_1: >-
   Annual
 source_url_1: >-
 source_url_text_1: >-
-  Link to source
+  Link to data source
 source_contact_1: >-
 source_other_info_1: >-

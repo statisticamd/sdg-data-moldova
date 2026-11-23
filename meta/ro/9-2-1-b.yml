@@ -32,8 +32,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Valoarea adăugată brută (VAB) este  soldul  contului de producție și se  măsoară ca diferența dintre valoarea bunurilor și serviciilor produse  (evaluate la prețuri de bază) și consumul intermediar (evaluat la prețurile  cumpărătorului), reprezentând deci valoarea nou creată în procesul de  producție.  VAB este repartizată pe activități economice conform NACE  rev.2.</p> 
-  <p>  Industria prelucrătoare = secțiunea C din CAEM Rev.2 </p>
+  <p>Valoarea adăugată brută (VAB) este  soldul  contului de producție și se  măsoară ca diferența dintre valoarea bunurilor și serviciilor produse  (evaluate la prețuri de bază) și consumul intermediar (evaluat la prețurile  cumpărătorului), reprezentând deci valoarea nou creată în procesul de  producție.  VAB este repartizată pe activități economice conform NACE  rev.2.</p>
+  <p>  Industria prelucrătoare = secțiunea C din CAEM Rev.2</p>
 UNIT_MEASURE: >-
   lei,  prețuri constante
 CLASS_SYSTEM: ''

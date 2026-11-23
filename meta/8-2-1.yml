@@ -49,11 +49,11 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The annual growth rate of real GDP per employed person represents the ratio of  GDP in comparable prices per total employed population. The GDP per employed  person represents the ration between the annual GDP (year of reference)  recalculated in the prices of the previous year in relation to the number of  employed population in the year of reference.</p> 
-  <p>  G= [GDP per employed  person, comparable prices / GDP per employed person (t-1) current prices]*100,  where:</p> 
-  <p>  (G) - annual growth rate;</p> 
-  <p>  (t) - year of reference;</p> 
-  <p>  (t-1)  - previous year. </p>
+  <p>The annual growth rate of real GDP per employed person represents the ratio of  GDP in comparable prices per total employed population. The GDP per employed  person represents the ration between the annual GDP (year of reference)  recalculated in the prices of the previous year in relation to the number of  employed population in the year of reference.</p>
+  <p>  G= [GDP per employed  person, comparable prices / GDP per employed person (t-1) current prices]*100,  where:</p>
+  <p>  (G) - annual growth rate;</p>
+  <p>  (t) - year of reference;</p>
+  <p>  (t-1)  - previous year.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

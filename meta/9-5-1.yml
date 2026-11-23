@@ -32,15 +32,15 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  <p> Research and development (R&D) expenditure as a proportion of Gross Domestic Product (GDP) is the amount of Research and development (R&D) expenditure divided by the total output of the economy.</p> 
-  <p>Expenditures on intramural research and development (R&D) represent the amount of money spent on research and development (R&D) that is performed within a reporting unit. </p>
+  <p>Research and development (R&D) expenditure as a proportion of Gross Domestic Product (GDP) is the amount of Research and development (R&D) expenditure divided by the total output of the economy.</p>
+  <p>Expenditures on intramural research and development (R&D) represent the amount of money spent on research and development (R&D) that is performed within a reporting unit.</p>
 UNIT_MEASURE: >-
   Percent (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  <p> 1) Statistical survey N.1-science "Research and development activity"  </p> 
-  <p>2) GDP </p>
+  <p>1) Statistical survey N.1-science "Research and development activity"  </p>
+  <p>2) GDP</p>
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -53,8 +53,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> The total intramural expenditure on R&D as a proportion of Gross Domestic Product (GDP).  </p> 
-  <p>R&Dintensity =The total intramural expenditure on R&D/ GDP*100 </p>
+  <p>The total intramural expenditure on R&D as a proportion of Gross Domestic Product (GDP).  </p>
+  <p>R&Dintensity =The total intramural expenditure on R&D/ GDP*100</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -62,10 +62,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: >-
-  <p> The scope of the Statistical research in the research and development field:</p> 
-  <p>     Organizations under public law in the field of research: research institutes, as well as public institutions that have structures/centers carrying out research and development activity (medical and sanitary institutions, museums), higher education institutions;</p> 
-  <p>     Private law organizations in the field of research: enterprises and organizations in the business environment with the main or secondary research and development activity according to NACE rev.2 (CAEM rev.2), division M-72, higher education institutions.</p> 
-  <p>Regulation (UE): The statistics are to be compiled for R&D activity performed in the whole economy. </p>
+  <p>The scope of the Statistical research in the research and development field:</p>
+  <p>     Organizations under public law in the field of research: research institutes, as well as public institutions that have structures/centers carrying out research and development activity (medical and sanitary institutions, museums), higher education institutions;</p>
+  <p>     Private law organizations in the field of research: enterprises and organizations in the business environment with the main or secondary research and development activity according to NACE rev.2 (CAEM rev.2), division M-72, higher education institutions.</p>
+  <p>Regulation (UE): The statistics are to be compiled for R&D activity performed in the whole economy.</p>
 OTHER_DOC: ''
 national_data_updated_date: ''
 national_metadata_updated_date: ''
@@ -77,6 +77,7 @@ source_organisation_1: >-
 source_periodicity_1: >-
   Annual
 source_url_1: >-
+  Link to data source
 source_url_text_1: >-
 source_contact_1: >-
 source_other_info_1: >-

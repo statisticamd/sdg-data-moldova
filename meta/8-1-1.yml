@@ -44,17 +44,17 @@ DATA_SOURCE: >-
   National Bureau of Statistics
 COMPILING_ORG: ''
 INST_MANDATE: >-
-  <p> Ministry of Economic Development and Digitalization</p> 
-  <p>Ministry of Agriculture and Food Industry </p>
+  <p>Ministry of Economic Development and Digitalization</p>
+  <p>Ministry of Agriculture and Food Industry</p>
 OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Annual growth rate of the Gross Domestic Product (GDP) per capita represents  the percentage variation of GDP per capita between two consecutive years. GDP  per capita represents the ratio between the annual GDP (year of reference)  recalculated in prices of the previous year and the annual average number of  population during the year of reference.</p> 
-  <p>  G= [GDP per capita (t),  comparable prices  / GDP per capita (t-1) current price]*100, where:</p> 
-  <p>  (G)  - annual growth rate;</p> 
-  <p>  (t) - year of reference;</p> 
-  <p>  (t-1) - previous  year. </p>
+  <p>Annual growth rate of the Gross Domestic Product (GDP) per capita represents  the percentage variation of GDP per capita between two consecutive years. GDP  per capita represents the ratio between the annual GDP (year of reference)  recalculated in prices of the previous year and the annual average number of  population during the year of reference.</p>
+  <p>  G= [GDP per capita (t),  comparable prices  / GDP per capita (t-1) current price]*100, where:</p>
+  <p>  (G)  - annual growth rate;</p>
+  <p>  (t) - year of reference;</p>
+  <p>  (t-1) - previous  year.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

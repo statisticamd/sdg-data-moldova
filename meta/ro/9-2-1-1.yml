@@ -8,8 +8,8 @@ SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_INDICATOR_INFO: >-
 SDG_INDICATOR_INFO__GLOBAL: >-
-  <p> Valoarea adăugată brută (VAB) este  soldul  contului de producție și se  măsoară ca diferența dintre valoarea bunurilor și serviciilor produse  (evaluate la prețuri de bază) și consumul intermediar (evaluat la prețurile  cumpărătorului), reprezentând deci valoarea nou creată în procesul de  producție.  VAB este repartizată pe activități economice conform NACE  rev.2.</p> 
-  <p>  Industria prelucrătoare = secțiunea C din CAEM Rev.2 </p>
+  <p>Valoarea adăugată brută (VAB) este  soldul  contului de producție și se  măsoară ca diferența dintre valoarea bunurilor și serviciilor produse  (evaluate la prețuri de bază) și consumul intermediar (evaluat la prețurile  cumpărătorului), reprezentând deci valoarea nou creată în procesul de  producție.  VAB este repartizată pe activități economice conform NACE  rev.2.</p>
+  <p>  Industria prelucrătoare = secțiunea C din CAEM Rev.2</p>
 SDG_GOAL: ''
 target_id: >-
   9.2

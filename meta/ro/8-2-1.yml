@@ -49,11 +49,11 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Rata anuală de creștere a Produsului intern brut (PIB) pe o persoana ocupata  reprezintă raportul PIB in preturi comparabile la total populație ocupata.   PIB pe persoana ocupata reprezintă raportul dintre PIB anual (anul de  referință) recalculat în prețurile anului precedent la numărul populației  ocupate în anului de referință.</p> 
-  <p>  G= [PIB pe persoana ocupata(t), prețuri  comparabile / PIB pe persoane ocupata(t-1)prețuri curente]*100, unde:</p> 
-  <p>  (G)  - rata anuală de creștere;</p> 
-  <p>  (t) - anul de referință;</p> 
-  <p>  (t-1) - anul  precedent. </p>
+  <p>Rata anuală de creștere a Produsului intern brut (PIB) pe o persoana ocupata  reprezintă raportul PIB in preturi comparabile la total populație ocupata.   PIB pe persoana ocupata reprezintă raportul dintre PIB anual (anul de  referință) recalculat în prețurile anului precedent la numărul populației  ocupate în anului de referință.</p>
+  <p>  G= [PIB pe persoana ocupata(t), prețuri  comparabile / PIB pe persoane ocupata(t-1)prețuri curente]*100, unde:</p>
+  <p>  (G)  - rata anuală de creștere;</p>
+  <p>  (t) - anul de referință;</p>
+  <p>  (t-1) - anul  precedent.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

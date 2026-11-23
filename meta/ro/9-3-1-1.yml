@@ -49,8 +49,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Valoarea adăugată brută (VAB) obținută pe ÎMM raportată la Valoarea adăugată  brută (VAB) total pe economie; prețuri curente.</p> 
-  <p>  Contribuția VAB a ÎMM la  formarea VAB total pe economie = VAB ÎMM / VAB total pe economie *100. </p>
+  <p>Valoarea adăugată brută (VAB) obținută pe ÎMM raportată la Valoarea adăugată  brută (VAB) total pe economie; prețuri curente.</p>
+  <p>  Contribuția VAB a ÎMM la  formarea VAB total pe economie = VAB ÎMM / VAB total pe economie *100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

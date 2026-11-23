@@ -1,8 +1,8 @@
 composite_breakdown_label: ''
 computation_units: Procent, %
 copyright: ''
-data_footnote: <p> Din anul 2015 calculele sunt elaborate conform numarului mediu anual al populatiei cu resedinta obisnuita.</p> 
-  <p>Din anul 2020 datele sunt disponibile conform numarului mediu anual al populatiei cu resedinta obisnuita si pe regiuni de dezvoltare. </p>
+data_footnote: <p>Din anul 2015 calculele sunt elaborate conform numarului mediu anual al populatiei cu resedinta obisnuita.</p>
+  <p>Din anul 2020 datele sunt disponibile conform numarului mediu anual al populatiei cu resedinta obisnuita si pe regiuni de dezvoltare.</p>
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -24,7 +24,8 @@ graph_target_lines: []
 graph_title: national_indicators.8-1-1-graph
 graph_titles: []
 graph_type: line
-indicator_name: national_indicators.8-1-1-title
+indicator_available: national_indicators.8-1-1-title
+indicator_name: global_indicators.8-1-1-title
 indicator_number: 8.1.1
 indicator_tabs:: 
   override: false

@@ -49,8 +49,8 @@ OTHER_METHOD: >-
 RATIONALE: ''
 REC_USE_LIM: ''
 DATA_COMP: >-
-  <p> Gross Value Added (GVA) obtained by SME as proportion of the total Gross Value  Added (GVA) in economy; current prices.</p> 
-  <p>  GVA contribution of SMEs to  setting the total GVA in economy = GVA SME / GVA total in economy*100. </p>
+  <p>Gross Value Added (GVA) obtained by SME as proportion of the total Gross Value  Added (GVA) in economy; current prices.</p>
+  <p>  GVA contribution of SMEs to  setting the total GVA in economy = GVA SME / GVA total in economy*100.</p>
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
